@@ -1,0 +1,71 @@
+# Lista de transformações (Passo 2.5)
+# Formato: s/regex/substituto/flags
+# Flags suportadas: i (ignorecase), g (global), m (multiline), s (dotall)
+# Dica: use padrões conservadores; timestamps (hh:mm:ss) devem ser preservados.
+
+# --- Remoção de marcadores não-verbais comuns ---
+s/\[\s*(m[úu]sica|musica)\s*\]/ /gi
+s/\[\s*aplausos?\s*\]/ /gi
+s/\[\s*risos?\s*\]/ /gi
+s/\[\s*palmas?\s*\]/ /gi
+s/\[\s*ru[ií]dos?\s*\]/ /gi
+s/\[\s*barulhos?\s*\]/ /gi
+s/\[\s*gritos?\s*\]/ /gi
+s/\[\s*choros?\s*\]/ /gi
+s/\[\s*suspiros?\s*\]/ /gi
+s/\[\s*inaud[ií]vel\s*\]/ /gi
+s/\[\s*incompreens[ií]vel\s*\]/ /gi
+
+# Versões entre parênteses dos mesmos marcadores
+s/\(\s*(m[úu]sica|musica)\s*\)/ /gi
+s/\(\s*aplausos?\s*\)/ /gi
+s/\(\s*risos?\s*\)/ /gi
+s/\(\s*palmas?\s*\)/ /gi
+s/\(\s*ru[ií]dos?\s*\)/ /gi
+s/\(\s*barulhos?\s*\)/ /gi
+s/\(\s*gritos?\s*\)/ /gi
+s/\(\s*choros?\s*\)/ /gi
+s/\(\s*suspiros?\s*\)/ /gi
+s/\(\s*inaud[ií]vel\s*\)/ /gi
+s/\(\s*incompreens[ií]vel\s*\)/ /gi
+
+# Notas musicais
+s/[♪♫]+/ /g
+
+# --- Normalizações de pontuação e espaços ---
+# Aspas tipográficas → ASCII
+s/[“”]/"/g
+s/[‘’]/'/g
+
+# Travessão/Meia-risca → hífen
+s/[–—]/-/g
+
+# Reticências Unicode → três pontos
+s/…/.../g
+
+# Pontuação repetida
+s/([!?.,])\1+/$1/g
+
+# Espaços múltiplos → simples (não quebra timestamps)
+s/[ \t]{2,}/ /gm
+
+# Espaços à direita
+s/[ \t]+$//gm
+
+# BOM no início
+s/^\ufeff//m
+
+# --- Correções ortográficas informais comuns (opcional, revise conforme necessidade) ---
+s/\bn[ée]\b/não é/gi
+s/\bvc\b/você/gi
+s/\bqdo\b/quando/gi
+s/\btd[ao]?s?\b/todos/gi
+s/\bmt[oa]?\b/muito/gi
+s/\bpq\b/porque/gi
+s/\bobs\b/observação/gi
+
+# --- Remoção de marcadores HTML remanescentes (se aparecerem) ---
+s/<[^>]+>//g
+
+# Observação: para regras específicas por canal, crie
+# downloads/<slug>/transforms.txt e o script usará esse arquivo no lugar deste.
