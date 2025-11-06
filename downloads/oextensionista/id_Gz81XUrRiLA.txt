@@ -1,0 +1,9 @@
+video_id: Gz81XUrRiLA
+video_url: https://www.youtube.com/watch?v=Gz81XUrRiLA
+title: Crédito Rural – Pronaf Jovem: posso pegar 20 mil reais?
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/26/2022

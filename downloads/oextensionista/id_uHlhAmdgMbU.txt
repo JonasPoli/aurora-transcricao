@@ -1,0 +1,8 @@
+video_id: uHlhAmdgMbU
+video_url: https://www.youtube.com/watch?v=uHlhAmdgMbU
+title: #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2025

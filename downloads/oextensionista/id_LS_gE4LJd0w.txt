@@ -1,0 +1,8 @@
+video_id: LS_gE4LJd0w
+video_url: https://www.youtube.com/watch?v=LS_gE4LJd0w
+title: Ações com PCDs na Extensão Social
+uploader: O Extensionista
+speaker: Flávia Maria de Oliveira Ott – Epagri
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/19/2024

@@ -1,0 +1,8 @@
+video_id: lXVfu12LLIs
+video_url: https://www.youtube.com/watch?v=lXVfu12LLIs
+title: Produção e consumo de ovos no Brasil #agro #avicultura #ovo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/20/2025

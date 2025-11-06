@@ -1,0 +1,9 @@
+video_id: R9dGSSfPldo
+video_url: https://www.youtube.com/watch?v=R9dGSSfPldo
+title: Agricultura Familiar Delivery projeto de extensão da Uergs em Cachoeira do Sul
+uploader: Rede Aurora
+speaker: Chaiane Leal Agne – UERGS – Campus de Cachoeira do Sul/RS
+Lattes: http://lattes.cnpq.br/0468642099344094
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/28/2024

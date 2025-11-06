@@ -1,0 +1,9 @@
+video_id: t-0rt7Ru3lc
+video_url: https://www.youtube.com/watch?v=t-0rt7Ru3lc
+title: O coperativismo gaúcho do ramo agropecuário e na trajetória da Coopatrigo
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/1239086502002640
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/24/2025

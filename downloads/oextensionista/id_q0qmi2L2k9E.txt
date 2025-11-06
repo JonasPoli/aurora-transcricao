@@ -1,0 +1,8 @@
+video_id: q0qmi2L2k9E
+video_url: https://www.youtube.com/watch?v=q0qmi2L2k9E
+title: #reflexão #deustemumapalavrapravoce #jesus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/28/2025

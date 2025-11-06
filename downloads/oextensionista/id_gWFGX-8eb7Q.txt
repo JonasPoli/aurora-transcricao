@@ -1,0 +1,8 @@
+video_id: gWFGX-8eb7Q
+video_url: https://www.youtube.com/watch?v=gWFGX-8eb7Q
+title: #bandinha #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2025

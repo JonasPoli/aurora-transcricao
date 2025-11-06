@@ -1,0 +1,8 @@
+video_id: BkBuD2XNtIE
+video_url: https://www.youtube.com/watch?v=BkBuD2XNtIE
+title: #estudante
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/11/2025

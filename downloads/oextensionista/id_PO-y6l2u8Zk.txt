@@ -1,0 +1,8 @@
+video_id: PO-y6l2u8Zk
+video_url: https://www.youtube.com/watch?v=PO-y6l2u8Zk
+title: 160 caminhantes na natureza em Silveira Martins #caminhada #roça #cidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/16/2025

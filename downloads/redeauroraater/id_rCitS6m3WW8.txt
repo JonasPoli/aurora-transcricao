@@ -1,0 +1,8 @@
+video_id: rCitS6m3WW8
+video_url: https://www.youtube.com/watch?v=rCitS6m3WW8
+title: Direto ao ponto: Qualificação técnica na Ater Digital - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

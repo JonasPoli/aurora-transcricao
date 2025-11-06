@@ -1,0 +1,8 @@
+video_id: aw0mYZmx0Tw
+video_url: https://www.youtube.com/watch?v=aw0mYZmx0Tw
+title: O Extensionista responde: não se tem tanto conhecimento sobre Agricultura?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/29/2024

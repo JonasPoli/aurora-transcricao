@@ -1,0 +1,9 @@
+video_id: OHAqiv3L4vM
+video_url: https://www.youtube.com/watch?v=OHAqiv3L4vM
+title: Formação por alternância na sucessão rural
+uploader: Rede Aurora
+speaker: Luis Pedro Hillesheim – URI
+Lattes: http://lattes.cnpq.br/9098709692047420
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/14/2024

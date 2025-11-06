@@ -1,0 +1,8 @@
+video_id: OqjOTQxzn0Q
+video_url: https://www.youtube.com/watch?v=OqjOTQxzn0Q
+title: #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2025

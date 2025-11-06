@@ -1,0 +1,9 @@
+video_id: ngSZ3lRG29g
+video_url: https://www.youtube.com/watch?v=ngSZ3lRG29g
+title: Qual a tecnologia social para a Agricultura Familiar você conhece?
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/01/2024

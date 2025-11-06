@@ -1,0 +1,8 @@
+video_id: t_n8pASu_CI
+video_url: https://www.youtube.com/watch?v=t_n8pASu_CI
+title: Carta pública das professoras e professores de Extensão Rural - parte 1
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/26/2025

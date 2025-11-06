@@ -1,0 +1,8 @@
+video_id: KHc1AVQ35ok
+video_url: https://www.youtube.com/watch?v=KHc1AVQ35ok
+title: #roça #colono #estudos #educação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/28/2025

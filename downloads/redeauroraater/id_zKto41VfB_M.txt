@@ -1,0 +1,9 @@
+video_id: zKto41VfB_M
+video_url: https://www.youtube.com/watch?v=zKto41VfB_M
+title: A importância da produção de dados qualitativos e quantitativos na Extensão Rural
+uploader: Rede Aurora
+speaker: Claudio Fernando Lucca da Cunha – Emater/RS
+Lattes: http://lattes.cnpq.br/9661459065486225
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/14/2024

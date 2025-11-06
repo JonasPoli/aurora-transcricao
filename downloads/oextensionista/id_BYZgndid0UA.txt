@@ -1,0 +1,8 @@
+video_id: BYZgndid0UA
+video_url: https://www.youtube.com/watch?v=BYZgndid0UA
+title: #jesus #motivação #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/31/2025

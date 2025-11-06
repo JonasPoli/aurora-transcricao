@@ -1,0 +1,8 @@
+video_id: NKo5XIa8AP8
+video_url: https://www.youtube.com/watch?v=NKo5XIa8AP8
+title: #roça #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2025

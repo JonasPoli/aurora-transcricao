@@ -1,0 +1,8 @@
+video_id: Glt8J-e-dPI
+video_url: https://www.youtube.com/watch?v=Glt8J-e-dPI
+title: Caminhada na Natureza em Ivorá neste sábado!
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/11/2023

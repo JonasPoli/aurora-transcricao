@@ -1,0 +1,6389 @@
+Olá
+ 00:00:00
+
+a todos e todas as tensionistas rais,
+ 00:00:02
+
+agricultores e agricultoras, jovens
+ 00:00:04
+
+rais, pesquisadores, professores, tensão
+ 00:00:06
+
+rural, acadêmicos e demais públicos aqui
+ 00:00:08
+
+presentes. Sejam todos muito bem-vindos.
+ 00:00:11
+
+Meu nome é Ezequiel Redin, professor de
+ 00:00:13
+
+extensão rural e quem está aqui hoje
+ 00:00:15
+
+conosco é o professor Luís Fernando
+ 00:00:16
+
+Soares o Wind da USP, o fundador da Rede
+ 00:00:18
+
+Aurora, juntamente com o nosso convidado
+ 00:00:20
+
+de hoje que é o Humberto Bica Neto da
+ 00:00:23
+
+Epagre. Todos aqui excelentes
+ 00:00:25
+
+profissionais de extensão rural no
+ 00:00:27
+
+Brasil e no mundo. E é nesse dia 18 de
+ 00:00:29
+
+junho, estamos mais um ciclo de diálogos
+ 00:00:31
+
+em até digital, semeando propostas e
+ 00:00:34
+
+compartilhando saberes. Nossos eventos
+ 00:00:37
+
+buscam identificar e propor caminhos
+ 00:00:39
+
+metodológicos para os atuais elementos e
+ 00:00:42
+
+condicionantes que determinam os
+ 00:00:44
+
+processo de transferência e
+ 00:00:46
+
+compartilhamento de novas tecnologias
+ 00:00:48
+
+nos territórios rurais da América
+ 00:00:50
+
+Latina, da África e alguns países como
+ 00:00:52
+
+Portugal, Espanha e Luxemburgo. A nossa
+ 00:00:54
+
+palestra de hoje é intitulada
+ 00:00:56
+
+transformando a extensão rural, projeto
+ 00:00:58
+
+piloto da Ipagre e até mais digital.
+ 00:01:01
+
+Palestrante de hoje é o Humberto Bica
+ 00:01:04
+
+Neto da Ipagre. Essa é uma iniciativa do
+ 00:01:06
+
+portal Extensionista da Rede Aurora de
+ 00:01:08
+
+Diálogos em Até Digital da América
+ 00:01:10
+
+Latina e com todos os apoiadores que
+ 00:01:12
+
+vocês podem conferir aqui na descrição
+ 00:01:14
+
+desse vídeo. Sejam todos muito
+ 00:01:16
+
+bem-vindos, professor Zuen, Humberto. É
+ 00:01:18
+
+um prazer vocês estarem aqui
+ 00:01:20
+
+compartilhando seus conhecimentos
+ 00:01:21
+
+conosco. Desde já o nosso muito
+ 00:01:23
+
+obrigado. De antemão já passo a palavra
+ 00:01:24
+
+ao professor Zuin.
+ 00:01:26
+
+Bom dia a todos e a todas. É um prazer
+ 00:01:28
+
+muito grande estar aqui hoje com o
+ 00:01:30
+
+professor Ezequiel, professor Comberto,
+ 00:01:31
+
+não é? Tenho certeza que a gente vai
+ 00:01:34
+
+aprender hoje muito com Berto. Hoje ele
+ 00:01:35
+
+vai mostrar o trabalho que ele fez muito
+ 00:01:37
+
+bacana, não é, no projeto até mais digital,
+ 00:01:39
+
+o projeto inclusive que eu, Ezequiel, a
+ 00:01:42
+
+gente tá participando, não é, construindo
+ 00:01:44
+
+um novo hubo,
+ 00:01:46
+
+não é, e com os demais parceiros, não é,
+ 00:01:48
+
+Humberto também tá tá nesse projeto, não é?
+ 00:01:51
+
+Então, hoje eu tenho certeza que a gente
+ 00:01:54
+
+vai aprender muito com Humberto.
+ 00:01:56
+
+Humberto, seja muito bem-vindo. A
+ 00:01:57
+
+palavra é sua. Muito obrigado, Ezequiel,
+ 00:01:59
+
+professor Zuin, não é, todos aí que
+ 00:02:03
+
+participam a desse momento ao vivo e
+ 00:02:05
+
+também a todos aí da Rede Aurora que vem
+ 00:02:09
+
+construindo aí um um belo trabalho na
+ 00:02:11
+
+discussão desse importante tema a nível
+ 00:02:13
+
+de Brasil, não é? Ah, para mim é uma
+ 00:02:15
+
+satisfação estar aqui com vocês.
+ 00:02:18
+
+Agradeço o convite de poder compartilhar
+ 00:02:19
+
+esse esse trabalho que foi feito aqui em
+ 00:02:21
+
+Santa Catarina com apoio de diversas
+ 00:02:24
+
+pessoas, com envolvimento de
+ 00:02:26
+
+extensionistas e produtores e que a
+ 00:02:27
+
+gente consegue com certeza eh
+ 00:02:29
+
+compartilhar esse momento, compartilhar
+ 00:02:31
+
+conhecimento e o conhecimento
+ 00:02:33
+
+compartilhado agrega valor para todos,
+ 00:02:35
+
+não é? Então, obrigado por esse momento.
+ 00:02:37
+
+Muito bom. Vamos passar teu slide aqui.
+ 00:02:40
+
+Já aproveita para até apresentar pro
+ 00:02:42
+
+público tua formação também, pessoal.
+ 00:02:44
+
+gosta de conhecer também o nosso
+ 00:02:46
+
+convidado. Boa, boa palestra e no final
+ 00:02:48
+
+a gente vai dialogar com você aí com as
+ 00:02:50
+
+perguntas. Obrigado, Ezequiel. Então,
+ 00:02:52
+
+meu nome é Humberto Bicaneto, eu sou um
+ 00:02:55
+
+engenheiro agrônomo, me formei na
+ 00:02:57
+
+Universidade Federal do Paraná, ah,
+ 00:02:59
+
+tenho especialização em MBM, pecuária
+ 00:03:01
+
+leiteira, trabalho na Epagria há 16
+ 00:03:04
+
+anos. Agora, eh, comecei, eh, sou
+ 00:03:07
+
+extensionista rural, não é, hoje analista
+ 00:03:11
+
+de extensão. Comecei no oeste de Santa
+ 00:03:13
+
+Catarina, em São Carlos, fica próximo a
+ 00:03:15
+
+Chapecó, ah, eh, no escritório
+ 00:03:17
+
+municipal. Trabalhei alguns anos lá,
+ 00:03:21
+
+participei da equipe da Gerência
+ 00:03:23
+
+Regional de Palmitos, ah, liderei
+ 00:03:25
+
+projetos na no extremo oeste
+ 00:03:27
+
+catarinense, desenvolvendo a parte de
+ 00:03:29
+
+pecuária, tive a oportunidade de assumir
+ 00:03:31
+
+alguns desafios dentro da da própria
+ 00:03:34
+
+PAGR.
+ 00:03:36
+
+como a gestão de uma unidade de
+ 00:03:38
+
+pesquisa, que é a estação experimental
+ 00:03:40
+
+de Campos Novos, e depois fui convidado
+ 00:03:41
+
+a assumir um outro desafio que é a
+ 00:03:44
+
+diretoria de extensão rural e pesqueira
+ 00:03:46
+
+dentro da Epaga, não é, também eh tive a
+ 00:03:48
+
+oportunidade de acompanhar esse eh essa
+ 00:03:50
+
+essa grande empresa, não é, e conhecer mais
+ 00:03:54
+
+a extensão rural brasileira aí através
+ 00:03:56
+
+das BRAER, não é, Associação Brasileira das
+ 00:03:58
+
+das Instituições de ATER e pesquisa
+ 00:04:01
+
+estadual agora, não é, e o Brasil Brasil é
+ 00:04:04
+
+muito dinâmico, muito diverso. E esse
+ 00:04:07
+
+compartilhamento de experiências aí
+ 00:04:09
+
+permite nós conhecermos um pouco mais
+ 00:04:11
+
+dos detalhes, de de às vezes melhorar o
+ 00:04:14
+
+que nós temos, não é, ou saber que o que
+ 00:04:17
+
+nós temos é bom, está no caminho certo.
+ 00:04:18
+
+Então, compartilhar essas experiências
+ 00:04:21
+
+com essa oportunidade aqui desse canal
+ 00:04:23
+
+eh bem interessante e sempre agrega
+ 00:04:25
+
+valor, mas depois nós vamos ter a
+ 00:04:28
+
+oportunidade de conversarmos, não é, e
+ 00:04:29
+
+assim avançar nessa nessa condição. A a
+ 00:04:32
+
+EPAGR, então ela é uma empresa estatal,
+ 00:04:37
+
+ela é uma instituição oficial de de
+ 00:04:39
+
+pesquisa agropecuária, não é? Trabalha com
+ 00:04:42
+
+pesquisa aplicada e agora também o
+ 00:04:44
+
+ensino agrotécnico, não é? A PAGR assumiu
+ 00:04:46
+
+recentemente de cinco escolas
+ 00:04:49
+
+agrotécnicas que estavam vinculadas à
+ 00:04:51
+
+Secretaria de Estado da Educação e agora
+ 00:04:53
+
+também então a EPAGR tem o ensino
+ 00:04:55
+
+agrotécnico aí paraa formação desses
+ 00:04:57
+
+jovens eh no ensino formal, não é? Nós
+ 00:04:59
+
+trabalhamos com a extensão rural, que é
+ 00:05:02
+
+o ensino não formal. e agora também com
+ 00:05:03
+
+o ensino formal. E esses jovens, não é, que
+ 00:05:06
+
+se formam técnicos, eh, não é, nas escolas
+ 00:05:10
+
+agrotécnicas, eles são filhos de
+ 00:05:14
+
+produtores, muitas vezes, não é, tem a
+ 00:05:16
+
+oportunidade, então, da gente fazer o
+ 00:05:18
+
+acompanhamento junto a essas famílias,
+ 00:05:19
+
+não é? Hoje são mais de 1500 eh jovens aí
+ 00:05:21
+
+sendo capacitados nessas escolas.
+ 00:05:24
+
+e
+ 00:05:27
+
+ara recentemente no seu plano diretor
+ 00:05:28
+
+eh criou um propósito, não é, que é
+ 00:05:31
+
+inovação e sustentabilidade no campo e
+ 00:05:34
+
+no mar. E esse plano diretor foi
+ 00:05:36
+
+construído por mais de 1200 pessoas, não é?
+ 00:05:38
+
+Então, praticamente todos os
+ 00:05:40
+
+funcionários da EPAG se envolveram. É o
+ 00:05:41
+
+envolvimento de instituições externas
+ 00:05:43
+
+para construção disso. E a inovação,
+ 00:05:45
+
+então, já está presente aqui no nosso no
+ 00:05:47
+
+nosso
+ 00:05:50
+
+propósito, não é? E a inovação com certeza
+ 00:05:52
+
+envolve a questão da terra digital. Ah,
+ 00:05:54
+
+dentro disso, não é, nós temos aí a nossa
+ 00:05:58
+
+missão, nossa visão, nossos valores, mas
+ 00:06:00
+
+eu acredito que como um propósito
+ 00:06:02
+
+principal para todos nós, eh, estamos
+ 00:06:04
+
+aqui para servir, não é, nesse, na, eu
+ 00:06:08
+
+acredito nisso, não é, nessa passagem. E
+ 00:06:10
+
+esse propósito do servir aí leva a
+ 00:06:12
+
+melhorar a vida das famílias que a gente
+ 00:06:15
+
+trabalha e que a gente atende, não é? E
+ 00:06:17
+
+levando informação, conhecimento e
+ 00:06:19
+
+entendendo junto a situação e as
+ 00:06:22
+
+dificuldades, oportunidades e melhoria
+ 00:06:25
+
+para cada uma das famílias que a gente
+ 00:06:27
+
+atende, não é? e fazer essa diferença junto
+ 00:06:29
+
+à vida das famílias é algo que é muito
+ 00:06:31
+
+gratificante. A vida extensionista nessa
+ 00:06:34
+
+nessa visão é muito gratificante e e ter
+ 00:06:36
+
+e ter a honra de ser extensõista rural
+ 00:06:39
+
+eh para mim é um orgulho muito grande.
+ 00:06:42
+
+É, trazendo aqui então essa experiência,
+ 00:06:46
+
+não é, desse projeto piloto aí e junto com
+ 00:06:48
+
+a plataforma Ter mais digital.
+ 00:06:51
+
+Ah,
+ 00:06:54
+
+nós tivemos uma oportunidade nesse
+ 00:06:56
+
+sentido, não é? Como é que isso aconteceu?
+ 00:06:57
+
+Ah, o Ministério da Agricultura,
+ 00:07:01
+
+eh, junto com a BRAPA, não é, e junto com
+ 00:07:04
+
+outras instituições, Instituto
+ 00:07:07
+
+Interamericano de Cooperação, eh, vem
+ 00:07:09
+
+desenvolvendo aí a plataforma Terma
+ 00:07:11
+
+Digital. vocês talvez tenham tido a
+ 00:07:13
+
+oportunidade, não é, de de ter conhecimento
+ 00:07:15
+
+dessa plataforma. o colega Luciano Nas e
+ 00:07:17
+
+da Embrapa apresentou aqui, o Rodrigo
+ 00:07:20
+
+Ferraz fez conversas sobre isso também
+ 00:07:22
+
+aqui em outros momentos, talvez até vão
+ 00:07:25
+
+procurar os vídeos aqui no no canal, eh,
+ 00:07:27
+
+e apresentando essa plataforma, não é, e
+ 00:07:31
+
+esses diálogos, não é, junto com o
+ 00:07:34
+
+ministério, não é, junto com com as
+ 00:07:35
+
+instituições envolvidas,
+ 00:07:38
+
+eh permitiu a gente ter um entendimento
+ 00:07:40
+
+melhor, não é, das questões envolvendo a
+ 00:07:42
+
+Tra digital também pela Rede Aurora, não é,
+ 00:07:44
+
+essa troca de conhecimentos e
+ 00:07:46
+
+informações que outros colegas de pago
+ 00:07:47
+
+já tiveram aqui, como Felipe, o Flávio.
+ 00:07:49
+
+Então, eh, trazendo informações sobre
+ 00:07:52
+
+isso e essa discussão vem acontecendo e
+ 00:07:56
+
+vem evoluindo e às vezes surgem ideias e
+ 00:07:58
+
+oportunidades de cooperação nesse
+ 00:08:00
+
+sentido. E a Ipagre eh entrou eh nessa
+ 00:08:02
+
+junto, não é?
+ 00:08:06
+
+Eh, para vocês terem um trazer um pouco
+ 00:08:08
+
+aqui do do dessa questão mais digital,
+ 00:08:11
+
+não é? Porque eu acredito, eh, pessoalmente
+ 00:08:14
+
+que quando a nossa voz se transformou em
+ 00:08:17
+
+algo digital via rádio, via telefone, as
+ 00:08:19
+
+coisas começaram a mudar, não é?
+ 00:08:23
+
+E recentemente ali em 2015, a EPAG
+ 00:08:26
+
+implantou aí uma contratação de de
+ 00:08:29
+
+contas Google para todos os
+ 00:08:31
+
+funcionários, não é? Todos todos mesmo,
+ 00:08:32
+
+seja funcionário operário rural, seja eh
+ 00:08:35
+
+pesquisador, extensionista para todos os
+ 00:08:38
+
+funcionários.
+ 00:08:40
+
+E e em 2018 também a gente começou a
+ 00:08:41
+
+fazer uma aquisição maior aí,
+ 00:08:45
+
+distribuição de de smartphones aí os
+ 00:08:46
+
+extensionistas com apoio também eh de
+ 00:08:49
+
+projetos junto ao Ministério da
+ 00:08:51
+
+Agricultura.
+ 00:08:52
+
+E isso permitiu a gente evoluir algumas
+ 00:08:54
+
+plataformas ali em em 2019, não é, como a
+ 00:08:56
+
+implementação do Epagrimob, que é um
+ 00:09:00
+
+aplicativo que eh todos eh podem acessar
+ 00:09:01
+
+e quem tem cadastro na Epagrico como
+ 00:09:05
+
+beneficiário consegue eh
+ 00:09:08
+
+entrar, ter acesso às próprias
+ 00:09:12
+
+informações, emitir certificados.
+ 00:09:13
+
+E também em 2019 a gente criou um um
+ 00:09:16
+
+como gerar um WhatsApp Business dentro
+ 00:09:19
+
+da Pag, não é? Então, quem tem eh essa
+ 00:09:21
+
+oportunidade de usar os smartphones ali,
+ 00:09:24
+
+eh, fazer esse credenciamento aí do do
+ 00:09:27
+
+WhatsApp Business eh para conversa, não é,
+ 00:09:29
+
+permitir esse diálogo mais
+ 00:09:31
+
+institucionalizado junto com os
+ 00:09:33
+
+agricultores e pescadores, não é, os povos
+ 00:09:35
+
+tradicionais, povos originários, então
+ 00:09:38
+
+todo o público que a Ipagre vem
+ 00:09:39
+
+atendendo.
+ 00:09:41
+
+E em 2020, não é, todos nós eh passamos por
+ 00:09:42
+
+por esse ano difícil, não é, em 2020 todos
+ 00:09:46
+
+lembram da da questões das questões da
+ 00:09:49
+
+pandemia. E talvez essa sequência de
+ 00:09:51
+
+fatos ali tenha auxiliado e nos
+ 00:09:54
+
+preparado para que em 2020 a gente
+ 00:09:56
+
+conseguisse dar algumas respostas já e
+ 00:09:58
+
+poder manter o atendimento aos
+ 00:10:01
+
+agricultores ali mesmo no período de
+ 00:10:02
+
+isolamento, inclusive com a parte das
+ 00:10:04
+
+capacitações online. Então nós criamos
+ 00:10:07
+
+ali o canal capacitações e pagre online,
+ 00:10:10
+
+não é, que era que é específico para esse
+ 00:10:12
+
+tipo de evento. E nós então conseguimos
+ 00:10:14
+
+devido já termos a questão das contas
+ 00:10:17
+
+Google, não é, usando o Google Meet, ah, e
+ 00:10:20
+
+experiências aí que os próprios colegas,
+ 00:10:23
+
+não é, extensionistas criaram dentro da
+ 00:10:25
+
+IPAGR, oportunidades de transmissão via
+ 00:10:27
+
+canal do YouTube, usando observação, assim por
+ 00:10:30
+
+diante.
+ 00:10:32
+
+termos esse contato e mantermos aí o
+ 00:10:34
+
+diálogo junto aos ah ao público, não é, que
+ 00:10:37
+
+nós atendemos aí através da extensão
+ 00:10:41
+
+rural, da pesquisa e agora também do
+ 00:10:43
+
+ensino.
+ 00:10:45
+
+Ah, e eu não não vim falar das
+ 00:10:46
+
+estatísticas, não é, de internet no Brasil,
+ 00:10:50
+
+mas alguns dados aqui da da CGI
+ 00:10:53
+
+eh, e do CETIC, ele mostra aí essa
+ 00:10:57
+
+evolução aí dos dos domicílios com
+ 00:11:00
+
+acesso à internet no Brasil. E a gente
+ 00:11:02
+
+consegue também ver essa divisão ali
+ 00:11:05
+
+entre os a questão urbana e rural. E
+ 00:11:08
+
+observem assim até 2020, não é? Então, até
+ 00:11:12
+
+a até o ano de 2020, o crescimento da do
+ 00:11:17
+
+dos domicílios com acesso à internet,
+ 00:11:21
+
+seja na área rural, seja na área urbano,
+ 00:11:23
+
+ele cresceu eh de uma maneira mais
+ 00:11:25
+
+acelerada.
+ 00:11:28
+
+E depois de 2020,
+ 00:11:30
+
+eh, a gente acredita, não é, que os na área
+ 00:11:32
+
+urbana se consolidou o acesso à internet
+ 00:11:35
+
+de uma maneira mais facilitada, digamos
+ 00:11:37
+
+assim, enquanto que no meio rural as
+ 00:11:39
+
+taxas de crescimento continuaram mais
+ 00:11:42
+
+aceleradas, não é, do que em relação à área
+ 00:11:44
+
+urbana. Por quê? porque é onde tem mais
+ 00:11:47
+
+eh dificuldades, digamos assim, de
+ 00:11:50
+
+acesso. E isso eh chama bastante atenção
+ 00:11:52
+
+porque aqui em Santa Catarina
+ 00:11:56
+
+a gente tem uma referência aqui também
+ 00:11:59
+
+dentro do sul do país, não é, que 72% dos
+ 00:12:02
+
+domicílios teriam acesso à internet, não é?
+ 00:12:06
+
+Então de um total de 13 milhões, quase
+ 00:12:09
+
+14 milhões de domicílios, aí cerca de 10
+ 00:12:12
+
+milhões teriam acesso à internet. e os
+ 00:12:14
+
+municípios que ainda não têm, os
+ 00:12:17
+
+domicílios que ainda não têm acesso a
+ 00:12:19
+
+essa internet, eh estão aí na
+ 00:12:20
+
+principalmente na área rural. Eh, o que
+ 00:12:23
+
+que isso traz para nós, não é? Santa
+ 00:12:26
+
+Catarina tem 1% do território nacional,
+ 00:12:28
+
+mas é um estado eh diverso, não é? Eh, com
+ 00:12:31
+
+muitas etnias colonizando, não é? E e
+ 00:12:35
+
+presentes dentro desse estado, não é? Seja
+ 00:12:39
+
+nos povos originários, não é? Também nos
+ 00:12:42
+
+povos tradicionais. E Santa Catarina tem
+ 00:12:43
+
+diferenças regionais, não é, e
+ 00:12:46
+
+regionalizadas.
+ 00:12:47
+
+Atualmente, eh, aqui eu trouxe esse
+ 00:12:49
+
+mapinha do do estado aí com as unidades
+ 00:12:52
+
+da Ipagma. Eh, porque para vocês terem
+ 00:12:54
+
+uma ideia da capilaridade, nós temos 295
+ 00:12:57
+
+municípios em Santa Catarina e a Ipagre
+ 00:13:00
+
+tem cerca de 400 portas abertas para
+ 00:13:02
+
+atender o público, não é, de maneira
+ 00:13:06
+
+presencial, fora as portas digitais, não é,
+ 00:13:08
+
+criadas, não é? Então,
+ 00:13:11
+
+eh, essa capilaridade é muito
+ 00:13:13
+
+interessante e a Secretaria de Estado da
+ 00:13:16
+
+da Agricultura e Pecuária, ela tem, eh,
+ 00:13:18
+
+políticas públicas que incentivam aí a
+ 00:13:21
+
+aquisição de equipamentos para
+ 00:13:23
+
+conectividade dos produtores, não é, eh, de
+ 00:13:24
+
+internet, não é, então, às vezes precisa
+ 00:13:27
+
+estender uma rede de fibra, adquirir
+ 00:13:30
+
+antenas para transmissão de internet via
+ 00:13:32
+
+rádio, ah, computador, não é? Então, a até
+ 00:13:34
+
+mesmo a o Starlink, a gente tem
+ 00:13:38
+
+conseguido adquir, eh, atender por esse
+ 00:13:40
+
+programa eh dentro das prioridades, não é,
+ 00:13:43
+
+e, e desde que os eh desde que o público
+ 00:13:46
+
+esteja atendido dentro dos critérios,
+ 00:13:50
+
+não é, envolvidos aí com agricultura
+ 00:13:51
+
+familiar e assim por diante. Ah, então
+ 00:13:52
+
+isso permitiu um aumento da
+ 00:13:55
+
+conectividade aí nos no nos últimos 6
+ 00:13:57
+
+anos muito intenso assim, não é? Então, os
+ 00:13:59
+
+produtores hoje que têm essa necessidade
+ 00:14:02
+
+e que precisam e tem essa condição de
+ 00:14:04
+
+acessar essa política pública, podem,
+ 00:14:07
+
+não é, a ir avançando nesse sentido e
+ 00:14:09
+
+principalmente o nosso foco é o público
+ 00:14:13
+
+jovem, não é, e e as mulheres, não é, no
+ 00:14:15
+
+campo, eh, onde são prioritários aí para
+ 00:14:17
+
+esse para essa política pública e também
+ 00:14:20
+
+eh esses jovens que fazem parte dos
+ 00:14:24
+
+cursos de de com alternâncias, não é, da
+ 00:14:26
+
+ação jovem gênero da Equário.
+ 00:14:29
+
+ainda na na parte da extensão rural, não é,
+ 00:14:32
+
+ou seja, na educação não formal. Eh, e
+ 00:14:34
+
+para vocês terem uma ideia
+ 00:14:38
+
+como é que como é que é o estado de
+ 00:14:40
+
+Santa Catarina, ele tem uma
+ 00:14:42
+
+peculiaridade que é diferente de todos
+ 00:14:43
+
+os estados do Brasil, o Rio Grande do
+ 00:14:44
+
+Sul, algumas regiões, não é, o Paraná
+ 00:14:46
+
+também, eh, tem esse perfil, mas Santa
+ 00:14:48
+
+Catarina, o estado inteiro tem esse
+ 00:14:51
+
+perfil de que, eh, 90% das propriedades
+ 00:14:52
+
+em Santa Catarina tem menos de 50 ha.
+ 00:14:57
+
+E 65% das propriedades tem menos de 20
+ 00:15:01
+
+haares. Ou seja, a característica da
+ 00:15:05
+
+pequena propriedade é algo extremamente
+ 00:15:08
+
+eh presente no estado de Santa Catarina.
+ 00:15:10
+
+E isso eh
+ 00:15:13
+
+nos remete aí as a as questões, as
+ 00:15:15
+
+cadeias produtivas que são trabalhadas,
+ 00:15:18
+
+ou seja, são atividades geralmente de
+ 00:15:20
+
+alta densidade econômica, porque nós não
+ 00:15:23
+
+temos grandes áreas para serem
+ 00:15:26
+
+trabalhadas, não é? Então, atividade de
+ 00:15:27
+
+grãos, ela é uma atividade que gera
+ 00:15:29
+
+renda, mas não é uma atividade tão
+ 00:15:31
+
+trabalhada numa pequena propriedade. Eh,
+ 00:15:33
+
+é mais comum a gente ver atividades de
+ 00:15:36
+
+alta densidade econômica, como, por
+ 00:15:37
+
+exemplo, pecuária de leite, ah,
+ 00:15:39
+
+fruticultura, a questão da suocultura,
+ 00:15:41
+
+avicultura, eh, pecuária de corte, eh,
+ 00:15:44
+
+mas sempre sistemas que têm uma uma
+ 00:15:48
+
+lotação média maior do que a média
+ 00:15:52
+
+nacional, não é? Então,
+ 00:15:55
+
+eh, isso é uma característica bem
+ 00:15:57
+
+marcante do nosso estado.
+ 00:15:59
+
+E de acordo com o censo de BGE, 50% dos
+ 00:16:02
+
+estabelecimentos agropecuários eh não
+ 00:16:05
+
+possuía internet no meio rural em Santa
+ 00:16:07
+
+Catarina. Ou seja, já é uma grande
+ 00:16:09
+
+diferença em relação aos demais estados,
+ 00:16:11
+
+não é? Então, praticamente metade do da dos
+ 00:16:13
+
+domicílios rurais ou dos
+ 00:16:18
+
+estabelecimentos rurais eh em Santa
+ 00:16:19
+
+Catarina eh em Santa Catarina já teriam
+ 00:16:20
+
+algum tipo de acesso à internet.
+ 00:16:23
+
+de lá para cá, não é? Eh, o que que seriam
+ 00:16:26
+
+50% estabelecimentos agropecuários?
+ 00:16:29
+
+Santa Catarina, de acordo com o mesmo
+ 00:16:30
+
+censo, tem em torno de 183.000
+ 00:16:32
+
+estabelecimentos agropecuários. De lá
+ 00:16:34
+
+para cá, esse aumento de 88%
+ 00:16:36
+
+eh de acesso aí a gente estima que cerca
+ 00:16:40
+
+de 90% da dos estabelecimentos
+ 00:16:42
+
+agropecuários de Santa Catarina já tem
+ 00:16:45
+
+internet. Para vocês terem uma ideia,
+ 00:16:47
+
+tem municípios no oeste ali, pega
+ 00:16:48
+
+conhaporã, Pinhalzinho, que ficam
+ 00:16:51
+
+próximo do Chapecó, praticamente os
+ 00:16:53
+
+produtores tem acesso com fibra ótica.
+ 00:16:55
+
+Então, para vocês verem a dimensão, não é,
+ 00:16:57
+
+do que do que isso eh se tornou, mas
+ 00:16:59
+
+temos muitas regiões e muitos domicílios
+ 00:17:02
+
+aí no meio rural sem acesso à internet.
+ 00:17:05
+
+E isso para nós é um ponto crítico,
+ 00:17:07
+
+porque agora com a nota fiscal do
+ 00:17:10
+
+produtor rural eletrônica, não é? Então,
+ 00:17:12
+
+como que esses produtores vão emitir
+ 00:17:15
+
+essas notas fiscais? Com apoio da EPARG,
+ 00:17:16
+
+com apoio da prefeitura, não é? Como eles
+ 00:17:19
+
+vão ter acesso à internet, fazer essa
+ 00:17:20
+
+essa gestão, não é, contábel da
+ 00:17:23
+
+propriedade? Então, ainda temos
+ 00:17:25
+
+desafios, apesar de termos uma boa
+ 00:17:28
+
+cobertura. Mas essa cobertura, contudo,
+ 00:17:29
+
+ela permitiu com que a gente eh não
+ 00:17:32
+
+tivesse problemas assim ou melhor,
+ 00:17:34
+
+favoreceu o trabalho aí do hub da terra
+ 00:17:36
+
+digital.
+ 00:17:40
+
+E e o que que o que que motivou, não é,
+ 00:17:42
+
+essa entrada da Epagne nesse nesse
+ 00:17:44
+
+projeto piloto eh em conversa aí com o
+ 00:17:47
+
+Ministério da Agricultura, com a
+ 00:17:49
+
+Embrapa, com o ICA, eh, tendo essa essa
+ 00:17:51
+
+essa questão de que assistência técnica
+ 00:17:56
+
+de extensão rural em Santa Catarina, não é,
+ 00:17:57
+
+de acordo com o centro de IBGE, mais de
+ 00:18:00
+
+50% dos estabelecimentos agropecuários
+ 00:18:02
+
+recebiam algum tipo de orientação em
+ 00:18:04
+
+2017, sendo que o principal eh
+ 00:18:06
+
+orientador desses produtores, eh, desse
+ 00:18:10
+
+público,
+ 00:18:13
+
+eh, cerca de 19% é através do governo,
+ 00:18:15
+
+não é? Ou seja, basicamente aí a EPAGR
+ 00:18:19
+
+através da assistência técnica extensão
+ 00:18:22
+
+rural oficial.
+ 00:18:24
+
+Eh, e isso ao longo dos anos dentro da
+ 00:18:26
+
+Ipagre se tornou um indicador, um
+ 00:18:30
+
+indicador institucional.
+ 00:18:32
+
+A EPAGRE, por ser uma empresa estatal,
+ 00:18:34
+
+ela tem um contrato de gestão com o
+ 00:18:36
+
+governo do estado e ela é obrigada, não é,
+ 00:18:38
+
+então a cumprir esses indicadores, senão
+ 00:18:40
+
+nós não temos a promoção pro
+ 00:18:42
+
+merecimento, não é, dos nossos eh de nós
+ 00:18:43
+
+empregados. Então, eh, o que que é um
+ 00:18:47
+
+dos indicadores, não é, da EPAG? É a
+ 00:18:50
+
+cobertura de atendimento aos
+ 00:18:52
+
+agricultores.
+ 00:18:54
+
+Ah, nós temos que atender cerca de eh
+ 00:18:56
+
+29% dos agricultores dos dos produtores
+ 00:18:59
+
+catarinenses, não é, sejam psicultores,
+ 00:19:03
+
+pescadores, agricultores, povos
+ 00:19:05
+
+tradicionais, povos originais.
+ 00:19:09
+
+desses 30%, ou seja, se eu tenho lá 1000
+ 00:19:11
+
+famílias, 1000 produtores dentro de um
+ 00:19:17
+
+município, 300
+ 00:19:19
+
+eu tenho que atender naquele ano, não é?
+ 00:19:21
+
+Então, o EPAGR tem que atender naquele
+ 00:19:23
+
+ano. Desses 300, a gente tem uma meta de
+ 00:19:25
+
+capacitação,
+ 00:19:28
+
+onde eu tenho que capacitar cerca de
+ 00:19:30
+
+60, 70 produtores
+ 00:19:34
+
+eh sem repetição, não é?
+ 00:19:38
+
+E ainda daqueles 300 produtores que eu
+ 00:19:41
+
+tenho que atender naquele município,
+ 00:19:43
+
+cerca de 40% das atividades tem que ser
+ 00:19:46
+
+ações a campo, ou seja, não pode ser só
+ 00:19:49
+
+atendimento no escritório ou atendimento
+ 00:19:51
+
+remoto, não é, via WhatsApp ou via pagó,
+ 00:19:52
+
+tem que ser a campo.
+ 00:19:55
+
+Então, esses indicadores eles foram
+ 00:19:57
+
+criados e isso nos leva, não é, a uma
+ 00:19:59
+
+pergunta:
+ 00:20:03
+
+como que nós podemos alcançar mais eh
+ 00:20:05
+
+produtores ou mais pessoas com
+ 00:20:08
+
+informação e orientação qualificada, não é?
+ 00:20:11
+
+E essa pergunta nos leva, não é,
+ 00:20:15
+
+diretamente aí
+ 00:20:17
+
+ao hub, não é, e com esse projeto piloto da
+ 00:20:20
+
+Terra Digital.
+ 00:20:24
+
+Então, como é que isso surgiu, não é? Por
+ 00:20:25
+
+uma provocação também eh do próprio
+ 00:20:28
+
+ministério, não é? Eu lembro, a gente tem
+ 00:20:30
+
+muito contato com o Rodrigo Ferraz e ele
+ 00:20:32
+
+eh nos provocou e nós entendemos, não é, a
+ 00:20:36
+
+proposta da plataforma Terma Digital.
+ 00:20:39
+
+Desde o início a Equagre apoiou, não é, a
+ 00:20:42
+
+plataforma
+ 00:20:43
+
+divulgando, buscando, eh, ter
+ 00:20:46
+
+entendimento dos hubs que estavam sendo
+ 00:20:49
+
+criados dentro da plataforma até mais
+ 00:20:51
+
+digital. E o que que é um hub, não é? Eu
+ 00:20:53
+
+sou falando de hub. Hub, não é? Ã, um hub.
+ 00:20:56
+
+Se nós temos hubs em casa, os hubs, por
+ 00:21:00
+
+exemplo, onde conectam os fiozinhos lá
+ 00:21:02
+
+da internet e faz a transmissão de
+ 00:21:04
+
+Wi-Fi, é um hub, não é? O que que é um hub?
+ 00:21:06
+
+é um centro, não é, onde recebe informações
+ 00:21:09
+
+e transmite essas informações. Então,
+ 00:21:12
+
+como nessa figura aqui que tá sendo
+ 00:21:15
+
+mostrada, não é, a plataforma Terma
+ 00:21:17
+
+Digital, ela tem hubs dentro dela. Eh,
+ 00:21:19
+
+os hubs que nós trabalhamos dentro desse
+ 00:21:23
+
+projeto piloto foi o hub da apicultura e
+ 00:21:25
+
+o hub da batata doce.
+ 00:21:28
+
+Eh, foram cadeias que eles eh nos
+ 00:21:31
+
+provocaram, não é, e que nós entendemos que
+ 00:21:35
+
+para Santa Catarina fazia sentido, não é?
+ 00:21:38
+
+Então, esse hub ele permite com que o
+ 00:21:42
+
+produtor tenha acesso, o extensionista,
+ 00:21:44
+
+o técnico tem acesso, o público em geral
+ 00:21:47
+
+tem acesso a informações, não é, dentro da
+ 00:21:50
+
+apicultura, dentro da batata doce. as
+ 00:21:52
+
+instituições possam colocar informações
+ 00:21:54
+
+dentro do hub, eh, coletar informações,
+ 00:21:57
+
+compatibilizar ideias, compatibilizar
+ 00:22:00
+
+discussões, eh ter acesso a cursos, ter
+ 00:22:03
+
+acesso a informação, vídeos, áudios, eh
+ 00:22:06
+
+material impresso, impresso, não,
+ 00:22:09
+
+desculpe, material digital, informação.
+ 00:22:11
+
+Eh, e isso foi feito para cadeias
+ 00:22:14
+
+produtivas, não é, como já foi apresentado
+ 00:22:18
+
+aqui no canal. E a definição da cadeia
+ 00:22:20
+
+da apicultura,
+ 00:22:22
+
+ela se traz também porque muito da
+ 00:22:24
+
+comunicação que acontece com os
+ 00:22:27
+
+agricultores se dá pro WhatsApp. E os
+ 00:22:29
+
+apicultores têm uma característica
+ 00:22:31
+
+bastante interessante aqui no estado,
+ 00:22:33
+
+não é, que eh eles são organizados em
+ 00:22:34
+
+associações,
+ 00:22:39
+
+associações em municípios, regiões,
+ 00:22:40
+
+microrregiões e tem uma federação
+ 00:22:43
+
+estadual, não é? e essa federação estadual.
+ 00:22:45
+
+Então, eh, a Ipagre é muito presente com
+ 00:22:48
+
+as associações, com as entidades e as
+ 00:22:51
+
+instituições e organiza, não é, ajuda a
+ 00:22:54
+
+organizar esse setor eh junto ao setor
+ 00:22:56
+
+produtivo, não é, junto com os apicultores.
+ 00:23:00
+
+E essa organização também se dá pela
+ 00:23:02
+
+comunicação via WhatsApp, não é?
+ 00:23:04
+
+E no caso da batata doce, não é, de uma
+ 00:23:07
+
+maneira geral, os produtores
+ 00:23:09
+
+catarinenses eh utilizam muito WhatsApp.
+ 00:23:11
+
+Isso é uma característica aqui no estado
+ 00:23:14
+
+muito marcante. Acho que depois do
+ 00:23:16
+
+WhatsApp a plataforma mais utilizada é o
+ 00:23:18
+
+o Facebook, depois disso Instagram,
+ 00:23:21
+
+depois disso Telegram. Então, ã,
+ 00:23:23
+
+a o WhatsApp é muito utilizado pelos
+ 00:23:28
+
+produtores, não é? E no caso da batata
+ 00:23:30
+
+doce, ah, nós temos aí um número menor
+ 00:23:33
+
+de produtores, não é? Na apicultura nós
+ 00:23:37
+
+temos cerca de 6.000, 7.000 apicultores,
+ 00:23:39
+
+não é? Logicamente que muitas vezes o
+ 00:23:43
+
+produtor tem até mais uma atividade, não é,
+ 00:23:45
+
+não é? Nós temos mais de 7.000 aí eh
+ 00:23:47
+
+apicultores cadastrados aí nas
+ 00:23:50
+
+plataformas.
+ 00:23:52
+
+E eh no caso da batata doce, não é, nós
+ 00:23:53
+
+temos um número bem menor de de
+ 00:23:56
+
+produtores em no estado de Santa
+ 00:23:59
+
+Catarina, mas ah algumas regiões eh têm
+ 00:24:00
+
+essa afinidade, não é, com essa atividade
+ 00:24:06
+
+produtiva, com essa cadeia produtiva,
+ 00:24:08
+
+como é o caso da região sul do estado. E
+ 00:24:09
+
+nós pensamos também nessa atividade
+ 00:24:12
+
+porque ela tem uma sequência, não é, por
+ 00:24:14
+
+ser uma, a gente considera uma
+ 00:24:15
+
+olerícula, não é, ou seja, uma uma
+ 00:24:17
+
+produção mais rápida, não é, um ciclo eh
+ 00:24:20
+
+mais curto. E ela também nos chamou
+ 00:24:22
+
+atenção, não é, e tem essa afinidade com
+ 00:24:25
+
+esses cade com essa cadeia produtiva no
+ 00:24:27
+
+sul do estado
+ 00:24:29
+
+e juntamente aí com as coordenações de
+ 00:24:31
+
+programa. Ou seja, também a escolha
+ 00:24:33
+
+desses hubs, não é, é devido à apicultura.
+ 00:24:35
+
+Nós temos uma divisão específica dentro
+ 00:24:39
+
+da uma divisão de estudos apícolas que é
+ 00:24:40
+
+vinculada ao programa pecuário,
+ 00:24:43
+
+desculpa. E essa divisão então ela
+ 00:24:46
+
+consegue aí ela auxilia os
+ 00:24:49
+
+extensionistas nessa coordenação aí
+ 00:24:51
+
+deste programa. E no caso da
+ 00:24:54
+
+olericultura, nós temos um programa que
+ 00:24:56
+
+é o programa olericultura, não é? Então, no
+ 00:24:58
+
+caso da apicultura, o Rodrigo é o nosso
+ 00:25:00
+
+coordenador e no caso da olericultura, o
+ 00:25:03
+
+Darlan é o nosso coordenador. E o
+ 00:25:06
+
+Darlan, então, tem esse trabalho aí
+ 00:25:08
+
+junto com a cadeia produtiva da batata
+ 00:25:10
+
+doce. No sul do estado nós temos aí a a
+ 00:25:12
+
+estação experimental de Urussanga
+ 00:25:15
+
+também, que gera tecnologias envolvendo
+ 00:25:17
+
+aí as a batata doce com cultivares e
+ 00:25:19
+
+assim por diante. Então também nos levou
+ 00:25:22
+
+aí a escolher esses essas cadeias
+ 00:25:25
+
+produtivas aí como parte desse piloto.
+ 00:25:27
+
+E essa troca de informações de nós
+ 00:25:31
+
+fornecendo e os agricultores,
+ 00:25:33
+
+extensionistas, pesquisadores, então
+ 00:25:35
+
+começou a construir uma proposta para
+ 00:25:38
+
+pra criação desse rub.
+ 00:25:40
+
+E aí como é que foi planejado isso, não é?
+ 00:25:43
+
+Nós realizamos algumas definições, foram
+ 00:25:46
+
+eh uma sequência de reuniões e até
+ 00:25:48
+
+definir essas duas cadeias produtivas,
+ 00:25:52
+
+não é? O período que nós utilizamos aí foi
+ 00:25:55
+
+de agosto a novembro de 2024 que nós
+ 00:25:57
+
+planejamos paraa execução, não é, desse
+ 00:26:00
+
+piloto,
+ 00:26:02
+
+ah, envolvendo as cadeias produtivas aí
+ 00:26:04
+
+da batata doce e da apicultura
+ 00:26:06
+
+de forma eh regional, não é, no caso da
+ 00:26:09
+
+batata doce e estadual no caso da
+ 00:26:13
+
+apicultura, não é? E outra coisa que nos
+ 00:26:16
+
+chamou bastante atenção foi que nós
+ 00:26:19
+
+definimos a questão da sazonalidade.
+ 00:26:21
+
+Por que isso? Porque a sazonalidade tem
+ 00:26:24
+
+a ver com os temas, não é? Então
+ 00:26:27
+
+o nosso objetivo era alcançar um número
+ 00:26:30
+
+maior de produtores, não é? Permitir eles
+ 00:26:33
+
+serem melhor atendidos, qualificar a
+ 00:26:35
+
+informação para chegar nesses
+ 00:26:37
+
+produtores. E quando que a informação
+ 00:26:38
+
+ela começa a ser qualificada? quando ela
+ 00:26:41
+
+chega de forma tempestiva, ou seja,
+ 00:26:43
+
+quando chega no momento que o produtor
+ 00:26:45
+
+precisa. E essa sazonalidade, por nós
+ 00:26:48
+
+estarmos tratando de uma região
+ 00:26:51
+
+específica, não é, de um estado específico,
+ 00:26:52
+
+a gente consegue ter uma dimensão
+ 00:26:54
+
+melhor, não é, de quando essa informação
+ 00:26:56
+
+deve chegar até o o produtor.
+ 00:26:58
+
+E também, não é, nessas definições, a gente
+ 00:27:02
+
+conseguiu aí envolver nesse nesse
+ 00:27:04
+
+projeto piloto aí 17 extensionistas e um
+ 00:27:07
+
+total de 74 produtores, não é? Por que que
+ 00:27:10
+
+eh como um projeto piloto, esse número é
+ 00:27:14
+
+bastante interessante? não é, para essas
+ 00:27:17
+
+cadeias produtivas, eh, principalmente
+ 00:27:19
+
+porque assim, qual que era a ideia? é
+ 00:27:22
+
+que o o projeto do do hubo piloto aí do
+ 00:27:24
+
+do hub da terra digital para batata doce
+ 00:27:30
+
+e apicultura,
+ 00:27:32
+
+que eh nós selecionássemos a informação,
+ 00:27:33
+
+definíssemos um cronograma de envio, que
+ 00:27:38
+
+existisse um contato prévio com esses
+ 00:27:41
+
+extensionistas, com esses eh produtores,
+ 00:27:43
+
+houvesse uma capacitação dos
+ 00:27:46
+
+extensionistas de como a gente
+ 00:27:48
+
+conseguiria eh elencar e trabalhar isso
+ 00:27:50
+
+junto aos produtores e que esse contato
+ 00:27:53
+
+junto aos produtores seria mais próximo
+ 00:27:56
+
+via, não é, o WhatsApp users. Então nós nós
+ 00:27:58
+
+desenvolvemos essa metodologia, não é, com
+ 00:28:02
+
+com visitas, não é, o primeiro momento aí
+ 00:28:04
+
+uma conversa mais eh presencial junto ao
+ 00:28:06
+
+produtor,
+ 00:28:10
+
+junto aos produtores.
+ 00:28:11
+
+E depois, não é, com o WhatsApp
+ 00:28:13
+
+institucional, nós estabelecemos aí uma
+ 00:28:16
+
+metodologia de criação de lista de
+ 00:28:18
+
+transmissão para esses produtores, tá?
+ 00:28:20
+
+Eh, porque na lista de transmissão a
+ 00:28:22
+
+mensagem vai de uma forma mais pessoal,
+ 00:28:25
+
+não é? Isso a gente queria desenvolver
+ 00:28:28
+
+desde o início. E a pré-definição dos
+ 00:28:29
+
+conteúdos do hub, não é, e do da plataforma
+ 00:28:33
+
+mais digital e da pag. Então, essa
+ 00:28:36
+
+definição de que nós poderíamos
+ 00:28:40
+
+contribuir com formação, que nós
+ 00:28:42
+
+poderíamos utilizar informação da
+ 00:28:44
+
+plataforma Terma digital. Então, a gente
+ 00:28:45
+
+utilizou informações da Equadre porque
+ 00:28:47
+
+tem eh tecnologias que nós desenvolvemos
+ 00:28:49
+
+em Santa Catarina que são de uso eh para
+ 00:28:52
+
+essa condição agroclimática, não é, digamos
+ 00:28:56
+
+assim, e para essa tradição de cultivo,
+ 00:28:59
+
+digamos. E outras informações, elas
+ 00:29:02
+
+podem ser utilizadas da plataforma mais
+ 00:29:04
+
+digital porque elas se adaptam, não é? Vou
+ 00:29:06
+
+dar um exemplo aqui das boas práticas de
+ 00:29:08
+
+de produção, não é?
+ 00:29:10
+
+Então, a definição desses conteúdos aí
+ 00:29:12
+
+da plataforma Termas Digital e da EPAG
+ 00:29:14
+
+foi feita aí pela coordenação dos
+ 00:29:18
+
+programas, não é, tanto de olericultura
+ 00:29:20
+
+quanto da parte de apicultura.
+ 00:29:21
+
+E esses eh esses essas informações foram
+ 00:29:24
+
+enviadas aí semanalmente. Qual que foi
+ 00:29:28
+
+uma preocupação nossa desde o início,
+ 00:29:31
+
+não é? O produtor,
+ 00:29:33
+
+desculpe, o produtor para nós, ele ele
+ 00:29:36
+
+sempre busca eh eh recebe de uma maneira
+ 00:29:39
+
+mais fácil, não é, as questões de áudio,
+ 00:29:43
+
+ah, vídeos, não é, vídeos curtos, não é, nada
+ 00:29:46
+
+muito longo também, dependendo da
+ 00:29:49
+
+situação, logicamente, não é, o produtor
+ 00:29:51
+
+vai assistir um vídeo mais longo, tal,
+ 00:29:53
+
+eh, dependendo do interesse no assunto,
+ 00:29:55
+
+mas
+ 00:29:57
+
+no caso de uma informação que seja mais
+ 00:29:58
+
+tempestiva, às vezes um vídeo mais curto
+ 00:30:01
+
+chama mais atenção e depois a gente
+ 00:30:02
+
+envia um material mais completo, digamos
+ 00:30:04
+
+assim, não é? E a gente estabeleceu a
+ 00:30:07
+
+periodicidade de que fosse enviado
+ 00:30:09
+
+semanalmente.
+ 00:30:12
+
+E dentro dessa metodologia, a gente
+ 00:30:13
+
+coletou durante o o período, não é, ali de
+ 00:30:15
+
+agosto a novembro, no meio eh no meio
+ 00:30:19
+
+termo, digamos assim, nós fizemos uma
+ 00:30:23
+
+avaliação junto com os extensionistas,
+ 00:30:25
+
+não é? pedimos para que eles buscassem
+ 00:30:27
+
+feedback, não é, dos dos produtores, ou
+ 00:30:29
+
+seja, como é que tá sendo, não é, a
+ 00:30:31
+
+informação chegando pro pro produtor,
+ 00:30:33
+
+não é? Então, o produtor dando essa essa
+ 00:30:35
+
+essa avaliação pro extensionista, o
+ 00:30:38
+
+extensionista dando essa avaliação pro
+ 00:30:40
+
+coordenador do programa e a gente
+ 00:30:41
+
+fazendo uma avaliação mais geral do
+ 00:30:43
+
+andamento do projeto piloto.
+ 00:30:45
+
+A partir disso, não é, então com esses
+ 00:30:48
+
+feedbacks, a gente ia fazendo pequenos
+ 00:30:50
+
+ajustes, não é, dentro das das conversas,
+ 00:30:52
+
+do formato das conversas. E isso foi
+ 00:30:54
+
+permitindo a gente ter uma evolução, não é,
+ 00:30:57
+
+que eu vou apresentar aqui para vocês
+ 00:30:59
+
+durante durante esse esse momento.
+ 00:31:00
+
+Então, depois desse planejamento aí,
+ 00:31:04
+
+dessas definições, nós montamos uma
+ 00:31:06
+
+estratégia, não é? E a estratégia envolveu
+ 00:31:09
+
+o quê? A capacitação, não é, dos 17
+ 00:31:11
+
+extensionistas envolvidos. Essa
+ 00:31:14
+
+capacitação envolveu a capacitação para
+ 00:31:16
+
+a metodologia do projeto do piloto, não é?
+ 00:31:18
+
+Então, eh, exatamente o que que
+ 00:31:21
+
+precisaria ser feito por eles, não é? ter
+ 00:31:24
+
+clareza do que precisava ser feito, eh,
+ 00:31:26
+
+motivá-los, não é? Eh, buscar entender se
+ 00:31:29
+
+fazia sentido para os extensionistas o
+ 00:31:33
+
+que tava sendo proposto. A partir do
+ 00:31:35
+
+momento que os extensionistas falaram:
+ 00:31:37
+
+"Não, isso faz sentido, não é? A gente
+ 00:31:38
+
+acredita que isso faz sentido." Eh, pode
+ 00:31:40
+
+se encaixar com o nosso plano de
+ 00:31:43
+
+trabalho aqui no município, não é? dentro
+ 00:31:46
+
+do nosso planejamento, a gente consegue
+ 00:31:47
+
+incluir essa atividade, porque nós
+ 00:31:49
+
+buscamos os extensionistas que já tinham
+ 00:31:51
+
+trabalhos na área, não é, da cadeia
+ 00:31:53
+
+produtiva da apicultura, eh, na área da
+ 00:31:54
+
+batata, na cadeia produtiva da batata
+ 00:31:57
+
+doce. Então, ou seja, os extensionistas
+ 00:31:59
+
+já conheciam os produtores, não é, que que
+ 00:32:01
+
+teriam potencial para ser atendidos
+ 00:32:04
+
+através dessa metodologia
+ 00:32:06
+
+e
+ 00:32:08
+
+também, não é, a capacitação sobre como
+ 00:32:10
+
+usar o WhatsApp, a criação do da lista
+ 00:32:12
+
+de transmissão, não é, como é que seria a
+ 00:32:15
+
+transmissão desses desses temas. Então
+ 00:32:18
+
+eles também auxiliaram a construir aí a
+ 00:32:21
+
+definição e a seleção dos temas e os
+ 00:32:23
+
+conteúdos, não é, de forma tempestiva, ou
+ 00:32:25
+
+seja, chegar no momento que o produtor
+ 00:32:27
+
+precisa informação.
+ 00:32:28
+
+E como que seria esse envio de material?
+ 00:32:31
+
+Ou seja, toda semana na segunda-feira de
+ 00:32:33
+
+manhã, geralmente na segunda-feira a
+ 00:32:35
+
+gente faz o dia de escritório, não é, que
+ 00:32:37
+
+chama, os outros dias da semana a gente
+ 00:32:39
+
+tenta ir a campo, fazer o que está
+ 00:32:41
+
+planejado, não é, dentro do plano de
+ 00:32:44
+
+trabalho de cada município.
+ 00:32:46
+
+Mas a segunda-feira é o que a gente
+ 00:32:49
+
+chama de dia de escritório, não é? Muitos
+ 00:32:50
+
+extensionistas fazem isso. A gente tem
+ 00:32:52
+
+uma tradição disso de a época da CARESP,
+ 00:32:53
+
+não é? Nós temos extensão rural em Santa
+ 00:32:57
+
+Catarina há mais de 60 anos.
+ 00:33:00
+
+Então, eh, nesse dia do escritório, o
+ 00:33:02
+
+extensionista tiraria o momento, não é,
+ 00:33:05
+
+onde ele receberia, não é, então, a gente
+ 00:33:07
+
+tinha um grupo de transmissão para cada
+ 00:33:09
+
+cadeia produtiva, onde o coordenador do
+ 00:33:11
+
+programa, não é, o Darlan na Batata Doce e
+ 00:33:15
+
+o Rodrigo na apicultura, eh, junto com a
+ 00:33:18
+
+equipe do programa, não é, enviava a
+ 00:33:21
+
+informação para os extensionistas e os
+ 00:33:23
+
+extensionistas pegavam essa informação
+ 00:33:26
+
+no grupo, fazia o download, copiavam os
+ 00:33:27
+
+links,
+ 00:33:31
+
+E os extensionistas então replicavam
+ 00:33:32
+
+isso na lista de transmissão.
+ 00:33:35
+
+Então esse material envolveu vídeos, não é,
+ 00:33:37
+
+envolveu áudios, envolveu publicações.
+ 00:33:40
+
+Os extensionistas tinham a liberdade de
+ 00:33:42
+
+incluir alguma informação, fazer uma
+ 00:33:44
+
+mensagem de áudio pro produtor para
+ 00:33:47
+
+criar essa relação mais intimista, não é, e
+ 00:33:49
+
+não ser uma coisa mecânica, como se
+ 00:33:51
+
+fosse um robô enviando informação, não é?
+ 00:33:53
+
+Então essa questão da pessoalidade eh
+ 00:33:55
+
+para nós foi muito importante porque
+ 00:33:58
+
+dentro do projeto eh piloto
+ 00:33:59
+
+e, não é, eh essa questão de poder utilizar
+ 00:34:02
+
+os temas que nós trabalhamos aqui no
+ 00:34:06
+
+estado e também com a a escolha de
+ 00:34:08
+
+alguns temas dentro da plataforma ATER
+ 00:34:11
+
+mais digital permitiu a integração então
+ 00:34:13
+
+com os conhecimentos locais e as e as
+ 00:34:15
+
+práticas existentes. Então isso para nós
+ 00:34:17
+
+foi muito importante dentro da
+ 00:34:20
+
+estratégia de trabalho.
+ 00:34:21
+
+E como é que foi essa execução, não é?
+ 00:34:23
+
+Então, a coordenação do programa na
+ 00:34:27
+
+apicultura ali, na divisão de estudos
+ 00:34:29
+
+apícolos e na na olericultura ali dentro
+ 00:34:31
+
+da cadeia produtiva da batata doce, eh,
+ 00:34:34
+
+fez uma organização prévia dessa
+ 00:34:37
+
+informação com o apoio dos
+ 00:34:39
+
+extensionistas, não é? Eh, essa imagem
+ 00:34:40
+
+aqui, eu vou agradecer aí a equipe do
+ 00:34:43
+
+que trabalha ali no hub da Terma
+ 00:34:45
+
+Digital, que desenvolveu essa imagem,
+ 00:34:47
+
+não é, e consta num relatório que que está
+ 00:34:49
+
+sendo ainda eh finalizado.
+ 00:34:52
+
+Então, essa organização prévia da
+ 00:34:55
+
+informação permitiu com que se
+ 00:34:57
+
+estabelecesse o cronograma de envio, não é,
+ 00:34:59
+
+de cada um dos temas
+ 00:35:02
+
+e a forma que isso aconteceu.
+ 00:35:04
+
+Os extensionistas, então, e os
+ 00:35:07
+
+coordenadores de programa criaram os
+ 00:35:10
+
+grupos de WhatsApp, não é? No caso do do da
+ 00:35:11
+
+coordenação de programa, foi criado um
+ 00:35:14
+
+grupo de WhatsApp com os extensionistas
+ 00:35:16
+
+e os extensionistas criaram lista de
+ 00:35:18
+
+transmissão com os agricultores, não é, com
+ 00:35:20
+
+os produtores.
+ 00:35:22
+
+Eh, dentro do município, geralmente a
+ 00:35:25
+
+gente tinha um extensionista paraa
+ 00:35:28
+
+questão da batata doce e outros
+ 00:35:30
+
+municípios envolvidos com a questão da
+ 00:35:32
+
+apicultura, não é? Então a gente buscou
+ 00:35:34
+
+separar eh nesse momento, não é, o envio de
+ 00:35:36
+
+informações, ou seja, o município que
+ 00:35:38
+
+trabalhava com batata doce não
+ 00:35:40
+
+trabalhava com apicultura, não é, para
+ 00:35:42
+
+tentar, porque era um exercício, então
+ 00:35:44
+
+era um primeiro momento, não é? Eh, a
+ 00:35:46
+
+coordenação, então a cada semana enviava
+ 00:35:50
+
+na segunda-feira ali até às 10 horas da
+ 00:35:54
+
+manhã o conteúdo para os extensionistas
+ 00:35:56
+
+e os extensionistas replicavam isso para
+ 00:35:59
+
+os produtores, não é? Então, eh,
+ 00:36:01
+
+basicamente essa foi a estratégia da
+ 00:36:04
+
+execução.
+ 00:36:06
+
+Eh, então aqui eu trouxe para vocês, não é,
+ 00:36:08
+
+um pouco de cada um dos hubs, não é, como
+ 00:36:11
+
+foi trabalhado na apicultura, por
+ 00:36:13
+
+exemplo, a definição dos temas abordados
+ 00:36:15
+
+desenvolveu, ah, o primeiro tema a ser
+ 00:36:17
+
+enviado é o calendário de manejo, não é?
+ 00:36:19
+
+Então, porque isso é muito importante
+ 00:36:22
+
+para nós, não é? O produtor tem que eh
+ 00:36:24
+
+planejar as atividades que ele vai
+ 00:36:26
+
+executar dentro do do
+ 00:36:27
+
+junto às colmeias, junto às colônias,
+ 00:36:30
+
+não é?
+ 00:36:32
+
+Eh, e esse calendário de manejo, não é, de
+ 00:36:33
+
+acordo com a florada, de acordo com a
+ 00:36:35
+
+situação aqui das regiões em Santa
+ 00:36:37
+
+Catarina, é fundamental para definir
+ 00:36:39
+
+algumas estratégias, não é, como é o caso
+ 00:36:41
+
+da alimentação para as abelhas, não é?
+ 00:36:43
+
+Então, no inverno a gente tende a fazer
+ 00:36:44
+
+e na saída do inverno tende a fazer essa
+ 00:36:47
+
+questão da alimentação devido aí à
+ 00:36:49
+
+redução dos estoques de comida, não é, e
+ 00:36:51
+
+para auxiliar as colônias aí na
+ 00:36:53
+
+sobrevivência, manter a força eh das
+ 00:36:55
+
+colônias. Então aqui eu até deixei um
+ 00:36:58
+
+Qcode e depois a apresentação aí para
+ 00:37:00
+
+minha parte fica disponível, não é? Eh, com
+ 00:37:04
+
+o link aí paraa alimentação das abelhas.
+ 00:37:07
+
+Se vocês escanearem o Qcode, vocês vão
+ 00:37:08
+
+ter acesso, por exemplo, eh, ao vídeo,
+ 00:37:10
+
+não é? E nesse caso aí da alimentação das
+ 00:37:13
+
+abelhas, aqui do lado tem o o WhatsApp
+ 00:37:15
+
+que foi enviado, não é? Então, o Rodrigo
+ 00:37:19
+
+enviando para os extensionistas, não é? Ah,
+ 00:37:20
+
+bom dia, pessoal. Vamos postar aqui os
+ 00:37:23
+
+materiais a serem enviados para as
+ 00:37:25
+
+listas de transmissão. Hoje vamos
+ 00:37:26
+
+procurar seguir a programação, não é? Aí
+ 00:37:28
+
+ele ainda faz a orientação de como faz
+ 00:37:30
+
+envio ali para reforçar isso pros
+ 00:37:32
+
+colegas, não é? E aí ainda eh elaborou um
+ 00:37:34
+
+card, não é? Então a Rosana trabalha junto
+ 00:37:38
+
+com o Rodrigo ali na divisão e ela criou
+ 00:37:40
+
+um card. Então, ah, vamos alimentar as
+ 00:37:43
+
+abelhas. Isso então torna ah mais
+ 00:37:45
+
+visual, não é, e atrativo aí a questão do
+ 00:37:48
+
+conteúdo enviado. E daí a gente enviou
+ 00:37:51
+
+os vídeos eh com o link, não é, e no
+ 00:37:54
+
+WhatsApp já cria a imagem e tal,
+ 00:37:56
+
+eh, e foi enviado para os
+ 00:38:00
+
+extensionistas. Os extensionistas então
+ 00:38:02
+
+replicavam isso, não é, a cada semana.
+ 00:38:03
+
+Outros temas abordados também na parte
+ 00:38:05
+
+da apicultura é a questão da controle de
+ 00:38:07
+
+temperatura do nim. Então, às vezes
+ 00:38:09
+
+precisa reduzir o tamanho do alvado para
+ 00:38:11
+
+poder entrar menos frio dentro da
+ 00:38:13
+
+colônia, a questão da substituição das
+ 00:38:15
+
+rainhas, não é, o melhoramento das
+ 00:38:18
+
+colônias, a produção de pastagens
+ 00:38:20
+
+apícolas, não é, quais plantas são
+ 00:38:23
+
+interessantes, a questão do uso da cera,
+ 00:38:25
+
+não é, questão como se usa a cera
+ 00:38:28
+
+alveolada, a substituição dos favos
+ 00:38:30
+
+velhos para permitir aí a melhor
+ 00:38:32
+
+qualidade do mel, a questão da melhor
+ 00:38:34
+
+produção de de crias, a questão do uso
+ 00:38:36
+
+correto do fumigador, as boas práticas
+ 00:38:39
+
+de colheita. Então, assim, dentro desses
+ 00:38:42
+
+temas, não é, alimentação para as abelhas,
+ 00:38:44
+
+por exemplo, foi um conteúdo que foi
+ 00:38:46
+
+construído pela Epagre, não é? Então, a
+ 00:38:49
+
+gente já tinha vídeos eh elaborados
+ 00:38:51
+
+sobre isso. Em compensação, as boas
+ 00:38:53
+
+práticas de colheita, nós buscamos os
+ 00:38:56
+
+vídeos da plataforma a Terma Digital, as
+ 00:38:58
+
+informações da plataforma Terma Digital,
+ 00:39:01
+
+porque isso a gente entendeu, não, isso
+ 00:39:04
+
+faz sentido aqui pro estado de Santa
+ 00:39:05
+
+Catarina. Então, essa é a questão de nós
+ 00:39:07
+
+eh fazermos aí o meio de campo entre a
+ 00:39:11
+
+plataforma Terma Digital e aquilo que
+ 00:39:14
+
+realmente, não é, possa ser interessante
+ 00:39:17
+
+para o apicultor. Então esse jogo foi
+ 00:39:19
+
+muito interessante, não é? Então, porque a
+ 00:39:22
+
+informação tá chegando de uma forma mais
+ 00:39:24
+
+adequada pro pro produtor, não é, pro pro
+ 00:39:26
+
+apicultor, pro extensionista também, não é,
+ 00:39:30
+
+e para eh eh para que isso possa ser
+ 00:39:32
+
+utilizado aí na nas atividades
+ 00:39:36
+
+produtivas. E no caso da batata doce,
+ 00:39:37
+
+não é? Então aqui dando um exemplo mais eh
+ 00:39:40
+
+de uma outra informação, não é? Alguns
+ 00:39:44
+
+temas abordados ali foram a questão das
+ 00:39:46
+
+variedades de batata doce, a produção de
+ 00:39:48
+
+mudas saudáveis, o preparo pro plantil,
+ 00:39:50
+
+não é? Ou seja, o manejo correto aí da
+ 00:39:53
+
+construção dos berços de plantil, não é? O
+ 00:39:56
+
+Darlan sempre fala, é um berço de
+ 00:39:59
+
+plantil, não é cova. Cova a gente usa no
+ 00:40:01
+
+cemitério, não é? Para plantar uma muda,
+ 00:40:03
+
+para plantar uma semente, é berço, não é?
+ 00:40:05
+
+Então, que é um uma vida ali que a gente
+ 00:40:07
+
+tá tá cultivando, não é? Eh, então a
+ 00:40:10
+
+produção de mudas eh nos chamou muita
+ 00:40:14
+
+atenção porque foi algo que despertou
+ 00:40:16
+
+demandas, não é, junto aos produtores,
+ 00:40:18
+
+porque os extensionistas, além de enviar
+ 00:40:21
+
+as informações, também faziam visitas
+ 00:40:23
+
+junto a esses produtores, não é,
+ 00:40:26
+
+continuavam o atendimento, às vezes
+ 00:40:27
+
+surgiam demandas de políticas públicas
+ 00:40:29
+
+porque tinha um contato mais direto. E
+ 00:40:31
+
+nesse sentido surgiu alguns obstáculos
+ 00:40:34
+
+ali com relação à produção de mudas
+ 00:40:37
+
+saudáveis, não é? Qual é o melhor formato
+ 00:40:39
+
+de produzir mudas saudáveis? É em vaso,
+ 00:40:41
+
+é dentro de estufa, eh, canteiro, como
+ 00:40:43
+
+seria o melhor manejo para isso? E aí,
+ 00:40:47
+
+não é, o envolvimento da estação
+ 00:40:50
+
+experimental de Urussanga, que é uma
+ 00:40:52
+
+unidade de pesquisa da Epagre,
+ 00:40:53
+
+no desenvolvimento, não é, e validação de
+ 00:40:56
+
+algumas metodologias. Isso para nós foi
+ 00:40:58
+
+um ganho extremamente interessante e
+ 00:41:00
+
+importante, não é? Então, olhe só, não é, como
+ 00:41:02
+
+as coisas surgem por esse contato mais
+ 00:41:05
+
+pessoalizado junto ao produtor. Eh,
+ 00:41:07
+
+nesse sentido, então aqui do lado tem o
+ 00:41:10
+
+WhatsApp que o Darlan enviou, não é? Ó,
+ 00:41:12
+
+pessoal, tá aqui o link de uma
+ 00:41:14
+
+informação aí pra questão das doenças
+ 00:41:15
+
+causadas por fungos no caso da batata
+ 00:41:18
+
+doce. Se vocês quiserem escanear o QR
+ 00:41:20
+
+code, vai acessar diretamente aí a
+ 00:41:22
+
+plataforma até mais digital ali no link
+ 00:41:24
+
+específico, não é, pros cuidados do
+ 00:41:27
+
+controle do mal do pé, que era um dos
+ 00:41:29
+
+temas abordados aí na questão da batata
+ 00:41:31
+
+doce, não é, além dos dos outros aqui que
+ 00:41:33
+
+nós já comentamos.
+ 00:41:35
+
+Eh, e qual que foi o resultado disso,
+ 00:41:38
+
+desse projeto piloto com envio dessas
+ 00:41:41
+
+informações e e o que que a gente viu aí
+ 00:41:43
+
+na mudança dos indicadores da Ipagma,
+ 00:41:48
+
+não é?
+ 00:41:50
+
+Então, nós temos aí um sistema que é o
+ 00:41:50
+
+sistema Epagre de registro de ATER. Esse
+ 00:41:52
+
+sistema é um sistema interno nosso, onde
+ 00:41:55
+
+a gente registra cada um dos
+ 00:41:57
+
+atendimentos, não é? seja os extensionistas
+ 00:41:58
+
+registram esses atendimentos eh via
+ 00:42:00
+
+remota, via presencial, seja
+ 00:42:03
+
+capacitação,
+ 00:42:05
+
+eh visitas eh pros produtores. E dentro
+ 00:42:06
+
+a gente tem relatórios, não é, de de
+ 00:42:11
+
+business intelligence, ou seja, são
+ 00:42:13
+
+relatórios que geram gráficos dinâmicos
+ 00:42:15
+
+em tempo real, são atualizados
+ 00:42:17
+
+diariamente de forma automática, não é, de
+ 00:42:19
+
+acordo com as informações dentro dos
+ 00:42:21
+
+municípios. E nós fizemos aí uma
+ 00:42:23
+
+avaliação, não é, filtros, eh, para tentar
+ 00:42:25
+
+entender como é que foi isso dentro da
+ 00:42:28
+
+apicultura e dentro da batata doce no
+ 00:42:30
+
+estado, não é? E a gente fez o filtro ainda
+ 00:42:32
+
+das datas, não é, quando a gente começou
+ 00:42:36
+
+dia 29 de setembro eh de 2024 até dia 3
+ 00:42:38
+
+de dezembro de 2024 e comparou com o ano
+ 00:42:42
+
+anterior que era 2023, não é?
+ 00:42:45
+
+Então, para vocês terem ideia, o mesmo
+ 00:42:48
+
+período eh de 2023, em relação a 2024,
+ 00:42:51
+
+em 2023 a gente tinha atendido 116 eh
+ 00:42:55
+
+produtor eh tinha realizado 116
+ 00:42:58
+
+atendimentos a produtores na apicultura
+ 00:43:00
+
+e na batata doce. Em 2024 a evolução foi
+ 00:43:03
+
+por 288 eh atendimentos.
+ 00:43:06
+
+Isso significa um aumento de 148%, não é,
+ 00:43:10
+
+no alcance aí junto a esses produtores.
+ 00:43:13
+
+Eh, e vocês podem observar ali que o
+ 00:43:16
+
+aumento já começou já mesmo sendo o
+ 00:43:18
+
+início no final do mês de setembro,
+ 00:43:20
+
+mesmo assim o aumento já foi
+ 00:43:22
+
+significativo ali no mês de setembro,
+ 00:43:24
+
+não é, de 19 para 27 atendimentos. Então
+ 00:43:26
+
+essa evolução, eh, os números não dizem
+ 00:43:29
+
+tudo, não é, sobre o trabalho que é feito,
+ 00:43:32
+
+mas eles ajudam, nos ajudam a entender,
+ 00:43:34
+
+não é, o que que efetivamente aconteceu.
+ 00:43:37
+
+Então, esse aumento aí da estar junto
+ 00:43:39
+
+com os produtores, não é, realizando esses
+ 00:43:42
+
+atendimentos, houve esse aumento
+ 00:43:44
+
+significativo e para nós isso nos
+ 00:43:46
+
+auxilia nos indicadores.
+ 00:43:48
+
+E os nós tivemos também resultados
+ 00:43:51
+
+qualitativos, não é? O que que são os
+ 00:43:53
+
+resultados qualitativos? nós enviamos aí
+ 00:43:54
+
+Google Formulários para os
+ 00:43:56
+
+extensionistas, não é? E os extensionistas
+ 00:43:58
+
+eh enviaram para os agricultores, não é? Ou
+ 00:44:00
+
+seja, para os produtores. Ã da metade
+ 00:44:03
+
+deles eh deram eh um retorno, não é, com
+ 00:44:07
+
+esses formulários, ou seja, eh pegou uma
+ 00:44:10
+
+parcela significativa aí ah do dos
+ 00:44:13
+
+produtores participantes. Foi
+ 00:44:16
+
+interessante porque a gente não teve
+ 00:44:18
+
+desistências, não é? Nenhum produtor
+ 00:44:20
+
+desistiu, pelo contrário, mais
+ 00:44:22
+
+produtores queriam informação da forma
+ 00:44:23
+
+como estava sendo enviada. Então, isso
+ 00:44:25
+
+foi bem interessante para nós. Eh, e na
+ 00:44:27
+
+avaliação dos extensionistas, de maneira
+ 00:44:30
+
+geral, os conteúdos enviados foram
+ 00:44:32
+
+úteis, não é? Eles eram bem elaborados.
+ 00:44:35
+
+Eh, e eles também sentiram, não é, essa
+ 00:44:38
+
+preferência aí do dos produtores e até
+ 00:44:41
+
+mesmo dos próprios extensionistas, não é,
+ 00:44:43
+
+por vídeos curtos e práticos, ou seja,
+ 00:44:45
+
+que fosse um vídeo curto e prático de
+ 00:44:47
+
+uma atividade específica, de uma prática
+ 00:44:49
+
+específica dentro da atividade
+ 00:44:51
+
+produtiva, seja na apicultura ou seja na
+ 00:44:53
+
+batata doce. E na avaliação dos
+ 00:44:55
+
+produtores, tem algo aqui que chama
+ 00:44:57
+
+muita atenção. Eh, 60% dos produtores
+ 00:44:59
+
+consideraram os conteúdos úteis e
+ 00:45:02
+
+aplicaram na atividade produtiva. Ou
+ 00:45:05
+
+seja,
+ 00:45:08
+
+não é,
+ 00:45:09
+
+a estratégia de utilizar a informação
+ 00:45:11
+
+calendarizada, ou seja, de chegar no
+ 00:45:13
+
+momento certo,
+ 00:45:16
+
+é algo extraordinário. Por quê? Porque o
+ 00:45:18
+
+produtor recebendo a informação, pô, eu
+ 00:45:21
+
+tô recebendo uma informação sobre o como
+ 00:45:23
+
+montar, eh, como eu trabalhar a parte do
+ 00:45:25
+
+plantil, não é? Preparo do berço ali com as
+ 00:45:28
+
+mudas de batata doce, bem na hora que eu
+ 00:45:30
+
+tô fazendo o plantil.
+ 00:45:32
+
+Então, aquilo me ajuda a entender melhor
+ 00:45:34
+
+o que que eu preciso fazer para melhorar
+ 00:45:36
+
+meu sistema produtivo. Da mesma forma na
+ 00:45:38
+
+apicultura, não é? Alimentação estratégica
+ 00:45:40
+
+ali das abelhas no período certo. Então,
+ 00:45:42
+
+pô, ó, tá no momento de fazer, não é?
+ 00:45:45
+
+Então, a gente tem informações e a gente
+ 00:45:47
+
+consegue fazer isso de forma tempestiva.
+ 00:45:49
+
+E 76% deles, não é, dos produtores,
+ 00:45:52
+
+avaliaram a linguagem como clara,
+ 00:45:54
+
+acessível e relevante. E isso para nós é
+ 00:45:56
+
+extremamente significativo, não é? Então,
+ 00:46:00
+
+logicamente, nós eh depois eu vou falar
+ 00:46:02
+
+um pouco mais, não é, de pontos que a gente
+ 00:46:05
+
+pode melhorar, mas isso tudo permitiu
+ 00:46:07
+
+com que houvesse o maior engajamento,
+ 00:46:10
+
+não é, dos extensionistas junto com os
+ 00:46:11
+
+produtores, os produtores junto com os
+ 00:46:13
+
+extensionistas.
+ 00:46:15
+
+H, a equipe nossa da EPAGR junto
+ 00:46:17
+
+pesquisadores, extensionistas,
+ 00:46:19
+
+coordenação de programa, eh, como foi o
+ 00:46:21
+
+caso do exemplo aí das mudas de batata
+ 00:46:24
+
+doce. E essa troca de experiências aí
+ 00:46:25
+
+foi muito rica e enriquecedora, não é?
+ 00:46:27
+
+Então, para nós é foi extremamente eh
+ 00:46:29
+
+interessante, não é, ter esse trabalho aí
+ 00:46:33
+
+com o projeto piloto junto com a
+ 00:46:34
+
+plataforma até mais digital, junto ao
+ 00:46:36
+
+Ministério, junto a
+ 00:46:37
+
+E dentro das lições aprendidas, não é, o
+ 00:46:40
+
+que que que a gente aprendeu com essa
+ 00:46:43
+
+grande experiência, não é, e gostaria de
+ 00:46:45
+
+transmitir aqui com vocês para que vocês
+ 00:46:47
+
+também possam pensar no dia a dia,
+ 00:46:50
+
+possam avaliar o que que há de
+ 00:46:52
+
+informação e e esse mapeamento prévio de
+ 00:46:53
+
+conteúdo é essencial. O que que
+ 00:46:57
+
+significa isso? Que o produtor tá
+ 00:46:59
+
+recebendo uma informação que foi eh
+ 00:47:01
+
+filtrado. A internet tem um monte de
+ 00:47:03
+
+informação, tem um monte de videozinho
+ 00:47:06
+
+sobre um monte de coisa em todas as
+ 00:47:08
+
+cadeias produtivas que vocês imaginaram.
+ 00:47:10
+
+Agora, o que que efetivamente eh é
+ 00:47:12
+
+aplicável dentro da propriedade é um
+ 00:47:15
+
+outro papo, não é? E o produtor não dá para
+ 00:47:17
+
+ficar experimentando tudo, não é? porque
+ 00:47:20
+
+ele tem riscos, ele precisa manter a
+ 00:47:23
+
+família, precisa eh ter qualidade de
+ 00:47:25
+
+vida, precisa ter uma propriedade que
+ 00:47:28
+
+que funcione, não é? Gere que permita
+ 00:47:30
+
+manter a família, que permita manter a
+ 00:47:33
+
+família com dignidade. Eu não posso
+ 00:47:35
+
+arriscar perder recursos ou perder tempo
+ 00:47:36
+
+e perder eh dinheiro, não é? No caso também
+ 00:47:40
+
+nesse momento ou perder insumos. Eu
+ 00:47:43
+
+tenho que ter uma informação que
+ 00:47:45
+
+efetivamente me auxilie. E não é à toa
+ 00:47:46
+
+que os produtores aí 60% deles afirmaram
+ 00:47:49
+
+utilizar em algum momento aí o que foi
+ 00:47:52
+
+encaminhado de informação.
+ 00:47:55
+
+Então esse mapeamento prévio de conteúdo
+ 00:47:57
+
+é essencial e junto a isso essa
+ 00:47:59
+
+calendarização, ou seja, a informação
+ 00:48:01
+
+chegando no momento certo. Então ter
+ 00:48:02
+
+esse conteúdo de forma organizada e
+ 00:48:05
+
+disponível, não é, já pensado antes do
+ 00:48:07
+
+início do projeto, reduz, não é, a carga de
+ 00:48:10
+
+trabalho durante a execução também.
+ 00:48:13
+
+Então isso foi fundamental porque
+ 00:48:14
+
+chegava segunda-feira era só encaminhar
+ 00:48:17
+
+o material, fazer alguns ajustes talvez
+ 00:48:18
+
+durante a semana ou elaborar algum
+ 00:48:21
+
+texto, mas já tava tudo selecionado, não é?
+ 00:48:22
+
+E o conteúdo bem estruturado, não é? Ele
+ 00:48:25
+
+ele ele pode ser encorpado, pode ganhar
+ 00:48:28
+
+força, pode ser melhor estruturado,
+ 00:48:32
+
+podem ter novas adições de conteúdos,
+ 00:48:35
+
+não é? Com pequenos ajustes para projetos
+ 00:48:37
+
+futuros.
+ 00:48:39
+
+E essa questão da adaptação local da
+ 00:48:41
+
+informação, não é?
+ 00:48:43
+
+O Brasil é muito grande, é muito grande.
+ 00:48:44
+
+Eh, e nós temos diferenças dentro dos
+ 00:48:48
+
+municípios, dentro dos das regiões,
+ 00:48:51
+
+microrregiões, dentro dos estados.
+ 00:48:54
+
+Imagina a nível de Brasil as diferenças
+ 00:48:56
+
+que nós temos, não é? Então, quem teve a
+ 00:48:58
+
+oportunidade de conhecer outros estados
+ 00:49:00
+
+aí eh e outras experiências aqui dentro
+ 00:49:02
+
+do canal, é uma oportunidade para
+ 00:49:06
+
+conhecer outros estados, outras
+ 00:49:08
+
+experiências também.
+ 00:49:09
+
+E essa necessidade de adaptação local é
+ 00:49:11
+
+muito importante pro produtor, porque
+ 00:49:13
+
+nós temos as questões adfocimáticas, ou
+ 00:49:15
+
+seja, solo, clima, não é, tudo que
+ 00:49:17
+
+influencia aí a produção. E essa
+ 00:49:19
+
+adaptação local, ela permite com que a
+ 00:49:21
+
+informação seja mais adequada, não é?
+ 00:49:23
+
+Então, eh, alguns eh algumas informações
+ 00:49:26
+
+dentro da plataforma Terma digital são
+ 00:49:30
+
+mais apropriadas para alguma determinada
+ 00:49:32
+
+condição de cultivo ou uma determinado
+ 00:49:34
+
+eh forma de produção ou às vezes em
+ 00:49:36
+
+alguns estados, não é, funciona melhor, mas
+ 00:49:39
+
+paraa nossa condição aqui talvez seja
+ 00:49:41
+
+diferente. Vou dar um exemplo aqui a
+ 00:49:43
+
+florada piccola, não é, é totalmente
+ 00:49:44
+
+diferente nas em regiões e assim por
+ 00:49:47
+
+diante. as a as a vegetação muda. Como é
+ 00:49:49
+
+que eu vou fazer um manejo de calendário
+ 00:49:52
+
+apícola pro serrado e outro e e para
+ 00:49:55
+
+Santa Catarina vou usar o mesmo? Não,
+ 00:49:58
+
+imagina a florada do serrado é
+ 00:50:00
+
+totalmente diferente da florada aqui em
+ 00:50:02
+
+Santa Catarina. Aqui em Santa Catarina a
+ 00:50:03
+
+florada do litoral e da bacia
+ 00:50:05
+
+hidrográfica do rio Uruguai é diferente
+ 00:50:07
+
+da dos campos de altitude. Então eh isso
+ 00:50:08
+
+exige manejos diferenciados, não é? Então,
+ 00:50:11
+
+essa necessidade de adaptação local do
+ 00:50:13
+
+conteúdo técnico, ou seja, nós
+ 00:50:15
+
+selecionamos os conteúdos que se adequam
+ 00:50:17
+
+à realidade dos produtores aqui em Santa
+ 00:50:19
+
+Frietari
+ 00:50:21
+
+e isso trouxe mais relevância paraa
+ 00:50:23
+
+informação, não é? Eh, esse esse valor aí
+ 00:50:25
+
+que agregou dentro da integração entre o
+ 00:50:29
+
+digital e o presencial, não é? Então, eh,
+ 00:50:31
+
+houveram vários relatos aí dos
+ 00:50:34
+
+extensionistas também nos formulários
+ 00:50:36
+
+Google. nós tivemos, não é, a combinação aí
+ 00:50:37
+
+das estratégias digitais com as
+ 00:50:40
+
+atividades presenciais, isso
+ 00:50:42
+
+potencializou o aprendizado do produtor.
+ 00:50:44
+
+Talvez por isso tenha levado tanta
+ 00:50:47
+
+adoção de algumas práticas aí que foram
+ 00:50:49
+
+informadas. Imagina, não é? Eu recebi
+ 00:50:52
+
+informação, eu estou executando aqui na
+ 00:50:54
+
+minha na minha propriedade uma atividade
+ 00:50:56
+
+e ainda recebo a visita do extensionista
+ 00:50:59
+
+ou participo de um curso que tem relação
+ 00:51:02
+
+com a atividade, com o que foi
+ 00:51:04
+
+informado. Isso é chave, não é? O produtor
+ 00:51:05
+
+tá tendo uma informação que fica ali no
+ 00:51:09
+
+WhatsApp dele que ele pode acessar a
+ 00:51:11
+
+qualquer momento, ele pode replicar com
+ 00:51:12
+
+outros eh amigos, familiares, vizinhos,
+ 00:51:14
+
+não é? aí dentro da comunidade que ele tá
+ 00:51:18
+
+inserido. E isso aconteceu de diversas
+ 00:51:19
+
+formas, não é? E a questão da produção de
+ 00:51:22
+
+mudas foi uma coisa assim que foi PT
+ 00:51:23
+
+pipocando e, não é, aumenta os alcances aí
+ 00:51:25
+
+das plataformas que a gente utiliza aí
+ 00:51:29
+
+para difusão. E essa
+ 00:51:30
+
+eh foi fundamental para nós aí definir
+ 00:51:34
+
+muito bem a estratégia e construir isso
+ 00:51:37
+
+junto com os extensionistas. levou
+ 00:51:38
+
+tempo, eh, demandou tempo, não é, de todos,
+ 00:51:41
+
+mas isso ajudou muito na aplicação, na
+ 00:51:45
+
+parte da prática, não é, na execução
+ 00:51:48
+
+prática desse desse desse projeto. E e
+ 00:51:50
+
+esse envolvimento dos extensionistas,
+ 00:51:55
+
+não é, da coordenação do programa, entender
+ 00:51:57
+
+os produtores para que teriam mais,
+ 00:51:59
+
+fariam mais sentido estarem presentes
+ 00:52:01
+
+dentro desse, desse projeto. É, foi
+ 00:52:03
+
+extremamente importante porque
+ 00:52:06
+
+é difícil, não é? Nós temos um planejamento
+ 00:52:09
+
+dentro dos municípios, temos que
+ 00:52:11
+
+executar aquilo que foi planejado,
+ 00:52:12
+
+capacitações, estratégias de trabalho
+ 00:52:14
+
+dentro determinadas cadeias produtivas
+ 00:52:16
+
+para desenvolver aquele município, não é?
+ 00:52:18
+
+Nós somos como extensionistas agentes de
+ 00:52:20
+
+desenvolvimento rural e temos os nossos
+ 00:52:22
+
+afazeres, as nossas tarefas, as nossas
+ 00:52:26
+
+demandas com políticas públicas e assim
+ 00:52:28
+
+por diante. E além disso, fazer esse
+ 00:52:30
+
+algo a mais aí, esse algo novo que eles
+ 00:52:33
+
+entenderam que isso fortaleceu esse
+ 00:52:35
+
+trabalho, não é? Então, porque foi uma
+ 00:52:37
+
+construção coletiva, não é? Não foi o
+ 00:52:39
+
+Humberto, não foi o Darlan, foi foi todo
+ 00:52:41
+
+mundo junto trabalhando, eh, com o apoio
+ 00:52:43
+
+aí do do da plataforma Termis Digital,
+ 00:52:46
+
+com apoio do ICA, da BRAPA e do
+ 00:52:48
+
+Ministério da Agricultura.
+ 00:52:51
+
+E nós observamos também oportunidade de
+ 00:52:53
+
+melhoria, não é, ao final do projeto foi
+ 00:52:55
+
+feita uma visita, então todas as
+ 00:52:57
+
+instituições estão aqui, não é, nessa nessa
+ 00:52:59
+
+foto representadas ali. Visitamos alguns
+ 00:53:01
+
+produtores
+ 00:53:03
+
+nas regiões atendidas aí eh tanto da
+ 00:53:05
+
+apicultura quanto da batata doce.
+ 00:53:08
+
+E essa conversa aí trouxe bastante
+ 00:53:10
+
+informação também, não é, e consolidou
+ 00:53:13
+
+aquilo que veio como resposta dos
+ 00:53:15
+
+formulários Google até o momento, não é?
+ 00:53:16
+
+Então, eh, e aí consolidou também a
+ 00:53:19
+
+questão das oportunidades e aí melhorias
+ 00:53:22
+
+que a gente pode, eh, promover dentro
+ 00:53:24
+
+disso do que a gente construiu aqui. Eh,
+ 00:53:27
+
+uma delas é a questão da padronização da
+ 00:53:30
+
+apresentação dos formatos, não é? Então,
+ 00:53:32
+
+ah, por ter essa questão, ah, cards, um
+ 00:53:35
+
+fazia card, o outro não fazia card, eh,
+ 00:53:38
+
+fazia uma imagem, não é, para enviar junto
+ 00:53:41
+
+com os textos, outro não. A questão de
+ 00:53:43
+
+enviar um áudio, um inaccionista
+ 00:53:45
+
+enviava, o outro não. Então assim, eh,
+ 00:53:47
+
+uma padronização melhor aí da
+ 00:53:51
+
+apresentação desses formatos tende a
+ 00:53:53
+
+tornar isso mais institucional, mais
+ 00:53:56
+
+agradável aos olhos, não é, e chamar mais
+ 00:53:59
+
+atenção pros pros temas que estão sendo
+ 00:54:02
+
+colocados.
+ 00:54:04
+
+Eh, a gente conseguiu entender, não é,
+ 00:54:06
+
+quando a gente foi a campo, eh, junto
+ 00:54:07
+
+com os extensionistas lá, que tem alguns
+ 00:54:09
+
+horários que favorecem a a ao produtor
+ 00:54:13
+
+eh receber a informação e conseguir ver.
+ 00:54:17
+
+E o horário do almoço é um deles, não é,
+ 00:54:20
+
+porque o produtor tá ali almoçando, tal,
+ 00:54:23
+
+às vezes põe na TV ou eh termina a
+ 00:54:24
+
+refeição, agora tira um tempo para ver o
+ 00:54:27
+
+WhatsApp e daí ele acaba vendo a
+ 00:54:29
+
+informação lá que recebeu da Ipagre.
+ 00:54:31
+
+Então, eh, essas nuances assim foram bem
+ 00:54:33
+
+foi foram bem marcantes dentro do
+ 00:54:37
+
+projeto, não é? A gente conseguiu ver
+ 00:54:39
+
+algumas questões na nas limitações da
+ 00:54:41
+
+interação, não é, principalmente eh as
+ 00:54:44
+
+questões eh mais relacionadas aí a
+ 00:54:46
+
+alguns produtos mais de texto, não é?
+ 00:54:49
+
+Então, a gente sempre buscava mandar um
+ 00:54:51
+
+vídeo, mandar uma imagem, eh, mandar um
+ 00:54:53
+
+áudio, eh, mas também enviava documentos
+ 00:54:56
+
+que foram elaborados pela EPAGR ou
+ 00:55:00
+
+disponíveis em outras plataformas, não é,
+ 00:55:02
+
+como a Terma Digital. Mas eh a questão
+ 00:55:04
+
+dos textos sempre tem limitações aí na
+ 00:55:06
+
+interação. Alguns vídeos talvez eram um
+ 00:55:09
+
+pouco longos, não é? A preferência por
+ 00:55:11
+
+vídeos mais curtos de 5, 10 minutos era
+ 00:55:13
+
+uma preferência maior. Então essas
+ 00:55:16
+
+questões aí do do digital, não é? E aí nós
+ 00:55:18
+
+temos a oportunidade, não é, de de expansão
+ 00:55:22
+
+aí para outras cadeias produtivas. Nós
+ 00:55:24
+
+ainda estamos eh estudando esses
+ 00:55:27
+
+formatos. Estamos estudando ainda um uns
+ 00:55:29
+
+alguns formatos maiores para equagre
+ 00:55:32
+
+como um todo, não é? Hoje o nosso sistema
+ 00:55:34
+
+de cadastro permite a inclusão do
+ 00:55:36
+
+celular e como a gente pode fazer isso,
+ 00:55:38
+
+não é, de uma maneira mais automatizada,
+ 00:55:41
+
+não é, sendo que o extensionista esteja
+ 00:55:43
+
+informado, mas que o produtor receba
+ 00:55:44
+
+essa informação mais personalizada, não é?
+ 00:55:47
+
+Talvez essa seja o ganho do projeto
+ 00:55:48
+
+piloto e do ATER mais digital, porque a
+ 00:55:51
+
+gente começa a entender melhor eh como a
+ 00:55:53
+
+gente consegue chegar, não é, nos nossos
+ 00:55:56
+
+produtores
+ 00:55:58
+
+e que a informação seja personalizada,
+ 00:56:00
+
+não é? Então essa isso ficou bastante claro
+ 00:56:03
+
+para nós e o uso aí de diversas
+ 00:56:05
+
+plataformas, não é? E então com o YouTube
+ 00:56:08
+
+fica fácil, não é? mais fácil do que eu
+ 00:56:10
+
+mandar um vídeo pelo WhatsApp, que é
+ 00:56:12
+
+pesado, às vezes a qualidade da conexão
+ 00:56:14
+
+não é tão boa pro produtor e isso torna
+ 00:56:16
+
+eh um pouco mais difícil. Eh, e para as
+ 00:56:18
+
+considerações finais, assim, não é, eu sei
+ 00:56:21
+
+que já foi falado aqui por outras
+ 00:56:23
+
+pessoas, não é, a gente conversa muito e
+ 00:56:25
+
+disso no hubí da plataforma, eh, junto
+ 00:56:27
+
+com toda a equipe, não é, e que agradecer
+ 00:56:31
+
+por todos que se envolveram nesse
+ 00:56:34
+
+projeto piloto, eh, que que a T digital
+ 00:56:35
+
+ela não substitui a presença humana, não é,
+ 00:56:39
+
+mas ela potencializa de uma forma
+ 00:56:41
+
+extraordinária. Isso a gente conseguiu
+ 00:56:42
+
+ver de uma maneira bastante clara no
+ 00:56:45
+
+projeto aí do piloto até mais do hubé
+ 00:56:47
+
+mais digital e que a tecnologia ela foi
+ 00:56:50
+
+aí um um grande aliado para que a gente
+ 00:56:53
+
+consiga alcançar aí conseguir se
+ 00:56:56
+
+alcançar de maneira mais igualitária aí
+ 00:56:59
+
+as pessoas, não é, e com eficiência, não é?
+ 00:57:02
+
+Então, ou seja, uma informação que não é
+ 00:57:05
+
+pesada, que não é todo dia, que tem uma
+ 00:57:08
+
+calibalização, que chega uma vez por
+ 00:57:10
+
+semana, eh algumas informações que
+ 00:57:13
+
+vieram, ah, se fosse a cada 15 dias,
+ 00:57:15
+
+talvez fosse eh menos demandado dos
+ 00:57:17
+
+extensionistas, não é? Então, que tipo de
+ 00:57:20
+
+informação que eu tenho que mandar
+ 00:57:22
+
+semanal, que tipo de informação eu tenho
+ 00:57:23
+
+que mandar a cada 15 dias? Então, ah,
+ 00:57:25
+
+esse tipo de coisa ainda não não ainda
+ 00:57:28
+
+existe oportunidade para evoluir e a
+ 00:57:31
+
+tecnologia aliada para isso, não é?
+ 00:57:34
+
+E nós acreditamos aqui dentro da Ipagre
+ 00:57:37
+
+que o futuro da extensão rural, ela
+ 00:57:40
+
+passa com certeza, não é, pela combinação
+ 00:57:42
+
+aí da inovação que faz parte do nosso
+ 00:57:45
+
+propósito dentro da IPAGR e a
+ 00:57:47
+
+proximidade com o agricultor. E essa
+ 00:57:49
+
+questão é que a TER digital aí nos nos
+ 00:57:52
+
+fortalece muito, que é a questão da
+ 00:57:54
+
+proximidade, não é? Então, eh, a distância
+ 00:57:56
+
+diminuiu entre o meio rural e o
+ 00:58:00
+
+escritório da Epagre, digamos assim, não é?
+ 00:58:02
+
+Nós estamos mais próximos. Isso é
+ 00:58:04
+
+fundamental. Então assim, pessoal, aqui
+ 00:58:06
+
+fica o meu contato. Se quiserem escanear
+ 00:58:09
+
+o Qcode é esse. Se quiserem eh falar
+ 00:58:11
+
+pelo Instagram, acho que é mais fácil.
+ 00:58:14
+
+Aí tem o @umberto Bic, se quiserem
+ 00:58:15
+
+conversar. Eh, meu nome é Humberto
+ 00:58:17
+
+Bicaneto, analista de extensão da
+ 00:58:19
+
+empresa de pesquisa agropecuária,
+ 00:58:21
+
+extensão rural de Santa Catarina. E nós
+ 00:58:23
+
+somos o braço aí da Secretaria de Estado
+ 00:58:25
+
+da Agricultura e Pecuária e do governo
+ 00:58:27
+
+do estado com ATER e pesquisa oficial
+ 00:58:28
+
+juntamente com o ensino agrotécnico.
+ 00:58:32
+
+Agora, eh, um prazer estar com vocês.
+ 00:58:33
+
+Vocês podem acompanhar e pagem nas redes
+ 00:58:36
+
+sociais também. E agora dentro do tempo,
+ 00:58:38
+
+não é, Zoom e Ezequiel, a gente consegue aí
+ 00:58:41
+
+eh ter espaço para perguntas,
+ 00:58:44
+
+comentários, a gente vai avançar.
+ 00:58:46
+
+Muito bem, Berto, obrigado pela sua
+ 00:58:50
+
+apresentação. E aí a gente tem aqui
+ 00:58:52
+
+vários comentários aqui no nosso canal
+ 00:58:55
+
+hoje. O pessoal tá emocionado aqui,
+ 00:58:58
+
+então, sem muitos rodeios, já vou direto
+ 00:59:00
+
+pro nossos comentários. Professor Gilmar
+ 00:59:03
+
+La Forga, sempre da Universidade
+ 00:59:05
+
+Estadual do Mato Grosso, um grande
+ 00:59:07
+
+apaixonado pela extensão rural, tem
+ 00:59:09
+
+publicado muitos artigos sobre extensão
+ 00:59:11
+
+rural também. Obrigado pela tua
+ 00:59:13
+
+presença. Eu vou ter que se conhecer
+ 00:59:15
+
+pessoalmente, talvez aí numa soberda
+ 00:59:16
+
+vida aí é muito legal. Gilmar tem
+ 00:59:18
+
+trocado muitos e-mails aí. obrigado
+ 00:59:21
+
+sempre pela tua presença. A Jéssica
+ 00:59:23
+
+também tá aqui saudando o pessoal,
+ 00:59:26
+
+pessoal da PPG CTS da Scar aí da do PPG
+ 00:59:27
+
+que Zem trabalho também presente. Temos
+ 00:59:32
+
+aqui também pessoal do técnico Agrícola,
+ 00:59:34
+
+mas do Tec Futicultura aqui do
+ 00:59:37
+
+Politécnico do FM. Nós temos um técnico
+ 00:59:39
+
+aí em fruticultura 75% IAD, 25%
+ 00:59:42
+
+presencial que a gente faz nossos
+ 00:59:45
+
+encontros nos sábados para fazer a
+ 00:59:47
+
+prática, não é? A fruticultura precisa
+ 00:59:48
+
+praticar. Obrigado Paulo, pela tua
+ 00:59:50
+
+presença. Nosso aluno de extensão rural
+ 00:59:52
+
+tava debatendo aqui enquanto você
+ 00:59:55
+
+falava, nós estava debatendo aqui sobre
+ 00:59:56
+
+a importância do uso do canva, não é? E aí
+ 00:59:58
+
+nós temos uma atividade semana que vem.
+ 01:00:00
+
+Eu disse: "Ó, vai ter atividade". Daí
+ 01:00:02
+
+ele comentou até que ele já usa o Canva
+ 01:00:03
+
+para fazer cards e tal, mas para fazer
+ 01:00:06
+
+PowerPoint ele não comentou. Obrigado
+ 01:00:08
+
+Paulo pelo teu comentário lá. a gente
+ 01:00:10
+
+tava debatendo sobre essas questões. A
+ 01:00:12
+
+Flávia também tá presente aqui, atenta à
+ 01:00:14
+
+fala do colega Humberto, que vão
+ 01:00:17
+
+encontrar paraos nesse espaço valioso de
+ 01:00:19
+
+formação.
+ 01:00:21
+
+Nós temos também aqui o Patrick,
+ 01:00:23
+
+extensionista da Mater São Cepé.
+ 01:00:25
+
+Obrigado pela presença, Patrick. Nós
+ 01:00:27
+
+vamos fazer uma caminhada natureza então
+ 01:00:29
+
+logo aí em São Cepé, quem sabe. E temos
+ 01:00:31
+
+aqui a Olívia, não é? uma grande admiradora
+ 01:00:35
+
+do trabalho do Zap Rural que tem feito
+ 01:00:37
+
+um papel incrível na difusão da Tra
+ 01:00:39
+
+digital. Como eles influenciam? Ah, essa
+ 01:00:41
+
+é a pergunta do Olívia, não é? Como eles
+ 01:00:43
+
+influenciam. Tem muita pergunta aqui.
+ 01:00:45
+
+Uns são comentários e pergunta. Já vou
+ 01:00:47
+
+trazer uma outra da Oliv do Patrick
+ 01:00:49
+
+junto, não é, Patrick? Como como faz para
+ 01:00:52
+
+receber as notificações do zap rural?
+ 01:00:54
+
+Então, como influencia e como faz para
+ 01:00:56
+
+receber? Essas são as duas perguntas
+ 01:00:58
+
+aqui. Tá contigo, Ver. Legal. Eh,
+ 01:01:00
+
+obrigado pelas perguntas. O zap rural,
+ 01:01:04
+
+ele tem uma característica eh bastante
+ 01:01:07
+
+única, não é, de de ter esses vídeos
+ 01:01:10
+
+rápidos e práticos aí para para as
+ 01:01:12
+
+atividades ali. A o Felipe, a Flávia tem
+ 01:01:14
+
+um envolvimento muito grande, tem outros
+ 01:01:17
+
+intencionistas que participam também,
+ 01:01:18
+
+dependendo do tema pesquisadores, e ele
+ 01:01:20
+
+é muito dinâmico, não é? Eh, tem uma lista
+ 01:01:23
+
+de transmissão também no WhatsApp, não é?
+ 01:01:26
+
+Então, para se incluir dentro disso, não é?
+ 01:01:28
+
+dentro do do zap rural ou entra ali no
+ 01:01:31
+
+grupo da Rede Aurora, não sei se tem
+ 01:01:34
+
+limite de participantes também, não é,
+ 01:01:35
+
+Zuin? Também é possível receber, eh,
+ 01:01:37
+
+viu, ó. Então, também possível vai
+ 01:01:40
+
+receber dentro do do grupo da Rede
+ 01:01:41
+
+Aurora. Acredito que deve ter links aí
+ 01:01:43
+
+no canal para poder entrar no grupo,
+ 01:01:46
+
+acredito eu, não é? E que e que consegue
+ 01:01:48
+
+receber aí o Zap Rural pelo WhatsApp,
+ 01:01:51
+
+não é? Então, podem podem ficar à vontade.
+ 01:01:53
+
+E o zap rural, assim, eh, ele tem vários
+ 01:01:55
+
+vídeos, não é? Então, dependendo da cadeia
+ 01:01:58
+
+produtiva, a gente consegue eh utilizar
+ 01:01:59
+
+esses vídeos. O a questão é que na
+ 01:02:02
+
+batata doce era mais específico na
+ 01:02:04
+
+época, não é? E a gente gravou alguns
+ 01:02:06
+
+vídeos ali junto com ação experimental
+ 01:02:08
+
+de Uruçanga e acabou enviando o vídeo já
+ 01:02:10
+
+sem a edição ainda do zap rural, mas eh
+ 01:02:13
+
+com a apicultura. Tem outros vídeos
+ 01:02:16
+
+também que envolve a apicultura ali do
+ 01:02:18
+
+Zap rural. E a gente assim utilizou
+ 01:02:19
+
+várias informações eh eh da IPAG que já
+ 01:02:22
+
+tinha no YouTube e vídeos aí que são
+ 01:02:26
+
+gerados de forma geral aí para as
+ 01:02:29
+
+atividades produtivas. Então assim, eh
+ 01:02:31
+
+como era um projeto piloto fechado, não é,
+ 01:02:33
+
+para para extensionistas e produtores, a
+ 01:02:36
+
+gente usou poucas informações do zap
+ 01:02:38
+
+rural. O zap rural também ele não é
+ 01:02:40
+
+específico de uma cadeia produtiva ou de
+ 01:02:42
+
+outra cadeia produtiva. Ele ele abrange
+ 01:02:44
+
+uma diversidade de temas da extensão
+ 01:02:46
+
+rural que nós trabalhamos, não é? Então, eh
+ 01:02:47
+
+eh essa é a característica um pouco
+ 01:02:51
+
+diferente aí do zap rural, por isso que
+ 01:02:52
+
+não foi tão comentado dentro da minha da
+ 01:02:54
+
+minha apresentação. Aí mandar um abraço
+ 01:02:56
+
+paraa Flávia, não é, que tá nos
+ 01:02:58
+
+acompanhando aí, minha amiga, colega lá
+ 01:02:59
+
+do extremo catarinense.
+ 01:03:02
+
+Muito bom. Zap rural uma referência aí
+ 01:03:04
+
+no Brasil e no mundo, não é? Ganharam e
+ 01:03:07
+
+pago aí sempre na frente aí dessa
+ 01:03:09
+
+questão da terra digital. Muito legal
+ 01:03:11
+
+mesmo. Eh, vamos ver aqui a próxima.
+ 01:03:13
+
+Gente, tem muita pergunta. Tô até me
+ 01:03:16
+
+perdendo aqui aqui do Igor, tá? Bom dia.
+ 01:03:17
+
+Poderia explicar um pouco mais as formas
+ 01:03:21
+
+da integração dos conhecimentos locais
+ 01:03:23
+
+aos conteúdos compartilhados?
+ 01:03:25
+
+Conhecimentos locais com os conteúdos
+ 01:03:29
+
+compartilhados.
+ 01:03:31
+
+Ótima pergunta também, não é? As perguntas
+ 01:03:34
+
+estão bem interessantes aí. Parabéns
+ 01:03:36
+
+para quem participa por estar atento e e
+ 01:03:38
+
+trazer essa esse novo momento aí pra
+ 01:03:41
+
+gente conversar sobre isso. Eh, então, o
+ 01:03:44
+
+que que a gente traz aí dos
+ 01:03:48
+
+conhecimentos locais, não é? Os nossos
+ 01:03:49
+
+extensionistas eles trabalham dia a dia
+ 01:03:50
+
+ali junto com os produtores, não é? E
+ 01:03:52
+
+dentro dessas cadeias produtivas, eh, o
+ 01:03:55
+
+dia a dia faz parte ali com a batata
+ 01:03:57
+
+doce, com a apicultura também. E esses
+ 01:03:59
+
+temas eh eh mais específicos, não é, dentro
+ 01:04:02
+
+do do que as cadeias produtivas
+ 01:04:05
+
+trabalham, eles dependem muito da
+ 01:04:07
+
+realidade. Então tem cultivares que vão
+ 01:04:09
+
+melhor em determinadas condições, não é, a
+ 01:04:11
+
+questão de manejos, não é, de florada
+ 01:04:14
+
+pícola em outras condições. Então esse
+ 01:04:16
+
+conhecimento local, não é, por exemplo, na
+ 01:04:19
+
+apicultura da florada, que ela é
+ 01:04:21
+
+específica em determinadas épocas do
+ 01:04:23
+
+ano, determinadas espécies, eh, dentro
+ 01:04:25
+
+das matas nativas, dentro dos campos
+ 01:04:27
+
+cultivados, não é? dar um exemplo no
+ 01:04:30
+
+inverno agora do nabo forrageiro, eh, e
+ 01:04:32
+
+outras espécies aí, trigo mourisco, um
+ 01:04:35
+
+pouco antes disso, não é, ali em janeiro,
+ 01:04:37
+
+fevereiro. Então, eh, existem,
+ 01:04:39
+
+eh, pastos apícolos que podem ser
+ 01:04:42
+
+recomendados e algumas regiões têm a
+ 01:04:44
+
+oportunidade de sementes sobre isso,
+ 01:04:46
+
+outras não. Então, esse conhecimento,
+ 01:04:48
+
+não é, daquilo que é mais adequado à
+ 01:04:51
+
+região, não é? Então ali no sul do estado,
+ 01:04:53
+
+a questão da produção de mudas e batata
+ 01:04:56
+
+doce de algumas cultivares, não é, que
+ 01:04:57
+
+foram lançadas pela Epag ali pela
+ 01:04:59
+
+Estação Expimental do Uruçanga, ela é já
+ 01:05:02
+
+adaptada à realidade e a condição
+ 01:05:04
+
+daquela região, não é? Então, esse
+ 01:05:06
+
+conhecimento local do produtor, usando a
+ 01:05:07
+
+tecnologia que já foi gerada, os vídeos
+ 01:05:09
+
+de informação nos temas que foram
+ 01:05:12
+
+enviados específicos, não é, para aquela
+ 01:05:14
+
+condição, eh, abordando aí o
+ 01:05:16
+
+conhecimento local junto com a
+ 01:05:18
+
+tecnologia, não é, e a integração desse
+ 01:05:19
+
+conhecimento local com a pesquisa
+ 01:05:22
+
+através da extensão rural e dos
+ 01:05:24
+
+produtores. É um casamento aí que que
+ 01:05:26
+
+permite
+ 01:05:28
+
+chegar de uma maneira mais adaptada com
+ 01:05:30
+
+a realidade daquele produtor, não é? Então
+ 01:05:33
+
+acho que é esse é um é chave, não é, dentro
+ 01:05:34
+
+desse, desse processo aí que foi a pr
+ 01:05:38
+
+hubí da terra digital nesse projeto
+ 01:05:41
+
+piloto. Muito bem. Eh, a Paloma acho que
+ 01:05:43
+
+faz um comentário, uma pergunta mais ou
+ 01:05:47
+
+menos nesse sentido também. Eu acho que
+ 01:05:50
+
+qual o principal desafio em relação a
+ 01:05:51
+
+criar conteúdos diferentes, adequados a
+ 01:05:54
+
+cada regionalidade do nosso país
+ 01:05:58
+
+continental,
+ 01:06:00
+
+não é?
+ 01:06:02
+
+Bem interessante, não é, Ezequiel? O o que
+ 01:06:03
+
+a gente vê assim é o que foi apresentado
+ 01:06:07
+
+aqui em outros momentos ali pelo pelo
+ 01:06:09
+
+Luciano Nas, pelo Rodrigo Ferraz, quando
+ 01:06:11
+
+da criação da plataforma Ter mais
+ 01:06:13
+
+digital, porque tu tem eh até hubs lá
+ 01:06:15
+
+que são específicos para regiões, não é,
+ 01:06:18
+
+como é o caso do Feijão Calpi, não é?
+ 01:06:19
+
+Feijão Calpi aqui para nós é totalmente
+ 01:06:21
+
+não não faz parte da nossa da nossa
+ 01:06:23
+
+realidade, mas para outras regiões faz
+ 01:06:26
+
+extremo sentido, não é? Então, e a geração
+ 01:06:29
+
+de material para isso, ã, localizada,
+ 01:06:32
+
+não é, e, e
+ 01:06:36
+
+ela faz sentido pro produtor.
+ 01:06:39
+
+Algumas outras informações, elas nem
+ 01:06:42
+
+dependem de região, não é? Vou dar um
+ 01:06:44
+
+exemplo aqui de boas práticas de de de
+ 01:06:46
+
+fabricação, não é? A gente passou eh
+ 01:06:49
+
+receitas de cade de de batata doce, por
+ 01:06:52
+
+exemplo. Eh, batata doce é um alimento
+ 01:06:55
+
+que tá disponível na maioria das
+ 01:06:57
+
+regiões, não é? Então, dependendo do tipo
+ 01:06:58
+
+da informação, ela se se adapta a mais
+ 01:07:01
+
+territórios, a mais condições e mais
+ 01:07:04
+
+realidades, não é? Outras informações já
+ 01:07:06
+
+nem tanto, não é? A questão é que
+ 01:07:08
+
+informação a gente tem um de forma até
+ 01:07:10
+
+abundante aí no na internet. Agora,
+ 01:07:13
+
+aquilo que realmente interessa ao
+ 01:07:16
+
+produtor, aquela condição, aquela
+ 01:07:18
+
+realidade, aí é outro papo, não é? aquilo
+ 01:07:20
+
+que se adequa à realidade dele é outro
+ 01:07:22
+
+po. Por isso que é interessante a a o
+ 01:07:24
+
+profissional, não é, o extensionista rural
+ 01:07:28
+
+ali junto para definir os temas, porque
+ 01:07:31
+
+daí ele vai entender, não, para essa
+ 01:07:33
+
+realidade aqui, isso aqui faz sentido,
+ 01:07:34
+
+isso ali não faz sentido, não é? Então
+ 01:07:36
+
+ajuda o produtor nessa orientação. Isso
+ 01:07:38
+
+é uma forma de orientar, não é? Uma forma
+ 01:07:40
+
+de estar junto com o produtor. E e daí
+ 01:07:42
+
+nós pegamos aí a parte, por exemplo, do
+ 01:07:45
+
+uso da fumigação, não é? as abelhas, pelo
+ 01:07:47
+
+menos na apicultura comercial aqui, não é?
+ 01:07:50
+
+Não tanto as nativas, mas a pilicultura
+ 01:07:52
+
+comercial, nós temos aí a nossa abelha
+ 01:07:54
+
+africanizada, não é, que é um cruzamento
+ 01:07:56
+
+aí, um híbrido
+ 01:07:58
+
+das espécies europeias aí com com uma
+ 01:08:00
+
+espécie africana. E e esse manejo da
+ 01:08:03
+
+fumigação, não é, que eu uso da fumaça para
+ 01:08:07
+
+acalmar os bichinhos lá, não é, porque eles
+ 01:08:09
+
+encham a pancinha de melada
+ 01:08:11
+
+em nós, não é, eh, na hora de fazer o
+ 01:08:15
+
+manejo, ela é uma é uma característica
+ 01:08:18
+
+que se adequa a todos os apicultores,
+ 01:08:21
+
+não é, o uso correto da fumaça para evitar
+ 01:08:23
+
+queimar as abelhas, para evitar ter
+ 01:08:25
+
+contaminação do mel por fumaça, não é?
+ 01:08:27
+
+Então, eh, algumas tecnologias, não é, são
+ 01:08:30
+
+adequadas para várias realidades, outras
+ 01:08:34
+
+nem tanto.
+ 01:08:35
+
+É muito bom. A Paloma aqui, nossa, a
+ 01:08:38
+
+Paloma também já tem um uma história aí
+ 01:08:41
+
+na Terra, não é? Então a Paloma diz o
+ 01:08:45
+
+seguinte, a Paloma da Embrapa, não é,
+ 01:08:47
+
+plataforma Terma Digital, o projeto
+ 01:08:49
+
+trouxe contribuições valiosas para Term
+ 01:08:52
+
+Digital, não é, que e foi muito bem
+ 01:08:54
+
+executado. Parabéns pela apresentação,
+ 01:08:56
+
+pelo trabalho. Então é um elogio aí da
+ 01:08:58
+
+Paloma. Também temos outro do Lauro,
+ 01:09:00
+
+aqui, nosso extensionista da Imaté
+ 01:09:03
+
+Lajado, mestre em extensão rural, grande
+ 01:09:04
+
+um grande entusiasta aí eh dos canais de
+ 01:09:08
+
+circuitos curtos e comercialização, não é?
+ 01:09:11
+
+O Lauro parabeniza Humberto de Ipagre,
+ 01:09:13
+
+não é? Trabalho referencial sinalizando
+ 01:09:15
+
+avanços replicáveis nas estruturas
+ 01:09:18
+
+públicas de Ater, não é? A Grande do Sul,
+ 01:09:20
+
+não é? A sigla com o social junto, não é? ATER
+ 01:09:24
+
+RS ATERS. Muito obrigado, Lauro, pela
+ 01:09:27
+
+tua presença. Conseguimos uma live com o
+ 01:09:29
+
+Lauro, foi muito difícil, mas nós
+ 01:09:32
+
+conseguimos, Lauro. Obrigado. O Lauro é
+ 01:09:34
+
+uma fera inteligentíssima. Aqui temos
+ 01:09:36
+
+aqui o nosso amigo Adelar. Adelar aqui
+ 01:09:39
+
+nosso foi nosso egresso Tec
+ 01:09:41
+
+fruticultura, agricultor sempre presente
+ 01:09:42
+
+aqui nas lives. Muito obrigado, Adelar.
+ 01:09:45
+
+É um prazer te receber sempre aqui. O
+ 01:09:47
+
+Luciano da Embrapa também aqui, não é? Bom
+ 01:09:49
+
+dia, Humberto. Excelente trabalho em
+ 01:09:52
+
+parceria. Espero que a gente possa
+ 01:09:54
+
+seguir juntos nessa caminhada. Parabéns.
+ 01:09:55
+
+Muito bom. O Carlos aqui também nosso
+ 01:09:58
+
+aluno técnico de cultura AD. Apesar que
+ 01:10:00
+
+no sul tá chovendo tudo que é lugar, a
+ 01:10:03
+
+galera tá assistindo. Talvez seja isso
+ 01:10:05
+
+também, não é? Porque não tá, não dá para
+ 01:10:07
+
+fazer muita coisa hoje na agricultura e
+ 01:10:09
+
+tá o negócio tá complicado aqui no Sul.
+ 01:10:11
+
+Espero que não se replique a mesma
+ 01:10:13
+
+enchente de maio do ano passado. E aqui
+ 01:10:15
+
+é o Gilmar. Jumar colocando aí, ó.
+ 01:10:18
+
+Diminuindo distância do agricultor ao
+ 01:10:20
+
+escritório da IPAG. Excelente
+ 01:10:22
+
+contribuição da Term Digital. Almejamos
+ 01:10:24
+
+o mesmo para Emparer Mato Grosso.
+ 01:10:27
+
+Parabéns pela iniciativa.
+ 01:10:29
+
+Muito legal. Agora o Rodrigo, agora são
+ 01:10:32
+
+comentários aqui de contribuição, viu
+ 01:10:34
+
+Humberto? Rodrigo aqui, ó. Eh, Humberto,
+ 01:10:37
+
+parabéns pela excelente apresentação e
+ 01:10:39
+
+implementação do projeto, agregando
+ 01:10:40
+
+alguns pontos ao debate sobre a
+ 01:10:42
+
+experiência, não é? Vamos lá. Um, tem
+ 01:10:44
+
+vários pontos aqui, tá? O aumento nos
+ 01:10:47
+
+atendimentos remotos ocorreu sem
+ 01:10:50
+
+comprometer os atendimentos presenciais,
+ 01:10:53
+
+não é? Importante isso da Tra digital, que
+ 01:10:56
+
+mantiveram tanto o número quanto a
+ 01:10:58
+
+constância observada anteriormente.
+ 01:11:01
+
+Ponto número dois, mais de 148%
+ 01:11:03
+
+de aumento nos atendimentos remotos no
+ 01:11:09
+
+período do piloto, sem aumento nos
+ 01:11:11
+
+custos.
+ 01:11:14
+
+E o três, muito legal a contribuição do
+ 01:11:16
+
+Rodrigo. Obrigado, viu, Rodrigo. Isso aí
+ 01:11:18
+
+agrega a nossa live. Possibilitou o
+ 01:11:20
+
+contato técnico semanal entre produtor e
+ 01:11:23
+
+técnico em contraste com a média de
+ 01:11:26
+
+apenas quatro a seis visitas presenciais
+ 01:11:29
+
+por ano no modelo tradicional. Essas são
+ 01:11:32
+
+agregações aí do do Rodrigo, não é? Difícil
+ 01:11:35
+
+ter indicador na extensão rural, não é?
+ 01:11:38
+
+Rodrigo trouxe três indicadores muito
+ 01:11:41
+
+importantes aqui que faz todo sentido
+ 01:11:43
+
+para pro uso da T digital. Muito legal.
+ 01:11:46
+
+Aí agora tem uma pergunta da Mônica, daí
+ 01:11:49
+
+eu já passo a palavra pro Humberto. Eh,
+ 01:11:51
+
+muito legal essa proposta. Você chegou a
+ 01:11:53
+
+comentar sobre os indicadores de acesso.
+ 01:11:56
+
+Quantas pessoas já acessaram esse
+ 01:11:59
+
+material e principalmente temos ideia de
+ 01:12:00
+
+quantos agrores foram alcançados? Essa é
+ 01:12:03
+
+a pergunta da Mônica.
+ 01:12:05
+
+É uma legal a pergunta também. agradecer
+ 01:12:07
+
+Luciano, Rodrigo, tiveram envolvimento
+ 01:12:09
+
+estratégico aí em todo o projeto, foi
+ 01:12:12
+
+quem provocou também aí junto com a
+ 01:12:14
+
+equipe da Embrapa aí o ministério, não é,
+ 01:12:16
+
+Rodrigo, só tenho agradecer as
+ 01:12:18
+
+complementações eh que foram feitas, já
+ 01:12:19
+
+ajudaram a responder uma parte dessas
+ 01:12:22
+
+dessa pergunta também. Eh, e nós os
+ 01:12:24
+
+indicadores que nós comentamos, eles são
+ 01:12:28
+
+indicadores de atendimento, não é, de
+ 01:12:30
+
+assistência técnica extensão rural
+ 01:12:32
+
+dentro da IPAG, não é, não de acesso ao
+ 01:12:34
+
+material. o acesso ao material, el o
+ 01:12:37
+
+material tá eh, praticamente os vídeos e
+ 01:12:39
+
+tudo mais tá dentro da do YouTube,
+ 01:12:43
+
+dentro da plataforma até mais digital. E
+ 01:12:46
+
+como foi um grupo pequeno, não é,
+ 01:12:48
+
+trabalhado, foram 74 produtores e e 17
+ 01:12:49
+
+extensionistas,
+ 01:12:53
+
+eh, a gente não nem chegou a utilizar
+ 01:12:55
+
+esse tipo de indicador porque os
+ 01:12:58
+
+indicadores que estão lá nos vídeos já
+ 01:13:00
+
+são muito maiores do que esse, não é, que
+ 01:13:01
+
+os vídeos são acessados por outras
+ 01:13:03
+
+pessoas. eh alias estão disponíveis já,
+ 01:13:04
+
+não é? Eles já estavam disponíveis, não é?
+ 01:13:07
+
+Então a gente não tem não fez esse
+ 01:13:08
+
+monitoramento específico para esse
+ 01:13:11
+
+projeto. Então assim, eh esse projeto
+ 01:13:12
+
+ele foi eh bastante regionalizado no
+ 01:13:16
+
+caso da Batata doce, não é? Com alguns
+ 01:13:19
+
+produtores, não é? E alguns extensionistas,
+ 01:13:21
+
+foram poucos. E no caso da apicultura,
+ 01:13:23
+
+um pouco mais, não é? correspondia aí a
+ 01:13:26
+
+quase eh mais da metade dos produtores
+ 01:13:28
+
+eram da cadeia produtiva da apicultura,
+ 01:13:30
+
+envolvia aí várias várias regiões do
+ 01:13:32
+
+estado. Eh, então assim, eh como a
+ 01:13:34
+
+difusão da informação era para esse
+ 01:13:38
+
+produtor específico, para aquele
+ 01:13:40
+
+produtor específico, então a gente não
+ 01:13:41
+
+fez esse monitoramento do acesso à
+ 01:13:43
+
+informação, mas sim o que que aumentou
+ 01:13:45
+
+em acessos aos pelos produtores, não é,
+ 01:13:50
+
+como o Rodrigo falou. Então os
+ 01:13:52
+
+produtores foram atendidos mais vezes,
+ 01:13:54
+
+não é? Mais produtores foram atendidos. E
+ 01:13:57
+
+essa métrica que é importante para nós e
+ 01:14:00
+
+faz parte dos nossos indicadores, ou
+ 01:14:02
+
+seja, além de aumentar a cobertura de
+ 01:14:04
+
+atendimento aos produtores, não é, ele
+ 01:14:06
+
+aumentou aí, como o Rodrigo bem colocou,
+ 01:14:09
+
+o contato, não é, a aproximação do
+ 01:14:11
+
+extensionista junto com o produtor. E
+ 01:14:13
+
+isso é extremamente estratégico, não é?
+ 01:14:16
+
+qualifica a informação, leva informação
+ 01:14:18
+
+no tempo necessário. É como se o
+ 01:14:20
+
+extensionista tivesse quase toda semana,
+ 01:14:23
+
+estava toda semana junto com o produtor,
+ 01:14:25
+
+não presencialmente, mas ampliou esse
+ 01:14:27
+
+atendimento aí sem gerar mais custos,
+ 01:14:29
+
+não é, como o Rodrigo bem colocou. Então, a
+ 01:14:31
+
+pergunta aí me ajudou a complementar
+ 01:14:34
+
+essa parte da informação. Obrigado.
+ 01:14:36
+
+Muito bom. Muito bom. Aqui é o Gilmar da
+ 01:14:38
+
+Gilmar novamente. Obrigado, Gilmar. Olha
+ 01:14:41
+
+só, sempre uso o exemplo da Ipagma em as
+ 01:14:44
+
+aulas de comunicação, extensão oral na
+ 01:14:46
+
+grande orgulho dessa grande empresa
+ 01:14:49
+
+pública. Olha, quem não usa, não é, Jmar?
+ 01:14:51
+
+Eu também uso. Epagra, é uma referência
+ 01:14:53
+
+aí nacional, não é? E sempre tá à frente.
+ 01:14:55
+
+Isso não tem como não citar a pagre. Eu
+ 01:14:58
+
+eu também uso muito mesmo. Obrigado pela
+ 01:15:01
+
+contribuição. Isso é muito importante,
+ 01:15:03
+
+não é? A gente não vê que o trabalho tá
+ 01:15:05
+
+sendo valorizado, mas tem muita gente
+ 01:15:07
+
+replicando aí, muitos professores
+ 01:15:10
+
+replicando sobre a questão da da empresa
+ 01:15:12
+
+da IMPAGR, todos seus trabalhos geniais.
+ 01:15:15
+
+E tive vários colegas da Ipagre no
+ 01:15:17
+
+mestrado, doutorado também sou fã desse
+ 01:15:19
+
+pessoal aí, vários amigos que ficaram.
+ 01:15:22
+
+Patrick, como é que eu se tem o link do
+ 01:15:25
+
+zap rural da do grupo da de Aurora? que
+ 01:15:28
+
+eu respondo mesmo. O Zapural, você entra
+ 01:15:30
+
+lá, Patrick, lá no Instagram lá e daí
+ 01:15:32
+
+você pede o link lá no no chat lá para
+ 01:15:34
+
+eles, eles vão te passar. Você também
+ 01:15:37
+
+pode seguir também o grupo da Rede de
+ 01:15:39
+
+Aurora no Instagram, você também pode
+ 01:15:42
+
+pedir o link lá, professor Zuin
+ 01:15:43
+
+encaminha para você, fica mais fácil,
+ 01:15:45
+
+não é? Porque aqui mais difícil, às vezes
+ 01:15:47
+
+não conecta aqui. Então entra lá no
+ 01:15:49
+
+Instagram, ele vai te mandar o link. E o
+ 01:15:51
+
+Patrick aí é o extensionista de São Cepé
+ 01:15:53
+
+de Maternton. E também posso seguir aí
+ 01:15:55
+
+extensionista,
+ 01:15:57
+
+segue também, segue a rede Aurora, segue
+ 01:15:59
+
+o Zapural, tá todo mundo aí conectado
+ 01:16:01
+
+aí, fazendo uma grande rede aí da da
+ 01:16:03
+
+extensão rural aí no Brasil. Show de
+ 01:16:06
+
+bola com isso. Então passo a palavra ao
+ 01:16:08
+
+professor Zuin.
+ 01:16:10
+
+Muito bacana, Humberto, pela palestra,
+ 01:16:12
+
+pelo projeto. Parabéns, não é? Minha
+ 01:16:15
+
+pergunta é simples, Humberto, não é
+ 01:16:17
+
+muito complicada não. Para onde que você
+ 01:16:20
+
+acha que a gente vai partir, não é, a
+ 01:16:22
+
+partir de agora, não é, a evolução dessa
+ 01:16:26
+
+TER digital, o que que vai ser agregado?
+ 01:16:29
+
+O que que você acha que vai ser
+ 01:16:31
+
+priorizado? Para onde a gente vai
+ 01:16:32
+
+caminhar?
+ 01:16:34
+
+A pergunta é simples, mas a resposta é
+ 01:16:36
+
+complexa.
+ 01:16:38
+
+Obrigado pela pela pergunta uma pergunta
+ 01:16:41
+
+bastante aberta e e assim o sentimento
+ 01:16:44
+
+desse projeto e o que vem acontecendo na
+ 01:16:48
+
+Epagre aí ao longo dos dos anos, não é,
+ 01:16:51
+
+nessa experiência que veio se, como é
+ 01:16:53
+
+que posso dizer, teve um grande
+ 01:16:56
+
+incremento ali a partir de 2020 por
+ 01:16:59
+
+causa da da pandemia, não é? Então, a gente
+ 01:17:01
+
+teve, houveram várias, várias
+ 01:17:05
+
+experiências, várias tentativas de
+ 01:17:08
+
+diversas instituições e a gente foi
+ 01:17:09
+
+aprendendo junto aí com vocês, com a
+ 01:17:11
+
+Rede Aurora, o zap rural, eh, a questão
+ 01:17:14
+
+do dos vídeos no YouTube, as
+ 01:17:18
+
+capacitações, as transmissões. Então,
+ 01:17:19
+
+tudo isso foi foi crescendo, não é? E o que
+ 01:17:21
+
+que o que que eu vejo assim, eu vou
+ 01:17:25
+
+falar na na visão aqui que a gente tem
+ 01:17:26
+
+internamente dentro da EPAG, não é? Eu
+ 01:17:28
+
+trabalho hoje no Departamento estadual
+ 01:17:30
+
+de Planejamento e a gente trabalha
+ 01:17:32
+
+muitos assuntos estratégicos aí da
+ 01:17:34
+
+empresa. O que que nós temos, não é,
+ 01:17:36
+
+EPAGRE? Ela tem eh imagina um um um uma
+ 01:17:38
+
+instituição que tem 60 anos de história,
+ 01:17:43
+
+não é? 50 anos de pesquisa, 60 anos de
+ 01:17:45
+
+extensão rural no estado de Santa
+ 01:17:48
+
+Catarina. A quantidade de informações
+ 01:17:50
+
+que a gente gera
+ 01:17:52
+
+eh e tem nos nossos bancos de dados é
+ 01:17:54
+
+absurda, não é? A geração de tecnologia que
+ 01:17:57
+
+acontece para diversas cadeias
+ 01:17:59
+
+produtivas é tempo integral. Nós temos
+ 01:18:00
+
+ainda no pagão da agrometeorologia, nós
+ 01:18:03
+
+temos a questão da pesca maricultura,
+ 01:18:06
+
+não é? Eh, a questão da socioeconomia e
+ 01:18:11
+
+planejamento agrícola. Então, a gente
+ 01:18:13
+
+tem a o Observatório do Agrocatarinense,
+ 01:18:15
+
+por exemplo, é uma plataforma que tu
+ 01:18:18
+
+consegue informações diversas do setor
+ 01:18:20
+
+dentro do uma plataforma pública, não é?
+ 01:18:23
+
+Nós temos ainda o Infoágra, tem as
+ 01:18:26
+
+questões do preço das terras, eh, preço
+ 01:18:28
+
+dos insumos, ah, informações pro
+ 01:18:32
+
+produtor entender a comercialização, o
+ 01:18:35
+
+técnico, não é? Então, o Observatório do
+ 01:18:37
+
+Agro, Infoagro já são plataformas
+ 01:18:39
+
+abertas aí de informação. Os vídeos da
+ 01:18:41
+
+EPAGR estão publicados tanto pela TV
+ 01:18:43
+
+EPAGR, quanto no SC Agricultura, quanto
+ 01:18:45
+
+no no capacitações EPAGR online. Eh, nós
+ 01:18:47
+
+temos aí no nosso site todas as
+ 01:18:51
+
+publicações da EPAGR aí de forma online,
+ 01:18:53
+
+90% delas eh de forma online. Tem aí eh
+ 01:18:56
+
+os cursos, o calendário de cursos, tudo
+ 01:19:01
+
+disponível dentro do site de pago. Agora
+ 01:19:03
+
+o o novo passo da evolução aí a do zap
+ 01:19:07
+
+rural que leva informação diversa aí
+ 01:19:10
+
+para pros produtores chegando. Então
+ 01:19:12
+
+assim, a gente tem rádio e TV na Ipaga,
+ 01:19:14
+
+nós temos o Panorama Agrícola que é como
+ 01:19:16
+
+se fosse um podcast ali que existe há
+ 01:19:18
+
+quase 40 anos aí eh que leva informação
+ 01:19:21
+
+também pr os produtores. O que que a
+ 01:19:24
+
+gente tem tem visto assim que parece ser
+ 01:19:26
+
+um caminho importante? Nós temos o nosso
+ 01:19:29
+
+cadastro dos agricultores, não é? Nós temos
+ 01:19:32
+
+500.000 pessoas na nossa plataforma
+ 01:19:34
+
+cadastradas e que tem interesses, não é? E
+ 01:19:36
+
+dentro desse cadastro existem eh eh
+ 01:19:39
+
+preferências, não é? o que que o produtor
+ 01:19:42
+
+cultiva, se é agricultor, se é pescador,
+ 01:19:44
+
+se é quilombola, se é indígena e assim
+ 01:19:47
+
+por diante. E nós conseguimos eh talvez
+ 01:19:49
+
+hoje com a inteligência artificial, com
+ 01:19:53
+
+a análise dos bancos de dados e com a
+ 01:19:57
+
+comunicação aí via plataformas, a gente
+ 01:20:00
+
+talvez consiga fazer uma informação
+ 01:20:03
+
+personalizada para aquele agricultor,
+ 01:20:04
+
+para aquele produtor. Acho que esse é o
+ 01:20:06
+
+novo é o novo desafio da terra digital,
+ 01:20:07
+
+não é? Eh, porque o produtor receber
+ 01:20:09
+
+informação, ele recebe todo canto, toda
+ 01:20:12
+
+hora agora é o que ele precisa. E isso o
+ 01:20:14
+
+projeto do do até mais digital deixou
+ 01:20:17
+
+bastante claro para nós, não é? Como é que
+ 01:20:19
+
+essa informação chega a personalizar?
+ 01:20:22
+
+Devido ao trabalho dos extensionistas e
+ 01:20:24
+
+o conhecimento junto aos produtores,
+ 01:20:26
+
+eles conseguiram fazer eh criar um
+ 01:20:28
+
+calendário com informações
+ 01:20:29
+
+personalizadas para aquele produtor. Nós
+ 01:20:30
+
+trabalhamos com zoneamento agrícola aqui
+ 01:20:32
+
+em Santa Catarina, com a previsão do
+ 01:20:34
+
+tempo, com a agrometeorologia,
+ 01:20:36
+
+com
+ 01:20:38
+
+informações, por exemplo, qual é a
+ 01:20:40
+
+melhor época de aplicação em tempo real
+ 01:20:41
+
+para todo o estado, para culturas do
+ 01:20:43
+
+tomate, diversas culturas aí, que ajuda
+ 01:20:46
+
+a reduzir em 80% de agrotóxicos, por
+ 01:20:49
+
+exemplo, na cultura do tomate. Então
+ 01:20:51
+
+assim, eh, como é que eu faço para essa
+ 01:20:53
+
+informação chegar lá pro produtor de
+ 01:20:55
+
+maneira personalizada? Para mim, esse é
+ 01:20:56
+
+o novo desafio, não é? Uma nova questão. O
+ 01:20:59
+
+produtor consegue buscar informação
+ 01:21:02
+
+porque ele deseja, se ele ti eh se
+ 01:21:04
+
+dedicar um pouco mais e tal, ele recebe
+ 01:21:07
+
+muita informação de forma aleatória, não é?
+ 01:21:09
+
+Mas aquilo que realmente ele precisa na
+ 01:21:13
+
+hora que ele precisa, não é? Esse é o é o é
+ 01:21:15
+
+o próximo passo no no que nós
+ 01:21:18
+
+acreditamos, não é? Então, esse projeto do
+ 01:21:20
+
+Hub e do projeto da Ter mais digital,
+ 01:21:23
+
+ele ele permite com que com que a gente
+ 01:21:27
+
+tenha esse entendimento. Essa informação
+ 01:21:30
+
+chega nessa forma, mas ela precisa de
+ 01:21:32
+
+muito trabalho bração, não é? Precisa do
+ 01:21:33
+
+trabalho de de definir os temas. Isso
+ 01:21:36
+
+vai precisar de seja de forma automática
+ 01:21:39
+
+ou não, mas precisa desse contato. E
+ 01:21:40
+
+essa questão humanizada é extremamente
+ 01:21:44
+
+importante, então potencializa o
+ 01:21:45
+
+trabalho. Eu acredito que esse tipo,
+ 01:21:46
+
+essa proposta ela possa ser multiplicada
+ 01:21:48
+
+para outras cadeias produtivas, para
+ 01:21:51
+
+outras instituições. Todo mundo tem a
+ 01:21:53
+
+possibilidade de fazer isso, não é? Agora,
+ 01:21:55
+
+personalizar essa informação de uma
+ 01:21:59
+
+maneira, uma maneira mais massificada,
+ 01:22:00
+
+digamos assim, não é? como é a TV e o
+ 01:22:02
+
+rádio, só que a TV e o rádio também vem
+ 01:22:04
+
+qualquer coisa e não é tudo que a gente
+ 01:22:06
+
+precisa, mas chegar o tema ali como se
+ 01:22:08
+
+fossem os algoritmos aí do do YouTube,
+ 01:22:11
+
+do do Instagram, não é? eh, mas com
+ 01:22:14
+
+informação qualificada e e já que atende
+ 01:22:16
+
+o produtor. Talvez esse seja um grande
+ 01:22:19
+
+passo eu acredito.
+ 01:22:21
+
+Muito bom, Gilberto, agora pra gente
+ 01:22:25
+
+fazer a finalização nossa live e deixar
+ 01:22:27
+
+a palavra final aí para você fazer esse
+ 01:22:29
+
+grande fechamento para nós.
+ 01:22:31
+
+Bom, vou agradecer a oportunidade, não é? O
+ 01:22:34
+
+professor Zinh, fez o convite de bate
+ 01:22:36
+
+pronto aí, não é, Zuin? a gente aceitou
+ 01:22:39
+
+agradecer Ezequiel aí também na
+ 01:22:42
+
+articulação, na na oportunidade da gente
+ 01:22:43
+
+ter essa plataforma aí de conversar, não é,
+ 01:22:46
+
+e trazer tantas experiências diversas. A
+ 01:22:50
+
+gente consegue acompanhar algumas,
+ 01:22:52
+
+outras nem tanto, mas é uma oportunidade
+ 01:22:53
+
+que fica aí, fica no canal, qualquer um
+ 01:22:56
+
+pode assistir a qualquer tempo, isso é o
+ 01:22:58
+
+legal disso. E quantas pessoas podem ser
+ 01:23:00
+
+alcançadas nesse sentido. Então,
+ 01:23:03
+
+agradecer a oportunidade de trazer a
+ 01:23:04
+
+experiência da IADR nesse projeto piloto
+ 01:23:06
+
+que foi feito a muitas mãos, não é? O
+ 01:23:08
+
+Rodrigo, Luciano tá aqui, a, desculpa, a
+ 01:23:10
+
+Fabiana, desculpa, eu esqueci o nome
+ 01:23:13
+
+dela, da que trabalhou no no Até mais
+ 01:23:16
+
+digital ali na plataforma também. Então
+ 01:23:19
+
+assim, é um trabalho feito a muitas mãos
+ 01:23:22
+
+pelos extensionistas, pelos
+ 01:23:24
+
+coordenadores de programa e com apoio do
+ 01:23:25
+
+da da Gerência estadual de extensão
+ 01:23:28
+
+rural e pesqueira, da diretoria da
+ 01:23:29
+
+Ipagre, e isso tudo aí eh nos trouxe uma
+ 01:23:31
+
+dimensão eh estratégica do que que a
+ 01:23:36
+
+gente pode trabalhar. Outras
+ 01:23:38
+
+experiências que a gente teve também em
+ 01:23:40
+
+outros países, não é, que não tem tanto
+ 01:23:41
+
+acesso à internet e outros estados, eh
+ 01:23:43
+
+em missões internacionais. Aí o Rodrigo,
+ 01:23:46
+
+a gente teve uma oportunidade de ir
+ 01:23:48
+
+junto eh lá num num projeto de
+ 01:23:49
+
+cooperação trilateral na Etiópia e isso
+ 01:23:51
+
+nos trouxe uma visão até um pouco
+ 01:23:54
+
+diferente, não é, da Té digital, como ela
+ 01:23:57
+
+podem realmente chegar os produtores. e
+ 01:23:59
+
+os produtores de lá também têm muitas
+ 01:24:01
+
+dificuldades como os nossos daqui. Eh,
+ 01:24:03
+
+mas talvez uma condição bastante
+ 01:24:06
+
+diferente, não é, que que precisa aí do
+ 01:24:07
+
+nosso apoio como país, não é? E isso tudo
+ 01:24:09
+
+traz um entendimento para nós e para
+ 01:24:12
+
+chegar nesse momento aí poder
+ 01:24:14
+
+compartilhar essa experiência com vocês.
+ 01:24:15
+
+Então, agradecer essa oportunidade em
+ 01:24:17
+
+nome da Ipag e agradecer mais uma vez,
+ 01:24:19
+
+parabenizar pelo trabalho de todos aí os
+ 01:24:21
+
+colegas da Ipagre que estão nos
+ 01:24:23
+
+assistindo, não é? Prazer aí conversar com
+ 01:24:24
+
+todos e os colegas da extensão rural,
+ 01:24:27
+
+todo o público aí que nos assiste, que é
+ 01:24:29
+
+uma satisfação poder compartilhar
+ 01:24:31
+
+conhecimento com vocês. Agradecer e
+ 01:24:33
+
+parabenizar, não é, pelo trabalho em frente
+ 01:24:35
+
+à Rede Aurora, Ezequiel, aí no canal
+ 01:24:37
+
+extensionista. É fantástico o trabalho
+ 01:24:39
+
+que vocês fazem para aproximar as
+ 01:24:42
+
+pessoas. Muito obrigado e vamos em
+ 01:24:44
+
+frente aí nessa trajetória.
+ 01:24:47
+
+Muito bom. Muito obrigado, Humberto.
+ 01:24:50
+
+Então é isso, gente. Toda quarta-feira,
+ 01:24:51
+
+9 horas da manhã, estamos aqui com um
+ 01:24:54
+
+novo profissional, um novo extensionista
+ 01:24:56
+
+aqui compartilhando conhecimentos aqui.
+ 01:24:58
+
+Aqui nesse canal junto com a Aurora. Nós
+ 01:25:01
+
+temos extensão rural sendo compartilhada
+ 01:25:04
+
+toda semana. Obrigado, gente. Um abraço
+ 01:25:06
+
+e até a próxima oportunidade.
+ 01:25:09

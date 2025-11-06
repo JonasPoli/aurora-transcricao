@@ -1,0 +1,8 @@
+video_id: 5lPALzFC5fQ
+video_url: https://www.youtube.com/watch?v=5lPALzFC5fQ
+title: #roça #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/25/2025

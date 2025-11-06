@@ -1,0 +1,9 @@
+video_id: 3mVyJo84iLc
+video_url: https://www.youtube.com/watch?v=3mVyJo84iLc
+title: Geoparque: experiências no território da Quarta colônia
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/7642628004963214
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/23/2022

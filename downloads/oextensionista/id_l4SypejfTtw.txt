@@ -1,0 +1,8 @@
+video_id: l4SypejfTtw
+video_url: https://www.youtube.com/watch?v=l4SypejfTtw
+title: #educação #generosidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2025

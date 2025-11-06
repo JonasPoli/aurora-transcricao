@@ -1,0 +1,8 @@
+video_id: Oml0kHQJ0qo
+video_url: https://www.youtube.com/watch?v=Oml0kHQJ0qo
+title: #motivação #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/11/2025

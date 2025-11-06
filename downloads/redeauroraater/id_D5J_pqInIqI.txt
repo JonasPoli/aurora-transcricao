@@ -1,0 +1,8 @@
+video_id: D5J_pqInIqI
+video_url: https://www.youtube.com/watch?v=D5J_pqInIqI
+title: Criando o ZAP Rural #aterdigital  #extensãorural #redeaurora #diálogos #oextensionista
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/12/2023

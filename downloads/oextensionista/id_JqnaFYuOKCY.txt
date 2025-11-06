@@ -1,0 +1,9 @@
+video_id: JqnaFYuOKCY
+video_url: https://www.youtube.com/watch?v=JqnaFYuOKCY
+title: Metodologia de Ater Digital – Itesp
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9282294947416702
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2022

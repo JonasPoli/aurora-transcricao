@@ -1,0 +1,8 @@
+video_id: OEVGwgTbf5w
+video_url: https://www.youtube.com/watch?v=OEVGwgTbf5w
+title: Como a inovação em processos pode impulsionar o Cooperativismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/17/2025

@@ -1,0 +1,8 @@
+video_id: XG9RcElAbS8
+video_url: https://www.youtube.com/watch?v=XG9RcElAbS8
+title: Direto ao ponto: Interação entre extensionistas e produtores rurais via WhatsApp - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

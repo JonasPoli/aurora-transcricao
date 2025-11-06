@@ -1,0 +1,8 @@
+video_id: HgaehzjW_sg
+video_url: https://www.youtube.com/watch?v=HgaehzjW_sg
+title: O uso de tecnologias digitais de informação e comunicação na agricultura familiar em Moçambique
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/06/2023

@@ -1,0 +1,8 @@
+video_id: Dssghp31JN0
+video_url: https://www.youtube.com/watch?v=Dssghp31JN0
+title: #reflexão #roça #amem
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/18/2025

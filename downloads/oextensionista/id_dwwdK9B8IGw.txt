@@ -1,0 +1,8 @@
+video_id: dwwdK9B8IGw
+video_url: https://www.youtube.com/watch?v=dwwdK9B8IGw
+title: Conte-nos como você se tornou um Extensionista Rural?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/06/2022

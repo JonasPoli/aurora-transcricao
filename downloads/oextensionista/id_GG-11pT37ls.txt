@@ -1,0 +1,8 @@
+video_id: GG-11pT37ls
+video_url: https://www.youtube.com/watch?v=GG-11pT37ls
+title: Release do 63º Congresso da SOBER – Passo Fundo, RS #congresso
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/03/2025

@@ -1,0 +1,8 @@
+video_id: cqW9I321fss
+video_url: https://www.youtube.com/watch?v=cqW9I321fss
+title: #deus #roça #caminhoparaumavidamelhor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/07/2025

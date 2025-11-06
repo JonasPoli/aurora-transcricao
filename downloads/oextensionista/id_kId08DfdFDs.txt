@@ -1,0 +1,9 @@
+video_id: kId08DfdFDs
+video_url: https://www.youtube.com/watch?v=kId08DfdFDs
+title: Construindo caminhos para a criação agroecológica de animais
+uploader: O Extensionista
+speaker: Juliana Vieira Paz – Yamandú Agroecologia
+Lattes: http://lattes.cnpq.br/9205483556330498
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/05/2025

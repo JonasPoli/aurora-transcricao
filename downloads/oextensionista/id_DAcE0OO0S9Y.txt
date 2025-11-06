@@ -1,0 +1,8 @@
+video_id: DAcE0OO0S9Y
+video_url: https://www.youtube.com/watch?v=DAcE0OO0S9Y
+title: #roça #bolo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2025

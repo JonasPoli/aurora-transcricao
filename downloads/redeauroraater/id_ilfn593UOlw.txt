@@ -1,0 +1,8 @@
+video_id: ilfn593UOlw
+video_url: https://www.youtube.com/watch?v=ilfn593UOlw
+title: Inteligência coletiva na Agricultura: como a IA fortalece a colaboração entre campo e laboratório
+uploader: Rede Aurora
+speaker: Carlos Catalão Alves - Nova FCSH
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/31/2025

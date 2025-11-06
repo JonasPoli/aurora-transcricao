@@ -1,0 +1,8 @@
+video_id: fNny874Fh3s
+video_url: https://www.youtube.com/watch?v=fNny874Fh3s
+title: #feira #consumo #alimentos
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/22/2025

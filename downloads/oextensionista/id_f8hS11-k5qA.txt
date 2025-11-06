@@ -1,0 +1,8 @@
+video_id: f8hS11-k5qA
+video_url: https://www.youtube.com/watch?v=f8hS11-k5qA
+title: #caminhada #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2025

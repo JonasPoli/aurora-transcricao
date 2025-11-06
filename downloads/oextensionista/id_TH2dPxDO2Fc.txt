@@ -1,0 +1,9 @@
+video_id: TH2dPxDO2Fc
+video_url: https://www.youtube.com/watch?v=TH2dPxDO2Fc
+title: Youtube - Informação e memória – Itesp
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9282294947416702
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2022

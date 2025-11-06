@@ -1,0 +1,8 @@
+video_id: 3HJhpx8X-d8
+video_url: https://www.youtube.com/watch?v=3HJhpx8X-d8
+title: #jesus #motivação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

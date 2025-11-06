@@ -1,0 +1,6596 @@
+Olá Todos e Todos extensionistas rurais
+ 00:00:01
+
+agricultores e agricultoras jovens
+ 00:00:04
+
+rurais pesquisadores professores de
+ 00:00:06
+
+extenção Rural acadêmicos e demais
+ 00:00:09
+
+públicos aqui presentes sejam todos
+ 00:00:11
+
+muito bem-vindos meu nome é zequel redim
+ 00:00:13
+
+professor de extensão Rural e quem está
+ 00:00:16
+
+aqui hoje conosco é o Professor luí
+ 00:00:18
+
+Fernando Soares zim da USP fundador da
+ 00:00:19
+
+ara de Aurora juntamente com a nossa
+ 00:00:22
+
+convidada de hoje uma grande
+ 00:00:24
+
+extensionista Cláudia Bernardini da
+ 00:00:26
+
+imater Agudo no estado do Rio Grande do
+ 00:00:28
+
+Sul todos aqui excelentes profissionais
+ 00:00:30
+
+na área de extensão rural no Brasil e no
+ 00:00:32
+
+mundo e É nesse dia 25 de Setembro e
+ 00:00:35
+
+estamos em mais um ciclo de diálogos em
+ 00:00:38
+
+até digital Semeando propostas e
+ 00:00:40
+
+compartilhando saberes nossos eventos
+ 00:00:43
+
+buscam identificar e propor caminhos
+ 00:00:46
+
+metodológicos para Os Atuais elementos e
+ 00:00:48
+
+condicionantes que determinam os
+ 00:00:51
+
+processos de transferência e
+ 00:00:53
+
+compartilhamento de novas tecnologias
+ 00:00:54
+
+nos territórios Rais da América Latina
+ 00:00:57
+
+da á e alguns países Como Portugal
+ 00:00:59
+
+Espanha e Luxemburgo a nossa palestra de
+ 00:01:02
+
+hoje é intitulada ações de extensão e os
+ 00:01:04
+
+impactos das Ferramentas digitais e a
+ 00:01:07
+
+nossa convidada palestrante de hoje é
+ 00:01:09
+
+Cláudia Bernardini da imater Grande do
+ 00:01:11
+
+Sul esta Live é uma iniciativa do portal
+ 00:01:14
+
+o extensionista e da re de Aurora de
+ 00:01:16
+
+diálogos em até digital da América
+ 00:01:19
+
+Latina e com todos os apoiadores que
+ 00:01:21
+
+vocês podem conferir aqui na descrição
+ 00:01:23
+
+desse vídeo seja muito bem-vindo zim
+ 00:01:25
+
+Cláudia é um prazer um prazer mesmo
+ 00:01:28
+
+estarem vocês aqui compartilhando
+ 00:01:31
+
+conosco esses seus conhecimentos desde
+ 00:01:32
+
+já o nosso Muito obrigado já de antemão
+ 00:01:35
+
+passo a palavra Professor Zuin bom dia a
+ 00:01:37
+
+todos e a todas é um prazer muito grande
+ 00:01:39
+
+estar aqui com vocês Professor Ezequiel
+ 00:01:41
+
+com a Cláudia tenho certeza que a gente
+ 00:01:43
+
+vai aprender muito hoje com a Cláudia
+ 00:01:45
+
+uma extensionista Rural social não é e a
+ 00:01:46
+
+gente com certeza sempre aprende muito
+ 00:01:49
+
+quando a gente traz a extensionista
+ 00:01:51
+
+Rural não é social ou Rural mesmo não é para
+ 00:01:53
+
+ensinar um pouco a gente aqui Cláudio
+ 00:01:57
+
+Muito obrigado pela sua presença seja
+ 00:02:00
+
+muito bem-vinda a palavra é
+ 00:02:03
+
+sua Bom dia professor Zuin Bom dia
+ 00:02:04
+
+professor Ezequiel a todos que estão nos
+ 00:02:08
+
+assistindo que vão nos assistir é uma
+ 00:02:11
+
+alegria muito grande ter sido convidada
+ 00:02:14
+
+para esse espaço É uma honra eu vejo que
+ 00:02:16
+
+vocês são pessoas que estão sempre
+ 00:02:19
+
+preocupadas em trazer eh extensionistas
+ 00:02:21
+
+profissionais que Tragam eh algumas
+ 00:02:25
+
+informações e algumas práticas não é dentro
+ 00:02:27
+
+dessa área do ater digital dentro da
+ 00:02:30
+
+área da extensão então agradecer muito
+ 00:02:32
+
+vocês aqui pelo pelo convite
+ 00:02:35
+
+mesmo muito bem então seja bem-vindo
+ 00:02:38
+
+tenho certeza que nós vamos ter um
+ 00:02:41
+
+excelente compartilhamento de de
+ 00:02:43
+
+experientes aqui vou passar a tua
+ 00:02:45
+
+apresentação aqui Fique à vontade para
+ 00:02:47
+
+se apresentar Cláudio lembra todo o
+ 00:02:49
+
+Brasil aqui tem gente de outros lugares
+ 00:02:51
+
+do mundo às vezes que assiste também
+ 00:02:53
+
+então eles querem saber também quem é a
+ 00:02:55
+
+Cláudia que tá falando aí sobre ações de
+ 00:02:56
+
+extensão e impacto das Ferramentas
+ 00:02:59
+
+digitais é contigo muito bem Ezequiel eh
+ 00:03:01
+
+Então sou extensionista social aqui em
+ 00:03:05
+
+agudo não é Logo vou apresentar para vocês
+ 00:03:07
+
+quem é Agudo não é no mapa não é Eh tem uma
+ 00:03:10
+
+foto bonita nessa apresentação inicial
+ 00:03:14
+
+do Morro esse morro que dá nome à nossa
+ 00:03:16
+
+cidade e essa foto é lá do nosso CTG não é
+ 00:03:18
+
+e eu
+ 00:03:22
+
+ã
+ 00:03:24
+
+tem no meu campo de atuação não é dentro da
+ 00:03:26
+
+extensão Rural aqui do município turismo
+ 00:03:29
+
+Rural políticas públicas sociais
+ 00:03:31
+
+agroindústria organização Rural a
+ 00:03:33
+
+organização Rural quando a gente pensa
+ 00:03:36
+
+assim a todas as organizações que a
+ 00:03:37
+
+gente consegue ter no meio Rural eh
+ 00:03:39
+
+relativo a tanto de juventude quanto de
+ 00:03:42
+
+mulheres que a gente tem aqui Associação
+ 00:03:44
+
+de trabalhadoras rurais Associação de
+ 00:03:46
+
+juventude Rural temos muitas associações
+ 00:03:48
+
+eh de de de Produtores Rurais associação
+ 00:03:50
+
+do leite Associação feirantes então
+ 00:03:55
+
+grupos organizados num geral eh a nossa
+ 00:03:59
+
+atuação ela acontece área de saneamento
+ 00:04:02
+
+área de gestão ambiental então é é um
+ 00:04:06
+
+pouco de tudo que a extensão Rural
+ 00:04:09
+
+social se envolve não é aqui no município
+ 00:04:11
+
+de Agudo
+ 00:04:13
+
+eh contar um pouquinho então da minha
+ 00:04:14
+
+história não é porque eh eu eu tenho um
+ 00:04:17
+
+respeito e um carinho muito grande pela
+ 00:04:20
+
+extensão Eu acho que eu sempre fui
+ 00:04:22
+
+extensionista mesmo sem saber não é desde a
+ 00:04:24
+
+minha formação eu sou bióloga não é sou
+ 00:04:26
+
+bióloga eh aqui aparece um pouquinho da
+ 00:04:28
+
+da meu tempo tá mais de 20 anos não é
+ 00:04:31
+
+deformada 21 anos e numa das fotos
+ 00:04:34
+
+aparece eu falando não é Eh Ezequiel
+ 00:04:38
+
+inclusive que é natural do arroi do
+ 00:04:42
+
+Tigre que é o Município próximo nosso
+ 00:04:44
+
+aqui essa foto é lá em segredo numa numa
+ 00:04:45
+
+atividade do da da Universidade que
+ 00:04:49
+
+aconteceu justamente uma atividade de
+ 00:04:51
+
+extensão em que a gente foi na casa dos
+ 00:04:53
+
+Produtores Rurais e fez alguns trabalhos
+ 00:04:54
+
+nesse caso ali tinha a ver com
+ 00:04:57
+
+compostagem minha ocultura então eh ter
+ 00:04:58
+
+uma um esse contato com as pessoas essa
+ 00:05:03
+
+essa forma de levar algum tipo de
+ 00:05:07
+
+informação para gerar conhecimento não é
+ 00:05:08
+
+porque a gente não leva conhecimento a
+ 00:05:11
+
+gente leva informação eh eu acho que já
+ 00:05:13
+
+tá um pouco no sangue e aí depois então
+ 00:05:15
+
+da durante a minha formação como biólogo
+ 00:05:18
+
+eu fui professora não é Trabalhei na na
+ 00:05:21
+
+numa escola de educação eh básica lá em
+ 00:05:24
+
+na linha dos pomeranos a os piranos é a
+ 00:05:28
+
+minha localidade de origem eu sou
+ 00:05:30
+
+agudense assim sou extensionista em
+ 00:05:32
+
+agudo e sou agudense não é da Região
+ 00:05:34
+
+Serrana do município eu faço questão de
+ 00:05:36
+
+mostrar essa foto linda ali dos alunos
+ 00:05:39
+
+eh a gente correu da sala de aula para
+ 00:05:41
+
+tirar essa foto porque tava nevando Esse
+ 00:05:43
+
+foi o ano de 2000 então a o mar alcari
+ 00:05:46
+
+ao fundo a a minha localidade é ela tem
+ 00:05:49
+
+uma altitude chega a ter a 630 m de
+ 00:05:53
+
+altitude em agudo é o único lugar que
+ 00:05:55
+
+neva não é E essa foi a última neve que
+ 00:05:58
+
+aconteceu Então faz bastante tempo que
+ 00:06:00
+
+não neva
+ 00:06:02
+
+eh em Oposição a isso aparece uma foto
+ 00:06:03
+
+minha na na praia não é com os meus alunos
+ 00:06:06
+
+Eu sempre gostei muito do campo então eu
+ 00:06:09
+
+sou eu era uma uma professora bióloga
+ 00:06:11
+
+mesmo que gostava mais do campo do que
+ 00:06:13
+
+da sala de aula em si não é do laboratório
+ 00:06:15
+
+em si então sempre tentando proporcionar
+ 00:06:17
+
+eh essa saída esse conhecimento essa
+ 00:06:20
+
+essa essa formação não é do conhecimento
+ 00:06:24
+
+através desse contato com a natureza com
+ 00:06:26
+
+com as as diferentes eh diferentes
+ 00:06:30
+
+locais e vivências que que poderiam
+ 00:06:33
+
+acontecer com esses alunos e tem uma
+ 00:06:36
+
+foto minha também aqui já bem atual eu
+ 00:06:38
+
+atuei como professora externa na UFSM
+ 00:06:41
+
+como na no curso de Educação Especial à
+ 00:06:44
+
+distância dentro da linha da metodologia
+ 00:06:47
+
+de ensino de ciências não é e fui uma das
+ 00:06:49
+
+professoras homenageadas no Campus de
+ 00:06:52
+
+Santa Vitória do Palmar que é bem longe
+ 00:06:55
+
+ber região extremo sul do Rio Grande do
+ 00:06:57
+
+Sul então é um pouco da minha da minha
+ 00:06:58
+
+trajetória dentro da educação mas eh em
+ 00:07:01
+
+2013 então Ah eu atuei também como
+ 00:07:06
+
+fiscal ambiental aqui na prefeitura de
+ 00:07:09
+
+Agudo eu eu a a a licenciatura ela foi
+ 00:07:11
+
+até em torno de
+ 00:07:15
+
+2004 e depois eu fiz o concurso como
+ 00:07:17
+
+fiscal ambiental e na prefeitura de
+ 00:07:20
+
+Agudo eu fiquei durante 8 anos depois
+ 00:07:22
+
+concurso PR Emater não é durante o estrado
+ 00:07:26
+
+Então eu tinha eh eu recebi o convite
+ 00:07:29
+
+para assumir eh o escritório de agudo e
+ 00:07:32
+
+e fiquei muito feliz assim porque eh eu
+ 00:07:36
+
+me senti em casa eu continuei
+ 00:07:38
+
+trabalhando às vezes eu penso que seria
+ 00:07:40
+
+interessante
+ 00:07:42
+
+eh mudar um pouco vivenciar outras
+ 00:07:43
+
+coisas mas também penso que o universo
+ 00:07:46
+
+leva a gente ou deixa a gente aonde a
+ 00:07:48
+
+gente tem que tá e eu procuro contribuir
+ 00:07:51
+
+com o meu Município desde sempre não é
+ 00:07:54
+
+então tem uma um uma alegria muito
+ 00:07:57
+
+grande de poder sempre voltar não é Aos
+ 00:08:00
+
+espaços Em que em que eu me criei em que
+ 00:08:03
+
+eu tenho as minhas amizades e e minhas
+ 00:08:05
+
+raízes e poder contribuir que eu tava
+ 00:08:08
+
+comentando aqui nos Bastidores que ontem
+ 00:08:10
+
+nós tivemos um dia de campo de turismo
+ 00:08:12
+
+Rural que foi justamente na região
+ 00:08:14
+
+serrana que onde nós temos uma rota
+ 00:08:16
+
+turística dos caminhos da pomer Serra em
+ 00:08:18
+
+que como extensionista eu atuo bastante
+ 00:08:21
+
+e então estou voltando nesse lugar da
+ 00:08:23
+
+foto onde nevou não é para trazer mais
+ 00:08:26
+
+pessoas não é de outros municípios para
+ 00:08:30
+
+conhecer essa nossa realidade e discutir
+ 00:08:32
+
+turismo Rural H aqui em agudo e na
+ 00:08:33
+
+região bem
+ 00:08:37
+
+eh depois então não é 2013 eu fui chamada
+ 00:08:40
+
+para para atuar no município que é um
+ 00:08:43
+
+município grande eh em relação a se for
+ 00:08:46
+
+comparado com a nossa região é um
+ 00:08:50
+
+município Central aqui no Rio Grande do
+ 00:08:52
+
+Sul nós temos inclusive um Marco eh num
+ 00:08:55
+
+no Serro da Figueira aqui não é uma
+ 00:08:59
+
+localidade Nossa que dizem que foi
+ 00:09:00
+
+colocado pelo IBGE marcando o centro do
+ 00:09:02
+
+Rio Grande do Sul então nós somos o
+ 00:09:05
+
+centro do Rio Grande do Sul a nível de
+ 00:09:07
+
+Quarta Colônia de imigração italiana Eu
+ 00:09:10
+
+usei o mapa eh paralelo ali que mostra
+ 00:09:12
+
+que Agudo É em território é um dos
+ 00:09:17
+
+maiores só não é maior que o município
+ 00:09:20
+
+da Restinga Seca Por que eu falo isso
+ 00:09:22
+
+eh característica Nossa é agricultura
+ 00:09:25
+
+familiar então município grande eh a
+ 00:09:28
+
+gente tem uma uma área de atuação área
+ 00:09:31
+
+física muito grande e muito diversa não é
+ 00:09:34
+
+Nós temos um um uma região é bem marcado
+ 00:09:37
+
+inclusive nesse mapa maior que aparece
+ 00:09:41
+
+eh a região mais Verde ali não é ele ele é
+ 00:09:43
+
+um um mapa eh geoambiental ele é uma
+ 00:09:46
+
+região alta não é demais a maior altitude
+ 00:09:50
+
+então assim ó as culturas predominantes
+ 00:09:53
+
+aqui é é o tabaco e nessa região também
+ 00:09:55
+
+agora muito forte a soja não é Eh vindo
+ 00:09:58
+
+forte nos últimos anos a soja com
+ 00:10:01
+
+sucessão Rural eh às vezes não
+ 00:10:04
+
+acontecendo Então o arrendamento das
+ 00:10:07
+
+áreas e o preparo das terras por
+ 00:10:09
+
+terceiros não é às vezes por vizinhos e às
+ 00:10:11
+
+vezes por pessoas de outros municípios
+ 00:10:14
+
+inclusive nessa região alta mas o tabaco
+ 00:10:15
+
+ainda muito forte não é e onde tem essa
+ 00:10:19
+
+região eu digo que tem onde tem tabaco
+ 00:10:22
+
+tem diversificação por mais que eh Às
+ 00:10:24
+
+vezes ele é um pouco demonizado mas mas
+ 00:10:26
+
+a região do o tabaco hoje uma família
+ 00:10:30
+
+precisa de 2 3 4 hectares para ter uma
+ 00:10:32
+
+uma qualidade de vida razoável no meio
+ 00:10:36
+
+Rural E então é uma área relativamente
+ 00:10:37
+
+pequena O que que a gente observa nas
+ 00:10:40
+
+nossas ações de extensão que é
+ 00:10:42
+
+justamente nesses lugares onde a gente
+ 00:10:44
+
+tem uma diversificação não é tem pessoas
+ 00:10:46
+
+plantando ainda plantam feijão plantam
+ 00:10:49
+
+algumas arroz sequeiro que é uma coisa
+ 00:10:52
+
+bem difícil não é mas tem ã olericultura
+ 00:10:54
+
+frutic cultura Então a gente tem uma uma
+ 00:10:58
+
+gama grande nós temos aqui em agudo 12
+ 00:11:01
+
+agroindústrias legalizadas paraa
+ 00:11:03
+
+Regional pro nosso paraa nossa região é
+ 00:11:06
+
+o município com mais agroindústrias
+ 00:11:08
+
+legalizadas não é então Eh e dentro da de
+ 00:11:10
+
+uma ótica tanto da da produção vegetal
+ 00:11:14
+
+quanto animal também a a metade Sul
+ 00:11:17
+
+vamos dizer do nosso município eh É
+ 00:11:20
+
+principalmente a cultura do Arroz não é Eh
+ 00:11:23
+
+áreas mais baixas áreas alagadas não é
+ 00:11:26
+
+temos o rio jaqui como principal
+ 00:11:28
+
+ã recurso hídrico aqui mas assim eh
+ 00:11:31
+
+Neste ano em que o nosso município teve
+ 00:11:36
+
+um impacto muito grande das enchentes eh
+ 00:11:38
+
+o recurso hídrico Rio Jacuí ele causou
+ 00:11:41
+
+um um grande dano vamos dizer assim
+ 00:11:44
+
+entre aspas porque ele por si só não
+ 00:11:46
+
+quer causar o dano não é mas a houve um
+ 00:11:47
+
+alagamento grande das das áreas de arroz
+ 00:11:50
+
+mas a gente teve um impacto muito maior
+ 00:11:53
+
+pelos Arroios e Córregos e sangas eh
+ 00:11:56
+
+porque o volume foi tão grande o impacto
+ 00:12:01
+
+muito não não esperado vamos dizer assim
+ 00:12:04
+
+não é a lavoura de arroz a gente sabe que
+ 00:12:06
+
+ela naturalmente não é quando tem uma cheia
+ 00:12:08
+
+ela ela é atingida agora a gente teve
+ 00:12:11
+
+aqui em agudo casos foi bem complicado
+ 00:12:13
+
+não é esse esse início de Maio
+ 00:12:15
+
+ã em relação a outras regiões de Agudo
+ 00:12:18
+
+que não tinham sofrido um impacto tão
+ 00:12:21
+
+grande ainda não é então a gente pode ver
+ 00:12:23
+
+ali ó dos 16.000 habitantes a gente tem
+ 00:12:25
+
+mais ou menos 8.000 ainda morando no
+ 00:12:28
+
+interior não é então nós temos um público
+ 00:12:31
+
+grande em torno de 2.000 propriedades
+ 00:12:33
+
+rurais não é uma área de 553 km qu isso é é
+ 00:12:36
+
+bastante e eu coloquei o dado das
+ 00:12:41
+
+estradas ali não é em quilômetros 16600 km
+ 00:12:43
+
+de estrada porque eh para o
+ 00:12:46
+
+extensionista isso faz diferença o que
+ 00:12:50
+
+que acontece Nós temos muitas estradas
+ 00:12:52
+
+vicinais Então a gente tem ah produtores
+ 00:12:54
+
+morando em locais bem inóspitos às vezes
+ 00:12:58
+
+e e de novo puxando um pouco a brasa pra
+ 00:13:01
+
+questão do do das enchentes esse ano eh
+ 00:13:03
+
+1600 km de estradas com deslizamento com
+ 00:13:07
+
+15 Pontes C caindo
+ 00:13:11
+
+ã o impacto disso na nossa sociedade foi
+ 00:13:14
+
+a agudense foi muito grande e ainda tem
+ 00:13:17
+
+hoje eu vejo que há houve um um uma um
+ 00:13:20
+
+esforço muito grande do poder público
+ 00:13:23
+
+para deixar tudo dentro do mais normal
+ 00:13:25
+
+possível
+ 00:13:28
+
+não é mas nas nossas ações de extensão isso
+ 00:13:29
+
+impactou demais porque a gente ficou
+ 00:13:34
+
+tempo sem ter acesso aos produtores E aí
+ 00:13:36
+
+que nós vamos falar sobre as ferramentas
+ 00:13:40
+
+digitais aí elas foram
+ 00:13:43
+
+fundamentais
+ 00:13:45
+
+mas o a o ater digital nosso ele começou
+ 00:13:48
+
+com outra outro problema não é se ele se
+ 00:13:51
+
+potencializou agora não digo que
+ 00:13:55
+
+potencializou mas assim ele foi an Agora
+ 00:13:57
+
+durante as enchentes
+ 00:13:59
+
+eh outro evento complicado que foi a
+ 00:14:01
+
+pandemia eu vejo que foi o o o stupin
+ 00:14:04
+
+inicial para nós começarmos a ter um
+ 00:14:07
+
+olhar melhor paraa questão do ater
+ 00:14:09
+
+digital então Eh durante a pandemia nós
+ 00:14:10
+
+tínhamos um um já vínhamos com um
+ 00:14:14
+
+probleminha que que que nos incomodava
+ 00:14:17
+
+tá como colegas assim principalmente n
+ 00:14:21
+
+Eu tenho também mais uma colega
+ 00:14:24
+
+Andrielle da área social e a gente viha
+ 00:14:25
+
+dentro das Nossas ações que existia um
+ 00:14:28
+
+público feminino principalmente entre 20
+ 00:14:32
+
+e 50 20 45 2050 que anos não é Eh que nós
+ 00:14:35
+
+atingiam
+ 00:14:40
+
+eh parcialmente por quê tínhamos o
+ 00:14:43
+
+público a partir dos 45 50 que estava
+ 00:14:47
+
+nos grupos organizados principalmente
+ 00:14:50
+
+grupos de mulheres que tinha reunião com
+ 00:14:52
+
+frequência que a gente conseguia fazer
+ 00:14:56
+
+ações e elas respondiam justamente por
+ 00:14:58
+
+estarem organizadas em grupos tínhamos
+ 00:15:00
+
+um público de mulheres nos grupos de
+ 00:15:04
+
+jovens não é só que é um público que tava
+ 00:15:07
+
+também nessa faixa etária só que não faz
+ 00:15:10
+
+parte não não não é um público que faz
+ 00:15:12
+
+reuniões tão frequentes ações tão
+ 00:15:15
+
+frequentes os os nossos grupos de jovens
+ 00:15:17
+
+aqui eles também têm eh é bem variada as
+ 00:15:19
+
+idades e tem pessoas com mais idade
+ 00:15:23
+
+também e é muito focado no lazer no
+ 00:15:24
+
+esporte e aí nós queriamos assim B mas
+ 00:15:27
+
+nas atividades produtivas como é que a
+ 00:15:30
+
+gente chega Nessa mulher a gente só
+ 00:15:32
+
+conseguia chegar através das visitas e
+ 00:15:34
+
+por termos um município muito grande
+ 00:15:36
+
+eh muitas pessoas a gente não conseguia
+ 00:15:39
+
+não consegue visitar todo mundo não é não é
+ 00:15:42
+
+com todo mundo que a gente cria vínculos
+ 00:15:45
+
+e e eu queria falar sobre vínculos
+ 00:15:47
+
+também que eh eu na minha concepção a
+ 00:15:50
+
+extensão Rural ela só consegue ser
+ 00:15:53
+
+efetiva quando a gente consegue
+ 00:15:55
+
+realmente criar vínculos e o mito da
+ 00:15:57
+
+extensão é isso é que a gente tem essa
+ 00:15:59
+
+possibilidade porque a gente não leva só
+ 00:16:01
+
+informação técnica a gente adentra a
+ 00:16:03
+
+família das pessoas a gente adentra a a
+ 00:16:06
+
+individualidade das pessoas então a
+ 00:16:10
+
+gente cria vínculos sim e quando a gente
+ 00:16:12
+
+consegue isso eh tocar nesse lado a
+ 00:16:14
+
+gente consegue efetivamente fazer uma
+ 00:16:17
+
+extensão de
+ 00:16:19
+
+qualidade e o grupo de WhatsApp ele nos
+ 00:16:20
+
+trouxe E aí eu vou colocar aqui os
+ 00:16:24
+
+nossos três principais ah lá na pandemia
+ 00:16:27
+
+ó 2020 o gurias do rural então foi
+ 00:16:30
+
+criado nessa com essa perspectiva eu
+ 00:16:34
+
+lembro exatamente do do dia que eu criei
+ 00:16:37
+
+ele e disse assim pras colegas gurias
+ 00:16:39
+
+vamos ah só para deixar claro Quando eu
+ 00:16:42
+
+falar gurias o escritório Municipal da
+ 00:16:44
+
+Emater de Agudo ele é formado somente
+ 00:16:46
+
+por mulheres são duas agrônomas e duas
+ 00:16:48
+
+sociais então e ainda as estagiárias que
+ 00:16:51
+
+às vezes trabalham conosco ali não é também
+ 00:16:54
+
+são meninas então é um grupo feminino
+ 00:16:55
+
+e ainda criamos então não é para para criar
+ 00:16:59
+
+essa essa esse essa aproximação com as
+ 00:17:01
+
+nossas assistidas Nós criamos o gurias
+ 00:17:04
+
+do rural então nós combinamos o seguinte
+ 00:17:06
+
+eu vou colocar contato de todas vou
+ 00:17:09
+
+criar um grupo de whats vou colocar os o
+ 00:17:11
+
+contato de todas as mulheres que eu
+ 00:17:13
+
+tenho no meu celular e vocês também se
+ 00:17:15
+
+se ficarem se tiver alguma faltando por
+ 00:17:18
+
+favor vamos colocar ali e ali Nós
+ 00:17:20
+
+criamos o grupo que que pegou o
+ 00:17:23
+
+município inteiro não é então assim ó nós
+ 00:17:24
+
+tínhamos todas as localidades todas as
+ 00:17:26
+
+localidades tinha alguma mulher inserida
+ 00:17:29
+
+naquele grupo e pandemia não se
+ 00:17:32
+
+conseguia não se conseguia falar com
+ 00:17:35
+
+fazer visitas não se conseguia fazer
+ 00:17:37
+
+evento coletivo não é como é que a gente
+ 00:17:39
+
+conseguiria continuar com o contato
+ 00:17:41
+
+então o gurias do rural ele ele trouxe
+ 00:17:43
+
+isso não é a possibilidade da gente se
+ 00:17:47
+
+continuar conversando e principalmente a
+ 00:17:50
+
+possibilidade de se conhecer pessoas as
+ 00:17:52
+
+as meninas pessoas novas não é
+ 00:17:55
+
+e logo Nós pensamos assim isso é
+ 00:17:59
+
+importante dizer os grupos que Nós
+ 00:18:01
+
+criamos enquanto Emater eles são alguns
+ 00:18:03
+
+são destinados são são grupos muito
+ 00:18:06
+
+específicos nós temos vários agora
+ 00:18:08
+
+ã específicos o grupo da agroindústria o
+ 00:18:11
+
+grupo do da bovinocultura de corte da
+ 00:18:14
+
+bovinocultura de leite eh enfim eh da
+ 00:18:16
+
+pecan
+ 00:18:20
+
+cultura dos da meranda escolar enfim e
+ 00:18:21
+
+nesses grupos a gente especifica bem os
+ 00:18:25
+
+assuntos não é não vai ficar fazendo
+ 00:18:26
+
+assuntos gerais agora esses três que eu
+ 00:18:28
+
+tô apresentando aqui agora são grupos de
+ 00:18:31
+
+assuntos gerais tá então é uma forma da
+ 00:18:33
+
+gente interagir diferente
+ 00:18:36
+
+ã o que eu conto desse do gurias do
+ 00:18:39
+
+rural foi muito interessante porque foi
+ 00:18:41
+
+fez tanto sucesso que na época lá 2020
+ 00:18:43
+
+2021 eu não tinha como acrescentar mais
+ 00:18:47
+
+que
+ 00:18:50
+
+253 pessoas no grupo de Whats e aí eu
+ 00:18:51
+
+sempre tinha fila de espera todo mundo
+ 00:18:55
+
+queria participar descobria Aí eu disse
+ 00:18:57
+
+pras gurias não é gurias ajudem nos ajudem
+ 00:18:59
+
+a a incluir mais pessoas passem nos
+ 00:19:02
+
+passem os contatos a gente continua
+ 00:19:04
+
+sendo administradoras somente nós da
+ 00:19:06
+
+Emater e e era um sucesso esse grupo mas
+ 00:19:08
+
+sucesso mesmo e a nossa e a nossa
+ 00:19:12
+
+proposta era bom agora é pandemia vamos
+ 00:19:14
+
+nos conhecer e também vamos mostrar
+ 00:19:18
+
+aquilo que a gente faz a gente faz em
+ 00:19:20
+
+casa se a gente vende alguma coisa podem
+ 00:19:22
+
+usar esse esse grupo aqui para venda não
+ 00:19:24
+
+tem problema nenhum é uma forma da gente
+ 00:19:26
+
+melhorar a questão da renda das mulheres
+ 00:19:29
+
+não é ã E aí matf a nossa sede aqui o nosso
+ 00:19:31
+
+escritório a gente brincou que virou um
+ 00:19:36
+
+budegão porque a gente centraliza não é
+ 00:19:38
+
+ainda hoje é assim tem uma mesa
+ 00:19:41
+
+específica paraas encomendas porque daí
+ 00:19:43
+
+o que que acontece alguém de uma
+ 00:19:45
+
+Imaginem aquele mapa de Agudo que eu
+ 00:19:47
+
+mostrei alguém lá da região norte
+ 00:19:48
+
+vendendo para alguém da região sul não
+ 00:19:51
+
+tem como buscar na casa não existe isso
+ 00:19:53
+
+então o pessoal vem pra cidade deixa a
+ 00:19:55
+
+encomenda na imater outro dia alguém vai
+ 00:19:57
+
+lá e busca E aí com o advento do pix que
+ 00:20:00
+
+foi depois disso aqui de 2020 que que o
+ 00:20:02
+
+pessoal todo mundo aderi a gente tem uma
+ 00:20:05
+
+tranquilidade em relação a dinheiro mas
+ 00:20:08
+
+conto para vocês que até banco não é a
+ 00:20:09
+
+gente virou assim tinha que ter uma
+ 00:20:11
+
+gaveta especial com várias
+ 00:20:12
+
+identificações porque o pessoal deixava
+ 00:20:14
+
+produto e deixava dinheiro lá também não é
+ 00:20:16
+
+para pagar então assim foi muito
+ 00:20:18
+
+interessante porque a gente hoje tem
+ 00:20:21
+
+consciência de que nós através dos
+ 00:20:23
+
+grupos a gente movimentou muita renda no
+ 00:20:25
+
+município de Agudo a gente tá dando
+ 00:20:28
+
+muita visibilidade para o que é feito em
+ 00:20:30
+
+outras regiões e para nós como
+ 00:20:32
+
+extensionistas também interessante
+ 00:20:34
+
+outras regiões do próprio município não é
+ 00:20:36
+
+porque a gente começa a ver um cenário
+ 00:20:39
+
+que a gente também não enxergava não é E aí
+ 00:20:41
+
+em 2023 eu tive que criar o brick das
+ 00:20:44
+
+Gurias por que que eu tive que criar
+ 00:20:47
+
+porque o o gurias do rural ele começou a
+ 00:20:49
+
+a as gurias da cidade mulheres aqui da
+ 00:20:52
+
+cidade queriam participar porque queriam
+ 00:20:54
+
+comprar coisas do interior Mel feijão
+ 00:20:56
+
+fruta verdura banha enfim não é Tudo E aí
+ 00:21:00
+
+eu eu disse Urias não tem como nós botar
+ 00:21:05
+
+todas juntos porque o WhatsApp não
+ 00:21:08
+
+comporta ele não aceita mais que tantas
+ 00:21:10
+
+mulher tantas pessoas na época não
+ 00:21:12
+
+conseguia não é aí alguém me disse assim
+ 00:21:15
+
+Cláudia quem sabe queria um um para as
+ 00:21:17
+
+gurias da do pessoal da cidade que quer
+ 00:21:19
+
+entrar e algumas do interior que queiram
+ 00:21:22
+
+vender hoje o grupo do Brick tá maior não é
+ 00:21:24
+
+Então vocês vem aí tem qu qu 600 pessoas
+ 00:21:27
+
+ã e sempre sempre sempre sempre me
+ 00:21:30
+
+pedindo para incluir pessoas não é então
+ 00:21:33
+
+muito legal E aí e tudo direcionado para
+ 00:21:35
+
+as mulheres aí eh os homens chegavam
+ 00:21:39
+
+aqui no escritório e brincavam Ah nós
+ 00:21:42
+
+não aguentamos eu não aguento mais é
+ 00:21:45
+
+tanto barulho de mensagem chegando
+ 00:21:47
+
+naqueles grupo das Gurias o que que é
+ 00:21:49
+
+aquilo e não sei não é tirando onda assim e
+ 00:21:51
+
+eu disse ah Vocês estão com ciúmes nós
+ 00:21:53
+
+vamos criar um grupo para vocês também
+ 00:21:55
+
+aí nós Nós pensamos assim que realmente
+ 00:21:57
+
+não é a gente tinha criado esse grupo amplo
+ 00:22:00
+
+para as mulheres não é poderem se comunicar
+ 00:22:03
+
+e pros homens a gente só tinha alguns
+ 00:22:06
+
+específicos que nem eu digo aqueles que
+ 00:22:09
+
+que que são mais específicos de culturas
+ 00:22:11
+
+de cultivos enfim eh e aí a gente criou
+ 00:22:13
+
+famílias do rural que daí nós não não
+ 00:22:17
+
+deixamos só público masculino não é a gente
+ 00:22:18
+
+ampliou para todos que quisessem e e
+ 00:22:22
+
+também eh deixamos Livre para para pro
+ 00:22:26
+
+pessoal adicionar porque daí o que que
+ 00:22:29
+
+aconteceu não é Eh a gente
+ 00:22:31
+
+tinah no início fica aquela loucura
+ 00:22:34
+
+ficam mandando um monte de de mensagem
+ 00:22:36
+
+adiciona Fulano adiciona adiciona
+ 00:22:38
+
+adiciona aí nós deixamos aberto mais
+ 00:22:40
+
+administradores pro pessoal conseguir
+ 00:22:42
+
+pelo menos incluir não é E hoje a gente tá
+ 00:22:44
+
+com 845
+ 00:22:47
+
+integrantes com essa abertura toda
+ 00:22:49
+
+acabou entrando pessoas da cidade também
+ 00:22:51
+
+nesse grupo do famílias do rural e esse
+ 00:22:53
+
+foi na verdade o grupo que mais deu
+ 00:22:56
+
+impacto na questão das enchentes Depois
+ 00:22:58
+
+eu comento um pouco mais sobre isso
+ 00:23:01
+
+ã o que que o que que a gente vai
+ 00:23:04
+
+sentindo ao longo da da caminhada não é
+ 00:23:07
+
+acho que é importante falar nesse
+ 00:23:09
+
+sentido Ah esses grupos hoje eles são um
+ 00:23:10
+
+o grupos eh que se ajudam em outras
+ 00:23:13
+
+coisas também tá a acaba que nós da
+ 00:23:17
+
+Emater eu eu monitoro sempre não é os
+ 00:23:20
+
+grupos fico monitorando entra muita
+ 00:23:24
+
+mensagem todos os dias tem mensagem
+ 00:23:26
+
+muita mensagem ah a gente conseguiu
+ 00:23:28
+
+colocar alguns limites não é tipo assim eh
+ 00:23:31
+
+o único quer dizer alguns poucos também
+ 00:23:34
+
+discussões não acontecem mas assim
+ 00:23:37
+
+política é algo que é proibido nos
+ 00:23:39
+
+grupos proibido mesmo eu tive que criar
+ 00:23:41
+
+para vocês terem noção nesse grupo do
+ 00:23:44
+
+famílias do rural que pegam os os homens
+ 00:23:46
+
+também
+ 00:23:49
+
+eh Tive que criar um outro grupo porque
+ 00:23:50
+
+eu não estava conseguindo colocar limite
+ 00:23:53
+
+nas postagens políticas tava muito forte
+ 00:23:56
+
+eles estavam eles estavam precisando
+ 00:23:59
+
+botar para fora sabe e e e eu não queria
+ 00:24:01
+
+excluir ninguém a minha premissa era de
+ 00:24:04
+
+ser um grupo inclusivo e não
+ 00:24:08
+
+excludente então eu não queria ficar
+ 00:24:11
+
+tirando pessoas por causa dessas
+ 00:24:13
+
+postagens no início aí eu pensei assim
+ 00:24:15
+
+eu lá como professora não é pensei como
+ 00:24:18
+
+professora quando eu tenho um aluno
+ 00:24:20
+
+Rebelde eu não posso tirar ele da sala
+ 00:24:22
+
+de aula e excluir ele do processo de
+ 00:24:24
+
+aprendizagem da sala de aula que que eu
+ 00:24:26
+
+faço eu preciso dar oportunidades
+ 00:24:28
+
+diferentes para que ele se inclua e se
+ 00:24:30
+
+sinta parte e vá aprendendo não é o meu
+ 00:24:33
+
+aluno Rebelde ou com algum tipo de
+ 00:24:36
+
+transtorno enfim não posso abandonar
+ 00:24:38
+
+então eu pensei o seguinte vou criar um
+ 00:24:40
+
+outro grupo então Criei um grupo
+ 00:24:42
+
+discussões políticas de Agudo vocês T
+ 00:24:44
+
+noção teve que chegar nesse nível e
+ 00:24:46
+
+migrei algumas pessoas para lá também eu
+ 00:24:48
+
+disse ó já começo com vocês que gostam
+ 00:24:50
+
+mais disso E aí no nesse grupo do
+ 00:24:53
+
+famílias eu botei o link do grupo de
+ 00:24:55
+
+político e disse podem ir para lá e lá
+ 00:24:57
+
+vocês discutam o quanto vocês quiserem E
+ 00:24:59
+
+aí eu consegui botar o limite neste aqui
+ 00:25:02
+
+da de famílias que se eu se hoje alguém
+ 00:25:04
+
+fala de política aí eu fiz uma um meio
+ 00:25:07
+
+que uma enquete no grupo Ah o que que eu
+ 00:25:10
+
+faço é para excluir é para excluir
+ 00:25:11
+
+porque hoje já foi criado um uma
+ 00:25:13
+
+oportunidade deles deles eh falar em
+ 00:25:16
+
+outro grupo tá então tá então agora se
+ 00:25:18
+
+alguém fala se alguém desliza eu sou eu
+ 00:25:21
+
+tenho eh a a abertura para para poder
+ 00:25:24
+
+excluir e assim tá acontecendo mas tem
+ 00:25:28
+
+pouquíssimas exclusões então para vocês
+ 00:25:30
+
+ver que a gente tem que eu sinto assim
+ 00:25:33
+
+que a gente tem que estar ligado nesses
+ 00:25:34
+
+movimentos não é Eu não sei se eu faço a
+ 00:25:36
+
+coisa certa mas é a forma como eu tô
+ 00:25:38
+
+lidando hoje com o público que eu atendo
+ 00:25:39
+
+e assim ó para não perder grupos
+ 00:25:42
+
+importantes porque hoje assim ó o que eu
+ 00:25:45
+
+escuto de feedback das pessoas que
+ 00:25:47
+
+participam é são grupos maravilhosos ã
+ 00:25:49
+
+ajudam muito porque às vezes é é é um
+ 00:25:53
+
+contato Ah eu Alguém tem o telefone de
+ 00:25:55
+
+um médico de uma da rodoviária todo
+ 00:25:58
+
+mundo se ajuda não é ah às vezes a gente
+ 00:26:01
+
+chega depois não é Nós extensionistas
+ 00:26:05
+
+chegamos depois eu brinco assim porque
+ 00:26:06
+
+alguém colocou assim meu Deus tal coisa
+ 00:26:09
+
+tal problema tá acontecendo aqui nas
+ 00:26:11
+
+minhas flores o que que será que eu faço
+ 00:26:13
+
+quando eu ou as colegas vamos ver a
+ 00:26:16
+
+mensagem as outras amigas do grupo já
+ 00:26:18
+
+viram e já enviaram receitas de tudo não é
+ 00:26:21
+
+do que fazer de como fazer do que que
+ 00:26:23
+
+acha do que que não acha então é uma uma
+ 00:26:25
+
+ajuda tua muito bonita não é a gente tá
+ 00:26:27
+
+esses dias nós rimos não é que num dos
+ 00:26:30
+
+grupos uma uma colocou desesperada assim
+ 00:26:33
+
+gurias eu não sei o que fazer essa
+ 00:26:35
+
+virose aqui no Agudo agora diarreia e
+ 00:26:37
+
+vômito me sugiram alguns chá vocês não
+ 00:26:39
+
+TM noção não é da quantidade de informação
+ 00:26:42
+
+que chegou a partir dessa desse
+ 00:26:45
+
+questionamento de uma então a gente
+ 00:26:47
+
+sente assim ó que o grupo é um lugar de
+ 00:26:49
+
+desabafo porque tu sabe também que ali
+ 00:26:51
+
+ninguém vai te julgar as pessoas estão
+ 00:26:53
+
+ali para ajudar Principalmente nos
+ 00:26:55
+
+grupos das mulheres aqui tá então é um
+ 00:26:57
+
+movimento muito bonito nesse sentido
+ 00:27:00
+
+ã quando se a gente pergunta e foi as
+ 00:27:03
+
+nossas perguntas norteadores se essas
+ 00:27:06
+
+ferramentas de comunicação digital elas
+ 00:27:08
+
+são efetivas não é pra gente se informar E
+ 00:27:11
+
+dialogar com os produtores são são muito
+ 00:27:13
+
+efetivas principalmente não é grupos de
+ 00:27:16
+
+WhatsApp grupos de Face e no Facebook ah
+ 00:27:19
+
+o meu público de Agudo praticamente
+ 00:27:22
+
+eh olha eu não sei eu não sei precisar
+ 00:27:25
+
+porque a pesquisa eu não faço não é então h
+ 00:27:27
+
+de dizer assim Quantos por cento das
+ 00:27:30
+
+pessoas têm smartphone hoje mas assim ó
+ 00:27:32
+
+é 90 95% das pessoas têm smartphone
+ 00:27:35
+
+pessoas de idade também não é as pessoas de
+ 00:27:39
+
+mais idade idosos T também interagem
+ 00:27:41
+
+também pedem para mim me bota lá no
+ 00:27:44
+
+grupo eu quero só ler as mensagens eu
+ 00:27:46
+
+tive uma uma uma experiência de uma
+ 00:27:49
+
+produtora que tava no hospital eu já
+ 00:27:50
+
+tava em estado terminal assim não é E ela
+ 00:27:53
+
+me disse que o que deixava ela feliz é
+ 00:27:56
+
+era abrir todos os dias o Whats e ver o
+ 00:27:58
+
+grupo desse das gurias do rural e poder
+ 00:28:00
+
+acompanhar as conversas ali então assim
+ 00:28:02
+
+para mim aquilo ali foi muito marcante
+ 00:28:04
+
+não é ela disse olha eu não tenho o que
+ 00:28:06
+
+fazer tô aqui
+ 00:28:08
+
+ã não é tô aqui no hospital e a coisa que
+ 00:28:09
+
+eu acho mais interessante é isso e ela
+ 00:28:14
+
+até acessa o WhatsApp também para ver as
+ 00:28:16
+
+novidades mas o grupo para ela era como
+ 00:28:17
+
+se ela tivesse numa roda de amigas não é
+ 00:28:19
+
+então assim ela agradeceu muito nós a
+ 00:28:22
+
+gente tem muito relato nesse sentido
+ 00:28:24
+
+sabe e eu acho que isso que vale a pena
+ 00:28:26
+
+então eu coloquei agora nessa nossa fala
+ 00:28:28
+
+aqui algumas percepções que eu tive eu
+ 00:28:30
+
+quero dizer para vocês que nada disso é
+ 00:28:32
+
+eh científico no sentido de de que é
+ 00:28:34
+
+balizado por uma metodologia enfim não
+ 00:28:37
+
+tá são as percepções da Cloud
+ 00:28:40
+
+extensionista eh nesse tempo de de de um
+ 00:28:42
+
+ater digital que a gente tá fazendo
+ 00:28:46
+
+então o Facebook se eu quero divulgar o
+ 00:28:49
+
+meu trabalho O Facebook é melhor que o
+ 00:28:51
+
+insta eh paraa maior parte do meu
+ 00:28:52
+
+público eh eu vejo que a gente faz
+ 00:28:55
+
+aquela comparação básica das curtidas
+ 00:28:58
+
+dos comentários não tem comparação
+ 00:29:00
+
+Facebook ainda tá muito além dentro do
+ 00:29:02
+
+meu público não é Eh o Whats todos T então
+ 00:29:05
+
+também já
+ 00:29:08
+
+a se eu se eu se eu sou se eu crio um
+ 00:29:12
+
+grupo Ah quem quem sabe disso quem quem
+ 00:29:15
+
+entrou através eh de um convite meu de
+ 00:29:20
+
+um adicionamento que foi meu meu me
+ 00:29:22
+
+entende como dona dona do grupo não é
+ 00:29:25
+
+Espero tudo é é falado comigo tudo é não é
+ 00:29:28
+
+posso ficar assim semanas sem interagir
+ 00:29:32
+
+naquele grupo mas todo mundo sabe que
+ 00:29:34
+
+aquele grupo ali é o grupo da imater não é
+ 00:29:37
+
+em que a Cláudia ou as outras colegas é
+ 00:29:39
+
+que é que vão dar um veredito se de tem
+ 00:29:42
+
+algum problema alguma questão tá
+ 00:29:45
+
+ã Sinto que quando eu posto algo Eu como
+ 00:29:49
+
+extensionista que criei o grupo enfim eu
+ 00:29:53
+
+posto algo ele tem tem um valor
+ 00:29:56
+
+diferente
+ 00:29:58
+
+eh
+ 00:30:00
+
+ah é a Cláudia que criou o grupo não é que
+ 00:30:02
+
+que é extensionista Enfim então eu tenho
+ 00:30:06
+
+que cuidar muito com isso eu tenho tem
+ 00:30:08
+
+momentos que eu que eu me posiciono não é
+ 00:30:10
+
+com uma uma comunicação bem
+ 00:30:12
+
+bem bem usual bem bem do cotidiano H
+ 00:30:15
+
+sobre algum assunto vou dar um exemplo
+ 00:30:19
+
+para vocês esses dias não é uma queixa no
+ 00:30:21
+
+grupo do Brick das gurias que é um grupo
+ 00:30:23
+
+de Brick eh existia tava uma queixa aqui
+ 00:30:25
+
+que na cidade estava faltando água ah
+ 00:30:29
+
+porque tá de novo faltando água de novo
+ 00:30:31
+
+faltando água aí aquilo ali tava sendo
+ 00:30:33
+
+muito recorrente eu pensei não eu vou
+ 00:30:35
+
+aproveitar para fazer uma uma educação
+ 00:30:37
+
+aqui
+ 00:30:40
+
+ã aí eu comecei a questionar sobre por
+ 00:30:41
+
+exemplo assim quem tem reservatório de
+ 00:30:45
+
+água em casa Será que a gente não tem
+ 00:30:46
+
+que eh hoje o custo de uma caixa d' água
+ 00:30:49
+
+é tão baixo e e montar uma estrutura de
+ 00:30:52
+
+reservação de água não tô nem falando de
+ 00:30:55
+
+reservação de água da chuva que foi
+ 00:30:56
+
+salvação na nossa enchente quando faltou
+ 00:30:59
+
+água aqui também de abastecimento
+ 00:31:01
+
+público mas tô falando de de caixas
+ 00:31:03
+
+d'água mesmo nas nas residências então
+ 00:31:06
+
+eu aproveitei a deixa para fazer todo um
+ 00:31:08
+
+comentário Não não peguei
+ 00:31:11
+
+ã elementos de internet e tal Não a
+ 00:31:14
+
+minha linguagem o meu jeito de pensar de
+ 00:31:18
+
+orientar E aí depois muita aí tu vê não é
+ 00:31:21
+
+no grupo muitas pessoas apoiando eu
+ 00:31:24
+
+passo na rua e Que bom que tu colocou
+ 00:31:25
+
+colocou aquilo aí uma colocou para mim
+ 00:31:27
+
+assim lá também foi no grupo ai muito
+ 00:31:30
+
+obrigada por pensar por mim não tinha
+ 00:31:32
+
+pensado por esse por essa Ótica sabe
+ 00:31:34
+
+então assim a forma como a gente se
+ 00:31:36
+
+posiciona como extensionista criador do
+ 00:31:38
+
+grupo é importante Sim a gente tem que
+ 00:31:40
+
+cuidar disso porque nós somos referência
+ 00:31:41
+
+para as pessoas não é
+ 00:31:44
+
+ã outra coisa que eu observo Às vezes a
+ 00:31:46
+
+gente pensa assim ah mas se ninguém
+ 00:31:49
+
+comentou depois do que eu postei ou
+ 00:31:51
+
+ninguém curtiu a minha postagem reagiu
+ 00:31:53
+
+ali Ah não não estão sabendo não estão
+ 00:31:55
+
+interagindo não tô entendendo não não
+ 00:31:57
+
+significa não é Eh muitas vezes a a a gente
+ 00:31:59
+
+nota assim nós somos assim não é Acredito
+ 00:32:03
+
+que muitos da aqui da audiência também
+ 00:32:06
+
+são assim ah alguém postou algo num
+ 00:32:07
+
+grupo tu não reage tu não responde Tu só
+ 00:32:10
+
+lê Tu sabe o que aconteceu então eu
+ 00:32:13
+
+tenho consciência de que os meus
+ 00:32:15
+
+produtores Eles estão sabendo aquilo que
+ 00:32:17
+
+eu postei e esses dias vou dar um
+ 00:32:19
+
+exemplo de uma coisa que aconteceu eh
+ 00:32:21
+
+aqui no Rio Grande do Sul a gente teve
+ 00:32:23
+
+há pouco abertura de um feaper Juventude
+ 00:32:25
+
+e Esse fap Juventude Juventude tem um um
+ 00:32:28
+
+limite da idade não é E aí nós começamos
+ 00:32:31
+
+postar então assim vários grupos não é e eu
+ 00:32:34
+
+nós colocamos ainda eh
+ 00:32:37
+
+eh tinha que que fazer uma inscrição num
+ 00:32:40
+
+formulário do forms não é Eh então eu não
+ 00:32:43
+
+sei até que ponto ã os jovens acessaram
+ 00:32:47
+
+não acessaram porque não tinha muito
+ 00:32:51
+
+essa ess esse retorno mas eh numa
+ 00:32:52
+
+reunião lá na beira de um de um Arroio
+ 00:32:56
+
+por causa de uma ponte Comunitária se
+ 00:32:58
+
+ajuda com ajuda Comunitária tava sendo
+ 00:33:01
+
+construída Eu aproveitei essa reunião Se
+ 00:33:02
+
+chegaram as pessoas eu olhei assim e vi
+ 00:33:04
+
+uma uma uma senhora senhora uma jovem
+ 00:33:08
+
+que é casada e tudo e eu perguntei para
+ 00:33:12
+
+ela que idade tu tem ela disse assim eu
+ 00:33:13
+
+tenho 26 eu disse assim tu viu que tu
+ 00:33:15
+
+pode acessar aquilo que nós postamos Sim
+ 00:33:18
+
+sim vi já me
+ 00:33:20
+
+inscrevi E aí eu olhei para outro e El e
+ 00:33:21
+
+ela disse assim e ele também já se
+ 00:33:24
+
+inscreveu porque eu passei para ele
+ 00:33:25
+
+então assim a gente vê é é nesses
+ 00:33:27
+
+momentos às vezes informais numa
+ 00:33:30
+
+conversa que tu vê que a tua postagem
+ 00:33:31
+
+ela funcionou Então ela está chegando
+ 00:33:33
+
+sim às vezes por isso que eu digo não é
+ 00:33:35
+
+através da da curtida da não é de de uma
+ 00:33:38
+
+reação de uma fala ali no grupo de uma
+ 00:33:42
+
+resposta que tu sabe é importante a
+ 00:33:44
+
+gente saber vamos postar Vamos divulgar
+ 00:33:46
+
+porque alguém vai ler e para alguém vai
+ 00:33:48
+
+ser
+ 00:33:49
+
+importante noto que
+ 00:33:51
+
+ah dentro do nosso do do da nossa
+ 00:33:53
+
+prática aqui se caso a gente ficar eh
+ 00:33:56
+
+postando eh encaminhando coisas eh por
+ 00:33:59
+
+exemplo dessas políticas públicas eu
+ 00:34:03
+
+preciso estar muito por dentro muito por
+ 00:34:04
+
+dentro porque Vão vir
+ 00:34:07
+
+questionamentos no particular mesmo no
+ 00:34:09
+
+grupo então às vezes encaminhar ajudar
+ 00:34:12
+
+alguém ah V encaminhar uma informação
+ 00:34:15
+
+sem eu nem saber direito sobre aquilo
+ 00:34:17
+
+ali só tô encaminhando É pode ser um
+ 00:34:19
+
+tiro no pé porque eu preciso est ciente
+ 00:34:21
+
+se por exemplo as caminhadas da natureza
+ 00:34:25
+
+que que o que o Ezequiel promove ajuda a
+ 00:34:27
+
+promover aqui no Rio Grande do Sul aqui
+ 00:34:29
+
+na na nossa região central se eu não
+ 00:34:30
+
+tiver por dentro dos detalhes de como
+ 00:34:32
+
+funciona É melhor eu nem reencaminhar as
+ 00:34:34
+
+mensagens do Ezequiel eu preciso estar
+ 00:34:36
+
+sabendo porque vai surgir questionamento
+ 00:34:39
+
+muitos deles acham que por causa que
+ 00:34:41
+
+quem me encaminhou sabe tudo do assunto
+ 00:34:43
+
+então a gente precisa tá ciente mesmo
+ 00:34:45
+
+ã notei que textos longos não são bons
+ 00:34:47
+
+Às vezes o texto longo dividido em
+ 00:34:51
+
+várias pequenas mensagens funciona muito
+ 00:34:54
+
+melhor não é então assim outra coisa a
+ 00:34:57
+
+forma da gente comunicar
+ 00:35:00
+
+eh Se eu colocar na minha linguagem e o
+ 00:35:02
+
+produtor vai saber que eu que é a
+ 00:35:05
+
+Cláudia que tá escrevendo que a Cláudia
+ 00:35:07
+
+que tá falando Eles me conhecem se eu
+ 00:35:08
+
+copiar e colar não vai funcionar se eu
+ 00:35:11
+
+reencaminhar uma mensagem ah eu tenho um
+ 00:35:13
+
+grupo da imater que recebe um uma
+ 00:35:15
+
+orientação técnica sobre
+ 00:35:18
+
+determinada vamos supor assim eh temos
+ 00:35:20
+
+agora uma um problema sério da
+ 00:35:23
+
+cigarrinha do Milho tá seu pegar um card
+ 00:35:25
+
+da Emater e mais um texto técnico e só
+ 00:35:28
+
+reencaminhar nos meus grupos vai ter que
+ 00:35:31
+
+V vai ler Ok mas vai ser muito melhor se
+ 00:35:33
+
+eu até encaminho o Card mas aquele texto
+ 00:35:36
+
+técnico Eu transformo na minha linguagem
+ 00:35:39
+
+da extensionista Cláudia tem outra outra
+ 00:35:41
+
+chegada no meu produtor outra chegada
+ 00:35:45
+
+Então acho que a gente tem que se se
+ 00:35:47
+
+preocupar bastante com
+ 00:35:48
+
+isso ã coloquei ali que eu nunca fiz
+ 00:35:50
+
+pesquisa não é mas eu acredito muito assim
+ 00:35:54
+
+que o o texto ainda é melhor do que o
+ 00:35:56
+
+card do que o vídeo e do que o áudio
+ 00:35:59
+
+principalmente em grupos se a
+ 00:36:01
+
+comunicação é individual o áudio é bom
+ 00:36:03
+
+não é claro que a gente sabe que às vezes a
+ 00:36:06
+
+gente tem tem informações que a gente
+ 00:36:08
+
+precisa buscar eh numa conversa que a
+ 00:36:10
+
+gente teve E aí é muito mais fácil Se
+ 00:36:12
+
+ela tiver em texto ou num Card não é mas eu
+ 00:36:15
+
+eu noto que parte do meu público não lê
+ 00:36:17
+
+direito os cards assim não é a informação
+ 00:36:20
+
+pode estar toda ali mas eles vão me
+ 00:36:22
+
+perguntar coisas óbvias Às vezes as
+ 00:36:24
+
+informações textos em em frases curtas
+ 00:36:26
+
+ela funciona ainda melhor não é
+ 00:36:29
+
+ã sinto que de novo não é Essa essa questão
+ 00:36:32
+
+do vínculo
+ 00:36:37
+
+eh ela é Ela é fundamental então Eh as
+ 00:36:39
+
+pessoas sentem quando a gente é
+ 00:36:44
+
+vinculada a elas não é eu eu eu eu vejo
+ 00:36:45
+
+assim que para mim Acontece muito não é
+ 00:36:48
+
+ontem eu ainda também dei um exemplo
+ 00:36:51
+
+nesse dia de campo de turismo em com o
+ 00:36:53
+
+trabalho que eu faço com os artesãos não é
+ 00:36:56
+
+eu tava de férias H lá em Blumenau
+ 00:36:58
+
+olhando um artesanato num domingo assim
+ 00:37:01
+
+e eu encontrei um artesanato feito com
+ 00:37:04
+
+gerivá com o caixo do coquinho do gerivá
+ 00:37:07
+
+e me lembrei de um produtor meu não é tirei
+ 00:37:10
+
+foto mandei áudio e tal quando eu
+ 00:37:13
+
+cheguei de volta das minhas férias ele
+ 00:37:15
+
+já tinha testado e tinha dado certo
+ 00:37:17
+
+então assim ó eh eu ele sabe que eu me
+ 00:37:19
+
+preocupo com ele ele sabe que ele que
+ 00:37:22
+
+isso tudo tá no meu radar sempre aí
+ 00:37:24
+
+vocês vão dizer ah mas aí é muita carga
+ 00:37:26
+
+mental eu sei às vezes é carga mental
+ 00:37:28
+
+que a gente tem sim como extensionista
+ 00:37:30
+
+tem que cuidar um pouco isso mas é
+ 00:37:31
+
+porque a gente se vincula mesmo não é e a
+ 00:37:33
+
+gente vê coisas e lembra eu sou faço
+ 00:37:35
+
+muito isso graças a Deus a gente tem
+ 00:37:38
+
+hoje o WhatsApp em em algum momento em
+ 00:37:40
+
+em em diferentes eh
+ 00:37:43
+
+H partes do dia ou do ano não é se é féria
+ 00:37:46
+
+se é feriado se é o quê eu vou mandar
+ 00:37:50
+
+mensagem sim pros meus assistidos se
+ 00:37:52
+
+aquilo ali tem a ver com eles e assim eu
+ 00:37:54
+
+crio esse vínculo e eu eu crio essa
+ 00:37:55
+
+credibilidade com eles então acho que é
+ 00:37:58
+
+é é uma forma de de fazer essa conexão
+ 00:37:59
+
+de verdade não é com essas pessoas e e logo
+ 00:38:02
+
+ali a gente tem um resultado porque eh
+ 00:38:07
+
+essa esse respeito e essa essa amizade
+ 00:38:11
+
+que a gente cria não tem preço
+ 00:38:13
+
+não é Outra percepção aqui que eu coloco não é
+ 00:38:15
+
+os jovens interagem menos do que os
+ 00:38:19
+
+adultos e os idosos
+ 00:38:21
+
+eh não dá pra gente se iludir que eles
+ 00:38:23
+
+vão retornar publicação do que a gente
+ 00:38:26
+
+fez então vejo por exemplo nossos grupos
+ 00:38:28
+
+de juventude Rural ã se não há um um
+ 00:38:30
+
+questionamento se eu não publicar algo
+ 00:38:34
+
+assim
+ 00:38:35
+
+questionando pedindo um retorno eu não
+ 00:38:37
+
+vou ter vai ser vão me deixar no vácuo
+ 00:38:41
+
+vamos dizer mas isso não significa que
+ 00:38:43
+
+não estejam lendo não é mas é mais efetiva
+ 00:38:44
+
+eu acho que por uma questão de foco não é
+ 00:38:48
+
+hoje todos nós estamos com tanta coisa
+ 00:38:50
+
+que vai passando não é aquilo que a gente
+ 00:38:53
+
+lê às vezes em muito grupo muita coisa
+ 00:38:55
+
+vai vai passando e os jovens eles têm um
+ 00:38:57
+
+pouco disso também não é eles eles não
+ 00:38:59
+
+ficam muito apegados o pessoal adulto já
+ 00:39:01
+
+dá mais retorno enfim mas a gente tem
+ 00:39:04
+
+que trabalhar com esse público também ã
+ 00:39:06
+
+porque eles eles também eh de alguma
+ 00:39:09
+
+forma eles recebem e eles internalizam
+ 00:39:11
+
+aquilo que a gente fala não é
+ 00:39:14
+
+ã muitas pessoas quando se fala num at
+ 00:39:16
+
+digital os extensionistas são bem
+ 00:39:19
+
+resistentes bem resist nós temos colegas
+ 00:39:21
+
+Assim pessoas bem resistentes a agir a a
+ 00:39:24
+
+a criar esse essa cultura do do do do
+ 00:39:28
+
+ater digital eh por causa da questão do
+ 00:39:31
+
+dos horários não é e eu não eu não vejo
+ 00:39:35
+
+particularmente problema com isso acho
+ 00:39:38
+
+que é uma questão de limite mesmo porque
+ 00:39:39
+
+nós também temos que entender que se a
+ 00:39:42
+
+gente se esse é o nosso trabalho e a
+ 00:39:43
+
+gente quer fazer isso só no horário de
+ 00:39:45
+
+trabalho Eh ok tudo certo mas o trabalho
+ 00:39:46
+
+do produtor rural ele ele não é junto
+ 00:39:50
+
+com o celular não é claro que hoje Ahã os
+ 00:39:54
+
+produtores Estão levando celular junto
+ 00:39:57
+
+na lavour nos seus locais o wi-fi deles
+ 00:39:59
+
+pega às vezes não é num outras partes da
+ 00:40:02
+
+propriedade enfim não é mas a gente tem que
+ 00:40:04
+
+ter ciência que sim para sentar olhar
+ 00:40:08
+
+pensar interagir vai ser em horários de
+ 00:40:11
+
+folga não é início da manhã durante o
+ 00:40:13
+
+meio-dia ã à tardinha à noite então nem
+ 00:40:17
+
+sempre assim ó a gente vai ter a
+ 00:40:21
+
+resposta que a gente quer na hora ou o a
+ 00:40:23
+
+a mensagem então a gente vai botando o
+ 00:40:26
+
+limite desculpem não dá é para deixar de
+ 00:40:29
+
+fazer e outra coisa que que é isso
+ 00:40:33
+
+aconteceu muito na durante a pandemia
+ 00:40:38
+
+que a gente às vezes postava algumas
+ 00:40:40
+
+coisas só para não perder mesmo o
+ 00:40:42
+
+vínculo não é Vamos postar alguma coisa
+ 00:40:44
+
+porque ã a gente não tá conseguindo
+ 00:40:45
+
+desenvolver muita coisa presencial Então
+ 00:40:48
+
+vamos vamos postar receitas vamos postar
+ 00:40:50
+
+dicas enfim e e a às vezes e mulher
+ 00:40:53
+
+principalmente adora receitas não é
+ 00:40:58
+
+receitas
+ 00:41:01
+
+ã tanto de comida quanto de produto de
+ 00:41:02
+
+limpeza não é essas coisas assim receitas
+ 00:41:06
+
+para tratamentos de eh uso de de de de
+ 00:41:08
+
+coisas mais naturais para tratar alguma
+ 00:41:12
+
+Praga e alguma doença e a e essa esse
+ 00:41:13
+
+exemplo da Mara eu pedi para para citar
+ 00:41:17
+
+ela aqui por quê
+ 00:41:20
+
+h a gente hoje hoje eu digo assim ó a
+ 00:41:22
+
+sei lá meio ano um ano atrás em que ela
+ 00:41:27
+
+nos ajudou a dar um curso de bolachas eh
+ 00:41:31
+
+eh as bolachas decoradas nessa foto
+ 00:41:33
+
+aparece ela recebendo um Mimo ã no
+ 00:41:38
+
+município vizinho aqui que ela deu um
+ 00:41:41
+
+curso de bolachas decoradas e merb mer
+ 00:41:43
+
+batai é uma é uma espécie de
+ 00:41:47
+
+torta Vamos fazer vamos combinar assim ó
+ 00:41:51
+
+no restante do Brasil acredito que se a
+ 00:41:54
+
+gente falar de torta de limão todo mundo
+ 00:41:55
+
+vai imaginar aquela tortinha que é feita
+ 00:41:58
+
+com uma massa que que se coloca nas
+ 00:42:01
+
+bordas de uma forma e coloca o recheio
+ 00:42:04
+
+dentro o nosso merba ele é parecido com
+ 00:42:07
+
+isso tá E hoje a gente tá trabalhando
+ 00:42:10
+
+para que esse merba tá ele seja eh
+ 00:42:13
+
+reconhecido por lei municipal aqui como
+ 00:42:15
+
+um produto de Agudo eh na na região
+ 00:42:17
+
+ninguém faz então
+ 00:42:20
+
+Eh essa massa ela é muito par ela é
+ 00:42:22
+
+parecida Mas ela é fermentada ela ela é
+ 00:42:25
+
+parecida na no formato que fica mas ela
+ 00:42:28
+
+é bem diferente do que é uma torta de
+ 00:42:30
+
+limão por exemplo mas o recheio interno
+ 00:42:31
+
+os alemães que vieram para cá eles
+ 00:42:35
+
+usaram
+ 00:42:36
+
+ã eles usavam que tinha fruta da
+ 00:42:38
+
+época requeijão que eles faziam em casa
+ 00:42:41
+
+não é então se criava um recheio conforme
+ 00:42:45
+
+aquilo que tinha e ela é uma torta que
+ 00:42:47
+
+antes antes de nós termos a hoje o bolo
+ 00:42:49
+
+decorado da torta de aniversário era
+ 00:42:52
+
+esse tipo de tortinha que exti então nós
+ 00:42:55
+
+estamos tentando buscar e resgatar e A
+ 00:42:58
+
+Mara é uma uma figura hoje
+ 00:43:00
+
+ã que ajuda nos ajuda nesse sentido aqui
+ 00:43:02
+
+no no município não é a gente tá fazendo
+ 00:43:05
+
+esse trabalho interno muito forte H já
+ 00:43:07
+
+já levando também para alguns municípios
+ 00:43:11
+
+da região e ela é Então essa pessoa que
+ 00:43:13
+
+lá na pandemia através de uma receita
+ 00:43:17
+
+que nós postamos de uma bolacha de mel e
+ 00:43:19
+
+melado ela a A partir dessa dessa essa
+ 00:43:23
+
+receita que é uma receita que não vai
+ 00:43:27
+
+açúcar não é o açúcar eh industrializado eh
+ 00:43:29
+
+enfim é uma coisa um pouco mais natural
+ 00:43:33
+
+ela criou fez as bolachas e depois
+ 00:43:35
+
+procurou na internet uma forma de
+ 00:43:38
+
+decorar e ela hoje ela é Ela tem ela é
+ 00:43:39
+
+esse produto dela é considerado um ge
+ 00:43:43
+
+produto Aqui nós fizemos parte do
+ 00:43:45
+
+geoparque Quarta Colônia não é que é eh
+ 00:43:47
+
+reconhecido pela Unesco inclusive então
+ 00:43:50
+
+Alguns produtores de Agudo como da
+ 00:43:53
+
+região toda hã se cadastraram para ter
+ 00:43:54
+
+para os seus ge produtos ela faz em
+ 00:43:58
+
+formato de dinossauros porque Agudo É
+ 00:44:01
+
+hoje a terra dos Dinossauros também não é
+ 00:44:03
+
+os os mais antigos encontrados são aqui
+ 00:44:05
+
+de Agudo Então essa pegada dos
+ 00:44:07
+
+Dinossauros a gente tem em vários dos
+ 00:44:09
+
+nossos trabalhos também de extensão
+ 00:44:11
+
+principalmente artesanato e culinária e
+ 00:44:13
+
+a Mara faz isso e essa receita que a
+ 00:44:15
+
+gente postou lá na época da pandemia ela
+ 00:44:18
+
+usa hoje e trabalha e e tem uma nova
+ 00:44:20
+
+fonte de renda ela é agricultor enfim não é
+ 00:44:23
+
+mas ela tem essa nova fonte de renda
+ 00:44:27
+
+Então nada que a gente Às vezes a gente
+ 00:44:28
+
+posta e pensa que aquilo ali não vai dar
+ 00:44:30
+
+muito Impacto e E na verdade a gente se
+ 00:44:33
+
+engana conforme a gente vai conversando
+ 00:44:35
+
+com as pessoas a gente descobre essas
+ 00:44:37
+
+essas coisas importantes que a gente fez
+ 00:44:39
+
+e nem
+ 00:44:41
+
+sabia aí voltando um
+ 00:44:42
+
+pouquinho pra questão das enchentes vou
+ 00:44:45
+
+tomar um mate aqui junto
+ 00:44:48
+
+Ah o que que foi aquele grupo das
+ 00:44:50
+
+famílias do rural que eu comentei no
+ 00:44:52
+
+início ah ã foi foi assim ó um um Marco
+ 00:44:54
+
+um Marco dentro desse processo de como
+ 00:44:59
+
+lidar com a situação da enchente aqui em
+ 00:45:04
+
+agudo Por que que ele foi o marco um dos
+ 00:45:06
+
+nossos
+ 00:45:08
+
+eh integrantes do grupo ele adicionou Ah
+ 00:45:09
+
+todas as pessoas que da prefeitura
+ 00:45:14
+
+municipal que estavam ligadas a
+ 00:45:16
+
+salvamentos o pessoal da Defesa Civil
+ 00:45:18
+
+ele adicionou também bombeiros
+ 00:45:21
+
+voluntários eh secretários enfim pessoal
+ 00:45:22
+
+da secretaria de obras e por ali nós
+ 00:45:26
+
+conseguimos fazer algumas algumas eh
+ 00:45:29
+
+comunicações fundamentais então assim
+ 00:45:33
+
+nós tivemos o cenário de Agudo ali eu
+ 00:45:35
+
+coloquei alguns deslizamentos não é
+ 00:45:37
+
+ã Enfim nem vamos falar dessas coisas
+ 00:45:40
+
+tão ruins ali das fotos mas eh essas
+ 00:45:42
+
+regiões de Agudo ficaram isoladas muitas
+ 00:45:45
+
+regiões isoladas n eu já comentei lá no
+ 00:45:48
+
+início eh Pontes que caíram não é estradas
+ 00:45:50
+
+que foram soterradas Então até se
+ 00:45:53
+
+conseguir chegar nesses lugar essas
+ 00:45:55
+
+pessoas estavam isoladas nós teve
+ 00:45:57
+
+localidade aqui que passou mais de 20
+ 00:46:00
+
+dias mais quase 30 dias quase um mês sem
+ 00:46:02
+
+luz e aí não é todo mundo que tem
+ 00:46:04
+
+gerador não é E aí o que que aconteceu o
+ 00:46:07
+
+gerador ele era ligado duas vezes por
+ 00:46:11
+
+dia para conseguir manter por exemplo o
+ 00:46:13
+
+alimento nos freezer e também ligar a
+ 00:46:15
+
+internet e aí onde é que é quem com quem
+ 00:46:18
+
+eles conversavam muitos colocavam as
+ 00:46:21
+
+suas as suas demandas nos grupos ou nos
+ 00:46:23
+
+mandavam no par arular para nós
+ 00:46:26
+
+extensionistas e a gente fazia
+ 00:46:27
+
+comunicação com o apoio da prefeitura
+ 00:46:29
+
+que tinha aqui nós tínhamos um
+ 00:46:32
+
+helicóptero eh foi feito um esforço
+ 00:46:34
+
+muito grande muito importante de ter um
+ 00:46:36
+
+helicóptero disponível então muito
+ 00:46:37
+
+mantimento
+ 00:46:40
+
+combustível remédio foi mandado para as
+ 00:46:41
+
+localidades do interior via helicóptero
+ 00:46:44
+
+e a gente conseguia fazer esse meio de
+ 00:46:46
+
+campo nós tivemos um um um um problema
+ 00:46:48
+
+que não foi da enchend mas foi naqueles
+ 00:46:51
+
+dias
+ 00:46:53
+
+ali desculpe de uma produtora que o
+ 00:46:54
+
+marido se machucou muito feio ela não
+ 00:46:57
+
+conseguia falar com ninguém ela botou
+ 00:46:59
+
+naquele grupo pelo amor de Deus pessoal
+ 00:47:01
+
+avisem o SAMU Meu marido tá passando mal
+ 00:47:03
+
+o SAMU alguém Avisou no grupo não é já
+ 00:47:05
+
+houve movimento Já avisaram ó tá avisado
+ 00:47:07
+
+já sabemos a localidade Parará e e houve
+ 00:47:10
+
+um salvamento Então ela veio nos
+ 00:47:12
+
+agradecer depois a existência do grupo
+ 00:47:14
+
+ã muito muito nesse sentido ali a
+ 00:47:17
+
+comunicação por exemplo assim alguém que
+ 00:47:19
+
+mora numa região aqui de Agudo que tinha
+ 00:47:21
+
+parentes em outra mas não sabia se
+ 00:47:23
+
+aquilo ali tava se aquela região se
+ 00:47:25
+
+aquelas pessoas estavam vivas se tinham
+ 00:47:27
+
+ã estavam com alguma dificuldade esse
+ 00:47:30
+
+grupo foi fundamental Facebook foi
+ 00:47:33
+
+fundamental também mas os grupos de
+ 00:47:35
+
+whats fic ficavam algo um pouco mais
+ 00:47:37
+
+restrito e ao mesmo tempo amplo não é
+ 00:47:39
+
+porque o o grupo Os nossos grupos TM
+ 00:47:42
+
+pessoas de todas as localidades então
+ 00:47:45
+
+assim acessos Ah tá passando eh vinha
+ 00:47:47
+
+uma chuva alguma coisa tem acesso em tal
+ 00:47:50
+
+lugar aí alguém da da localidade
+ 00:47:53
+
+respondia então não tinha mais não tinha
+ 00:47:54
+
+tinha tanto risco de se ficar empenhado
+ 00:47:56
+
+sem poder acessar as suas residências ou
+ 00:47:59
+
+o município não é ligando uma outra porque
+ 00:48:02
+
+a informação ali acontecia então foi
+ 00:48:06
+
+muito bonito isso foi muito bonito é
+ 00:48:08
+
+algo que a gente tem assim hã de de
+ 00:48:11
+
+relatos assim que foram
+ 00:48:14
+
+eh fez fez o seu papel mais do que a
+ 00:48:16
+
+gente
+ 00:48:19
+
+imaginou então não eu acredito que o meu
+ 00:48:20
+
+tempo também já tá se encerrando não é Eh
+ 00:48:23
+
+eu vejo que que coloco aqui que
+ 00:48:25
+
+comunicar vale a pena não é eu tenho
+ 00:48:28
+
+figurinhas aqui de de alguns desses
+ 00:48:30
+
+grupos não é do artesanato de Agudo das
+ 00:48:32
+
+trabalhadoras Rurais do de juventude
+ 00:48:34
+
+Rural
+ 00:48:36
+
+ã do Turismo dos apicultores não é não
+ 00:48:37
+
+coloquei de todos coloquei só alguns
+ 00:48:41
+
+aqui eh eh sempre vale a pena não é criar
+ 00:48:42
+
+esses meios de comunicar sempre vale a
+ 00:48:46
+
+pena a gente diz ai mais um grupo é mais
+ 00:48:48
+
+um grupo e às vezes tu cria um grupo
+ 00:48:51
+
+momentâneo para um evento para uma
+ 00:48:53
+
+situação o grupo sempre vale a pena
+ 00:48:55
+
+eh a comunicação no Facebook sempre vale
+ 00:48:58
+
+a pena então eu vejo que o meu desafio
+ 00:49:01
+
+agora meu desafio pessoal é justamente
+ 00:49:04
+
+eh o desafio eu acho que de alguns des
+ 00:49:07
+
+extensionistas Assim eh a gente tem as
+ 00:49:10
+
+situacionistas da imater porque a gente
+ 00:49:13
+
+trabalha com muitas temáticas muitas
+ 00:49:15
+
+temáticas não é que é justamente a gente
+ 00:49:17
+
+ter um mar de conhecimento e às vezes um
+ 00:49:19
+
+dedo de profundidade naquele
+ 00:49:21
+
+conhecimento não é então a gente não
+ 00:49:22
+
+consegue se especializar muito porque
+ 00:49:24
+
+porque as áreas de atuação são muito
+ 00:49:26
+
+grandes Então a prova disso
+ 00:49:28
+
+é esses inúmeros grupos que a gente tem
+ 00:49:30
+
+Ah mas não ter não fazer nada é pior
+ 00:49:33
+
+ainda não dá para ficar se martirizando
+ 00:49:36
+
+eu já hoje acolho um pouco mais essa
+ 00:49:38
+
+minha esse mar dec conhecimento com esse
+ 00:49:41
+
+dedo de profundidade porque eu vejo que
+ 00:49:43
+
+o pouquinho que às vezes a gente abre
+ 00:49:45
+
+uma porta para um produtor numa
+ 00:49:47
+
+informação técnica numa informação
+ 00:49:49
+
+pessoal numa enfim ele pode ser um um
+ 00:49:52
+
+diferencial e agradeço muito não é a
+ 00:49:55
+
+oportunidade de estar conversando com
+ 00:49:58
+
+vocês eh se houverem questionamentos não é
+ 00:50:00
+
+me coloco à disposição aqui o Ezequiel
+ 00:50:03
+
+que mora aqui perto ele conhece um pouco
+ 00:50:06
+
+mais do nosso trabalho se quiser me
+ 00:50:08
+
+questionar sobre algumas ações em
+ 00:50:09
+
+específico da Emater podem me questionar
+ 00:50:11
+
+também eh foquei aqui principalmente
+ 00:50:14
+
+nessa questão do ater digital mas as As
+ 00:50:17
+
+Nossas ações elas não são só digitais
+ 00:50:19
+
+acho que é importante também falar isso
+ 00:50:20
+
+não é o ater digital ele é uma ferramenta ã
+ 00:50:22
+
+mas nada ã nada substitui
+ 00:50:26
+
+a o contato pessoal a extensão Quando tu
+ 00:50:29
+
+vai na fazer uma visita quando tu cria
+ 00:50:33
+
+um momento coletivo com as pessoas ela
+ 00:50:36
+
+essa sim não é o o físico a gente fez tanta
+ 00:50:38
+
+fez tanta falta não é na época da pandemia
+ 00:50:42
+
+poder dar um abraço então eu vejo eu
+ 00:50:44
+
+tive um eu eu pensei até em colocar aqui
+ 00:50:47
+
+na na presentação Mas eu tive uma
+ 00:50:50
+
+produtora que nessa enchente assim ó a
+ 00:50:51
+
+gente teve que fazer uma passar por
+ 00:50:54
+
+outros municípios para chegar na casa
+ 00:50:55
+
+dela não é fazer uma volta de mais ou menos
+ 00:50:57
+
+90 Km sendo que a gente poderia fazer em
+ 00:51:00
+
+20 Km não é chegar até a casa dela e ela e
+ 00:51:04
+
+eu lembro que quando a gente conseguiu
+ 00:51:07
+
+fazer isso eu levei algumas coisas para
+ 00:51:09
+
+ela que eu sabia que seria importantes
+ 00:51:11
+
+pra filha enfim e e dei um abraço não é e
+ 00:51:13
+
+conversei e esses dias não faz muito
+ 00:51:16
+
+tempo agora ela me mandou uma mensagem e
+ 00:51:19
+
+disse assim tu não tem noção de quanto
+ 00:51:21
+
+foi importante aquele abraço a tua
+ 00:51:24
+
+presença eh a tua força então assim eu
+ 00:51:26
+
+tentei passar isso para ela sim eh então
+ 00:51:30
+
+o que que eu digo assim nada substitui o
+ 00:51:32
+
+físico nada substitui o contato mas foi
+ 00:51:35
+
+através de uma ferramenta digital que eu
+ 00:51:38
+
+tive esse feedback que ela teve num
+ 00:51:40
+
+momento assim de muita gratidão ela
+ 00:51:42
+
+escreveu para mim não é para agradecer e me
+ 00:51:44
+
+dizer ó tudo vale a pena então agradeço
+ 00:51:46
+
+vocês também pelo espaço me coloco à
+ 00:51:49
+
+disposição PR pros
+ 00:51:51
+
+questionamentos muito bom muito bom eu
+ 00:51:54
+
+já falei aqui pros wiim aqui nos
+ 00:51:58
+
+Bastidores que a Cláudia tem que voltar
+ 00:52:00
+
+novamente aqui não é para trabalhar todas
+ 00:52:03
+
+as outras experiências que ela tem assim
+ 00:52:05
+
+eu acho que dá umas 4 horas de fala para
+ 00:52:08
+
+mais não é de tanta coisa que tem de
+ 00:52:11
+
+extensão ral em agudo que é um município
+ 00:52:14
+
+muito dinâmico muito diverso e que
+ 00:52:16
+
+possui muitas características bacanas aí
+ 00:52:20
+
+inclusive não é se quem tá aqui nos
+ 00:52:23
+
+assistindo não conhece Agudo um dia
+ 00:52:25
+
+descer a Porto Alegre não é vim passando em
+ 00:52:27
+
+direção a Santa Maria passa em agudo a
+ 00:52:30
+
+culinária de Agudo É
+ 00:52:32
+
+sensacional eu duvido você sair
+ 00:52:34
+
+Reclamando a culinária de aguda e posso
+ 00:52:37
+
+dizer com propriedade que já morei em
+ 00:52:39
+
+outros lugares do Brasil Então aproveite
+ 00:52:41
+
+Cláudio muito bom muito bom mesmo eu
+ 00:52:44
+
+acho que essa experiência sobre os
+ 00:52:47
+
+grupos de WhatsApp não é que inclui aí um
+ 00:52:49
+
+ponto da ter digital Ela É Sensacional
+ 00:52:52
+
+paraa organização não é a gente quando era
+ 00:52:54
+
+criança não é eu imaginava quando a gente
+ 00:52:57
+
+ia conseguir ter contato da Roça com as
+ 00:53:01
+
+pessoas não é em não é em grupo de WhatsApp não é
+ 00:53:05
+
+a gente conseguir se comunicar não é porque
+ 00:53:09
+
+a a a o grande questão da comunicação não é
+ 00:53:12
+
+na década de 90 não é a gente era na noossa
+ 00:53:15
+
+era incomunicável não é a gente tinha que
+ 00:53:18
+
+esperar pegar um ônibus para ir pra
+ 00:53:20
+
+cidade ou um rádio se o rádio pegasse não é
+ 00:53:22
+
+porque com chio ainda não é então o rádio
+ 00:53:26
+
+foi um grande difusor de de informações
+ 00:53:29
+
+não é no Rural não é que hoje hoje tem hoje
+ 00:53:32
+
+ainda continua o rádio sim mas também
+ 00:53:36
+
+mas temos outras ferramentas muito
+ 00:53:39
+
+importantes não é bom gente enquanto a a
+ 00:53:41
+
+acho que a Cláudia deu uma travada aí
+ 00:53:45
+
+que daqui um pouco ela volta eh vou
+ 00:53:46
+
+comentar aqui quem é que tá presente
+ 00:53:49
+
+aqui na nossa Live aí para até a Cláudia
+ 00:53:50
+
+retomar o contato aí o Paulo das das dos
+ 00:53:53
+
+sintap tá aqui presente muito obrigado
+ 00:53:56
+
+pela tua presença o Felipe da ipag aí
+ 00:53:58
+
+com o Zap Rural também tá presente aí
+ 00:54:02
+
+temos aqui muito importante aí a
+ 00:54:04
+
+presença do do Ricardo zim Ô Ricardo
+ 00:54:06
+
+Ricardo é Dona Francisca aí muito
+ 00:54:08
+
+obrigado pela tua presença também um
+ 00:54:10
+
+grande parceiro das caminhadas na
+ 00:54:12
+
+natureza temos aqui a presença do
+ 00:54:14
+
+Cláudio Cláudio Cunha nosso
+ 00:54:17
+
+extensionista da Emater que já palestrou
+ 00:54:19
+
+aqui conosco a Andreia não é Andreia Nossa
+ 00:54:21
+
+aluna fruticultura e futuro
+ 00:54:25
+
+extensionista temos também a Vitória
+ 00:54:28
+
+presente aqui Vitória Chaves obrigado
+ 00:54:30
+
+pela tua presença Vitória A Erena aqui
+ 00:54:32
+
+também compartilhando conosco Erena tá
+ 00:54:36
+
+nós estamos aí querendo entrar em
+ 00:54:39
+
+contato com você vamos marcar aí um dia
+ 00:54:40
+
+para tu compartilhar tuas experiências
+ 00:54:43
+
+da tua dissertação de Mestrado aqui
+ 00:54:45
+
+conosco
+ 00:54:47
+
+eh eu vou fazer o comentário aqui do do
+ 00:54:48
+
+do Felipe eu acho muito relevante não é
+ 00:54:53
+
+Essa questão da administração dos grupos
+ 00:54:55
+
+de WhatsApp
+ 00:54:57
+
+é é bem delicada não é Principalmente em
+ 00:54:58
+
+épocas de eleições não é hoje que a gente
+ 00:55:02
+
+tá agora não é as eleições municipais não é e
+ 00:55:04
+
+o Felipe fez uma questão muito relevante
+ 00:55:07
+
+aqui se não excluir Quem não respeita
+ 00:55:09
+
+acaba saindo quem respeita e o grupo
+ 00:55:12
+
+perde relevância É isso aí não é então se o
+ 00:55:14
+
+grupo começa a perder foco não é ele acaba
+ 00:55:17
+
+perdendo seu sentido e aí muita gente
+ 00:55:20
+
+com com dificuldade de memória no
+ 00:55:23
+
+celular não é porque o pessoal tem celular
+ 00:55:25
+
+hoje no meio ral tem mas tem dificuldade
+ 00:55:27
+
+de ter um celular com boa capacidade de
+ 00:55:31
+
+memória e muitos grupos acabam tendo um
+ 00:55:33
+
+prejuízo aí na no desempenho do celular
+ 00:55:37
+
+isso é muito Claro sim eh porque o
+ 00:55:39
+
+celular com maior memória é mais caro
+ 00:55:42
+
+hoje então isso é fundamental hoje nessa
+ 00:55:44
+
+questão então também grupos que são
+ 00:55:48
+
+desnecessários do ponto de vista que não
+ 00:55:50
+
+tá contribuindo obviamente vai acabar
+ 00:55:52
+
+nesse sentido
+ 00:55:55
+
+també tendo problemas gente nós estamos
+ 00:55:57
+
+aqui no do Sul tá com um certo temporal
+ 00:56:00
+
+aqui então talvez talvez
+ 00:56:03
+
+a a queda da clud aqui na live pode ter
+ 00:56:05
+
+acontecido com isso também Enquanto isso
+ 00:56:08
+
+vou lendo os comentários aqui NS podemos
+ 00:56:10
+
+interagindo aena sempre prefiro enviar
+ 00:56:13
+
+particularmente para cada agricultor
+ 00:56:16
+
+minhas comunicações aqui não é uma opção não é
+ 00:56:18
+
+Depende qual é o formato não é Às vezes tem
+ 00:56:20
+
+formatos de comunicações
+ 00:56:24
+
+GR não é em massa e outras comunicações que
+ 00:56:26
+
+realmente precisam ser feitas
+ 00:56:28
+
+particulares porque envolve diretamente
+ 00:56:30
+
+a questão da da particularidade do do
+ 00:56:33
+
+Agricultor Bueno e a Luana aqui
+ 00:56:37
+
+comentando aqui Bom Dia excelente
+ 00:56:41
+
+trabalho parabéns a Cláudia votou aí
+ 00:56:44
+
+Cláudia eu tava tava aqui só lendo os
+ 00:56:47
+
+comentários aqui tá eu a gente tá com
+ 00:56:48
+
+temporal Aí talvez está caindo uma
+ 00:56:51
+
+estabilidade na conexão não é é não é
+ 00:56:54
+
+normal mas fica tranquilo aí Ah eu vou
+ 00:56:57
+
+ter só Ret tomar aqui ó o eu tava lendo
+ 00:57:00
+
+os comentários não é o comentário do Felipe
+ 00:57:03
+
+foi bem interessante aqui ó quando você
+ 00:57:05
+
+comentou que ah agora tá com essa
+ 00:57:07
+
+possibilidade de excluir as pessoas
+ 00:57:09
+
+porque você criou outros grupos não é e o
+ 00:57:11
+
+Felipe colocou assim ó se não excluir
+ 00:57:13
+
+Quem não respeita acaba saindo quem
+ 00:57:15
+
+respeita e o grupo perde relevância aí
+ 00:57:17
+
+eu fiz eu fiz o comentário também tem
+ 00:57:20
+
+uma coisa muito interessante não é Cláudia
+ 00:57:22
+
+eu acho que isso aí eu acho que você até
+ 00:57:24
+
+pode comentar não sei se você tem
+ 00:57:25
+
+experiência com isso mas tipo muita
+ 00:57:27
+
+muita o pessoal tem acesso ao celular
+ 00:57:30
+
+mas muitos não tem memória no celular
+ 00:57:33
+
+porque a memória quanto maior a memória
+ 00:57:35
+
+mais caro é o celular não é E talvez alguns
+ 00:57:37
+
+quando não vê essa relevância no grupo
+ 00:57:40
+
+acabam saindo até porque não consegu
+ 00:57:42
+
+ficar em muitos grupos que o celular
+ 00:57:45
+
+lota não é então tem essas questões aí não
+ 00:57:47
+
+sei se já aconteceu contigo de alguém
+ 00:57:49
+
+falar assim ah vou ter que sair de um
+ 00:57:51
+
+grupo porque meu celular tá sem memória
+ 00:57:53
+
+não é Não sei se chegou a acontecer isso
+ 00:57:56
+
+isso eh comentando Então a primeira do
+ 00:57:59
+
+do eh Felipe não é Tu disseste ele
+ 00:58:03
+
+realmente assim ó isso ele eh esse
+ 00:58:06
+
+comentário dele é bem importante e é e
+ 00:58:09
+
+foi isso que aconteceu assim ó eh as
+ 00:58:11
+
+pessoas começaram a colocar Cláudia
+ 00:58:14
+
+exclui exclui no próprio grupo diziam
+ 00:58:15
+
+Esse grupo é muito importante esse grupo
+ 00:58:19
+
+não pode acabar esse grupo ele é muito
+ 00:58:21
+
+relevante então é melhor que saiam que
+ 00:58:23
+
+que sai quem não Quem não respeita do
+ 00:58:26
+
+que quem quem de repente ã não é não não
+ 00:58:27
+
+não aguenta mais essa esse tipo de
+ 00:58:32
+
+comentário essas coisas assim então
+ 00:58:34
+
+realmente para nós não perder os bons
+ 00:58:36
+
+nós tivemos que excluir o ruim mas assim
+ 00:58:37
+
+primeiro a gente fez criou uma
+ 00:58:39
+
+oportunidade criou a oportunidade do
+ 00:58:41
+
+outro grupo se se a questão toda era
+ 00:58:43
+
+falar de política Ok Criei um outro
+ 00:58:45
+
+grupo vão lá falem lá não é Eu brinco
+ 00:58:47
+
+naquele grupo eu eu eu eu interajo Muito
+ 00:58:49
+
+pouco muito pouco mas esses dias eu
+ 00:58:52
+
+brinquei e disse assim eu gostaria de
+ 00:58:53
+
+saber quem é que vai me dar um presente
+ 00:58:54
+
+agora porque acho que o pessoal os
+ 00:58:56
+
+terapeutas estão meio sem sem eh
+ 00:58:58
+
+trabalho porque aqui vocês podem colocar
+ 00:59:01
+
+tudo que querem e xingar e elogiar e
+ 00:59:02
+
+fazer de tudo não é enfim e e sobre a
+ 00:59:05
+
+questão do do da decessos nos grupos
+ 00:59:09
+
+assim ó do Bom Dia das figurinhas do não
+ 00:59:12
+
+sei que assim H também já foi é bonito
+ 00:59:14
+
+que as gurias pedem daí não é
+ 00:59:17
+
+Principalmente as mulheres não é olha
+ 00:59:18
+
+pessoal vou me evitar não sei quê daí eu
+ 00:59:20
+
+vou lá faço um texto ol Lig gurias é
+ 00:59:22
+
+muito legal a gente sabe que vocês eh
+ 00:59:24
+
+querem interagir querem dar o bom dia
+ 00:59:26
+
+mas vamos evitar por causa disso e disso
+ 00:59:28
+
+e diso bem isso aí é isso aí mas é
+ 00:59:30
+
+incrível assim que logo logo o pessoal
+ 00:59:32
+
+respeita ã não é então assim nós não temos
+ 00:59:34
+
+problemas graças a Deus assim fora essa
+ 00:59:38
+
+questão política não é que foi o jeito que
+ 00:59:40
+
+a gente teve que que lidar mas de
+ 00:59:42
+
+restante assim é muito legal é muito
+ 00:59:43
+
+fácil muito bom muito bom é são são a
+ 00:59:46
+
+questão de de fazer administração do
+ 00:59:50
+
+grupo não é a a herena tinha a herena quem
+ 00:59:53
+
+quem é a herena só para você entender
+ 00:59:56
+
+Cláudia a herena é Nossa aluna do aluna
+ 00:59:57
+
+não é nossa egressa do mestrado estudais lá
+ 01:00:00
+
+de Diamantina ela ganhou um prêmio sobre
+ 01:00:04
+
+o trabalho dela sobre sobre o pinai não é
+ 01:00:07
+
+então ela trabalha na na no município lá
+ 01:00:10
+
+de Minas que que que ela fez a
+ 01:00:13
+
+dissertação dela daí ela comentou o
+ 01:00:16
+
+seguinte eu sempre prefiro enviar
+ 01:00:17
+
+particularmente para cada agricultor
+ 01:00:20
+
+minhas comunicações aqui não é claro não é Tem
+ 01:00:21
+
+coisas que você envia Tem coisas que
+ 01:00:24
+
+você envia em grupo não é as diferentes
+ 01:00:26
+
+estratégias de comunicação não é Cláudio ex
+ 01:00:28
+
+exatamente Tem coisa que é individual
+ 01:00:31
+
+mesmo não tem como ficar eh colocando em
+ 01:00:33
+
+grupo algo que é muito específico para
+ 01:00:36
+
+cada público não é e agora aquilo por
+ 01:00:38
+
+exemplo penai não é Eh Nós preferimos
+ 01:00:41
+
+colocar uma reunião que vai ter porque o
+ 01:00:45
+
+edital da Prefeitura saiu não é Vamos
+ 01:00:47
+
+colocar eh no coletivo não é agora se vier
+ 01:00:50
+
+por exemplo uma reclamação ah T produto
+ 01:00:53
+
+da merenda escolar não veio com boa
+ 01:00:57
+
+qualidade nós não vamos levar numa
+ 01:00:58
+
+reunião não é se foi de um produtor só
+ 01:01:00
+
+então a gente vai falar com ele não é no
+ 01:01:02
+
+particular Então são essas pequenas
+ 01:01:04
+
+coisas mas é ajuste de comunicação
+ 01:01:05
+
+conforme a estratégia que a gente
+ 01:01:07
+
+precisa no
+ 01:01:08
+
+momento muito bom aqui a Luana a Luana
+ 01:01:09
+
+tá dando os parabéns aí pelo teu
+ 01:01:13
+
+trabalho Luana colega daera aí muito
+ 01:01:15
+
+obrigado pela tua presen já fez Live
+ 01:01:18
+
+aqui no canal também olha aqui ó que
+ 01:01:20
+
+legal o pao
+ 01:01:23
+
+pao tá ele fala o seguinte uma forma de
+ 01:01:24
+
+disseminar o maior número de pessoas é
+ 01:01:28
+
+incentivar o uso de aplicativos A
+ 01:01:30
+
+exemplo do radar ambiental ao qual
+ 01:01:32
+
+denuncia ocorrências de crimes
+ 01:01:35
+
+ambientais essa questão do aplicativo a
+ 01:01:38
+
+gente já debateu aqui também Cláudia não é
+ 01:01:40
+
+o professor Zuin comenta muito essa
+ 01:01:42
+
+questão não é do
+ 01:01:44
+
+eh também envolve memória do celular tem
+ 01:01:45
+
+tudo isso não é nossas agricultores tudo
+ 01:01:48
+
+depende não é nem sempre seu agricultor tem
+ 01:01:51
+
+aquele celular com a maior capacidade
+ 01:01:53
+
+possível E aí às vezes você não consegue
+ 01:01:56
+
+eh gerenciar todos esses aplicativos e
+ 01:01:59
+
+acaba tendo que excluir alguns não é e ele
+ 01:02:02
+
+vai deixar Principalmente aqueles mais
+ 01:02:05
+
+relevantes não é Não sei se se é por aí
+ 01:02:07
+
+Cláudia que que você tem de experiência
+ 01:02:09
+
+sobre isso concordo com vocês
+ 01:02:11
+
+eh eu acho que é que nem eu falei na
+ 01:02:14
+
+minha apresentação deixar de comunicar
+ 01:02:17
+
+que existe a possibilidade de ter no
+ 01:02:19
+
+celular um aplicativo para denunciar
+ 01:02:21
+
+crimes ambi a gente não pode se omitir
+ 01:02:25
+
+não é eu sabendo disso vou pesquisar vou
+ 01:02:27
+
+fazer um texto que nem eu disse com a
+ 01:02:30
+
+minha linguagem diz ó pessoal se algum
+ 01:02:32
+
+de vocês gosta eh ou gostaria de
+ 01:02:34
+
+contribuir enfim informando se há crimes
+ 01:02:36
+
+ambientais tem esse aplicativo bota o
+ 01:02:39
+
+link bota um acesso Enfim então a aí eu
+ 01:02:43
+
+falo na comunicação em grupo não é a
+ 01:02:46
+
+possibilidade tá ali agora de fomentar
+ 01:02:48
+
+eu acho delicado porque é bem isso que
+ 01:02:53
+
+Tu disseste assim e aplicativos exigem
+ 01:02:55
+
+memória e memória não é todo mundo que
+ 01:02:57
+
+tem não é memória em celular lógico
+ 01:03:00
+
+então mais ou menos por é isso e às
+ 01:03:05
+
+vezes até a memória da pandemia não é que a
+ 01:03:08
+
+gente do covid que a gente perde também
+ 01:03:11
+
+aena Comentou assim eu fiquei com
+ 01:03:15
+
+vontade de conhecer as torta de limão é
+ 01:03:17
+
+ela não sabe de nada não é Ela vem visitar
+ 01:03:19
+
+nós que vai conhecer a torta de limão e
+ 01:03:21
+
+muito mais não é Cláudia sim eu vou abrir
+ 01:03:24
+
+já esse comentário aqui para tu você
+ 01:03:27
+
+falar sobre as feira que você promove da
+ 01:03:29
+
+Agricultura Familiar que eu acho é
+ 01:03:32
+
+sensacional claro que você vai voltar
+ 01:03:33
+
+aqui para falar sobre isso e muito mais
+ 01:03:36
+
+mas como é que vocês fazem aquela
+ 01:03:38
+
+organização da Feira da cultura familiar
+ 01:03:40
+
+que você até mostrou a foto da Mara lá
+ 01:03:42
+
+isso é muito legal porque o grupo do
+ 01:03:44
+
+WhatsApp deve est relacionado com isso
+ 01:03:47
+
+também não é porque fazer aquela
+ 01:03:49
+
+organização de 68 expositores conta um
+ 01:03:50
+
+pouquinho aí pro pessoal s sobre isso
+ 01:03:54
+
+aí Pois é o Ezequiel ele teve na nossa
+ 01:03:56
+
+feira das cores e Sabores do ano passado
+ 01:03:59
+
+não é Ezequiel quando a gente fez foi a
+ 01:04:01
+
+primeira cores e Sabores eh quando nós
+ 01:04:03
+
+fizemos também uma caminhada da natureza
+ 01:04:06
+
+durante essa feira que tinha 68
+ 01:04:08
+
+expositores mas nós aqui em agudo Nós
+ 01:04:10
+
+temos duas feiras fortes que são da
+ 01:04:12
+
+imater tá a uma feira que em 2024 em
+ 01:04:14
+
+abril de 2024 vai fechar 10 anos então o
+ 01:04:18
+
+que que acontece eh não é comum a gente
+ 01:04:22
+
+sabe eu não sei em outras regionais Mas
+ 01:04:25
+
+a nossa aqui em Santa Maria Regional de
+ 01:04:27
+
+Santa Maria não tem nenhum município que
+ 01:04:30
+
+faça uma feira que seja só da imater não é
+ 01:04:32
+
+normalmente a imater se insere em outras
+ 01:04:35
+
+feiras inclusive feiras grandes Ah e
+ 01:04:38
+
+aqui nós eh temos uma feira que fomos
+ 01:04:41
+
+nós que que que idealizamos junto com o
+ 01:04:44
+
+pessoal do CTG na época há 10 anos atrás
+ 01:04:46
+
+em em usar o espaço do CTG e A Emater eh
+ 01:04:49
+
+trazer só produtores de Agudo não é Ela é
+ 01:04:53
+
+só produtor de Agudo A ideia era mostrar
+ 01:04:56
+
+o que Agudo tem então por exemplo assim
+ 01:04:59
+
+agora os nossos grupos de WhatsApp
+ 01:05:01
+
+mostram muito que Agudo tem aqui
+ 01:05:03
+
+internamente não é mas na época não então a
+ 01:05:05
+
+gente começou essa feira que é a feira
+ 01:05:08
+
+da agricultura e produção familiar 10
+ 01:05:10
+
+anos de feira e os nossos produtores
+ 01:05:12
+
+pediram para nós o ano passado fazer
+ 01:05:15
+
+mais uma é uma trabalheira Dan nada
+ 01:05:16
+
+montar uma feira não é ã mas aí a gente fez
+ 01:05:19
+
+foi em setembro foi mais ou menos nessa
+ 01:05:22
+
+época o ano passado a feira das cores e
+ 01:05:24
+
+Sabores justamente porque com essa
+ 01:05:27
+
+pegada não é porque eu vou dizer assim ó
+ 01:05:30
+
+cultura alemã aqui em agudo não é gosta
+ 01:05:32
+
+muito de flor gosta muito de planta aqui
+ 01:05:34
+
+a gente tem espaço permanente de troca
+ 01:05:37
+
+de sementes e mudas e sempre lá na
+ 01:05:39
+
+imater e sempre tem adesão então a gente
+ 01:05:40
+
+criou a cores que é em função disso e os
+ 01:05:44
+
+sabores que é a nossa gastronomia não é e e
+ 01:05:46
+
+a gente tem então esse esse público no
+ 01:05:50
+
+mínimo sempre 70 Ah deixa eu deixa eu
+ 01:05:52
+
+contar que foi uma experiência bonita
+ 01:05:55
+
+que eu digo aqui desse ano agora da
+ 01:05:56
+
+cores e Sabores porque
+ 01:05:58
+
+Agudo decretou calamidade pública não é
+ 01:06:00
+
+então a Prefeitura não poderia eh
+ 01:06:03
+
+promover a a feira Folks Fest que é a a
+ 01:06:06
+
+tradicional aqui nosso no em Julho não é
+ 01:06:10
+
+uma feira Municipal E aí nesse nesse
+ 01:06:12
+
+período um pouquinho antes eu coloquei
+ 01:06:16
+
+eu coloquei no Facebook Pessoal vocês
+ 01:06:17
+
+não acham que nós enquanto sociedade
+ 01:06:21
+
+enquanto coletivo de nós poderíamos
+ 01:06:24
+
+promover uma feira eh justamente para
+ 01:06:26
+
+conseguir alavancar o comércio local
+ 01:06:29
+
+retomar essa essa movimentação toda
+ 01:06:32
+
+porque eh houve assim no mês de maio no
+ 01:06:34
+
+mês de junho ainda tipo um luto coletivo
+ 01:06:38
+
+não se não ninguém nem se permitia fazer
+ 01:06:41
+
+não é só por causa que os acessos
+ 01:06:44
+
+estavam comprometidos porque teve muito
+ 01:06:45
+
+problema era um luto coletivo que parece
+ 01:06:48
+
+que não nós não nos permitimos fazer
+ 01:06:50
+
+eventos festivos festas de comunidade
+ 01:06:53
+
+que aqui é muito comum muito grande
+ 01:06:56
+
+então
+ 01:06:58
+
+ah Parece que ficou aquela não é coisa
+ 01:06:59
+
+pesada mas aí quando eu coloquei isso no
+ 01:07:01
+
+Face eh a Adesão foi geral todo mundo
+ 01:07:04
+
+dizendo façam é legal tem que fazer tem
+ 01:07:07
+
+que movimentar E aí a gente acabou
+ 01:07:10
+
+fazendo uma reunião abrindo uma reunião
+ 01:07:12
+
+concordam vamos fazer não é E aí em Mater
+ 01:07:15
+
+tomou para si a organização não teve
+ 01:07:18
+
+investimento público porque não podia na
+ 01:07:20
+
+nas nossas feiras é muito pouco
+ 01:07:23
+
+investimento público e tá tudo certo a
+ 01:07:25
+
+gente entende que ela é uma feira menor
+ 01:07:27
+
+e e fizemos a cores e Sabores em Julho
+ 01:07:29
+
+final de julho no no lugar da Folks Fest
+ 01:07:32
+
+não é e tivemos um público grande tivemos o
+ 01:07:35
+
+semearte acontecendo junto a gente
+ 01:07:39
+
+reuniu tudo isso não é os nossos produtores
+ 01:07:41
+
+com os artesãos com artistas locais
+ 01:07:43
+
+então foi muito
+ 01:07:45
+
+bonito muito bom tá um monte de
+ 01:07:47
+
+comentário aqui Zuin tem calma aí que eu
+ 01:07:50
+
+já passo palavra para ti eu vou seguir
+ 01:07:52
+
+aqu os comentários que tá
+ 01:07:54
+
+legal Andreia Nossa aluna da
+ 01:07:56
+
+fruticultura aprovada no processo
+ 01:07:59
+
+seletivo da imater falo toda a Live viu
+ 01:08:01
+
+viu Cláudia sabe futura colega aí ela
+ 01:08:04
+
+parabéns pelo trabalho esse vínculo
+ 01:08:08
+
+criado por vocês é muito importante não é é
+ 01:08:10
+
+muito muito importante mesmo paraa
+ 01:08:13
+
+construção da extensão Rural é preciso
+ 01:08:14
+
+não é Eh o pessoal aqui tá o o Jair
+ 01:08:16
+
+jacomini dando bom dia aí ele fez um
+ 01:08:19
+
+comentário sobre as caminhadas achei
+ 01:08:22
+
+interessante não é agora caminhadas agora
+ 01:08:23
+
+só a partir das eleições não é É realmente
+ 01:08:26
+
+depois das eleições mesmo porque agora é
+ 01:08:28
+
+um período delicado mesmo muito muito
+ 01:08:31
+
+bom muito obrigado pela sua presença
+ 01:08:33
+
+temos aqui o pessoal eh de Júlio de
+ 01:08:36
+
+Castilho nossos agricultores o sítio
+ 01:08:38
+
+Oliveira investindo em turismo viu
+ 01:08:41
+
+Cláudio ali assistido pelo Leandro ali a
+ 01:08:43
+
+turma da imater e ele colocou bem isso
+ 01:08:46
+
+não é ele tá assistindo pelo Facebook tá
+ 01:08:49
+
+olha só isso é interessante que você
+ 01:08:51
+
+falou que você tem mais atinge mais pelo
+ 01:08:54
+
+Facebook não é A mãe assiste as lives pelo
+ 01:08:58
+
+Facebook que é lá da do rural de arroi
+ 01:09:00
+
+do Tigre não é aqui do sítio Oliveira
+ 01:09:03
+
+também eles têm um sítio vocês podem
+ 01:09:04
+
+seguir o Facebook deles e ele diz o
+ 01:09:06
+
+seguinte ó Realmente nós agricultores às
+ 01:09:09
+
+vezes nos forçamos a escolher em que
+ 01:09:11
+
+grupo ficar e que seja mais relevante
+ 01:09:13
+
+para nós não é quando ele tava a gente tava
+ 01:09:15
+
+falando aquela questão da memória não é dos
+ 01:09:18
+
+celulares não é então isso aí também tem
+ 01:09:20
+
+tem muito a ver não é Então siga o sítio
+ 01:09:22
+
+Oliveira muito legal assim eles
+ 01:09:24
+
+compartilham vivências do dia a dia lá e
+ 01:09:27
+
+tão investindo no turismo lá nós vamos
+ 01:09:30
+
+conhecer daqui uns dias aí estaremos lá
+ 01:09:32
+
+no sítio Oliveira aí conhecendo também e
+ 01:09:34
+
+a Luana não é A Luana fala o seguinte ó
+ 01:09:37
+
+Achei super interessante a tua
+ 01:09:39
+
+habilidade de lidar com essa questão
+ 01:09:40
+
+política nos grupos não podemos ignorar
+ 01:09:42
+
+pois ela permeia a vida das pessoas
+ 01:09:45
+
+então de uma maneira respeitosa foi
+ 01:09:47
+
+organizado isso Olha que
+ 01:09:49
+
+bacana muito bom Zuin vou passar para ti
+ 01:09:52
+
+eu cansei agora muita pergunta Cláudia
+ 01:09:55
+
+aí tá não é assistido enfim fica com
+ 01:09:59
+
+contigo Cláudia é muito bacana sua
+ 01:10:02
+
+palestra viu Eu só achei ruim uma coisa
+ 01:10:05
+
+porque ela foi muito curta Você tinha
+ 01:10:08
+
+que ter falado mais porque os seus
+ 01:10:10
+
+exemplos foram maravilhosos do trabalho
+ 01:10:12
+
+que você fez aí principalmente durante o
+ 01:10:15
+
+as enchentes não é O que me
+ 01:10:18
+
+marcou várias partes me marcaram da sua
+ 01:10:21
+
+palestra não é mas o o que eu acho que a
+ 01:10:24
+
+primeira que eu lembro agora foi que
+ 01:10:27
+
+você falou Olha quando chegava não é o
+ 01:10:28
+
+combustível ali não é quando a pessoa tinha
+ 01:10:31
+
+acesso não é ao gerador que era a única
+ 01:10:34
+
+fonte de energia deles eles direcionavam
+ 01:10:37
+
+para
+ 01:10:39
+
+para para pra comida não é para
+ 01:10:40
+
+armazenamento da comida ali não é E se
+ 01:10:44
+
+comunicar com alguém e essa comunicação
+ 01:10:46
+
+era pelo WhatsApp não é e é essa rede de
+ 01:10:48
+
+solidariedade que já existia no grupo
+ 01:10:51
+
+que continua durante as enchentes eu
+ 01:10:54
+
+achei isso muito significativo não é no uso
+ 01:10:56
+
+do do WhatsApp mais do que um aplicativo
+ 01:10:59
+
+não é porque e e daí eu fiquei pensando
+ 01:11:02
+
+aqui porque o aplicativo é uma coisa
+ 01:11:05
+
+meio impessoal não é é impessoal o
+ 01:11:06
+
+aplicativo não é O aplicativo é aplicativo
+ 01:11:08
+
+não é não tem uma cara não tem não é não é ali
+ 01:11:11
+
+não é uma pessoa não é muitas vezes tá
+ 01:11:14
+
+tendo até tem aia não é Inteligência
+ 01:11:16
+
+Artificial por trás ali conversando com
+ 01:11:19
+
+você não é e e no WhatsApp não o a
+ 01:11:21
+
+comunicação é orgânica não é então você tem
+ 01:11:24
+
+um peso ali não é de urgência não é de de
+ 01:11:27
+
+tentar resolver o problema não é ou ali
+ 01:11:31
+
+muito maior do que um aplicativo muito
+ 01:11:35
+
+maior não é mobilização de pessoas e assim
+ 01:11:38
+
+por diante não é E e esse e esse volume e
+ 01:11:40
+
+essa essa intensidade não é de uso eu não
+ 01:11:43
+
+fazia ideia de como foi durante a
+ 01:11:47
+
+ahas enchentes de vocês aí não é a gente
+ 01:11:51
+
+usa escutava aqui em São Paulo não é usou o
+ 01:11:53
+
+WhatsApp Ah tá usou o WhatsApp entendeu
+ 01:11:56
+
+Mas não a importância que o WhatsApp
+ 01:11:58
+
+teve não é de mobilização para resolver não é
+ 01:12:00
+
+um pouco os problemas que vocês tiveram
+ 01:12:04
+
+ali então achei muito bacana isso não é os
+ 01:12:06
+
+exemplos foram muito bonitos que você
+ 01:12:09
+
+deu eh e e daí pensando nisso não é eu
+ 01:12:11
+
+queria eu queria perguntar para você o
+ 01:12:15
+
+seguinte qual a sua experiência como é
+ 01:12:17
+
+que não só é materno mas os órgãos de
+ 01:12:20
+
+extensão Rural mesmo não é os órgãos
+ 01:12:22
+
+públicos extensão dos Estados eles
+ 01:12:24
+
+poderiam estar sistematizando Essas
+ 01:12:27
+
+atividades não é pelo WhatsApp não é que que
+ 01:12:29
+
+você pela sua experiência que que você
+ 01:12:33
+
+que que você sugeriria para esses órgãos
+ 01:12:36
+
+de até entendeu como é que como é que
+ 01:12:38
+
+por exemplo tem o órgão de ater que que
+ 01:12:41
+
+que que não tem não é Essa intensidade de
+ 01:12:44
+
+comunicação como você tem ele chegaria
+ 01:12:47
+
+hoje para você porque Cláudia como é que
+ 01:12:49
+
+eu faço para montar não é Essa rede de
+ 01:12:51
+
+comunicação via o WhatsApp que você fez
+ 01:12:54
+
+não é Para eu eu Para eu institucionalizar
+ 01:12:57
+
+dentro da minha organização entendeu eu
+ 01:12:59
+
+sei que isso daí é uma pergunta para uma
+ 01:13:02
+
+outra palestra Talvez não é não é que é um
+ 01:13:03
+
+enorme não é mas eu queria saber algumas
+ 01:13:05
+
+coisas que você pode estar contribuindo
+ 01:13:09
+
+entu porque eu acho que muito do do do
+ 01:13:11
+
+desse que os extensionistas rurais não
+ 01:13:17
+
+gostam de estar utilizando Aé digital
+ 01:13:19
+
+essa comunicação digital vem porque ela
+ 01:13:22
+
+tá sistematizada dentro das organizações
+ 01:13:25
+
+não é ali não é isso vem pega um pouco não é Essa
+ 01:13:27
+
+essa questão ali que que é organização
+ 01:13:32
+
+que é de mim não é nesse nessa parte de
+ 01:13:34
+
+comunicação pelo WhatsApp e só para
+ 01:13:37
+
+terminar mesmo eu não sabia o que era
+ 01:13:39
+
+Brick daí eu fui daí eu fui aqui falei
+ 01:13:41
+
+que que é Brick não é que que é Brick daí
+ 01:13:43
+
+eu procurei aqui ah tá no Rio Grande do
+ 01:13:46
+
+Sul Brick significa não é não é uma um uma
+ 01:13:49
+
+loja um uma uma não é um um estabelecimento
+ 01:13:54
+
+comercial não é daí falei ah que legal
+ 01:13:57
+
+agora entendi entendeu mas muito legal
+ 01:13:59
+
+mesmo está de parabéns da palestra foi
+ 01:14:01
+
+super bacana e com certeza a gente vai
+ 01:14:03
+
+chamar você mais vezes para para est
+ 01:14:05
+
+conversando com a gente aqui tá palavra
+ 01:14:07
+
+é
+ 01:14:09
+
+sua obrigada Professor eh assim só para
+ 01:14:10
+
+Ter comentado o bri a gente brinca que a
+ 01:14:14
+
+a o pessoal só não vende os marido e as
+ 01:14:17
+
+esposas por um detalhe porque nesses
+ 01:14:20
+
+grupos assim ó é tudo assim como daqui a
+ 01:14:23
+
+pouco tem estão oferecendo um terneiro
+ 01:14:25
+
+uma vaca estão oferecendo uma moto tão
+ 01:14:27
+
+oferecendo Mel tão oferecendo ovos de
+ 01:14:29
+
+tudo de tudo implemento agrícola enfim e
+ 01:14:31
+
+eh a gente brinca não é mas sobre essa
+ 01:14:36
+
+questão que que tu me questionou em
+ 01:14:39
+
+relação à às às instituições eu acho bem
+ 01:14:41
+
+delicado Eu acho que cada uma lida com a
+ 01:14:43
+
+da da forma como sente que é melhor e
+ 01:14:47
+
+tudo tem a ver muito com pessoas porque
+ 01:14:49
+
+assim nós poderíamos criar ter um grupo
+ 01:14:52
+
+de WhatsApp por exemplo da Emater no
+ 01:14:55
+
+geral Emater Rio Grande do Sul não é em que
+ 01:14:58
+
+eh só A Emater mandasse as mandasse
+ 01:15:01
+
+publicações não é não não tivesse conversa
+ 01:15:05
+
+não tivesse diálogo então só não é o
+ 01:15:08
+
+pessoal só vai recebendo ali as
+ 01:15:10
+
+informações não seria tão efetivo eu
+ 01:15:13
+
+vejo que que é muito é muito de cada
+ 01:15:17
+
+instituição querer discutir isso um
+ 01:15:20
+
+formato dentro da da do seu trabalho não é
+ 01:15:22
+
+Eh eu eu falo por que que eu puxei a
+ 01:15:25
+
+brasa toda pro meu assado toda só tô
+ 01:15:28
+
+falando aqui do que Agudo fez com os
+ 01:15:31
+
+produtores de Agudo porque é muito do do
+ 01:15:33
+
+do perfil do extensionista e do perfil
+ 01:15:36
+
+da da da comunidade não é Talvez o meu
+ 01:15:39
+
+modelo não vá servir de forma nenhuma
+ 01:15:42
+
+por município vizinho aqui do lado não é
+ 01:15:44
+
+então h eu puxei isso justamente porque
+ 01:15:46
+
+eu acho bem delicado sei que muitas eh
+ 01:15:50
+
+muitas empresas H já tem seus grupos não é
+ 01:15:53
+
+dos dos clientes Então por ali Elas
+ 01:15:56
+
+fazem a sua comunicação também tem de
+ 01:15:58
+
+tudo não é hoje hoje nesse e-mail de
+ 01:16:01
+
+WhatsApp e é muito pelo WhatsApp por
+ 01:16:03
+
+exemplo lá no início quando quando eu
+ 01:16:06
+
+criei o grupo do do do gurias do rural
+ 01:16:07
+
+que que te quer o WhatsApp limitava o
+ 01:16:09
+
+número de pessoas me diziam assim
+ 01:16:12
+
+Cláudia o telegram funciona bem eu disse
+ 01:16:14
+
+meu Deus gente telegram eu tenho poucos
+ 01:16:16
+
+participo de pouco grupo de telegram que
+ 01:16:19
+
+eu entrei na pandemia quando tinha
+ 01:16:21
+
+cursos online fim que faziam pelo
+ 01:16:23
+
+telegram telegram algumas mas o pessoal
+ 01:16:25
+
+não conhece telegram eu tinha que dar
+ 01:16:28
+
+graças a Deus quem tinha WhatsApp não é e
+ 01:16:30
+
+continua assim não adianta a gente ficar
+ 01:16:32
+
+criando querendo criar muita coisa nova
+ 01:16:34
+
+eu acho sabe porque você e isso é uma
+ 01:16:36
+
+percepção que eu tenho Ah agora ah não
+ 01:16:39
+
+ai não gosto aí o Instagram não
+ 01:16:41
+
+funcionava V criar outra coisa Ah o
+ 01:16:42
+
+Facebook tá obsoleto coisa de velho eu
+ 01:16:44
+
+escuto não é coisa de Vel Ok então a nossa
+ 01:16:47
+
+geração aqui nossa galera aqui ainda é
+ 01:16:50
+
+velha entre aspas mas nós usamos muito
+ 01:16:52
+
+Facebook eh não é as coisas por um por
+ 01:16:54
+
+um certo grupo de pessoas perfil Talvez
+ 01:16:58
+
+sim as coisas precisam estar sempre se
+ 01:17:00
+
+criando coisa nova mas eu vejo que pro
+ 01:17:02
+
+nosso público não é assim nós temos que
+ 01:17:04
+
+consolidar naquilo que a gente já
+ 01:17:07
+
+conhece então sim grupos de Wats
+ 01:17:08
+
+comunicação pelo whats eh eu vejo que
+ 01:17:11
+
+que outras instituições que fazem ater
+ 01:17:13
+
+eh eh podem que tem seus grupos tem as
+ 01:17:15
+
+suas ferramentas e nós dentro da nossa
+ 01:17:20
+
+na nossa instituição Emater precisamos
+ 01:17:22
+
+Vamos pensar eu não acho que acho que
+ 01:17:24
+
+que é importante para nós extensionistas
+ 01:17:27
+
+também sim o vídeo o áudio sobre ah como
+ 01:17:29
+
+fazer uma coleta de solo como tratar E
+ 01:17:33
+
+essas essa comunicação é bem legal
+ 01:17:36
+
+quando um extensionista vai lá faz um
+ 01:17:37
+
+vídeo esses dias eu fiz um um vídeo aqui
+ 01:17:39
+
+em agudo sobre agrofloresta eu fiz
+ 01:17:42
+
+questão de ser eu por por aquela questão
+ 01:17:44
+
+do vínculo que eu falo é diferente eu
+ 01:17:48
+
+pegar o videozinho eu posso depois pegar
+ 01:17:50
+
+vários links do YouTube e botar na minha
+ 01:17:52
+
+publicação ó pessoal mais informações
+ 01:17:55
+
+tem isso tem isso tem isso não é da própria
+ 01:17:57
+
+matéria de outra instituição que fale de
+ 01:18:00
+
+agrofloresta mas a comunicação Inicial
+ 01:18:02
+
+tem que ser minha eu pego para mim ó não
+ 01:18:04
+
+adianta eu ficar dizendo para todo mundo
+ 01:18:07
+
+olhem sobre agrofloresta se eles vão
+ 01:18:09
+
+perguntar para mim depois Ah eu gostei
+ 01:18:11
+
+da ideia Cláudio como é que eu faço isso
+ 01:18:13
+
+é eu que tenho que saber não é então assim
+ 01:18:14
+
+tipo o extensionista tem que estar por
+ 01:18:17
+
+dentro por isso que eu disse tem que
+ 01:18:19
+
+cuidar essas questões de encaminhamento
+ 01:18:20
+
+encaminhamento de coisa que eu não que
+ 01:18:22
+
+eu não entendo porque o questionamento
+ 01:18:23
+
+vai vir para mim não vai vir para outra
+ 01:18:25
+
+pessoa então eu eu não sei eu não sei te
+ 01:18:27
+
+dar essa resposta Professor como seria o
+ 01:18:30
+
+ideal não sei eu tento fazer o ideal e
+ 01:18:31
+
+fazer a leitura dentro do do meu
+ 01:18:35
+
+Município dentro das do meu público eh e
+ 01:18:37
+
+sentindo e ouvindo de outras pessoas eu
+ 01:18:40
+
+eu escuto muito ainda por exemplo assim
+ 01:18:42
+
+ó os os grupos de Facebook isso ainda
+ 01:18:44
+
+funciona eh para alguns dos nossos
+ 01:18:47
+
+produtores eh uns dizem assim ah eu faço
+ 01:18:49
+
+parte do grupo do leite eu faço parte do
+ 01:18:52
+
+grupo dos morangos não é de alguma
+ 01:18:54
+
+comunidade do Facebook que que discute
+ 01:18:56
+
+especificamente aquele assunto e alguém
+ 01:18:59
+
+que tá colocando material sempre novo
+ 01:19:01
+
+sobre um determinado assunto para mim
+ 01:19:04
+
+extensionista Cláudia dificulta criar
+ 01:19:07
+
+esse tipo de vínculo porque eu não
+ 01:19:09
+
+trabalho com um tema só eu trabalho com
+ 01:19:11
+
+vários temas não é Então para mim dificulta
+ 01:19:13
+
+um
+ 01:19:16
+
+pouco desculpem Ah mas mas eu sinto que
+ 01:19:17
+
+é
+ 01:19:21
+
+eh é assim assim que funciona para
+ 01:19:22
+
+mim muito bom Cláudio muito bom é isso
+ 01:19:26
+
+aí não é aquela história da receita de bolo
+ 01:19:30
+
+não é não é nem sempre serve para todo mundo
+ 01:19:33
+
+não é Cada um faz a sua receita do o seu
+ 01:19:35
+
+modo de fazer eu acho sensacional essa
+ 01:19:38
+
+essa quando você pega a questão do vídeo
+ 01:19:42
+
+não é você você tem a identidade da Cláudia
+ 01:19:44
+
+é a Cláudia daem Mater não é a Cláudia
+ 01:19:47
+
+Bernardini não é é a da Mater que tá
+ 01:19:49
+
+falando a Cláudia falou ela tem um peso
+ 01:19:53
+
+na fala dela não é E isso traz a conexão
+ 01:19:55
+
+traz o a aproximação Eu acho que isso é
+ 01:19:59
+
+fundamental assim essa questão do do
+ 01:20:02
+
+Facebook você tem comentado isso tem
+ 01:20:05
+
+vários extensionistas tem comentado e
+ 01:20:08
+
+tem vários que tem que usam não é você usa
+ 01:20:10
+
+bastante o Diego de Paraíso usa bastante
+ 01:20:12
+
+não é o Leandro começou a reativar a
+ 01:20:14
+
+questão do Facebook também não é todos
+ 01:20:17
+
+extensionistas da im materna e realmente
+ 01:20:19
+
+você consegue atingir alguns públicos e
+ 01:20:22
+
+tem outras opções lá não é agora por outro
+ 01:20:24
+
+lado também tem as outras redes também
+ 01:20:27
+
+não é E aí difícil você se apropriar de
+ 01:20:29
+
+todas não é porque porque cada um tem uma
+ 01:20:31
+
+um modo de comunicação não é se você for
+ 01:20:34
+
+pro tiktok onde tá nossos jovens rurais
+ 01:20:37
+
+aí hoje não é jovens eem alguns
+ 01:20:39
+
+agricultores sua comunicação vai ter que
+ 01:20:42
+
+ser em vídeo não é então já muda muito a as
+ 01:20:44
+
+particularidades Antes de ler o último
+ 01:20:47
+
+comentário que eu vou já que eu tô
+ 01:20:49
+
+falando de tiktok não é e eu não sei audia
+ 01:20:51
+
+conhecer obviamente não é que ficou muito
+ 01:20:54
+
+famoso esse caso de Agudo ali que o
+ 01:20:56
+
+filho do Agricultor foi lá não nocente
+ 01:20:58
+
+que é o alta Air pap não é Eu até acompanho
+ 01:21:01
+
+eles de vez em quando assim eu acho
+ 01:21:04
+
+muito interessante não é isso que eu já eu
+ 01:21:05
+
+já tenho colocado aqui e talvez no
+ 01:21:07
+
+futuro Faça pesquisa sobre isso também
+ 01:21:10
+
+eh eh agricultores que ou famílias que
+ 01:21:12
+
+moram no rural ou não moram independente
+ 01:21:16
+
+que tem essa capacidade de ter voz hoje
+ 01:21:20
+
+nas redes sociais não é com suas
+ 01:21:22
+
+características suas particularidades não é
+ 01:21:25
+
+com o seu tipo de conteúdo não é E por
+ 01:21:27
+
+exemplo al pap aqui eu tava olhando
+ 01:21:30
+
+agora enquanto a clude tava palestrando
+ 01:21:32
+
+cara tem
+ 01:21:34
+
+442.000 seguidores no Instagram e
+ 01:21:35
+
+273.000 no tiktok gente isso é muita
+ 01:21:39
+
+gente não é E aí eu nem tô falando pelo
+ 01:21:42
+
+número de seguidores mas aí eu fico
+ 01:21:45
+
+pensando assim nas pessoas que tem eh
+ 01:21:47
+
+tem baixa arenda não é E talvez isso aqui
+ 01:21:50
+
+seja uma possibilidade deles ter uma
+ 01:21:52
+
+arenda inha extra para eles não é comprar
+ 01:21:54
+
+as coisinhas deles não é hois aqui no Rural
+ 01:21:58
+
+não tem então a gente tá vendo vários
+ 01:22:00
+
+jovens hoje fazendo tiktok mostrando a
+ 01:22:02
+
+realidade da Rossa não é e e claro isso
+ 01:22:05
+
+tudo tem um ponto positivo e um negativo
+ 01:22:08
+
+também não é pode criar um bolo ali mas
+ 01:22:11
+
+assim eu fico pensando Poa Será que isso
+ 01:22:13
+
+no futuro será que isso não tá não
+ 01:22:16
+
+estimula ele a ficar também não é aquele
+ 01:22:18
+
+debate incansável da sucessão Rural não é
+ 01:22:21
+
+Eu sou aqui aqui tô botando os pontos de
+ 01:22:23
+
+interrogação não é que talvez essas novas
+ 01:22:25
+
+tecnologias digitais H nem não é para
+ 01:22:28
+
+todos não é como a Cláudia falou não é tem que
+ 01:22:31
+
+ter é um perfil de pessoas que que vão
+ 01:22:33
+
+querer fazer isso não é mas pode ser uma
+ 01:22:36
+
+possibilidade talvez até ser mais
+ 01:22:38
+
+reconhecido ser protagonistas enfim não é
+ 01:22:40
+
+eu eu viajei aqui porque não é tem a ver
+ 01:22:44
+
+com comunicação não é e também tem a ver
+ 01:22:47
+
+com que eles se comunicam não é e o que que
+ 01:22:49
+
+eles estão se comunicando eh para o
+ 01:22:51
+
+mundo não é enfim depois se você quiser
+ 01:22:53
+
+fazer um comentário sobre isso eu vou
+ 01:22:56
+
+chamar aqui o
+ 01:22:58
+
+o nosso amigo burgol Alves de Souza ele
+ 01:23:01
+
+diz o seguinte ó aqui no sertão
+ 01:23:04
+
+nordestino não é não é Eh temos questões de
+ 01:23:07
+
+celulares com baixa capacidade de
+ 01:23:11
+
+memória mas também temos a qualidade da
+ 01:23:13
+
+rede a velocidade Agudo também tem
+ 01:23:16
+
+grandes dificuldades também de acesso a
+ 01:23:19
+
+celular não é regiões montanhosas de Agudo
+ 01:23:21
+
+ali para cima não é na linha boêmia não é Eh
+ 01:23:24
+
+tem também esses problemas aqui muitos
+ 01:23:27
+
+inclusive e E essas duas questões
+ 01:23:30
+
+dificultam o uso da tecnologia digital e
+ 01:23:33
+
+ele continua pedi aos meus alunos para
+ 01:23:36
+
+pesquisarem nas suas comunidades Rais ah
+ 01:23:39
+
+as duas questões acima estão presentes
+ 01:23:41
+
+outra informação é que nenhuma família
+ 01:23:44
+
+tinha um computador em casa Isso
+ 01:23:46
+
+dificulta o trabalho Ah acho que vou
+ 01:23:49
+
+deixar você comentar essa questão do
+ 01:23:51
+
+computador aí Cláudio e a troca pelo
+ 01:23:53
+
+celular e a qualidade da internet eu
+ 01:23:55
+
+acho que isso é
+ 01:23:57
+
+interessante a gente tem sim não é Eh ainda
+ 01:23:58
+
+eu lembro que nós fazíamos eu eu sempre
+ 01:24:03
+
+digo assim ó lembra do tu que é
+ 01:24:05
+
+professor de extensão Ezequiel o os drps
+ 01:24:08
+
+não é diagnóstico rápido participativo eu
+ 01:24:12
+
+entrei na Emater num tempo de chamada
+ 01:24:15
+
+pública da sustentabilidade não é e a gente
+ 01:24:17
+
+tinha que fazer então esses diagnósticos
+ 01:24:20
+
+enfim e uma das coisas que nós fizemos
+ 01:24:22
+
+na época foi criar comissões no meio
+ 01:24:24
+
+Rural comissões que vinham conversar com
+ 01:24:27
+
+o prefeito não é e tudo aquilo que fo foi
+ 01:24:29
+
+diagnosticado nós
+ 01:24:32
+
+transformável pediam internet lá em 2013
+ 01:24:36
+
+2014
+ 01:24:41
+
+2015 hoje dá para dizer que praticamente
+ 01:24:42
+
+todas as localidades têm internet ela é
+ 01:24:45
+
+de qualidade não nem sempre o sinal é
+ 01:24:47
+
+bom não a assistência
+ 01:24:51
+
+é ruim também porque é um município
+ 01:24:54
+
+muito grande então a gente tem esses
+ 01:24:57
+
+problemas de comunicação Sim a gente vê
+ 01:24:59
+
+nos próprios grupos mesmo nossos não é o
+ 01:25:02
+
+pessoal reclamando não é um já diz assim
+ 01:25:04
+
+quem tem a internet tal tá dando muito
+ 01:25:06
+
+problema e o outro já diz eu prefiro do
+ 01:25:08
+
+fulano e assim vai indo é comércio até
+ 01:25:11
+
+ali tem não é então assim eh existe isso
+ 01:25:13
+
+sim ã computador é uma coisa que o
+ 01:25:16
+
+pessoal antigamente antigamente nem tão
+ 01:25:19
+
+antigamente não é Eh tava fazendo um
+ 01:25:22
+
+esforço para comprar um computador pros
+ 01:25:24
+
+filhos enfim não é E hoje já isso já tá
+ 01:25:26
+
+meio que obsoleto não é todo mundo compra é
+ 01:25:30
+
+um
+ 01:25:33
+
+smartphone eu tenho uma filha que faz
+ 01:25:34
+
+que tem um computador um notebook em
+ 01:25:36
+
+casa e ela fica fazendo trabalho pelo
+ 01:25:38
+
+pelo celular eu digo para ela mas pelo
+ 01:25:39
+
+amor de Deus olha a dificuldade não mas
+ 01:25:41
+
+eu prefiro não é então assim ã o pessoal tá
+ 01:25:43
+
+tá usando direto não é Eh vejo que sim tudo
+ 01:25:47
+
+isso é problema mas não pode ser hoje um
+ 01:25:50
+
+um um motivo pelo qual a gente não faça
+ 01:25:53
+
+esse movimento como extensionista não é
+ 01:25:55
+
+vejo que essa questão sim Ezequiel que
+ 01:25:57
+
+tu que tu colocou sobre a questão da do
+ 01:25:59
+
+tiktok dos vídeos da das pessoas eu eu
+ 01:26:02
+
+acho lindo isso sabe eu acho que todo
+ 01:26:05
+
+movimento daqui a pouco nós vamos estar
+ 01:26:08
+
+discutindo outras coisas porque eh a o
+ 01:26:09
+
+primeiro movimento tem que acontecer não é
+ 01:26:13
+
+eh ah eu tenho a possibilidade de gravar
+ 01:26:15
+
+um um vídeo e colocar eu tô me sentindo
+ 01:26:18
+
+parte não é é é é uma das coisas que nós
+ 01:26:20
+
+seres humanos precisamos não é É nos sentir
+ 01:26:23
+
+parte de um todo ou sentir parte não sou
+ 01:26:26
+
+excluído não sou Ah e as pessoas olhando
+ 01:26:29
+
+a minha realidade que ó estão curtindo
+ 01:26:31
+
+tão aderindo pelo menos estão olhando não é
+ 01:26:33
+
+então me sinto incluído Eu acho que isso
+ 01:26:36
+
+é esse essa possibilidade que a internet
+ 01:26:38
+
+trouxe que esses ã o tiktok o Instagram
+ 01:26:40
+
+o Facebook outros aí trouxe é ela é Ela
+ 01:26:44
+
+sempre vai ser positiva por um lado a
+ 01:26:48
+
+forma como a gente vai lidar com isso
+ 01:26:50
+
+depois no andar da Carruagem acho a
+ 01:26:52
+
+gente vai ter que lidar com o que vier
+ 01:26:54
+
+não é ajeitar essas melancias mas H mas não
+ 01:26:56
+
+não dá para deixar não dá para bloquear
+ 01:27:00
+
+não dá para ficar demonizando eu acho
+ 01:27:02
+
+que nós temos que aprender a lidar todos
+ 01:27:04
+
+nós como sociedade não é e acho assim
+ 01:27:05
+
+bonito acho assim bonito que os que os
+ 01:27:08
+
+agricultores se sintam incluídos quando
+ 01:27:10
+
+fazem os vídeos e e e eu acredito que o
+ 01:27:11
+
+fato da gente ter hoje h o eu vejo no
+ 01:27:14
+
+rural de Agudo não é Eh agricultura
+ 01:27:17
+
+familiar como a gente tinha comentado
+ 01:27:20
+
+ela não é só produção agrícola não é
+ 01:27:22
+
+Agricultura Familiar ela é muito mais do
+ 01:27:24
+
+que isso e hoje no nosso Rural a gente
+ 01:27:25
+
+vai ter problema de Êxodo vai ter
+ 01:27:29
+
+problema de sucessão vai mas não vai ser
+ 01:27:31
+
+eu acredito por falta das pessoas se
+ 01:27:33
+
+sentirem
+ 01:27:35
+
+ã diferentes do que quem tá em outro
+ 01:27:36
+
+lugar não é a a e a internet fez faz muito
+ 01:27:39
+
+isso sabe eh coloca todo mundo num
+ 01:27:43
+
+patamar parecido então assim ah eu sou
+ 01:27:46
+
+um jovem rural de Agudo eu vou assistir
+ 01:27:48
+
+a jovem Rural lá da Bahia ã
+ 01:27:50
+
+compartilhando dia a dia dela lá do
+ 01:27:52
+
+nordeste do desculpa do do Norte lá do
+ 01:27:55
+
+da Amazônia fazendo isso e vou ver que
+ 01:27:58
+
+isso é é parte do do todo e e eu vejo
+ 01:28:01
+
+que as questões de sucessão é é problema
+ 01:28:04
+
+de outro nós não vamos ter outra
+ 01:28:06
+
+palestra e outra fala porque eh são mais
+ 01:28:08
+
+profundas bem mais profundas Tive uma
+ 01:28:11
+
+experiência esses dias muito bonita com
+ 01:28:14
+
+ex-alunos aquela turma que eu mostrei
+ 01:28:15
+
+ali na Neve esses dias eu tive na escola
+ 01:28:18
+
+Santo Antônio ajudando eles a montar um
+ 01:28:20
+
+um um um um documento que eles precisam
+ 01:28:23
+
+para se transformar em escola do campo e
+ 01:28:26
+
+aqueles alunos ali tavam lá no CPM agora
+ 01:28:28
+
+eles são CPM eles são pais e me falando
+ 01:28:31
+
+sobre sucessão Rural e dizendo que nem
+ 01:28:34
+
+eles que ficaram lá às vezes conseguem
+ 01:28:36
+
+fazer uma sucessão efetiva por quê
+ 01:28:38
+
+Porque daí os seus os seus os mais
+ 01:28:40
+
+velhos da propriedade ainda continuam
+ 01:28:42
+
+dando opinião então eh não é só sobre
+ 01:28:44
+
+não é só sobre acesso não é s a coisa
+ 01:28:48
+
+mais o furo é mais embaixo eu digo isso
+ 01:28:51
+
+não é mas porque eu fico feliz de ver que
+ 01:28:52
+
+hoje as propriedades rurais com todas as
+ 01:28:55
+
+dificuldades mas elas não se sentem
+ 01:28:57
+
+excluídas e tão parte Elas já estão no
+ 01:28:59
+
+todo eh desses trabalhos todos que são
+ 01:29:01
+
+feitos muito bom muito bom mesmo muito
+ 01:29:05
+
+bom sucessão baita tema também olha ele
+ 01:29:08
+
+continuou aqui eu não tinha lido não é com
+ 01:29:12
+
+El tem eles têm dificuldades com leitura
+ 01:29:14
+
+com planilhas de leitura de texto
+ 01:29:17
+
+principalmente pelos filhos pelo fato de
+ 01:29:19
+
+não ter o computador não é a gente enfrenta
+ 01:29:21
+
+essa dificuldade que no técnic em
+ 01:29:24
+
+fruticultura também eh porque a gente
+ 01:29:25
+
+atinge alguns agricultores e eles não
+ 01:29:27
+
+têm computador e aí para fazer algumas
+ 01:29:29
+
+atividades não é diferente da filha da
+ 01:29:32
+
+Cláudia não é que ela tem todo não é os dedin
+ 01:29:34
+
+aqui já a aparelhadas eh temos temos nós
+ 01:29:38
+
+conseguimos atingir hoje com o tecn
+ 01:29:43
+
+fulta alunos EAD e eles têm justamente
+ 01:29:44
+
+as dificuldade que o professor comentou
+ 01:29:47
+
+aqui porque eles não são de uma era de
+ 01:29:49
+
+tecnológica não é Então as às vezes ou ele
+ 01:29:52
+
+desiste do curso ou às vezes ele ele vem
+ 01:29:54
+
+ele se dedica se esforça vem aqui para
+ 01:29:57
+
+fcm aprender ou compra um computador em
+ 01:30:00
+
+casa para trabalhar sobre essas questões
+ 01:30:02
+
+é mas é um ponto a ser a ser pensado
+ 01:30:04
+
+mesmo é um ponto bem importante o o o
+ 01:30:08
+
+Felipe do da i pagre aqui não é com o seu
+ 01:30:12
+
+Zap Rural aí grande estratégia de
+ 01:30:15
+
+comunicação eles concorda a estratégia
+ 01:30:18
+
+dos grupos não é da instituição é do
+ 01:30:20
+
+extensionistas e Agricultores
+ 01:30:22
+
+não tem como funcionar um grupo da
+ 01:30:24
+
+imater do estado não é não é e ele comenta
+ 01:30:27
+
+isso não é é muito particular o Paulo
+ 01:30:29
+
+comenta o seguinte eu tenho uma
+ 01:30:33
+
+agricultora que ela compartilha no
+ 01:30:35
+
+YouTube as experiências com as práticas
+ 01:30:36
+
+do campo sua propriedade Olha que legal
+ 01:30:38
+
+cara isso aí é muito bacana muito legal
+ 01:30:40
+
+mesmo Bueno Então vamos para o nosso
+ 01:30:43
+
+enceramento para ficar uma live não é uma
+ 01:30:46
+
+live que todo mundo pode assistir
+ 01:30:49
+
+agradecer a presença da Cláudia aqui não é
+ 01:30:51
+
+dia 11 nós vamos est aí tá Cláudia
+ 01:30:54
+
+estaremos aí com uma turma do técnico
+ 01:30:57
+
+Agropecuária e agora eu vou dar a
+ 01:30:58
+
+Palavra Final pra Cláudio Cláudio faz um
+ 01:31:00
+
+fechamento dessa tua palestra aí de hoje
+ 01:31:03
+
+e já deixando o convite que você volta
+ 01:31:06
+
+no que vem aqui para falar do tema que
+ 01:31:08
+
+você gostaria de compartilhar conosco
+ 01:31:10
+
+faz esse fechamento desse dessa palestra
+ 01:31:12
+
+sobre ações de extensão impacto das
+ 01:31:15
+
+Ferramentas digitais Eu acho que o
+ 01:31:18
+
+fechamento é fazer o convite para que Ah
+ 01:31:21
+
+quem quem está hoje lidando com extensão
+ 01:31:24
+
+quem lida com produtores de uma forma ou
+ 01:31:27
+
+de outra se desafie não é a a criar meios
+ 01:31:29
+
+de comunicar não só
+ 01:31:32
+
+eh não só no no presencial porque vale a
+ 01:31:34
+
+pena
+ 01:31:37
+
+e eu não tenho muito o que dizer além do
+ 01:31:39
+
+que eu já disse Ezequiel e professor
+ 01:31:41
+
+zoin agradecer vocês pelo espaço e
+ 01:31:43
+
+agradecer as pessoas que comentaram e
+ 01:31:45
+
+questionaram que elas também engrandecem
+ 01:31:47
+
+a forma como a gente vai vendo as
+ 01:31:50
+
+realidades não é daquilo que a gente mesmo
+ 01:31:52
+
+faz muito obrigada então que é isso aí e
+ 01:31:54
+
+Cláudio quando tiver algum contato de
+ 01:31:57
+
+algum colega da matéria que gostaria de
+ 01:31:59
+
+compartilhar a gente aceita porque isso
+ 01:32:01
+
+que engrandece não é a tirar o trabalho da
+ 01:32:03
+
+base e botar ali para para mais pessoas
+ 01:32:07
+
+que gente do Nordeste gente de Minas
+ 01:32:09
+
+Gerais olha aqui ó o Paulo aqui ó
+ 01:32:11
+
+Parabéns Doutora Cláudia pelo excelente
+ 01:32:14
+
+trabalho é uma doutora do nosso Rural
+ 01:32:16
+
+aqui ó sinceramente faz um trabalho
+ 01:32:19
+
+gigantesco e ela é uma das referências
+ 01:32:21
+
+que a gente tem aqui na extensão ral do
+ 01:32:23
+
+Rio Grande do Sul porque impacta muitas
+ 01:32:25
+
+famílias e impacta de verdade isso é
+ 01:32:28
+
+legal ver o amor da profissão da Cláudia
+ 01:32:30
+
+eh pelo que ela faz isso aí eh a gente
+ 01:32:32
+
+sabe a gente filho de agricultor sabe o
+ 01:32:36
+
+quão importante Isso é para mudar a
+ 01:32:38
+
+realidade da nossa agricultura Às vezes
+ 01:32:40
+
+a simples mensagem que a gente acha que
+ 01:32:42
+
+é simples é um uma grande transformação
+ 01:32:44
+
+Então é isso obrigado Cláudio Obrigado
+ 01:32:48
+
+Professor Zuin Lembrando que toda
+ 01:32:50
+
+quarta-feira nesse mesmo horário nesse
+ 01:32:51
+
+mesmo canal estamos aqui compartilhando
+ 01:32:54
+
+mais uma experiência com algum
+ 01:32:56
+
+especialista na área de senson R no
+ 01:32:57
+
+Brasil um abraço e até a próxima
+ 01:32:59
+
+oportunidade tchau tchau
+ 01:33:01

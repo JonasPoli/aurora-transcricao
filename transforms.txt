@@ -67,5 +67,32 @@ s/\bobs\b/observação/gi
 # --- Remoção de marcadores HTML remanescentes (se aparecerem) ---
 s/<[^>]+>//g
 
+# --- Correções específicas de nomes próprios ---
+# Confirmações do usuário:
+s/\bEzequiel\s+Nedi\b/Ezequiel Redin/g
+s/\bLuís\s+Fernando\s+Soares\s+Wim\b/Luís Fernando Soares Zuin/g
+
+# Variações adicionais confirmadas:
+s/\bEzequiel Oedim\b/Ezequiel Redin/g
+s/\bZqueledim\b/Ezequiel Redin/g
+s/\bZqueredim\b/Ezequiel Redin/g
+s/\bZequeledim\b/Ezequiel Redin/g
+s/\bZquedim\b/Ezequiel Redin/g
+s/\bZquel\s+Ouredin\b/Ezequiel Redin/g
+s/\bSoares\s+Ruim\b/Soares Zuin/g
+s/\bZaredin\b/Ezequiel Redin/g
+s/\bZequel\s+Edin\b/Ezequiel Redin/g
+s/\bZéquiel\s+Edin\b/Ezequiel Redin/g
+s/\bEzequiel\s+Edin\b/Ezequiel Redin/g
+s/\bEzequiel\s+Reidim\b/Ezequiel Redin/g
+s/\bSoares\s+Wim\b/Soares Zuin/g
+s/\bZuim\b/Zuin/g
+s/\bZin\b/Zuin/g
+s/\bZoim\b/Zuin/g
+s/\bZinqui\b/Zuin/g
+
+# (Opcional) Variações sem acento para Luís → confirme se deseja:
+# s/\bLuis\s+Fernando\s+Soares\s+Wim\b/Luís Fernando Soares Zuin/g
+
 # Observação: para regras específicas por canal, crie
 # downloads/<slug>/transforms.txt e o script usará esse arquivo no lugar deste.

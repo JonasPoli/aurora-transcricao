@@ -1,0 +1,8 @@
+video_id: ZTX5mKTkOQY
+video_url: https://www.youtube.com/watch?v=ZTX5mKTkOQY
+title: 🤔 O que você está fazendo para que seus filhos não te abandonem na propriedade rural? 🌱
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/30/2024

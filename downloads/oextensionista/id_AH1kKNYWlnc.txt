@@ -1,0 +1,8 @@
+video_id: AH1kKNYWlnc
+video_url: https://www.youtube.com/watch?v=AH1kKNYWlnc
+title: #motivação #reflexão #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2025

@@ -1,0 +1,9 @@
+video_id: x5Itz6OJuoY
+video_url: https://www.youtube.com/watch?v=x5Itz6OJuoY
+title: Parâmetros da ATER Digital no Brasil
+uploader: Rede Aurora
+speaker: Rede Aurora
+Lattes: http://lattes.cnpq.br/0107443653772269
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/26/2024

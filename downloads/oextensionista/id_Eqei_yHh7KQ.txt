@@ -1,0 +1,9 @@
+video_id: Eqei_yHh7KQ
+video_url: https://www.youtube.com/watch?v=Eqei_yHh7KQ
+title: Painel de Visualização – Metodologias Participativas em Extensão Rural 📋🍂 🌱 ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/5774138599253033
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/19/2022

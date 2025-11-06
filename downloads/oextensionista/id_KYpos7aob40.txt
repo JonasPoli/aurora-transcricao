@@ -1,0 +1,9 @@
+video_id: KYpos7aob40
+video_url: https://www.youtube.com/watch?v=KYpos7aob40
+title: Notícias da Extensão Rural (5)
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/16/2022

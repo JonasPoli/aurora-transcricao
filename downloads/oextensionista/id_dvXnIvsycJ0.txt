@@ -1,0 +1,9 @@
+video_id: dvXnIvsycJ0
+video_url: https://www.youtube.com/watch?v=dvXnIvsycJ0
+title: As novas economias e os desafios da ecologia integral
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9575526650667155
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2024

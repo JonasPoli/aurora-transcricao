@@ -1,0 +1,8 @@
+video_id: YudDnHJ6f24
+video_url: https://www.youtube.com/watch?v=YudDnHJ6f24
+title: #roça #dinheiro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/28/2025

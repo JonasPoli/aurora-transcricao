@@ -1,0 +1,8 @@
+video_id: W13XdCVwEYA
+video_url: https://www.youtube.com/watch?v=W13XdCVwEYA
+title: #roça #turismorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/17/2025

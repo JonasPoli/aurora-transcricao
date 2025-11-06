@@ -1,0 +1,9 @@
+video_id: GTeFj6ZTJ7Q
+video_url: https://www.youtube.com/watch?v=GTeFj6ZTJ7Q
+title: Desenvolvimento rural em tempos de transformação: desafios e possibilidades
+uploader: Rede Aurora
+speaker: Cidonea Machado Deponti - UNISC
+Lattes: http://lattes.cnpq.br/4599834312125185
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/15/2025

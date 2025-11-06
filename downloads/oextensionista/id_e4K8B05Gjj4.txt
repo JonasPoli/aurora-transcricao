@@ -1,0 +1,8 @@
+video_id: e4K8B05Gjj4
+video_url: https://www.youtube.com/watch?v=e4K8B05Gjj4
+title: #roça #caminhoparaumavidamelhor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2025

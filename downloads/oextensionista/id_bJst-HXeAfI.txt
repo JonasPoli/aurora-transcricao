@@ -1,0 +1,8 @@
+video_id: bJst-HXeAfI
+video_url: https://www.youtube.com/watch?v=bJst-HXeAfI
+title: ✂️🍇 Poda mista na videira em 1 minuto!
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/17/2025

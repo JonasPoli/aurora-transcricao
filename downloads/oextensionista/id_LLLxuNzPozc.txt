@@ -1,0 +1,8 @@
+video_id: LLLxuNzPozc
+video_url: https://www.youtube.com/watch?v=LLLxuNzPozc
+title: #reflexão #roça #amem
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2025

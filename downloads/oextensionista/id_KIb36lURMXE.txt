@@ -1,0 +1,8 @@
+video_id: KIb36lURMXE
+video_url: https://www.youtube.com/watch?v=KIb36lURMXE
+title: A informação precisa estar online @marikrugerb #impactosocial
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/17/2024

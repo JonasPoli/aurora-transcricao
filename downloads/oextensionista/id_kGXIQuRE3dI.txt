@@ -1,0 +1,8 @@
+video_id: kGXIQuRE3dI
+video_url: https://www.youtube.com/watch?v=kGXIQuRE3dI
+title: #motivação #deus #roça #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/07/2025

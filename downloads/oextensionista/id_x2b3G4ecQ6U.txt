@@ -1,0 +1,9 @@
+video_id: x2b3G4ecQ6U
+video_url: https://www.youtube.com/watch?v=x2b3G4ecQ6U
+title: Apreender com os outros: uma saída estratégica para a Extensão Rural? 🎓👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/19/2024

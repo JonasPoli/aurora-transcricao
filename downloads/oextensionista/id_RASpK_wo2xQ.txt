@@ -1,0 +1,8 @@
+video_id: RASpK_wo2xQ
+video_url: https://www.youtube.com/watch?v=RASpK_wo2xQ
+title: Caminhando com os Quilombolas: história e ancestralidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

@@ -1,0 +1,8 @@
+video_id: x6I5ejFyNOo
+video_url: https://www.youtube.com/watch?v=x6I5ejFyNOo
+title: Reconhecimento do diploma EU  #extensãorural #luxembourg  #diploma #veterinaria  #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/17/2023

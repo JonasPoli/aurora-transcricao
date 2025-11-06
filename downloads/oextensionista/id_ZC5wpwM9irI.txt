@@ -1,0 +1,8 @@
+video_id: ZC5wpwM9irI
+video_url: https://www.youtube.com/watch?v=ZC5wpwM9irI
+title: #reflexão #amem
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/18/2025

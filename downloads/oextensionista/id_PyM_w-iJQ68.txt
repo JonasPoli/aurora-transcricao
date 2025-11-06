@@ -1,0 +1,8 @@
+video_id: PyM_w-iJQ68
+video_url: https://www.youtube.com/watch?v=PyM_w-iJQ68
+title: III Seminário Nacional de Ensino em Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/04/2024

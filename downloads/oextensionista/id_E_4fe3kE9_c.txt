@@ -1,0 +1,8 @@
+video_id: E_4fe3kE9_c
+video_url: https://www.youtube.com/watch?v=E_4fe3kE9_c
+title: Panorama da ATER e pesquisa agropecuária públicas e perspectivas para os próximos anos
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2023

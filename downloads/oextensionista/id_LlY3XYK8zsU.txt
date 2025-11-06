@@ -1,0 +1,8 @@
+video_id: LlY3XYK8zsU
+video_url: https://www.youtube.com/watch?v=LlY3XYK8zsU
+title: #roça #ervamate #fruticultura #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/04/2025

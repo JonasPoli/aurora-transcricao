@@ -1,0 +1,8 @@
+video_id: fwG64tBeGNA
+video_url: https://www.youtube.com/watch?v=fwG64tBeGNA
+title: Extensionista rural como educador #educador #agricultura #agricultura #redeaurora #aterdigital
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

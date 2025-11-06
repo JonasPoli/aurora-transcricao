@@ -1,0 +1,9 @@
+video_id: YEhaxXQkJus
+video_url: https://www.youtube.com/watch?v=YEhaxXQkJus
+title: Extensão Rural no Paraná: ações para sucessão rural
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4891738079879327
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/04/2021

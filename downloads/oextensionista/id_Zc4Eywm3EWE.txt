@@ -1,0 +1,8 @@
+video_id: Zc4Eywm3EWE
+video_url: https://www.youtube.com/watch?v=Zc4Eywm3EWE
+title: #reflexão #roça #deustemumapalavrapravoce #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

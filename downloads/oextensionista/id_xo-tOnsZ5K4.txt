@@ -1,0 +1,8 @@
+video_id: xo-tOnsZ5K4
+video_url: https://www.youtube.com/watch?v=xo-tOnsZ5K4
+title: #roça #colono #agro #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/23/2025

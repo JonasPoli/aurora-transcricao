@@ -1,0 +1,9 @@
+video_id: eeF78CXsv74
+video_url: https://www.youtube.com/watch?v=eeF78CXsv74
+title: A Agroecologia e o conhecimento na Agricultura Familiar
+uploader: O Extensionista
+speaker: João Carlos Costa Gomes – Embrapa Clima Temperado
+Lattes: http://lattes.cnpq.br/7119085684098235
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/05/2024

@@ -1,0 +1,8156 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:00
+
+agricultores e agricultoras jovens Rais
+ 00:00:03
+
+pesquisadores professores sência Rural
+ 00:00:06
+
+acadêmicos e demais públicos aqui
+ 00:00:09
+
+presentes sejam todos muito bem-vindos
+ 00:00:11
+
+meu nome zedin professor de sência ural
+ 00:00:13
+
+e quem está aqui hoje conosco é o
+ 00:00:16
+
+Professor luí Fernando Soares zim da USP
+ 00:00:18
+
+o fundador da ar de Aurora juntamente
+ 00:00:20
+
+com os nossos convidados de hoje que é o
+ 00:00:22
+
+nosso grande professor extensionista
+ 00:00:24
+
+Marcelo José Braga e o nosso grande
+ 00:00:27
+
+pesquis ador extensionista Rodrigo
+ 00:00:29
+
+Ferraz todos aqui excelentes
+ 00:00:31
+
+profissionais na área de extensão rural
+ 00:00:33
+
+no Brasil e É nesse dia 21 de agosto
+ 00:00:35
+
+estamos em mais um evento do ciclo
+ 00:00:38
+
+diálogos em até digital Semeando
+ 00:00:40
+
+propostas e compartilhando saberes
+ 00:00:43
+
+nossos eventos buscam identificar e
+ 00:00:46
+
+propor caminhos metodológicos para Os
+ 00:00:48
+
+Atuais elementos e condicionantes que
+ 00:00:51
+
+determinam os processos de transferência
+ 00:00:53
+
+e compartilhamento de novas tecnologias
+ 00:00:55
+
+nos territórios Rais da América Latina
+ 00:00:58
+
+da África e alguns países Como Portugal
+ 00:01:00
+
+Espanha e Luxemburgo a palestra de hoje
+ 00:01:02
+
+é intitulada parâmetros da ter digital
+ 00:01:05
+
+no Brasil levantamento dos custos e
+ 00:01:07
+
+atividades relacionadas à implementação
+ 00:01:10
+
+das modalidades híbridas e
+ 00:01:13
+
+exclusivamente remota nossos
+ 00:01:15
+
+palestrantes de hoje é o professor
+ 00:01:17
+
+Marcelo José Braga e o nosso grande
+ 00:01:19
+
+pesquisador consultor Rodrigo ferras
+ 00:01:21
+
+essa é uma live é uma iniciativa do
+ 00:01:24
+
+Portal extensionista da área de Aurora
+ 00:01:26
+
+de diálogos e até digital na América
+ 00:01:28
+
+Latina e com todos os apoiadores que
+ 00:01:30
+
+vocês podem conferir aqui na descrição
+ 00:01:32
+
+desse vídeo sejam todos muito bem-vindos
+ 00:01:35
+
+Professor Zuin Marcelo Rodrigo é um
+ 00:01:37
+
+prazer vocês estarem aqui compartilhando
+ 00:01:39
+
+seus conhecimentos conosco desde já
+ 00:01:41
+
+nosso Muito obrigado e já de antemão
+ 00:01:43
+
+passo a palavra a professor Zuin bom dia
+ 00:01:46
+
+a todos e a todas hoje é um dia muito
+ 00:01:48
+
+especial nós vamos tomar conhecimento
+ 00:01:50
+
+Numa pesquisa muito bacana não é Muito
+ 00:01:53
+
+importante feita pelo professor Marcelo
+ 00:01:55
+
+e pelo Rodrigo sobre os caminhos da ital
+ 00:01:57
+
+não é e ambientes remotos presenciais
+ 00:02:00
+
+híbridos não é Pesquisa muito profunda não é
+ 00:02:02
+
+Muito interessante que eu tô muito
+ 00:02:06
+
+interessado em est acompanhando essa
+ 00:02:07
+
+palestra não é e descobrir o que eles
+ 00:02:10
+
+acharam professor Marcelo Rodrigo sejam
+ 00:02:13
+
+muito bem-vindos a palavra de
+ 00:02:15
+
+vocês ok eh Bom dia não é a todos eh
+ 00:02:18
+
+presentes eu gostaria de inicialmente
+ 00:02:25
+
+agradecer pelo convite É uma honra pra
+ 00:02:27
+
+gente tá não é participando desse debate
+ 00:02:30
+
+que a gente espera eh podermos aqui ter
+ 00:02:32
+
+muitos insights e discutirmos um tema
+ 00:02:35
+
+extremamente relevante aí para isso eu
+ 00:02:37
+
+combinei com Rodrigo da gente fazer uma
+ 00:02:40
+
+apresentação conjunta não é então nós vamos
+ 00:02:42
+
+estar aqui dialogando eu acredito que
+ 00:02:44
+
+isso ajude bastante eh para não ficar
+ 00:02:46
+
+muito no monólogo só e vai dar um pouco
+ 00:02:49
+
+de dinamismo para isso não é Rodrigo eh Bom
+ 00:02:52
+
+dia eu sou profor Rodrigo perrais é um
+ 00:02:56
+
+prazer retornar aqui novamente mês
+ 00:02:58
+
+passado a gente estava aqui dialogando
+ 00:02:59
+
+também sobre uma outra temática
+ 00:03:00
+
+relacionada a ter digital ah trazer
+ 00:03:02
+
+algumas questões sobre esse estudo
+ 00:03:04
+
+também que traz um um mapeamento sobre
+ 00:03:06
+
+custos e metodologias de ater digital
+ 00:03:09
+
+realizadas no âmbito privado e âmbito
+ 00:03:12
+
+privado trazendo a tanto empresas com
+ 00:03:14
+
+com e sem fins lucrativos e eu e o
+ 00:03:16
+
+professor Marcelo Aqui estamos
+ 00:03:19
+
+representando também outros autores não é
+ 00:03:20
+
+esse trabalho foi construído a muitas
+ 00:03:22
+
+mãos então agradecimento especial à
+ 00:03:24
+
+Carolina ao Bruno e ao Renato que também
+ 00:03:26
+
+participaram professor Marcelo vai
+ 00:03:28
+
+apresentar a primeira parte da
+ 00:03:31
+
+apresentação vai trazer até um pouco do
+ 00:03:32
+
+contexto também de onde esse estudo
+ 00:03:33
+
+surgiu e vamos começar esse trabalho
+ 00:03:35
+
+trazendo Talvez uma aproximação teórica
+ 00:03:38
+
+do que a gente entende do tema e depois
+ 00:03:40
+
+indo pra parte metodológica e passando
+ 00:03:42
+
+também por uma revisão de literatura
+ 00:03:45
+
+muito grande H outros trabalhos e coleta
+ 00:03:47
+
+de dados em campo que eu acho que é
+ 00:03:50
+
+interessante quando a gente conversa
+ 00:03:51
+
+sobre a ter digital as experiências que
+ 00:03:53
+
+a gente sempre escuta pelo menos as
+ 00:03:56
+
+principais são experiências por exemplo
+ 00:03:58
+
+da pagre mater deec mater Minas Gerais
+ 00:04:00
+
+de várias outras instituições mas o
+ 00:04:03
+
+privado a gente tende a ter uma certa
+ 00:04:05
+
+dificuldade de casos concretos então Eh
+ 00:04:07
+
+esse mapeamento ele Visa trazer esse
+ 00:04:11
+
+esse referencial esse ponto de partida
+ 00:04:14
+
+pro debate Marcelo Ótimo então Eh nós
+ 00:04:16
+
+temos aqui uma apresentação não é que vai
+ 00:04:22
+
+ficar mais fácil paraa hora que nós
+ 00:04:25
+
+tivermos comentando vocês poderem eh eh
+ 00:04:27
+
+acompanhar aí o que nós estamos falando
+ 00:04:30
+
+então eu gostaria de numa introdução
+ 00:04:32
+
+aqui não é Eh por que que surgiu esse
+ 00:04:34
+
+estudo não é então gostaria de falar sobre
+ 00:04:36
+
+os nossos parceiros aqui nesse estudo
+ 00:04:39
+
+então Eh hoje eh eu coordeno um projeto
+ 00:04:41
+
+que tá se encerrando aqui que chama
+ 00:04:45
+
+projeto axan não é o axan é um acrônimo que
+ 00:04:47
+
+significa adaptando o conhecimento para
+ 00:04:51
+
+agricultura sustentável e acesso ao
+ 00:04:53
+
+mercado ele foi um projeto financiado
+ 00:04:55
+
+pelo fida então Saria o que que pouca
+ 00:04:58
+
+gente no Brasil conhece o fida não é o fida
+ 00:05:00
+
+é o fundo internacional de
+ 00:05:03
+
+desenvolvimento agrícola é uma agência
+ 00:05:05
+
+não é Eh financeira ligada à ONU é a única
+ 00:05:08
+
+da ONU que trata aí da questão da
+ 00:05:12
+
+Agricultura eh o fida chegou no Brasil
+ 00:05:13
+
+na década de 80 e tá muito presente na
+ 00:05:17
+
+região Nordeste dado que o fida a
+ 00:05:20
+
+preocupação do fida é com
+ 00:05:22
+
+desenvolvimento agrícola a redução da
+ 00:05:23
+
+pobreza não é que a gente sabe que boa
+ 00:05:25
+
+parte eh da pobreza no Brasil Ela tá no
+ 00:05:28
+
+meio Rural ela tá inserida no contexto
+ 00:05:31
+
+aí da Agricultura Familiar na região
+ 00:05:34
+
+semiári então o fil tem uma atuação
+ 00:05:36
+
+muito grande no semiário eh e na na
+ 00:05:37
+
+região Nordeste do Brasil Apesar que
+ 00:05:41
+
+ultimamente tá expandindo não é que também
+ 00:05:42
+
+se a gente observa os números você tem
+ 00:05:45
+
+várias questões ambientais e de pobreza
+ 00:05:48
+
+na região norte então um fundo
+ 00:05:51
+
+internacional que tem uma atuação
+ 00:05:53
+
+marcante e não é
+ 00:05:55
+
+Eh eu sou professor aqui da Universidade
+ 00:05:57
+
+Federal de Viçosa a funabe a Fundação de
+ 00:06:00
+
+Apoio à universidade e aqui na
+ 00:06:02
+
+universidade não é Nós criamos o Instituto
+ 00:06:05
+
+de políticas pup e desenvolvimento
+ 00:06:07
+
+sustentável que tem essa função de
+ 00:06:08
+
+catalisar iniciativas multidisciplinares
+ 00:06:11
+
+não é muitos dos problemas do Brasil não
+ 00:06:13
+
+são problemas disciplinares não é no
+ 00:06:16
+
+departamento de Economia não é no
+ 00:06:18
+
+departamento de fitotecnia de
+ 00:06:20
+
+fitopatologia você precisa interagir os
+ 00:06:22
+
+professores do diferentes departamentos
+ 00:06:24
+
+e criar oportunidades aí e aí não é dentro
+ 00:06:25
+
+desse pro projeto axan o fida noos
+ 00:06:29
+
+considerando que ele tem uma série de
+ 00:06:31
+
+atuação ligada ao desenvolvimento Rural
+ 00:06:33
+
+e a extensão Rural é extremamente
+ 00:06:35
+
+relevante nesse processo e para formular
+ 00:06:38
+
+a sua atuação ele precisava de um estudo
+ 00:06:42
+
+que apresentasse determinados parâmetros
+ 00:06:44
+
+sobre a terra digital no Brasil os
+ 00:06:46
+
+custos não é Eh de fato um a terra digital
+ 00:06:48
+
+ela tem um custo menor de atero tem um
+ 00:06:52
+
+custo maior O que que tem sido feito
+ 00:06:54
+
+pelas empresas não é que prestam serviço de
+ 00:06:57
+
+ater no Brasil e como que isso tá não é
+ 00:06:59
+
+ocorrendo efetivamente no Brasil quais
+ 00:07:03
+
+são os custos disso e quais são as
+ 00:07:05
+
+modalidades então era fazer um estudo
+ 00:07:09
+
+para tentar fazer um diagnóstico dessa
+ 00:07:12
+
+realidade e uma interpretação disso aí
+ 00:07:14
+
+disso surgiu essa necessidade desse
+ 00:07:15
+
+estudo não é E aí no próximo slide não é Vocês
+ 00:07:17
+
+vão poder acessar Esse estudo não é Eh
+ 00:07:21
+
+Rodrigo já já mencionou aí os autores
+ 00:07:23
+
+então foi feito por uma série de
+ 00:07:26
+
+pesquisadores aqui da universidade junto
+ 00:07:27
+
+com outros pesquisadores se vocês
+ 00:07:29
+
+quiserem encontrar aí esse estudo eu
+ 00:07:32
+
+coloquei aí nessa apresentação aí o q
+ 00:07:35
+
+code não é e e você vai conseguir acessar
+ 00:07:38
+
+lá e a gente eh Espera aí nós estamos
+ 00:07:41
+
+aberto as sugestões não é Se vocês podem
+ 00:07:45
+
+ler nos apresentar sugestões e
+ 00:07:47
+
+recomendações que boa parte do que a
+ 00:07:49
+
+gente utilizou não é porque esse estudo
+ 00:07:52
+
+você teve uma primeiro uma compreensão
+ 00:07:54
+
+do que que é a não é o até tal a gente sabe
+ 00:07:56
+
+que hoje em dia se usa muito de maneira
+ 00:08:00
+
+indevida não só no caso da terra como em
+ 00:08:02
+
+várias áreas o nome não é virtual digital
+ 00:08:04
+
+remoto não é então a gente sabe por exemplo
+ 00:08:09
+
+quando você pega o que que é uma moeda
+ 00:08:11
+
+digital O que que é uma moeda virtual
+ 00:08:13
+
+são conceitos bem diferentes que pode
+ 00:08:15
+
+significar coisas diferentes e que as
+ 00:08:17
+
+pessoas às vezes usam de maneira então a
+ 00:08:19
+
+gente tem uma primeira parte de
+ 00:08:20
+
+estabelecer uma linguagem comum entre as
+ 00:08:22
+
+pessoas não é para poder entender o que que
+ 00:08:24
+
+hoje eh se define aí como virtual como
+ 00:08:26
+
+digital como remoto para depois não é Eh
+ 00:08:30
+
+realizar essa a partir de uma
+ 00:08:33
+
+comunicação de temos comuns a gente foi
+ 00:08:35
+
+realizar um levantamento de campo para
+ 00:08:37
+
+identificar eh o que que efetivamente tá
+ 00:08:38
+
+sendo feito e como que as empresas têm
+ 00:08:42
+
+feito isso e quais são os custos Então
+ 00:08:44
+
+no próximo slide não é Eu gostaria de
+ 00:08:46
+
+colocar minha apresentação aqui sobre a
+ 00:08:48
+
+importância da Agricultura Familiar no
+ 00:08:50
+
+Brasil então não é Eh o dado oficial que
+ 00:08:53
+
+nós temos que mede não é Eh e as relações
+ 00:08:57
+
+mais estruturais na agricultura é o
+ 00:09:00
+
+censo agropecuário não é que atualmente é
+ 00:09:02
+
+feito a cada 10 anos essa tabela que tá
+ 00:09:04
+
+apresentada aí para vocês apresenta não é a
+ 00:09:08
+
+comparação dos últimos dois censos o
+ 00:09:10
+
+censo de 2006 e o censo de
+ 00:09:12
+
+20161 de maneira geral se a gente pega
+ 00:09:16
+
+nos últimos anos não é o Brasil tem 5
+ 00:09:19
+
+milhões de estabelecimentos não é se você
+ 00:09:21
+
+pegou o cens de 2017 nós os
+ 00:09:23
+
+5.73 não é o cens trabalha com conceito de
+ 00:09:27
+
+estabelecimento não é Eh não é o conceito
+ 00:09:29
+
+de família desses 5 milhões de
+ 00:09:32
+
+estabelecimentos não é você aplica um
+ 00:09:35
+
+questionário cada um individualmente e
+ 00:09:38
+
+depois você verifica se aquele
+ 00:09:40
+
+estabelecimento atende aquelas regras da
+ 00:09:42
+
+Agricultura Familiar não é que ter até
+ 00:09:45
+
+quatro modos fiscais a mão de obra ser
+ 00:09:46
+
+administrado pela família a mão de obra
+ 00:09:50
+
+ser predominante familiar eh e a
+ 00:09:52
+
+principal fonte de renda ser a família
+ 00:09:55
+
+então se você identifica lá 7 7% não é no
+ 00:09:57
+
+caso do Brasil como um todo são
+ 00:10:00
+
+agricultores familiares desses 77% a
+ 00:10:03
+
+gente Verifica que quando você compara
+ 00:10:07
+
+as as cinco grandes regiões do Brasil
+ 00:10:09
+
+nós temos que a região norte não é comporta
+ 00:10:12
+
+83% dos estabelecimentos são
+ 00:10:14
+
+agricultores familiares no nordeste
+ 00:10:16
+
+79 no sul 78 não é no sudeste 71 então nós
+ 00:10:18
+
+temos aqui mais de 23 não é um grande
+ 00:10:23
+
+percentual dos estabelecimentos no
+ 00:10:26
+
+Brasil são de agricultores familiares e
+ 00:10:28
+
+esses agricultores familiares são muito
+ 00:10:31
+
+diferentes você compara um agricultor
+ 00:10:33
+
+familiar no Norte no nordeste no sudeste
+ 00:10:35
+
+são bastante diferentes e a gente vai
+ 00:10:37
+
+mostrar a extensão rural tem uma
+ 00:10:40
+
+importância eh muito grande nesse
+ 00:10:41
+
+processo detalhando um pouco mais sobre
+ 00:10:43
+
+qual que é a importância dessa
+ 00:10:46
+
+Agricultura Familiar não é o próximo slide
+ 00:10:47
+
+ele vai tá mostrando pra gente qual que
+ 00:10:51
+
+é a participação dessa agricultura
+ 00:10:54
+
+Geralmente se pensa assim ah eu quero
+ 00:10:56
+
+verificar não é esses 77% dos
+ 00:10:58
+
+estabelecimentos Qual a área que eles
+ 00:11:01
+
+ocupam não é Considerando o último senso
+ 00:11:04
+
+eles ocupam 23% da área no Brasil não é
+ 00:11:06
+
+então nós temos cerca de 350 milhões de
+ 00:11:09
+
+hectares que são cultivados deles 77% é
+ 00:11:12
+
+agricultura não familiar e 23% é da
+ 00:11:16
+
+Agricultura Familiar Então apesar de não é
+ 00:11:18
+
+ser uma grande percentual eles ocupam
+ 00:11:21
+
+uma área não é relativamente menor do que o
+ 00:11:24
+
+seu do que o seu percentual muita a
+ 00:11:26
+
+gente eh se pergunta qual que é a
+ 00:11:29
+
+importância dessa agricultura em termos
+ 00:11:31
+
+do valor bruto da produção agropecuária
+ 00:11:32
+
+não é Então aí também eh tá apresentado na
+ 00:11:35
+
+terceira linha e na quarta linha que do
+ 00:11:38
+
+desse
+ 00:11:41
+
+valor total não é de mais de 450 milhões eh
+ 00:11:42
+
+você tem aí 23% é percentual da
+ 00:11:47
+
+Agricultura Familiar no valor bruto da
+ 00:11:50
+
+produção eh muita gente que Analisa isso
+ 00:11:52
+
+ao longo dos anos fala assim ah mas a
+ 00:11:55
+
+agricultura familiar tá perdendo
+ 00:11:57
+
+importância no valor bruto da produção
+ 00:11:59
+
+não é hoje no caso da agricultura
+ 00:12:02
+
+brasileira a gente sente uma
+ 00:12:04
+
+concentração muito grande em relação ao
+ 00:12:05
+
+valor bruto da produção Se você pegar aí
+ 00:12:07
+
+desses 5 milhões de estabelecimentos que
+ 00:12:10
+
+existem no Brasil você vai pegar 550.000
+ 00:12:12
+
+estabelecimentos produzem quase 90% do
+ 00:12:15
+
+valor bruto da produção eh então disso é
+ 00:12:18
+
+importante a gente ressaltar que a
+ 00:12:21
+
+agricultura familiar ela não deve ser
+ 00:12:23
+
+medida a importância dela somente pelo
+ 00:12:25
+
+valor bruto da produção ela tem uma
+ 00:12:27
+
+série de outros papéis no caso
+ 00:12:29
+
+Brasileiro não é como a questão da
+ 00:12:31
+
+biodiversidade como a questão eh do eh
+ 00:12:34
+
+de mitigar Impacto de mudança climática
+ 00:12:38
+
+redução da pobreza Ou seja a agricultura
+ 00:12:41
+
+tem uma série de outros papéis paraa
+ 00:12:43
+
+sociedade brasileira que não são só o
+ 00:12:45
+
+valor bruto da produção nesse próximo
+ 00:12:47
+
+slide aí não é a gente chama atenção que
+ 00:12:50
+
+alguns dos produtos que são extremamente
+ 00:12:53
+
+importantes na dieta na segurança
+ 00:12:56
+
+alimentar no profissonal dos brasileiros
+ 00:12:58
+
+são produzidos pela Agricultura Familiar
+ 00:13:00
+
+então estão destacados aí em não é
+ 00:13:02
+
+o caso da
+ 00:13:04
+
+mandioca que não é 69 quase 70% da produção
+ 00:13:05
+
+é feito pela Agricultura Familiar e tem
+ 00:13:11
+
+uma importância maior no norte e
+ 00:13:13
+
+Nordeste não é quase 90 mais de 90% no
+ 00:13:14
+
+norte é da Agricultura Familiar a
+ 00:13:18
+
+produção de suínos não é mais da metade da
+ 00:13:19
+
+produção de suínos é feito pela
+ 00:13:23
+
+Agricultura Familiar produção de leite
+ 00:13:24
+
+não é então tem uma série de produtos que
+ 00:13:26
+
+são importantes aí paraa nossa
+ 00:13:28
+
+alimentação que tão não é feito se você
+ 00:13:30
+
+entrar no site doan você vai encontrar
+ 00:13:34
+
+um outro estudo nosso que mostra a
+ 00:13:36
+
+importância dessa Agricultura Familiar a
+ 00:13:38
+
+gente convida vocês também para
+ 00:13:39
+
+conhecerem não é o nosso site eh que estão
+ 00:13:41
+
+aí junto com esse estudo existe outros
+ 00:13:44
+
+estudos que mostram esse papel e a
+ 00:13:47
+
+importância da Agricultura Familiar E aí
+ 00:13:49
+
+surge não é A questão da assistência
+ 00:13:52
+
+técnica e extensão Rural a gente quer
+ 00:13:54
+
+mostrar não é ela tem um importante papel
+ 00:13:56
+
+eh ao longo do tempo ela tem assumido não é
+ 00:13:59
+
+uma relevância muito grande não só sobre
+ 00:14:01
+
+a questão da aumentar a produção não é e a
+ 00:14:04
+
+produtividade como garantir bem-estar
+ 00:14:08
+
+como garantir desenvolvimento para os
+ 00:14:11
+
+agricultores eh propriamente dito então
+ 00:14:13
+
+ao longo dos anos não é a extensão Rural
+ 00:14:17
+
+assumiu uma série de papéis
+ 00:14:19
+
+eh Associados à implementação ao acesso
+ 00:14:21
+
+dos Agricultores à política pública como
+ 00:14:25
+
+a gente vai mostrar eh que estão ali e
+ 00:14:26
+
+que são bastante relevantes e que a
+ 00:14:30
+
+agricultura familiar não é dado as suas
+ 00:14:33
+
+características ela é fundamental para
+ 00:14:35
+
+ela ter acesso à assistência técnica e
+ 00:14:38
+
+extensão Rural Então dentro dessa ideia
+ 00:14:41
+
+da multiplicidade do papel da extensão
+ 00:14:43
+
+Rural a próxima figura vai mostrar eh não é
+ 00:14:45
+
+feita aí pelo pelo nosso colega aí do
+ 00:14:49
+
+trabalho Renato ele mostra toda essa
+ 00:14:51
+
+interação e essa multiplicidade então Eh
+ 00:14:54
+
+em vermelho não é a gente a gente observa
+ 00:14:57
+
+os diferentes atores que estão
+ 00:14:59
+
+envolvidos aí então tem o estado não é com
+ 00:15:01
+
+a sua agência reguladora que define as
+ 00:15:04
+
+políticas públicas que é a anater nós
+ 00:15:08
+
+temos diferentes instituições e às vezes
+ 00:15:10
+
+as pessoas não entendem que você tem
+ 00:15:12
+
+instituições que fornecem a extensão e
+ 00:15:15
+
+sub instituições que financiam a
+ 00:15:20
+
+extensão a terra assistência técnica e
+ 00:15:23
+
+extensão Rural então nós temos
+ 00:15:26
+
+instituições públicas não é no caso da emat
+ 00:15:27
+
+no caso de vários empresas de
+ 00:15:31
+
+desenvolvimento agropecuário que são
+ 00:15:33
+
+públicas que fornece serviço de extensão
+ 00:15:35
+
+assim como você tem as empresas privadas
+ 00:15:38
+
+não é você tem ONGs você tem a sociedade de
+ 00:15:40
+
+Capital você tem as cooperativas que
+ 00:15:42
+
+fornecem esse serviço e tem um
+ 00:15:46
+
+financiamento que pode ser um
+ 00:15:49
+
+financiamento público e pode ser um
+ 00:15:50
+
+financiamento privado então aí a não é a
+ 00:15:52
+
+figura destaca as diferentes entidades
+ 00:15:55
+
+públicas privadas do terceiro setor no
+ 00:15:57
+
+caso das cooperativas no caso das das
+ 00:16:00
+
+onas que são as que estão efetivamente
+ 00:16:02
+
+envolvidas aí no fornecimento
+ 00:16:05
+
+desse também existe não é uma grande
+ 00:16:07
+
+discussão aí que eu não vou que é que
+ 00:16:10
+
+vocês discutem eh e tá muito inserida a
+ 00:16:13
+
+questão do que que é uma extensão di
+ 00:16:16
+
+fusionista O que que é uma extensão
+ 00:16:18
+
+participativa o que que é comunicação eh
+ 00:16:21
+
+e aí a extensão tem uma série de funções
+ 00:16:24
+
+não é Eh existe aqui no Brasil até uma
+ 00:16:27
+
+diferenciação entre assistência técnica
+ 00:16:30
+
+e extensão Rural que eu não vou discutir
+ 00:16:32
+
+fora não existe essa diferenciação e
+ 00:16:34
+
+existe muito aí o papel educativo não é o
+ 00:16:37
+
+papel assistencial que muitas vezes o
+ 00:16:40
+
+acesso a determinada política pública é
+ 00:16:42
+
+feito pela extensão o papel mediador o
+ 00:16:45
+
+papel de comunicação Então existe uma
+ 00:16:48
+
+série não é os beneficiários da extensão
+ 00:16:50
+
+eles acabam não é Eh sendo beneficiários de
+ 00:16:53
+
+uma série de ações que envolv essa
+ 00:16:56
+
+multiplicidade não é de atividades que tão
+ 00:16:59
+
+envolvidas aí em relação às ações
+ 00:17:01
+
+participativas às ações de difusão e é
+ 00:17:05
+
+importante a gente verificar que os
+ 00:17:08
+
+agricultores não é eles são muito
+ 00:17:09
+
+heterogêneos e a forma de atuação Ela
+ 00:17:11
+
+depende muito das características
+ 00:17:14
+
+daquele agricultor Então você tem que
+ 00:17:16
+
+adequar a metodologia de ação a
+ 00:17:17
+
+determinadas características ali então
+ 00:17:19
+
+se é não é uma atividade
+ 00:17:22
+
+agroecológica não é a modelo de extensão é
+ 00:17:25
+
+diferente se é um produtor que tá num
+ 00:17:27
+
+perío de irrigação e tem um lote ali
+ 00:17:30
+
+produz um um grande volume de abacate
+ 00:17:32
+
+então existem diferentes abordagens
+ 00:17:35
+
+diferentes formas de atuação e existe
+ 00:17:39
+
+uma multiplicidade aí associado E aí eh
+ 00:17:41
+
+uma outra coisa que a gente observa é
+ 00:17:45
+
+que apesar de ser extremamente
+ 00:17:47
+
+necessária e a extensão Rural só que ela
+ 00:17:49
+
+sozinha não promove o desenvolvimento do
+ 00:17:52
+
+Agricultor além da extensão não é você
+ 00:17:54
+
+precisa não é agricultor precisa acessar
+ 00:17:57
+
+crédito ele precisa acessar a saúde ele
+ 00:17:59
+
+precisa ter infraestrutura acesso a
+ 00:18:02
+
+mercado os mercados são imperfeitos e a
+ 00:18:04
+
+extensão tem um papel mediador muito em
+ 00:18:07
+
+relação a todas essas possibilidades aí
+ 00:18:10
+
+eh de que de que ela faz essa mediação
+ 00:18:13
+
+entre as políticas públicas e o
+ 00:18:16
+
+agricultor e que ela tem não é tomado uma
+ 00:18:18
+
+dimensão que vai Muito Além da questão
+ 00:18:21
+
+da produção e do aumento da
+ 00:18:23
+
+produtividade e da eficiência ela
+ 00:18:26
+
+trabalha para as várias dimensões aí
+ 00:18:28
+
+associadas ao desenvolvimento de
+ 00:18:30
+
+capacidades do Agricultor então assim eu
+ 00:18:32
+
+não posso delongar muito nessa figura
+ 00:18:34
+
+por causa do meu tempo mas assim a gente
+ 00:18:36
+
+teve nessa base do estudo não é esse
+ 00:18:38
+
+referencial que desse papel que ao
+ 00:18:41
+
+serviço de ater tem não é Eh durante a
+ 00:18:44
+
+sociedade muito bem então feito isso não é
+ 00:18:48
+
+O que que a gente percebe na realidade
+ 00:18:51
+
+que o censo agropecuário traz pra gente
+ 00:18:53
+
+não é Na próxima figura aí é que você tem
+ 00:18:56
+
+um percentual não é no Brasil Apenas 18%
+ 00:18:59
+
+dos Agricultores brasileiros têm acesso
+ 00:19:02
+
+a esse serviço de ater não é e e e o pior
+ 00:19:04
+
+disso é que há uma distribuição muito
+ 00:19:09
+
+desigual entre não é as várias regiões
+ 00:19:11
+
+brasileiras então nessa figura aí vocês
+ 00:19:15
+
+estão observando que no sul do Brasil
+ 00:19:16
+
+quase 50% não é dos Agricultores familiares
+ 00:19:19
+
+TM acesso a esse serviço de até enquanto
+ 00:19:21
+
+que na região Nordeste são 7% não é no
+ 00:19:24
+
+norte 8 então
+ 00:19:26
+
+não é você tem um problema sério aí de
+ 00:19:29
+
+acesso não é muita gente quando a gente
+ 00:19:32
+
+apresenta esses dados muita gente
+ 00:19:34
+
+critica fal não mas eh o esse dado tá
+ 00:19:36
+
+errado não é então eu só queria chamar
+ 00:19:39
+
+atenção que o IBGE não é ele aplica um
+ 00:19:42
+
+questionário ele tem uma metodologia um
+ 00:19:44
+
+órgão não é oficial do governo que divulga
+ 00:19:46
+
+as estatísticas e ele chega pro
+ 00:19:48
+
+agricultor isso é declaratório não é o
+ 00:19:50
+
+agricultor declara se ele de maneira não é
+ 00:19:52
+
+consistente recebe esse tipo de serviço
+ 00:19:55
+
+e eles falam que não não é então é só
+ 00:19:59
+
+mostrando aqui que você tem um problema
+ 00:20:02
+
+sério de acesso a esse serviço de
+ 00:20:06
+
+extensão não é como que a gente poderia
+ 00:20:07
+
+aprimorar fazer com que mais
+ 00:20:10
+
+agricultores acessassem não é E existe
+ 00:20:11
+
+também uma questão desse acesso ser
+ 00:20:14
+
+efetivo não é de fato e o agricultor Não tá
+ 00:20:17
+
+recebendo só uma visita esporádica ele
+ 00:20:20
+
+tá recebendo várias visitas e que ele
+ 00:20:22
+
+efetivamente transformar a vida dele um
+ 00:20:23
+
+outro dado também dado aí pela aérea que
+ 00:20:26
+
+No Brasil existem
+ 00:20:29
+
+12.766 extensionistas se você falar que
+ 00:20:31
+
+existe 5 milhões de estabelecimento
+ 00:20:34
+
+desses 5 milhões 3 milhões não é Eh 500 São
+ 00:20:36
+
+de agricultor familiar Se você pegar o
+ 00:20:41
+
+número de estabelecimento não é e dividir
+ 00:20:42
+
+por técnico aí você vai olhar que não é
+ 00:20:45
+
+você vai ter um técnico para cada não é
+ 00:20:48
+
+quantos mil estabelecimentos Então
+ 00:20:50
+
+existe poucos técnicos a gente precisa
+ 00:20:52
+
+não é É fundamental você
+ 00:20:54
+
+eh otimizar esses trabalhos dos técnicos
+ 00:20:56
+
+e você fazer com que a extensão dá aí
+ 00:21:00
+
+então a primeira constatação aí é abaixo
+ 00:21:02
+
+nível da não é abaixo percentual da
+ 00:21:04
+
+população que acessa isso de uma maneira
+ 00:21:06
+
+muito desigual entre as diferentes
+ 00:21:08
+
+regiões brasileiras E como que é Um
+ 00:21:10
+
+Desafio em termos de política pública
+ 00:21:12
+
+garantir não é que principalmente os
+ 00:21:14
+
+agricultores familiares tenham acesso a
+ 00:21:17
+
+esse tipo de coisa Professor só
+ 00:21:18
+
+agregando uma informação nesse slide
+ 00:21:21
+
+esses dados 12766 extensionistas eles
+ 00:21:23
+
+referem à rede oficial de ater iam a a
+ 00:21:26
+
+as em matérias as entidades estaduais
+ 00:21:29
+
+esse número ele é complementado ainda
+ 00:21:31
+
+por um outro por um outro quantitativo
+ 00:21:33
+
+grande que são cooperativas empresas
+ 00:21:35
+
+privadas entre outras mas em termos de
+ 00:21:37
+
+entidades oficiais do Estado esse é o
+ 00:21:39
+
+número que que a gente
+ 00:21:41
+
+tem ótimo não é Obrigado um outro ponto que
+ 00:21:44
+
+a gente nota as é que as tecnologias de
+ 00:21:49
+
+informação e comunicação estão presentes
+ 00:21:51
+
+aí na vida não é Eh de grande parte da
+ 00:21:54
+
+nossa população Então até pouco tempo
+ 00:21:57
+
+atrás havia não é uma certa ideia de que eh
+ 00:21:59
+
+a população principalmente a população
+ 00:22:04
+
+mais vulnerável não teria acesso a
+ 00:22:07
+
+telefone não é à televisão à internet Os
+ 00:22:10
+
+dados aqui a gente tá mostrando os dados
+ 00:22:13
+
+aí da pesquisa cetic não é de 2023 não é cetic
+ 00:22:16
+
+é um centro que não é ligado aí a Unesco
+ 00:22:20
+
+que trabalha com a questão eh de
+ 00:22:24
+
+difundir aí o uso não é da tecnologia de
+ 00:22:27
+
+informação e comunicação a gente vive aí
+ 00:22:29
+
+não é Eh eu que sou mais antigo Aí eh eu
+ 00:22:32
+
+lembro antes da internet não é o que que
+ 00:22:37
+
+era a vida da gente antes da internet em
+ 00:22:39
+
+96 o que que é a vida nossa hoje depois
+ 00:22:40
+
+da internet e como se universalizou e as
+ 00:22:43
+
+tecnologias de informação e comunicação
+ 00:22:46
+
+elas trazem muita não é capacidade aí de
+ 00:22:48
+
+que os agentes se torne mais
+ 00:22:51
+
+protagonistas então eh a maneira como as
+ 00:22:53
+
+tecnologias estão chegando elas estão
+ 00:22:56
+
+permitindo com que as pessoas se
+ 00:22:58
+
+empoderem mais com que elas possam tá
+ 00:23:00
+
+efetivamente participando mais da
+ 00:23:02
+
+sociedade então esse número aí mostra
+ 00:23:04
+
+que no Brasil não é acesso à televisão
+ 00:23:06
+
+telefone celular não é 95% não é
+ 00:23:08
+
+Eh da população aí com acesso a esse
+ 00:23:12
+
+tipo de coisa se você separa a área
+ 00:23:16
+
+rural e Urbana você não tem muita
+ 00:23:17
+
+diferença Antigamente você dizia Ah mas
+ 00:23:19
+
+na população rural não tem acesso a
+ 00:23:20
+
+telefone celular tá vendo aí que eh 92%
+ 00:23:22
+
+eh tão acessando isso e assim você tem
+ 00:23:27
+
+de maneira geral eh não é Lógico que acesso
+ 00:23:30
+
+a notebook tablet é menor mas as
+ 00:23:33
+
+tecnologias de informação e comunicação
+ 00:23:36
+
+estão presentes em grande parte das
+ 00:23:38
+
+famílias no Brasil em grande parte da
+ 00:23:40
+
+população eh aind dado a gente tem
+ 00:23:42
+
+vários estudos aí sobre conectividade
+ 00:23:45
+
+Rural a gente tem que tomar muito
+ 00:23:47
+
+cuidado se são as pessoas não é as famílias
+ 00:23:49
+
+que estão tendo acesso a esse tipo de
+ 00:23:52
+
+acesso à internet ou ser a área da
+ 00:23:55
+
+propriedade que tem acesso Esso quando
+ 00:23:57
+
+você pega a área da propriedade esses
+ 00:23:59
+
+valores são menores mas no caso aqui
+ 00:24:00
+
+para para as questões ligadas a até a
+ 00:24:02
+
+gente tá mais preocupado com as pessoas
+ 00:24:05
+
+poderem acessar à internet não é Eh então
+ 00:24:07
+
+Eh chamando atenção aí dessa tabela é
+ 00:24:10
+
+que hoje você tem um grande parte da
+ 00:24:13
+
+população das famílias não é Com acesso à
+ 00:24:15
+
+tecnologias de informação e comunicação
+ 00:24:19
+
+professor e trazendo só mais um
+ 00:24:22
+
+esclarecimento sobre essa tabela o o que
+ 00:24:23
+
+ela tá analisando e o que ela diz é que
+ 00:24:25
+
+não é que são 92% dos indivíduos da zona
+ 00:24:27
+
+rural que tem celular por exemplo mas
+ 00:24:30
+
+que tem um telefone celular no domicílio
+ 00:24:32
+
+então a mesma coisa paraas outras
+ 00:24:35
+
+categorias de tics também não é que todo
+ 00:24:37
+
+mundo tem celular não é todo mundo que
+ 00:24:38
+
+tem internet mas a residência em si já
+ 00:24:40
+
+começa a ter esse tipo de
+ 00:24:42
+
+infraestrutura ótimo esse próximo
+ 00:24:44
+
+gráfico aí não é domicílios Com acesso à
+ 00:24:47
+
+internet ele vai
+ 00:24:49
+
+eh dizer se a pessoa tem acesso ou não à
+ 00:24:51
+
+internet não é 84% Eh com a acesso à
+ 00:24:55
+
+internet e 74% no
+ 00:24:58
+
+Rural E aí você tem se ele usa todos os
+ 00:25:02
+
+dias se ele usa pelo menos uma vez por
+ 00:25:05
+
+semana não é ou como é que tá eh quase
+ 00:25:07
+
+todos os dias então você tem ali sobre o
+ 00:25:10
+
+uso dessas famílias Obrigado aí Rodrigo
+ 00:25:13
+
+por peles complemento as famílias então
+ 00:25:15
+
+T acesso não é uma boa parte delas ao
+ 00:25:18
+
+celular e uma boa parte delas utilizam
+ 00:25:21
+
+isso todos os dias não é para se comunicar
+ 00:25:23
+
+e para receber informação para produzir
+ 00:25:26
+
+e informação e aí você tem as diferentes
+ 00:25:28
+
+regiões do Brasil não é Eh você observa que
+ 00:25:30
+
+você não tem grandes diferenças não é Assim
+ 00:25:33
+
+você falar a região norte paraa região
+ 00:25:36
+
+Nordeste logicamente você tem a Sudeste
+ 00:25:39
+
+e Sul com os maiores percentuais mas
+ 00:25:42
+
+quando você vê a diferença entre um e
+ 00:25:45
+
+outro não é tão grande assim eh você não
+ 00:25:47
+
+tem grandes eh Então se popularizou
+ 00:25:49
+
+muito essa possibilidade de acessar a
+ 00:25:52
+
+internet a possibilidade de acessar não é
+ 00:25:54
+
+ambientes de digitais virtuais assim d e
+ 00:25:57
+
+professor Talvez o vale o comentário
+ 00:26:01
+
+também É que olhando os últimos
+ 00:26:03
+
+relatórios da própria setic e outras
+ 00:26:05
+
+bases esses dados têm um potencial e
+ 00:26:07
+
+mostram uma perspectiva de crescimento
+ 00:26:10
+
+ao longo do tempo então esse cenário de
+ 00:26:11
+
+de acesso à internet de 74% talvez na
+ 00:26:13
+
+próxima pesquisa já esteja eh
+ 00:26:16
+
+melhor exatamente as pessoas mais
+ 00:26:20
+
+antigas aqui a gente lembra que
+ 00:26:23
+
+antigamente você tem um telefone no
+ 00:26:24
+
+Brasil era uma coisa de rico não é você
+ 00:26:26
+
+comar uma linha telefônica era uma coisa
+ 00:26:28
+
+de rico as ligações eram muito caras
+ 00:26:29
+
+você ligar cobrar não é não sei se vocês
+ 00:26:32
+
+lembram ali eh você ficar ligando para
+ 00:26:34
+
+uma para uma outra pessoa fazer
+ 00:26:37
+
+interurbano eram coisas caríssimas
+ 00:26:38
+
+porque as pessoas não tinham grande
+ 00:26:40
+
+parte da população não tinha acesso ao
+ 00:26:41
+
+que tem hoje e existe aí uma revolução
+ 00:26:43
+
+tecnológica aí por de trás disso não é E
+ 00:26:45
+
+com isso eh o que que acontece não é então
+ 00:26:48
+
+a gente Mostra aí que você tem não é cada
+ 00:26:51
+
+vez mais pessoas conectadas à internet e
+ 00:26:53
+
+aí em 2020 surge aí a pandemia da covid
+ 00:26:55
+
+Então você já via ao longo do tempo não é
+ 00:27:00
+
+um uso não é Eh a digitalização a economia
+ 00:27:02
+
+ao longo do tempo ela vinha não é todo um
+ 00:27:06
+
+processo de digitalização
+ 00:27:08
+
+eh de da economia de de criação de
+ 00:27:10
+
+plataformas a pandemia acelerou isso não é
+ 00:27:14
+
+de maneira muito assustadora não é então eu
+ 00:27:17
+
+lembro o meu caso de professor que eu
+ 00:27:20
+
+dava aula presencial eu não gostava
+ 00:27:21
+
+muito de não é utilizar os ambientes
+ 00:27:24
+
+virtuais de aprendizagem e tudo eu
+ 00:27:27
+
+achava que a aula deveria ser só
+ 00:27:29
+
+presencial eu tinha um certo preconceito
+ 00:27:31
+
+contra isso veio a pandemia eu fui
+ 00:27:33
+
+obrigado não é a aprender a utilizar o mudo
+ 00:27:34
+
+a a dar aula virtual e depois desse
+ 00:27:38
+
+processo não é eu acabei pela
+ 00:27:42
+
+experimentação acabei gostando e hoje não é
+ 00:27:44
+
+20% das minhas aulas eu tenho lá eu
+ 00:27:46
+
+utilizo o ambiente virtual então assim a
+ 00:27:50
+
+pandemia fez com que a mesma coisa não é
+ 00:27:52
+
+que aconteceu comigo a mesma coisa que
+ 00:27:55
+
+aconte conteceu aí com o serviço de
+ 00:27:57
+
+Delivery com varejo Acabou também
+ 00:27:59
+
+servindo com a o serviço de até então os
+ 00:28:02
+
+técnicos não é a gente consultou uma série
+ 00:28:05
+
+de instituições que durante as
+ 00:28:07
+
+entrevistas eles falaram assim a
+ 00:28:10
+
+pandemia nos obrigou a fazer com que os
+ 00:28:11
+
+extensionistas passassem a utilizar não é
+ 00:28:14
+
+recursos digitais recursos virtuais para
+ 00:28:17
+
+fazer
+ 00:28:19
+
+eh dessa maneira então você começou a
+ 00:28:20
+
+utilizar o WhatsApp começou a utilizar
+ 00:28:23
+
+eh reuniões de forma remota a utilizar
+ 00:28:26
+
+as plataformas os próprios agricultores
+ 00:28:29
+
+não é que antes iam na feira vender seu
+ 00:28:32
+
+produto de uma hora para outra acabou a
+ 00:28:35
+
+feira ele tinha que garantir a sua
+ 00:28:36
+
+existência não é ele teve que aprender a
+ 00:28:39
+
+utilizar o WhatsApp você teve que criar
+ 00:28:41
+
+grupos de consumidores de WhatsApp
+ 00:28:43
+
+começaram a desenvolver os aplicativos
+ 00:28:45
+
+de acesso a mercado então o uso de
+ 00:28:47
+
+tecnologias digitais acelerou muito com
+ 00:28:50
+
+a pandemia do covid foi um legado da
+ 00:28:54
+
+pandemia que ficou presente e encerrada
+ 00:28:56
+
+a pandemia não é se observou houve todo um
+ 00:28:59
+
+aprendizado e houve uma aceleração desse
+ 00:29:01
+
+processo de plataforma não é de uso de
+ 00:29:04
+
+plataformas na economia de maneira
+ 00:29:06
+
+geral então a gente vem aí não é para
+ 00:29:11
+
+estabelecer esses conceitos não é Essas
+ 00:29:15
+
+definições aí sobre esses teras a gente
+ 00:29:17
+
+sabe que não só eh no caso de ater como
+ 00:29:20
+
+em todas eh atividades econômicas o uso
+ 00:29:23
+
+dos termos remotos virtual e digital
+ 00:29:26
+
+eles são às vezes utilizados como
+ 00:29:29
+
+sinônimo sem o ser então a gente
+ 00:29:31
+
+procurou consultar toda a literatura aí
+ 00:29:33
+
+a gente procurou definir esses temas não é
+ 00:29:36
+
+esse slide aí ele tenta exatamente
+ 00:29:38
+
+estabelecer essa definição aí desses
+ 00:29:40
+
+temas então o primeiro é remoto não é O que
+ 00:29:42
+
+que é uma atividade remota é aquela
+ 00:29:44
+
+atividade que não é feita de forma
+ 00:29:47
+
+presencial não é que os os agentes
+ 00:29:49
+
+envolvidos na atividade eles estão eh
+ 00:29:51
+
+separados geograficamente a localização
+ 00:29:53
+
+deles estão em local então aé remota
+ 00:29:56
+
+como forma tá colocada aí é realizada de
+ 00:29:58
+
+forma remota não é em que os agentes não t
+ 00:30:00
+
+a mesma não estão presentes no mesmo
+ 00:30:03
+
+local físico isso pode ser utilizado por
+ 00:30:04
+
+meio de ferramentas digitais ou
+ 00:30:07
+
+analógicas não é então o o o produtor de
+ 00:30:08
+
+leite de manhã que liga o rádio não é Tá
+ 00:30:13
+
+ouvindo o rádio aquilo ali eh não é ele tá
+ 00:30:15
+
+recebendo um tipo de
+ 00:30:18
+
+informação então isso não seria não é
+ 00:30:20
+
+utilizando então o remoto não é
+ 00:30:22
+
+necessariamente digital não é
+ 00:30:24
+
+necessariamente virtual o virtual não é Eh
+ 00:30:26
+
+o a utilização de plataformas virtuais
+ 00:30:29
+
+para essa interação então envolve
+ 00:30:32
+
+interação entre os pensionistas e escut
+ 00:30:34
+
+e os agricultores por meio dessas
+ 00:30:36
+
+plataformas não é então você faz uma
+ 00:30:38
+
+reunião online pelo zoom você tá
+ 00:30:40
+
+utilizando uma plataforma para isso não é
+ 00:30:42
+
+permitindo com que você possa não é
+ 00:30:44
+
+estabelecer aí a interação de forma
+ 00:30:47
+
+síncrona ou assíncrona não é então os
+ 00:30:50
+
+agentes ali se interagem de maneira
+ 00:30:52
+
+síncrona eh síncrona ou assíncrona e e
+ 00:30:54
+
+existe uma interação então a plataforma
+ 00:30:58
+
+aí não é o virtual é um ambiente de
+ 00:31:00
+
+interação que permite que media não é o
+ 00:31:03
+
+contato entre os dois assim e o tema até
+ 00:31:06
+
+digital ele é um tema mais geral que
+ 00:31:08
+
+envolve os dois o remoto e o virtual não é
+ 00:31:11
+
+sendo que eh por ser uma abordagem mais
+ 00:31:14
+
+abrangente possibilita não é a alternância
+ 00:31:17
+
+de momentos remotos e presenciais então
+ 00:31:19
+
+o técnico extencionista pode estar no
+ 00:31:22
+
+campo com um vídeo mostrando o
+ 00:31:23
+
+agricultor aquele vídeo ali e você pode
+ 00:31:25
+
+utilizar então recursos digitais como
+ 00:31:28
+
+mostrar um vídeo ou recursos analógicos
+ 00:31:30
+
+eh assim de maneira não é realizar as
+ 00:31:33
+
+atividades de maneira síncrona E
+ 00:31:37
+
+assincrona então a ideia que a terra
+ 00:31:38
+
+digital é um temo mais abrangente que
+ 00:31:40
+
+envolve o remoto e o virtual e que eh é
+ 00:31:41
+
+o temo mais comum e que esses temos não
+ 00:31:46
+
+são sinônimos existem diferenças entre
+ 00:31:48
+
+elas em determinadas situações eles
+ 00:31:50
+
+podem ser semelhantes mas não podem
+ 00:31:52
+
+necessariamente ser sinônimos Então é só
+ 00:31:54
+
+lembrando aí as defin
+ 00:31:56
+
+do virtual e do digital então por
+ 00:31:58
+
+exemplo uma moeda não é a gente tem que
+ 00:32:01
+
+tomar muito cuidado com esses temas
+ 00:32:03
+
+porque eu gosto sempre de dar o exemplo
+ 00:32:05
+
+você pode comprar um carro não é num
+ 00:32:06
+
+ambiente remoto não é você pode comprar um
+ 00:32:09
+
+carro de forma remota
+ 00:32:11
+
+eh se esse carro é virtual não é E você
+ 00:32:13
+
+paga com a moeda digital você corre o
+ 00:32:17
+
+risco de perder seu dinheiro e não ter
+ 00:32:20
+
+um carro porque aquilo é virtual Não é
+ 00:32:21
+
+digital não é eh você pode ter uma namorada
+ 00:32:23
+
+real utilizar um ambiente virtual para
+ 00:32:27
+
+namorar assim como você pode ter uma
+ 00:32:30
+
+namorada virtual não é E então Eh é
+ 00:32:33
+
+importante a gente saber que ess as
+ 00:32:37
+
+diferenças entre isso então a gente
+ 00:32:38
+
+procurou utilizar essas duas abordagens
+ 00:32:41
+
+não sei se eu fui muito confuso vou
+ 00:32:44
+
+pedir aí a Rodrigo se se quiser
+ 00:32:45
+
+complementar Professor talvez só
+ 00:32:48
+
+esclarecer a a questão trazer alguns
+ 00:32:50
+
+exemplos não é a Aé remota que nem o
+ 00:32:53
+
+professor Marcelo colocou ela acontece
+ 00:32:56
+
+eh de forma não presencial e ela pode
+ 00:32:58
+
+ser digital por exemplo o envio de uma
+ 00:33:01
+
+mensagem no WhatsApp mas ela pode ser
+ 00:33:03
+
+também analógica é você por exemplo
+ 00:33:04
+
+enviar um folder uma cartilha é você
+ 00:33:07
+
+fazer algum tipo passar algum tipo de
+ 00:33:09
+
+orientação de forma remota para esse
+ 00:33:11
+
+produtor então não necessariamente
+ 00:33:13
+
+digital o virtual ele pode ser
+ 00:33:14
+
+presencial por exemplo duas pessoas numa
+ 00:33:17
+
+mesma sala por exemplo você com seus
+ 00:33:19
+
+colegas de trabalho mandando o arquivo
+ 00:33:20
+
+pela internet é uma ação virtual o
+ 00:33:22
+
+conceito digital na verdade ele em
+ 00:33:25
+
+globos anteriores então uma ter digital
+ 00:33:28
+
+ela pode ser presencial então o é o
+ 00:33:30
+
+exemplo que o professor Marcelo ele é
+ 00:33:33
+
+muito rico nesse sentido você pegar o
+ 00:33:35
+
+seu celular você extensionista mostrando
+ 00:33:36
+
+um vídeo pro produtor Como faz por
+ 00:33:38
+
+exemplo uma caa bordalesa como faz uma
+ 00:33:40
+
+determinada prática isso é até digital
+ 00:33:41
+
+acontecendo de maneira presencial então
+ 00:33:44
+
+esses momentos da terra eles acabam se
+ 00:33:46
+
+intercalando o presencial o analógico o
+ 00:33:48
+
+digital o remoto às vezes até ao longo
+ 00:33:50
+
+de um dia como um todo uma outra questão
+ 00:33:52
+
+que a gente gosta de trazer também é que
+ 00:33:55
+
+isso são apenas aproximações conceituais
+ 00:33:57
+
+na prática a gente não entende que a ter
+ 00:33:59
+
+digital continu constitui um novo modelo
+ 00:34:01
+
+de atendimento na verdade o que a gente
+ 00:34:03
+
+tá colocando é que são na verdade não
+ 00:34:05
+
+que a gente n mas que a literatura a
+ 00:34:07
+
+própria rede Aurora discute isso muito
+ 00:34:09
+
+bem é que estamos falando de momentos
+ 00:34:11
+
+digitais da própria Tera em si então
+ 00:34:13
+
+mais configura como um processo de
+ 00:34:16
+
+comunicação do que uma nova Tera um novo
+ 00:34:18
+
+modelo de atendimento Ah talvez só para
+ 00:34:20
+
+complementar Professor o isso que a
+ 00:34:23
+
+gente trouxe são a questão as questões
+ 00:34:26
+
+relacionadas aos conceitos mas na
+ 00:34:28
+
+prática quando a gente fala de até
+ 00:34:30
+
+digital a gente tá falando de quê não é
+ 00:34:32
+
+dessa inclusão D atividades ou de ações
+ 00:34:34
+
+híbridas presencial mais digital ou em
+ 00:34:37
+
+alguns casos e é muito menos frequente
+ 00:34:40
+
+existem casos e projetos de atendimento
+ 00:34:42
+
+acompanhamento de famílias por meio
+ 00:34:44
+
+exclusivamente remoto então essas
+ 00:34:46
+
+figuras que a gente vai mostrar agora
+ 00:34:49
+
+mostra exatamente o que que seria essa
+ 00:34:50
+
+terra digital é uma terra na verdade que
+ 00:34:52
+
+é híbrida ou exclusivamente remota mas
+ 00:34:54
+
+nesse trabalho a gente vai se atentar
+ 00:34:57
+
+muito mais à questão híbrida Então
+ 00:34:59
+
+sempre que a gente tiver falando de até
+ 00:35:00
+
+digital não é atendimento 100% remoto
+ 00:35:02
+
+são essas variações e opções de
+ 00:35:05
+
+atendimento ao longo desse
+ 00:35:06
+
+processo ótimo eh não ótimo Rodrigo é
+ 00:35:10
+
+assim é importante a gente sabe que
+ 00:35:13
+
+existem algumas empresas que dão
+ 00:35:15
+
+atendimento exclusivamente remoto mas aí
+ 00:35:16
+
+é para um público diferenciado então
+ 00:35:18
+
+citando a gente chegou a entrevistar
+ 00:35:20
+
+algumas empresas por exemplo você tem lá
+ 00:35:22
+
+o produtor de abacate não é e que ele não é
+ 00:35:24
+
+Eh consegue eh não é ele já tá bastante
+ 00:35:29
+
+esclarecido sobre a atividade dele você
+ 00:35:33
+
+consegue fazer um diagnóstico você
+ 00:35:35
+
+consegue ter todas as etapas ali
+ 00:35:36
+
+envolvidas no processo de até de maneira
+ 00:35:38
+
+remota Ou seja você consegue fazer um
+ 00:35:40
+
+diagnóstico de forma remota você
+ 00:35:42
+
+consegue tirar ali eh tirar fotografias
+ 00:35:44
+
+ali da sua planta do seu solo eh você
+ 00:35:47
+
+consegue orientar o sujeito para como
+ 00:35:51
+
+que ele vai fazer a amostragem do solo
+ 00:35:53
+
+mandar para lá não é Eh paraa empresa e
+ 00:35:54
+
+depois como que o técnico vai receber
+ 00:35:58
+
+aquilo então em determinadas situações
+ 00:36:00
+
+muito específicas Você pode ter eh um
+ 00:36:02
+
+atendimento exclusivamente remoto mas
+ 00:36:05
+
+assim na grande maioria das vezes e
+ 00:36:07
+
+pensando eh no público é muito difícil
+ 00:36:09
+
+ser colocado ali Essa maneira
+ 00:36:12
+
+remota muito bem então só para
+ 00:36:15
+
+complementar isso não é Rodrigo No próximo
+ 00:36:18
+
+você tem uma série de fotos Ali
+ 00:36:20
+
+expressando determinadas situações e que
+ 00:36:23
+
+tão aí esse conceito não é então se a gente
+ 00:36:26
+
+olha do lado direito ali você tem uma
+ 00:36:28
+
+atividade presencial ali em que você
+ 00:36:31
+
+tem não é um técnico ali mostrando não é
+ 00:36:34
+
+fazendo um desenho e que você tem não é um
+ 00:36:38
+
+q code
+ 00:36:41
+
+ali então eu te pergunto aí Rodrigo aí
+ 00:36:42
+
+seria é um até presencial mas ele é
+ 00:36:45
+
+digital ou
+ 00:36:48
+
+não professor na verdade esses exemplos
+ 00:36:50
+
+das fotos mostram as diversas opções que
+ 00:36:52
+
+a gente tem não é então por exemplo a
+ 00:36:54
+
+primeira foto da esquerda a gente tem um
+ 00:36:56
+
+conjunto de agricultores participando de
+ 00:36:58
+
+um evento fazendo uma apresentação com
+ 00:37:00
+
+computador e tando online também na
+ 00:37:02
+
+segunda a gente tem ah duas pessoas
+ 00:37:04
+
+Possivelmente Dois agricultores
+ 00:37:06
+
+assistindo um curso online no terceiro
+ 00:37:07
+
+embaixo um agricultor talvez tirando uma
+ 00:37:10
+
+dúvida por um WhatsApp fazendo uma
+ 00:37:12
+
+interação com extensionista e por último
+ 00:37:13
+
+até uma foto do nosso colega o Felipe da
+ 00:37:15
+
+da epag também que colabora muito com a
+ 00:37:17
+
+com a rede Aurora fazendo uma
+ 00:37:19
+
+apresentação pelo que eu entendo de uma
+ 00:37:21
+
+poda e com Q code não não não não estava
+ 00:37:23
+
+presente não posso afirmar Com certeza
+ 00:37:26
+
+mas talvez um vídeo sobre o próprio como
+ 00:37:28
+
+fazer essa poda com mais detalhes talvez
+ 00:37:30
+
+pro produtor poder consultar depois eh
+ 00:37:32
+
+se Felipe tiver no chat também depois
+ 00:37:35
+
+por favor conte até sobre essa história
+ 00:37:37
+
+que eu acho que pode ser interessante
+ 00:37:39
+
+para pros colegas mas isso é uma ação na
+ 00:37:40
+
+verdade digital presencial e analógica
+ 00:37:43
+
+ao mesmo tempo Acho que perpassa todas
+ 00:37:47
+
+as ações Mas é só para trazer essa ideia
+ 00:37:49
+
+essas imagens do que que seria o digital
+ 00:37:51
+
+não é dentro dessa concepção que a gente tá
+ 00:37:53
+
+colocando
+ 00:37:55
+
+muito bem então assim eh nesse sentido
+ 00:37:59
+
+de poder desenvolver mais não é O que que a
+ 00:38:03
+
+gente considerou no estudo eh eu lembro
+ 00:38:05
+
+que não é Há uns 30 anos atrás eu como sou
+ 00:38:07
+
+agrônomo não é a gente tinha lá a
+ 00:38:11
+
+disciplina de extensão Rural então lá na
+ 00:38:13
+
+disciplina de extensão Rural essa a
+ 00:38:15
+
+gente tinha não é Essa figura tá mostrando
+ 00:38:17
+
+aí pra gente eh a gente aprendia sobre
+ 00:38:19
+
+as metodologias de até como é que a
+ 00:38:22
+
+gente tinha então nós tínhamos
+ 00:38:24
+
+metodologias participativas não é você
+ 00:38:26
+
+tinha reuniões técnicas dia de campo
+ 00:38:28
+
+Palestra curso nós tínhamos as
+ 00:38:30
+
+metodologias individuais que estão
+ 00:38:32
+
+colocando aí visitas à propriedade
+ 00:38:34
+
+entrevista não é você tinha as metodologias
+ 00:38:37
+
+de massa e você tinha os recursos não é a
+ 00:38:40
+
+serem utilizados aí os recursos
+ 00:38:43
+
+didáticos a gente utilizava não é o
+ 00:38:45
+
+flipchart a gente ia tinha os projetores
+ 00:38:47
+
+e a coisa foi evoluindo eh e aí o que
+ 00:38:50
+
+que acontece hoje as tecnologias de
+ 00:38:54
+
+informação e comun ação elas são
+ 00:38:56
+
+fundamentais para que a gente possa
+ 00:38:58
+
+desenvolver melhor as nossas
+ 00:39:01
+
+metodologias aí de até não é tanto
+ 00:39:03
+
+presenciais quanto remotas dessa forma
+ 00:39:06
+
+então é importante a gente destacar que
+ 00:39:10
+
+as tecnologias de informação e
+ 00:39:12
+
+comunicação elas não são complementares
+ 00:39:13
+
+não é assim eh elas não são complementares
+ 00:39:15
+
+elas são fundamentais e imprescindíveis
+ 00:39:18
+
+hoje E aí surge uma questão que os
+ 00:39:20
+
+técnicos não é Hoje os os extensionistas
+ 00:39:23
+
+rurais antes tinam um porque eles tinham
+ 00:39:26
+
+que ser mediadores de políticas públicas
+ 00:39:28
+
+eles tinham que trabalhar com educação
+ 00:39:30
+
+com saúde com uma série de coisas e
+ 00:39:31
+
+agora eles têm não é fundamental eles
+ 00:39:33
+
+incorporarem Essas tecnologias não é Eh na
+ 00:39:36
+
+sua atividade diária então uma
+ 00:39:40
+
+metodologia que antes você utilizava ali
+ 00:39:42
+
+não é uma reunião técnica você pode essa
+ 00:39:45
+
+reunião técnica pode produzir melhores
+ 00:39:49
+
+resultados na medida que você incorpora
+ 00:39:51
+
+Essas tecnologias assim dadas não é E aí não é
+ 00:39:53
+
+nessa figura você destaca aí a gente
+ 00:39:57
+
+destaca muito a questão da até híbrida
+ 00:39:59
+
+não é que aí você combina momentos
+ 00:40:01
+
+presenciais com momentos remotos a
+ 00:40:04
+
+partir de uma possibilidade de que isso
+ 00:40:07
+
+não é só uma atividade de fusão de
+ 00:40:10
+
+conhecimento porque há uma interação há
+ 00:40:12
+
+uma produção de novo conhecimento o
+ 00:40:15
+
+agricultor não é ele tem possibilidade de
+ 00:40:17
+
+interagir com esse sistema ele não é
+ 00:40:19
+
+passivo diante disso ele tem uma
+ 00:40:21
+
+possibilidade de ser protagonista e você
+ 00:40:23
+
+pegar não é através dessas interações que
+ 00:40:26
+
+podem ocorrer através desse ambiente
+ 00:40:28
+
+você consegue transformar dado
+ 00:40:30
+
+informação informação e conhecimento e
+ 00:40:32
+
+isso não é melhorar os processos assim dado
+ 00:40:34
+
+Então essa figura aí é mais para chamar
+ 00:40:37
+
+a atenção de que todas as metodologias
+ 00:40:39
+
+de atuação da até não é Eh ela pode ser
+ 00:40:42
+
+tanto as coletivas as individuais não é ela
+ 00:40:47
+
+pode ser mediada por meio da tecnologia
+ 00:40:50
+
+de informação e computação
+ 00:40:54
+
+Então essa aqui não é aproveitando aqui o
+ 00:40:58
+
+próprio Professor zim que tá presente
+ 00:41:02
+
+aqui não é o Renato e tudo só para mostrar
+ 00:41:04
+
+que existe uma interação aí de
+ 00:41:06
+
+diferentes momentos presenciais e
+ 00:41:09
+
+analógicos isso pode ser desculpe
+ 00:41:11
+
+momento presencial e remoto não é então
+ 00:41:14
+
+você tem uma terra presencial e uma
+ 00:41:16
+
+terra remota você pode utilizar os
+ 00:41:18
+
+instrumentos digitais analógicos
+ 00:41:20
+
+propriamente
+ 00:41:22
+
+dito E aí existe várias eh ferramentas
+ 00:41:26
+
+não é então ao longo desse processo a gente
+ 00:41:30
+
+identificou que existem várias
+ 00:41:32
+
+ferramentas de até digital não é que vão
+ 00:41:34
+
+desde o uso do de aplicativo não é de
+ 00:41:37
+
+WhatsApp uso de plataformas não é eh você
+ 00:41:41
+
+pode fazer uma reunião via uma
+ 00:41:44
+
+plataforma Zoom Google Meet eh teams eh
+ 00:41:45
+
+você tem não é empresas de até que utilizam
+ 00:41:50
+
+eh que desenvolvem aplic ativos para
+ 00:41:55
+
+você fazer o cadastro do Produtor para
+ 00:41:57
+
+você acompanhar você tem técnicos que não é
+ 00:41:59
+
+podem tirar dúvida dos Agricultores ele
+ 00:42:03
+
+tá com uma dúvida ele envia aquilo por
+ 00:42:05
+
+uma determinada plataforma Então existe
+ 00:42:06
+
+uma multiplicidade não é
+ 00:42:08
+
+de ferramentas que são utilizadas a
+ 00:42:11
+
+gente fez um pré levantamento sobre
+ 00:42:15
+
+essas ferramentas para depois a hora que
+ 00:42:17
+
+foram realizada a aplicação do
+ 00:42:19
+
+questionário não é vai ser falado a seguir
+ 00:42:21
+
+você poderia identificar Quais que tão
+ 00:42:23
+
+utilizando E como que pode ser utilizado
+ 00:42:24
+
+então não vejo necessidade de eu ficar
+ 00:42:27
+
+detalhando uma por uma Mas é só você tem
+ 00:42:28
+
+nesse quadro aqui mostrando essa
+ 00:42:31
+
+multiplicidade de ferramentas que pode
+ 00:42:33
+
+ser utilizada aí na comunicação digital
+ 00:42:34
+
+e professor só trazendo também que esse
+ 00:42:37
+
+quadro e alguns desses outros que a
+ 00:42:39
+
+gente apresentou na apresentação Eles
+ 00:42:41
+
+estão no no estudo do CR code que foi
+ 00:42:43
+
+compartilhado Então quem quiser ver com
+ 00:42:46
+
+mais detalhes vai est no
+ 00:42:47
+
+documento você tem aí as atividades
+ 00:42:50
+
+potenciais não é da Atera aí a gente
+ 00:42:53
+
+procurou segmentar isso por tema não é como
+ 00:42:55
+
+é que você aumenta as capacidades do
+ 00:42:58
+
+Agricultor então você pode ter um curso
+ 00:43:00
+
+via educação à distância não é a plataforma
+ 00:43:02
+
+muda era mais utilizada para isso
+ 00:43:04
+
+Eh você tem aí palestras por vídeo não é
+ 00:43:07
+
+uma coisa interessante que às vezes o
+ 00:43:11
+
+agricultor participa de um curso e aí
+ 00:43:12
+
+naquele momento ali por exemplo não é tá
+ 00:43:15
+
+fazendo um curso lá sobre Poa ele
+ 00:43:17
+
+aprende a fazer aquilo só que às vezes
+ 00:43:19
+
+na hora que ele vai executar quando ele
+ 00:43:21
+
+tiver um vídeo o vídeo ajuda ele ver
+ 00:43:24
+
+aquilo em determin terminados momentos
+ 00:43:26
+
+para poder eh se ele teve alguma dúvida
+ 00:43:27
+
+ou se ele esqueceu alguma coisa que ele
+ 00:43:30
+
+é uma coisa permanente que ele vai ter
+ 00:43:31
+
+aqui várias vezes e poder acompanhar
+ 00:43:32
+
+isso nós vimos alguns relatos em relação
+ 00:43:34
+
+a
+ 00:43:36
+
+isso então você tem aí como apoio
+ 00:43:37
+
+técnico especializado não é então você tem
+ 00:43:40
+
+controle de pragas e enfermidades então
+ 00:43:43
+
+o agricultor pode tirar uma foto ali
+ 00:43:45
+
+envia pro técnico que ele é feito uma
+ 00:43:47
+
+análise você tem até hoje uso da
+ 00:43:48
+
+Inteligência Artificial que consegue até
+ 00:43:51
+
+não é você identificar determinadas doenças
+ 00:43:53
+
+a partir da que ele rastrei de foto
+ 00:43:56
+
+então hoje não é a a inteligência
+ 00:43:58
+
+artificial pode colaborar muito com isso
+ 00:44:01
+
+hoje você tem também a questão do
+ 00:44:03
+
+satélite dos eh você tem várias
+ 00:44:05
+
+eh oportunidades que hoje são a gente
+ 00:44:09
+
+identificou que são utilizados não é para
+ 00:44:11
+
+essa forma d e não é antes um agricultor
+ 00:44:14
+
+para fazer um intercâmbio ele teria que
+ 00:44:17
+
+viajar grandes distâncias hoje se
+ 00:44:19
+
+consegue promover reuniões não é Eh com
+ 00:44:21
+
+esses agricultores de maneira virtual
+ 00:44:24
+
+que explotar diferentes regiões e locais
+ 00:44:26
+
+e trocar experiências ali através de uma
+ 00:44:28
+
+dessas plataformas virtuais ali e a
+ 00:44:31
+
+gente observa que os jovens não é eles têm
+ 00:44:34
+
+muito mais um grande problema da
+ 00:44:36
+
+Agricultura Familiar é a questão de que
+ 00:44:38
+
+há o envelhecimento populacional muito
+ 00:44:41
+
+grande se você pegar o chefe de de
+ 00:44:43
+
+estabelecimento
+ 00:44:45
+
+eh dentro de um estabelecimento
+ 00:44:46
+
+agropecuário ele tem acima de 55 a 60
+ 00:44:49
+
+anos os jovens e as tecnologias elas
+ 00:44:52
+
+conseguem aproximar e trazer os jovens
+ 00:44:54
+
+mais para não é registro de boas práticas
+ 00:44:56
+
+para acesso a mercado Então você tem eh
+ 00:44:59
+
+essa possibilidade esse tema de trazer o
+ 00:45:03
+
+envolvimento mais dos jovens com as
+ 00:45:06
+
+atividades agrícolas através eh de coisa
+ 00:45:08
+
+você pode acessar um público maior não é as
+ 00:45:12
+
+ações de Campo elas são mais
+ 00:45:15
+
+sustentáveis não é Depois vão ser citado
+ 00:45:17
+
+exemplos que mostram eh esse tipo de
+ 00:45:19
+
+coisa eu não vou ficar me delong muito
+ 00:45:21
+
+eh o acesso aos mercados não é os
+ 00:45:23
+
+aplicativos ou Hoje os acessos a mercado
+ 00:45:25
+
+hoje você pode utilizar o próprio rede
+ 00:45:28
+
+social para comercializar sua produção e
+ 00:45:31
+
+também o monitoramento participativo o
+ 00:45:34
+
+não é você consegue com que os próprios
+ 00:45:36
+
+agricultores possam avaliar o serviço de
+ 00:45:39
+
+até de forma participativo e contribuir
+ 00:45:41
+
+para aperfeiçoamento deles então tem
+ 00:45:44
+
+várias atividades potenciais que até
+ 00:45:46
+
+digital pode propiciar e depois a gente
+ 00:45:49
+
+vai identificar como que as empresas
+ 00:45:52
+
+estão utilizando Essas atividades
+ 00:45:54
+
+Finalmente eu vou a minha última fala
+ 00:45:59
+
+aqui depois o Rodrigo vai apresentar os
+ 00:46:01
+
+resultados do estudo é importante a
+ 00:46:04
+
+gente destacar que existem diferentes
+ 00:46:05
+
+estágios não é de engajamento em
+ 00:46:07
+
+ferramentas digitais e nós temos eh
+ 00:46:09
+
+Diferentes não é os agricultores
+ 00:46:12
+
+eh familiares são bastante diferentes no
+ 00:46:15
+
+Brasil Então você tem esse primeiro
+ 00:46:18
+
+estágio que é o sujeito que consegue
+ 00:46:20
+
+eh se engajar na atividade somente de
+ 00:46:23
+
+forma presencial não é que é o que tá
+ 00:46:26
+
+escrito aí o cara a cara ou seja o
+ 00:46:28
+
+primeiro estágio de forma presencial
+ 00:46:30
+
+depois existe não é aquele engajamento que
+ 00:46:32
+
+é através de ligação telefônica Então
+ 00:46:35
+
+você consegue ligando não é conseguindo
+ 00:46:37
+
+através de ligação telefônica depois
+ 00:46:38
+
+existe aquele engajamento que é através
+ 00:46:41
+
+de receber mensagem então você consegue
+ 00:46:42
+
+não é
+ 00:46:44
+
+através de SMS o sujeito recebe uma
+ 00:46:46
+
+mensagem então ele consegue se informar
+ 00:46:49
+
+melhor os o quarto e o quinto estágio
+ 00:46:51
+
+são estágios em que são mais dinâmicos
+ 00:46:54
+
+que de fato o sujeito consegue
+ 00:46:56
+
+participar efetivamente não é participar
+ 00:46:58
+
+ele tá dando sugestão ele tá dando a
+ 00:47:01
+
+contribuição ele tá formando os outros e
+ 00:47:03
+
+tá se informando então o quarto estágio
+ 00:47:06
+
+aí não é é a descoberta ativa em que o
+ 00:47:08
+
+sujeito consegue através das tecnologias
+ 00:47:11
+
+interagir com elas ele consegue não é dar
+ 00:47:14
+
+sua contribuição ele consegue julgar não é
+ 00:47:17
+
+e o quinto estágio é o engajamento mesmo
+ 00:47:20
+
+com ess serviços digitais aí o sujeito
+ 00:47:23
+
+passa não é A ser um indivíduo ativo aí nas
+ 00:47:25
+
+redes sociais ele passa a estar
+ 00:47:28
+
+efetivamente participando então
+ 00:47:30
+
+Eh isso aqui é importante porque não é a
+ 00:47:32
+
+metodologia a forma de utilizar esses
+ 00:47:36
+
+recursos digitais vai depender muito em
+ 00:47:38
+
+que estádio o sujeito esteja agora
+ 00:47:40
+
+Lembrando que isso é um processo
+ 00:47:43
+
+educativo não é o sujeito pode passar de um
+ 00:47:44
+
+estágio para outro para outro na medida
+ 00:47:46
+
+que ele ten a necessidade de fazer isso
+ 00:47:48
+
+não é que ele saia da zona de conforto dele
+ 00:47:50
+
+e na medida de que ele tenha não é acesso a
+ 00:47:52
+
+esse tipo de coisa
+ 00:47:57
+
+professor professor o que eu acho que
+ 00:48:00
+
+essa figura Deixa claro também é que a
+ 00:48:02
+
+presença do extensionista ela é
+ 00:48:04
+
+essencial nesse processo a na medida que
+ 00:48:06
+
+as o tipo de atendimento ele tem que ser
+ 00:48:08
+
+direcionado dependendo do perfil do
+ 00:48:11
+
+beneficiário quem tem esse entendimento
+ 00:48:13
+
+da melhor ferramenta do melhor conteúdo
+ 00:48:16
+
+é o extensionista então quando a gente
+ 00:48:17
+
+fala de uma digital não existe esse
+ 00:48:19
+
+processo de substituição na verdade de
+ 00:48:22
+
+um processo de benefícios
+ 00:48:25
+
+de ambas de ambas as
+ 00:48:27
+
+partes ótimo aí e Rodrigo então agora s
+ 00:48:31
+
+Eu já falei muito aqui eu vou passar um
+ 00:48:34
+
+pouco para você também
+ 00:48:37
+
+eh falar sobre a metodologia e os
+ 00:48:39
+
+resultados que a gente encontrou no
+ 00:48:41
+
+estudo tá então antes de começar a a
+ 00:48:46
+
+questão metodológica não é Eh eu acho que
+ 00:48:50
+
+vale a pena a gente retomar um pouco do
+ 00:48:52
+
+objetivo inicial e da necessidade desse
+ 00:48:54
+
+estudo acho que se vocês podem fazer um
+ 00:48:56
+
+um exercício interno com cada um de
+ 00:48:59
+
+vocês se vocês forem pensar por exemplo
+ 00:49:01
+
+em 10 instituições que não sejam
+ 00:49:03
+
+públicas que fazem práticas de ater
+ 00:49:05
+
+digital quando a gente foi a campo e fez
+ 00:49:06
+
+essa pergunta para algumas pessoas a
+ 00:49:09
+
+gente teve dificuldade em fazer esse
+ 00:49:10
+
+mapeamento de quais seriam essas
+ 00:49:12
+
+instituições quem prestaria um serviço
+ 00:49:14
+
+de até remota e a um até híbrida na
+ 00:49:16
+
+verdade na região Nordeste região Sul
+ 00:49:18
+
+região nordeste
+ 00:49:20
+
+e a a pesquisa em alguma medida foi
+ 00:49:22
+
+motivada por isso e também para ter um
+ 00:49:25
+
+entendimento maior de como essas
+ 00:49:27
+
+empresas faziam esses serviços ao mesmo
+ 00:49:29
+
+tempo a ter acesso a algumas informações
+ 00:49:31
+
+sobre custos e essa parte foi um dos
+ 00:49:34
+
+Desafios que a gente teve nesse trabalho
+ 00:49:36
+
+também esse trabalho ele começou a ser
+ 00:49:38
+
+feito ano passado e ainda nessa
+ 00:49:40
+
+perspectiva de tentar conseguir essas
+ 00:49:43
+
+informações a gente foi
+ 00:49:45
+
+ah foi tentando contatos diretos com
+ 00:49:47
+
+essas entidades prestadoras do serviço
+ 00:49:49
+
+de ater digital que a gente já conhecia
+ 00:49:51
+
+então fizemos uma entrevistas
+ 00:49:53
+
+perguntamos algumas coisas e pedimos
+ 00:49:55
+
+para elas indicarem outras outras
+ 00:49:57
+
+empresas semelhantes não conseguimos uma
+ 00:49:59
+
+amostra muito grande e fomos uma
+ 00:50:01
+
+pesquisa documental muito robusta
+ 00:50:03
+
+procurando os insites de empresas
+ 00:50:04
+
+documentos oficiais quem seriam essas
+ 00:50:06
+
+empresas que já fazem serviço de até
+ 00:50:07
+
+digital
+ 00:50:10
+
+Ah num segundo momento querendo ampliar
+ 00:50:11
+
+esse quantitativo de empresas fizemos um
+ 00:50:14
+
+questionário semiestruturado que foi
+ 00:50:16
+
+divulgado em uma série de canais pod det
+ 00:50:18
+
+teres um pouco mais para frente mas
+ 00:50:21
+
+inclusive na rede Aurora a junto à rede
+ 00:50:22
+
+a da anater e dessas
+ 00:50:25
+
+dessas deste questionário a gente Partiu
+ 00:50:28
+
+para uma etapa de aprofundamento com
+ 00:50:31
+
+entrevistas a algumas delas
+ 00:50:33
+
+eh sobre esse Universo de análise a duas
+ 00:50:36
+
+fontes muito importantes que a gente
+ 00:50:39
+
+teve foi o radar agtec que faz um
+ 00:50:41
+
+mapeamento de startups do setor Agro
+ 00:50:43
+
+brasileiro e focamos na empresas de
+ 00:50:45
+
+extensão como a gente fala da da questão
+ 00:50:46
+
+do ater digital a gente viu que existe
+ 00:50:48
+
+hoje um espaço grande para as startups
+ 00:50:51
+
+elas vem crescendo nesse cenário mas
+ 00:50:53
+
+fomos também olhar as idades de ater
+ 00:50:55
+
+credenciadas da anater lembrando anater
+ 00:50:57
+
+Talvez seja a nível Federal uma das
+ 00:51:00
+
+instituições mais importantes para
+ 00:51:02
+
+comentar esse tipo de atividade hoje
+ 00:51:03
+
+para prestar esse serviço junto à
+ 00:51:05
+
+organização junto aer você tem que est
+ 00:51:06
+
+credenciado nessa base e como eles TM
+ 00:51:09
+
+esses contatos todos esses e-mail essa
+ 00:51:12
+
+facilidade de acesso pedimos o apoio
+ 00:51:14
+
+para envio desse questionário então
+ 00:51:15
+
+enviamos para diversas fontes e o
+ 00:51:17
+
+questionário recebeu 44 respostas dessas
+ 00:51:19
+
+44 fizemos um filtro não é recebemos
+ 00:51:23
+
+respostas de privadas recebemos algumas
+ 00:51:25
+
+respostas duplicadas mas Resumindo
+ 00:51:28
+
+chegamos a um número de 23 empresas E aí
+ 00:51:30
+
+de novo não é com ess fins lucrativos que
+ 00:51:34
+
+ofertam tanto serviço de até híbrida
+ 00:51:37
+
+Quanto o serviço de até exclusivamente
+ 00:51:39
+
+remota vai falar um pouco mais sobre
+ 00:51:41
+
+isso além dessas 23 como como eu falei
+ 00:51:43
+
+fizemos algumas atividades
+ 00:51:46
+
+eh alguns tipos de pesquisa
+ 00:51:48
+
+bibliográfica e descobrimos outras
+ 00:51:51
+
+quatro empresas que também esse tipo de
+ 00:51:53
+
+serviço nesse trabalho o questionário os
+ 00:51:57
+
+dados que a gente vai apresentar se
+ 00:51:59
+
+referem basicamente essas 23 empresas
+ 00:52:00
+
+Quando eu for falar das 27 eu vou fazer
+ 00:52:03
+
+esse avendo mas pro questionário paraas
+ 00:52:04
+
+análises de tipo de atendimento como que
+ 00:52:06
+
+faz frequência etc a gente tá
+ 00:52:08
+
+considerando sempre essas 23
+ 00:52:10
+
+ah em relação aos itens que foram
+ 00:52:13
+
+mapeados segmentamos em três grandes
+ 00:52:17
+
+grupos antes ah durante e depois do
+ 00:52:19
+
+atendimento antes do atendimento a gente
+ 00:52:23
+
+traz as questões relacionadas ao
+ 00:52:25
+
+planejamento ou seja quem que é o
+ 00:52:27
+
+responsável pelo atendimento quem faz a
+ 00:52:29
+
+terre digital é o mesmo técnico que faz
+ 00:52:31
+
+a presencial o material digital
+ 00:52:33
+
+utilizado se é vídeo se é áudio se é
+ 00:52:35
+
+imagem se é Podcast se a instituição
+ 00:52:37
+
+produz o próprio material ou se ela pega
+ 00:52:40
+
+de alguma fonte de alguma Biblioteca
+ 00:52:42
+
+Virtual analisamos questões relacionadas
+ 00:52:45
+
+à lgpd também Considerando que as
+ 00:52:47
+
+práticas digitais elas
+ 00:52:50
+
+ah precisam considerar essas questões
+ 00:52:52
+
+número médio de famílias até idos por
+ 00:52:55
+
+técnico por mês e analisando tanto a
+ 00:52:57
+
+questão presencial quanto a digital
+ 00:52:58
+
+frequência de contato a atividade de até
+ 00:53:01
+
+realizada equipamento utilizado
+ 00:53:04
+
+instrumento E aí ent os aplicativos
+ 00:53:06
+
+Google Meet WhatsApp entre outros como é
+ 00:53:08
+
+feita a verificação da prática
+ 00:53:10
+
+recomendada pelo extensionista e se
+ 00:53:12
+
+essas empresas colhem feedback dos
+ 00:53:14
+
+clientes dos produtores no caso e de que
+ 00:53:17
+
+forma isso é
+ 00:53:20
+
+feito em relação a custos a gente teve
+ 00:53:22
+
+muito mais dificuldade sabe que é
+ 00:53:25
+
+difícil conseguir essas informações
+ 00:53:27
+
+financeiras das empresas no geral não é as
+ 00:53:28
+
+empresas T uma certa dificuldade com
+ 00:53:30
+
+celos dessas informações S informações
+ 00:53:32
+
+de mercado são estratégicas e a gente
+ 00:53:34
+
+buscou a outros recursos a gente colocou
+ 00:53:36
+
+também no nosso questionário ah
+ 00:53:38
+
+trouxemos também algumas referências de
+ 00:53:41
+
+empresas públicas olhamos os editais da
+ 00:53:43
+
+anater que são uma a referência
+ 00:53:45
+
+importante como uma das principais
+ 00:53:47
+
+contratadas de de de aterno país e
+ 00:53:48
+
+fizemos também um mapeamento do custo de
+ 00:53:53
+
+entrada paraa oferta desse serviço nessa
+ 00:53:55
+
+apresentação ela não vai entrar ess essa
+ 00:53:58
+
+questão mas ela é muito importante
+ 00:54:01
+
+também se a gente fala de da oferta do
+ 00:54:02
+
+serviço de Atera a gente tá falando
+ 00:54:05
+
+também que produtores e extensionistas t
+ 00:54:07
+
+que ter uma tecnologia condizente
+ 00:54:09
+
+celular computador etc no caso a gente
+ 00:54:11
+
+tá falando só da da rede de extensão mas
+ 00:54:13
+
+tem que ter treinamento relacionado a
+ 00:54:15
+
+isso também tem o custo de internet tem
+ 00:54:16
+
+todo um custo associado a implementação
+ 00:54:18
+
+dessa atividade por uma empresa então
+ 00:54:21
+
+isso tá detalhado no estudo
+ 00:54:24
+
+eh Indo pros resultados aí agora só
+ 00:54:28
+
+trazendo o panorama dessas 27
+ 00:54:30
+
+instituições ah conseguimos identificar
+ 00:54:32
+
+empresas de quase todas as regiões do do
+ 00:54:35
+
+país não conseguimos não tivemos
+ 00:54:37
+
+respostas na verdade de empresas da
+ 00:54:39
+
+região norte e as empresas que
+ 00:54:41
+
+responderam ao nosso questionário são
+ 00:54:43
+
+predominantemente da região Nordeste e
+ 00:54:45
+
+da região Sudeste do país centroeste
+ 00:54:47
+
+também teve representantes e o sul da
+ 00:54:49
+
+mesma forma uma pergunta que colocamos
+ 00:54:51
+
+também nesse questionário é se essa
+ 00:54:54
+
+empresa ela entendia que ela prestava
+ 00:54:55
+
+assistência técnica ou extensão rural ou
+ 00:54:58
+
+ambos e Vimos que a a maior parte
+ 00:55:00
+
+prestava tanto assistência técnica
+ 00:55:04
+
+quanto extensão Rural mas em alguns
+ 00:55:06
+
+casos algumas empresas só faziam
+ 00:55:08
+
+assistência técnica então que é o que a
+ 00:55:09
+
+gente imagina também principalmente para
+ 00:55:12
+
+as empresas que oferecem apenas a Tera
+ 00:55:14
+
+exclusivamente
+ 00:55:15
+
+remota dentro dessa linha não é voltando
+ 00:55:17
+
+novamente para as 23 empresas que a
+ 00:55:20
+
+gente analisou todas elas ofereciam
+ 00:55:22
+
+atividades de ater eh híbrida eu falei o
+ 00:55:25
+
+termo errado no último slide perdão o
+ 00:55:29
+
+essas 23 empresas analisadas oferecem a
+ 00:55:32
+
+modalidade presencial junto com a
+ 00:55:35
+
+modalidade digital sendo que três delas
+ 00:55:37
+
+oferecem também o serviço de ater
+ 00:55:40
+
+exclusivamente remoto então pegando em
+ 00:55:43
+
+termos de percentual a gente tem em
+ 00:55:46
+
+torno de 10% 10 a 15% das empresas
+ 00:55:49
+
+também ofertando essa modalidade
+ 00:55:53
+
+Ah uma outra pergunta também que a gente
+ 00:55:59
+
+fez foi o perfil do beneficiário desse
+ 00:56:01
+
+serviço de aterra no geral São
+ 00:56:04
+
+agricultores familiares com o cendap
+ 00:56:06
+
+esses números essa soma elas passam dos
+ 00:56:09
+
+23 não é se você soma passa por muito é que
+ 00:56:11
+
+uma empresa atende mais de um perfil de
+ 00:56:13
+
+beneficiário então também tivemos
+ 00:56:15
+
+empresas atendendo médio produtor grande
+ 00:56:17
+
+produtor produtor Urbano e peré Urbano
+ 00:56:18
+
+mas o que chama atenção na verdade nesse
+ 00:56:21
+
+slide é que já existem empresas
+ 00:56:23
+
+trabalhando com metodologias híbridas
+ 00:56:26
+
+eh com povos e comunidades tradicionais
+ 00:56:28
+
+quilombolas indígenas pescadoras entre
+ 00:56:32
+
+outros os próximos slides eu vou entrar
+ 00:56:34
+
+na na nas questões específicas de
+ 00:56:36
+
+atendimento que eu trouxe do slide
+ 00:56:38
+
+anterior mas é importante vocês terem em
+ 00:56:40
+
+mente que a gente tá falando no geral de
+ 00:56:42
+
+empresas que fazem a ter híbrida não é
+ 00:56:45
+
+exclusivamente remoto então esses dados
+ 00:56:48
+
+eles vão se requerir mais a esse tipo de
+ 00:56:50
+
+instituição Ah não isso aqui tem um um
+ 00:56:53
+
+slide antes que eu acho que também ele é
+ 00:56:56
+
+interessante que é o número dessas
+ 00:56:57
+
+empresas a quantidade dessas empresas
+ 00:56:59
+
+que já que fazem Aé remota e já tiveram
+ 00:57:02
+
+a ou participaram de alguma chamada
+ 00:57:06
+
+pública da anater a gente não tá dizendo
+ 00:57:09
+
+que essas empresas prestaram atividades
+ 00:57:11
+
+remotas nos editais de anater mas o que
+ 00:57:14
+
+a gente quis inferir com esse dado é que
+ 00:57:16
+
+se a anater quiser fomentar mais esse
+ 00:57:18
+
+tipo de ação tem espaço porque as
+ 00:57:20
+
+empresas que trabalham com ela já
+ 00:57:22
+
+ofertam isso em outros projetos então
+ 00:57:23
+
+caso a a anater venha aumentar as
+ 00:57:26
+
+possibilidades de interação remota entre
+ 00:57:29
+
+produtores e técnicos ah existe a
+ 00:57:30
+
+expertise lá dentro das empresas que
+ 00:57:33
+
+prestam essa esse tipo de serviço cabe
+ 00:57:34
+
+só ressalva também que a anater hoje nos
+ 00:57:37
+
+editais que ela lança ela já prevê
+ 00:57:40
+
+atividades presenciais quanto virtuais e
+ 00:57:41
+
+isso tem crescido muito ao longo dos
+ 00:57:44
+
+anos especialmente a partir da pandemia
+ 00:57:46
+
+em 2022 2023 foram anos de avanço
+ 00:57:48
+
+considerável tinam muit pouquíssimas
+ 00:57:52
+
+possibilidades de atendimento remoto
+ 00:57:54
+
+2022 em 2024 hoje você já pode fazer
+ 00:57:56
+
+atendimentos individuais atendimentos
+ 00:57:58
+
+coletivos eventos coletivos de ater e
+ 00:58:00
+
+até algumas articula algumas reuniões de
+ 00:58:03
+
+articulação também são permitidas e
+ 00:58:05
+
+quantificáveis para recebimento pelas
+ 00:58:07
+
+instituições
+ 00:58:09
+
+a quanto ao perfil dessas instituições a
+ 00:58:10
+
+gente viu também um perfil muito variado
+ 00:58:14
+
+não é eram instituições privadas do
+ 00:58:15
+
+terceiro setor empresas de assessoria
+ 00:58:17
+
+institutos agrotécnicas associações
+ 00:58:19
+
+cooperativas até empresas do sistema
+ 00:58:21
+
+S bem indo pro pra parte de metodologia
+ 00:58:24
+
+que a gente mapeou nesse estudo Ah
+ 00:58:28
+
+observamos que 75% da aproximadamente
+ 00:58:31
+
+75% das instituições pesquisadas o mesmo
+ 00:58:34
+
+técnico que faz a ter digital é o
+ 00:58:38
+
+técnico que faz o atendimento presencial
+ 00:58:40
+
+e a gente percebeu que as razões por
+ 00:58:42
+
+trás disso provavelmente são custos não é
+ 00:58:45
+
+ter dois profissionais encarece essa
+ 00:58:47
+
+atividade e também questão de se teria
+ 00:58:49
+
+que dar dois treinamentos administração
+ 00:58:52
+
+e supervisão das equipes seriam maiores
+ 00:58:53
+
+Ah o otimização de Recursos Humanos um
+ 00:58:55
+
+oferecimento de uma abordagem mais
+ 00:58:57
+
+integrada e personalizada e holística
+ 00:58:59
+
+para esses beneficiários e
+ 00:59:01
+
+principalmente uma continuidade e
+ 00:59:02
+
+consistência das informações no serviço
+ 00:59:04
+
+de at prestados esse técnico faz
+ 00:59:06
+
+acompanhamento de Campo ele sabe
+ 00:59:08
+
+exatamente o que tá acontecendo com o
+ 00:59:09
+
+produtor e encaminha faz o atendimento
+ 00:59:10
+
+direcionado com o que ele tá vendo esses
+ 00:59:12
+
+outros 25% não é que são por exemplo
+ 00:59:15
+
+técnicos
+ 00:59:17
+
+eh diferentes que fazem o atendimento
+ 00:59:19
+
+virtual e o presencial o que a gente viu
+ 00:59:21
+
+em alguns casos são subcontratações a
+ 00:59:24
+
+nível local dando só um exemplo para
+ 00:59:27
+
+ficar mais fácil uma instituição por
+ 00:59:29
+
+exemplo de São Paulo participa de um
+ 00:59:30
+
+edital
+ 00:59:32
+
+eh ganha e subcontrata por exemplo uma
+ 00:59:33
+
+empresa para fazer o atendimento a nível
+ 00:59:37
+
+local então isso a gente viu em alguns
+ 00:59:39
+
+casos que o o técnico que faz o
+ 00:59:41
+
+presencial não é o mesmo que faz o
+ 00:59:44
+
+digital não são todos os casos mas esse
+ 00:59:45
+
+foi um exemplo que a gente viu e que
+ 00:59:47
+
+chamou a nossa atenção
+ 00:59:49
+
+ah uma outra pergunta que a gente
+ 00:59:51
+
+colocou no questionário foi relacionado
+ 00:59:54
+
+aos materiais digitais que essas
+ 00:59:56
+
+instituições usam o que a gente viu que
+ 00:59:57
+
+é uma questão interessante é que no
+ 01:00:00
+
+geral elas utilizam bibliotecas virtuais
+ 01:00:02
+
+mas quase toda a instituição tende a
+ 01:00:04
+
+produzir seu próprio material é o
+ 01:00:07
+
+material que eu tô falando é fotos cards
+ 01:00:08
+
+material técnico pedagógico textos
+ 01:00:10
+
+folhetos vídeos e isso tem de encarecer
+ 01:00:12
+
+o serviço Então esse é um ponto para
+ 01:00:15
+
+apoderação dessas instituições que
+ 01:00:17
+
+prestam essa atividade em relação aos
+ 01:00:18
+
+materiais predominantes a gente viu que
+ 01:00:21
+
+100% das empresas utilizam fotos e cards
+ 01:00:24
+
+e a segunda opção com maior eh número de
+ 01:00:27
+
+respondentes foram os folhetos
+ 01:00:30
+
+informativos em
+ 01:00:33
+
+78% vídeos também foram importantes
+ 01:00:34
+
+áudios também foram mas esses dois foram
+ 01:00:36
+
+os principais e esse dado ele eh é
+ 01:00:39
+
+relevante Porque nas conversas que que
+ 01:00:44
+
+pelo menos eu tenho e outros colegas a
+ 01:00:46
+
+gente sempre escuta que produtor gosta
+ 01:00:48
+
+muito de receber áudio gosta muito de
+ 01:00:50
+
+vídeo mas na prática esse formato ele é
+ 01:00:52
+
+um pouco menos usual
+ 01:00:54
+
+essa tabela que tá nesse slide ela é
+ 01:00:56
+
+interessante porque ela é do censo
+ 01:00:58
+
+agropecuária 2017 desses que o dout o
+ 01:00:59
+
+professor Marcelo trouxe aqui pra gente
+ 01:01:02
+
+também e ele segmenta a a fonte da
+ 01:01:04
+
+origem da orientação técnica recebido
+ 01:01:07
+
+pelos produtores E aí segmentando em
+ 01:01:09
+
+familiar e não familiar e o que ele
+ 01:01:11
+
+mostra que na agricultura familiar isso
+ 01:01:13
+
+em 2017 a televisão e o rádio eram os
+ 01:01:15
+
+principais meios de recebimento de
+ 01:01:17
+
+orientação doos produtores e seguido
+ 01:01:19
+
+depois das reuniões técnicas e
+ 01:01:22
+
+seminários Então os meios meos digitais
+ 01:01:24
+
+em alguma medida Internet ali já tava não é
+ 01:01:27
+
+2017 ctig provavelmente vai crescer no
+ 01:01:28
+
+próximo Censo mas os meios digitais e
+ 01:01:30
+
+remotos Eles são muito importantes desde
+ 01:01:33
+
+sempre para para para esse produtor
+ 01:01:35
+
+receber algum tipo de
+ 01:01:37
+
+informação uma outra questão que a gente
+ 01:01:40
+
+verificou também foi a questão da lgpd
+ 01:01:43
+
+se esses ex existencialistas que
+ 01:01:45
+
+trabalham com meos digitais recebem
+ 01:01:47
+
+alguma capacitação em relação a isso e a
+ 01:01:48
+
+grande maioria recebe
+ 01:01:51
+
+ah sendo que quando recebe que a maior
+ 01:01:52
+
+parte é feito por treinamento online
+ 01:01:56
+
+seguido dos treinamentos presenciais
+ 01:01:58
+
+tiveram casos de empresas que relataram
+ 01:02:00
+
+também disponibilização de manuais guias
+ 01:02:02
+
+impressos a políticas documentadas
+ 01:02:04
+
+materiais digitais consultoria jurídica
+ 01:02:06
+
+externa entre outras coisas
+ 01:02:08
+
+ô Rodrigo eh Opa por favor professor
+ 01:02:10
+
+então só eh destacando um outro fato aí
+ 01:02:14
+
+de legislação é a questão que algumas
+ 01:02:18
+
+atividades eh profissionais ainda não
+ 01:02:20
+
+estão regulamentado o uso disso então
+ 01:02:23
+
+por exemplo no caso da veterinária não é no
+ 01:02:25
+
+você uma série de eh atendimento
+ 01:02:28
+
+veterinário ainda você não tem uma
+ 01:02:31
+
+recomendação por parte de conselho não
+ 01:02:32
+
+tem uma legislação específica que
+ 01:02:34
+
+permita você fazer isso de maneira
+ 01:02:36
+
+online não é então é importante também essa
+ 01:02:38
+
+questão de o que que é permitido ser
+ 01:02:42
+
+feito ou não pelas leis que regem
+ 01:02:44
+
+determinada atividade profissional exato
+ 01:02:47
+
+ótimo ponto Professor tem atividades
+ 01:02:50
+
+inclusive pelo que eu me recordo D
+ 01:02:52
+
+conversa que não podem ser feitas de de
+ 01:02:54
+
+maneira eh digital Talvez o primeiro
+ 01:02:55
+
+contato precisa ser presencial pode ser
+ 01:02:58
+
+continuado no digital
+ 01:02:59
+
+e enfim é um campo que tá evoluindo na
+ 01:03:01
+
+verdade na nessa questão de legislação
+ 01:03:04
+
+também
+ 01:03:07
+
+ah um outro ponto desse trabalho Talvez
+ 01:03:08
+
+seja um dos principais resultados que a
+ 01:03:11
+
+gente encontrou é que
+ 01:03:12
+
+a comparando a modalidade híbrida com a
+ 01:03:14
+
+presencial os respondentes do
+ 01:03:17
+
+questionário indicaram um número muito
+ 01:03:19
+
+parecido no número de famílias por mês
+ 01:03:21
+
+por técnico todos apontaram que atendem
+ 01:03:24
+
+mais de 30 famílias a gente viu uma
+ 01:03:26
+
+ligeira Ah um ligeiro aumento quando
+ 01:03:28
+
+você coloca uma modalidade híbrida
+ 01:03:32
+
+incluindo atividades digitais mas a os
+ 01:03:33
+
+números de certa forma são similares
+ 01:03:36
+
+Então esse discurso que você incluir
+ 01:03:39
+
+atividades digitais aumenta muito o
+ 01:03:42
+
+quantitativo de famílias atendidas não é
+ 01:03:44
+
+verdade por completo mas o que a gente
+ 01:03:47
+
+viu por outro lado É que olhando os
+ 01:03:50
+
+manuais que a gente tem hoje de de ater
+ 01:03:52
+
+da de diversas organizações a gente tem
+ 01:03:54
+
+que com atividades presenciais esse
+ 01:03:57
+
+técnico Ele visita o produtor de quatro
+ 01:03:59
+
+a seis vezes por ano ou seja um
+ 01:04:01
+
+atendimento ah presencial ocorrendo
+ 01:04:03
+
+entre três a qu meses
+ 01:04:06
+
+geralmente com as atividades
+ 01:04:08
+
+digitais a gente tem essa interação
+ 01:04:11
+
+entre técnico e produtor ocorrendo de
+ 01:04:14
+
+acordo com o relato dessas empresas
+ 01:04:16
+
+semanalmente quinzenalmente e
+ 01:04:19
+
+mensalmente na maioria dos casos
+ 01:04:20
+
+semanalmente ou quinzenalmente então a
+ 01:04:22
+
+ter digital tá ao mesmo tempo que ela
+ 01:04:25
+
+aumenta o quantitativo de produtores
+ 01:04:27
+
+atendidos por técnico Não muito mas
+ 01:04:28
+
+aumenta ela aumenta muito a qualidade
+ 01:04:30
+
+desse atendimento se a gente fala de um
+ 01:04:33
+
+processo de construção de ensino
+ 01:04:35
+
+aprendizagem quanto mais interações você
+ 01:04:37
+
+tiver nesse período melhor esse produtor
+ 01:04:39
+
+ele realmente fica assistido durante
+ 01:04:41
+
+esse período e possibilita uma série de
+ 01:04:43
+
+troca de informações e atividades dentro
+ 01:04:45
+
+desse desse período onde ele não tá
+ 01:04:47
+
+recebendo essa visita
+ 01:04:50
+
+ah indo para para as questões
+ 01:04:53
+
+durante o atendimento não é parte dela eu
+ 01:04:56
+
+já acabei falando agora sobre frequência
+ 01:04:58
+
+de contato não é 30% dessas empresas
+ 01:05:00
+
+relataram o contato ocorrendo
+ 01:05:02
+
+mensalmente
+ 01:05:05
+
+eh entre técnico e produtor e mais 30
+ 01:05:06
+
+semanalmente então 60% dessas empresas
+ 01:05:10
+
+relataram um aumento muito grande dessa
+ 01:05:13
+
+interação quanto ao equipamento
+ 01:05:15
+
+utilizado a pergunta que foi feita era
+ 01:05:17
+
+Qual equipamento essa empresa esse
+ 01:05:20
+
+técnico ele utiliza ser smartphone
+ 01:05:21
+
+computador tablet desktop eh notebook e
+ 01:05:23
+
+como já esperado o smartphone foi o
+ 01:05:28
+
+principal que também é o equipamento
+ 01:05:31
+
+utilizado pelos produtores também na em
+ 01:05:33
+
+sua maioria E aí as razões pelo celular
+ 01:05:35
+
+ah a gente entende que passa pela
+ 01:05:37
+
+questão do do preço mobilidade do do
+ 01:05:40
+
+aparelho e a questão da
+ 01:05:43
+
+multifuncionalidade e flexibilidade você
+ 01:05:43
+
+pode mandar mensagem de voz você pode
+ 01:05:46
+
+mandar mensagem de texto você pode
+ 01:05:47
+
+mandar fazer uma vídeochamada você tem
+ 01:05:49
+
+as redes sociais Você tem uma série de
+ 01:05:51
+
+formas de interação E aí E aí retomando
+ 01:05:53
+
+os dados da ctic mostrando que realmente
+ 01:05:56
+
+celular é o meio mais comum também e o
+ 01:05:58
+
+mais frequente até no meio Rural entre
+ 01:06:01
+
+os produtores Então são Dados que que
+ 01:06:02
+
+convergem
+ 01:06:05
+
+ah em relação a às atividades e
+ 01:06:07
+
+ferramentas que são utilizadas o
+ 01:06:11
+
+WhatsApp foi disparado a que foi mais
+ 01:06:12
+
+utilizada pelo que eu me recordo 100%
+ 01:06:15
+
+das empresas falaram que usam um
+ 01:06:17
+
+WhatsApp para conversar com o produtor e
+ 01:06:18
+
+acho que isso é para quem tá no campo
+ 01:06:20
+
+sabe que acho que todo extensionista
+ 01:06:22
+
+hoje em dia tem o telefone produtor e
+ 01:06:24
+
+vice-versa seguido pelo Google meets e o
+ 01:06:26
+
+que eles fazem predominantemente em
+ 01:06:29
+
+termos de atendimento são
+ 01:06:31
+
+teleatendimentos individuais e esses
+ 01:06:32
+
+teleatendimentos eles pelo pelos relatos
+ 01:06:35
+
+eles têm uma duração média de 10 minutos
+ 01:06:38
+
+podendo chegar até 1 h30 dependendo do
+ 01:06:40
+
+tema que for abordado e se tiver mais
+ 01:06:42
+
+gente também um outro ponto que a gente
+ 01:06:45
+
+mapeou e aí tanto pela literatura quanto
+ 01:06:48
+
+pelos relatos é que a doação de
+ 01:06:50
+
+equipamentos como smartphones para
+ 01:06:53
+
+produtor não é uma experiência tão
+ 01:06:55
+
+positiva primeiro tem um custo muito
+ 01:06:57
+
+elevado e segundo que foi percebido por
+ 01:06:59
+
+essas empresas que os telefones estavam
+ 01:07:02
+
+sendo utilizados para diversos outros
+ 01:07:04
+
+fins que não só para a terra digital
+ 01:07:05
+
+muitas vezes até danificados quebrados
+ 01:07:08
+
+então em termos de custo benefício não
+ 01:07:09
+
+foi uma ação tão
+ 01:07:11
+
+vantajosa Rodrigo
+ 01:07:13
+
+eh pode falar só um ponto um ponto em
+ 01:07:16
+
+relação a isso é assim Os relatos eles
+ 01:07:19
+
+indicam que seria muito relevante você
+ 01:07:22
+
+investir em infraestruturas coletivas de
+ 01:07:23
+
+tecnologia de informação e comunicação
+ 01:07:26
+
+Então você tem uma associação a sede da
+ 01:07:28
+
+associação
+ 01:07:30
+
+eh o grupo escolar ou a cooperativa
+ 01:07:31
+
+esses investimentos em infraestrutura
+ 01:07:35
+
+coletiva eles têm melhor resultado não
+ 01:07:37
+
+sei se você concorda com isso não
+ 01:07:40
+
+concordo 100% Professor um comentário
+ 01:07:41
+
+bom que o senhor fez
+ 01:07:43
+
+ah indo para pras questões após o
+ 01:07:47
+
+atendimento
+ 01:07:49
+
+eh sobre a questão da prática
+ 01:07:50
+
+recomendada pelo extensionista o que a
+ 01:07:53
+
+gente viu é que o o mais frequente são a
+ 01:07:55
+
+as visitas
+ 01:07:59
+
+presenciais assim como a utilização do
+ 01:08:00
+
+relato direto ou do registro fotográfico
+ 01:08:03
+
+do Produtor em 22% dos casos ah a gente
+ 01:08:05
+
+entende que a questão da predominância
+ 01:08:09
+
+das visitas presenciais para a
+ 01:08:11
+
+verificação dessa prática se deve muito
+ 01:08:12
+
+ao fato de ser o mesmo técnico que faz a
+ 01:08:13
+
+a que faz o atendimento digital e o
+ 01:08:16
+
+presencial também vimos também que
+ 01:08:19
+
+grande parte dessas empresas coleta
+ 01:08:22
+
+feedback dos clientes sobre
+ 01:08:24
+
+a sobre a realização dessas práticas de
+ 01:08:26
+
+que são oferecidas sendo que a maioria
+ 01:08:30
+
+coleta por meio de entrevistas e 39% por
+ 01:08:32
+
+meio de service Então esse é um pouco do
+ 01:08:35
+
+Panorama que a gente conseguiu
+ 01:08:37
+
+identificar sobre Como as empresas
+ 01:08:39
+
+privadas estão prestando esse serviço de
+ 01:08:42
+
+de ater digital não é Lembrando que o
+ 01:08:44
+
+digital aqui tá sendo utilizado como
+ 01:08:46
+
+sinônimo de de híbrido e esse slide
+ 01:08:47
+
+Talvez esteja pequeno para vocês verem
+ 01:08:50
+
+na na apresentação ele sumariza todos
+ 01:08:52
+
+esses elos Ah ele traz nesse quadro
+ 01:08:54
+
+Quais foram as opções de maior aderência
+ 01:08:57
+
+ou seja maior frequência entre essas
+ 01:09:00
+
+empresas então aqui por exemplo no caso
+ 01:09:02
+
+do pegando só o primeiro item para ficar
+ 01:09:04
+
+mais fácil a compreensão da tabela onde
+ 01:09:06
+
+tem o responsável pelo atendimento não
+ 01:09:08
+
+colocamos todas as opções colocamos só
+ 01:09:09
+
+as opções
+ 01:09:11
+
+que que mais apareceram não é 74% relatam
+ 01:09:13
+
+que o atendimento remoto e presencial é
+ 01:09:17
+
+feito pela mesma pessoa então no caso do
+ 01:09:19
+
+frequência de contato as opções foram
+ 01:09:22
+
+mensalmente e o semanalmente as mais
+ 01:09:24
+
+frequentes então foi foram nessa tabela
+ 01:09:26
+
+Ela traz o que é como se fosse as
+ 01:09:30
+
+práticas mais visuais de at digital
+ 01:09:32
+
+sendo realizadas pelas empresas do
+ 01:09:34
+
+Brasil ah um outro ponto importante
+ 01:09:40
+
+também e indo agora talvez por uma uma
+ 01:09:42
+
+questão um pouco mais prática é que a
+ 01:09:46
+
+inclusão dessas atividades digitais de
+ 01:09:47
+
+ater independente da forma como ela seja
+ 01:09:49
+
+feita se vai ser atendimento individual
+ 01:09:51
+
+se vai ser coletivo a a literatura
+ 01:09:53
+
+aponta que elas devem seguir
+ 01:09:56
+
+independente do serviço e do tipo de
+ 01:09:58
+
+produtor seis etapas que passam Desde da
+ 01:10:00
+
+sensibilização diagnóstico a criação de
+ 01:10:04
+
+unidades ou ou ou mostrar essas unidades
+ 01:10:07
+
+de referência paraos produtores
+ 01:10:11
+
+atendimentos individuais atendimentos
+ 01:10:13
+
+coletivos e uso de aplicativos e
+ 01:10:15
+
+plataformas
+ 01:10:16
+
+digitais nesse slide também disponível
+ 01:10:18
+
+na no nosso trabalho a gente quis trazer
+ 01:10:20
+
+um pouco na prática trazendo um
+ 01:10:23
+
+calendário do que que seria um
+ 01:10:24
+
+planejamento de ater incluindo
+ 01:10:26
+
+atividades presenciais e remotas as
+ 01:10:28
+
+atividades em azul são a atividades
+ 01:10:30
+
+presenciais e as atividades marcadas em
+ 01:10:34
+
+verde são atividades remotas então e em
+ 01:10:36
+
+cima a gente tem de um a 12 não é seriam os
+ 01:10:38
+
+meses do ano e de 1 a 15 as linhas
+ 01:10:41
+
+seriam opções de atendimento então a
+ 01:10:44
+
+gente entende isso aqui foi conversa com
+ 01:10:46
+
+com com a própria rede de ater que as
+ 01:10:48
+
+primeiras atividades diagnóstico
+ 01:10:50
+
+predominantemente é interessante que
+ 01:10:52
+
+sejam feito presenciais sensibilização
+ 01:10:54
+
+Com certeza ah algumas reuniões são
+ 01:10:56
+
+passíveis de serem feitas de forma
+ 01:10:58
+
+online mas quando se trata do
+ 01:11:00
+
+atendimento e ali a gente tá falando das
+ 01:11:02
+
+linhas de 10 a 15 a 14 aproximadamente
+ 01:11:03
+
+esses momentos de atendimento presencial
+ 01:11:08
+
+e coletivo eles podem se mesclar
+ 01:11:10
+
+totalmente então por exemplo no mês 4ro
+ 01:11:12
+
+esse produtor pode receber um
+ 01:11:14
+
+atendimento presencial e até a próxima
+ 01:11:15
+
+visita que seria por exemplo em Julho
+ 01:11:18
+
+Agosto no mês 8 eh ele pode receber um
+ 01:11:20
+
+conjunto de atendimentos online que
+ 01:11:23
+
+apoiaria essa ação esse atendimento ele
+ 01:11:26
+
+pode vir desde uma simples troca de
+ 01:11:28
+
+mensagens até uma vídeochamada e foram
+ 01:11:29
+
+aqueles exemplos que a gente foi
+ 01:11:32
+
+trazendo nesse processo a gente pode
+ 01:11:33
+
+trazer também a ações coletivas e a
+ 01:11:36
+
+gente tá falando tanto de atendimento
+ 01:11:38
+
+coletivo como eventos coletivos de ater
+ 01:11:40
+
+professor Marcelo trouxe muito bem o
+ 01:11:43
+
+exemplo do intercâmbio um evento
+ 01:11:44
+
+coletivo de ater que pode ser feito de
+ 01:11:46
+
+uma maneira virtual então esses momentos
+ 01:11:47
+
+eles se intercalam e se complementam por
+ 01:11:50
+
+fim colocamos também a questão da
+ 01:11:53
+
+avaliação Isso é só um exemplo de um
+ 01:11:54
+
+cronograma tentativa mesclando Essas
+ 01:11:56
+
+atividades bem eh dentro dessas
+ 01:12:00
+
+possibilidades de atendimento que a
+ 01:12:03
+
+gente tem Por meios digitais a gente tem
+ 01:12:05
+
+falado muito da questão da assistência
+ 01:12:07
+
+técnica digital não é em questão da
+ 01:12:09
+
+educação treinamento acesso a ferramenta
+ 01:12:10
+
+de produção Mas a gente pode colocar
+ 01:12:13
+
+também outros tipos de informações
+ 01:12:15
+
+digitais à disposição desses produtores
+ 01:12:18
+
+então podemos colocar por exemplo
+ 01:12:21
+
+serviços de preços logística condições
+ 01:12:23
+
+de solo informações meteorológicas
+ 01:12:26
+
+sistemas de alertas is podem todos
+ 01:12:27
+
+apoiar o o o processo produtivo desse
+ 01:12:29
+
+produtor sistemas financeiros
+ 01:12:32
+
+ferramentas de gestão financeira e
+ 01:12:34
+
+acesso a Crédito Rural por exemplo ah
+ 01:12:36
+
+sistemas e digitalização de cadeia de
+ 01:12:38
+
+suplimentos registro de informações
+ 01:12:40
+
+ferramentas de planejamento
+ 01:12:42
+
+compartilhamento de implementos
+ 01:12:43
+
+transporte compartilhado de produtos
+ 01:12:45
+
+insumos e também a questão de venda de
+ 01:12:46
+
+produtos agrícolas compra de insumos
+ 01:12:50
+
+também o digital ele pode ser utilizado
+ 01:12:51
+
+em várias Vertentes isso aqui a gente só
+ 01:12:54
+
+quer trazer alguns desses elementos e o
+ 01:12:55
+
+próximo slide ele traz na verdade um uma
+ 01:12:58
+
+recomendação para qualquer instituição
+ 01:13:02
+
+que queira trabalhar com a ter digital
+ 01:13:05
+
+no seu escopo de atuação o que a gente
+ 01:13:07
+
+entende é que existem pelo menos seis
+ 01:13:10
+
+eixos temáticos que essas empresas devem
+ 01:13:12
+
+considerar então caso uma empresa decida
+ 01:13:14
+
+por exemplo a partir de hoje estruturar
+ 01:13:17
+
+um plano para trabalhar com essas
+ 01:13:18
+
+metodologias híbridas ela deve buscar
+ 01:13:20
+
+trabalhar com a parte de desb com a
+ 01:13:22
+
+menor burocratização desses documentos
+ 01:13:25
+
+acesso a conhecimento disponibilização
+ 01:13:28
+
+de bibliotecas virtuais
+ 01:13:30
+
+digitais a questão da
+ 01:13:32
+
+infraestrutura ela é essencial e com
+ 01:13:35
+
+fomento e estreitamento da comunicação
+ 01:13:37
+
+digital Rural tá basicamente quando fala
+ 01:13:40
+
+de at digital estamos falando de
+ 01:13:41
+
+comunicação então estamos falando
+ 01:13:43
+
+disponibilização de equipamentos para
+ 01:13:45
+
+extensionistas e assessorias de
+ 01:13:46
+
+comunicação estruturadas Para apoiar os
+ 01:13:48
+
+extensionistas nesse processo e noos
+ 01:13:50
+
+próprios teleatendimentos Falamos também
+ 01:13:51
+
+de atividades
+ 01:13:54
+
+e assíncronas de ou seja lives cursos
+ 01:13:55
+
+webinários e também a utilização
+ 01:13:59
+
+disponibilização de vídeos no YouTube
+ 01:14:02
+
+por exemplo e se possível e se houver
+ 01:14:03
+
+necessidade também desenvolvimento de
+ 01:14:07
+
+plataformas virtuais aplicativos
+ 01:14:09
+
+próprios chatbot plataformas de ensino
+ 01:14:11
+
+entre
+ 01:14:13
+
+outras bem então sobre metodologia de at
+ 01:14:16
+
+Esses foram os principais resultados e
+ 01:14:19
+
+agora a gente vai falar também sobre a
+ 01:14:21
+
+questão dos custos Associados a a a esse
+ 01:14:23
+
+a esse tipo de
+ 01:14:27
+
+serviço importante a gente deixar claro
+ 01:14:29
+
+que Diferentemente das metodologias a
+ 01:14:31
+
+gente teve muito menos acesso a essas
+ 01:14:33
+
+informações e aí a gente parte do do
+ 01:14:35
+
+princípio E aí acho que onde as
+ 01:14:38
+
+informações são públicas dos editais da
+ 01:14:40
+
+nater considerando os últimos editais da
+ 01:14:43
+
+nater 2023 2024 a gente tem esse custo
+ 01:14:45
+
+variando por família de 3.500 a 4500
+ 01:14:48
+
+dependendo tanto das modalidades
+ 01:14:52
+
+oferecidas Mas também da região onde
+ 01:14:53
+
+serviço é ofertado região norte por
+ 01:14:56
+
+exemplo no edital do bolsa verde a gente
+ 01:14:58
+
+tem esses valores de 4500 região
+ 01:15:00
+
+Nordeste a gente conseguiu esses valores
+ 01:15:01
+
+em 3.500 4000 podendo chegar aos 4500
+ 01:15:03
+
+também isso que nem eu trouxe varia
+ 01:15:06
+
+dependendo do serviço mas essa é a
+ 01:15:08
+
+referência de custo que a gente
+ 01:15:11
+
+tem esse quadro que tá nesse slide
+ 01:15:13
+
+também ele é interessante porque ele foi
+ 01:15:16
+
+tirado de um dos próprios editais acho
+ 01:15:19
+
+que no caso aqui de uma oficina da
+ 01:15:21
+
+anater mostrando os custos referência
+ 01:15:22
+
+que a Mater paga para cada uma dessas
+ 01:15:25
+
+atividades então se você Comparar as
+ 01:15:27
+
+equivalentes presenciais e digitais a
+ 01:15:30
+
+gente tem que as digitais Elas têm um
+ 01:15:32
+
+curo um custo muito inferior geralmente
+ 01:15:34
+
+50% podendo chegar a 70% aqui nesse
+ 01:15:36
+
+estudo de maneira nenhuma a gente tá
+ 01:15:40
+
+falando que uma que um atendimento
+ 01:15:41
+
+virtual ele substitui um presencial mas
+ 01:15:43
+
+dentro de um escopo num num num
+ 01:15:46
+
+atendimento continuado para esse
+ 01:15:48
+
+produtor essas práticas elas podem ser
+ 01:15:50
+
+incorporadas por ter esse custo menor
+ 01:15:52
+
+então só trazendo aqui como um exemplo o
+ 01:15:54
+
+custo de uma atividade individual de
+ 01:15:57
+
+ater presencial Acho que é em torno de
+ 01:15:58
+
+350 enquanto a sua equivalente digital é
+ 01:16:01
+
+140 a mesma coisa nos eventos coletivos
+ 01:16:03
+
+estão ali circulados então se você
+ 01:16:07
+
+conseguir fazer uma metodologia
+ 01:16:09
+
+incluindo esses esses tipos de
+ 01:16:10
+
+atendimento a gente entende Como Um
+ 01:16:13
+
+Mundo Ideal até pensando nessa redução
+ 01:16:15
+
+de custos e aumento dessa interação do
+ 01:16:16
+
+com com o produtor
+ 01:16:18
+
+eh saindo um pouco do âmbito público e
+ 01:16:23
+
+indo pro mercado privado eh utilizamos
+ 01:16:26
+
+como referência também acho que o nosso
+ 01:16:29
+
+primeiro estudo para referência foi um
+ 01:16:31
+
+estudo feito pelo próprio fida que vem
+ 01:16:33
+
+tentando eh melhorar o serviço de
+ 01:16:35
+
+assistência técnica dentro dos seus
+ 01:16:37
+
+projetos junto com a ONG eh quantidade
+ 01:16:39
+
+Catinga que ajudou muito a gente também
+ 01:16:42
+
+durante as entrevistas e outras etapas
+ 01:16:44
+
+desse trabalho nesse trabalho que eles
+ 01:16:46
+
+eh fizeram em 2021 eles analisaram as
+ 01:16:49
+
+diferenças de curo de uma ter presencial
+ 01:16:53
+
+e de uma ter presencial potencializada
+ 01:16:56
+
+com a remota que nesse trabalho a gente
+ 01:16:58
+
+tá chamando de a ter eh híbrida e dentro
+ 01:17:00
+
+desse trabalho ainda é possível a gente
+ 01:17:03
+
+fazer uma distinção
+ 01:17:05
+
+ah
+ 01:17:07
+
+do desse serviço de ater híbrido
+ 01:17:09
+
+oferecendo com custos ou sem custos de
+ 01:17:12
+
+infraestrutura Então a gente tem os
+ 01:17:14
+
+valores globais eles previam nesse
+ 01:17:16
+
+trabalho de atendimento de 1000 famílias
+ 01:17:17
+
+por um período de 3 anos Talvez para
+ 01:17:19
+
+ficar mais fácil Essa última coluna ela
+ 01:17:21
+
+mostra o custo família por ano então
+ 01:17:23
+
+quando a gente fala de uma terra
+ 01:17:25
+
+totalmente presencial a gente os valores
+ 01:17:26
+
+que eles encontraram foi em torno de
+ 01:17:29
+
+3.558 por família quando a gente tem uma
+ 01:17:32
+
+matéria híbrida com os custos de
+ 01:17:36
+
+infraestrutura E aí aquisição de
+ 01:17:37
+
+equipamentos que a gente sabe que é
+ 01:17:39
+
+muito elevado esse custo fica mais alto
+ 01:17:40
+
+mas a gente sabe também que não é o caso
+ 01:17:42
+
+de todas as instituições que vão
+ 01:17:44
+
+trabalhar com esse tema elas
+ 01:17:45
+
+provavelmente vão não vão fornecer
+ 01:17:47
+
+telefone pros produtores da mesma forma
+ 01:17:49
+
+pros extensionistas então a gente acha
+ 01:17:51
+
+que o custo na última linha seja mais
+ 01:17:53
+
+adequado para essa análise que mostra um
+ 01:17:54
+
+custo para essa P híbrida de
+ 01:17:57
+
+3161 ou seja Vamos colocar ali que ela é
+ 01:17:59
+
+a 70% do valor então de novo a gente
+ 01:18:02
+
+traz a questão que até híbrida E aí
+ 01:18:05
+
+falando Chamando ela digital para
+ 01:18:09
+
+facilitar ela você consegue aumentar o
+ 01:18:11
+
+quantitativo de produtores atendidos em
+ 01:18:13
+
+torno de 20% não é tanto mas é um número
+ 01:18:15
+
+considerável principalmente se a gente
+ 01:18:18
+
+for falar de um quantitativo muito
+ 01:18:20
+
+grande de famílias atendidas ela é mais
+ 01:18:21
+
+barata também não é tão mais barata mas
+ 01:18:23
+
+é mais barata mas o ponto que a gente
+ 01:18:26
+
+gostaria de frisar é que até quando com
+ 01:18:28
+
+adicionada com ações digitais ela é
+ 01:18:32
+
+muito mais eficiente e muito mais
+ 01:18:34
+
+interativa com o produtor talvez esse
+ 01:18:36
+
+seja um ponto que a gente entende como
+ 01:18:37
+
+relevante no trabalho
+ 01:18:41
+
+eh olhando também esse aqui agora já são
+ 01:18:44
+
+resultados do próprio trabalho e aí as
+ 01:18:47
+
+entrevistas com as 23 organizações que
+ 01:18:49
+
+responderam o questionário a gente
+ 01:18:51
+
+perguntou sobre as faixas de valor que
+ 01:18:52
+
+elas vendiam faixa de valor quanto que
+ 01:18:54
+
+elas cobravam do Produtor então a
+ 01:18:56
+
+maioria 30 30% cobrava até R 208 mensais
+ 01:18:58
+
+um número elevado também cobrava até 258
+ 01:19:02
+
+e até 308 também então somando 17,5 mais
+ 01:19:06
+
+17,5 mais 30% na última coluna A gente
+ 01:19:09
+
+tem que 60% das empresas tem um custo de
+ 01:19:13
+
+até 38 por mês o que dá por ano R
+ 01:19:18
+
+3696 3600 6700 que é semelhante aos
+ 01:19:22
+
+outros valores que a gente tem
+ 01:19:27
+
+encontrado
+ 01:19:28
+
+eh por último esse dado ah nessa tabela
+ 01:19:31
+
+a gente traz um comparativo das três
+ 01:19:36
+
+modalidades de at que a gente tá usando
+ 01:19:38
+
+nesse trabalho ater presencial como
+ 01:19:40
+
+referência o paradigma que que a gente
+ 01:19:42
+
+tinha até pouco tempo essa ater
+ 01:19:44
+
+potencializada ater presencial
+ 01:19:46
+
+potencializada com a remoto a ter
+ 01:19:48
+
+híbrida e a ter exclusivamente digital
+ 01:19:49
+
+que a gente conseguiu mapear também
+ 01:19:51
+
+nesses três casos essa tabela
+ 01:19:53
+
+infelizmente ela tem que ser eh
+ 01:19:55
+
+analisada com uma tensão maior porque as
+ 01:19:57
+
+fontes de dados são de origem diferentes
+ 01:19:59
+
+Então as comparações a gente tem que
+ 01:20:01
+
+ficar um pouco mais atento mas eu acho
+ 01:20:02
+
+que ela serve para ilustrar o pouco que
+ 01:20:04
+
+a gente tá falando na ter presencial a
+ 01:20:06
+
+gente encontrou esse valor de 3.500 a
+ 01:20:08
+
+4000 4500 na ter híbrida a gente tem
+ 01:20:10
+
+esse valor de 3.96 que foi o valor mais
+ 01:20:14
+
+comum que a gente encontrou e na Tera
+ 01:20:16
+
+exclusivamente remota aí esse valor
+ 01:20:19
+
+chama muita atenção que é um valor de
+ 01:20:21
+
+319 por ano se você comparar o valor do
+ 01:20:25
+
+do do mês de 333 por exemplo da ter
+ 01:20:30
+
+presencial comparando com o o valor que
+ 01:20:33
+
+a gente encontrou paraa ter
+ 01:20:36
+
+exclusivamente digital a gente tem que
+ 01:20:38
+
+um ano da Digital ela equivale a um mês
+ 01:20:40
+
+da 100% presencial ou a híbrida então o
+ 01:20:44
+
+para alguns casos a gente entende que
+ 01:20:47
+
+ela tem um potencial muito grande de ser
+ 01:20:49
+
+utilizada Ah mas a gente sabe também das
+ 01:20:50
+
+limitações que que que existe também mas
+ 01:20:53
+
+é um É um cenário que permite a gente
+ 01:20:56
+
+fazer algumas extrapolações muito
+ 01:20:58
+
+interessantes de como usar esse serviço
+ 01:21:00
+
+e acho que esse slide ele só reforça o
+ 01:21:05
+
+que a gente vinha falando não é o custo por
+ 01:21:09
+
+si só não é a principal edificativa para
+ 01:21:11
+
+incorporação de estratégias digitais
+ 01:21:12
+
+como complemento à ações presenciais na
+ 01:21:15
+
+terra principalmente na comparação da at
+ 01:21:16
+
+híbrida com a presencial A grande
+ 01:21:19
+
+diferença das modalidades reside no fato
+ 01:21:21
+
+de se aumentar signific
+ 01:21:23
+
+significativamente a quantidade das
+ 01:21:24
+
+interações entre produtores e
+ 01:21:26
+
+extensionistas ao mesmo tempo que se
+ 01:21:28
+
+reduzem os custos com a incorporação das
+ 01:21:30
+
+estratégias digitais o contato entre o
+ 01:21:32
+
+produtor e extensionista passa a ser
+ 01:21:34
+
+semanal ou quinzenal na maioria das
+ 01:21:35
+
+vezes dessa forma melhora-se serviço
+ 01:21:37
+
+como um todo e ainda permite um aumento
+ 01:21:39
+
+de 20% no número de famílias atendidas
+ 01:21:41
+
+conforme relato das empresas analisadas
+ 01:21:44
+
+então isso eu acho que é um ponto
+ 01:21:46
+
+relevante pra gente
+ 01:21:49
+
+considerar um outro elemento também não é É
+ 01:21:51
+
+é que analisando os dados dessas
+ 01:21:54
+
+empresas Os relatos que elas têm são
+ 01:21:56
+
+interessantíssimos e uma delas aponta
+ 01:21:58
+
+que no atendimento híbrido um técnico
+ 01:22:01
+
+possui capacidade de realizar 10
+ 01:22:03
+
+atendimentos isso dentro de um período
+ 01:22:06
+
+de um mês não é 10 atendimentos presenciais
+ 01:22:07
+
+e 70 atendimentos online presencialmente
+ 01:22:10
+
+esse técnico consegue eh fazer 20
+ 01:22:12
+
+atendimentos presenciais isso só
+ 01:22:15
+
+considerando presencial e lembrando aqui
+ 01:22:17
+
+que a gente tá falando só de média com
+ 01:22:19
+
+certeza tem casos onde o presencial
+ 01:22:21
+
+consegue fazer muito mais da da mesma
+ 01:22:23
+
+forma que na modalidade híbrida mas o
+ 01:22:24
+
+que isso significa que quando da
+ 01:22:26
+
+incorporação da atividade remota junto a
+ 01:22:28
+
+ter presencial existe um aumento de até
+ 01:22:30
+
+400% do potencial do atendimento de ater
+ 01:22:32
+
+junto aos
+ 01:22:35
+
+produtores E isso tem implicações
+ 01:22:36
+
+diretas nos curos serviço de até a gente
+ 01:22:39
+
+também não pode desconsiderar um outro
+ 01:22:41
+
+exemplo interessante também que a gente
+ 01:22:43
+
+viu é que entre essas empresas que fazem
+ 01:22:45
+
+Aé exclusivamente remota ah a gente tem
+ 01:22:46
+
+que um técnico consegue atender até 1000
+ 01:22:50
+
+famílias que é um número muito alto Ah
+ 01:22:52
+
+quando a gente Analisa os dados dessas
+ 01:22:55
+
+empresas que a gente conversou até os
+ 01:22:57
+
+dados da própria a gente tem uma média
+ 01:22:59
+
+de 100 famílias por técnico Às vezes
+ 01:23:01
+
+aqui a gente colocou como valor de
+ 01:23:04
+
+referência 80 famílias por técnico no
+ 01:23:05
+
+presencial Então é só como referência
+ 01:23:07
+
+também as possibilidades que a gente
+ 01:23:10
+
+tem e por último só para trazer um um
+ 01:23:12
+
+caso concreto do de uma oportunidade de
+ 01:23:16
+
+uma possibilidade que a gente entende
+ 01:23:19
+
+onde a a a atéa exclusivamente remota
+ 01:23:20
+
+ela pode ser uma opção interessante a
+ 01:23:23
+
+gente traz um relato de um dos
+ 01:23:26
+
+extensionistas que participou do nosso
+ 01:23:28
+
+do da nossa das nossas entrevistas e
+ 01:23:30
+
+esse relato ele Ele conta a respeito
+ 01:23:33
+
+de do do do caso onde uma empresa de
+ 01:23:36
+
+ater privada Fazendo atividade
+ 01:23:40
+
+presencial Foi contratada via chamada
+ 01:23:41
+
+pública de 2 anos o que esse
+ 01:23:43
+
+extensionista citou é que o é uma
+ 01:23:45
+
+comunidade de aproximadamente 70
+ 01:23:47
+
+famílias trabalhando com essa empresa de
+ 01:23:50
+
+ater contratada por do anos foi
+ 01:23:52
+
+incentivada a trabalhar com frango de
+ 01:23:53
+
+corte recebendo apoio da ter e obteve
+ 01:23:55
+
+muito sucesso no primeiro ciclo com toda
+ 01:23:58
+
+a produção estruturada com crédito
+ 01:24:00
+
+fomento acesso ao Pronaf no segundo
+ 01:24:01
+
+ciclo de criação contudo quando a
+ 01:24:03
+
+empresa de ater teve que se retirar do
+ 01:24:05
+
+projeto devido ao fim do contrato ah
+ 01:24:06
+
+resultou numa perda de controle sobre
+ 01:24:09
+
+questões nutricionais e sanitárias além
+ 01:24:11
+
+da morte dos animais além disso a
+ 01:24:13
+
+articulação da compra e a base animais
+ 01:24:15
+
+que também era mediada pela empresa de
+ 01:24:17
+
+ater foi fortemente impactada e vários
+ 01:24:19
+
+animais morreram e não foi possível
+ 01:24:21
+
+encontrar compra
+ 01:24:23
+
+no momento do ponto de abate em resumo o
+ 01:24:24
+
+que esse técnico relatou é que a ter
+ 01:24:28
+
+temporária deixou mais deixou prejuízo
+ 01:24:30
+
+maiores do que os existentes antes do
+ 01:24:32
+
+início do serviço nesse sentido a tela
+ 01:24:34
+
+exclusivamente digital poderia ter sido
+ 01:24:36
+
+utilizada para dar seguimo as ações de
+ 01:24:38
+
+acompanhamento onde casos onde projetos
+ 01:24:41
+
+de ater presencial ou híbrida não são
+ 01:24:42
+
+viáveis devido a custos então por
+ 01:24:44
+
+exemplo num projeto de ater que vai ser
+ 01:24:47
+
+descontinuado às vezes pelo custo uma
+ 01:24:48
+
+Mat Terra digital poderia fazer esse
+ 01:24:51
+
+esse acompanhamento Então esse é um
+ 01:24:53
+
+ponto que a gente imagina como sendo
+ 01:24:55
+
+Ah interessante para ser
+ 01:24:58
+
+explorado ah finalizando o estudo
+ 01:25:01
+
+perguntamos também sobre as vantagens
+ 01:25:05
+
+desvantagens e efetividade da ter
+ 01:25:07
+
+digital para essas empresas vantagens
+ 01:25:09
+
+flexibilidade de horários e redução do
+ 01:25:11
+
+custo principalmente desvantagens
+ 01:25:12
+
+Barreiras tecnológicas do usuário e
+ 01:25:14
+
+falta de interação pessoal e limitação
+ 01:25:16
+
+de conectividade a gente já sabe que é
+ 01:25:17
+
+um problema mais de 75% das empresas
+ 01:25:19
+
+consideram A AT eh digital efetiva ou
+ 01:25:22
+
+muito efetiva um grupo também considerou
+ 01:25:26
+
+pouco efetivo e perguntamos sobre
+ 01:25:28
+
+perspectivas de futuro e 65 dessas
+ 01:25:31
+
+instituições falaram que estão focadas
+ 01:25:35
+
+em aprimorar continuamente esse serviço
+ 01:25:36
+
+e que pretendem continuar com ele no
+ 01:25:39
+
+futuro por último indo paraas
+ 01:25:41
+
+considerações finais o que a gente
+ 01:25:43
+
+gostaria de destacar é que qualquer
+ 01:25:45
+
+projeto instituição que tem que incluir
+ 01:25:47
+
+ações remotas
+ 01:25:48
+
+Ah e metodologias deve dentro do de
+ 01:25:50
+
+atuação ela deve se preocupar em mitigar
+ 01:25:54
+
+os possíveis efeitos negativos causados
+ 01:25:57
+
+pelos distanciamentos Então ela deve Com
+ 01:25:59
+
+certeza escolher a ferramenta digital
+ 01:26:02
+
+mais adequada com a metodologia de
+ 01:26:05
+
+atuação para cada ah produtor se se
+ 01:26:06
+
+atentar as questões éticas e Morais em
+ 01:26:09
+
+relação ao uso e compartilhamento de
+ 01:26:11
+
+dados pessoais assim no que se refere à
+ 01:26:13
+
+atuação técnica legalmente exclusiva de
+ 01:26:15
+
+cada profissão um pouco do que o
+ 01:26:17
+
+professor Marcelo trouxe cuidado no
+ 01:26:19
+
+emprego de signos linguagem gestos
+ 01:26:21
+
+comportamentos nas idades virtuais
+ 01:26:23
+
+respeitando limitando as limitações e os
+ 01:26:25
+
+saberes tradições e a cultura dos
+ 01:26:27
+
+sujeitos levar em consideração a
+ 01:26:29
+
+natureza do trabalho a ser realizado
+ 01:26:31
+
+pelo produtor incluir uma avaliação após
+ 01:26:32
+
+o contato isso é muito importante também
+ 01:26:34
+
+e sempre que possível priorizar
+ 01:26:36
+
+interações multidisciplinares
+ 01:26:38
+
+construtivistas participativas
+ 01:26:40
+
+dialéticas que promovam diálogo
+ 01:26:42
+
+Independência e autonomia dos
+ 01:26:44
+
+beneficiários conforme estabelecido na
+ 01:26:45
+
+Pina
+ 01:26:47
+
+terra é isso muito obrigado
+ 01:26:49
+
+muito bom muito bom excelente vamos
+ 01:26:56
+
+remover aqui Parabéns aí baita
+ 01:27:00
+
+apresentação essa aqui vai ficar pra
+ 01:27:03
+
+história aqui da do canal e da do da ar
+ 01:27:05
+
+de Aurora aqui muito legal muitos dados
+ 01:27:09
+
+muita muita informação isso aqui vai
+ 01:27:12
+
+servir para várias aulas inclusive
+ 01:27:14
+
+também a formação de extensionistas vou
+ 01:27:17
+
+comentar aqui o pessoal que tá presente
+ 01:27:19
+
+assim para começar a interação de depois
+ 01:27:22
+
+eu passo
+ 01:27:24
+
+Professor o pessoal aqui a Caroline tá
+ 01:27:25
+
+presente aqui o ío de São Paulo temos
+ 01:27:29
+
+aqui também o
+ 01:27:32
+
+Bruno Andreia aqui que é futura
+ 01:27:34
+
+extensionista aqui do colégio
+ 01:27:36
+
+politécnico não é técnico cultura quase
+ 01:27:38
+
+formada já não é André já é formada em
+ 01:27:41
+
+outras áreas do conhecimento o professor
+ 01:27:44
+
+Eduard Edinaldo Michel també está
+ 01:27:46
+
+presente o Renato exista de
+ 01:27:49
+
+Brasília galera aí a Daniela presente a
+ 01:27:54
+
+Flávia aí Flávia a Flávia aí da ipag não é
+ 01:27:57
+
+do nosso famoso Zap
+ 01:28:01
+
+Rural quem mais temos aqui
+ 01:28:04
+
+Raimundo pessoal do Ipa aí presente
+ 01:28:07
+
+obrigado pela presença o IP muito
+ 01:28:10
+
+importante agora vamos com um comentário
+ 01:28:12
+
+aqui da da Flávia da ipag ela faz o
+ 01:28:14
+
+seguinte comentário estudo de utilidade
+ 01:28:17
+
+pública esses indicadores pois referenci
+ 01:28:20
+
+trabalhos realizados pelas diferentes
+ 01:28:24
+
+empresas de extensão indica os caminhos
+ 01:28:26
+
+para que os serviços sejam efetivos
+ 01:28:29
+
+parabéns então aí tá parabenizando aí e
+ 01:28:31
+
+essa Grande live de hoje muito boa mesmo
+ 01:28:35
+
+e o professor o Renato fala o seguinte
+ 01:28:38
+
+Parabéns professor Marcel e Rodrigo
+ 01:28:41
+
+excelente apresentação quero destacar a
+ 01:28:43
+
+importância da rede Aurora para o
+ 01:28:45
+
+referencial teórico que usamos nesse
+ 01:28:47
+
+estudo muito bacana e Renato ainda
+ 01:28:48
+
+não é que sobre a liderança Professor Zuin
+ 01:28:54
+
+Ezequiel tem construído um conjunto
+ 01:28:56
+
+importante de conhecimentos e saberes em
+ 01:28:59
+
+a digital para Brasil e América Latina
+ 01:29:01
+
+muito bom muito
+ 01:29:04
+
+bom Renato muito muito
+ 01:29:06
+
+político Egídio
+ 01:29:09
+
+parabéns pelo trabalho professor Marcelo
+ 01:29:12
+
+e Rodrigo Esse vídeo é para ser visto
+ 01:29:15
+
+visto várias vezes concordo
+ 01:29:18
+
+absolutamente de tanta informação
+ 01:29:20
+
+importante que foram apresentar
+ 01:29:22
+
+excelente muito bacana í show de bola
+ 01:29:24
+
+aqui tem o Ipa Por enquanto eu tô só
+ 01:29:28
+
+lendo os comentários porque são não tem
+ 01:29:30
+
+nenhuma pergunta específico são apenas
+ 01:29:32
+
+comentários é imprescindível para
+ 01:29:34
+
+aplicabilidade e eficácia dessas
+ 01:29:36
+
+inúmeras ferramentas digitais a
+ 01:29:38
+
+necessidade de reestruturação das
+ 01:29:40
+
+empresas e instituições de até pública
+ 01:29:42
+
+Esse é o
+ 01:29:46
+
+comentário e mais um aí parabéns pela
+ 01:29:47
+
+apresentação Aé digital é uma realidade
+ 01:29:50
+
+muito bom Ignácio obrigado pela pelo seu
+ 01:29:53
+
+comentário show de bola zim vou deixar
+ 01:29:56
+
+para ti aí fazer a interlocução
+ 01:29:59
+
+agora pessoal muito bacana a pesquisa
+ 01:30:01
+
+muito muito legal não é Unos dados muito
+ 01:30:06
+
+importantes faltava uma pesquisa dessa
+ 01:30:09
+
+aqui no Brasil não é a gente sabe que
+ 01:30:12
+
+principalmente o pessoal da da CEPAL lá
+ 01:30:15
+
+no Chile não é eles já eles fizeram algo
+ 01:30:17
+
+semelhante com vocês ali nas pesquisas
+ 01:30:21
+
+deles mas essa questão de quantificar não é
+ 01:30:23
+
+Essa da os serviços de até não é remota
+ 01:30:26
+
+presencial e totalmente remoto a gente
+ 01:30:30
+
+não tinha ainda então é é muito bacana
+ 01:30:32
+
+não é Vocês estão de parabéns não é uma coisa
+ 01:30:34
+
+que eu acho que talvez essas essas
+ 01:30:37
+
+talvez esses números mudem com o tempo
+ 01:30:42
+
+não é Principalmente a questão da oferta de
+ 01:30:44
+
+de serviços de até remoto não é mais pro
+ 01:30:48
+
+remoto do que o presencial é a questão
+ 01:30:51
+
+da tecnologia da de comunicação e de
+ 01:30:54
+
+informação só para vocês terem uma ideia
+ 01:30:57
+
+eu tava essa semana conversando com uma
+ 01:30:59
+
+professora colega minha não é da da USP e
+ 01:31:01
+
+quando chega a pandemia no Brasil eu só
+ 01:31:05
+
+dei uma aula presencial em 2020 e depois
+ 01:31:08
+
+a USP já foi pro pro remoto não é e e eu
+ 01:31:12
+
+lembro que a gente receb um e-mail da
+ 01:31:16
+
+graduação de como que a gente com o
+ 01:31:19
+
+tutorial não é na pró retoria de gradua
+ 01:31:21
+
+pção com tutorial falando como é que a
+ 01:31:23
+
+gente deveria utilizar o Google Meet
+ 01:31:25
+
+para dar as aulas e eu nunca tinha usado
+ 01:31:28
+
+o Google Meet nunca tinha entrado no
+ 01:31:30
+
+Google Meet não é então então para ver como
+ 01:31:33
+
+é que a gente não é em 4 anos a gente
+ 01:31:36
+
+evoluiu tanto não é para tá aqui nesse
+ 01:31:38
+
+momento não é o Ezequiel em Santa Maria e
+ 01:31:42
+
+eu não é aqui em São Carlos o professor
+ 01:31:44
+
+Marcelo tá em Viçosa não é e o e o Rodrigo
+ 01:31:48
+
+tá em Brasília não é daí tem um alguns
+ 01:31:52
+
+conceitos bacana um conceito bacana do
+ 01:31:56
+
+Pr Levi que ele fala do real no virtual
+ 01:31:58
+
+e o real no atual não é então o que a gente
+ 01:32:01
+
+tá tendo aqui é uma palestra real no
+ 01:32:05
+
+virtual não é e podia ser uma palestra
+ 01:32:08
+
+híbrida uma palestra real no atual não é
+ 01:32:11
+
+pro pro PR Levi o atual é essa esse
+ 01:32:14
+
+momento não é que cada um de nós tá vivendo
+ 01:32:17
+
+na concretude do mundo não é nos seus
+ 01:32:19
+
+locais aí não é não é no se os escritórios em
+ 01:32:21
+
+suas casas não é e assim por diante n e e
+ 01:32:25
+
+hoje não é por causa dos do do da
+ 01:32:28
+
+tecnologia não é embarcada nos telefones
+ 01:32:32
+
+celulares principalmente não é que tá todo
+ 01:32:34
+
+momento com a gente
+ 01:32:36
+
+não é ela esse esse real virtual e real no
+ 01:32:38
+
+atual não é as fronteiras estão cada vez
+ 01:32:42
+
+menores não é então quando a gente passa
+ 01:32:44
+
+Isso paraa Produção agropecuária não é a
+ 01:32:47
+
+gente não é pensando também na questão da
+ 01:32:50
+
+agricultura familiar não é a gente pensa o
+ 01:32:53
+
+potencial enorme ainda que a gente não
+ 01:32:57
+
+não tá utilizando não é Essas tecnologias
+ 01:32:59
+
+de comunicação digitais para os serviços
+ 01:33:02
+
+de ater não é enorme por exemplo não é assim
+ 01:33:05
+
+não é Essa questão de diagnóstico de pragas
+ 01:33:09
+
+em culturas não é pensando na agricultura
+ 01:33:13
+
+familiar pensando naquele naquele na
+ 01:33:16
+
+dissertação da Paloma não é que o produtor
+ 01:33:19
+
+tem 32 G de memória então ele vai ter
+ 01:33:22
+
+que se comunicar com como com o
+ 01:33:24
+
+extensionista por meio do WhatsApp não é
+ 01:33:26
+
+então a gente pensa pô Será que não
+ 01:33:29
+
+teria como o agricultor tirar uma foto
+ 01:33:31
+
+do WhatsApp essa foto vai para uma ia
+ 01:33:33
+
+uma Embrapa ou algum outro setor de
+ 01:33:36
+
+pesquisa dá o diagnóstico dessa dessa
+ 01:33:38
+
+foto e já manda pro produtor via o
+ 01:33:41
+
+WhatsApp entendeu não é não é via
+ 01:33:42
+
+aplicativo via WhatsApp aquilo que ele
+ 01:33:45
+
+utiliza não é isso pensando na agricultura
+ 01:33:47
+
+familiar não é então a gente tem um
+ 01:33:49
+
+potencial Porque na minha época não é a
+ 01:33:53
+
+gente tinha que pegar essa ou o técnico
+ 01:33:55
+
+e a campo ou você pegar uma amostra e
+ 01:33:57
+
+levar para esse técnico em algum outro
+ 01:33:59
+
+lugar fora da sua propriedade não é então
+ 01:34:01
+
+quando a gente pensa não é nessa questão
+ 01:34:03
+
+remota que hoje não é Eu concordo que é um
+ 01:34:06
+
+tabu ainda a gente pensar uma terra
+ 01:34:09
+
+remota não é também não é um tabu em muitos
+ 01:34:11
+
+lugares é é é lugar que veio para ficar
+ 01:34:14
+
+e A grande questão é como é que a gente
+ 01:34:18
+
+se posiciona perante isso e daí é tão
+ 01:34:20
+
+importante trabalho como de vocês não é Por
+ 01:34:22
+
+exemplo só para terminar a minha fala
+ 01:34:25
+
+aqui não é
+ 01:34:27
+
+o uma dissertação da da Mariana uma
+ 01:34:29
+
+orientando a minha não é Tem relatos de
+ 01:34:32
+
+agricultoras não é de de do oeste do
+ 01:34:34
+
+Paraná de produtores de café da
+ 01:34:38
+
+Agricultura Familiar idosas que elas
+ 01:34:41
+
+falam Nossa agora que tem internet no
+ 01:34:42
+
+meu domicílio Rural e tem e tem eu
+ 01:34:46
+
+recebo os a burocracia não é documentos não é
+ 01:34:49
+
+pelo WhatsApp eu não preciso mais viajar
+ 01:34:53
+
+33 km para ir pra cidade e voltar a 33
+ 01:34:56
+
+km não é para para pegar um documento algum
+ 01:34:59
+
+papel ali não é eu resolvo muita coisa hoje
+ 01:35:03
+
+pelo telefone celular pelo WhatsApp não é
+ 01:35:06
+
+então isso isso então existem acho que
+ 01:35:08
+
+alguns Alguns alguns aspectos da vida
+ 01:35:11
+
+das pessoas que que vai partir n que nem
+ 01:35:14
+
+a gente mesmo não é acho que a maioria de
+ 01:35:17
+
+nós aqui dificilmente vai num banco hoje
+ 01:35:19
+
+não é tudo é feito pelo ainda mais depois
+ 01:35:21
+
+da pandemia não é então e eh eh o que eu
+ 01:35:23
+
+quero só tô dando a volta ao mundo para
+ 01:35:26
+
+falar que que o seu estudo o estudo de
+ 01:35:28
+
+vocês abre uma possibilidade enorme não é
+ 01:35:31
+
+de a gente utilizar as tecnologias de
+ 01:35:34
+
+comunicação digital para encontros
+ 01:35:37
+
+presenciais e remotos também e que
+ 01:35:39
+
+existe um um real no virtual e existe um
+ 01:35:41
+
+real no atual não é e e e e e e que a gente
+ 01:35:43
+
+tem que estudos como o de vocês também
+ 01:35:48
+
+quebram esses ajudam a quebrar esses
+ 01:35:51
+
+tabus a gente tá querendo ter uma
+ 01:35:53
+
+proximidade cada vez maior com os
+ 01:35:55
+
+produtores rurais seja do ponto de vista
+ 01:35:57
+
+remoto ou presencial seão de Parabéns
+ 01:35:59
+
+pessoal muito bacana
+ 01:36:02
+
+mesmo palavra com
+ 01:36:04
+
+vocês professor Marcelo por favor sim e
+ 01:36:11
+
+eu eu gostaria eh Zuin de reforçar uma
+ 01:36:14
+
+questão do Papel aí das políticas
+ 01:36:18
+
+públicas e o papel do estado de maneira
+ 01:36:20
+
+geral que deveria ser indutor desse
+ 01:36:23
+
+processo não é a gente sabe aí que a gente
+ 01:36:25
+
+precisa colocar os incentivos nos locais
+ 01:36:28
+
+corretos e é fundamental ainda eu não
+ 01:36:30
+
+consigo perceber ainda que tudo isso foi
+ 01:36:34
+
+incorporado aí nas polí Apesar não é a
+ 01:36:37
+
+apresentação gente mostra que os editais
+ 01:36:40
+
+eles têm alguma coisa mas você precisa
+ 01:36:42
+
+ter uma ação mais efetiva e assim
+ 01:36:44
+
+historicamente não é a gente tem observado
+ 01:36:47
+
+que o serviço de até eles não têm muito
+ 01:36:50
+
+apoio político muitas vezes porque não
+ 01:36:53
+
+tem uma segunda literatura não tem um
+ 01:36:55
+
+resultado tão Evidente Às vezes você não
+ 01:36:58
+
+encontra um resultado tão Evidente do
+ 01:37:00
+
+serviço de atéa aí é fundamental que
+ 01:37:02
+
+você tem estudos que aval o impacto da
+ 01:37:04
+
+atéa e mostra porque isso traz mais
+ 01:37:07
+
+evidências disso não é a gente sente uma
+ 01:37:09
+
+certa falta de estudos mais assim mas
+ 01:37:11
+
+também a gente sente uma certa falta de
+ 01:37:14
+
+que você vê aí esses incentivos aí de
+ 01:37:17
+
+bio inovação criação de hubs e de tudo
+ 01:37:19
+
+de bio inovação Mas você você não vê nas
+ 01:37:22
+
+políticas públicas incentivos para como
+ 01:37:24
+
+você colocou aí esses Desafios que tem
+ 01:37:27
+
+eles dependem muito de inovação eh de
+ 01:37:29
+
+uso desses instrumentos assim e que a
+ 01:37:32
+
+gente precisaria reforçar muito que isso
+ 01:37:35
+
+fosse incorporado nos incentivos
+ 01:37:37
+
+públicos muito bem muito importante essa
+ 01:37:42
+
+questão fá Rodrigo Professor só só
+ 01:37:46
+
+alguns outros pontos também não é não
+ 01:37:50
+
+queria esquecer e fazer agrade
+ 01:37:51
+
+alguns colegas a diversas das fotos que
+ 01:37:54
+
+a gente utilizou na publicação e eram de
+ 01:37:56
+
+da própria rede Aurora de vários membros
+ 01:37:59
+
+ess agradecimento também a própria
+ 01:38:01
+
+literatura que a gente citou a parte
+ 01:38:02
+
+introdutória do trabalho é o trabalho de
+ 01:38:04
+
+todos que estão aqui sobre uma pergunta
+ 01:38:06
+
+que foi colocada no no chat o documento
+ 01:38:09
+
+ele já tá disponibilizado no site do aan
+ 01:38:11
+
+e a gente coloca também na sequência até
+ 01:38:13
+
+no grupo da da rede Aurora e um ponto
+ 01:38:15
+
+interessante sobre o o estudo que vai
+ 01:38:18
+
+ser disponibilizado os instrumentos de
+ 01:38:21
+
+coleta de também estão lá então quem
+ 01:38:22
+
+quiser replicar a a entrev o a
+ 01:38:25
+
+metodologia
+ 01:38:27
+
+Ah fica fica essa possibilidade também
+ 01:38:29
+
+trazendo também que o que a gente tá
+ 01:38:32
+
+trouxe para para Como contribuição Isso
+ 01:38:34
+
+é uma fotografia de 2024 as tecnologias
+ 01:38:38
+
+elas evoluem muito rápido se alguém
+ 01:38:40
+
+repetir essa essa pesquisa em 2025 2026
+ 01:38:43
+
+os resultados já são completamente
+ 01:38:45
+
+outros provavelmente a gente vai
+ 01:38:46
+
+conseguir ou vai vai ter relato de
+ 01:38:48
+
+Inteligência Artificial e outras coisas
+ 01:38:50
+
+também cois que a gente não tá nem
+ 01:38:52
+
+imaginando que existam
+ 01:38:54
+
+Ah uma coisa que a gente gostaria de
+ 01:38:55
+
+enfatizar é que o a gente entende que o
+ 01:38:58
+
+trabalho ele traz contribuições
+ 01:39:01
+
+relevantes Mas ele tem a limitação
+ 01:39:02
+
+também de um número reduzido de
+ 01:39:04
+
+respostas fizemos um um trabalho muito
+ 01:39:06
+
+grande de divulgação mas a gente teve
+ 01:39:09
+
+Universo de análise de 23 empresas o uma
+ 01:39:11
+
+segunda
+ 01:39:14
+
+Ah uma uma uma uma uma nova versão desse
+ 01:39:15
+
+estudo o nosso mundo ideal deveria ter
+ 01:39:20
+
+muito mais respondentes seria um
+ 01:39:23
+
+encaminhamento que a gente imaginaria
+ 01:39:25
+
+para esse trabalho e ele abre
+ 01:39:26
+
+possibilidade também pra gente ter
+ 01:39:28
+
+outros estudos não é porque não refletir
+ 01:39:30
+
+alguma coisa semelhante com a própria
+ 01:39:31
+
+rede oficial como saber como descobrir
+ 01:39:33
+
+que a rede oficial como ela tem atendido
+ 01:39:36
+
+Isso é uma das ações que a gente pensa
+ 01:39:37
+
+também basicamente isso o trabalho vai
+ 01:39:40
+
+est disponibilizado e críticas são muito
+ 01:39:42
+
+bem-vindas muito bom é eu agora que eu a
+ 01:39:48
+
+fala do Rodrigo me chama uma estão muito
+ 01:39:51
+
+importante porque a gente que trabalha
+ 01:39:53
+
+com pesquisa também não é É como está
+ 01:39:55
+
+difícil ultimamente O pessoal responder
+ 01:39:58
+
+pesquisa não é e e sem sem responder
+ 01:40:00
+
+pesquisa vocês não conseguem apresentar
+ 01:40:03
+
+essa maravilha de dados para tomar de
+ 01:40:05
+
+decisão que vocês apresentaram aqui a
+ 01:40:07
+
+gente tem muito poucos dados e vocês
+ 01:40:09
+
+conseguiram Trazer isso não é então a a
+ 01:40:11
+
+galera assim em geral não é também acho que
+ 01:40:14
+
+pode ser que saturou bastante com com
+ 01:40:16
+
+também a facilidade de envio de
+ 01:40:19
+
+perguntas não é mas eh a gente tem que
+ 01:40:22
+
+reforçar essa questão porque na extensão
+ 01:40:24
+
+oral pelo menos aqui que a gente tá
+ 01:40:26
+
+debatendo se respondam as questões
+ 01:40:28
+
+porque se elas vão ser fundamentais
+ 01:40:31
+
+depois paraa formação de políticas
+ 01:40:33
+
+públicas não é Eh para fortalecer a nossa
+ 01:40:34
+
+área de atenção Rural sem dados a gente
+ 01:40:37
+
+não consegue fazer e a gente justifica
+ 01:40:39
+
+toda hora não é que a extensão Rural ela
+ 01:40:41
+
+tem esse caráter mais qualitativo também
+ 01:40:43
+
+é difícil de mensurar mas a gente
+ 01:40:46
+
+precisa de dados para que isso possa ser
+ 01:40:48
+
+levado ali pro congresso para ser
+ 01:40:51
+
+debatido como o professor Marcelo falou
+ 01:40:53
+
+não é que que possa trazer argumentos
+ 01:40:55
+
+Claros de que a extensão oral impacta
+ 01:40:59
+
+por mais que a gente sabe que impacta
+ 01:41:01
+
+quem é da área sabe que impacta Mas às
+ 01:41:03
+
+vezes não tem o número que o pessoal
+ 01:41:05
+
+gostaria Então essa questão que faça um
+ 01:41:07
+
+apelo a quem tá aqui presente nessa Live
+ 01:41:10
+
+que quando chegar um questionário da
+ 01:41:12
+
+extensão ural preencha porque ela é é
+ 01:41:13
+
+importante ela vai vai fazer a diferença
+ 01:41:16
+
+pode não ser agora mas pode ser no
+ 01:41:18
+
+futuro não é Bueno tem uma pergunta aqui do
+ 01:41:20
+
+Ignácio que essa aqui é desafiadora eu
+ 01:41:24
+
+vou deixar aqui paraos nossos
+ 01:41:27
+
+convidados vamos lá á diz o seguinte
+ 01:41:29
+
+Como potencializar uma matéria digital
+ 01:41:33
+
+numa perspectiva
+ 01:41:35
+
+agroecológica respeitando a
+ 01:41:37
+
+dialogicidade e os conhecimentos dos
+ 01:41:39
+
+povos e seus
+ 01:41:42
+
+territórios tá com
+ 01:41:44
+
+vocês professor Marcelo eu posso talvez
+ 01:41:48
+
+começar e sen por favor me complemente
+ 01:41:50
+
+mas eh é eu eu acho que esse desafio ele
+ 01:41:53
+
+não é um desafio da terra digital mas
+ 01:41:57
+
+ele é um desafio da terra como um todo o
+ 01:41:59
+
+que a gente quis trazer nessa parte
+ 01:42:01
+
+conceitual do do do trabalho é que a
+ 01:42:02
+
+terra digital nada mais são do que
+ 01:42:05
+
+momentos da própria Terra
+ 01:42:06
+
+ah lembrando também que quando a gente
+ 01:42:08
+
+fala de uma ter digital a gente tá
+ 01:42:10
+
+falando também não de uma visão de
+ 01:42:13
+
+fusionista de transferência de
+ 01:42:15
+
+conhecimento uma uma conhecimento vendo
+ 01:42:16
+
+de cima para baixo mas a gente tem
+ 01:42:18
+
+possibilidades interacionais diversas a
+ 01:42:20
+
+gente tem a as questões de metodologias
+ 01:42:22
+
+coletivas metodologias participativas
+ 01:42:24
+
+uma vídeochamada então isso na verdade
+ 01:42:26
+
+eh é um desafio da da própria Tera e
+ 01:42:29
+
+como ela se apropria dessas Tecnologias
+ 01:42:32
+
+para favorecer essa perspectiva
+ 01:42:34
+
+agroecológica S
+ 01:42:38
+
+sim eh eu Rodrigo eu concordo com você
+ 01:42:40
+
+eu acho que hoje nós temos várias
+ 01:42:43
+
+ferramentas aí que podem potencializar
+ 01:42:45
+
+eu acho que não é você pode utilizar esses
+ 01:42:48
+
+recursos digitais no sentido de conectar
+ 01:42:52
+
+mais as pessoas e sistematizar o
+ 01:42:55
+
+conhecimento que eu acho que essa
+ 01:42:58
+
+perspectiva agroecológica a gente
+ 01:42:59
+
+precisa muito de sistematizar a
+ 01:43:01
+
+experiência não é de transformar dado
+ 01:43:04
+
+informação e conhecimento então eu vejo
+ 01:43:06
+
+que existe eh não é Eh muitas
+ 01:43:09
+
+possibilidades que as ferramentas trazem
+ 01:43:12
+
+para isso não é A questão é o uso adequado
+ 01:43:14
+
+que nós temos que dar e a formação de
+ 01:43:17
+
+pessoas não é eu vejo que a formação do
+ 01:43:20
+
+extensionista Hoje ele tem um desafio
+ 01:43:23
+
+ainda muito maior dado a saber utilizar
+ 01:43:25
+
+de maneira adequada Essas
+ 01:43:28
+
+tecnologias e professor acho que tá até
+ 01:43:31
+
+trazendo um exemplo não é a gente pode
+ 01:43:33
+
+falar aqui as diversas ventes digitais a
+ 01:43:35
+
+gente pode falar desde uma capacitação
+ 01:43:38
+
+até por exemplo o intercâmbio virtual
+ 01:43:40
+
+acontecendo dessa forma às vezes para
+ 01:43:42
+
+ver ess uma prática ag ecológica
+ 01:43:44
+
+acontecendo numa outra região passagem e
+ 01:43:45
+
+passagem é muito cara mas você pode ter
+ 01:43:49
+
+um vídeo sobre essa prática você pode
+ 01:43:50
+
+fazer inter câmbio ou seja formma de
+ 01:43:52
+
+acessar esse conhecimento pelos digitais
+ 01:43:54
+
+muito mais facilitados na
+ 01:43:56
+
+realidade sim e pensando um pouco à
+ 01:43:58
+
+frente você pode utilizar aí a
+ 01:44:01
+
+inteligência artificial regenerativa
+ 01:44:02
+
+para você simular um sistema
+ 01:44:04
+
+agroecológico Verificar como não é que ele
+ 01:44:06
+
+tá evoluindo ao longo do tempo e através
+ 01:44:09
+
+desse processo de simulação e a partir
+ 01:44:12
+
+da contribuição de cada um você pode
+ 01:44:15
+
+gerar uma série de conhecimentos e de
+ 01:44:16
+
+divulgação disso junto não é Eh eu vejo que
+ 01:44:19
+
+existe aí
+ 01:44:22
+
+a questão é a gente direcionar os nossos
+ 01:44:24
+
+esforços para esse desenvolvimento Mas
+ 01:44:26
+
+eu vejo muitas
+ 01:44:28
+
+possibilidades por exemplo só para meter
+ 01:44:30
+
+o Pitaco aqui que vocês estão falando não é
+ 01:44:33
+
+A questão por exemplo eu sou pcd eu sou
+ 01:44:35
+
+um surdo que que ouve não é eu tenho
+ 01:44:37
+
+prótese não é para colocar no ouvido e
+ 01:44:40
+
+escutar eu não vejo por exemplo uma ter
+ 01:44:42
+
+o pessoal discutindo uma ter para pcds
+ 01:44:45
+
+pessoas pcds eu tenho certeza que
+ 01:44:47
+
+pessoas pcds estão em todos os espectros
+ 01:44:49
+
+da até hoje é contemplada pelos editais
+ 01:44:52
+
+da na existem pcds em mulheres existem
+ 01:44:56
+
+pcds em quilombolas existem pcds
+ 01:44:59
+
+indígenas eu escuto isso e eu vejo a
+ 01:45:01
+
+possibilidade das tecnologias da
+ 01:45:04
+
+informação e comunicação não é auxiliar e
+ 01:45:07
+
+muito e muito não é o trabalho com pessoas
+ 01:45:09
+
+pcds não é ali não é então
+ 01:45:13
+
+Eh não é são existem existem potencial
+ 01:45:16
+
+enorme ali de você tá trabalhando a
+ 01:45:20
+
+palavra com vocês
+ 01:45:23
+
+pessoal professor se tem algum Ah por
+ 01:45:27
+
+favor não não fique à vontade não é Rodrigo
+ 01:45:30
+
+não eu só ia chamar aqui o o o Parabéns
+ 01:45:34
+
+aí da do Ipa sair não é Parabéns aos
+ 01:45:38
+
+professores Marcel e Rodrigo um grande
+ 01:45:41
+
+trabalho que abre margem para novos
+ 01:45:43
+
+estudos
+ 01:45:44
+
+verdade gostaria de complementar alguma
+ 01:45:46
+
+coisa Rodrigo pode Fique à vade só um
+ 01:45:48
+
+fechamento depois não sei se não então
+ 01:45:51
+
+vamos vamos para o fechamento até paraa
+ 01:45:54
+
+Nossa Live não ficar muito grande o
+ 01:45:55
+
+pessoal poder assistir também não é mas uma
+ 01:45:57
+
+coisa que me chamou atenção antes desse
+ 01:45:59
+
+fechamento é que eh não é Vocês comentaram
+ 01:46:01
+
+Tem várias coisas que chamaram atenção
+ 01:46:04
+
+não é não tem como não não chamar atenção
+ 01:46:06
+
+não é mas a a questão da televisão e da
+ 01:46:09
+
+rádio não é que ultrapassam as décadas e as
+ 01:46:12
+
+fronteiras não é do conhecimento isso é
+ 01:46:14
+
+muito interessante não é E isso só deixa
+ 01:46:16
+
+Claro mais uma coisa na área de extensão
+ 01:46:19
+
+Rural não é a aquela história Ah mas eu já
+ 01:46:21
+
+escrevi escreve novamente ah mas eu já
+ 01:46:23
+
+fiz uma entrevista sobre isso na na faz
+ 01:46:26
+
+uma entrevista novamente ah eu já fiz um
+ 01:46:30
+
+vídeo faz o vídeo novamente porque a
+ 01:46:32
+
+extensão oral também como educação é uma
+ 01:46:34
+
+eterna repetição não é Nós vamos ter novos
+ 01:46:37
+
+agricultores sendo formados enfim não é
+ 01:46:40
+
+novas pessoas que a gente precisa
+ 01:46:43
+
+replicar o mesmo conhecimento que foi
+ 01:46:44
+
+transmitido não é então ao longo do tempo
+ 01:46:47
+
+eh apesar de ter a rádio e a televisão
+ 01:46:49
+
+também outros canais são importantes não é
+ 01:46:53
+
+não apenas só um não é Na extensão ral isso
+ 01:46:55
+
+é muito importante e chegou aqui mais um
+ 01:46:58
+
+comentário da Flávia Professor Zuin é um
+ 01:47:00
+
+mestre sensível a toda a diversidade
+ 01:47:03
+
+temos pcds em todos os território
+ 01:47:05
+
+Professor a Flávio aqui da ipag Santa
+ 01:47:07
+
+Catarina muito bom a própria matéria aí
+ 01:47:10
+
+já tá nos editais maté Grande do Sul tem
+ 01:47:12
+
+chamado o pessoal do pcd para trabalhar
+ 01:47:15
+
+na extensão oral também bom então agora
+ 01:47:17
+
+vamos para as considerações finais não é
+ 01:47:19
+
+nosso fechamento da nossa Live porque
+ 01:47:22
+
+é muito importante gostei demais eu acho
+ 01:47:25
+
+que essa aqui vai ficar eternizada aqui
+ 01:47:28
+
+nesse canal e também no canal da arede
+ 01:47:30
+
+Aurora depois vocês vão poder acessar
+ 01:47:32
+
+vai est lá também disponível e
+ 01:47:34
+
+considerações finais professor Marcelo
+ 01:47:37
+
+Professor Rodrigo sobre essa pesquisa
+ 01:47:39
+
+sobre o que que vocês acreditam aí pra
+ 01:47:41
+
+gente fazer esse grande enceramento
+ 01:47:43
+
+fique à
+ 01:47:44
+
+vontade Professor eu vou queria fazer só
+ 01:47:47
+
+um um último agradecimento aos outros es
+ 01:47:49
+
+do trabalho não colocamos todos aqui
+ 01:47:53
+
+porque ficar um grupo muito grande fic
+ 01:47:54
+
+até difícil da gente dialogar mas a
+ 01:47:56
+
+Caroline de Deus o Bruno Machado e o
+ 01:47:58
+
+Renato Lopes também aqui fez alguns
+ 01:48:00
+
+comentários importantes e agradecer
+ 01:48:03
+
+também o apoio da da orvar E
+ 01:48:05
+
+especialmente do fida que for tem
+ 01:48:09
+
+tentado debater esse tema e trazer um
+ 01:48:11
+
+avanço para essa
+ 01:48:13
+
+área é então a gente eh para finalizar
+ 01:48:16
+
+não é Eu também faço os agradecimentos aí a
+ 01:48:20
+
+e gostaria também de parabenizar a rede
+ 01:48:23
+
+Aurora que realmente eu tenho
+ 01:48:25
+
+acompanhado o trabalho ela tem uma
+ 01:48:27
+
+contribuição extremamente relevante não é
+ 01:48:29
+
+Vocês estão de parabéns e como já foi
+ 01:48:31
+
+até citado a gente utilizou muito do
+ 01:48:33
+
+referencial de vocês aí que então vocês
+ 01:48:35
+
+vão ver ao lerem Esse estudo que não é
+ 01:48:37
+
+Vocês foram extremamente relevantes
+ 01:48:40
+
+paraa gente e a gente espera com esse
+ 01:48:42
+
+estudo poder não é contribuir nós estamos
+ 01:48:45
+
+aberto à sugestões então a gente peça
+ 01:48:47
+
+que quanto mais vocês lerem isso eh
+ 01:48:49
+
+ter os nossos contatos aí qualquer
+ 01:48:52
+
+sugestão recomendação a gente tá
+ 01:48:54
+
+bastante aberto e a gente espera aí ter
+ 01:48:58
+
+contribuído e nos colocamos aí à
+ 01:49:00
+
+disposição aí de vocês para não é outras
+ 01:49:02
+
+colaborações que forem
+ 01:49:06
+
+necessárias muito bom o o Ignácio o
+ 01:49:08
+
+Ignácio falou que ele está usando as
+ 01:49:11
+
+ferramentas digitais dentro de uma
+ 01:49:14
+
+metodologia agroecológica e gostei
+ 01:49:16
+
+bastante dos resultados grande exemplo é
+ 01:49:18
+
+isso aí eu acho que as as tecnologias
+ 01:49:20
+
+digitais estão aí também para auxiliar
+ 01:49:23
+
+aí no nosso trabalho dizer também que o
+ 01:49:25
+
+professor zoin já divulgou em todos os
+ 01:49:27
+
+grupos do WhatsApp essa a publicação
+ 01:49:29
+
+relativa a essa apresentação temos aqui
+ 01:49:31
+
+no chat se vocês não conseguindo clicar
+ 01:49:33
+
+no chat depois a gente pode botar em
+ 01:49:36
+
+forma de comentário nesse vídeo também e
+ 01:49:38
+
+falar para vocês que toda quarta-feira 9
+ 01:49:40
+
+horas da manhã nesse mesmo bate canal
+ 01:49:43
+
+nesse mesmo horário estamos aqui com
+ 01:49:45
+
+mais uma live com algum algum
+ 01:49:47
+
+especialista na área de extensão rural
+ 01:49:50
+
+no Brasil obrigado a presença de todos e
+ 01:49:51
+
+até uma próxima oportunidade tchau
+ 01:49:54
+
+tchau tchau
+ 01:49:56

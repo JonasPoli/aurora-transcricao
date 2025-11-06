@@ -1,0 +1,9 @@
+video_id: ZM4-8MXqn08
+video_url: https://www.youtube.com/watch?v=ZM4-8MXqn08
+title: Caminhos metodológicos para uma Ater digital participativa
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/3389666977978800
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/09/2021

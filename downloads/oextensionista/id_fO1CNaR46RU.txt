@@ -1,0 +1,8 @@
+video_id: fO1CNaR46RU
+video_url: https://www.youtube.com/watch?v=fO1CNaR46RU
+title: Empoderamento Feminino no Cooperativismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/06/2023

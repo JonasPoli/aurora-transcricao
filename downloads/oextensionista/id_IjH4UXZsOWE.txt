@@ -1,0 +1,8 @@
+video_id: IjH4UXZsOWE
+video_url: https://www.youtube.com/watch?v=IjH4UXZsOWE
+title: Edital de abertura da vagas para o Mestrado em Estudos Rurais da UFVJM
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/17/2024

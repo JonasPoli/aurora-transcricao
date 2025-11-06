@@ -1,0 +1,9 @@
+video_id: dyobkQZ6Ymc
+video_url: https://www.youtube.com/watch?v=dyobkQZ6Ymc
+title: Desafios e perspectivas da extensão no contexto das múltiplas transições do sistema agroalimentar
+uploader: Rede Aurora
+speaker: Sergio Schneider – UFRGS
+Lattes: http://lattes.cnpq.br/9374550818298328
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/11/2024

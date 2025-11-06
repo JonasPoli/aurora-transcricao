@@ -1,0 +1,8 @@
+video_id: zOSE5-5W2WI
+video_url: https://www.youtube.com/watch?v=zOSE5-5W2WI
+title: #roça #agro #cachoeira
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/26/2025

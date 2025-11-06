@@ -1,0 +1,9 @@
+video_id: XSO6Yjk2Xxo
+video_url: https://www.youtube.com/watch?v=XSO6Yjk2Xxo
+title: A construção do conhecimento em ATER feminista e agroecológica no Nordeste do Brasil
+uploader: Rede Aurora
+speaker: Laeticia Medeiros Jalil - UFRPE -  Serra Talhada
+Lattes: http://lattes.cnpq.br/3792267648624578
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/31/2024

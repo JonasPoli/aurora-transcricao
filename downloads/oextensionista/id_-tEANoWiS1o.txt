@@ -1,0 +1,8 @@
+video_id: -tEANoWiS1o
+video_url: https://www.youtube.com/watch?v=-tEANoWiS1o
+title: Ações de Extensão Universitária no Território Centro Serra do RS
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/22/2021

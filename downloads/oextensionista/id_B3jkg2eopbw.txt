@@ -1,0 +1,8 @@
+video_id: B3jkg2eopbw
+video_url: https://www.youtube.com/watch?v=B3jkg2eopbw
+title: Vencedora da caixa misteriosa no Técnico em Fruticultura #frutas
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2025

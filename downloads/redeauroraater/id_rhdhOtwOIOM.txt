@@ -1,0 +1,8 @@
+video_id: rhdhOtwOIOM
+video_url: https://www.youtube.com/watch?v=rhdhOtwOIOM
+title: Direto ao ponto: Qual a repercussão do canal O Extensionista com os agricultores?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2022

@@ -1,0 +1,9 @@
+video_id: Jz8QTrKGMMI
+video_url: https://www.youtube.com/watch?v=Jz8QTrKGMMI
+title: O uso de redes sociais pela agricultura familiar para ampliar a comercialização
+uploader: Rede Aurora
+speaker: Livio Sergio Dias Claudino (Unifesspa) e Graciele dos Prazeres Pustilnik (UFRGS)
+Lattes: http://lattes.cnpq.br/1618090996273410
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/14/2025

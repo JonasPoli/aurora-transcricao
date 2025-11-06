@@ -1,0 +1,8 @@
+video_id: amxqJ_CrS4k
+video_url: https://www.youtube.com/watch?v=amxqJ_CrS4k
+title: #roça #agro #colono #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/13/2025

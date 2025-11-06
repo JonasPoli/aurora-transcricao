@@ -1,0 +1,8 @@
+video_id: fjlGJ2lh7fI
+video_url: https://www.youtube.com/watch?v=fjlGJ2lh7fI
+title: A Extensão Rural no Brasil
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/25/2023

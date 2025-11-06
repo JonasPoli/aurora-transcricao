@@ -1,0 +1,8 @@
+video_id: Yis97bvMAbo
+video_url: https://www.youtube.com/watch?v=Yis97bvMAbo
+title: Cotrisel: crescimento com cooperação e propósito
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/10/2025

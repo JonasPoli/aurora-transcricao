@@ -1,0 +1,8 @@
+video_id: 82xFjmiaHpM
+video_url: https://www.youtube.com/watch?v=82xFjmiaHpM
+title: #bandinha #roça #colono #rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/21/2025

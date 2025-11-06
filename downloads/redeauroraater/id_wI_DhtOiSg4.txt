@@ -1,0 +1,8 @@
+video_id: wI_DhtOiSg4
+video_url: https://www.youtube.com/watch?v=wI_DhtOiSg4
+title: Qual importância da interação dialógica entre extensionista e produtor rural para uma Ater Digital?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/08/2022

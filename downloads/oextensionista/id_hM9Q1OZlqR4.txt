@@ -1,0 +1,8 @@
+video_id: hM9Q1OZlqR4
+video_url: https://www.youtube.com/watch?v=hM9Q1OZlqR4
+title: Gestão no cooperativismo e gestão através do propósito
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/26/2024

@@ -1,0 +1,8 @@
+video_id: OZa9kQbxTEI
+video_url: https://www.youtube.com/watch?v=OZa9kQbxTEI
+title: Innovación y transformación de los sistemas agroalimentarios por medio de ATER. Proyecto +Algodón
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt-PT
+date: 08/31/2023

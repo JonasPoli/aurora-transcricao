@@ -1,0 +1,8 @@
+video_id: UMKbiPreC7c
+video_url: https://www.youtube.com/watch?v=UMKbiPreC7c
+title: Direto ao ponto: A Ater Digital na Fundação Itesp -  Anderson Hazenfratz
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/09/2022

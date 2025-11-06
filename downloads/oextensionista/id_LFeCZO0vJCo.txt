@@ -1,0 +1,8 @@
+video_id: LFeCZO0vJCo
+video_url: https://www.youtube.com/watch?v=LFeCZO0vJCo
+title: Painel do III Seminário Nacional em Ensino de Extensão Rural - Politécnico da UFSM, Santa Maria, RS
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/24/2025

@@ -1,0 +1,9 @@
+video_id: QHUf2v0mvxU
+video_url: https://www.youtube.com/watch?v=QHUf2v0mvxU
+title: A Agroecologia e o conhecimento na Agricultura Familiar
+uploader: Rede Aurora
+speaker: João Carlos Costa Gomes – Embrapa Clima Temperado
+Lattes: http://lattes.cnpq.br/7119085684098235
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/05/2024

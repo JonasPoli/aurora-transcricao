@@ -1,0 +1,8 @@
+video_id: TDXJQGzM-YY
+video_url: https://www.youtube.com/watch?v=TDXJQGzM-YY
+title: Como é a comunicação digital no campo em outros países de referência como Nova Zelândia e Singapura?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/08/2022

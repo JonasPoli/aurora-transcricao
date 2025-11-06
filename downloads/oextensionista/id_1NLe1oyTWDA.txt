@@ -1,0 +1,8 @@
+video_id: 1NLe1oyTWDA
+video_url: https://www.youtube.com/watch?v=1NLe1oyTWDA
+title: #roça #aves
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/13/2025

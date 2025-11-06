@@ -1,0 +1,8 @@
+video_id: jYTkEP7Jras
+video_url: https://www.youtube.com/watch?v=jYTkEP7Jras
+title: #congresso #sober #universidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/29/2025

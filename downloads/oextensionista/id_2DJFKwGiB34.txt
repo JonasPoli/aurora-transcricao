@@ -1,0 +1,8 @@
+video_id: 2DJFKwGiB34
+video_url: https://www.youtube.com/watch?v=2DJFKwGiB34
+title: CESMA: Cooperativismo estudantil e seus desafios
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/05/2025

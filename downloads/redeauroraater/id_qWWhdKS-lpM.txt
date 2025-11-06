@@ -1,0 +1,8 @@
+video_id: qWWhdKS-lpM
+video_url: https://www.youtube.com/watch?v=qWWhdKS-lpM
+title: Extensionista conectado: o desafio do serviço de ATER na promoção da Inovação e da sustentabidade.
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2023

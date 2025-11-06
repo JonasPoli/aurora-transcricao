@@ -1,0 +1,8 @@
+video_id: N3YitJcIMho
+video_url: https://www.youtube.com/watch?v=N3YitJcIMho
+title: Direto ao ponto: Ater Digital para agricultura familiar no pós-Covid-19 - Kleber Pettan
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/13/2022

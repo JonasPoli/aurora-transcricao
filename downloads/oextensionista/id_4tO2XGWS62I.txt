@@ -1,0 +1,8 @@
+video_id: 4tO2XGWS62I
+video_url: https://www.youtube.com/watch?v=4tO2XGWS62I
+title: Tecendo sonhos: a arte e a união das Mulheres do Sertão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/14/2024

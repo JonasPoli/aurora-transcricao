@@ -1,0 +1,9 @@
+video_id: L9kkqp9ZlcM
+video_url: https://www.youtube.com/watch?v=L9kkqp9ZlcM
+title: Homeopatia como ferramenta de saúde e qualidade de vida no campo
+uploader: O Extensionista
+speaker: Doriana Gozzi Miotto – Emater/RS-Ascar
+Lattes: http://lattes.cnpq.br/0195658099881856
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/21/2024

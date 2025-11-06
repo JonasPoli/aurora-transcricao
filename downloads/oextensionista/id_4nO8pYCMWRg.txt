@@ -1,0 +1,8 @@
+video_id: 4nO8pYCMWRg
+video_url: https://www.youtube.com/watch?v=4nO8pYCMWRg
+title: #turismorural #marau #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/04/2025

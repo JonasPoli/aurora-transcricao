@@ -1,0 +1,8 @@
+video_id: Ov80CwA2rK0
+video_url: https://www.youtube.com/watch?v=Ov80CwA2rK0
+title: #roça #colono #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2025

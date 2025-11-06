@@ -1,0 +1,8 @@
+video_id: 2NnbtYnR9xk
+video_url: https://www.youtube.com/watch?v=2NnbtYnR9xk
+title: #roça #colono #estrada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/23/2025

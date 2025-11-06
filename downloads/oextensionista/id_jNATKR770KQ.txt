@@ -1,0 +1,8 @@
+video_id: jNATKR770KQ
+video_url: https://www.youtube.com/watch?v=jNATKR770KQ
+title: Uso do GPS na Fruticultura #roça #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/26/2025

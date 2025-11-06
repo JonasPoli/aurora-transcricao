@@ -1,0 +1,9 @@
+video_id: hOF9zhUBDwU
+video_url: https://www.youtube.com/watch?v=hOF9zhUBDwU
+title: Depoimento para a EFA CENTRO - Rio Grande do Sul 💚
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/09/2024

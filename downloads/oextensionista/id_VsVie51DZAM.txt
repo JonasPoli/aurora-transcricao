@@ -1,0 +1,8 @@
+video_id: VsVie51DZAM
+video_url: https://www.youtube.com/watch?v=VsVie51DZAM
+title: #jesus #motivação #reflexão #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

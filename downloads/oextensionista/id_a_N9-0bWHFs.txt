@@ -1,0 +1,8 @@
+video_id: a_N9-0bWHFs
+video_url: https://www.youtube.com/watch?v=a_N9-0bWHFs
+title: Além da teoria: a Extensão Rural durante a graduação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/12/2021

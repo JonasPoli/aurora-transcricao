@@ -1,0 +1,8 @@
+video_id: KT-bVQJxe28
+video_url: https://www.youtube.com/watch?v=KT-bVQJxe28
+title: #reflexão #sucesso
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/21/2025

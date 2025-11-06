@@ -1,0 +1,9 @@
+video_id: ZrN5ErnjC4Y
+video_url: https://www.youtube.com/watch?v=ZrN5ErnjC4Y
+title: Programas governamentais de crédito rural e acesso à terra
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/7794498214924969
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/02/2022

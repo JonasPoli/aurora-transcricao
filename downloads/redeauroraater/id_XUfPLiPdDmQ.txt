@@ -1,0 +1,8 @@
+video_id: XUfPLiPdDmQ
+video_url: https://www.youtube.com/watch?v=XUfPLiPdDmQ
+title: Início da Comunicação Digital #extensãorural #redeaurora #ater #agro
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/10/2023

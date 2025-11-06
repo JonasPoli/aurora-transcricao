@@ -1,0 +1,8 @@
+video_id: LkjVQNZhrxA
+video_url: https://www.youtube.com/watch?v=LkjVQNZhrxA
+title: O Extensionista: Pesquisa, Ensino e Extensão - Ezequiel Redin
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2022

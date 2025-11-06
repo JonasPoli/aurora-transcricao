@@ -1,0 +1,8 @@
+video_id: 6qq5JTyta9c
+video_url: https://www.youtube.com/watch?v=6qq5JTyta9c
+title: Protagonismo da mulher agricultora e a união dentro do Cooperativismo - CAFESUL/Póde Mulheres
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/08/2025

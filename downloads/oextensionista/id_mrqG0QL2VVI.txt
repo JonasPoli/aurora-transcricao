@@ -1,0 +1,9 @@
+video_id: mrqG0QL2VVI
+video_url: https://www.youtube.com/watch?v=mrqG0QL2VVI
+title: A educação em saúde na prevenção da Cria Pútrida Americana
+uploader: O Extensionista
+speaker: Miriam Sayuri Sassaki
+Lattes: http://lattes.cnpq.br/0621171145598671
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/13/2025

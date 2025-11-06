@@ -1,0 +1,8 @@
+video_id: J0I-vCJ9T_U
+video_url: https://www.youtube.com/watch?v=J0I-vCJ9T_U
+title: Tecnologia da Informação na Extensão Rural #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/07/2023

@@ -1,0 +1,8 @@
+video_id: NjO2nH9EpyE
+video_url: https://www.youtube.com/watch?v=NjO2nH9EpyE
+title: Dia de Poda em Jari, RS #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/13/2025

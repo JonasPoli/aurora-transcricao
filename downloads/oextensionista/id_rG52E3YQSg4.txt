@@ -1,0 +1,8 @@
+video_id: rG52E3YQSg4
+video_url: https://www.youtube.com/watch?v=rG52E3YQSg4
+title: #quilombola #caminhada #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/09/2025

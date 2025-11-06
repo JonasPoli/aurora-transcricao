@@ -1,0 +1,8 @@
+video_id: GRn9CZYgGAU
+video_url: https://www.youtube.com/watch?v=GRn9CZYgGAU
+title: #reflexão #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/23/2025

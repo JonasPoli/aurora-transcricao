@@ -1,0 +1,8 @@
+video_id: loJov7XFz4s
+video_url: https://www.youtube.com/watch?v=loJov7XFz4s
+title: Extensão Rural: experiências e desafios
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/18/2021

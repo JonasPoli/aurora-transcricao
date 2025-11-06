@@ -1,0 +1,9 @@
+video_id: _sBwM8rIJI0
+video_url: https://www.youtube.com/watch?v=_sBwM8rIJI0
+title: Você conhece Unaí?  🚜 🐂
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/31/2022

@@ -1,0 +1,8 @@
+video_id: l_9INXW4tks
+video_url: https://www.youtube.com/watch?v=l_9INXW4tks
+title: 📍 Geoprocessamento Aplicado na Fruticultura 🌱 Prof. Alessandro Miola
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/16/2025

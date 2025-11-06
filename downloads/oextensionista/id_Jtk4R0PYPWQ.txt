@@ -1,0 +1,8 @@
+video_id: Jtk4R0PYPWQ
+video_url: https://www.youtube.com/watch?v=Jtk4R0PYPWQ
+title: Moringa: o cultivo da planta mais nutritiva do planeta
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/26/2020

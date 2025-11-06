@@ -1,0 +1,9 @@
+video_id: zBRvOdMk2Hg
+video_url: https://www.youtube.com/watch?v=zBRvOdMk2Hg
+title: Desempenho Recente e Perspectivas Futuras da Extensão Rural no Brasil
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9137130647669011
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/28/2021

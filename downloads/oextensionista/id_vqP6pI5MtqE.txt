@@ -1,0 +1,8 @@
+video_id: vqP6pI5MtqE
+video_url: https://www.youtube.com/watch?v=vqP6pI5MtqE
+title: O Extensionista
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/08/2021

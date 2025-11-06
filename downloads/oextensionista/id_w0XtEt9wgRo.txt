@@ -1,0 +1,8 @@
+video_id: w0XtEt9wgRo
+video_url: https://www.youtube.com/watch?v=w0XtEt9wgRo
+title: #roça #agro #turismo #colono #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/06/2025

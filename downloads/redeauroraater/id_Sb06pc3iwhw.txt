@@ -1,0 +1,9 @@
+video_id: Sb06pc3iwhw
+video_url: https://www.youtube.com/watch?v=Sb06pc3iwhw
+title: Velhos e novos desafios para a Extensão Rural do futuro
+uploader: Rede Aurora
+speaker: Paulo Roberto Cardoso da Silveira – Universidade Federal do Pampa – Campus de Itaqui
+Lattes: http://lattes.cnpq.br/4810993692434345
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/05/2024

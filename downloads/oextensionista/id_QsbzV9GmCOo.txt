@@ -1,0 +1,9 @@
+video_id: QsbzV9GmCOo
+video_url: https://www.youtube.com/watch?v=QsbzV9GmCOo
+title: Lei de diretrizes orçamentárias (2010 – 2022): políticas públicas, ATER e repasses financeiros
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/8817049751243982
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/02/2023

@@ -1,0 +1,4544 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:01
+
+agricultores e agricultoras jov Rais
+ 00:00:03
+
+pesquisadores e professores extensão
+ 00:00:06
+
+Rural acadêmicos e demais públicos aqui
+ 00:00:08
+
+presentes sejam todos muito bem-vindos
+ 00:00:11
+
+meu nome é zedin professor de extensão
+ 00:00:13
+
+Rural e quem está aqui hoje conosco é o
+ 00:00:15
+
+Professor luí Fernando Soares wiim da
+ 00:00:17
+
+USP o fundador da are da Aurora
+ 00:00:19
+
+juntamente com o nosso convidado de hoje
+ 00:00:21
+
+que é o nosso grande amigo palestrante
+ 00:00:23
+
+Tiago Teixeira Santos da embrap todos
+ 00:00:26
+
+aqui excelentes profissionais na área de
+ 00:00:28
+
+extensão rural no Brasil e É nesse dia
+ 00:00:30
+
+15 de Maio que estamos em mais um evento
+ 00:00:33
+
+do ciclo diálogos em até digital
+ 00:00:35
+
+Semeando propostas e compartilhando
+ 00:00:38
+
+saberes nossos eventos buscam
+ 00:00:41
+
+identificar e propor caminhos
+ 00:00:43
+
+metodológicos para Os Atuais elementos e
+ 00:00:45
+
+condicionantes que determinam os
+ 00:00:47
+
+processos de transferência e
+ 00:00:49
+
+compartilhamento de novas tecnologias
+ 00:00:51
+
+nos territórios Rais da América Latina e
+ 00:00:53
+
+alguns países Como Portugal Espanha
+ 00:00:56
+
+Luxemburgo em África a nossa palestra de
+ 00:00:58
+
+hoje é intitulada centro de ciência para
+ 00:01:01
+
+o desenvolvimento em agricultura digital
+ 00:01:03
+
+o nosso convidado Thiago Teixeira Santos
+ 00:01:06
+
+da Embrapa Agricultura digital essa Live
+ 00:01:08
+
+é uma iniciativa do portal extensionista
+ 00:01:11
+
+e da rede Aurora de diálogos em até
+ 00:01:13
+
+digital na América Latina e com todos os
+ 00:01:16
+
+apoiadores que vocês podem conferir aqui
+ 00:01:18
+
+na descrição desse vídeo bom sejam todos
+ 00:01:20
+
+muito bem-vindos muito bem-vindo
+ 00:01:23
+
+Professor Zuin professor thgo e é um
+ 00:01:25
+
+prazer vocês estarem aqui conosco
+ 00:01:27
+
+compartil and seus conhecimentos Desde
+ 00:01:29
+
+já muito obrigado já passo de antemão a
+ 00:01:31
+
+palavra ao professor Zuin bom dia a
+ 00:01:33
+
+todos e a todas é um prazer muito grande
+ 00:01:35
+
+estar aqui com Tiago com Ezequiel não é
+ 00:01:37
+
+tenho certeza que a gente vai aprender
+ 00:01:40
+
+hoje muito com a Embrapa Agricultura
+ 00:01:41
+
+digital que eles estão fazendo essa
+ 00:01:43
+
+questão da digitalização dos territórios
+ 00:01:45
+
+rurais thgo seja muito bem-vindo e de
+ 00:01:47
+
+antemão agradeço não é a sua presença aqui
+ 00:01:51
+
+com a gente nessa manhã de quarta-feira
+ 00:01:54
+
+palavra é sua meu querido obrigado
+ 00:01:56
+
+obrigado pelo convite eh Espero
+ 00:01:58
+
+conseguir eh passar para vocês o que que
+ 00:02:01
+
+é essa ideia do centro de ciência para
+ 00:02:04
+
+desenvolvimento em agricultura digital
+ 00:02:06
+
+que é uma iniciativa que e financiada
+ 00:02:08
+
+pela Fapesp é multi-institucional que a
+ 00:02:11
+
+gente tá tocando aí desde eh
+ 00:02:14
+
+2023 muito bem F fique à vontade se você
+ 00:02:21
+
+já quiser fazer sua apresentação agora
+ 00:02:25
+
+ah joia Vamos lá eh Vamos lá eh bom eh
+ 00:02:27
+
+eu sou thgo Santos eu sou cientista da
+ 00:02:32
+
+Computação eh aqui lem brura digital a
+ 00:02:35
+
+gente trabalha com eh eh computação
+ 00:02:38
+
+aplicada eh ao Agro
+ 00:02:41
+
+eh e eu sou um dos pesquisadores que
+ 00:02:45
+
+integram uma equipe grande de
+ 00:02:48
+
+pesquisadores que integra esse esse eh
+ 00:02:50
+
+centro não é Eh que chamado aí pela pela
+ 00:02:53
+
+Fapesp aí pela Fundação deamp para
+ 00:02:56
+
+pesquisa do Estado de São Paulo de CCD
+ 00:02:59
+
+não é centro de ciência para
+ 00:03:02
+
+desenvolvimento
+ 00:03:04
+
+eh o centro de ciência para
+ 00:03:06
+
+desenvolvimento é um é um é um centro de
+ 00:03:08
+
+pesquisa virtual não é então ele não tem
+ 00:03:11
+
+uma uma um um uma unidade física um
+ 00:03:13
+
+prédio não é uma instalações próprias não é
+ 00:03:18
+
+ele na verdade é um conjunto de
+ 00:03:21
+
+pesquisadores
+ 00:03:22
+
+eh eh que integra um já eh eh
+ 00:03:24
+
+instituições
+ 00:03:29
+
+eh de pesquisa
+ 00:03:31
+
+Eh Ou seja tem pesquisadores que TM um
+ 00:03:33
+
+apoio institucional ali das suas não é das
+ 00:03:36
+
+suas instituições
+ 00:03:39
+
+eh e vão se dedicar a um projeto
+ 00:03:40
+
+complexo com duração de 5 anos
+ 00:03:43
+
+eh Possivelmente eh extensível pro por
+ 00:03:47
+
+mais 5 anos não é então esse centro aí tem
+ 00:03:51
+
+uma duração inicial de 5 anos o
+ 00:03:54
+
+financiamento inicial da Fapesp por 5
+ 00:03:57
+
+anos eh eh prorrogáveis também por mais
+ 00:04:00
+
+5 anos ou seja um centro que pode
+ 00:04:03
+
+existir aí eh por eh por 10 anos com a a
+ 00:04:04
+
+com a função de atacar problemas
+ 00:04:11
+
+eh específicos não é um um centro de
+ 00:04:13
+
+ciência para desenvolvimento ele busca
+ 00:04:16
+
+atacar um problema específico eh da
+ 00:04:19
+
+sociedade nosso problema
+ 00:04:21
+
+eh específico que a gente quer tratar
+ 00:04:23
+
+com ele é ampliar a produção e
+ 00:04:26
+
+produtividade de pequeno noos médios
+ 00:04:28
+
+produtores
+ 00:04:30
+
+eh com aplicação de tecnologias eh
+ 00:04:31
+
+digitais não é Eh o intuito da Fapesp com
+ 00:04:36
+
+esse tipo de centro
+ 00:04:40
+
+eh é orientar uma uma parte da pesquisa
+ 00:04:42
+
+uma fração da da pesquisa para ser
+ 00:04:45
+
+Concebida Projetada e realizada tendo em
+ 00:04:48
+
+mente desde o início problemas
+ 00:04:51
+
+específicos e da sociedade eh no nosso
+ 00:04:53
+
+caso essa essa a da sociedade são
+ 00:04:57
+
+pequenos e médios Produtores Rurais
+ 00:05:01
+
+então Eh para condição de eh de
+ 00:05:03
+
+pesquisas que já tem eh eh uma aplicação
+ 00:05:07
+
+eh bem estabelecida para eh para
+ 00:05:10
+
+problemas eh bastante concretos não é de eh
+ 00:05:15
+
+de segmentos da
+ 00:05:18
+
+sociedade e e é uma abordagem de
+ 00:05:20
+
+eh baseada na colaboração entre
+ 00:05:25
+
+instituições vocês vão ver mais frente
+ 00:05:27
+
+que esse centro abriga ali o o um um um
+ 00:05:30
+
+grupo razoável de instituições eh de
+ 00:05:34
+
+pesquisa não é em brapa Instituto
+ 00:05:37
+
+agronômico de Campinas exal eh CPqD
+ 00:05:39
+
+eh vou falar mais sobre isso daqui a
+ 00:05:44
+
+pouquinho então um grupo grande aí de de
+ 00:05:47
+
+instituições e que pode envolver ainda
+ 00:05:50
+
+mais a instituições
+ 00:05:52
+
+H conforme elas eh forem se integrando
+ 00:05:55
+
+aí num num plano de eh de parcerias que
+ 00:05:58
+
+eu também vou falar
+ 00:06:01
+
+Eh eh daqui a
+ 00:06:03
+
+pouquinho então a premissa do da
+ 00:06:07
+
+iniciativa eh semear a proposta esseesse
+ 00:06:09
+
+centro se chama semear digital não é então
+ 00:06:13
+
+eh centro eh eh de ciênci pro
+ 00:06:15
+
+desenvolvimento em agricultura digital
+ 00:06:18
+
+semear digital eh a essa iniciativa
+ 00:06:20
+
+Semar busca promover a adoção de
+ 00:06:23
+
+tecnologias digitais entre pequenos e
+ 00:06:25
+
+médios Produtores Rurais por meio da
+ 00:06:27
+
+implantação de distritos agrotecnológico
+ 00:06:28
+
+a vai vai tentar entender o que que a
+ 00:06:31
+
+gente tá chamando aí de Distrito
+ 00:06:34
+
+agrotecnológico e da mobilização de
+ 00:06:36
+
+atores eh eh locais não é então Eh um o
+ 00:06:39
+
+nosso receio não é é que haja uma
+ 00:06:46
+
+assimetria na adoção de tecnologias
+ 00:06:49
+
+digitais então Eh grandes produtores que
+ 00:06:51
+
+T ah a a acesso
+ 00:06:54
+
+eh e é mais fácil eh a tecnologia
+ 00:06:58
+
+eh acabo acaba tendo o o vantagens que
+ 00:07:02
+
+os pequenos e médios eh não t não é mais
+ 00:07:07
+
+uma simetria mais um GAP aí entre o
+ 00:07:10
+
+pequeno e médio produtor eh e o grande o
+ 00:07:12
+
+pequeno não conseguindo
+ 00:07:15
+
+eh eh acompanhar incorporar eh as
+ 00:07:17
+
+tecnologias digitais e ficando assim e
+ 00:07:21
+
+eh tendo o um GAP ainda maior com ã eh
+ 00:07:24
+
+eh com a grande com a grande produção
+ 00:07:29
+
+então permitir que o o pequeno e o médio
+ 00:07:32
+
+consigam ali acompanhar e se beneficiar
+ 00:07:35
+
+eh eh eh também das tecnologias digitais
+ 00:07:38
+
+para eh melhorar
+ 00:07:42
+
+eh a sua a sua produtividade a sua
+ 00:07:45
+
+qualidade a a sustentabilidade do seu
+ 00:07:48
+
+negócio eh o Então a nossa eh a
+ 00:07:52
+
+estrutura eh eh aí do do dat dat é um o
+ 00:07:57
+
+ele é essencialmente um um município não é
+ 00:08:03
+
+Eh eh que tem ali uma vocação Rural não é
+ 00:08:06
+
+um conjunto de e uma ou ou mais culturas
+ 00:08:10
+
+que são
+ 00:08:13
+
+eh produzidas
+ 00:08:14
+
+eh naquela região
+ 00:08:17
+
+eh e a gente tá atrás de sistemas
+ 00:08:20
+
+integrados não é de hardware e software e
+ 00:08:24
+
+conectividade
+ 00:08:26
+
+eh que auxilia esses produtores nessas
+ 00:08:27
+
+eh eh nessas cadeias locais eh atendendo
+ 00:08:30
+
+demandas eh reais desses produtores não é
+ 00:08:34
+
+então a ideia de um dat eh é que ele
+ 00:08:37
+
+seja município que adotando um ou mais
+ 00:08:40
+
+desses sistemas integrados
+ 00:08:44
+
+Eh esses sistemas atuem ali como uma
+ 00:08:47
+
+vitrine tecnológica uma vitrine de
+ 00:08:51
+
+serviços eh eh digitais e que eh que
+ 00:08:54
+
+essa vitrine
+ 00:08:58
+
+Deixe de ser em algum no momento
+ 00:09:00
+
+apropriado uma vitrine passa a ser
+ 00:09:03
+
+incorporada naquela cadeia com Agentes
+ 00:09:05
+
+do mercado conseguindo manter de maneira
+ 00:09:07
+
+sustentável aquela tecnologia aquele
+ 00:09:10
+
+sistema
+ 00:09:12
+
+eh integrado que responde e demandas
+ 00:09:13
+
+daquela cadeia local então quer dizer
+ 00:09:17
+
+trazer
+ 00:09:19
+
+benefícios da Agricultura digital para
+ 00:09:21
+
+resolver problemas específicos das
+ 00:09:23
+
+daquelas cadeias daquela localidade de
+ 00:09:25
+
+uma maneira eh de uma maneira eh
+ 00:09:28
+
+sustentável uma maneira eh que eh que se
+ 00:09:32
+
+pague e consigue ficar consiga ficar de
+ 00:09:35
+
+pé
+ 00:09:38
+
+o o semear ele começa eh numa iniciativa
+ 00:09:40
+
+anterior
+ 00:09:45
+
+eh que a gente poderia chamar de semear
+ 00:09:47
+
+eh ponto zer não é Eh que foi uma
+ 00:09:50
+
+experimentação financiada pelo
+ 00:09:54
+
+funtel Ministério das Comunicações e
+ 00:09:56
+
+pelo mapa não é o Ministério da Agricultura
+ 00:09:59
+
+eh ali por volta de 2021 tá
+ 00:10:02
+
+eh ele surge como um estudo eh eh de
+ 00:10:06
+
+soluções e eh como soluções de
+ 00:10:10
+
+conectividade e inclusão digital a
+ 00:10:12
+
+auxiliariam pequenos e médios eh eh
+ 00:10:15
+
+produtores não é
+ 00:10:19
+
+Eh e dois distritos dois datis foram
+ 00:10:20
+
+selecionados nessa primeira
+ 00:10:24
+
+experimentação Caconde eh para quem não
+ 00:10:25
+
+é aqui da da região de do Estado de São
+ 00:10:28
+
+Paulo Caconde é é é um grande produtor
+ 00:10:31
+
+de café não é o o área montanhosa
+ 00:10:34
+
+eh uma área de pequenas propriedades
+ 00:10:38
+
+então não eh não tem colheita
+ 00:10:40
+
+automatizada porque não no o releva
+ 00:10:43
+
+muito acidentado para pra colhedora
+ 00:10:47
+
+Então são pequenos produtores produtores
+ 00:10:49
+
+de café mas juntos esses mais de 2.000
+ 00:10:51
+
+produtores eh eh formam aí o município
+ 00:10:54
+
+com a maior produção eh de café hoje no
+ 00:10:57
+
+Estado de São
+ 00:11:01
+
+Paulo outro distrito é São Miguel eh eh
+ 00:11:02
+
+Arcanjo ali eh próximo da região de
+ 00:11:06
+
+Sorocaba
+ 00:11:08
+
+eh também aqui em São Paulo eh eh que é
+ 00:11:10
+
+dedicado a a horticultura não é tem por
+ 00:11:14
+
+exemplo uma produção muito grande de de
+ 00:11:17
+
+uva de de mesa
+ 00:11:20
+
+eh e e e e e outras culturas
+ 00:11:22
+
+tá eh foram realizadas eh eh várias
+ 00:11:28
+
+pesquisas com esses eh eh eh eh com
+ 00:11:32
+
+esses produtores não é Eh e de forma geral
+ 00:11:34
+
+eh quase 70% do desses produtores eh
+ 00:11:37
+
+reportam ou reportaram para eh paraas
+ 00:11:41
+
+pesquisas feitas nessa fase de
+ 00:11:44
+
+experimentação que eh eh a internet até
+ 00:11:46
+
+a sede da propriedade no geral é
+ 00:11:50
+
+considerada boa para 70% eh eh dos dos
+ 00:11:53
+
+produtores Mas ainda é uma necessidade
+ 00:11:57
+
+de eh grandes melhorias para cobrir a
+ 00:11:59
+
+área produtiva não é Eh eh não é o o o o o o o
+ 00:12:02
+
+o os talhões não é a área onde eh
+ 00:12:08
+
+efetivamente tá a cultura cobri-la com
+ 00:12:12
+
+com o Red que por exemplo você possa ter
+ 00:12:14
+
+eh serviços digitais ali oferecidos
+ 00:12:17
+
+diretamente na eh na área não é então para
+ 00:12:20
+
+70% Ok a internet é conectividade é
+ 00:12:24
+
+razoavelmente boa até sede da sede até e
+ 00:12:27
+
+eh até os talhões aí você tem eh eh
+ 00:12:31
+
+problemas então adoção de por exemplo
+ 00:12:35
+
+sensores sensor de umidade sensor de
+ 00:12:37
+
+temperatura câmeras
+ 00:12:39
+
+hã e outros tipos de de tecnologia
+ 00:12:41
+
+teriam dificuldades por falta dessa
+ 00:12:44
+
+cobertura eh da área de produção não é
+ 00:12:46
+
+Eh outro problema reportado por eles n é
+ 00:12:52
+
+é o o o a falta de conhecimento não é sobre
+ 00:12:56
+
+eh eh que tecnologias digitais são
+ 00:12:59
+
+apropriadas
+ 00:13:02
+
+eh pra propriedade dele eh que
+ 00:13:03
+
+tecnologias digitais ele poderia eh eh
+ 00:13:06
+
+usar
+ 00:13:09
+
+eh eh na na produção
+ 00:13:10
+
+dele e também esses produtores eh eh eh
+ 00:13:14
+
+indicaram uma preocupação com relação a
+ 00:13:19
+
+o investimento para aquisição ã dessas
+ 00:13:22
+
+tecnologias desses equipamentos eh
+ 00:13:25
+
+desses aplicativos então E essa era a
+ 00:13:28
+
+avaliação dos próprios produtores eh com
+ 00:13:33
+
+relação a a conectividade e Agricultura
+ 00:13:36
+
+digital as perspectivas desses
+ 00:13:39
+
+produtores ainda eh ainda em Cold não é
+ 00:13:42
+
+Eh eles têm uma expectativa eh com
+ 00:13:46
+
+relação agricultura digital eh eh no
+ 00:13:50
+
+auxílio principalmente em primeiro lugar
+ 00:13:53
+
+da gestão da propriedade
+ 00:13:55
+
+eh mapeamento e planejamento do uso da
+ 00:13:58
+
+Terra previsão de risco climático então
+ 00:14:01
+
+geada granizo veranico chuva intensa
+ 00:14:05
+
+eh eh compr venda de insumos e também
+ 00:14:10
+
+comercialização da própria produção
+ 00:14:14
+
+certificação e rastreabilidade dos
+ 00:14:17
+
+produtos deles eh estimativas de
+ 00:14:19
+
+produção e produtividade detecção e
+ 00:14:22
+
+controle de pragas e doenças então eh eh
+ 00:14:26
+
+eh essas são as perspectivas eh
+ 00:14:29
+
+eh o o o o o que os produtores eh
+ 00:14:32
+
+esperam dessas eh tecnologias eh de AD
+ 00:14:37
+
+embora
+ 00:14:40
+
+eh eles não não saibam o que tecnologia
+ 00:14:41
+
+estão disponíveis se estão disponíveis
+ 00:14:45
+
+eh e se Eles teriam
+ 00:14:47
+
+eh eh condição de eh de incorporá-las a
+ 00:14:49
+
+ao seu negócio
+ 00:14:54
+
+não é como eu falei anteriormente não é um
+ 00:14:56
+
+centro de ciência para desenvolvimento
+ 00:14:59
+
+não é Eh é um centro cuja pesquisa é
+ 00:15:01
+
+Concebida Projetada e realizada tendo em
+ 00:15:04
+
+mente desde o início esses problemas
+ 00:15:06
+
+específicos enfrentados pela sociedade
+ 00:15:09
+
+no nosso caso pequenos e médios
+ 00:15:11
+
+produtores então Dada essa necessidade
+ 00:15:13
+
+Depois dessa experimentação
+ 00:15:17
+
+eh o
+ 00:15:19
+
+o houve uma conversação eh bastante
+ 00:15:22
+
+longa entre eh Embrapa as outras de
+ 00:15:26
+
+pesquisa e a Fapesp Até que a a a a a a
+ 00:15:29
+
+Fapesp eh encomendou um projeto foi
+ 00:15:32
+
+elaborado enviado foi avaliado pelos
+ 00:15:36
+
+pareceristas e adox E aí depois
+ 00:15:38
+
+eh um processo acho que cerca de de de 2
+ 00:15:41
+
+anos aí de de avaliação a a Fapesp
+ 00:15:45
+
+aprovou a criação eh desse centro Centro
+ 00:15:48
+
+de ciênci para desenvolvimento não é
+ 00:15:51
+
+Eh cuja ideia é pegar essas demandas
+ 00:15:54
+
+eh transformadas em pilotos operacionais
+ 00:15:59
+
+não é
+ 00:16:03
+
+Eh com desenvolvimento tipo ID eh por
+ 00:16:04
+
+Parte dessas instituições
+ 00:16:08
+
+eh e fazer uma avaliação do impacto e
+ 00:16:11
+
+sustentabilidade Econômica desses
+ 00:16:15
+
+pilotos não é E aí numa etapa posterior eh
+ 00:16:17
+
+trans colocar esses eh pilotos em
+ 00:16:22
+
+operação em escala utilizando ali os
+ 00:16:24
+
+Agentes do mercado AG então empresas
+ 00:16:27
+
+startups cooperativas eh eh pegar o que
+ 00:16:30
+
+é um um piloto testado validado com
+ 00:16:33
+
+impacto validado eh e realmente colocar
+ 00:16:37
+
+a em larga operação
+ 00:16:39
+
+eh contando aí com eh com a participação
+ 00:16:42
+
+eh de Agentes do mercado então trazer
+ 00:16:46
+
+pro mercado
+ 00:16:49
+
+o o pilotos eh
+ 00:16:50
+
+eh sustentáveis eh de impacto
+ 00:16:54
+
+desenvolvidos
+ 00:16:58
+
+eh no
+ 00:17:00
+
+centro então bom o bom o objetivo do
+ 00:17:08
+
+projeto não é então é superar desigualdades
+ 00:17:12
+
+no no campo particularmente essa essa
+ 00:17:14
+
+desigualdade com relação a à adoção e
+ 00:17:16
+
+uso de de tecnologias digitais a partir
+ 00:17:19
+
+de pesquisa desenvolvimento inovação não é
+ 00:17:21
+
+PDI eh em tics não é tecnologia de
+ 00:17:23
+
+informação e comunicação prando ampliar
+ 00:17:26
+
+a prod produtividade de pequenos e
+ 00:17:28
+
+médios produtores não é
+ 00:17:30
+
+Eh o centro ele é liderado pela Embrapa
+ 00:17:33
+
+agricultur digital que é o a instituição
+ 00:17:36
+
+sede não é do
+ 00:17:40
+
+ã do projeto para pra Fapesp e conta ali
+ 00:17:42
+
+com as instituições de pesquisa
+ 00:17:46
+
+associadas CPqD aqui de campinas não é a a
+ 00:17:49
+
+esal escola superior de agricultura luí
+ 00:17:53
+
+de Queiroz da USP o Instituto agronômico
+ 00:17:56
+
+de Campinas
+ 00:17:58
+
+o Instituto de Economia agrícola aqui de
+ 00:17:59
+
+São Paulo o Inatel e a UFLA de Minas
+ 00:18:01
+
+Gerais E aí com a o o o suporte o
+ 00:18:05
+
+financiamento aí da da faesp Então esse
+ 00:18:09
+
+e eh esse é o arranjo da institucional
+ 00:18:13
+
+aí
+ 00:18:18
+
+e do centro não é então os pesquisadores os
+ 00:18:19
+
+técnicos e que integram o projeto Eh
+ 00:18:22
+
+partem aí desses desses s centros eh que
+ 00:18:26
+
+a gente tá vendo aí
+ 00:18:30
+
+eh o OB os objetivos eh específicos não é
+ 00:18:33
+
+mapear e selecionar essas cadeias
+ 00:18:38
+
+produtivas que demandam soluções
+ 00:18:40
+
+digitais em diferentes áreas desenvolver
+ 00:18:42
+
+soluções digitais por meio de parcerias
+ 00:18:44
+
+identificar gargalos de conectividade
+ 00:18:47
+
+propor Soluções em comunicação eh um por
+ 00:18:50
+
+exemplo um gargal de conectividade e
+ 00:18:52
+
+eh área rural é é uma área de baixo de
+ 00:18:55
+
+densidade populacional então para para
+ 00:18:58
+
+muitas operadoras de telecomunicação
+ 00:19:01
+
+eh não é uma região rentável porque tem
+ 00:19:04
+
+pouca pouca receita poucas pessoas Eh
+ 00:19:07
+
+pagantes você precisa levar
+ 00:19:10
+
+conectividade para áreas grandes e há
+ 00:19:11
+
+uma eh com poucos usuários não é com poucos
+ 00:19:14
+
+eh clientes então Eh por isso o o
+ 00:19:17
+
+eh eh eh eh por isso o um um o
+ 00:19:22
+
+desinteresse de muitas empresas de
+ 00:19:27
+
+telecomunicação eh áreas de alta
+ 00:19:30
+
+densidade populacional eh o o negócio
+ 00:19:32
+
+fecha para Muitas delas eh área rural eh
+ 00:19:35
+
+não fecha por isso eh eh
+ 00:19:39
+
+e existe essa dificuldade de
+ 00:19:41
+
+conectividade no campo isso é um gargalo
+ 00:19:43
+
+eh
+ 00:19:45
+
+eh eh eh que tá sendo eh eh abordado por
+ 00:19:46
+
+esse centro eh pesquisar e desenvolver e
+ 00:19:53
+
+validar Tecnologias habilitadoras para
+ 00:19:56
+
+solução digitais e capacitar produtores
+ 00:19:58
+
+técnicos agrícolas Consultores em
+ 00:20:01
+
+tecnologias digitais por meio de
+ 00:20:03
+
+associações
+ 00:20:04
+
+cooperativas extensão Rural
+ 00:20:05
+
+eh e outros parceiros ali eh públicos e
+ 00:20:08
+
+eh e
+ 00:20:11
+
+privados então eh legal até aí a gente
+ 00:20:18
+
+e sabe o que que é um centro de ciênci
+ 00:20:22
+
+desenvolvimento não é O que é um Semar Qual
+ 00:20:25
+
+é o foco dele pequenos médicos eh
+ 00:20:27
+
+produtores eh a questão é por que o uso
+ 00:20:30
+
+eh eh de de agricultura digital não é a
+ 00:20:34
+
+gente viu aquelas demandas eh exemplos
+ 00:20:38
+
+de demandas aí eh do
+ 00:20:41
+
+do eh do da par eh dos experimentos
+ 00:20:43
+
+realizados primeiramente em Caconde não é
+ 00:20:48
+
+Eh eh gestão da propriedade
+ 00:20:50
+
+eh detecção de pragas
+ 00:20:54
+
+eh estimação de produtividade agora por
+ 00:20:57
+
+que
+ 00:21:00
+
+eh agricultura digital eh ser usada para
+ 00:21:01
+
+para abordar esses problemas
+ 00:21:05
+
+eh agricultura digital ela é computação
+ 00:21:07
+
+aplicada a agricultura a gente pode
+ 00:21:11
+
+pensar eh
+ 00:21:14
+
+eh uma definição simples com computação
+ 00:21:15
+
+aplicada eh agricultura uma maneira
+ 00:21:19
+
+simples de você eh pensar eh em em AD e
+ 00:21:22
+
+ela é transversal não é ela ela vai eh eh
+ 00:21:26
+
+utilizar várias eh tecnologias da
+ 00:21:32
+
+Computação da eh da engenharia eh nos
+ 00:21:35
+
+três pilares de pré-produção produção e
+ 00:21:38
+
+pós-produção
+ 00:21:42
+
+não é então você tem técnicas como ciências
+ 00:21:43
+
+de dados Inteligência Artificial visão
+ 00:21:46
+
+computacional robótica computação e
+ 00:21:49
+
+nuvem computação de autodesempenho
+ 00:21:52
+
+computação
+ 00:21:54
+
+embarcada plataformas digitais
+ 00:21:56
+
+eh e e e essas ferramentas eh podem ser
+ 00:22:01
+
+aplicadas
+ 00:22:04
+
+eh nesses três pilares não é na
+ 00:22:05
+
+pré-produção sobretudo auxiliando
+ 00:22:08
+
+eh na parte de melhoramento não é Na parte
+ 00:22:11
+
+de de genética então fenotipagem
+ 00:22:15
+
+screening busca de novos genes eh
+ 00:22:18
+
+análise de dados do melhoramento
+ 00:22:22
+
+genético
+ 00:22:24
+
+eh são os de ferramentas de computação
+ 00:22:26
+
+eh na parte de pré-produção eh na parte
+ 00:22:30
+
+de de produção
+ 00:22:33
+
+eh você tem modelagem agroambiental
+ 00:22:35
+
+geotecnologias internet das coisas
+ 00:22:38
+
+eh utilizando eh essas técnicas eh
+ 00:22:41
+
+computacionais e no e no no pós produção
+ 00:22:46
+
+parte de rastreabilidade comercialização
+ 00:22:49
+
+certificação
+ 00:22:52
+
+eh Então uso aplicação aí de blockchain
+ 00:22:54
+
+de computação móvel eh eh na parte de
+ 00:22:58
+
+distribuição processamento aí eh e e
+ 00:23:02
+
+consumo não é então quer dizer o o o o o
+ 00:23:05
+
+digital foi não só na na na vertical do
+ 00:23:10
+
+Agro não é mas na indústria nos serviços não é
+ 00:23:14
+
+o o o as ferramentas digitais foram ali
+ 00:23:17
+
+eh eh eh ocupando o terreno não é Eh
+ 00:23:20
+
+eh se tornando pervasivas não é na na
+ 00:23:25
+
+indústria no
+ 00:23:28
+
+serviço o no entretenimento a mesma
+ 00:23:30
+
+coisa eh eh eh eh eh está acontecendo e
+ 00:23:33
+
+vai continuar eh acontecendo no ag então
+ 00:23:38
+
+eh
+ 00:23:42
+
+eh tem um tem um um centro dedicado eh
+ 00:23:43
+
+eh à agricultura digital eh eh com essa
+ 00:23:48
+
+eh eh com esse trabalho próximo aos
+ 00:23:53
+
+distritos próximos aos os municípios
+ 00:23:56
+
+próximos às cadeias para orientar essa
+ 00:23:59
+
+pesquisa em agricultura digital para ter
+ 00:24:02
+
+aplicações finais provas de conceito
+ 00:24:04
+
+específicas para atender
+ 00:24:07
+
+eh os problemas identificados nesses
+ 00:24:10
+
+distritos Essa é é é essa é a ideia
+ 00:24:13
+
+eh só pra gente não ficar eh num num num
+ 00:24:18
+
+blá blá blá não é alguns exemplos ali
+ 00:24:23
+
+concretos de eh de que tipo de
+ 00:24:25
+
+tecnologia digital a gente tá falando eu
+ 00:24:28
+
+vou pedir pro Ezequiel H alternar pro
+ 00:24:30
+
+vídeo que eu acho que eu não consigo
+ 00:24:33
+
+fazer isto eu mesmo
+ 00:24:34
+
+eh se aqui eu puder voltar o vídeo um
+ 00:24:38
+
+pouquinho que acho a gente ah eu consigo
+ 00:24:40
+
+aqui
+ 00:24:42
+
+ao então isso aqui é um exemplo de
+ 00:24:45
+
+eh eh de uso de visão computacional de
+ 00:24:48
+
+uma técnica da inteligência artificial
+ 00:24:52
+
+para detecção e contagem de frutos então
+ 00:24:54
+
+para por exemplo estimação de de Safra
+ 00:24:57
+
+eh não é então aí eu uso tecnologia de de
+ 00:24:59
+
+imagens ia para eh eh para você fazer
+ 00:25:03
+
+ali uma varredura não é
+ 00:25:07
+
+Eh dos talhões e poder fazer uma
+ 00:25:09
+
+contagem eh de frutos e ter aí
+ 00:25:11
+
+estimações eh de safra de maneira
+ 00:25:14
+
+eh não invasiva eh aqui mais ou menos a
+ 00:25:17
+
+mesma ideia só que H feito com imagens
+ 00:25:21
+
+de Drone um exemplo com com maçã não é
+ 00:25:24
+
+então
+ 00:25:27
+
+fazendo ali uma varredura ali do eh do
+ 00:25:28
+
+talhão o uso de Drone e conseguindo ali
+ 00:25:31
+
+espacializar eh eh ali as frutas
+ 00:25:35
+
+detectadas não é encontrar por exemplo
+ 00:25:38
+
+eh áreas de maior produção menor
+ 00:25:41
+
+produção
+ 00:25:43
+
+eh falhas eh eh eh de produção eh ali no
+ 00:25:46
+
+no meio do talhão podemos voltar para eh
+ 00:25:51
+
+paraa apresentação
+ 00:25:56
+
+eh o outras técnicas eh eh de
+ 00:25:59
+
+agricultura digital por exemplo inclui
+ 00:26:03
+
+sensores de transmissão de dados aqui a
+ 00:26:05
+
+gente tem um exemplo de uma eh de um
+ 00:26:07
+
+projeto aqui da da embrap Agricultura
+ 00:26:09
+
+digital na área de de café não é aqui a
+ 00:26:12
+
+gente tem um um uma estação
+ 00:26:14
+
+microclimática eh não é que eh cujos dados
+ 00:26:16
+
+são transmitidos ali por uma por uma
+ 00:26:20
+
+essa estaçãozinha que a gente vê à
+ 00:26:23
+
+direita que é alimentada ali por painel
+ 00:26:25
+
+solar e transmite esses dados a longa
+ 00:26:27
+
+distâncias você tem várias dessas
+ 00:26:30
+
+estaçõe inhas microclimáticas espalhadas
+ 00:26:32
+
+ali no
+ 00:26:35
+
+talhão você consegue caracterizar ali o
+ 00:26:37
+
+microclima eh eh eh observado na na
+ 00:26:40
+
+produção
+ 00:26:44
+
+eh e transmitir isso poder analisar isso
+ 00:26:45
+
+eh
+ 00:26:50
+
+eh fora fora da área não é então esse são
+ 00:26:52
+
+exemplos aí eh eh de tecnologias eh de
+ 00:26:58
+
+agricultura digital que que poderiam ser
+ 00:27:00
+
+levadas
+ 00:27:03
+
+eh para os datis para resolver problemas
+ 00:27:05
+
+eh específicos que estão sendo
+ 00:27:08
+
+encontrados eh eh ali
+ 00:27:13
+
+eh passando aqui pro próximo slide
+ 00:27:17
+
+eh então o o
+ 00:27:23
+
+o eh o centro na parte de pesquisa e
+ 00:27:27
+
+desenvolvimento não é O O ele tem ali cinco
+ 00:27:31
+
+eixos de de atuação tá
+ 00:27:36
+
+eh o o primeiro eixo que
+ 00:27:41
+
+eh que trabalha especificamente o
+ 00:27:44
+
+Instituto de Economia agrícola eh é a
+ 00:27:47
+
+determinação dos distritos
+ 00:27:49
+
+agrotecnológico eu vou falar mais desse
+ 00:27:51
+
+processo de de como esses distritos eh
+ 00:27:53
+
+foram Escolhidos eh mais para
+ 00:27:56
+
+frente e também a avaliação dos impactos
+ 00:27:59
+
+socioeconômicos H não é o o o o o ia
+ 00:28:03
+
+definiu uma metodologia para seleção
+ 00:28:07
+
+desses distritos uma vez os os distritos
+ 00:28:09
+
+esses municípios selecionados as equipes
+ 00:28:13
+
+do do EA visitam produtores e fazem eh
+ 00:28:15
+
+eh uma caracterização eh socioeconômica
+ 00:28:19
+
+do distrito
+ 00:28:23
+
+H eh eh definem um cenário que é o t0 não é
+ 00:28:26
+
+é o que é o é o cenário que a gente
+ 00:28:31
+
+tinha eh antes não é da da ação do centro
+ 00:28:33
+
+antes antes da eh da adoção das
+ 00:28:36
+
+tecnologias desenvolvidas no centro e
+ 00:28:39
+
+depois o o o o ia volta pra avaliação do
+ 00:28:41
+
+impacto da das tecnologias não é a
+ 00:28:46
+
+diferença eh eh para o t0 não é se aquela
+ 00:28:49
+
+tecnologia eh eh proposta teve um
+ 00:28:52
+
+impacto eh eh eh positivo eh E se ele
+ 00:28:56
+
+foi foi expressivo não é então caracterizar
+ 00:29:02
+
+eh quantificar eh o impacto eh daquela
+ 00:29:05
+
+eh da adoção daquela tecnologia
+ 00:29:08
+
+eh Então esse é o Esse é o primeiro eixo
+ 00:29:13
+
+não é o eixo de o eixo de socioeconômico o
+ 00:29:16
+
+o centro eh o segundo eixo é um eixo de
+ 00:29:20
+
+conectividade e dispositivos não é a cargo
+ 00:29:23
+
+do CPqD e do Inatel são duas
+ 00:29:25
+
+instituições
+ 00:29:28
+
+eh de de pesquisa
+ 00:29:29
+
+eh
+ 00:29:32
+
+eh com com com foco na área de de
+ 00:29:34
+
+telecomunicações não é então eles estão
+ 00:29:37
+
+trabalhando com com eh eh tecnologias de
+ 00:29:39
+
+rede para áreas remotas que faz eh faz
+ 00:29:43
+
+todo sentido
+ 00:29:46
+
+eh eh paraas nossas áreas rurais não é no
+ 00:29:47
+
+estudo nos dados então estão trabalhando
+ 00:29:51
+
+com eh eh eletrônica de radiofrequências
+ 00:29:54
+
+especializada para eh cobrir áreas
+ 00:29:58
+
+grandes eh com baixo consumo energético
+ 00:30:00
+
+eh tecnologia de baterias e células
+ 00:30:03
+
+Solares
+ 00:30:05
+
+ali
+ 00:30:08
+
+desculpa tentando eh atender essa
+ 00:30:10
+
+questão de Áreas Aí Áreas remotas Áreas
+ 00:30:13
+
+grandes eh de baixa densidade
+ 00:30:16
+
+populacional então que tipo de
+ 00:30:18
+
+tecnologia eh eh pode eh pode ser
+ 00:30:19
+
+adotada para eh dar uma boa cobertura de
+ 00:30:22
+
+rede a um a um custo a um custo mais
+ 00:30:24
+
+baixo
+ 00:30:27
+
+depois nós temos os eh eh TR os três
+ 00:30:29
+
+eixos eh eh destinado as as aplicações
+ 00:30:33
+
+não é primeiro eixo é um eixo de de
+ 00:30:40
+
+Inteligência Artificial e sensoreamento
+ 00:30:42
+
+remoto não é que vai trabalhar com pesquisa
+ 00:30:44
+
+com imagens ul espectrais
+ 00:30:48
+
+hiperespectrais sensoreamento
+ 00:30:49
+
+tridimensional aprendizado de máquina
+ 00:30:51
+
+eh fusão de dados de diferenças de
+ 00:30:55
+
+diferentes naturezas eh imagem
+ 00:30:58
+
+temperatura
+ 00:31:01
+
+eh bandas espectrais diferentes
+ 00:31:04
+
+eh fusão de dados eh eh eh de diferentes
+ 00:31:09
+
+naturezas
+ 00:31:12
+
+eh o quarto eixo que é o eixo de
+ 00:31:15
+
+automação e Agricultura de precisão eh
+ 00:31:18
+
+também voltado aprendizado de máquina eh
+ 00:31:22
+
+determinação de unidades de gestão
+ 00:31:24
+
+diferenciada para agricultur de precisão
+ 00:31:27
+
+eh robótica e arquitetura de sistemas
+ 00:31:29
+
+embarcados Drone e sensoriamento próximo
+ 00:31:32
+
+senso que você faz perto ali da da
+ 00:31:35
+
+cultura com com imagem scop Circle
+ 00:31:37
+
+outros tipos de
+ 00:31:41
+
+sensor e o eixo de eh rastreabilidade o
+ 00:31:43
+
+eixo cinco rastreabilidade certificação
+ 00:31:47
+
+eh digital que vai trabalhar com eh eh
+ 00:31:49
+
+blockchain certificação rastreabilidade
+ 00:31:52
+
+eh eh eh da cadeia
+ 00:31:55
+
+eh
+ 00:32:00
+
+o nessa etapa que em que nós estamos
+ 00:32:02
+
+muitas dessas pesquisas estão sendo
+ 00:32:05
+
+feitas em paralelo eh mas o o o que nós
+ 00:32:07
+
+temos
+ 00:32:11
+
+Eh agora nesse início do de vida do
+ 00:32:11
+
+centro
+ 00:32:15
+
+eh
+ 00:32:16
+
+o o eixo um eixo socioeconômico não é Eh
+ 00:32:18
+
+liderado pelo iea eh terminou eh tá
+ 00:32:22
+
+finalizando essa avaliação do t0 ou seja
+ 00:32:25
+
+eh os dats foram os distritos foram
+ 00:32:28
+
+selecionados
+ 00:32:31
+
+visitados produtores foram selecionados
+ 00:32:32
+
+e e entrevistados então Eh o ia eh tá
+ 00:32:35
+
+preparando os relatórios os
+ 00:32:41
+
+reports ali do t0 para divulgar Eh agora
+ 00:32:43
+
+em junho no no o no no workshop eh eh eh
+ 00:32:48
+
+do centro onde a gente vai ter uma
+ 00:32:53
+
+melhor radiografia ali do Estado desses
+ 00:32:55
+
+distritos das necessidades das respostas
+ 00:32:59
+
+eh obtidas com os produtores
+ 00:33:02
+
+eh sobre as necessidades aí eh de cada
+ 00:33:06
+
+um eh desses
+ 00:33:10
+
+dados então aqui um um diagrama aqui do
+ 00:33:16
+
+dos eixos de
+ 00:33:20
+
+eh de atuação não é então o eixo um que é o
+ 00:33:21
+
+eixo socioeconômico eh focado ali na
+ 00:33:25
+
+identificação das necessidades da
+ 00:33:27
+
+daqueles distritos ou não é necessidades
+ 00:33:30
+
+eh deveriam ser eh atendidas por
+ 00:33:34
+
+aplicações por provas de conceito
+ 00:33:37
+
+eh tocadas pelos eixos 3S 4 E5 não é
+ 00:33:40
+
+Inteligência Artificial remoto automação
+ 00:33:44
+
+e precisão estabilidade de certificação
+ 00:33:46
+
+eh utilizando da conectividade eh eh das
+ 00:33:49
+
+Ferramentas de conectividade
+ 00:33:53
+
+eh propostas pelo eixo dois essa essa é
+ 00:33:55
+
+a ideia então identificar as demandas
+ 00:33:59
+
+com eixo um usada do de uma
+ 00:34:03
+
+infraestrutura de conectividade
+ 00:34:06
+
+coordenada ali pelo eixo dois eh e
+ 00:34:08
+
+aplicações eh provas de conceito de eh
+ 00:34:10
+
+de aplicações eh feitas pelos eixos 3 4
+ 00:34:14
+
+e 5 eh
+ 00:34:17
+
+eh identificadas eh provas de conceito
+ 00:34:20
+
+de sucesso de impacto O o o ens
+ 00:34:25
+
+promissores a gente tem ali a parte de
+ 00:34:28
+
+parceria e inovação não é que é levar
+ 00:34:32
+
+efetivamente em escala isso para o
+ 00:34:35
+
+mercado para atender os produtores
+ 00:34:37
+
+daquele distrito em escala
+ 00:34:40
+
+eh eh e a parte Claro de comunicação de
+ 00:34:42
+
+fusão e dessas tecnologias também parte
+ 00:34:46
+
+eh eh dos mecanismos de de de adoção aí
+ 00:34:50
+
+dessas provas de
+ 00:34:55
+
+conceito eh selecionadas de de alto
+ 00:34:56
+
+impacto
+ 00:35:05
+
+eh o o a a Fapesp
+ 00:35:06
+
+ela ela autorizou a criação de eh de 10
+ 00:35:12
+
+eh distritos não é de 10 dades não é Eh como a
+ 00:35:17
+
+pes uma instituição de São Paulo eh
+ 00:35:22
+
+cinco desses distritos eh estão no
+ 00:35:26
+
+estado mas também a a agência embora
+ 00:35:29
+
+seja uma uma agência Paulista ela
+ 00:35:33
+
+autorizou também a criação de cinco
+ 00:35:36
+
+distritos fora do Estado não é
+ 00:35:38
+
+eh e aí nós tentamos cobrir todas as
+ 00:35:43
+
+regiões eh o o um distrito na região
+ 00:35:45
+
+norte um distrito na região Nordeste um
+ 00:35:48
+
+distrito na região eh centro-oeste e um
+ 00:35:51
+
+distrito na região sul do país não é
+ 00:35:54
+
+Eh esses distritos não foram eh eh
+ 00:35:59
+
+selecionados de forma arbitrária Eles
+ 00:36:03
+
+foram selecionados a partir de uma
+ 00:36:06
+
+metodologia desenvolvida pelo Instituto
+ 00:36:08
+
+de Economia agrícola utilizando
+ 00:36:10
+
+indicadores socioeconômicos eh 34
+ 00:36:12
+
+indicadores socioeconômicos eh vindos do
+ 00:36:15
+
+IBGE e do censo agropecuário de 2017
+ 00:36:18
+
+eh capazes de caracterizar os municípios
+ 00:36:23
+
+ali de todo país não é Eh o os 5.000 eh
+ 00:36:26
+
+cerca de 5.000 municípios eh do país
+ 00:36:31
+
+foram avaliados e a partir eh dessa
+ 00:36:34
+
+avaliação utilizando essa metodologia os
+ 00:36:37
+
+municípios candidatos ali
+ 00:36:40
+
+foram eh eh selecionados
+ 00:36:42
+
+eh então
+ 00:36:46
+
+Eh esses indicadores cobriam
+ 00:36:48
+
+eh eh eh incluíam densidade demográfica
+ 00:36:51
+
+eh educação infraestrutura uso de
+ 00:36:56
+
+internet eh índice de desenvolvimento
+ 00:36:59
+
+IDH vários eh vários
+ 00:37:01
+
+indicadores e o a ideia
+ 00:37:06
+
+eh eh um um o o norte do processo da
+ 00:37:09
+
+Escolha era não escolher um município
+ 00:37:14
+
+desenvolvido demais a ponto de não
+ 00:37:18
+
+precisar do do do projeto não é não
+ 00:37:21
+
+precisar da eh da atuação do centro não é
+ 00:37:24
+
+então por exemplo um município muito
+ 00:37:27
+
+Próspero eh não eh Não valeria a pena
+ 00:37:29
+
+selecionar por exemplo o Ribeirão Preto
+ 00:37:32
+
+São Paulo que uma região eh Super
+ 00:37:34
+
+desenvolvida
+ 00:37:36
+
+eh Sobretudo com a cultura de c de
+ 00:37:38
+
+Açúcar eh
+ 00:37:41
+
+eh já super estruturado já eh eh já
+ 00:37:42
+
+super desenvolvido não não faria
+ 00:37:47
+
+sentido eh eh no âmbito do projeto eh o
+ 00:37:50
+
+o
+ 00:37:56
+
+um
+ 00:37:57
+
+município já tão eh desenvolvido
+ 00:37:58
+
+socioeconomicamente por outro lado eh
+ 00:38:01
+
+municípios
+ 00:38:04
+
+eh muito precários eh não permitiriam o
+ 00:38:05
+
+desenvolvimento do trabalho não é então
+ 00:38:09
+
+eh a gente tá eh buscando
+ 00:38:12
+
+eh eh aplicações de de agricultura
+ 00:38:16
+
+digital eh eh a gente precisa de um de
+ 00:38:20
+
+um certo nível de apoio institucional
+ 00:38:24
+
+local eh casas de agricultura
+ 00:38:26
+
+secretarias de agricultura cooperativas
+ 00:38:28
+
+então o o eh eh uma uma Total ausência
+ 00:38:31
+
+de eh de infraestrutura um um município
+ 00:38:35
+
+também precário demais não permitiria o
+ 00:38:39
+
+desenvolvimento aí de eh de um trabalho
+ 00:38:42
+
+eh então a metodologia buscava
+ 00:38:45
+
+eh eh municípios eh medianos digamos
+ 00:38:48
+
+assim eh eh que não eh não fossem
+ 00:38:52
+
+desenvolvidos demais a ponto de não
+ 00:38:56
+
+precisarem da atuação do centro
+ 00:38:58
+
+eh mas também que não fossem muito
+ 00:39:00
+
+precários que en viabilizassem eh o
+ 00:39:03
+
+trabalho mas que poderiam se cujas
+ 00:39:06
+
+cadeias de produção e cujos produtores
+ 00:39:10
+
+poderiam se beneficiar muito eh eh da
+ 00:39:12
+
+pesquisa do centro ou seja onde o centro
+ 00:39:16
+
+realmente poderia ter um um impacto
+ 00:39:18
+
+significativo também
+ 00:39:20
+
+eh se tentou eh na medida do possível
+ 00:39:23
+
+cobr todos os biomas eh eh do país eh
+ 00:39:27
+
+então nós temos eh dates na na região no
+ 00:39:32
+
+bioma da mata atlântica no Bioma do
+ 00:39:36
+
+serrado Amazônia Catinga Embora tenha
+ 00:39:38
+
+faltado eh Pampa e e e e Pantanal não é Eh
+ 00:39:41
+
+eh a gente não conseguiu
+ 00:39:46
+
+eh nesse desenho cobrir todos os biomas
+ 00:39:48
+
+mas eh Mas conseguimos cobrir ali eh
+ 00:39:52
+
+quatro do do eh eh do dos seis eh dos
+ 00:39:56
+
+seis biomas nacionais
+ 00:40:01
+
+eh então o o nesse processo foram
+ 00:40:03
+
+selecionados esses 10 municípios na
+ 00:40:07
+
+região norte Breves eh Pará Ilha de
+ 00:40:09
+
+Marajó eh Nordeste boav vista do Tupim
+ 00:40:12
+
+na na Bahia centrooeste Guia Lopes da
+ 00:40:15
+
+Laguna Mato Grosso do
+ 00:40:18
+
+Sul
+ 00:40:20
+
+eh eh no sudeste os dois da
+ 00:40:22
+
+experimentais
+ 00:40:27
+
+e iniciais foram Obrigatoriamente
+ 00:40:29
+
+incluídos então cacon de São Miguel
+ 00:40:32
+
+Arcanjo onde foi iniciado o a iniciativa
+ 00:40:36
+
+semear foram mantidos
+ 00:40:40
+
+para por razões de continuidade e foram
+ 00:40:43
+
+selecionados Alto Alegre eh Jacupiranga
+ 00:40:46
+
+região ali Ban cultora do do Vale do
+ 00:40:50
+
+Ribeira n e Lagoinha São Paulo eh eh e
+ 00:40:53
+
+Ah soma-se ainda em gí em Minas Gerais
+ 00:40:59
+
+não é Aos eh como aí os os dates da da
+ 00:41:03
+
+região Sudeste e em Sul e eh Vacaria ali
+ 00:41:09
+
+na ali no norte do do Rio Grande do Sul
+ 00:41:14
+
+eh ali divisa com com Santa Catarina tá
+ 00:41:17
+
+Esses são os 10 dates eh eh em curso o
+ 00:41:21
+
+hoje no
+ 00:41:26
+
+no semear
+ 00:41:27
+
+digital
+ 00:41:30
+
+então
+ 00:41:36
+
+perdão exemplos
+ 00:41:38
+
+e e dos datis tomando aí
+ 00:41:41
+
+emprestado exemplos dos dat originais não é
+ 00:41:45
+
+São Miguel Arcanjo e Cac
+ 00:41:49
+
+não é foram identificadas ali as principais
+ 00:41:53
+
+principais eh demandas eh dos pequenos e
+ 00:41:57
+
+médios produtores então São Miguel
+ 00:41:59
+
+Arcanjo demanda por rastreabilidade
+ 00:42:02
+
+ferramentas para comercialização fentos
+ 00:42:04
+
+para Crédito Rural gestão de da
+ 00:42:07
+
+propriedade isso foi identificado eh
+ 00:42:09
+
+essas demandas eh no dat São Miguel eh
+ 00:42:12
+
+no no dat de Caconde também necessidade
+ 00:42:16
+
+de gestão da eh da propriedade rural
+ 00:42:20
+
+previsão de risco climático
+ 00:42:22
+
+eh compra e venda de insumos eh eh
+ 00:42:25
+
+também e também rastreabilidade então
+ 00:42:29
+
+tem algumas demandas
+ 00:42:31
+
+eh que surgem eh de maneira similar em
+ 00:42:33
+
+vários distritos por exemplo raste
+ 00:42:37
+
+abilidade
+ 00:42:39
+
+eh ferramentas para gestão um da
+ 00:42:40
+
+propriedade então é claro que a ideia e
+ 00:42:43
+
+eh é desenvolver provas de conceito que
+ 00:42:46
+
+possam atender aí mais de mais de um
+ 00:42:50
+
+distrito embora respeite ali as
+ 00:42:53
+
+particularidades sejam desenvolvidas as
+ 00:42:56
+
+provas de conceitos particulares aí para
+ 00:42:58
+
+cada para cada distrito
+ 00:43:01
+
+eh o levantamento dessas demandas está
+ 00:43:04
+
+sendo feito também nos o nos outros oito
+ 00:43:07
+
+distritos não é Eh que foram
+ 00:43:10
+
+visitados produtores foram selecionados
+ 00:43:13
+
+eh eh entrevistados e o resultado eh eh
+ 00:43:15
+
+dessas análises iniciais vão ser
+ 00:43:19
+
+apresentadas agora em junho no no num
+ 00:43:21
+
+workshop grande do centro que vai ser
+ 00:43:25
+
+realizado presencialmente ali em
+ 00:43:27
+
+Piracicaba
+ 00:43:29
+
+eh na isc quando o ia vai apresentar ali
+ 00:43:30
+
+eh os primeiros relatórios da eh das eh
+ 00:43:35
+
+das primeiras análises socioeconômicas
+ 00:43:38
+
+eh desses dois mais os oito eh novos
+ 00:43:40
+
+dats criados eh eh
+ 00:43:44
+
+eh no no
+ 00:43:48
+
+CCV
+ 00:43:51
+
+eh então eh eh como Como disse
+ 00:43:53
+
+anteriormente a o poques provas de
+ 00:43:57
+
+conceito eh eh pilotos bem sucedidos ali
+ 00:44:00
+
+na parte de pesquisa e desenvolvimento
+ 00:44:04
+
+deveriam encontrar aí o seu caminho pro
+ 00:44:06
+
+o o pro mercado não é Eh eh se
+ 00:44:08
+
+adotado eh eh eh eh nos dats com com
+ 00:44:12
+
+auxílio ali de eh de de Agentes do
+ 00:44:17
+
+mercado então a o o o centro além de ter
+ 00:44:20
+
+formalmente um plano de pesquisa ele
+ 00:44:23
+
+também tem um plano de parcerias eh e e
+ 00:44:26
+
+inovação eh inclusive por exigência da
+ 00:44:30
+
+própria Fapesp não é Eh tem um plano de
+ 00:44:33
+
+pesquisa eh eh de pid mas também tem que
+ 00:44:36
+
+ter um plano de parcerias e eh e
+ 00:44:38
+
+inovação não é
+ 00:44:42
+
+Eh então o o
+ 00:44:45
+
+o o CCD ele tem eh pessoas dedicadas
+ 00:44:49
+
+e à parte de parceria a fazer
+ 00:44:54
+
+articulação e negociação de parcerias
+ 00:44:57
+
+com outros agentes que não são H eh
+ 00:45:00
+
+aquelas eh necessariamente aquel As
+ 00:45:04
+
+instituições de de pesquisa que eu falei
+ 00:45:07
+
+hã eh que compõe o centro não é então são
+ 00:45:10
+
+outras eh instituições públicas e
+ 00:45:15
+
+privadas que queiram se eh Se integrar
+ 00:45:17
+
+ao centro justamente para levar
+ 00:45:20
+
+Eh esses pilotos essas poques eh eh eh
+ 00:45:22
+
+para os datis e e manter esses produtos
+ 00:45:27
+
+e serviços eh para os pequenos e médios
+ 00:45:31
+
+produtores eh desses dados
+ 00:45:34
+
+eh embora eh a gente possa falar que a
+ 00:45:37
+
+maneira canônica seria o desenvolvimento
+ 00:45:41
+
+dessa tecnologia a validação pelas
+ 00:45:44
+
+instituições eh eh eh de de pesquisa e
+ 00:45:48
+
+tecnologia eh do centro e aí ao final não é
+ 00:45:52
+
+o o o Essas tecnologias validadas seu
+ 00:45:56
+
+Impacto avaliado elas transferidas para
+ 00:46:00
+
+para
+ 00:46:02
+
+eh para essas outras instituições esses
+ 00:46:05
+
+outros agentes eh nada impede no no no
+ 00:46:07
+
+plano de parceria de instituições
+ 00:46:11
+
+públicas e privadas que também tenham
+ 00:46:14
+
+suas próprias infraestruturas de
+ 00:46:17
+
+pesquisa e desenvolvimento ou seja são
+ 00:46:19
+
+instituições também capazes de eh de
+ 00:46:21
+
+fazer eh pesquisa desenvolvimento de
+ 00:46:24
+
+atuarem no centro num nível mais
+ 00:46:28
+
+Eh mais baixo da escala
+ 00:46:31
+
+trl escala trl para não quem não conhece
+ 00:46:34
+
+é uma escala de maturidade tecnológica
+ 00:46:38
+
+não é onde você vai do nível um que é o
+ 00:46:41
+
+nível de princípios básicos eh pesquisa
+ 00:46:44
+
+essencial pesquisa fundamental até o
+ 00:46:47
+
+nível no que é são eh eh que é uma
+ 00:46:50
+
+tecnologia que já é um produto ou um
+ 00:46:54
+
+serviço de mercado não é já é algo de
+ 00:46:55
+
+eh adotado um um produto ou um serviço
+ 00:46:58
+
+de prateleir não é então escala trl ela
+ 00:47:01
+
+tenta
+ 00:47:05
+
+eh
+ 00:47:06
+
+eh eh mapear não é todo esse eh esse
+ 00:47:08
+
+caminho ali do da pesquisa mais básica
+ 00:47:11
+
+até até um produto final não é Eh então dos
+ 00:47:14
+
+níveis 1 dois e três você tem princípios
+ 00:47:18
+
+básicos pesquisa eh elementar concepção
+ 00:47:21
+
+validação conceitual
+ 00:47:24
+
+prospecção os níveis 4 5 6 eh que são
+ 00:47:27
+
+protótipos provas de conceito ensaios
+ 00:47:31
+
+laboratoriais
+ 00:47:35
+
+eh pilotos de de pequena
+ 00:47:37
+
+eh de pequena escala e validação e
+ 00:47:42
+
+finalmente os níveis mais altos não é
+ 00:47:45
+
+Eh eh 7 8 e 9 já eh
+ 00:47:47
+
+eh sistemas e eh nível de produção
+ 00:47:51
+
+adoção em escala eh eh aqui onde já já
+ 00:47:56
+
+tem ali discussões de eh de
+ 00:47:59
+
+propriedade de propriedade intelectual
+ 00:48:02
+
+também então eh eh uma instituição
+ 00:48:05
+
+parceira ela pode tentar traz eh eh
+ 00:48:10
+
+levar pro dat levar pros produtores
+ 00:48:14
+
+eh tecnologias que foram desenvolvidas
+ 00:48:17
+
+no centro n que aí estão saindo ali do
+ 00:48:20
+
+do nível se e 7 eh
+ 00:48:23
+
+para implementá-las em escalas eh eh nos
+ 00:48:27
+
+distritos então levar comercialmente
+ 00:48:32
+
+Eh esses produtos e serviços digitais
+ 00:48:34
+
+para os produtores eh em escala Ou
+ 00:48:38
+
+aquelas eh instituições que têm
+ 00:48:41
+
+capacidade de PDI também podem ingressar
+ 00:48:44
+
+eh no nível mais precoce e e ajudado
+ 00:48:47
+
+também nos esforços de eh de pid eh aqui
+ 00:48:51
+
+ali entre os itens eh eh entre os níveis
+ 00:48:55
+
+de de de um a seis então não tem nada no
+ 00:48:59
+
+plano de parcerias que impeça que uma
+ 00:49:01
+
+uma instituição eh eh eh parceira
+ 00:49:04
+
+eh eh eh entre em projetos conosco
+ 00:49:08
+
+trabalhando desde os níveis mais básicos
+ 00:49:13
+
+da escala TR eh outras empresas que não
+ 00:49:15
+
+não não tem uma eh eh eh instituições
+ 00:49:19
+
+que não t uma uma infraestrutura tão
+ 00:49:22
+
+grande de de pesquisa e desenv
+ 00:49:25
+
+volvimento aí podem se ater mais a essa
+ 00:49:26
+
+parte de finalização eh de fazer o go to
+ 00:49:29
+
+Market de de levar aquela solução
+ 00:49:32
+
+eh eh e para
+ 00:49:35
+
+o para os
+ 00:49:39
+
+produtores
+ 00:49:41
+
+eh quem são esses potenciais parceiros
+ 00:49:43
+
+não é
+ 00:49:46
+
+Eh os próprios produtores ou suas
+ 00:49:47
+
+associações não é que seria mais comum não é
+ 00:49:50
+
+sobretudo as cooperativas não é eh pequenas
+ 00:49:54
+
+e médias Empresas startups Grandes
+ 00:49:57
+
+Empresas
+ 00:50:00
+
+eh
+ 00:50:02
+
+ecossistemas programas de
+ 00:50:04
+
+empreendedorismo e inovação agentes
+ 00:50:06
+
+públicos então Agentes do dos Municípios
+ 00:50:08
+
+ão secretaria de agricultura
+ 00:50:11
+
+eh casas de agricultura agentes públicos
+ 00:50:13
+
+do Estado agentes financeiros então Eh
+ 00:50:17
+
+Agentes do crédito e do seguro o
+ 00:50:21
+
+agrícola eh agentes de capital de risco
+ 00:50:23
+
+o
+ 00:50:26
+
+eh além de eh o o o universidades
+ 00:50:27
+
+eh e e e instituições de ensino no geral
+ 00:50:33
+
+então eh
+ 00:50:37
+
+eh vários tipos de parceria podem ser eh
+ 00:50:40
+
+desenvolvidas e como eu falei o centro
+ 00:50:43
+
+tem um plano para isso tem pessoas eh
+ 00:50:46
+
+apropriadas por isso não eu que eu não
+ 00:50:49
+
+eu sou um um pesquisador de eh de
+ 00:50:50
+
+carteirinha não é Eh sou não sou tão bom em
+ 00:50:53
+
+articulação em negócios mas felizmente a
+ 00:50:56
+
+gente tem gente boa em articulação e
+ 00:50:59
+
+negócios que
+ 00:51:01
+
+eh eh eh responsável ali por o por essas
+ 00:51:02
+
+parcerias modelo de negócios que nós
+ 00:51:08
+
+gostaríamos que n eh eh que nós
+ 00:51:11
+
+esperamos eh
+ 00:51:14
+
+eh são modelos de negócios que sejam eh
+ 00:51:16
+
+de baixo custo ou se possível gratuitos
+ 00:51:20
+
+para os pequenos eh produtores não é eh
+ 00:51:23
+
+baseado aí nessa ideia de de pirâmide
+ 00:51:27
+
+invertida não é então que o os os custos
+ 00:51:30
+
+são pagos por por outros agentes maiores
+ 00:51:33
+
+eh que se beneficiam eh eh eh eh também
+ 00:51:36
+
+da adoção dessas tecnologias e possam eh
+ 00:51:41
+
+financiar eh garantir a sustentabilidade
+ 00:51:44
+
+da adoção eh eh e operação dessas
+ 00:51:47
+
+tecnologias eh eh eh nos pequenos
+ 00:51:51
+
+produtores não é então e eh algumas pessoas
+ 00:51:54
+
+chamam isso de pirâmide invertida eh eh
+ 00:51:58
+
+não é então você tem outros eh outros
+ 00:52:01
+
+agentes de mercado ali bancando eh eh a
+ 00:52:04
+
+tecnologia para para adoção
+ 00:52:08
+
+eh subsidiando o o a adoção pelos
+ 00:52:11
+
+pequenos e eh eh pelos pequenos e médios
+ 00:52:15
+
+eh
+ 00:52:17
+
+produtores então para para finalizar
+ 00:52:24
+
+eh então Eh onde estamos aí no nosso
+ 00:52:27
+
+cronograma não é entre 2023 e 2024 eh foi o
+ 00:52:31
+
+o primeiro ano efetivo de atividade do
+ 00:52:35
+
+centro não é e o enfoque foi dado na
+ 00:52:38
+
+seleção e definição dos distritos não é na
+ 00:52:41
+
+seleção daqueles 10 distritos na verdade
+ 00:52:44
+
+oito não é uma vez que eh assumiu-se a
+ 00:52:47
+
+continuidade dos dois eh dos dois datos
+ 00:52:50
+
+originais Cac de São Miguel Arcanjo h
+ 00:52:52
+
+eh depois selecionados esses datos foram
+ 00:52:57
+
+visitados eh as equipes do centro foram
+ 00:53:00
+
+eh visitaram cada um daqueles eh eh
+ 00:53:04
+
+municípios o Instituto de Economia
+ 00:53:09
+
+agrícola aplicou questionários fez
+ 00:53:11
+
+entrevistas com com vários produtores
+ 00:53:13
+
+para fazer essa caracterização
+ 00:53:15
+
+eh eh eh das demandas do dos distritos e
+ 00:53:18
+
+também eh a a a a a própria eh
+ 00:53:23
+
+organização interna do do centro não é
+ 00:53:26
+
+estabelecia os seus processos internos
+ 00:53:30
+
+não é Fazer o o o centro Começar a andar
+ 00:53:33
+
+Remar numa Remar na mesma direção não é é
+ 00:53:36
+
+um centro multi-institucional então
+ 00:53:40
+
+criar processos que são
+ 00:53:42
+
+multi-institucional
+ 00:53:44
+
+de equipamento contratação de bolsistas
+ 00:53:46
+
+eh tudo isso foi sendo resolvido E
+ 00:53:50
+
+azeitado aí ao longo desse primeiro ano
+ 00:53:53
+
+de de trabalho é de 2024 a 2027 não é
+ 00:53:57
+
+Eh eh São executados os planos de
+ 00:54:02
+
+pesquisa para cada eixo não é com apoio dos
+ 00:54:06
+
+bolsistas
+ 00:54:08
+
+eh e outras instituições parceiras que
+ 00:54:09
+
+se agreguem eh incorporadas não eh
+ 00:54:13
+
+eh não só a partir do financiamento
+ 00:54:17
+
+original da Fapesp mas
+ 00:54:20
+
+também por meio de chamadas de novos
+ 00:54:22
+
+editais de novas
+ 00:54:25
+
+chamadas organizadas eh com a Fapesp eh
+ 00:54:27
+
+sobretudo no programa PIP eh Fapesp que
+ 00:54:31
+
+é o financiamento eh de eh de empresas
+ 00:54:34
+
+de de tecnologia então eh eh o que a
+ 00:54:37
+
+gente espera que empresas de tecnologia
+ 00:54:41
+
+para que queiram se integrar ao centro e
+ 00:54:43
+
+precisem de financiamento eh eh paraa
+ 00:54:45
+
+atuação consigam
+ 00:54:48
+
+eh eh disputar eh eh editais PIP para
+ 00:54:50
+
+terem a a sobretudo pequenas empresas
+ 00:54:55
+
+startups que não tenham eh capital para
+ 00:54:59
+
+isso Eh que que consigam Eh aí eh pela
+ 00:55:02
+
+Fapesp eh o o o o capital necessário o o
+ 00:55:07
+
+eh pro desenvolvimento da das suas
+ 00:55:13
+
+atividades
+ 00:55:15
+
+eh e da o que tem mais para falar aqui
+ 00:55:18
+
+eh monitoramento validação dos dados eh
+ 00:55:21
+
+ah sim eh E durante todo esse período a
+ 00:55:24
+
+gente tem monitoramento e validação dos
+ 00:55:28
+
+datis e dos impactos da das das
+ 00:55:31
+
+tecnologias adotadas
+ 00:55:34
+
+eh resultados dos pilotos eh e o
+ 00:55:37
+
+monitoramento não é dos aspectos
+ 00:55:40
+
+socioeconômicos e ambientais
+ 00:55:41
+
+eh das tecnologias que estão sendo eh
+ 00:55:44
+
+propostas
+ 00:55:47
+
+eh o que eu tinha para eh eh mostrar
+ 00:55:50
+
+para vocês é isso eh n Eu
+ 00:55:55
+
+particularmente acho
+ 00:55:58
+
+Ah acho difícil explicar todo
+ 00:55:59
+
+ah toda essa ideia de dat do o que que
+ 00:56:03
+
+esse centro faz
+ 00:56:06
+
+eh eh eh da atuação do eh do centro eu
+ 00:56:08
+
+espero que eh eh todos tenham uma ideia
+ 00:56:13
+
+eh
+ 00:56:17
+
+o de qual é qual é a proposta eh eh eh
+ 00:56:19
+
+do centro e como a gente pretende eh
+ 00:56:24
+
+fazer isso nos próximos anos e agora vou
+ 00:56:26
+
+vou finalizar minha apresentação E aí
+ 00:56:30
+
+abrir para discussões junto com osin e o
+ 00:56:32
+
+Ezequiel Muito obrigado pela pela
+ 00:56:35
+
+atenção de
+ 00:56:37
+
+vocês muito bom Thiago Muito obrigado
+ 00:56:39
+
+pela pela apresentação aí dos dats
+ 00:56:42
+
+agricultura digital aí eu acho que é o
+ 00:56:45
+
+futuro aí presente e futuro não é
+ 00:56:47
+
+Eh muito necessária paraa Nossa
+ 00:56:50
+
+agricultura principalmente paraa
+ 00:56:52
+
+Agricultura Familiar e a nossa o grande
+ 00:56:54
+
+desafio é como integrar isso na prática
+ 00:56:56
+
+não é Para que nossos agricultores tenham
+ 00:56:58
+
+acesso não é não sejam excluídos apesar de
+ 00:57:02
+
+ter internet sejam excluídos desse
+ 00:57:05
+
+processo é um grande desafio mesmo muito
+ 00:57:08
+
+bom gente eu vou fazer um comentário
+ 00:57:09
+
+aqui do dos pessoal que tá presente aí
+ 00:57:12
+
+só pro Thiago ter noção aí o O Fábio tá
+ 00:57:14
+
+presente Adriana gregolin aí da F não é
+ 00:57:17
+
+sempre presente obrigado pela presença
+ 00:57:20
+
+aí também Professor Tarcísio do
+ 00:57:22
+
+Instituto Federal do Rio Grande do Sul
+ 00:57:24
+
+ali do IF Santo Augusto não é do Instituto
+ 00:57:25
+
+Federal aí de Santo Augusto e a ing
+ 00:57:29
+
+também aí colocou comentário não é pessoal
+ 00:57:32
+
+pessoal aí colocando seu bom dia aí na
+ 00:57:35
+
+Live ficam também à disposição para
+ 00:57:37
+
+fazer perguntas aí pro nosso convidado
+ 00:57:39
+
+zuin vou passar a palavra para você e aí
+ 00:57:41
+
+você faz essa interlocução agora por
+ 00:57:44
+
+favor tudo bom thgo muito bacana o
+ 00:57:46
+
+projeto de vocês Nossa eu tenho muitas
+ 00:57:49
+
+curiosidades para saber não é Eh a primeira
+ 00:57:52
+
+não sei se se vocês já têm essa resposta
+ 00:57:55
+
+ou indicativo de que quando a internet
+ 00:57:57
+
+ela entra no domicílio Rural do pequeno
+ 00:58:00
+
+e médio PR eh pequeno médio agricultor
+ 00:58:03
+
+ela entra para resolver em primeiro
+ 00:58:06
+
+lugar que tipo de desafio não é não sei se
+ 00:58:09
+
+vocês por exemplo identificaram isso em
+ 00:58:12
+
+Caconde não é em São Manuel não é Por exemplo
+ 00:58:14
+
+uma pessoa que tinha que não tinha
+ 00:58:18
+
+internet no domicílio dele não é que nem
+ 00:58:19
+
+você falou muito bem no até o domicílio
+ 00:58:21
+
+ela ela vai bem depois fora do domicílio
+ 00:58:23
+
+já já complica não é ali a internet mas o
+ 00:58:26
+
+que que vocês estão notando assim na
+ 00:58:30
+
+hora que chega uma família que tava com
+ 00:58:32
+
+uma internet razoável ou ruim não é ou não
+ 00:58:35
+
+tinha que que isso mudou na vida deles
+ 00:58:38
+
+eh eh eu eu tava assistindo a
+ 00:58:41
+
+apresentação da da Ana Xavier que me
+ 00:58:46
+
+antecedeu aqui no na série não é eu tava
+ 00:58:49
+
+falando eh sobre sobre aé digital não é e
+ 00:58:52
+
+Ela mostrou eh bons exemplos ali com
+ 00:58:57
+
+WhatsApp não é então que a gente nota é é
+ 00:59:00
+
+algo muito linha do que a Ana eh mostrou
+ 00:59:04
+
+ali
+ 00:59:08
+
+no no vídeo passado na apresentação
+ 00:59:09
+
+passado
+ 00:59:11
+
+eh o os os produtores começam a
+ 00:59:13
+
+eh se comunicar eh entre si e com eh com
+ 00:59:18
+
+os agentes de eh de extensão eh alguma
+ 00:59:23
+
+coisa em comercialização então acertos
+ 00:59:27
+
+de de compra e venda de de insumos e da
+ 00:59:29
+
+produção ali pelo
+ 00:59:32
+
+eh eh eh
+ 00:59:34
+
+eh por chat não é
+ 00:59:38
+
+Eh muito uso de do áudio não é a invés de
+ 00:59:41
+
+digitação não é Eh falar verbalmente ali a
+ 00:59:45
+
+as
+ 00:59:49
+
+demandas uma parte de de de informação
+ 00:59:50
+
+não é então busca de Notícias
+ 00:59:55
+
+entretenimento então é é é muito do que
+ 00:59:57
+
+um um usuário Urbano normalmente faria
+ 01:00:01
+
+não é
+ 01:00:05
+
+Eh
+ 01:00:06
+
+também redes sociais e eh internet eh
+ 01:00:08
+
+eh
+ 01:00:14
+
+e eh muitos
+ 01:00:17
+
+eh quando a gente conversa com os
+ 01:00:20
+
+produtores também uma importância muito
+ 01:00:23
+
+grande na
+ 01:00:25
+
+eh na parte de de instrução dos filhos
+ 01:00:28
+
+então Eh filhos com demandas escolares
+ 01:00:31
+
+usando finalmente conseguindo da da da
+ 01:00:35
+
+propriedade fazer pesquisas
+ 01:00:38
+
+ou atender outras demandas da da escola
+ 01:00:41
+
+eh os produtores muitos produtores e
+ 01:00:45
+
+associações e produtores reportam também
+ 01:00:49
+
+uma necessidade
+ 01:00:52
+
+eh de
+ 01:00:54
+
+e a própria permanência do jovem no do
+ 01:00:57
+
+campo é atrelada a a a existência da
+ 01:01:02
+
+internet eh o o o você tem mais exo do
+ 01:01:05
+
+Rural do jovem pela ausência de internet
+ 01:01:09
+
+que que que vai embora porque eu tô aqui
+ 01:01:12
+
+eu tô desconectado não é Isso foi eh eh eh
+ 01:01:15
+
+isso foi abordado por vários produtores
+ 01:01:20
+
+eh inclusive um relato mais forte disso
+ 01:01:22
+
+que eu ouvi disso foi no dat de
+ 01:01:25
+
+Jacupiranga então ali região do V do
+ 01:01:27
+
+Ribeira essa questão foi abordada com
+ 01:01:31
+
+com muita ênfase não é Eh sem internet o
+ 01:01:34
+
+jovem não não não não fica no campo
+ 01:01:36
+
+eh ele vai
+ 01:01:39
+
+embora então o o o primeiro uso é esse
+ 01:01:42
+
+uso básico sobretudo centrado em
+ 01:01:46
+
+ferramentas de comunicação do tipo chat
+ 01:01:49
+
+Como como o como o WhatsApp uhum uma
+ 01:01:52
+
+pergunta agora bem bem bem acho que da
+ 01:01:56
+
+sua área viu thgo aquela aquela
+ 01:01:59
+
+interface da imagem que você mostrou na
+ 01:02:01
+
+I ali uhum a a captação da imagem não é Eu
+ 01:02:04
+
+vi claro que teve aquela do Drone por
+ 01:02:08
+
+cima ali não é que que você falou aqui é o
+ 01:02:10
+
+Drone passando tal não é mas a outra imagem
+ 01:02:12
+
+ali ela é ao nível no nível do solo não é
+ 01:02:16
+
+Ela é captada como com uma câmera com o
+ 01:02:20
+
+celular como é que ela é captada aquela
+ 01:02:23
+
+aquela imagem ali
+ 01:02:25
+
+eh nas imagens eh que a gente teve ali
+ 01:02:29
+
+de e
+ 01:02:33
+
+eh de laranja na verdade as de uva
+ 01:02:36
+
+também lembrei eh o as imagens de uva
+ 01:02:39
+
+foram captadas com celular
+ 01:02:43
+
+eh então
+ 01:02:45
+
+eh a gente tava num carro de de serviço
+ 01:02:47
+
+um veículo pequeno de pequeno porte que
+ 01:02:51
+
+conseguia passar entre as linhas e
+ 01:02:53
+
+aquele vídeo foi obtido com eh com uso
+ 01:02:55
+
+de de um
+ 01:02:58
+
+celular no caso da laranja foi um caso
+ 01:02:59
+
+interessante de uma pesquisa Nossa aqui
+ 01:03:02
+
+dacultura digital com fundecitrus eh Ali
+ 01:03:05
+
+era a equipe do programa de estimativa
+ 01:03:09
+
+eh do da pesquisa Estimativa de safra do
+ 01:03:11
+
+fund Citrus
+ 01:03:15
+
+eh que tava fazendo antes de realizar a
+ 01:03:16
+
+derriça para contagem de frutos eles
+ 01:03:20
+
+realizaram aquela filmagem com eh com no
+ 01:03:22
+
+celular a ideia era justamente ver eh
+ 01:03:26
+
+avaliar a possibilidade de evitar
+ 01:03:30
+
+derriça utilizando ferramentas de eh
+ 01:03:33
+
+divisão computacional eh Então isso é eh
+ 01:03:36
+
+da nossa parte ele é animador porque a
+ 01:03:40
+
+gente consegue ver que um um celular
+ 01:03:43
+
+consegue ali
+ 01:03:46
+
+eh uma qualidade de imagem para certas
+ 01:03:48
+
+para certas tarefas e e a ideia Qual é é
+ 01:03:51
+
+a aquela aquela imagem ela é captada
+ 01:03:55
+
+dentro de um aplicativo ou fora ou que
+ 01:03:58
+
+depois é jogada nesse aplicativo ou em
+ 01:04:01
+
+algum
+ 01:04:03
+
+lugar eu peço desculpa tô me recuperando
+ 01:04:08
+
+f a vontade fica se quiser beber água
+ 01:04:11
+
+fique à vontade Tho tem
+ 01:04:13
+
+problema gripe quase me derrubou mas tô
+ 01:04:16
+
+aqui ótimo E no caso o celular foi
+ 01:04:19
+
+utilizado
+ 01:04:24
+
+para apenas a captação Então e o vídeo é
+ 01:04:27
+
+transmitido paraum pipeline no outro
+ 01:04:31
+
+sistema que rodou aqui num brapa
+ 01:04:34
+
+pipelines grandes de de processamento de
+ 01:04:36
+
+de imagem
+ 01:04:39
+
+e o que que a gente tem
+ 01:04:41
+
+programado pro centro é é tentar
+ 01:04:44
+
+realizar esse tipo de Contagem estimação
+ 01:04:49
+
+de Safra com ed computing então ação que
+ 01:04:52
+
+vai ser feita ali na propriedade então
+ 01:04:56
+
+embarcar num veículo um computador com
+ 01:04:59
+
+uma certa capacidade de realizar esse
+ 01:05:02
+
+procedimento eh ainda em campo então a
+ 01:05:04
+
+eh A ideia é que você termine
+ 01:05:07
+
+de de fazer uma varredura na área e você
+ 01:05:11
+
+já tenha
+ 01:05:14
+
+eh a a ali uma prévia da a da Estimativa
+ 01:05:15
+
+de produção computada ali
+ 01:05:20
+
+ã E aí esse dado já eh já sumarizado
+ 01:05:23
+
+transmitido para eh para fins de
+ 01:05:28
+
+histórico e análise temporal de de de
+ 01:05:32
+
+longo prazo então e é é é eh essa ideia
+ 01:05:35
+
+que a gente eh tá trabalhando essa é uma
+ 01:05:38
+
+linha de de de para mais exatamente a
+ 01:05:41
+
+minha linha de eh de pesquisa no C Tá
+ 01:05:44
+
+mas a ideia então é você levar um
+ 01:05:48
+
+equipamento para propriedade rural não é E
+ 01:05:49
+
+esse equipamento ele já captar e de uma
+ 01:05:52
+
+de certa forma já tratar esses dados em
+ 01:05:55
+
+loco ali é isso essa é ideia is isso é é
+ 01:05:57
+
+essa ideia Inicial eh depois como é que
+ 01:06:01
+
+a gente
+ 01:06:04
+
+eh leva isso de forma sustentável pro
+ 01:06:05
+
+pequeno pro médio produtor então Legal
+ 01:06:09
+
+Quanto vai custar essa solução final eh
+ 01:06:12
+
+dá para dá para fazer mais barato dá eh
+ 01:06:14
+
+não não dá Então beleza como esse
+ 01:06:19
+
+serviço vai ser levado Ah não é tão
+ 01:06:20
+
+barato que o produtor cada um vai poder
+ 01:06:22
+
+ter o seu legal eh não não é tão barato
+ 01:06:26
+
+vai precisar ter um prestador de serviço
+ 01:06:28
+
+que vende esse serviço tá eh eh eh
+ 01:06:30
+
+Quanto isso vai custar e Eh toda essa
+ 01:06:34
+
+questão de
+ 01:06:36
+
+finalização não é de Putz como é que a
+ 01:06:38
+
+gente faz isso isso se tornar
+ 01:06:41
+
+sustentável em escala eh eh pro
+ 01:06:43
+
+produtor pro produtor utilizar lembrando
+ 01:06:48
+
+eh no caso da fruticultura eh tem margem
+ 01:06:52
+
+pequena eh não é então você não pode ah ter
+ 01:06:56
+
+um custo enorme de computação eh eh aqui
+ 01:06:59
+
+a a margem do meu produto não eh Não
+ 01:07:03
+
+Banca Não Banca isso então a gente eh eu
+ 01:07:06
+
+quer estudar soluções que eh eh que
+ 01:07:09
+
+tenha um viabilidade eh eh Econômica não
+ 01:07:12
+
+posso gastar mais em energia em de
+ 01:07:17
+
+sistema de Inteligência Artificial o que
+ 01:07:20
+
+o que vai o que tem de valor ali na eh
+ 01:07:23
+
+de produto então agora como isso vai ser
+ 01:07:26
+
+eh levado ao final e depende justamente
+ 01:07:29
+
+de todo esse estudo Desde da parte
+ 01:07:33
+
+socioeconômica até a parte de
+ 01:07:36
+
+pesquisa até encontrar os parceiros eh
+ 01:07:38
+
+dispostos a a a levar
+ 01:07:41
+
+o a
+ 01:07:44
+
+solução eu acho que agora ezequel podia
+ 01:07:46
+
+passar os comentários aliis a gente
+ 01:07:49
+
+volta tranquilo a a ingd fala o seguinte
+ 01:07:51
+
+a comunicação no digital para as
+ 01:07:56
+
+empresas do Agro é primordial para que
+ 01:07:57
+
+mais pessoas conheçam a propriedade ou
+ 01:08:00
+
+as culturas das regiões brasileiras é
+ 01:08:03
+
+importantíssimo não é hoje a gente sabe que
+ 01:08:05
+
+a no passado a gente não tinha muita
+ 01:08:08
+
+comunicação não é a comunicação era mais
+ 01:08:10
+
+restrita e hoje já tem essa fluidez aí
+ 01:08:12
+
+da das redes sociais principalmente não é
+ 01:08:15
+
+com o acesso à internet tem ajudado
+ 01:08:18
+
+bastante aqui a folet comentou o
+ 01:08:20
+
+seguinte que é muito importante não é ter a
+ 01:08:23
+
+sucessão familiar não é não é a sucessão
+ 01:08:25
+
+familiar é um dos grandes gargalos hoje
+ 01:08:27
+
+não se faz sucessão familiar se os
+ 01:08:29
+
+jovens não têm renda e sociabilidade no
+ 01:08:32
+
+campo não é um tema que a gente não vai
+ 01:08:34
+
+resolver tão cedo assim mas que é muito
+ 01:08:37
+
+importante eh pro pro desenvolvimento da
+ 01:08:40
+
+nossa agricultura principalmente
+ 01:08:43
+
+Agricultura Familiar fazer uma questão
+ 01:08:45
+
+aqui a Andreia também coloca aqui
+ 01:08:47
+
+eh bem Eu Vou Chamar André André é nosso
+ 01:08:50
+
+aluno da fruticultura viu thago e e ela
+ 01:08:53
+
+já que os dias vai trabalhar na área de
+ 01:08:55
+
+extensão Rural e André diz o seguinte
+ 01:08:58
+
+Bom dia nessa parte de redução de custos
+ 01:09:00
+
+é muito importante a parceria não é
+ 01:09:03
+
+empresas poder público entidades até
+ 01:09:06
+
+para para chegar até o produtor muito
+ 01:09:09
+
+importante isso aí não é porque muitos
+ 01:09:12
+
+agricultores não talvez não tenham
+ 01:09:14
+
+acesso à tecnologia pelo pela fato dos
+ 01:09:16
+
+recursos financeiros não é mas bem como o
+ 01:09:19
+
+Thiago comentou aí thgo tenho uma dúvida
+ 01:09:22
+
+não sei também se em que fase está não é
+ 01:09:25
+
+mas você comentou ali em num dos dats
+ 01:09:28
+
+seu ali sobre tinha as questões do
+ 01:09:31
+
+crédito e gestão da propriedade não é a
+ 01:09:34
+
+gente sabe que isso hoje é fundamental
+ 01:09:36
+
+não é fazer gestão da propriedade
+ 01:09:38
+
+independente do tamanho dela e saber do
+ 01:09:40
+
+acesso ao crédito é muito legal você já
+ 01:09:43
+
+tem algum alguns resultados nesse
+ 01:09:46
+
+sentido ou ainda ou ainda ainda tá em
+ 01:09:48
+
+fase de desenvolvimento essa questão
+ 01:09:51
+
+sobre o que fazer sobre essa as duas
+ 01:09:53
+
+áreas crédito de gestão
+ 01:09:55
+
+eh eh no centro ainda tá ainda tá em
+ 01:09:58
+
+desenvolvimento quer dizer tem a demanda
+ 01:10:03
+
+e e e a gente tá aqui eh se articulando
+ 01:10:05
+
+para ver como como a gente resolve não é E
+ 01:10:10
+
+tem tem um um caso muito interessante em
+ 01:10:14
+
+Caconde
+ 01:10:17
+
+e que não não é nosso é uma atividade
+ 01:10:18
+
+desenvolvida pelo cenar local não é que é o
+ 01:10:21
+
+que é o que é o sisateg café não é que é
+ 01:10:26
+
+uma iniciativa do do cenário Então tem
+ 01:10:30
+
+um extensionista que ele eh que ele
+ 01:10:32
+
+visita
+ 01:10:35
+
+eh O Ali um um é um extensionista só n
+ 01:10:36
+
+não tem condição de de atender mais do
+ 01:10:42
+
+que ali 30 produtores mas ele faz
+ 01:10:45
+
+visitas
+ 01:10:47
+
+eh
+ 01:10:49
+
+eh nesses produtores a as ferramentas
+ 01:10:51
+
+Tais que eles desenvolveram tem todo o
+ 01:10:55
+
+mecanismo de de checkin e checkout do do
+ 01:10:57
+
+extensionista então o extensionista tem
+ 01:11:00
+
+que mostrar que ele esteve lá eh que ele
+ 01:11:02
+
+encontrou o produtor que ele saiu e e e
+ 01:11:05
+
+todo o acompanhamento é feito já
+ 01:11:09
+
+digitalizado então o extensionista vai
+ 01:11:11
+
+marcando as informações geralmente a
+ 01:11:14
+
+área é desconectada mas aquilo ali fica
+ 01:11:16
+
+no no aplicativo do extensionista quando
+ 01:11:20
+
+ele ele tem conexão esses dados sobem
+ 01:11:22
+
+para o o pro sistema do do do sisateg eh
+ 01:11:26
+
+café e eles TM ali
+ 01:11:30
+
+hã eh eh eles têm ali esses dados
+ 01:11:32
+
+eh organizados e a ideia é que bom é é o
+ 01:11:37
+
+sisateg não é Eh é é assistência técnica e
+ 01:11:42
+
+gestão o da propriedade então o
+ 01:11:45
+
+extensionista vai eh eh vai auxiliando o
+ 01:11:48
+
+produtor munido desses dados que ele vai
+ 01:11:51
+
+coletando com frequência que estão ali
+ 01:11:54
+
+organizados ã eh direitinho ali na na
+ 01:11:56
+
+plataforma do do cenário Então isso é um
+ 01:12:00
+
+caso que de sucesso não é não foi
+ 01:12:02
+
+desenvolvido como centro eh é uma coisa
+ 01:12:04
+
+que a gente Tomou contato justamente por
+ 01:12:07
+
+eh atuar em Caconde e e poder eh ver
+ 01:12:10
+
+isso ver isso em Ação então Eh eh é é
+ 01:12:13
+
+uma linha é uma linha interessante nesse
+ 01:12:18
+
+sentido muito bom eh nós temos nossos
+ 01:12:20
+
+alunos da fruticultura aqui muitos deles
+ 01:12:24
+
+eles são fruticultores também e a gente
+ 01:12:27
+
+verifica assim cada vez mais assim com
+ 01:12:29
+
+curso de fruticultura que ele está
+ 01:12:32
+
+alinhado às pequenas propriedades não é
+ 01:12:34
+
+então quando você mostrou ali a questão
+ 01:12:36
+
+da da do Trabalho em relação a a
+ 01:12:38
+
+fruticultura eh a gente pensa que tudo
+ 01:12:41
+
+que for para facilitar esse trabalho da
+ 01:12:44
+
+fruticultura fazer melhor gestão ter
+ 01:12:46
+
+melhor controle do manejo isso aí é
+ 01:12:48
+
+fundamental hoje pro nosso nosso
+ 01:12:50
+
+agricultor principalmente o agricultor
+ 01:12:52
+
+familiar então Eh Essas tecnologias
+ 01:12:54
+
+digitais elas ah a Embrapa trabalhando
+ 01:12:57
+
+em cima disso é é assim é primordial
+ 01:13:00
+
+nossos agricultores eles têm grandes
+ 01:13:03
+
+dificuldades em relação a isso e
+ 01:13:05
+
+principalmente na não só na fruticultura
+ 01:13:07
+
+mas também na fruticultura não é então isso
+ 01:13:09
+
+aí vai ser uma uma uma um grande
+ 01:13:11
+
+trabalho também para a área de
+ 01:13:14
+
+fruticultura que eh principalmente no
+ 01:13:15
+
+sul do país é não é a atividade
+ 01:13:19
+
+principal ainda não é é atividade
+ 01:13:21
+
+complementar na unidade de produção e
+ 01:13:24
+
+também tá ligado à segurança alimentar
+ 01:13:26
+
+muito legal thago vou para não se
+ 01:13:29
+
+estender muito e a Live não ficar muito
+ 01:13:31
+
+grande não é pro pessoal assistir depois
+ 01:13:32
+
+para que o pessoal assiste não é deixar aí
+ 01:13:34
+
+os comentários finais para você fazer
+ 01:13:36
+
+esse grande fechamento eh da Live aí
+ 01:13:37
+
+para nós e já te agradecer de antemão
+ 01:13:40
+
+bom eu eu agradeço a todos vocês e e o o
+ 01:13:43
+
+pessoal que assistiu aí pela pela
+ 01:13:47
+
+atenção
+ 01:13:49
+
+eh eu não sei se a gente tem como trazer
+ 01:13:51
+
+o o os slides de volta aí do só o último
+ 01:13:54
+
+slide tem S tem aqui é pronto eh então
+ 01:13:58
+
+eh acho que iso é importante pra gente
+ 01:14:02
+
+fechar eh esse eh é o é o endereço de
+ 01:14:04
+
+e-mail que eh os interessados podem
+ 01:14:08
+
+utilizar para entrar em contato com o
+ 01:14:11
+
+centro então Eh lembrando nós temos já
+ 01:14:13
+
+um conjunto de de instituições de icts
+ 01:14:15
+
+não é instituições de ciência e
+ 01:14:18
+
+tecnologia eh iea exal e EAC eh mas a
+ 01:14:20
+
+gente tá aberto eh a novas parcerias
+ 01:14:27
+
+precisamos de parcerias públicas
+ 01:14:31
+
+precisamos de de eh de parcerias eh
+ 01:14:34
+
+privadas eh a gente tem ali o os 10
+ 01:14:37
+
+dates de de atuação então só só eh Só
+ 01:14:41
+
+lembrando não é Breves B vista do Tupim
+ 01:14:46
+
+Vacaria
+ 01:14:49
+
+eh Alto Alegre Jacupiranga
+ 01:14:50
+
+Lagoinha eh ingaí eh São Miguel Arcanjo
+ 01:14:55
+
+Caconde então
+ 01:15:00
+
+Eh parceiros que estejam interessados
+ 01:15:02
+
+que queiram atuar nessas áreas queiram
+ 01:15:04
+
+atuar com com essas culturas eh a gente
+ 01:15:07
+
+é sempre surpreendido quando a gente
+ 01:15:10
+
+chega eh visita os dats que a gente já
+ 01:15:12
+
+tem em mente uma ou duas culturas a
+ 01:15:15
+
+gente chega lá e descobre que tem
+ 01:15:17
+
+eh uma dúzia de de eh de coisas
+ 01:15:20
+
+acontecendo ali diversas cadeias
+ 01:15:23
+
+diferentes quem tem
+ 01:15:26
+
+interesse uma parceria pode entrar em
+ 01:15:30
+
+contato com a gente aí no CCD
+ 01:15:33
+
+tradc
+ 01:15:38
+
+@rap Muito obrigado pela atenção de
+ 01:15:41
+
+todos e bom
+ 01:15:44
+
+dia muito obrigado Tiago Muito obrigado
+ 01:15:47
+
+pela pela explanação e essa Live vai
+ 01:15:50
+
+ficar gravada aqui para que mais pessoas
+ 01:15:51
+
+possam assistir em outro horário porque
+ 01:15:54
+
+o horário das 9 da manhã às vezes não é
+ 01:15:56
+
+tão interessante e tenho certeza que vai
+ 01:15:58
+
+ser muito útil para todos e já agradecer
+ 01:16:01
+
+então ao Thiago e ao professor Zuin e e
+ 01:16:04
+
+dizer que toda quarta-feira 9 horas da
+ 01:16:07
+
+manhã a gente tem uma oportunidade de
+ 01:16:10
+
+est dialogando aqui com algum
+ 01:16:12
+
+extensionista Na próxima quarta
+ 01:16:14
+
+certamente Vamos trabalhar sobre o
+ 01:16:16
+
+maxpar digital aí como os extensionistas
+ 01:16:17
+
+estão lidando dessa questão do analógico
+ 01:16:20
+
+para o digital gente muito obrigado e
+ 01:16:22
+
+Tenham todos uma boa quarta-feira um
+ 01:16:25
+
+abraço e até mais tchau tchau
+ 01:16:27

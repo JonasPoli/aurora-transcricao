@@ -1,0 +1,5009 @@
+Olá a todas e todos extensionist rurais
+ 00:00:01
+
+agricultores e agricultoras jovens
+ 00:00:04
+
+rurais pesquisadores professores
+ 00:00:06
+
+acadêmicos e demais públicos aqui
+ 00:00:08
+
+presentes sejam todos muito bem-vindos
+ 00:00:11
+
+meu nome é zequel edin professor de
+ 00:00:13
+
+distenção Rural e quem está aqui hoje
+ 00:00:15
+
+conosco é o Professor luí Fernando
+ 00:00:17
+
+Soares zim da USP fundador da arede
+ 00:00:19
+
+Aurora juntamente com o nosso convidado
+ 00:00:21
+
+de hoje nosso grande extensionista
+ 00:00:24
+
+pesquisador Rodrigo feraz todos aqui
+ 00:00:26
+
+excelentes profissionais de extensão
+ 00:00:28
+
+rural no Brasil e no mundo e É nesse dia
+ 00:00:30
+
+24 de julho estamos em mais um evento do
+ 00:00:32
+
+ciclo diálogos em até digital Semeando
+ 00:00:35
+
+propostas e compartilhando saberes
+ 00:00:38
+
+nossos eventos buscam identificar e
+ 00:00:41
+
+propor caminhos metodológicos para Os
+ 00:00:43
+
+Atuais condicionantes e elementos que
+ 00:00:46
+
+determinam os processos de transferência
+ 00:00:48
+
+e compartilhamento de novas tecnologias
+ 00:00:50
+
+nos territórios Rais da América Latina
+ 00:00:52
+
+da África e alguns países Como Portugal
+ 00:00:55
+
+Espanha e Luxemburgo a palestra de hoje
+ 00:00:57
+
+é intitulada plataforma ater mais
+ 00:01:00
+
+digital conteúdos e ferramentas para
+ 00:01:02
+
+extensionistas e agricultores e o nosso
+ 00:01:04
+
+palestrante hoje é Rodrigo Montalvão
+ 00:01:07
+
+Ferraz esta Live é uma iniciativa do
+ 00:01:09
+
+portal o extensionista e da Red de
+ 00:01:11
+
+Aurora de diálogos em até digital na
+ 00:01:14
+
+América Latina e com todos os apoiadores
+ 00:01:16
+
+que vocês podem conferir aqui na
+ 00:01:18
+
+descrição desse vídeo sejam todos muito
+ 00:01:20
+
+bem-vindos Professor Zuin Rodrigo é um
+ 00:01:22
+
+prazer vocês estarem aqui compartilhando
+ 00:01:25
+
+seus conhecimentos conosco desde já o
+ 00:01:27
+
+nosso Muito obrigado já de antemão passo
+ 00:01:30
+
+a palavra ao professor Zuin bom dia a
+ 00:01:32
+
+todos e a todas hoje a gente vai ter uma
+ 00:01:34
+
+palestra muito especial não é O Rodrigo vai
+ 00:01:36
+
+falar pra gente sobre a plataforma ter
+ 00:01:38
+
+mais digital um uma iniciativa
+ 00:01:40
+
+maravilhosa da Embrapa do ica dos do MDA
+ 00:01:43
+
+não é e outras organizações Rodrigo Muito
+ 00:01:47
+
+obrigado de est hoje nessa manhã de
+ 00:01:49
+
+quarta-feira conosco e a palavra é sua
+ 00:01:51
+
+fique à
+ 00:01:54
+
+vontade Opa bom dia a todos ah Bom dia
+ 00:01:55
+
+professor Zuin professor Ezequiel
+ 00:01:58
+
+primeiramente gostaria de agradecer o
+ 00:02:00
+
+convite para participar desse desse
+ 00:02:02
+
+debate Acompanho a rede Aurora faz muito
+ 00:02:04
+
+tempo já aprendi muito com as
+ 00:02:06
+
+experiências que vocês compartilharam e
+ 00:02:08
+
+é um prazer falar aqui em nome da equipe
+ 00:02:10
+
+do projeto sobre essa iniciativa que
+ 00:02:12
+
+começou a ser desenhada há
+ 00:02:15
+
+aproximadamente 3 anos
+ 00:02:16
+
+eh Professor Ezequiel o se isso muito
+ 00:02:20
+
+obrigado Ah então hoje nós vamos falar
+ 00:02:23
+
+sobre a plataforma teras digital que é
+ 00:02:26
+
+uma plataforma multi-institucional com
+ 00:02:29
+
+objetivo de apoiar os serviços de a
+ 00:02:32
+
+extensão Rural e assistência técnica Ah
+ 00:02:35
+
+nesse primeiro slide a gente mostra
+ 00:02:38
+
+alguns dos parceiros que a gente tem
+ 00:02:40
+
+nesse projeto Professor zuin colocou
+ 00:02:42
+
+muito bem que é um projeto feito a
+ 00:02:45
+
+muitas mãos temos esse projeto ah
+ 00:02:47
+
+encabeçado pela Embrapa junto com o
+ 00:02:50
+
+Ministério da Agricultura e também com
+ 00:02:52
+
+MDA a e uma série de parceiros como o
+ 00:02:55
+
+Ica B aportando recursos asbraer anater
+ 00:02:59
+
+e um conjunto muito eh grande de
+ 00:03:02
+
+parceiros no sentido de trazer eh
+ 00:03:05
+
+informações aportar conteúdo para essa
+ 00:03:08
+
+plataforma
+ 00:03:11
+
+Ah e por que a a necessidade de um
+ 00:03:14
+
+programa de ater digital ater mais
+ 00:03:17
+
+digital que é o que a gente traz Ah
+ 00:03:19
+
+temos primeiro a que considerar a
+ 00:03:22
+
+questão da desigualdade de ater no país
+ 00:03:25
+
+considerando os dados que a gente tem no
+ 00:03:28
+
+Censo de censo agropecuário de 2017 a
+ 00:03:30
+
+gente tem que Aé no Brasil o acesso Aé
+ 00:03:34
+
+no Brasil ele é muito desigual
+ 00:03:37
+
+considerando os dados da Agricultura
+ 00:03:39
+
+Familiar a gente tem que um em cada
+ 00:03:40
+
+cinco agricultores relatam ter acesso ao
+ 00:03:42
+
+serviço de ater Ou seja
+ 00:03:46
+
+18% quando a gente Olha esses dados
+ 00:03:48
+
+segmentados por região do Brasil a gente
+ 00:03:51
+
+tem um acesso ainda mais desigual a
+ 00:03:53
+
+gente tem por exemplo dados na região
+ 00:03:55
+
+sul e sudeste que torno de 40 50% na
+ 00:03:57
+
+região sul um pouco inferior na região
+ 00:04:02
+
+sudeste mas na região norte e Nordeste
+ 00:04:04
+
+na região Nordeste principalmente onde
+ 00:04:07
+
+se concentra grande parte da Agricultura
+ 00:04:09
+
+Familiar a gente tem um acesso muito
+ 00:04:11
+
+baixo a esse serviço em torno de
+ 00:04:13
+
+7% e o que a gente entende é que as
+ 00:04:15
+
+ferramentas virtuais são grandes Aliados
+ 00:04:17
+
+para alterar essa realidade de acesso ao
+ 00:04:20
+
+serviço e melhorando não só a
+ 00:04:22
+
+capilaridade desse desse desse serviço
+ 00:04:24
+
+mas ao mesmo tempo aumentando a
+ 00:04:27
+
+qualidade frequência de interação entre
+ 00:04:28
+
+outros aspectos
+ 00:04:30
+
+ah importante a gente prisar também que
+ 00:04:33
+
+apesar das dificuldades de conectividade
+ 00:04:35
+
+Rural que a gente enfrenta no país
+ 00:04:38
+
+Especialmente na região norte nordeste
+ 00:04:39
+
+existe um processo de transformação
+ 00:04:41
+
+digital acontecendo em todas as áreas da
+ 00:04:43
+
+nossa vida que passam desde dos
+ 00:04:45
+
+processos mais simples desde compra de
+ 00:04:47
+
+alimentos compra de passagens e de um um
+ 00:04:49
+
+serviço bancário entre outros e a gente
+ 00:04:52
+
+entende que o o sistema de extensão ele
+ 00:04:55
+
+não pode ficar fora desse desse cenário
+ 00:04:58
+
+então ferramentas como a plataforma term
+ 00:05:01
+
+digital elas vêm apoiar todo esse
+ 00:05:03
+
+processo além disso a gente vive nessa
+ 00:05:06
+
+era da da da informação com uma
+ 00:05:09
+
+abundância de
+ 00:05:11
+
+conteúdo onde a gente tem um processo de
+ 00:05:13
+
+excesso de informação e na verdade uma
+ 00:05:16
+
+falta de curadoria muitas vezes em cima
+ 00:05:19
+
+desse material então só fazendo um
+ 00:05:21
+
+exemplo muito rápido acho que é uma
+ 00:05:23
+
+prática comum e frequente para muitos
+ 00:05:25
+
+dos extensionistas que ou os próprios
+ 00:05:27
+
+agricultores que tentam acessar à
+ 00:05:30
+
+internet vão procurar por exemplo alguma
+ 00:05:31
+
+prática agrícola Como identificar alguma
+ 00:05:33
+
+praga ou por exemplo o exemplo desse
+ 00:05:35
+
+slide seria como produzir uma calda
+ 00:05:37
+
+bordal que é um fungicida você coloca
+ 00:05:39
+
+isso no Google aparece uma infinidade de
+ 00:05:42
+
+links e link de de uma universidade um
+ 00:05:46
+
+link de um produtor um link de uma
+ 00:05:48
+
+empresa privada às vezes aparece uma
+ 00:05:50
+
+publicação muito grande às vezes um
+ 00:05:52
+
+boletim técnico um artigo científico Ah
+ 00:05:54
+
+você coloca no YouTube Você tem o mesmo
+ 00:05:57
+
+cenário onde você tem tem um vídeo de 1
+ 00:05:58
+
+hora às vezes um vídeo curto e
+ 00:06:00
+
+considerando esse cenário que a gente
+ 00:06:02
+
+tem de uma conectividade não tão boa
+ 00:06:04
+
+geralmente a a gente vê que esse
+ 00:06:07
+
+processo de obtenção de informação
+ 00:06:09
+
+técnica validada por um corpo científico
+ 00:06:12
+
+e altamente acessível não é um processo
+ 00:06:14
+
+trivial Então o a organização e a
+ 00:06:17
+
+disponibilização pros extensionistas do
+ 00:06:21
+
+desse conteúdo de uma maneira de fácil
+ 00:06:24
+
+acesso a gente entende que poderia I
+ 00:06:27
+
+apoiar esse processo de extensão Rural
+ 00:06:29
+
+como um
+ 00:06:32
+
+todo
+ 00:06:33
+
+ah trazendo um pouco do histórico da
+ 00:06:36
+
+plataforma a term digital como eu falei
+ 00:06:39
+
+ela foi criada H em torno de TR anos
+ 00:06:41
+
+atrás e ela foi criada dentro do de uma
+ 00:06:45
+
+concepção de quatro projetos
+ 00:06:49
+
+estratégicos dentro dos Ministérios
+ 00:06:51
+
+pensando na do fortalecimento das ações
+ 00:06:53
+
+digitais no âmbito da extensão Rural
+ 00:06:56
+
+foram pensad quatro projetos um
+ 00:06:58
+
+relacionado à modernização de
+ 00:07:01
+
+infraestrutura de ti sistemas
+ 00:07:02
+
+aplicativos e capacitação um segundo
+ 00:07:04
+
+relacionado à criação de núcleos núcleos
+ 00:07:07
+
+pilotos de informação e gestão
+ 00:07:10
+
+tecnológica basicamente um projeto de
+ 00:07:12
+
+curadoria da informação um terceiro
+ 00:07:14
+
+projeto relacionado à validação de
+ 00:07:17
+
+metodologias de ater o piloto de ater
+ 00:07:20
+
+digital em campo realmente testando a
+ 00:07:22
+
+metodologias e um último relacionado à
+ 00:07:25
+
+estruturação de um núcleo de de
+ 00:07:28
+
+capacitação também online Então essa
+ 00:07:29
+
+questão ela é importante numa lógica de
+ 00:07:32
+
+compreender como que as ações de ater
+ 00:07:35
+
+digital elas se se integram nessa
+ 00:07:39
+
+estratégia Nacional então se por um lado
+ 00:07:41
+
+a gente precisa de uma infraestrutura
+ 00:07:43
+
+condizente para falar de ater digital a
+ 00:07:45
+
+gente precisa também ao mesmo tempo de
+ 00:07:48
+
+uma informação organizada e disponível
+ 00:07:50
+
+para essa para esse processo ser feito
+ 00:07:52
+
+também na mesma medida que você tem
+ 00:07:54
+
+essas esses dois conjuntos de ações você
+ 00:07:57
+
+precisa de metodologia para fazer com
+ 00:07:59
+
+que a informação correta chegue pro
+ 00:08:01
+
+produtor ou pro extensionista no momento
+ 00:08:04
+
+correto que ele precisa Então Dando um
+ 00:08:05
+
+exemplo simples como você fazer que uma
+ 00:08:07
+
+informação por exemplo sobre plantil de
+ 00:08:10
+
+banana plantil de feijão fique chegue
+ 00:08:12
+
+para o produtor que está plantando o
+ 00:08:15
+
+feijão no momento que ele está fazendo
+ 00:08:16
+
+esse processo Então isso é o que a gente
+ 00:08:17
+
+trata da da questão das metodologias de
+ 00:08:19
+
+ter digital e por último a gente falava
+ 00:08:22
+
+de um núcleo de criação de um núcleo de
+ 00:08:25
+
+capacitação para fazendo diversos desses
+ 00:08:28
+
+elementos que viriam por exemplo como
+ 00:08:30
+
+temas transversais como políticas
+ 00:08:33
+
+públicas a questão de letramento digital
+ 00:08:34
+
+isso tanto pros beneficiários e usuários
+ 00:08:36
+
+dessas tecnologias de ater digital então
+ 00:08:39
+
+só para exemplificar um pouco mais dess
+ 00:08:43
+
+ações desses esses quadros azuis
+ 00:08:45
+
+disponíveis nesse slide que seriam esses
+ 00:08:47
+
+quatro projetos estratégicos e hoje o
+ 00:08:49
+
+que a gente vai falar é especificamente
+ 00:08:51
+
+dos núcleo piloto de informação e gestão
+ 00:08:53
+
+tecnológica que é a plataforma term
+ 00:08:55
+
+digital
+ 00:08:57
+
+então em resumo o o que a gente trata
+ 00:09:00
+
+como plataforma Termas digital a é uma
+ 00:09:02
+
+plataforma cujo o objetivo é melhorar o
+ 00:09:05
+
+acesso dos extensionistas e
+ 00:09:08
+
+consequentemente dos Agricultores
+ 00:09:09
+
+familiares do Brasil a informações sobre
+ 00:09:11
+
+inovações tecnológicas de cadeias
+ 00:09:13
+
+produtivas e temos transversais por meio
+ 00:09:15
+
+do uso de tics
+ 00:09:17
+
+eh o esse projeto da forma como ele foi
+ 00:09:20
+
+criado ele foi criado em em a partir da
+ 00:09:23
+
+criação de hubs virtuais ou polos de
+ 00:09:27
+
+informação e o que que seriam esses
+ 00:09:29
+
+servos virtuais são ferramentas digitais
+ 00:09:31
+
+para ter são centros virtuais de
+ 00:09:33
+
+informação tecnológica são plataformas
+ 00:09:36
+
+digitais a gente não tá falando de um
+ 00:09:38
+
+aplicativo ainda e a gente vai trazer um
+ 00:09:41
+
+pouco dessas razões são centros de
+ 00:09:42
+
+informação que contém informações
+ 00:09:45
+
+tecnológicas instituções públicas
+ 00:09:46
+
+privadas ons ou qualquer outro tipo de
+ 00:09:48
+
+instituição que são instrumentos de
+ 00:09:50
+
+desenvolvimento tecnológico e da gestão
+ 00:09:52
+
+de empreendimentos rurais ou não esse é
+ 00:09:54
+
+um aspecto importante que acho que vai
+ 00:09:55
+
+ficar um pouco mais claro ao longo da
+ 00:09:57
+
+apresentação
+ 00:09:59
+
+Ah no primeiro slide na capa eu trouxe
+ 00:10:02
+
+alguns dos parceiros mas importante
+ 00:10:05
+
+deixar muito claro também que a gente
+ 00:10:08
+
+conta com forte apoio também da nossa
+ 00:10:09
+
+rede de extensão então anater é um
+ 00:10:11
+
+parceiro muito importante as prer da
+ 00:10:13
+
+mesma forma e a gente começou a essa
+ 00:10:16
+
+ação agora com alguns projetos piloto
+ 00:10:18
+
+com a Emater DF e a Epagri uma
+ 00:10:20
+
+informação importante que eu acabei Ah
+ 00:10:24
+
+não compartilhando no início não é apesar
+ 00:10:26
+
+de ser um projeto que vem sendo sendo eh
+ 00:10:28
+
+desenvolvido nos últimos 3 anos ele é um
+ 00:10:30
+
+projeto que
+ 00:10:33
+
+eh foi lançado e disponibilizado pro
+ 00:10:34
+
+público agora em 2024 no aniversário da
+ 00:10:37
+
+Embrapa onde essa ferramenta se tornou
+ 00:10:40
+
+disponível então ele é um projeto
+ 00:10:42
+
+relativamente novo a gente ainda fala
+ 00:10:44
+
+que a gente tá na nossa versão Beta uma
+ 00:10:45
+
+etapa de melhoria constante recebendo
+ 00:10:47
+
+feedback também de todos os parceiros e
+ 00:10:49
+
+e da própria população que tem acessado
+ 00:10:52
+
+e a perspectiva de melhoria tanto de
+ 00:10:55
+
+conteúdo e das funcionalidades que a
+ 00:10:59
+
+gente tem disponível
+ 00:11:01
+
+eh explicando mais o que seria a
+ 00:11:03
+
+plataforma terma digital a ela em resumo
+ 00:11:06
+
+é um um repositório de informações e
+ 00:11:09
+
+ferramentas técnicas para apoiar os
+ 00:11:13
+
+técnicos de extensão nos no no seu na
+ 00:11:14
+
+sua rotina de trabalho como eu tinha
+ 00:11:18
+
+colocado no slide de objetivos a o nosso
+ 00:11:20
+
+objetivo principal É apoiar o serviço de
+ 00:11:23
+
+extensão então é uma ferramenta para
+ 00:11:25
+
+extensionistas evidentemente é ela pode
+ 00:11:27
+
+ser acessada por produtores também mas é
+ 00:11:29
+
+uma ferramenta que viria apoiar
+ 00:11:32
+
+disponibilizando conteúdos de forma
+ 00:11:34
+
+organizada para esse trabalho de campo
+ 00:11:37
+
+ah dentro dessa dessa lógica de de
+ 00:11:40
+
+operação foram criadas 29 ah 29 hubs ou
+ 00:11:43
+
+29 polos de de trabalho que são 22
+ 00:11:48
+
+organizados por cadeias produtivas e
+ 00:11:53
+
+sete temáticos os de cadeias produtivas
+ 00:11:55
+
+eles contam a estão organizados de uma
+ 00:11:58
+
+forma que conte a linha do tempo dessa
+ 00:12:01
+
+dessa cultura então ele vai desde por
+ 00:12:04
+
+exemplo pré-produção produção e
+ 00:12:07
+
+pós-produção e pega temas como feijão
+ 00:12:09
+
+banana UV etc trazendo todos os
+ 00:12:11
+
+elementos relacionados a isso e temos
+ 00:12:14
+
+também os hubs ou polos temáticos que
+ 00:12:16
+
+incluem por exemplo temas transversais
+ 00:12:19
+
+como mudanas climáticas saf nutrição e
+ 00:12:21
+
+saúde Então hoje em estruturação nós
+ 00:12:23
+
+temos 29 desses hubs de informação
+ 00:12:26
+
+ah dentro desses 29 a gente tem essa
+ 00:12:29
+
+lista disponível nesse slide a gente
+ 00:12:34
+
+costuma fazer uma brincadeira que a
+ 00:12:36
+
+gente ainda não vai de a z mas a gente
+ 00:12:37
+
+já vai de a a u Então temos hubs de alho
+ 00:12:39
+
+apicultura
+ 00:12:43
+
+aquicultura arroz aves banana batata
+ 00:12:44
+
+doce bovino de leite capim buffel
+ 00:12:48
+
+caprinos Caju feijão calpi feijão
+ 00:12:51
+
+comum mandioca mamão manga melão ovinho
+ 00:12:54
+
+Palma suínos tomate e uva e dentro dos
+ 00:12:59
+
+temáticos nós temos agroindústria de
+ 00:13:03
+
+alimentos a integração lavor pecuária
+ 00:13:05
+
+Floresta mudanças climáticas nutrição
+ 00:13:07
+
+biofortificação e alimentação saudável
+ 00:13:10
+
+sistemas agroflorestais temos também a
+ 00:13:12
+
+questão de metodologia G Terra digital e
+ 00:13:15
+
+sistemas agrícolas tradicionais
+ 00:13:18
+
+Ah um aspecto interessante no projeto
+ 00:13:20
+
+que é uma das pensando no no no Médio
+ 00:13:23
+
+prazo dessa ação é colocar algumas
+ 00:13:25
+
+cadeias que ainda não estão contempladas
+ 00:13:29
+
+dentro dessa iniciativa não é algumas
+ 00:13:31
+
+cadeias muito importantes paraa
+ 00:13:33
+
+Agricultura Familiar por exemplo café o
+ 00:13:34
+
+próprio milho Argentina não começou a
+ 00:13:36
+
+trabalhar mas a perspectiva é que isso
+ 00:13:38
+
+seja colocado também então dentro do
+ 00:13:39
+
+nosso plano de ação um conjunto de ações
+ 00:13:42
+
+passa tanto pela melhoria desses hubs
+ 00:13:44
+
+que foram colocados nessa tela mas
+ 00:13:47
+
+também pela criação de novos
+ 00:13:49
+
+a e esse hoje não é dentro desse 29 hubs
+ 00:13:52
+
+que a gente tá tá falando
+ 00:13:56
+
+nove já estão disponíveis para própr
+ 00:13:59
+
+população utilizar Então os disponíveis
+ 00:14:01
+
+hoje de acessarem O site são os hubs de
+ 00:14:04
+
+apicultura caprinos e ovinos mudanças
+ 00:14:06
+
+climáticas nutrição e saúde batata doce
+ 00:14:09
+
+feijão feijão calpi temos ag florestais
+ 00:14:12
+
+e suínos então o dentro dessa dessa
+ 00:14:15
+
+desse processo de construção nove já
+ 00:14:19
+
+estão prontos e entre 2024 2025 a
+ 00:14:21
+
+expectativa é que os demais sejam
+ 00:14:25
+
+lançados disponibilizados pro público
+ 00:14:26
+
+um uma questão importante sobre a
+ 00:14:29
+
+plataforma a ter digital é que como eu
+ 00:14:31
+
+falei o conteúdo ele é organizado nessa
+ 00:14:34
+
+lógica de de conteúdos por no caso de
+ 00:14:36
+
+dos de cadeias produtivas pré-produção
+ 00:14:39
+
+produção e pós-produção mas ele
+ 00:14:41
+
+disponibiliza conteúdos e ferramentas
+ 00:14:44
+
+nos mais diversos formatos então por
+ 00:14:46
+
+exemplo pro pegando novamente o exemplo
+ 00:14:48
+
+do feijão dentro de do plantil de feijão
+ 00:14:51
+
+tem tanto conteúdos de daa
+ 00:14:55
+
+cidades de ONGs por exemplo na página
+ 00:14:59
+
+disponibilizada mas nos seus diversos
+ 00:15:02
+
+formatos por exemplo vídeo áudio podcast
+ 00:15:04
+
+infográfico a informações muito
+ 00:15:08
+
+resumidas pro próprio extensionista na
+ 00:15:11
+
+sua rotina de trabalho ter a opção de
+ 00:15:13
+
+compartilhar no formato que ele acha
+ 00:15:16
+
+mais mais apropriado para cada produtor
+ 00:15:18
+
+então talvez esse seja um dos
+ 00:15:20
+
+diferenciais da plataforma ao mesmo
+ 00:15:22
+
+tempo importante fizar que a plataforma
+ 00:15:24
+
+termais digital ela não Só disponibiliza
+ 00:15:26
+
+conteúdo mas o uma série de ferramentas
+ 00:15:27
+
+que sejam desde planilhas de
+ 00:15:30
+
+precificação até a aplicativos e outras
+ 00:15:31
+
+funcionalidades estão disponíveis na
+ 00:15:35
+
+plataforma também então ela é realmente
+ 00:15:36
+
+um conjunto de informações ferramentas e
+ 00:15:39
+
+conteúdos para apoiar esse processo toda
+ 00:15:42
+
+ferramenta ou conteúdo que pode vir a
+ 00:15:45
+
+facilitar a vida do extensionista no seu
+ 00:15:47
+
+processo de interação com o produtor é
+ 00:15:49
+
+disponibilizado dentro da plataforma
+ 00:15:51
+
+ah trazendo um pouco mais sobre o
+ 00:15:54
+
+processo de construção da das páginas ah
+ 00:15:57
+
+a gente tem das páginas ou do próprio
+ 00:16:00
+
+conteúdo a gente tem um processo de
+ 00:16:02
+
+curadoria e organização das informações
+ 00:16:05
+
+e conteúdos isso é é é importante frisar
+ 00:16:07
+
+antes da construção de qualquer
+ 00:16:10
+
+informação nova pro para um Hub virtual
+ 00:16:13
+
+ouou para uma página para po de
+ 00:16:15
+
+conhecimento a gente tem
+ 00:16:16
+
+o uma curadoria e uma busca dessa
+ 00:16:19
+
+informação nas instituições que T
+ 00:16:22
+
+expertise nesse nesse nesse tema somente
+ 00:16:24
+
+depois da de identificado que não existe
+ 00:16:28
+
+esse conteúdo um conteúdo novo elaborado
+ 00:16:32
+
+o um aspecto importante também é que
+ 00:16:34
+
+mesmo esses conteúdos que são
+ 00:16:37
+
+aproveitados eles são trabalhados com
+ 00:16:38
+
+uma linguagem muito acessível para serem
+ 00:16:40
+
+disponibilizadas no Portal A gente tem
+ 00:16:43
+
+dentro da plataforma do conteúdo mais
+ 00:16:45
+
+simples daquele produtor do aquele
+ 00:16:47
+
+extensionista que precisa de um alerta
+ 00:16:49
+
+uma informação muito resumida um vídeo
+ 00:16:50
+
+curto até as questões mais complexas
+ 00:16:52
+
+Então vai do de de um vídeo pequeno
+ 00:16:54
+
+sobre um tema até um curso Por exemplo
+ 00:16:57
+
+quando esse curso está disponível também
+ 00:16:59
+
+a partir disso a gente tem a
+ 00:17:01
+
+disponibilização do conhecimento nas
+ 00:17:03
+
+plataformas digitais e remotas de forma
+ 00:17:05
+
+sistemática e a partir desse processo e
+ 00:17:07
+
+utilização pela própria rede de ater a
+ 00:17:10
+
+gente consegue fazer uma identificação
+ 00:17:12
+
+de de demandas agropecuárias e fomento e
+ 00:17:13
+
+criação de espaço virtual de interação
+ 00:17:15
+
+aprendizagem e trabalho em rede
+ 00:17:17
+
+eh hoje eh interessante a gente colocar
+ 00:17:20
+
+que a plataforma termais digital ela não
+ 00:17:24
+
+é um aplicativo ela não precisa ser
+ 00:17:26
+
+Baixada pro celular ela é um um site um
+ 00:17:27
+
+portal contudo ela foi pensada em 100%
+ 00:17:31
+
+do do seu layout das funcionalidades
+ 00:17:35
+
+pensando na utilização pelo celular e
+ 00:17:37
+
+por que isso ah o se a o a
+ 00:17:40
+
+compatibilidade com o celular a gente
+ 00:17:43
+
+entende ser essencial pela questão do
+ 00:17:45
+
+dos próprios dados que a gente tem não é de
+ 00:17:48
+
+das ticks disponíveis pelos produtores
+ 00:17:50
+
+no geral eles têm muito mais celular do
+ 00:17:52
+
+que computadores por exemplo desktops
+ 00:17:53
+
+notebooks então a gente entende que é um
+ 00:17:55
+
+formato mais adequado e o fato de não
+ 00:17:57
+
+ser um aplicativo é pela questão de do
+ 00:18:01
+
+eventualmente você para ter um
+ 00:18:05
+
+aplicativo tem que baixar os o tem que
+ 00:18:08
+
+baixar o a funcionalidade a produtores
+ 00:18:10
+
+talvez não ten espaço no celular e o
+ 00:18:14
+
+site você consegue eh um conjunto
+ 00:18:16
+
+diferente de funcionalidades que o
+ 00:18:20
+
+aplicativo não não forneceria importante
+ 00:18:22
+
+destacar também que o o o grande ativo
+ 00:18:24
+
+desse ess projeto é o conteúdo e as
+ 00:18:28
+
+ferramentas organizadas da forma como
+ 00:18:30
+
+estão Então hoje é uma plataforma
+ 00:18:31
+
+virtual no site mas mais à frente pode
+ 00:18:34
+
+ser um aplicativo ou que a tecnologia
+ 00:18:36
+
+foi evoluindo ao longo do
+ 00:18:38
+
+processo sobre a a estruturação desses
+ 00:18:41
+
+hubs que que a gente tá falando e eles
+ 00:18:45
+
+foram O processo foi capitaneado em
+ 00:18:48
+
+grande parte pelas unidades da Embrapa
+ 00:18:50
+
+que aportaram conteúdo inicial para
+ 00:18:53
+
+essas ações então em termos de
+ 00:18:55
+
+estruturação a gente tem que grande
+ 00:18:58
+
+parte do dos hubs foram
+ 00:19:00
+
+criados por instituições sediadas na
+ 00:19:02
+
+região Nordeste mas a gente já tem uma
+ 00:19:05
+
+representatividade em todas as grandes
+ 00:19:06
+
+regiões do Brasil
+ 00:19:08
+
+ah esse mapa ao mesmo tempo que ele
+ 00:19:09
+
+mostra uma dispersão muito uma dispersão
+ 00:19:12
+
+grande e uma cobertura de de todas as
+ 00:19:14
+
+regiões do Brasil ele você precisa de
+ 00:19:17
+
+uma certa atenção para compreender que
+ 00:19:20
+
+apesar do dos dados do do sub serem
+ 00:19:23
+
+organizados em um estado ou numa região
+ 00:19:26
+
+específica eles cobrem ah informações do
+ 00:19:28
+
+Brasil inteiro então não significa que
+ 00:19:32
+
+um rub por exemplo organizado na região
+ 00:19:33
+
+Nordeste vai tem informação apenas de
+ 00:19:35
+
+feijão do Nordeste tem informação sobre
+ 00:19:37
+
+essa cadeia para o Brasil inteiro então
+ 00:19:40
+
+ah na verdade o que a gente tem nesse
+ 00:19:42
+
+nesse slide é a localização da unidade
+ 00:19:45
+
+mas
+ 00:19:47
+
+a a cobertura do projeto ela é
+ 00:19:48
+
+nacional eh mostrando um pouco agora da
+ 00:19:51
+
+da ferramenta a gente tem que a
+ 00:19:55
+
+a plataforma terma digital ela
+ 00:19:58
+
+disponibiliza conteúdos e ferramentas
+ 00:20:00
+
+para extensionistas e agricultores e
+ 00:20:02
+
+aqui a gente tem nesse nesses print
+ 00:20:04
+
+screens do sistema nessas telas celular
+ 00:20:07
+
+algumas funcionalidades interessantes
+ 00:20:09
+
+então nessa primeira tela que seria o
+ 00:20:12
+
+nesse primeiro celular que seria o Hub
+ 00:20:14
+
+de apicultura a gente tem por exemplo um
+ 00:20:15
+
+conteúdo que é uma foto mais um texto
+ 00:20:18
+
+curto no segundo a gente já tem um
+ 00:20:21
+
+infográfico mais um áudio e texto e no
+ 00:20:25
+
+terceiro que seria o a última tela Onde
+ 00:20:28
+
+tem um robozinho que é o do feijão calpi
+ 00:20:30
+
+eh a gente tem uma funcionalidade que é
+ 00:20:33
+
+aquela ferramenta ou aquela publicação
+ 00:20:36
+
+da Embrapa 500 perguntas e 500 respostas
+ 00:20:37
+
+uma publicação muito famosa que reuni as
+ 00:20:40
+
+principais dúvidas dos produtores e
+ 00:20:42
+
+respostas também dos pencionistas e de
+ 00:20:44
+
+pesquisadores sobre esses temas
+ 00:20:46
+
+transformada numa api fse como se fosse
+ 00:20:48
+
+um aplicativo colocado disponível dentro
+ 00:20:50
+
+do site Então essa publicação que é uma
+ 00:20:52
+
+publicação física um livro agora foi
+ 00:20:55
+
+transformada numa pii e os produtores
+ 00:20:58
+
+podem fazer as produtores ou
+ 00:21:00
+
+extensionistas podem fazer a consulta no
+ 00:21:02
+
+próprio Portal e na medida que eles vão
+ 00:21:03
+
+colocando a suas dúvidas já V vão sendo
+ 00:21:05
+
+geradas as respostas baseadas nessa
+ 00:21:08
+
+publicação Então esse slide ele mostra
+ 00:21:10
+
+na verdade esses diferentes tipos de
+ 00:21:13
+
+conteúdo para os diferentes hubs e as
+ 00:21:15
+
+ferramentas disponíveis no sentido amplo
+ 00:21:17
+
+que o projeto
+ 00:21:20
+
+tem eh trazendo um pouco mais sobre a
+ 00:21:21
+
+essas ferramentas as a a plataforma term
+ 00:21:26
+
+digital ela tem um conjunto de vídeos
+ 00:21:29
+
+podcasts Basicamente aquilo que eu falei
+ 00:21:32
+
+não é infográficos manuais web Stories a
+ 00:21:34
+
+questão do Fique ligado
+ 00:21:37
+
+eh notícias informações resumidas cursos
+ 00:21:39
+
+canais digitais de comercialização ah
+ 00:21:44
+
+ISS essa questão ela é interessante e
+ 00:21:47
+
+isso faz parte da parceria que o que o
+ 00:21:50
+
+que o sebrai aporta eu vou falar disso
+ 00:21:53
+
+um pouco mais à frente importante a
+ 00:21:55
+
+gente colocar também a questão dos web
+ 00:21:57
+
+Stories pensando nessa lógica de
+ 00:21:59
+
+utilização pelo uso celular e a
+ 00:22:00
+
+familiaridade que a gente tem dos
+ 00:22:02
+
+produtores do uso
+ 00:22:03
+
+de de redes sociais a gente entende os
+ 00:22:05
+
+web Stories como uma ferramenta muito
+ 00:22:08
+
+interessante principalmente para
+ 00:22:11
+
+interação com o público mais jovem então
+ 00:22:12
+
+Além disso não é além do do próprio
+ 00:22:15
+
+conteúdo a gente tem funcionalidades O
+ 00:22:17
+
+primeiro exemplo que eu trouxe foi a
+ 00:22:19
+
+questão do 500 perguntas e 500 respostas
+ 00:22:20
+
+que foi essa api algumas outras apis que
+ 00:22:22
+
+são o agrofit bioinsumos ah Ah que eram
+ 00:22:25
+
+algumas das plataformas que existiam nos
+ 00:22:29
+
+Ministérios que foram melhoradas uma
+ 00:22:32
+
+interface bem interessante para consulta
+ 00:22:33
+
+mais mais simples pelos extensionistas
+ 00:22:37
+
+temos hubs também trabalhando com
+ 00:22:40
+
+realidade virtual e alguns até tentando
+ 00:22:42
+
+metaverso temos algumas outras
+ 00:22:45
+
+ferramentas relacionadas a zoneamento
+ 00:22:47
+
+agrícola e risco climático e também
+ 00:22:49
+
+relacionada questão do tempo
+ 00:22:53
+
+eh outra questão relevante relção
+ 00:22:55
+
+criação dos subs não é as funcionalidades
+ 00:22:58
+
+para cada um desses subs elas são
+ 00:23:00
+
+diferentes como eu disse ele é um
+ 00:23:02
+
+projeto de curadoria da informação então
+ 00:23:04
+
+a informação disponível para esse Hub na
+ 00:23:07
+
+verdade depende do conteúdo já
+ 00:23:09
+
+disponível previamente Então se já
+ 00:23:10
+
+existe por exemplo um EAD de feijão C
+ 00:23:12
+
+Esse é considerado relevante pelo grupo
+ 00:23:15
+
+que faz a curadoria dessa informação ele
+ 00:23:17
+
+entra Mas se não existir por exemplo
+ 00:23:19
+
+esse conteúdo ele vai ser criado na
+ 00:23:22
+
+medida que o projeto foi evoluindo então
+ 00:23:24
+
+realidade virtual por exemplo é uma que
+ 00:23:26
+
+a gente tem no R de feijão calpi e de
+ 00:23:28
+
+apicultura por enquanto
+ 00:23:31
+
+ah em relação aos canais digitais de
+ 00:23:33
+
+comercialização é o aquela questão que
+ 00:23:36
+
+eu trouxe que a plataforma Termas
+ 00:23:38
+
+digital Ela traz todo tipo de conteúdo
+ 00:23:40
+
+que seria relevante para um
+ 00:23:43
+
+extensionista e consequentemente para o
+ 00:23:45
+
+produtor então o sebrai no sentido de
+ 00:23:47
+
+apoiar a plataforma não é a Embrapa e
+ 00:23:49
+
+outras instituições ela já fazi uma
+ 00:23:51
+
+cobertura muito grande e muito bem feita
+ 00:23:53
+
+de conteúdos relacionados à parte
+ 00:23:55
+
+técnica produtiva como produzir Como
+ 00:23:57
+
+plantar Mas a questão de canais de
+ 00:23:59
+
+comercialização por exemplo digitais
+ 00:24:01
+
+para agricultura familiar foi uma ação
+ 00:24:03
+
+que o sebrai apoiou fortemente essa
+ 00:24:05
+
+plataforma fazendo essa identificação
+ 00:24:07
+
+segmentando por nicho perfil de produtor
+ 00:24:08
+
+entre outras características Então isso
+ 00:24:11
+
+é uma das funcionalidades que a gente
+ 00:24:13
+
+tem disponível no portal
+ 00:24:15
+
+eh trazendo mais sobre essas próprias
+ 00:24:19
+
+apis não é Essas são as apis de de pragas e
+ 00:24:22
+
+de inoculantes no portal ah antes como
+ 00:24:24
+
+Eu mencionei essa consulta era um pouco
+ 00:24:28
+
+dificultade algumas planilhas de difícil
+ 00:24:29
+
+acesso no site dos Ministérios e elas
+ 00:24:31
+
+foram trabalhadas para serem colocadas
+ 00:24:34
+
+como uma interface bem mais amigável e
+ 00:24:35
+
+aqui a gente tem a forma como isso pode
+ 00:24:37
+
+ser
+ 00:24:39
+
+consultado importante colocar também é
+ 00:24:40
+
+que considerando ainda os dados que a
+ 00:24:43
+
+gente tem de conversa com a própria rede
+ 00:24:45
+
+de extensão todo o conteúdo da
+ 00:24:47
+
+plataforma ele pode ser compartilhado
+ 00:24:49
+
+por diversos meios diversas redes
+ 00:24:51
+
+sociais mas principalmente foi pensado
+ 00:24:53
+
+no na utilização no compartilhamento via
+ 00:24:56
+
+WhatsApp então como vocês podem ver ali
+ 00:24:59
+
+no nos botões sempre nas laterais a
+ 00:25:02
+
+gente tem os os botões de
+ 00:25:04
+
+compartilhamento dessas informações pelo
+ 00:25:06
+
+WhatsApp então pensando numa rotina de
+ 00:25:09
+
+trabalho o técnico de Campo às vezes no
+ 00:25:11
+
+escritório antes de sair para para sua
+ 00:25:13
+
+prática de atendimento ele tem ali a o
+ 00:25:15
+
+compartilhamento desse conteúdo que pode
+ 00:25:19
+
+ser utilizado pelo produtor entre uma
+ 00:25:20
+
+visita e outra então aqui a gente tem a
+ 00:25:23
+
+parte de consulta de pragas e doenças
+ 00:25:26
+
+que eu menci essas apis e aqui dois
+ 00:25:27
+
+aplicativos da Embrapa o plantil certo e
+ 00:25:30
+
+o agritempo que podem ser baixados
+ 00:25:32
+
+também então aqui mais um canal para
+ 00:25:34
+
+disponibilização desse conteúdo
+ 00:25:36
+
+ah trazendo a mais alguns conteúdos não é
+ 00:25:39
+
+aqui foi uma série
+ 00:25:42
+
+de de de informações e vídeos sobre
+ 00:25:44
+
+apicultura que foram disponibilizados os
+ 00:25:48
+
+acessos também tê sido bem interessantes
+ 00:25:50
+
+então conteúdo disponibilizado aqui no
+ 00:25:53
+
+caso vídeos curtos para para PR
+ 00:25:55
+
+utilização pelos
+ 00:25:59
+
+produtores entrando especificamente nos
+ 00:26:01
+
+hubs só para ficar uma questão um pouco
+ 00:26:04
+
+mais tangível aqui a gente tem o exemplo
+ 00:26:06
+
+do HUB de suínos que traz o processo de
+ 00:26:08
+
+produção de suínos para agricultura
+ 00:26:12
+
+familiar dentro dessa lógica onde o
+ 00:26:14
+
+conteúdo foi organizado Então temos a
+ 00:26:16
+
+parte produção alimentação gestão de
+ 00:26:18
+
+água gestão ambiental e sanidade e
+ 00:26:21
+
+dentro de cada um desses temas a gente
+ 00:26:24
+
+tem um conjunto muito muito grande de
+ 00:26:26
+
+tópicos sendo abordados em cada um o que
+ 00:26:28
+
+a gente tem também como a um aspecto
+ 00:26:31
+
+relevante desse projeto é que a gente
+ 00:26:33
+
+tem a informação organizada a nível
+ 00:26:35
+
+nacional e estamos trabalhando nesse
+ 00:26:37
+
+momento para trabalhar com a
+ 00:26:39
+
+regionalização desses conteúdos e eu
+ 00:26:40
+
+trago depois mais à frente esse essa
+ 00:26:42
+
+questão com mais
+ 00:26:45
+
+eh detalhes também entrando no próprio
+ 00:26:49
+
+Hub agora de batata doce não é como um
+ 00:26:53
+
+outro exemplo a gente tem outros temas
+ 00:26:55
+
+sendo trabal trado dentro da parte de
+ 00:26:57
+
+produção nós temos solo cultivares
+ 00:26:59
+
+ah principais regiões produtoras questão
+ 00:27:03
+
+de nutrição plantio tratos culturais
+ 00:27:06
+
+irrigação colheita ah questão
+ 00:27:09
+
+relacionada a às doenças pragas dentro
+ 00:27:12
+
+de pós-produção
+ 00:27:16
+
+armazenamento
+ 00:27:18
+
+e enfim uma série de de de de conteúdos
+ 00:27:20
+
+organizados e de novo lembrando noos
+ 00:27:24
+
+seus diversos formatos então ali por
+ 00:27:26
+
+exemplo no lado direito
+ 00:27:29
+
+desse desse slide a gente tem o cursos
+ 00:27:31
+
+web Stories e alguns cursos de
+ 00:27:35
+
+diferentes
+ 00:27:37
+
+instituições aqui também temos
+ 00:27:39
+
+a cursos de algumas outras instituições
+ 00:27:42
+
+temos informações aqui no caso de
+ 00:27:46
+
+Notícias alertas por exemplo uma nova
+ 00:27:48
+
+cultivar ah informações resumidas isso
+ 00:27:50
+
+também é um aspecto interessante
+ 00:27:53
+
+trazendo todo o conjunto de informações
+ 00:27:55
+
+técnicas sobre essa ura
+ 00:27:57
+
+também Opa e entrando agora na na parte
+ 00:28:00
+
+disponibilização do conteúdo não é até
+ 00:28:05
+
+agora a gente falou muito da
+ 00:28:06
+
+estruturação do do da plataforma Como
+ 00:28:07
+
+ela foi criada Quais são as
+ 00:28:09
+
+funcionalidades disponíveis a gente vem
+ 00:28:10
+
+agora para uma etapa de disponibilização
+ 00:28:12
+
+desse conteúdo que é talvez a a parte
+ 00:28:14
+
+mais importante então dentro alguns dos
+ 00:28:17
+
+nossos canais além da própria plataforma
+ 00:28:19
+
+a gente tem um canal no WhatsApp a A
+ 00:28:21
+
+ideia é que o próprio extensionista ele
+ 00:28:24
+
+possa fazer esse processo Entrar no
+ 00:28:26
+
+portal e compartilhar esses conteúdos
+ 00:28:28
+
+mas até no sentido de facilitar esse
+ 00:28:30
+
+processo existe hoje um grupo um um
+ 00:28:32
+
+canal WhatsApp onde esse conteúdo ele já
+ 00:28:35
+
+é colocado com uma periodicidade e o
+ 00:28:38
+
+processo ainda fica mais facilitado
+ 00:28:42
+
+então o extensionista não precisa nem
+ 00:28:43
+
+entrar no site para compartilhar esse
+ 00:28:45
+
+conteúdo Ele simplesmente entra no canal
+ 00:28:47
+
+e compartilha hoje esse canal ele
+ 00:28:49
+
+envolve todos os hubs ele ainda não tá
+ 00:28:52
+
+segmentado pelas cadeias produtivas mas
+ 00:28:54
+
+eh eh Quem sabe no futuro a gente pense
+ 00:28:57
+
+nessa estratégia também
+ 00:29:00
+
+ah como eu falei ele é um projeto que
+ 00:29:03
+
+foi lançado em abril e uma questão muito
+ 00:29:05
+
+importante desse processo foi a questão
+ 00:29:09
+
+de testes de conteúdo e usabilidade
+ 00:29:11
+
+essas fotos inclusive São desse teste
+ 00:29:14
+
+Então hoje a plataforma ela passa por um
+ 00:29:17
+
+processo de validação junto a rede de
+ 00:29:19
+
+ater e os próprios usuários esse esse
+ 00:29:23
+
+teste que foi feito nessa imagem
+ 00:29:26
+
+basicamente mostra o processo de
+ 00:29:28
+
+usabilidade em termos de funcionalidade
+ 00:29:31
+
+do portal Então nesse teste específico o
+ 00:29:34
+
+que o que foi colocado foi foram duas
+ 00:29:37
+
+atividades em resumo a primeira a gente
+ 00:29:39
+
+colocava um produtor e um extencionista
+ 00:29:42
+
+para acessar o Portal e procurar algumas
+ 00:29:44
+
+informações por exemplo colocávamos na
+ 00:29:46
+
+ele na página inicial e pedíamos para
+ 00:29:48
+
+ele procurar um vídeo específico por
+ 00:29:51
+
+exemplo sobre doenças da banana e ele
+ 00:29:52
+
+deveria acessar o Portal procurar essa
+ 00:29:55
+
+informação para ver se o caminho era
+ 00:29:57
+
+Lógico o número de cliques se se a
+ 00:29:58
+
+informação era realmente acessível em
+ 00:30:01
+
+termos de local e organização do
+ 00:30:04
+
+conteúdo e também foi colocado para para
+ 00:30:08
+
+esses produtores E aí por exemplo em
+ 00:30:11
+
+forma de papel a a página toda do do
+ 00:30:13
+
+site mas contudo sem sem nomes e sem
+ 00:30:16
+
+ordem então por exemplo a parte de
+ 00:30:18
+
+vídeos não tinha um nome ela tava na
+ 00:30:20
+
+parte final do site e o produtor Iria ou
+ 00:30:22
+
+extensionista ia organizando o layout
+ 00:30:25
+
+dessa página não é para ver o que que ele
+ 00:30:27
+
+achava mais interessante Então ele
+ 00:30:29
+
+priorizava a os conteúdos que ele achava
+ 00:30:31
+
+mais interessante ele colocava em cima
+ 00:30:33
+
+os nomes
+ 00:30:35
+
+que a gente vinha que tínhamos colocado
+ 00:30:37
+
+inicialmente alguns deles foram trocados
+ 00:30:40
+
+vimos se se a lógica do do portal ela
+ 00:30:42
+
+era alo explicativa Então esse foi um
+ 00:30:45
+
+teste que foi feito e vai continuar
+ 00:30:47
+
+sendo feito a ao longo do
+ 00:30:49
+
+projeto uma outra ação que que tem sido
+ 00:30:52
+
+desenhado agora são projetos piloto de
+ 00:30:55
+
+utilização da plataforma não é esse
+ 00:30:58
+
+primeiro teste é mais relacionado à
+ 00:31:00
+
+forma e conteúdo e o esse segundo agora
+ 00:31:02
+
+esses projetos piloto eles são
+ 00:31:05
+
+relacionados mais à questão da própria
+ 00:31:08
+
+efetividade e utilização da
+ 00:31:11
+
+plataforma então o uma uma ação que tem
+ 00:31:13
+
+sido feita e aí os nossos parceiros
+ 00:31:16
+
+principais paraessa ação até o momento
+ 00:31:18
+
+são A Emater DF pagre eh validar esse
+ 00:31:19
+
+conceito concebido no âmbito da ter da
+ 00:31:24
+
+plataforma terma digital para promoções
+ 00:31:26
+
+de at remota junto a produtores
+ 00:31:28
+
+extensionistas e pensamos em duas
+ 00:31:31
+
+frentes de ação não é a a primeira delas os
+ 00:31:33
+
+extensionistas dessas instituições
+ 00:31:37
+
+compartilhando o conteúdo do portal com
+ 00:31:38
+
+produtores durante um período específico
+ 00:31:40
+
+e enviando esses conteúdos ah com temas
+ 00:31:42
+
+e periodicidade definidas em conjunto
+ 00:31:46
+
+Ah para isso o que a gente tá fazendo
+ 00:31:50
+
+com essas instituições é capacitação de
+ 00:31:53
+
+um grupo de extensionistas e produtores
+ 00:31:55
+
+dessas dos produtores dessas
+ 00:31:58
+
+instituições e dos produtores que eles
+ 00:32:00
+
+atendem também paraa utilização da
+ 00:32:02
+
+plataforma então em resumo A ideia é que
+ 00:32:04
+
+entre uma visita e outra não é isso é
+ 00:32:08
+
+importante a gente colocaro jamais
+ 00:32:10
+
+substitui a presencial a gente vai
+ 00:32:11
+
+mandar com uma periodicidade por exemplo
+ 00:32:15
+
+no caso do trabalho Adepag uma
+ 00:32:17
+
+frequência semanal ou quinzenal
+ 00:32:19
+
+conteúdos relacionados aos temas que
+ 00:32:22
+
+conteúdos digitais relacionados ao tema
+ 00:32:24
+
+que esse produtor vem trabalhando então
+ 00:32:26
+
+no caso foram selecionados a os temas de
+ 00:32:29
+
+batata doce e apicultura então entre uma
+ 00:32:31
+
+visita e outra uma vez por semana esses
+ 00:32:34
+
+produtores vão receber conteúdos
+ 00:32:36
+
+relacionados a esse tema e ao final
+ 00:32:38
+
+desse processo vai ser avaliado se
+ 00:32:41
+
+realmente a o processo de
+ 00:32:43
+
+eh compartilhamento de de conteúdo ele
+ 00:32:47
+
+foi simples ele auxiliou o processo você
+ 00:32:50
+
+ajudou o produtor você ajudou o
+ 00:32:52
+
+extensionista como um todo e um segundo
+ 00:32:53
+
+ponto que a gente tem para trabalhado
+ 00:32:56
+
+também eh a integração das Ferramentas
+ 00:32:58
+
+digitais dessas instituições à própria
+ 00:33:01
+
+plataforma Então pegando o exemplo da da
+ 00:33:03
+
+Emater deef a os conteúdos que elas não
+ 00:33:06
+
+tinham disponíveis por exemplo se não
+ 00:33:08
+
+tivesse algum conteúdo de apicultura por
+ 00:33:09
+
+exemplo na dentro das cartilhas os
+ 00:33:12
+
+materiais que eles produziram ao invés
+ 00:33:14
+
+de ter que produzir
+ 00:33:16
+
+eh eles remetem à plataforma terma
+ 00:33:18
+
+digital porque dentro dessa plataforma
+ 00:33:21
+
+Inclusive tem conteúdos deles e de
+ 00:33:23
+
+outras instituições essa questão é ela é
+ 00:33:24
+
+interessante porque em conversas com a
+ 00:33:28
+
+rede de de ater seja ela pública ou seja
+ 00:33:30
+
+privada o que a gente viu é que a maior
+ 00:33:33
+
+parte das instituições produz o seu
+ 00:33:35
+
+próprio conteúdo e isso acaba
+ 00:33:37
+
+encarecendo o serviço de ater digital
+ 00:33:39
+
+como um todo como a plataforma ela tem
+ 00:33:42
+
+essa informação organizada em único
+ 00:33:45
+
+local Talvez não haja necessidade para
+ 00:33:46
+
+toda a instituição produzir conteúdo
+ 00:33:49
+
+novamente e isso é especialmente crítico
+ 00:33:51
+
+talvez paraas instituições privadas de
+ 00:33:54
+
+menor porte paraas instituições maior
+ 00:33:56
+
+porte universidades a asem matérias por
+ 00:33:58
+
+exemplo produzir conteúdo é mais simples
+ 00:34:01
+
+do que para essas instituições menores
+ 00:34:03
+
+então a plataforma ela vem no sentido de
+ 00:34:05
+
+apoiar esse processo
+ 00:34:07
+
+também trazendo um pouco mais só sobre
+ 00:34:09
+
+esses pilotos esse é o nosso cronograma
+ 00:34:11
+
+de ação pro pro projeto piloto de batata
+ 00:34:14
+
+doce junto a i pagre Então temos um um
+ 00:34:18
+
+conjunto de conteúdos para ser
+ 00:34:21
+
+disponibilizado em agosto setembro
+ 00:34:22
+
+outubro a gente tem também teria para
+ 00:34:26
+
+novembro e pros próximos meses mas isso
+ 00:34:28
+
+complementando as ações que vêm sendo
+ 00:34:30
+
+feitas pelos técnicos em campo então o
+ 00:34:33
+
+processo é realmente avaliar essa
+ 00:34:36
+
+interação
+ 00:34:39
+
+esse esse esse processo das ações
+ 00:34:41
+
+digitais junto às ações presenciais
+ 00:34:45
+
+eh uma outra questão
+ 00:34:50
+
+eh importante também é destacar o número
+ 00:34:52
+
+de pessoas técnicos pesquisadores já
+ 00:34:56
+
+envolvidos nessa ação
+ 00:34:59
+
+ah hoje temos sem sem considerar os
+ 00:35:00
+
+projetos piloto mais de 100 pessoas eh
+ 00:35:05
+
+dessas instituições
+ 00:35:08
+
+listadas trabalhando nesse
+ 00:35:11
+
+desenvolvimento da plataforma Então
+ 00:35:13
+
+temos diversas unidades da Embrapa
+ 00:35:14
+
+colegas do ica do mapa do MDA demat RDF
+ 00:35:16
+
+Epagri asbraer anater entre
+ 00:35:20
+
+outros trazendo alguns resultados
+ 00:35:24
+
+iniciais e isso trazendo desde o do
+ 00:35:26
+
+lançamento em abril a gente tem um
+ 00:35:30
+
+número elevado de acesso para uma
+ 00:35:33
+
+plataforma não foram colocados recursos
+ 00:35:35
+
+robustos para sua disponibilização mas
+ 00:35:37
+
+hoje a gente tem nos seus primeiros 80
+ 00:35:40
+
+dias da plataforma uma média de 540
+ 00:35:42
+
+acessos por dia que é um número bem
+ 00:35:45
+
+elevado comparando com algumas outras
+ 00:35:46
+
+iniciativas que a gente vê semelhantes
+ 00:35:48
+
+ah dentro desses desses polos de
+ 00:35:50
+
+informação dos serves mais acessados nós
+ 00:35:53
+
+temos como os principais o o sub de
+ 00:35:55
+
+caprinos e
+ 00:35:58
+
+ovinos o de apicultura e o de feijão
+ 00:35:59
+
+calpi Mas todos têm um número
+ 00:36:02
+
+interessante de acessos a gente vê um
+ 00:36:03
+
+conjunto muito grande de Notícias sendo
+ 00:36:06
+
+compartilhado sobre a plataforma também
+ 00:36:08
+
+e dentro do nosso canal do WhatsApp hoje
+ 00:36:10
+
+a gente já tem mais de 300
+ 00:36:12
+
+eh membros seguidores não é E temos dois
+ 00:36:15
+
+projetos piloto desses de validação de
+ 00:36:19
+
+metodologia de até em andamento dentro
+ 00:36:22
+
+da nossa perspectiva de atuação para
+ 00:36:25
+
+esse ano queremos ter pelo menos um
+ 00:36:26
+
+projeto piloto com cada grande região do
+ 00:36:29
+
+do Brasil Então as instituições
+ 00:36:31
+
+interessadas também em realizar esse
+ 00:36:33
+
+tipo de ação com com a plataforma Ah
+ 00:36:34
+
+fica o nosso convite para essa ação
+ 00:36:37
+
+ah alguns outros resultados
+ 00:36:41
+
+interessantes sobre o tema são
+ 00:36:43
+
+relacionados à questão de cooperação
+ 00:36:45
+
+sul-sul e triangular a a questão de at
+ 00:36:47
+
+digital e a digitalização do dos dos
+ 00:36:51
+
+sistemas e de de extensão Rural eh
+ 00:36:53
+
+são na verdade é uma discussão frequente
+ 00:36:58
+
+em vários países e isso aqui são
+ 00:36:59
+
+projetos iniciativas para
+ 00:37:01
+
+compartilhamento da experiência da
+ 00:37:04
+
+plataforma term digital na República
+ 00:37:05
+
+Dominicana e aqui também na Etiópia que
+ 00:37:07
+
+também quer conhecer mais como esse
+ 00:37:10
+
+processo vem sendo desenhado para essa
+ 00:37:12
+
+rede de
+ 00:37:14
+
+atores aqui só trazendo parte do nosso
+ 00:37:16
+
+grupo eh responsável por esse trabalho e
+ 00:37:19
+
+esse grupo particularmente ele ele é
+ 00:37:22
+
+muito importante como Eu mencionei a
+ 00:37:24
+
+plataforma todo o conteúdo Antes ser
+ 00:37:26
+
+disponibilizado ele é trabalhado por uma
+ 00:37:29
+
+rede de comunicadores antes da sua
+ 00:37:30
+
+disponibilização então ao acessar a
+ 00:37:32
+
+plataforma a terra digital nunca um
+ 00:37:35
+
+extensionista um produtor vai encontrar
+ 00:37:37
+
+uma tese um artigo nunca vai encontrar
+ 00:37:39
+
+esse tipo de conteúdo esse conteúdo ele
+ 00:37:40
+
+é altamente digerido e trabalhado antes
+ 00:37:42
+
+da sua disponibilização e essa é uma das
+ 00:37:45
+
+razões inclusive da gente não ter por
+ 00:37:48
+
+exemplo Hoje os 29 R disponíveis apesar
+ 00:37:50
+
+do conteúdo já tá mapeado esse conteúdo
+ 00:37:52
+
+ele precisa ser trabalhado antes da sua
+ 00:37:55
+
+disponibilização Então esse aqui é parte
+ 00:37:57
+
+da nossa rede de comunicadores e
+ 00:38:00
+
+conteudistas como próximos passos da
+ 00:38:03
+
+plataforma
+ 00:38:06
+
+eh a gente tem o a questão de projetos
+ 00:38:08
+
+pilotos com a rede de ater pública ou
+ 00:38:11
+
+privada e aí privada com essos
+ 00:38:13
+
+lucrativos projetos piloto com parceiro
+ 00:38:15
+
+estamos desenhando por exemplo algumas
+ 00:38:18
+
+ações com sebrai Para apoiar o serviço
+ 00:38:19
+
+que eles já fazem junto aos agricultores
+ 00:38:22
+
+forais também usando a plataforma term
+ 00:38:24
+
+digital os hubs e melhoria dos atuais e
+ 00:38:26
+
+melhoria passa tanto pela questão de
+ 00:38:29
+
+novos conteúdos e novas funcionalidades
+ 00:38:31
+
+mas também pela regionalização do
+ 00:38:35
+
+conteúdo essa é uma questão que o
+ 00:38:37
+
+projeto precisa ainda trabalhar então
+ 00:38:38
+
+colocar por exemplo aquilo que eu
+ 00:38:41
+
+coloquei ah conteúdo de feijão
+ 00:38:42
+
+específico para cada uma das regiões a a
+ 00:38:44
+
+forma de produzir no sul é diferente da
+ 00:38:46
+
+produção da da região Nordeste as
+ 00:38:49
+
+cultivares são diferentes calendário de
+ 00:38:50
+
+plantil é diferente essa informação ela
+ 00:38:52
+
+precisa est melhor segmentada isso é uma
+ 00:38:54
+
+das coisas que a gente quer fazer
+ 00:38:55
+
+a inserção e utilização de conteúdos por
+ 00:38:58
+
+entidades do terceiro setor em
+ 00:39:00
+
+movimentos sociais a gente tem muitas
+ 00:39:02
+
+instituições que atendem produtores
+ 00:39:05
+
+movimentos sociais que tem conteúdo
+ 00:39:06
+
+robusto também que precisa ainda ser
+ 00:39:08
+
+inserido da inserido na plataforma E
+ 00:39:10
+
+como eu falei também a questão de
+ 00:39:14
+
+inserção de novas funcionalidades
+ 00:39:16
+
+Ah nesse slide aqui deixar para só um
+ 00:39:19
+
+segundo quem quiser baixar mas esse é o
+ 00:39:23
+
+site para você acessar o q code na
+ 00:39:25
+
+verdade para você acessar a plataforma
+ 00:39:28
+
+se você colocar no Google também a ter
+ 00:39:30
+
+mais digital e aí em vez de seu símbolo
+ 00:39:33
+
+de mais a palavra mais por extenso você
+ 00:39:35
+
+consegue acessar também só deixar mais
+ 00:39:37
+
+um pouquinho para quem quiser acessar
+ 00:39:39
+
+via q
+ 00:39:40
+
+code aqui também o um outro q code na
+ 00:39:47
+
+verdade para acessar o canal no WhatsApp
+ 00:39:50
+
+com esse link Você já consegue com esse
+ 00:39:54
+
+code na verdade você já cai direto no
+ 00:39:56
+
+nosso canal E aí você começa a receber
+ 00:39:58
+
+as atualizações diretamente no seu
+ 00:40:00
+
+WhatsApp então não é um grupo um canal
+ 00:40:02
+
+fica numa outra aba
+ 00:40:04
+
+e o conteúdo é compartilhado geralmente
+ 00:40:06
+
+uma vez por semana mas a perspectiva é
+ 00:40:09
+
+que a gente aumente
+ 00:40:11
+
+também é isso muito
+ 00:40:14
+
+obrigado muito bom muito bom Parabéns aí
+ 00:40:21
+
+Rodrigo muito bom eu tava at tentando
+ 00:40:25
+
+aqui escalhar o tava escalhar o o a
+ 00:40:27
+
+comunidade achei muito legal isso aí é
+ 00:40:31
+
+um uma coisa de interação bem bacana com
+ 00:40:33
+
+os com com o público principalmente com
+ 00:40:36
+
+os usuários não é Muito legal Rodrigo tem
+ 00:40:39
+
+muita gente tá assistindo aqui eu vou
+ 00:40:43
+
+começar pelo pessoal que tá assistindo
+ 00:40:45
+
+para prestigiar aí pessoal o pessoal da
+ 00:40:46
+
+ifs São Paulo aí o Egídio o pessoal do
+ 00:40:50
+
+do politécnico da do do centro de cursos
+ 00:40:53
+
+técnicos da Universidade Federal de
+ 00:40:58
+
+Santa Maria o pessoal da ipag do Zap
+ 00:40:59
+
+Rural aí não é o pessoal da muito muita
+ 00:41:01
+
+gente da Embrapa não é Embrapa meio
+ 00:41:05
+
+ambiente Embrapa sede temos aqui o
+ 00:41:07
+
+pessoal de da itesp Campinas a mais a
+ 00:41:10
+
+gente tem pessoal da Unioeste olha só
+ 00:41:14
+
+que legal mais gente da da itesp quem é
+ 00:41:17
+
+que temos mais aqui ó o pessoal da cinta
+ 00:41:21
+
+ater e pesquisa fazer presente obrigado
+ 00:41:27
+
+pela presença aí galera olha aqui nós já
+ 00:41:31
+
+temos até alguns comentários e perguntas
+ 00:41:33
+
+hoje eu vou inverter hoje V primeiro
+ 00:41:36
+
+trazer primeiro o pessoal da de fazer
+ 00:41:38
+
+contribuições Andreia Andreia é Nossa
+ 00:41:41
+
+aluna do te fruticultura aqui da em
+ 00:41:43
+
+Santa Maria e ela futura extensionista
+ 00:41:47
+
+não é
+ 00:41:50
+
+and Ela comenta o seguinte Parabéns pela
+ 00:41:52
+
+qualidade da plataforma os produtores
+ 00:41:55
+
+necessitam de todo o apoio possível
+ 00:41:58
+
+destaque das parcerias muito importante
+ 00:42:01
+
+para o sucesso isso aí obrigado André
+ 00:42:03
+
+pela pela questão aqui pela comentário
+ 00:42:06
+
+agora vou colocar a pergunta do Egídio
+ 00:42:09
+
+aqui ele V deixar pro Rodrigo aí
+ 00:42:11
+
+Pergunta parabéns pelo projeto parabéns
+ 00:42:14
+
+ainda mais pelo teste de
+ 00:42:18
+
+usabilidade outras questões de
+ 00:42:20
+
+usabilidade além da
+ 00:42:22
+
+navegabilidade também serão serão
+ 00:42:25
+
+avaliadas pergunta o Egídio além da
+ 00:42:27
+
+navegabilidade também serão
+ 00:42:30
+
+avaliadas Professor
+ 00:42:35
+
+a Com certeza outras questões vão ser
+ 00:42:39
+
+avaliadas não é a gente tem duas ações
+ 00:42:42
+
+paralelas acontecendo a que Eu mencionei
+ 00:42:44
+
+a questão da usabilidade do sistema e a
+ 00:42:46
+
+questão da própria validação junto com
+ 00:42:49
+
+os produtores e os extensionistas da
+ 00:42:51
+
+utilização desse conteúdo Então dentro
+ 00:42:53
+
+da desses projetos piloto que a gente tá
+ 00:42:56
+
+chamando e estamos chamando de projeto
+ 00:42:58
+
+piloto tanto pela curta duração e também
+ 00:43:00
+
+por esse caráter avaliativo que vai ser
+ 00:43:03
+
+colocado algumas das perguntas que vão
+ 00:43:05
+
+ser feitas são relacionados ao à
+ 00:43:07
+
+qualidade do conteúdo Então se se o se o
+ 00:43:09
+
+conteúdo da linguagem acessível se o a
+ 00:43:13
+
+duração ela é é interessante se o
+ 00:43:16
+
+produtor Conseguiu baixar o conteúdo com
+ 00:43:19
+
+facilidade se não precisou baixar se ele
+ 00:43:21
+
+conseguiu colocar aquela prática dentro
+ 00:43:23
+
+da sua rotina de trabalho então todas
+ 00:43:25
+
+essas questões vão ser avaliadas também
+ 00:43:27
+
+são são ações paralelas uma relacionada
+ 00:43:29
+
+mais a formato e layout e outra
+ 00:43:32
+
+relacionada mais ao próprio uso da da
+ 00:43:34
+
+informação em
+ 00:43:38
+
+si muito bem muito bem vou trazer aqui a
+ 00:43:40
+
+questão da da Rosana Moreto Rosana
+ 00:43:43
+
+Pergunta assim ó bom dia para a
+ 00:43:46
+
+implantação estruturação desta
+ 00:43:49
+
+plataforma houve custo direto por
+ 00:43:51
+
+exemplo a plataforma mudo é de código
+ 00:43:54
+
+aberto Professor ah houve um custo
+ 00:43:58
+
+direto e indireto no no sentido de da
+ 00:44:02
+
+adaptação desse conteúdo tem horas
+ 00:44:06
+
+técnicas de diversos produtores e
+ 00:44:08
+
+técnicos de pesquisadores e técnicos na
+ 00:44:09
+
+adaptação no mapeamento e na e no ajuste
+ 00:44:12
+
+desses conteúdos evidentemente a gente
+ 00:44:15
+
+tem um custo de ti também associado ao
+ 00:44:18
+
+armazenamento desse material mas não é
+ 00:44:20
+
+um custo elevado ele é um site aberto
+ 00:44:21
+
+não é uma plataforma por exemplo como
+ 00:44:24
+
+Moodle ou ou Ah uma outra plataforma que
+ 00:44:25
+
+tenha custo o que a gente tem ali dentro
+ 00:44:29
+
+da plataforma também grande parte maior
+ 00:44:31
+
+parte na verdade desse conteúdo é
+ 00:44:33
+
+disponibilizado de forma gratuita mas
+ 00:44:35
+
+por exemplo um curso de uma instituição
+ 00:44:37
+
+terceira sobre uma cadeia produtiva seja
+ 00:44:39
+
+pago por exemplo esse curso se relevante
+ 00:44:42
+
+ele pode ser colocado ali dentro o curso
+ 00:44:45
+
+não vai ser colocado de maneira gratuita
+ 00:44:46
+
+o que vai ser feito vai ser uma uma
+ 00:44:48
+
+ponte entre a o canal que já existe
+ 00:44:51
+
+divulgando essa essa plataforma esse
+ 00:44:53
+
+curso e ali e por meio dali você faz o
+ 00:44:55
+
+acesso a a esse material então o o
+ 00:44:58
+
+projeto hoje ele não tem custo nenhum
+ 00:45:01
+
+pro usuário com exceção desses casos de
+ 00:45:03
+
+por exemplo cursos pagos ou algumas
+ 00:45:06
+
+outras funcionalidades que já são pagas
+ 00:45:08
+
+por outras instituições então o custo
+ 00:45:10
+
+que a gente tem de criação na verdade
+ 00:45:13
+
+por exemplo de um novo Hub ele passa por
+ 00:45:14
+
+contratação ou seleção de uma equipe
+ 00:45:17
+
+técnica para a Seleção desses conteúdos
+ 00:45:19
+
+adaptação desse conteúdo consequente
+ 00:45:22
+
+disponibilização mas pro usuário
+ 00:45:25
+
+geralmente não tem uhum é a a Rosana
+ 00:45:28
+
+cumprimentou aqui depois quando você
+ 00:45:31
+
+falava não é nota-se que a plataforma ter
+ 00:45:33
+
+atende de modo bem específico as
+ 00:45:35
+
+necessidades mas o custo de criação fica
+ 00:45:37
+
+muito alto ela ficou nessa questão do
+ 00:45:39
+
+custo não é Rodrigo explicou muito bem aqui
+ 00:45:41
+
+muito bacana vou trazer aqui a do
+ 00:45:44
+
+Jeferson parabéns pelo trabalho pergunta
+ 00:45:47
+
+vocês identificaram demanda por acesso à
+ 00:45:51
+
+geoinformação exemplo de declividade uso
+ 00:45:55
+
+de solo hidrografia etc tem como acessar
+ 00:45:58
+
+esse tipo de informação via
+ 00:46:01
+
+plataforma
+ 00:46:05
+
+é hoje o que a gente consegue fazer com
+ 00:46:07
+
+com os relatórios de acesso ao ao portal
+ 00:46:10
+
+de de a gente consegue ver os conteúdos
+ 00:46:13
+
+Mais buscados na verdade e a partir daí
+ 00:46:15
+
+a gente consegue ver por exemplo dentro
+ 00:46:18
+
+de uma cadeia específica qual tema tem
+ 00:46:19
+
+mais demanda mas essas questões de mapa
+ 00:46:22
+
+de deidade Us do só bibliografia por
+ 00:46:25
+
+exemplo são conteúdos que a gente não
+ 00:46:28
+
+tem ainda disponível na plataforma então
+ 00:46:29
+
+a gente não tem essa informação mas a
+ 00:46:32
+
+gente tem outros acessos e identificação
+ 00:46:33
+
+de outras demandas pelo tipo de acesso
+ 00:46:36
+
+que tem nos conteúdos da das páginas mas
+ 00:46:40
+
+a gente acha que a gente tem dando um um
+ 00:46:42
+
+Horizonte temporal curto para poder
+ 00:46:44
+
+avaliar como eu falei são 4 meses de
+ 00:46:46
+
+projeto lançado e a gente sabe que
+ 00:46:49
+
+dependendo do próprio calendário
+ 00:46:50
+
+agrícola alguns temas vão ter mais
+ 00:46:52
+
+demanda em determinadas épocas então pra
+ 00:46:54
+
+gente realmente
+ 00:46:55
+
+quais temas são mais buscados pros
+ 00:46:57
+
+produtores precisa de um Horizonte
+ 00:46:59
+
+maior muito bom Aqui nós temos o o
+ 00:47:02
+
+pessoal falando parabéns pelo projeto
+ 00:47:06
+
+Somos Associação dos extensionistas
+ 00:47:08
+
+públicos do Amapá josélio extensionista
+ 00:47:11
+
+agropecuário da rurap a pública a ter
+ 00:47:14
+
+Estadual pública Muito obrigado pela
+ 00:47:18
+
+presença o jeers tá agradecendo aqui
+ 00:47:20
+
+pelo pelo retorno também muito legal
+ 00:47:23
+
+bastante per tô gostando a galera tá
+ 00:47:26
+
+animada hoje faço mais perguntas
+ 00:47:29
+
+Aproveite Aproveite que o Rodrigo está
+ 00:47:31
+
+aqui ele pode responder todos vou passar
+ 00:47:33
+
+a palavra pro professor zuin aí fazer
+ 00:47:35
+
+uma interlocução
+ 00:47:37
+
+agora Rodrigo muito bacana esse projeto
+ 00:47:38
+
+dos rubs que vocês estão desenvolvendo
+ 00:47:42
+
+não é eu diria que ele até revolucionário
+ 00:47:44
+
+no sentido de que você vocês estão
+ 00:47:47
+
+criando sites repositórios de todas as
+ 00:47:50
+
+as informações não é claro que informações
+ 00:47:53
+
+sobre determinados assuntos ali
+ 00:47:57
+
+não é do que vem tanto da Embrapa como dos
+ 00:47:59
+
+órgãos parceiros isso daí é é
+ 00:48:03
+
+revolucionário isso não tenho dúvida
+ 00:48:05
+
+nenhuma quando a gente pensa nos
+ 00:48:08
+
+processos de ensino
+ 00:48:09
+
+aprendizagem questão é os sites eles são
+ 00:48:11
+
+repositórios n Claro que existe uma
+ 00:48:14
+
+divulgação a pessoa pode ir no Google
+ 00:48:17
+
+digitar hubs e ele é por meio do Google
+ 00:48:19
+
+chegar não é ali no no site mas
+ 00:48:22
+
+como primeiro passo talvez que vocês
+ 00:48:27
+
+estão indo no sentido de criar um
+ 00:48:30
+
+ecossistema digital de comunicação em
+ 00:48:32
+
+rede é o canal do WhatsApp ali não é quais
+ 00:48:35
+
+outras outros pensamentos não é outras
+ 00:48:41
+
+estratégias de comunicação vocês estão
+ 00:48:44
+
+prevendo para tá fazendo desenvolvendo
+ 00:48:47
+
+esse ecossistema não é digital de
+ 00:48:50
+
+comunicação em rede não é para outros para
+ 00:48:53
+
+outra as plataformas e outras parcerias
+ 00:48:56
+
+ali não é pras pessoas eh tomarem contato
+ 00:48:59
+
+por meio de algum material de divulgação
+ 00:49:04
+
+da
+ 00:49:06
+
+plataforma em algum grupo do WhatsApp ou
+ 00:49:08
+
+de outros parceiros e daí as pessoas
+ 00:49:11
+
+irem até a plataforma não é Eh acessar o
+ 00:49:14
+
+conteúdo mais completo ali que pode ser
+ 00:49:18
+
+um curso um livro Uma apresentação não é
+ 00:49:21
+
+alguma coisa nesse sentido um texto não é
+ 00:49:24
+
+ali não é como é que vocês estão pensando
+ 00:49:27
+
+esse esse ecossistema
+ 00:49:29
+
+aí professor Talvez o o senhor trouxe um
+ 00:49:32
+
+aspecto importante da da da plataforma
+ 00:49:35
+
+são repositório de informação mas
+ 00:49:37
+
+gostaria de trazer também um aspecto que
+ 00:49:39
+
+a gente considera um dos diferenciais da
+ 00:49:41
+
+plataforma porque repositórios de
+ 00:49:43
+
+informação a gente tem espalhados por
+ 00:49:45
+
+diversas instituições Talvez uma uma das
+ 00:49:47
+
+questões que a gente coloca como um
+ 00:49:50
+
+aspecto importante é que realmente é uma
+ 00:49:52
+
+rede de inovação então o que a gente tem
+ 00:49:55
+
+ali é conteúdo de diversas instituições
+ 00:49:57
+
+então universidades ah Embrapa sebrai ah
+ 00:49:59
+
+ONGs entre outros então é um repositório
+ 00:50:03
+
+multi-institucional
+ 00:50:06
+
+uma outra questão também é que ele é um
+ 00:50:07
+
+repositório de
+ 00:50:11
+
+formatos com conteúdos em diferentes
+ 00:50:14
+
+formatos Então essa questão ela é
+ 00:50:16
+
+interessante porque ela é
+ 00:50:19
+
+uma ela fica realmente a cargo do
+ 00:50:22
+
+extensionista para Qual o melhor formato
+ 00:50:25
+
+de conteúdo para ser compartilhado Então
+ 00:50:27
+
+esse talvez seja um ponto importante
+ 00:50:29
+
+trazendo essa questão de repositório Mas
+ 00:50:31
+
+repositório também de ferramentas Então
+ 00:50:33
+
+também não é só conteúdo isso é
+ 00:50:36
+
+importante a gente
+ 00:50:37
+
+colocar sobre a questão
+ 00:50:39
+
+de realmente fazer essa ferramenta
+ 00:50:41
+
+chegar no nosso público é de novo trazer
+ 00:50:44
+
+que é uma ferramenta para extensionistas
+ 00:50:46
+
+também então temos participado de uma
+ 00:50:49
+
+série de eventos de de lançamento
+ 00:50:51
+
+divulgação feiras HTEC agrobrasil
+ 00:50:53
+
+Brasília e vamos participar de outros
+ 00:50:56
+
+presencialmente divulgando com material
+ 00:50:58
+
+ah gráfico também distribuindo lives por
+ 00:51:00
+
+exemplo como essas mas também a gente
+ 00:51:03
+
+conta com o apoio da asbraer e da anater
+ 00:51:06
+
+para divulgação desse projeto então
+ 00:51:10
+
+provavelmente vão ter ciclos de palestra
+ 00:51:12
+
+junto com com a asbraer com a anater
+ 00:51:14
+
+também estamos pensando algumas
+ 00:51:17
+
+estratégias para realmente fomentar esse
+ 00:51:18
+
+uso e essa plataforma e outras dentro
+ 00:51:20
+
+por exemplo da das ações que as empresas
+ 00:51:23
+
+que trabalham junto com a ter trabalho a
+ 00:51:25
+
+a plataforma terma digital ela na
+ 00:51:27
+
+verdade ela congrega um conjunto de
+ 00:51:29
+
+informações de diversas outras redes
+ 00:51:31
+
+também não é então existe a plataforma
+ 00:51:33
+
+terma digital mas existe também a
+ 00:51:35
+
+informações que a gente tem no ah em
+ 00:51:38
+
+aplicativo do do do senar temos também a
+ 00:51:42
+
+questão
+ 00:51:45
+
+do da plataforma de curso da Embrapa
+ 00:51:46
+
+plataformas ou reunião de conteúdos na
+ 00:51:49
+
+rede a Nordeste então fomentar realmente
+ 00:51:51
+
+o uso de plataformas digitais para apiar
+ 00:51:55
+
+essas ações de de extensão um um exemplo
+ 00:51:58
+
+interessante até de conversas com a
+ 00:52:02
+
+própria rede de de ater a gente vê que
+ 00:52:03
+
+em média um produtor recebe uma visita
+ 00:52:05
+
+de de um extensionista a cada do TR
+ 00:52:08
+
+meses é o pra que a gente tem com a
+ 00:52:11
+
+inclusão de atividades ou práticas de de
+ 00:52:14
+
+comunicação digital deer a gente tem que
+ 00:52:17
+
+esse contato com extencionista produtor
+ 00:52:20
+
+passa a ser semanal ou quinzenal muitas
+ 00:52:22
+
+vezes mensal então o o processo de
+ 00:52:24
+
+construção de conhecimento todo um
+ 00:52:27
+
+conjunto de atividades consegue ser
+ 00:52:29
+
+realizado e o acompanhamento entre um
+ 00:52:31
+
+atendimento presencial e outro e a
+ 00:52:35
+
+plataforma a terma digital ela vem
+ 00:52:36
+
+realmente apoiar esse processo e
+ 00:52:39
+
+lembrando também acho que é uma das
+ 00:52:41
+
+questões que acho que já foi muito
+ 00:52:43
+
+destacado aqui até na própria na própria
+ 00:52:44
+
+ah na rede Aurora é a questão é que as
+ 00:52:47
+
+ações digitais não necessariamente são
+ 00:52:50
+
+remotas você por exemplo no seu
+ 00:52:52
+
+atendimento com com o produtor você po
+ 00:52:54
+
+Pode mostrar um vídeo por exemplo de
+ 00:52:56
+
+como fazer uma prática ah os recursos
+ 00:52:57
+
+digitais disponíveis por exemplo um
+ 00:53:00
+
+vídeo pode ser passado um curso pode ser
+ 00:53:02
+
+colocado numa Associação e é uma ter é
+ 00:53:04
+
+uma ação digital dentro do âmbito de um
+ 00:53:07
+
+conjunto de uma metodologia de de ater
+ 00:53:09
+
+então a a ter digital nesse sentido ela
+ 00:53:12
+
+e essas ações de divulgação elas
+ 00:53:16
+
+acontecem também presencialmente
+ 00:53:17
+
+sim agora olha só que interessante tudo
+ 00:53:21
+
+aquilo que você falou para mim é o o
+ 00:53:23
+
+método é o início do método seu de
+ 00:53:26
+
+ensino aprendizagem desse ecossistema
+ 00:53:29
+
+digital de comunicação em rede que vocês
+ 00:53:32
+
+estão estão agora eh construindo não é por
+ 00:53:34
+
+meio dos rubs o Hub ele é tão
+ 00:53:38
+
+revolucionário não é na minha cabeça pelo
+ 00:53:41
+
+menos que vocês estão construindo que
+ 00:53:44
+
+vocês vão ter que em algum momento
+ 00:53:46
+
+desenvolver um método para educar quem
+ 00:53:48
+
+vai utilizá-lo das suas várias
+ 00:53:52
+
+potencialidades entendeu ali o exemplo
+ 00:53:55
+
+que é algo mais simples não tão complexo
+ 00:53:58
+
+que são os livros da série diálogos que
+ 00:54:02
+
+a gente tem no junto com mapa não é todo o
+ 00:54:04
+
+livro da série diálogos não é do do dos de
+ 00:54:07
+
+um tema de um depar do tema ali não é o
+ 00:54:10
+
+livro ele é dividido em três partes a
+ 00:54:13
+
+primeira uma introdução sobre o tema do
+ 00:54:15
+
+livro A segunda sobre a metodologia de
+ 00:54:17
+
+como utilizar as mídias que estão
+ 00:54:20
+
+expostas nos livros Então essa
+ 00:54:22
+
+metodologia de aprendizagem a gente a
+ 00:54:24
+
+gente oferece pros extensionistas e
+ 00:54:28
+
+técnicos do campo o que eu tô dizendo
+ 00:54:30
+
+querendo dizer para você Rodrigo é que
+ 00:54:33
+
+em algum momento vocês vão ter que
+ 00:54:35
+
+desenvolver essa metodologia para
+ 00:54:37
+
+explicar o técnico como utilizar no seu
+ 00:54:39
+
+potencial máximo todo esses ferramentas
+ 00:54:42
+
+conteúdos que os seus rubs possuem
+ 00:54:46
+
+entendeu ali não é E por meio de exemplos
+ 00:54:48
+
+por meio de de livros não sei mas em
+ 00:54:51
+
+algum momento e vai ter que ser feito
+ 00:54:54
+
+isso não é para ele aproveitar toda essa
+ 00:54:56
+
+potencialidade que é um trabalho
+ 00:54:59
+
+maravilhoso que vocês estão fazendo não é
+ 00:55:01
+
+mas parabéns muito
+ 00:55:03
+
+bacana professor dentro dessa linha acho
+ 00:55:05
+
+que vale a pena destacar o Hub de ater
+ 00:55:08
+
+digital que vem sendo criado Ah todos os
+ 00:55:10
+
+hubs na verdade eles contam com a
+ 00:55:13
+
+presença também e o apoio da do de
+ 00:55:15
+
+extensionistas da rede de extensão mas
+ 00:55:17
+
+nesse especialmente ele é essencial os
+ 00:55:19
+
+próprios conteúdos essa série diálogos
+ 00:55:22
+
+que o senhor colocou isso é conteúdo que
+ 00:55:24
+
+tem que ser disponibilizado E
+ 00:55:25
+
+sistematizado como eu falei hoje
+ 00:55:27
+
+provavelmente parte desse conteúdo tá em
+ 00:55:29
+
+forma de publicação e esse conteúdo vai
+ 00:55:30
+
+ser trabalhado por exemplo para ser
+ 00:55:32
+
+colocado lá também e isso por exemplo
+ 00:55:33
+
+com com a validação desse corpo técnico
+ 00:55:36
+
+que a gente tem que inclui
+ 00:55:39
+
+extensionistas para esse rub
+ 00:55:40
+
+especificamente uma ação que foi muito
+ 00:55:42
+
+interessante que foi foi colocada foi um
+ 00:55:44
+
+um levantamento prévio um questionário
+ 00:55:48
+
+que foi passado para extensionistas
+ 00:55:50
+
+fazendo a perguntas de quais conteúdos
+ 00:55:52
+
+Ele gostaria de ver e o que que eles
+ 00:55:55
+
+acham que deveria ter disponível dentro
+ 00:55:56
+
+desse Hub de metodologias então ele ele
+ 00:55:59
+
+tem sido construído nessa perspectiva
+ 00:56:01
+
+então esses elementos vão ser colocados
+ 00:56:03
+
+lá dentro com
+ 00:56:05
+
+certeza muito bom muito bom Rodrigo eu
+ 00:56:08
+
+vou fazer algo diferente aqui eu eu eu
+ 00:56:11
+
+acho que a galera assim ó fazer o
+ 00:56:13
+
+pessoal acessar o canal vou chamar teu
+ 00:56:16
+
+slide de volta e vou colocar naquele
+ 00:56:18
+
+Carry code lá eu achei eu achei muito
+ 00:56:20
+
+bacana enquanto a gente fala que é esse
+ 00:56:22
+
+aqui não é é o que code não é Rodrigo acho que
+ 00:56:25
+
+é não é Ezequiel É exatamente esse E aí só
+ 00:56:28
+
+como as as pessoas usam menos essa
+ 00:56:31
+
+funcionalidade do canal você se botar
+ 00:56:33
+
+esse CR code você acessa mas para você
+ 00:56:35
+
+receber o conteúdo eu acho que você tem
+ 00:56:38
+
+que seguir o canal então na parte de
+ 00:56:39
+
+cima do celular sem que clicar em
+ 00:56:41
+
+seguir muito bom não é muito importante
+ 00:56:46
+
+isso porque eu até fui procurar aqui na
+ 00:56:49
+
+hora de que você fazia apresentação e eu
+ 00:56:52
+
+não achei então não consegui achar o
+ 00:56:54
+
+canal eu digitei ele e eu não consegui
+ 00:56:57
+
+achar e por isso eu a eu achei
+ 00:56:59
+
+interessante colocar aqui e muitos
+ 00:57:01
+
+inclusive não sabem que existe essa
+ 00:57:03
+
+funcionalidade não é dentro do WhatsApp
+ 00:57:05
+
+Inclusive eu ten ensinado alguns
+ 00:57:07
+
+professores nossos aqui eu disse olha só
+ 00:57:09
+
+tem uma tem uma função aqui diferente no
+ 00:57:11
+
+WhatsApp que pode ser usado não é então por
+ 00:57:13
+
+isso eu faço questão de deixar aqui
+ 00:57:15
+
+disponível para quem tá assistindo agora
+ 00:57:18
+
+e quem vai assistir depois possa est
+ 00:57:19
+
+seguindo esse canal que é uma nova
+ 00:57:22
+
+funcionalidade do WhatsApp que já existe
+ 00:57:23
+
+alguma algum tempo já em que o pessoal
+ 00:57:25
+
+eh vários portais de internet se
+ 00:57:28
+
+comunicam com seus usuários e colocando
+ 00:57:31
+
+é é um lugar onde não há não há
+ 00:57:34
+
+interação não é as pessoas eles eh os os os
+ 00:57:36
+
+portais possam as informações e vocês
+ 00:57:40
+
+acessam diretamente sem muita poluição
+ 00:57:43
+
+não é eu vou deixar aqui mais um pouquinho
+ 00:57:45
+
+e aí eu vou trazer a a contribuição aqui
+ 00:57:48
+
+a pergunta do do pessoal aqui da
+ 00:57:51
+
+Associação dos extensionistas não é é eles
+ 00:57:53
+
+têm essa essa questão aqui importante o
+ 00:57:56
+
+grupo de agricultores familiares
+ 00:57:59
+
+assistidos semanalmente é feito de que
+ 00:58:00
+
+forma o acesso via aplicativo de celular
+ 00:58:03
+
+dos agricultores tem custo para a
+ 00:58:07
+
+implantação e acompanhamento dos
+ 00:58:09
+
+conteúdos que que você pode nos dizer
+ 00:58:13
+
+Rodrigo Professor Ezequiel Na verdade
+ 00:58:16
+
+essa ação tá começando se desenhada
+ 00:58:18
+
+agora não é ainda não tem dentro desse
+ 00:58:20
+
+projeto piloto nenhuma ação de
+ 00:58:22
+
+produtores recebendo dessa forma urada
+ 00:58:24
+
+talvez a os como o número de acessos
+ 00:58:26
+
+mostra os extensionistas já têm
+ 00:58:30
+
+utilizado mas fora do escopo desses
+ 00:58:31
+
+projetos que Eu mencionei são ações mais
+ 00:58:34
+
+estruturadas com processo de avaliação
+ 00:58:36
+
+no final para esses ah produtores que a
+ 00:58:37
+
+gente tá falando do do do projeto a o
+ 00:58:41
+
+conteúdo ele é enviado via WhatsApp para
+ 00:58:43
+
+esses produtores então e utilizando os
+ 00:58:46
+
+produtores cadastrados por exemplo nas
+ 00:58:49
+
+instituições Emater DF e epag já temos
+ 00:58:51
+
+os dados desses produtores já temos o
+ 00:58:54
+
+que eles produzem é um grupo selecionado
+ 00:58:56
+
+e esse conteúdo ele recebe semanalmente
+ 00:58:59
+
+via WhatsApp
+ 00:59:01
+
+Ah são produtores também que não não não
+ 00:59:04
+
+foi do dia paraa noite que eles
+ 00:59:08
+
+começaram a receber esse conteúdo não é o
+ 00:59:09
+
+extensionista Ah vai antes de começar
+ 00:59:10
+
+essa ação vai explicar para ele a
+ 00:59:14
+
+funcionalidade vai falar que ele vai
+ 00:59:15
+
+fazer parte de um projeto e que ele vai
+ 00:59:17
+
+receber essa informação durante um
+ 00:59:18
+
+período específico dentro da da cultura
+ 00:59:20
+
+do tema que ele trabalha e então não tem
+ 00:59:23
+
+custo não é na verdade ele entra como uma
+ 00:59:26
+
+complementação do que
+ 00:59:29
+
+esse do que esse agricultor já tá
+ 00:59:31
+
+recebendo então o custo na verdade é o
+ 00:59:34
+
+custo do próprio serviço de ater que já
+ 00:59:36
+
+tá sendo realizado pelo pela no caso
+ 00:59:38
+
+pagre e de Mater
+ 00:59:41
+
+DF muito bom muito bom excelente
+ 00:59:44
+
+eh vou trazer aqui a questão da Flávio
+ 00:59:47
+
+agora eu acho que todo mundo já já
+ 00:59:50
+
+conseguiu acessar o Car code se não
+ 00:59:52
+
+conseguiram eu coloco de novo aqui tá
+ 00:59:54
+
+bem gente muito legal a Flávia Nossa
+ 00:59:56
+
+extensionista da i pagre um das
+ 00:59:59
+
+contribuidoras aí na construção do Zap
+ 01:00:01
+
+Rural Ela comenta o seguinte parabéns
+ 01:00:04
+
+parabéns iniciativa valiosa para o
+ 01:00:06
+
+universo da ter impossível esgotar todo
+ 01:00:09
+
+universo atingível pois atuamos com
+ 01:00:12
+
+vidas o que me parece o maior desafio é
+ 01:00:14
+
+fazer chegar a todas as instâncias
+ 01:00:17
+
+atendendo ao objetivo da ter mais
+ 01:00:20
+
+digital comentário da Flávia e temos uma
+ 01:00:23
+
+última questão aqui
+ 01:00:27
+
+eh da Rosana não é só mais uma pergunta
+ 01:00:28
+
+aproveitando o contexto citado do
+ 01:00:33
+
+professor Zuin é possível efetuar
+ 01:00:35
+
+parcerias com os estados exemplo com as
+ 01:00:38
+
+secretarias da Agricultura meio ambiente
+ 01:00:41
+
+etc para a
+ 01:00:42
+
+capacitação Rosana com certeza e eu abro
+ 01:00:45
+
+com o o estendo convite na verdade para
+ 01:00:49
+
+todo tipo de colaboração para para essa
+ 01:00:52
+
+plataforma então se a sua institui ela
+ 01:00:53
+
+tem conteúdo por exemplo por um dos
+ 01:00:56
+
+temas que a gente trabalha seria muito
+ 01:00:58
+
+interessante que você também viesse
+ 01:01:00
+
+apoiar essa ação pros projetos piloto da
+ 01:01:02
+
+mesma forma o contato ele pode ser feito
+ 01:01:05
+
+via aquele e-mail que eu coloquei no no
+ 01:01:07
+
+final do da Apresentação mas também na
+ 01:01:09
+
+na própria Barra do site existe esse
+ 01:01:12
+
+esse esse meio para para contato pra
+ 01:01:15
+
+gente é todo interesse Com certeza esse
+ 01:01:18
+
+tipo de colaboração o professor Ezequiel
+ 01:01:20
+
+acho que uma uma questão que às vezes
+ 01:01:24
+
+Passo despercebido mas o o próprio nome
+ 01:01:25
+
+at Termas digital ele traz uma mensagem
+ 01:01:28
+
+interessante para essa ação não é a gente
+ 01:01:32
+
+tá falando de um não estamos falando de
+ 01:01:34
+
+aterra digital que é um conceito que às
+ 01:01:36
+
+vezes é um pouco controverso a gente tá
+ 01:01:38
+
+falando de um processo de aterra
+ 01:01:40
+
+realmente mais digital ela entra no
+ 01:01:42
+
+sentido da da própria prática de ater
+ 01:01:45
+
+simplesmente complementando com
+ 01:01:48
+
+metodologias digitais então a prática de
+ 01:01:49
+
+ater continua Mas ela é uma ação de
+ 01:01:51
+
+certa forma ah mais digital com
+ 01:01:53
+
+ferramentas virtuais e essa é um é um
+ 01:01:56
+
+ponto
+ 01:01:59
+
+interessante é muito bacana muito bacana
+ 01:02:01
+
+ele vem no sentido da complementação não é
+ 01:02:03
+
+eu eu sinceramente eu adorei os
+ 01:02:06
+
+múltiplos formatos Eu acho que isso aí é
+ 01:02:08
+
+olha assim foi a grande sacada da da
+ 01:02:11
+
+plataforma os múltiplos formatos é tipo
+ 01:02:14
+
+ah não quero ler a notícia ou não sei
+ 01:02:16
+
+ler ou não tô com tempo clico lá na
+ 01:02:19
+
+vozinha lá e fico fazendo as coisas e
+ 01:02:21
+
+escuto como se fosse um rádio não é não é
+ 01:02:23
+
+acesso à internet obviamente então assim
+ 01:02:26
+
+é essa questão dos múltiplos formatos
+ 01:02:28
+
+ela é fundamental para acessar mais
+ 01:02:31
+
+públicos eh possíveis não é claro que a
+ 01:02:33
+
+gente sempre tem tem gente que pode ser
+ 01:02:36
+
+acessvel iso é o grande desafio da
+ 01:02:38
+
+comunicação no mundo não é então acho que
+ 01:02:40
+
+eu acho muito legal o pessoal comentou
+ 01:02:42
+
+aqui também o o egid comentou aqui muito
+ 01:02:45
+
+pertinente a fala do professor zuin
+ 01:02:48
+
+seesse método é fundamental para
+ 01:02:49
+
+longevidade do projeto verdade eh
+ 01:02:51
+
+o Antônio falando que tá muito bom e o
+ 01:02:56
+
+Paulo eh parabéns em microrregiões de
+ 01:02:59
+
+desenvolvimento esses projetos
+ 01:03:02
+
+assumiriam um caráter mais
+ 01:03:03
+
+qualitativo é muito interessante essa
+ 01:03:06
+
+questão que você comentou no final
+ 01:03:08
+
+também sobre a segmentação eh do plantil
+ 01:03:10
+
+e das culturas por regiões ela é
+ 01:03:13
+
+fundamental não é porque a gente vê isso
+ 01:03:15
+
+seja na fruticultura ou em outras outras
+ 01:03:19
+
+cadeias produtivas não é lá em Unaí que
+ 01:03:22
+
+tava perto de Brasília não é no serado
+ 01:03:25
+
+Mineiro ali é uma forma de se produzir
+ 01:03:28
+
+aqui no sul é outra não é como o Rodrigo
+ 01:03:30
+
+muito bem pontuou não é então assim esse é
+ 01:03:32
+
+o grande desafio também não é da das
+ 01:03:35
+
+culturas em determinadas regiões não é e
+ 01:03:38
+
+isso vai exigi bastante esforço também
+ 01:03:41
+
+de de de especialista nessa área não é
+ 01:03:43
+
+então assim eu achei muito bacana
+ 01:03:45
+
+parabenizo a o pessoal Gostou hein Hoje
+ 01:03:48
+
+o pessoal Se animou com as perguntas tô
+ 01:03:51
+
+gostando gostando da galera aí se alguém
+ 01:03:53
+
+tiver mais uma questão pode colocar aqui
+ 01:03:55
+
+senão já vou passar a fala
+ 01:03:57
+
+Eh Fala Final pro Rodrigo aí para ele
+ 01:03:59
+
+fazer as considerações finais que que
+ 01:04:02
+
+ele vai pensar que que são os próximos
+ 01:04:04
+
+passos tu pode dizer para nós Rodrigo
+ 01:04:07
+
+repetir você já citou algum não é mas
+ 01:04:09
+
+reforçar alguns aí dos próximos Paços
+ 01:04:12
+
+desse grande projeto que vocês estão
+ 01:04:14
+
+desenvolvendo tá aqui eu acho que uma
+ 01:04:16
+
+uma outra questão também não é E só para
+ 01:04:19
+
+passar a informação correta a a lógica
+ 01:04:21
+
+principal de organização dessa
+ 01:04:23
+
+informação é é realmente essa linha do
+ 01:04:24
+
+tempo isso paraas cadeias produtivas
+ 01:04:26
+
+pros hubs temáticos A lógica é
+ 01:04:28
+
+totalmente diferente quando a gente fala
+ 01:04:31
+
+por exemplo de manas climáticas a gente
+ 01:04:32
+
+fala de de mitigação a gente traz outros
+ 01:04:34
+
+conceitos e organização é diferente a
+ 01:04:37
+
+gente tem também pros próprios rubs de
+ 01:04:39
+
+de cadeias produtivas algumas lógicas
+ 01:04:42
+
+que são diferentes pegando no caso da
+ 01:04:44
+
+apicultura apicultura Não é pré-produção
+ 01:04:46
+
+produção e pós-produção ela é organizada
+ 01:04:49
+
+numa lógica de produtos Então a gente
+ 01:04:51
+
+tem por exemplo o uma parte organizada
+ 01:04:53
+
+de mel uma parte de que seja poen uma
+ 01:04:55
+
+parte de Leia real entre outras Então a
+ 01:04:58
+
+gente tem esquemas diferentes de
+ 01:05:01
+
+organização apesar de uma padronização
+ 01:05:03
+
+também para não ter um processo de cada
+ 01:05:05
+
+hora que você acessar uma página você
+ 01:05:08
+
+ter um layout diferente então assim
+ 01:05:10
+
+existem diferentes formatos dependendo
+ 01:05:12
+
+até da própria da própria característica
+ 01:05:16
+
+do tema a cultura também organizada de
+ 01:05:18
+
+forma diferente entre outros
+ 01:05:21
+
+Professor a como próximos passos a gente
+ 01:05:23
+
+tem um processo de melhoria da
+ 01:05:27
+
+plataforma coleta a partir da coleta de
+ 01:05:30
+
+feedback dos usuários esse eu acho que a
+ 01:05:33
+
+gente entende como a principal ação que
+ 01:05:34
+
+a gente precisa a gente precisa difundir
+ 01:05:37
+
+esse projeto junto aos usuários e o que
+ 01:05:40
+
+o professor zoin colocou estabelecer
+ 01:05:42
+
+método você ter a plataforma disponível
+ 01:05:44
+
+não necessariamente significa na sua
+ 01:05:47
+
+utilização plena e com uma frequência
+ 01:05:49
+
+determinada a ter necessita de método
+ 01:05:51
+
+seja ela feita da forma que que for
+ 01:05:53
+
+então esses projetos pilotos esses ros
+ 01:05:56
+
+por exemplo de metodologias digitais
+ 01:05:59
+
+eles vê
+ 01:06:01
+
+a apoiar esse processo a gente precisa
+ 01:06:02
+
+ainda também de um de um esforço is já
+ 01:06:06
+
+vem sendo trabalhado de regionalização
+ 01:06:08
+
+do conteúdo eh que foi aquilo que eu
+ 01:06:11
+
+trouxe não é trazer por exemplo as
+ 01:06:14
+
+informações não não só a nível de região
+ 01:06:16
+
+mas a nível de cidade a nível de
+ 01:06:18
+
+município para você realmente ter uma
+ 01:06:20
+
+efetiva utilização ah
+ 01:06:22
+
+temos hubs também ah importantes para
+ 01:06:25
+
+serem lançados como eu coloquei são 29
+ 01:06:28
+
+hoje em estruturação vários vão ser
+ 01:06:31
+
+lançados nesse segundo semestre tem um
+ 01:06:33
+
+colega Fábio Romero que tá no chat
+ 01:06:34
+
+também que é o responsável pelo Hub de
+ 01:06:36
+
+bovin Cultura de leite que vai tá
+ 01:06:39
+
+disponível
+ 01:06:41
+
+no agora nesse semestre é um Hub que a
+ 01:06:42
+
+gente acha que vai ter um potencial
+ 01:06:46
+
+muito grande de de contribuir a parte de
+ 01:06:47
+
+leite é muito importante paraa
+ 01:06:50
+
+Agricultura Familiar uma outra questão
+ 01:06:51
+
+também é a questão do Hub não é deixando
+ 01:06:54
+
+claro que são um polo de informação um
+ 01:06:56
+
+polo de conhecimento
+ 01:06:58
+
+ah basicamente isso profor aqui ó é é
+ 01:07:01
+
+realmente um processo de melhoria desse
+ 01:07:04
+
+conteúdo disponibilização de mais
+ 01:07:06
+
+formatos eu trouxe que a gente tá nessa
+ 01:07:07
+
+versão Beta
+ 01:07:09
+
+ainda muito bem eu vou ler aqui o
+ 01:07:11
+
+comentário do Fábio eu achei muito
+ 01:07:13
+
+pertinente não é Eh bom dia estamos
+ 01:07:15
+
+desenvolvendo o ub bov no cultura de
+ 01:07:17
+
+leite para a plataforma at mais digital
+ 01:07:20
+
+esperamos a contribuição de todas as
+ 01:07:22
+
+instituições de at inclusive com cases
+ 01:07:24
+
+do Sucesso isso é importantíssimo casos
+ 01:07:26
+
+de sucesso das ações extensionistas
+ 01:07:29
+
+muito bom aí já fica aí fica aí fica aí
+ 01:07:32
+
+a a dica aí para todos os exencion isas
+ 01:07:35
+
+que estão assistindo e que vão assistir
+ 01:07:37
+
+depois
+ 01:07:38
+
+eh para est contribuindo com boven
+ 01:07:39
+
+cultura de leite e aqui certamente no no
+ 01:07:42
+
+no colégio politécnico da UFSM a gente
+ 01:07:45
+
+vai ter muito interesse nisso aí porque
+ 01:07:48
+
+nós temos eh curso técnico em zootecnia
+ 01:07:51
+
+e cultura agropecuária Que Tem
+ 01:07:54
+
+trabalhado bastante com isso olha aqui
+ 01:07:57
+
+mas que legal tô gostando Hoje o pessoal
+ 01:07:59
+
+tá animado Olha só o Luciano convidamos
+ 01:08:01
+
+a todos a contribuir com a plataforma
+ 01:08:05
+
+terma digital professor zoin já está
+ 01:08:06
+
+convidado para auxiliar no
+ 01:08:09
+
+desenvolvimento do HUB das metodologias
+ 01:08:10
+
+Professor Ezequiel fica o convite também
+ 01:08:12
+
+muito bom isso aí Luciano Eu eu acho eu
+ 01:08:14
+
+achei fundamental que gostei muito da
+ 01:08:17
+
+interação do chat hoje e também não
+ 01:08:19
+
+tenho dúvidas que a plataforma term tá
+ 01:08:22
+
+hoje ficou mais conhecido e vai ficar
+ 01:08:25
+
+mais conhecido ainda quando outros vão
+ 01:08:27
+
+assistir aí que muita gente que tá agora
+ 01:08:29
+
+tá no trabalho que vai assistir depois
+ 01:08:31
+
+também Rodrigo Muito obrigado pela tua
+ 01:08:33
+
+presença foi um prazer aí eh estar aí
+ 01:08:35
+
+compartilhando esses conhecimentos
+ 01:08:38
+
+conosco e só para dizer para quem tá
+ 01:08:39
+
+aqui nos nos assistindo que toda
+ 01:08:42
+
+quarta-feira 9 horas nesse mesmo bate
+ 01:08:44
+
+local nesse mesmo bate espaço estaremos
+ 01:08:46
+
+aqui compartilhando mais uma informação
+ 01:08:48
+
+sobre extensão ural aqui nesse canal um
+ 01:08:51
+
+abraço para a todo mundo e tenha uma
+ 01:08:54
+
+ótima quarta-feira a todos tchau tchau
+ 01:08:56

@@ -1,0 +1,8 @@
+video_id: ibQ7Ux_EFnA
+video_url: https://www.youtube.com/watch?v=ibQ7Ux_EFnA
+title: #reflexão #roça #jesus #palavradedeus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

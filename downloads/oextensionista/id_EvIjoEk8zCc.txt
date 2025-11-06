@@ -1,0 +1,8 @@
+video_id: EvIjoEk8zCc
+video_url: https://www.youtube.com/watch?v=EvIjoEk8zCc
+title: Semeando conexões: a história e os segmentos da Copacol
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/10/2024

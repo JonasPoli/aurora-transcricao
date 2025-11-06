@@ -1,0 +1,9 @@
+video_id: GL4V1rCjv9I
+video_url: https://www.youtube.com/watch?v=GL4V1rCjv9I
+title: História Fundiária/Agrária Brasileira
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/7689442989367017
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/09/2022

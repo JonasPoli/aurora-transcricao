@@ -1,0 +1,9 @@
+video_id: d5InCciXHPs
+video_url: https://www.youtube.com/watch?v=d5InCciXHPs
+title: Extensão Rural Agroecológica  👨‍🌾🌱
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/06/2024

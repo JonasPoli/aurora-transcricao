@@ -1,0 +1,8 @@
+video_id: z56HmDj_4L8
+video_url: https://www.youtube.com/watch?v=z56HmDj_4L8
+title: #motivação #oração #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/14/2025

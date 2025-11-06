@@ -1,0 +1,9 @@
+video_id: O6ZF2j7_rn4
+video_url: https://www.youtube.com/watch?v=O6ZF2j7_rn4
+title: Práticas de comunicação no campo: relato de experiências com Agricultores Familiares
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/6837424376616289
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/15/2021

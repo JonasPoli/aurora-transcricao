@@ -1,0 +1,8 @@
+video_id: y_5BZmP9wjg
+video_url: https://www.youtube.com/watch?v=y_5BZmP9wjg
+title: Veja como foi o Caminhadas na Natureza e dos Sabores em Ivorá, RS - Geoparque Quarta Colônia
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/28/2023

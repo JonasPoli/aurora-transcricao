@@ -1,0 +1,9 @@
+video_id: N9EpivaPU6s
+video_url: https://www.youtube.com/watch?v=N9EpivaPU6s
+title: Formação por alternância na sucessão rural
+uploader: O Extensionista
+speaker: Luis Pedro Hillesheim – URI
+Lattes: http://lattes.cnpq.br/9098709692047420
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/13/2024

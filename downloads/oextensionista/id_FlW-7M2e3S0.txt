@@ -1,0 +1,8 @@
+video_id: FlW-7M2e3S0
+video_url: https://www.youtube.com/watch?v=FlW-7M2e3S0
+title: #gaucho #roça #colono #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2025

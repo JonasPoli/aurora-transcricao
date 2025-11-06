@@ -1,0 +1,8 @@
+video_id: -K9sGlwELvo
+video_url: https://www.youtube.com/watch?v=-K9sGlwELvo
+title: #reflexão #agro #Jesus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

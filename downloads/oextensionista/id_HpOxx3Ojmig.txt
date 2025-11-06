@@ -1,0 +1,8 @@
+video_id: HpOxx3Ojmig
+video_url: https://www.youtube.com/watch?v=HpOxx3Ojmig
+title: Por que o Extensionista/Professor não é inovador?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/17/2023

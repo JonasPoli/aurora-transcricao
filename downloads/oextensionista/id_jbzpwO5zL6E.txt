@@ -1,0 +1,8 @@
+video_id: jbzpwO5zL6E
+video_url: https://www.youtube.com/watch?v=jbzpwO5zL6E
+title: #roça #colono #lenhador #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/02/2025

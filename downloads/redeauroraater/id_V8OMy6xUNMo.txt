@@ -1,0 +1,9 @@
+video_id: V8OMy6xUNMo
+video_url: https://www.youtube.com/watch?v=V8OMy6xUNMo
+title: Educação Sanitária, o canal de diálogo entre o Serviço de Defesa Agropecuária e a comunidade
+uploader: Rede Aurora
+speaker: Clovis Thadeu Rabello Improta – CIDASC
+Lattes: http://lattes.cnpq.br/5105031463482613
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/30/2024

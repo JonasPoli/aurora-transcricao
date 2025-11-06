@@ -1,0 +1,8 @@
+video_id: pAp2Jx0u8lA
+video_url: https://www.youtube.com/watch?v=pAp2Jx0u8lA
+title: Debate do Painel Fruticultura e Viticultura no Bioma Pampa
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2024

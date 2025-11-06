@@ -1,0 +1,8 @@
+video_id: B7DgfpcJRTc
+video_url: https://www.youtube.com/watch?v=B7DgfpcJRTc
+title: #roça #20desetembro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2025

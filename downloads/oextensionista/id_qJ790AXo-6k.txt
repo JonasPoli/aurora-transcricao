@@ -1,0 +1,8 @@
+video_id: qJ790AXo-6k
+video_url: https://www.youtube.com/watch?v=qJ790AXo-6k
+title: #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/12/2025

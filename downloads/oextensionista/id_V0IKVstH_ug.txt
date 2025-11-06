@@ -1,0 +1,8 @@
+video_id: V0IKVstH_ug
+video_url: https://www.youtube.com/watch?v=V0IKVstH_ug
+title: 22 anos de Extensão Rural na região central do RS – experiências, aprendizados e desafios
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/27/2023

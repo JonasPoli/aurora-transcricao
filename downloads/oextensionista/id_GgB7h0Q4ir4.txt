@@ -1,0 +1,9 @@
+video_id: GgB7h0Q4ir4
+video_url: https://www.youtube.com/watch?v=GgB7h0Q4ir4
+title: Qual é o papel do professor, atualmente?
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/24/2022

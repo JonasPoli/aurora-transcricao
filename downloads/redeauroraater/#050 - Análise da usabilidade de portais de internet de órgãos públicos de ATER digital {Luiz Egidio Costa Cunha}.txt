@@ -1,0 +1,6059 @@
+rede Aurora diálogos em até digital na
+ 00:00:01
+
+América
+ 00:00:04
+
+Latina Olá a todos e todos
+ 00:00:06
+
+extensionistas Rais agricultores e
+ 00:00:08
+
+agricultoras jovens Rais pesquisadores e
+ 00:00:10
+
+professores de exens Rural acadêmicos e
+ 00:00:13
+
+demais públicos aqui presentes sejam
+ 00:00:16
+
+todos muito bem-vindos meu nome é
+ 00:00:18
+
+zequiel redin professor de extensão
+ 00:00:20
+
+Rural e quem está aqui hoje conosco é o
+ 00:00:22
+
+Professor luí Fernando Soares Zuin da USP
+ 00:00:24
+
+fundador daora juntamente com o nosso
+ 00:00:27
+
+convidado de hoje que é o nosso grande
+ 00:00:30
+
+amigo extensionista luí Egídio Costa
+ 00:00:32
+
+Cunha do Instituto Federal de São Paulo
+ 00:00:36
+
+Campos Boituva todos aqui excelentes
+ 00:00:39
+
+profissionais na área de extensão rural
+ 00:00:42
+
+no Brasil e É nesse dia 3 de julho e
+ 00:00:44
+
+estamos em mais um evento do ciclo
+ 00:00:47
+
+diálogos em até digital Semeando
+ 00:00:49
+
+propostas e compartilhando saberes
+ 00:00:51
+
+nossos eventos buscam identificar e
+ 00:00:54
+
+propor caminhos metodológicos para Os
+ 00:00:56
+
+Atuais elementos e condicionantes que
+ 00:00:58
+
+determinam os processos de transferência
+ 00:01:01
+
+e compartilhamento de novas tecnologias
+ 00:01:03
+
+nos territórios Rais da América Latina
+ 00:01:06
+
+da África e alguns países Como Portugal
+ 00:01:08
+
+Espanha e Luxemburgo a palestra de hoje
+ 00:01:11
+
+é intitulada a análise da usabilidade de
+ 00:01:13
+
+portais de internet de órgãos públicos
+ 00:01:16
+
+de até digital segundo as heurísticas de
+ 00:01:19
+
+nilsin o nosso palestrante é o professor
+ 00:01:22
+
+luí Egídio Costa Cunha do Instituto
+ 00:01:25
+
+Federal de São Paulo Campos Boituva essa
+ 00:01:27
+
+Live é uma iniciativa do portal
+ 00:01:31
+
+extensionista e da ar de Aurora de
+ 00:01:33
+
+diálogos em até digital na América
+ 00:01:34
+
+Latina e com todos os apoiadores que
+ 00:01:36
+
+vocês podem conferir aqui na descrição
+ 00:01:38
+
+desse vídeo sejam muito bem-vindos
+ 00:01:40
+
+Professor Zuin professor esídio é um
+ 00:01:42
+
+prazer vocês estarem aqui compartilhando
+ 00:01:45
+
+seus conhecimentos desde já o nosso
+ 00:01:47
+
+Muito obrigado já de antemão passo a
+ 00:01:49
+
+palavra ao professor zink bom dia a
+ 00:01:51
+
+todos e a todas é um prazer muito grande
+ 00:01:54
+
+estar aqui com vocês hoje não é para essa
+ 00:01:55
+
+palestra do Egídio não é o Egídio que ele
+ 00:01:57
+
+vai mostrar pra gente
+ 00:02:01
+
+a
+ 00:02:02
+
+a o resultado da dissertação dele do
+ 00:02:04
+
+mestrado no qual eu orientei que foi uma
+ 00:02:06
+
+pesquisa muito bacana muito bacana mesmo
+ 00:02:09
+
+e muito importante não é vou parar por aqui
+ 00:02:11
+
+para que ele comece a sua explanação
+ 00:02:15
+
+Egídio Muito obrigado por você tá hoje
+ 00:02:18
+
+com a gente tá E fique à vontade a
+ 00:02:21
+
+palavra é
+ 00:02:24
+
+sua bom agradecer começar agradecendo o
+ 00:02:26
+
+convite O prazer é todo é todo meu e
+ 00:02:30
+
+todo nosso que quando vem viemos aqui na
+ 00:02:32
+
+no Aurora eh é um prazer muito grande a
+ 00:02:35
+
+gente poder estar em contato com vocês e
+ 00:02:38
+
+apresentar um pouco do que a gente tem
+ 00:02:40
+
+pesquisado então muito obrigado
+ 00:02:42
+
+professores pelo convite e Bom dia
+ 00:02:43
+
+pessoal e assim que a gente começar a
+ 00:02:46
+
+ver Aí tá a a apresentação eh eu vou
+ 00:02:51
+
+começar falando que esse é o livro que
+ 00:02:54
+
+foi gerado a partir do nosso do do nosso
+ 00:02:57
+
+trabalho desenvolvido sobre orientação
+ 00:03:00
+
+do professor zuin então nós eh
+ 00:03:02
+
+conseguimos produzir esse livro e a
+ 00:03:04
+
+pergunta e agora onde clico para voltar
+ 00:03:07
+
+é o título eh principal do livro e o
+ 00:03:10
+
+subtítulo a usabilidade dos portais dos
+ 00:03:13
+
+órgãos públicos de até eh uma tentativa
+ 00:03:15
+
+de chamar a atenção do do público em
+ 00:03:18
+
+geral principalmente de extensionistas e
+ 00:03:19
+
+produtores eh para o fato de que a gente
+ 00:03:22
+
+precisa estar muito à vontade quando usa
+ 00:03:25
+
+e os artefatos de computação S softwares
+ 00:03:27
+
+aplicativos em geral eh nas nossas
+ 00:03:30
+
+interações com os órgãos públicos e de
+ 00:03:33
+
+uma forma geral a própria interação
+ 00:03:37
+
+entre os profissionais extensionistas
+ 00:03:40
+
+por exemplo técnicos extensionistas e o
+ 00:03:43
+
+produtor rural entre si então é muito
+ 00:03:46
+
+importante que a gente consiga eh fazer
+ 00:03:48
+
+esse tipo de de de interação bom
+ 00:03:51
+
+Ah então o trabalho foi eh eh eh eh
+ 00:03:55
+
+sempre um apoio desenvolvido pelo
+ 00:03:59
+
+pessoal do do Aurora que estamos aqui
+ 00:04:01
+
+Este grupo eh o apoio também que nós
+ 00:04:03
+
+recebemos do Horizonte Rural que é esse
+ 00:04:06
+
+grupo de pesquisa sobre a terra digital
+ 00:04:08
+
+que a gente tem desenvolvido trabalhos
+ 00:04:10
+
+nessa linha e essa dissertação foi a
+ 00:04:12
+
+dissertação orientada pelo professor eh
+ 00:04:16
+
+zuin eh no programa de Ciência
+ 00:04:18
+
+Tecnologia e sociedade da UFSCAR
+ 00:04:21
+
+ã que a gente terminou agora no no
+ 00:04:24
+
+início desse ano bom
+ 00:04:28
+
+eh eu queria começar Só chamando atenção
+ 00:04:30
+
+um pouquinho sobre o nome análise da
+ 00:04:33
+
+usabilidade de portais de internet
+ 00:04:35
+
+porque muitas vezes a gente desconhece
+ 00:04:38
+
+esse termo usabilidade é um termo
+ 00:04:40
+
+clássico da da área de computação eu sou
+ 00:04:42
+
+formado em computação e sou professor de
+ 00:04:45
+
+computação no no IFSP no Campus de
+ 00:04:48
+
+Boituva e a gente n de computação
+ 00:04:50
+
+conhece muito esse termo US habilidade
+ 00:04:54
+
+mas não Obrigatoriamente todas as
+ 00:04:56
+
+pessoas sabem o que que quer dizer esse
+ 00:04:57
+
+termo a usabilidade é uma preocupação
+ 00:04:59
+
+que nós ao desenvolvermos softwares
+ 00:05:02
+
+devemos ter para que as pessoas consigam
+ 00:05:05
+
+usar os nossos softwares de uma forma
+ 00:05:08
+
+natural tranquila sem grandes
+ 00:05:12
+
+preocupações eh sobre qual é o próximo
+ 00:05:14
+
+passo qual é o próximo clique que eu
+ 00:05:18
+
+tenho que dar no caso de de sites não é ou
+ 00:05:20
+
+por exemplo quando eu tô usando o
+ 00:05:23
+
+aplicativo no celular onde que eu tenho
+ 00:05:25
+
+que clicar onde eu tenho que que bater
+ 00:05:27
+
+meu dedo para mudar de tela para voltar
+ 00:05:29
+
+paraa tela anterior ou para saber o que
+ 00:05:32
+
+que eu vou fazer a partir de uma ação
+ 00:05:34
+
+concluída
+ 00:05:36
+
+Ah então a usabilidade é essa capacidade
+ 00:05:37
+
+que os usuários têm de usar o software
+ 00:05:40
+
+sem grandes preocupações eh só para
+ 00:05:43
+
+deixar claro eh essa palavra
+ 00:05:45
+
+Teoricamente eh deveria ser uma coisa
+ 00:05:48
+
+natural para qualquer desenvolvedor de
+ 00:05:50
+
+software mas o que Obrigatoriamente não
+ 00:05:53
+
+acontece Ah bem no início do dos dos do
+ 00:05:54
+
+desenvolvimento de softwares do do do da
+ 00:05:58
+
+do investimento em computação que
+ 00:06:01
+
+começou a ser maior eh nas últimas
+ 00:06:02
+
+décadas eh essa preocupação passou vir à
+ 00:06:05
+
+tona Porque até então os computadores só
+ 00:06:09
+
+eram manuseados pelos eh profissionais
+ 00:06:12
+
+de ti pelos cientistas da Computação que
+ 00:06:15
+
+estavam dentro de Laboratórios mexendo
+ 00:06:17
+
+com os computadores a partir do momento
+ 00:06:19
+
+que eh principalmente com a a
+ 00:06:21
+
+microcomputadores eh os
+ 00:06:25
+
+microcomputadores os computadores tipo e
+ 00:06:27
+
+notebooks laptops começam a entrar no
+ 00:06:29
+
+mercado então começa a ver uma
+ 00:06:32
+
+possibilidade de interação do próprio
+ 00:06:33
+
+usuário com esse software o que eu quero
+ 00:06:35
+
+dizer com isso é que eu não precisava
+ 00:06:38
+
+mais agora pedi a um desenvolvedor de
+ 00:06:40
+
+software que fizesse qualquer tipo de
+ 00:06:42
+
+coisa para mim eu mesmo conseguir entrar
+ 00:06:44
+
+e eu mesmo entrar no no computador e
+ 00:06:46
+
+fazer eh o uso de algum software a
+ 00:06:49
+
+medida que eu precisasse E aí o advento
+ 00:06:51
+
+na Internet isso explodiu E aí
+ 00:06:54
+
+começou-se a se preocupar grandemente
+ 00:06:56
+
+com o fato de que as pessoas precisam
+ 00:06:58
+
+saber o que fazer quando elas estão
+ 00:07:00
+
+dentro diante de uma de uma tela de
+ 00:07:02
+
+computador que tenha eh algum tipo de
+ 00:07:04
+
+informação para ser
+ 00:07:07
+
+eh para ser usada ou para ser garimpada
+ 00:07:08
+
+ou para ser colocada dentro de um
+ 00:07:12
+
+sistema bom então usabilidade se
+ 00:07:14
+
+preocupa com isso com a competência que
+ 00:07:17
+
+um usuário que nunca viu aquele software
+ 00:07:19
+
+antes ou nunca viu aquele aplicativo de
+ 00:07:22
+
+celular antes eh tem de poder entrar lá
+ 00:07:24
+
+dentro e achar o que ele precisa Ah E aí
+ 00:07:28
+
+eu ainda mantendo-me no no no no título
+ 00:07:31
+
+eu quero continuar então eu falei que é
+ 00:07:34
+
+usabilidade de portais de internet é o
+ 00:07:36
+
+título lá não é e de órgãos públicos de
+ 00:07:39
+
+ater digital ã e esse essa análise foi
+ 00:07:41
+
+feita baseada num num num autor muito
+ 00:07:45
+
+importante pra gente que discute Isso
+ 00:07:48
+
+foi um dos que começou a sistematizar
+ 00:07:50
+
+isso de uma forma mais concreta que é o
+ 00:07:52
+
+nilsen então Eh esse autor já um bom
+ 00:07:55
+
+tempo Ele olhou para essas telas e falou
+ 00:07:59
+
+tá muito confuso isso aqui a gente
+ 00:08:01
+
+precisa ter mais zelo ao fazer uma tela
+ 00:08:03
+
+dessa porque o nosso usuário Pode não
+ 00:08:06
+
+estar entendendo e no passado quando as
+ 00:08:07
+
+telas eram feitas para usuários
+ 00:08:10
+
+específicos como por exemplo eu vou
+ 00:08:12
+
+desenvolver um software para a empresa x
+ 00:08:14
+
+e quem vai usar serão os funcionários
+ 00:08:17
+
+dessa empresa x o Você pensava na época
+ 00:08:19
+
+era que eu faço um uma uma tela qualquer
+ 00:08:22
+
+não é sem grandes preocupações com a
+ 00:08:25
+
+questão da usabilidade mas eu vou lá e
+ 00:08:28
+
+vou dar um curso para esses funcionários
+ 00:08:30
+
+dessa empresa x sobre como usar esse
+ 00:08:32
+
+software então era muito comum
+ 00:08:35
+
+treinamentos tinham muitas empresas que
+ 00:08:36
+
+eram criadas só para dar treinamento
+ 00:08:38
+
+para os usuários que usuários de um
+ 00:08:40
+
+determinado software então como eu disse
+ 00:08:42
+
+anteriormente com a chegada da internet
+ 00:08:44
+
+isso se expande E aí quando eu faço
+ 00:08:45
+
+alguma coisa já não já não faço mais
+ 00:08:48
+
+para um público específico logo eu
+ 00:08:50
+
+preciso me preocupar se qualquer um
+ 00:08:52
+
+eh possível usuário vai conseguir
+ 00:08:55
+
+entender como caminhar dentro desse
+ 00:08:58
+
+software aí aí Nilson começa a se
+ 00:09:00
+
+preocupar com isso e ele apresenta 10
+ 00:09:02
+
+heurísticas que vão ser fundamentais
+ 00:09:05
+
+para que a gente consiga fazer um
+ 00:09:07
+
+software com uma usabilidade Eh boa ou
+ 00:09:11
+
+tentar fazer o mais próximo possível
+ 00:09:14
+
+dessa usabilidade Então pegando a
+ 00:09:16
+
+necessidade da usabilidade e as
+ 00:09:18
+
+Propostas eh das heurísticas de nilsen a
+ 00:09:20
+
+gente nesse trabalho tenta avaliar os
+ 00:09:24
+
+portais que hoje nós temos portais
+ 00:09:27
+
+públicos não é dos órgãos públicos de atra
+ 00:09:29
+
+digital que nós temos no nosso país
+ 00:09:31
+
+então foi um apanhado de todo o país de
+ 00:09:34
+
+um órgão representante da um órgão
+ 00:09:37
+
+público representante da ter digital de
+ 00:09:40
+
+cada estado quase todos os estados foram
+ 00:09:42
+
+contemplados para que a gente tivesse um
+ 00:09:44
+
+Panorama Geral de como estão ah os
+ 00:09:45
+
+softwares que são disponibilizados para
+ 00:09:48
+
+principalmente ã produtores rurais e
+ 00:09:50
+
+extensionistas
+ 00:09:54
+
+eh quando esses precisam de informações
+ 00:09:55
+
+dados sobre a área em seus estados então
+ 00:09:58
+
+Eh eu quis fazer essa explicação só para
+ 00:10:02
+
+ficar claro do que do que se trata o
+ 00:10:04
+
+trabalho propriamente dito E e essa essa
+ 00:10:06
+
+análise de usabilidade ela é muito comum
+ 00:10:09
+
+a gente precisa fazê-la sempre não é
+ 00:10:11
+
+aliás é muito comum digo eh deveria ser
+ 00:10:13
+
+mais comum do que ela é normalmente e a
+ 00:10:16
+
+gente deveria fazer com maior frequência
+ 00:10:18
+
+mas acaba que eh os desenvolvedores de
+ 00:10:22
+
+software de uma forma geral sofrem
+ 00:10:25
+
+pressões que eu vou discutir um pouco
+ 00:10:27
+
+mais no final eh e acabam desenvolvendo
+ 00:10:28
+
+essas essas interfaces não é ou seja essas
+ 00:10:31
+
+telas eh dos dos softwares de uma forma
+ 00:10:34
+
+não muito saudável como eu vou que eu
+ 00:10:39
+
+pretendo concluir no final bom E aí eu
+ 00:10:42
+
+quero começar apresentando a a as
+ 00:10:45
+
+heurísticas que nilsen propõe para o
+ 00:10:48
+
+trabalho de de análise do quão usual eh
+ 00:10:51
+
+eh usável está uma interface ou não
+ 00:10:55
+
+então rapidamente passando eh essas
+ 00:10:59
+
+essas esses dois blocos de de
+ 00:11:02
+
+de heurísticas propostas por Ele para
+ 00:11:06
+
+dar vou passar rapidamente só para dar
+ 00:11:10
+
+uma ideia do que seria cada uma delas e
+ 00:11:11
+
+pra gente tentar já perceber eh o quanto
+ 00:11:14
+
+isso pode ser problemático pra gente ou
+ 00:11:17
+
+não enquanto usuários não é agora eu eu os
+ 00:11:19
+
+convido a se pensar como usuários de de
+ 00:11:23
+
+portais quem conhece os portais eh das
+ 00:11:27
+
+da área de at ter digital ou qualquer ã
+ 00:11:30
+
+usuário de qualquer sistema que a gente
+ 00:11:34
+
+tenha Então a primeira preocupação de
+ 00:11:36
+
+newsen que tá aí o primeiro bloquinho
+ 00:11:38
+
+com o número um se chama visibilidade do
+ 00:11:40
+
+estado do sistema que que que Nilson
+ 00:11:42
+
+quis dizer com isso ele quis dizer que a
+ 00:11:45
+
+qualquer momento o usuário de um
+ 00:11:48
+
+determinado sistema ele precisa estar
+ 00:11:50
+
+ciente de qual é o estado do sistema e
+ 00:11:53
+
+que que é estado aqui estado é qualquer
+ 00:11:55
+
+coisa que me mostre a a a o o a condição
+ 00:11:57
+
+daquele software no momento não é Lembrando
+ 00:12:02
+
+que um portal um site é um software não é
+ 00:12:04
+
+Eh e o usuário tem que entender coisas
+ 00:12:07
+
+do tipo
+ 00:12:10
+
+ah esse sistema está funcionando
+ 00:12:12
+
+normalmente ou não parou aqui travou não
+ 00:12:14
+
+tá funcionando eh esse sistema Mandou eu
+ 00:12:18
+
+esperar alguns minutos enquanto ele faz
+ 00:12:21
+
+ah o download de um arquivo e eu sei que
+ 00:12:23
+
+ele já gastou tantos minutos e vai
+ 00:12:26
+
+gastar mais tantos ainda para terminar
+ 00:12:28
+
+aproximadamente então é saber como é que
+ 00:12:30
+
+tá o estado do sistema se ele tá
+ 00:12:32
+
+funcionando se ele tá em espera se ele
+ 00:12:34
+
+tá eh eh parado congelado como a gente
+ 00:12:36
+
+chama é muito importante para o usuário
+ 00:12:40
+
+ah a heurística do se chama
+ 00:12:43
+
+correspondência entre o sistema e o
+ 00:12:47
+
+mundo real Essa é muito interessante
+ 00:12:49
+
+Particularmente eu acho ela muito
+ 00:12:51
+
+interessante porque a preocupação dessa
+ 00:12:52
+
+segunda heurística é em deixar aquele
+ 00:12:55
+
+sistema o que o que vai aparecer pro
+ 00:13:00
+
+usuário dentro daquele site ou daquele
+ 00:13:03
+
+Portal é exatamente o que ele tem na
+ 00:13:05
+
+vida real aqui tá embutido algumas
+ 00:13:07
+
+questões do tipo eu não posso usar
+ 00:13:10
+
+palavras que o meu usuário nunca ouviu
+ 00:13:12
+
+falar eu não posso por exemplo usar
+ 00:13:14
+
+jargões técnicos eh de computação por
+ 00:13:15
+
+exemplo porque se eu sei que o público
+ 00:13:18
+
+que vai trabalhar com esse eh site que
+ 00:13:20
+
+vai acessar esse Portal não é da área de
+ 00:13:23
+
+computação eu não posso colocar eh
+ 00:13:25
+
+questões
+ 00:13:28
+
+ou apresentar dados e resultados e
+ 00:13:29
+
+análises que não são de interesse desse
+ 00:13:31
+
+meu potencial usuário então a
+ 00:13:34
+
+preocupação nessa heurística é que o
+ 00:13:37
+
+sistema seja semelhante ao mundo real ou
+ 00:13:39
+
+seja o que que tem no mundo real Quais
+ 00:13:41
+
+são as necessidades que esse usuário tem
+ 00:13:43
+
+no mundo real de informação e eh
+ 00:13:45
+
+qualquer outra necessidade que ele tenha
+ 00:13:48
+
+E isso está disponibilizado dentro do
+ 00:13:50
+
+site de uma forma que o usuário saiba
+ 00:13:52
+
+onde essas informações estão
+ 00:13:54
+
+eh
+ 00:13:56
+
+terceiro eh fala-se sobre controle e
+ 00:13:58
+
+liberdade do usuário eh quando a gente
+ 00:14:01
+
+pensa em controle e liberdade eh é a
+ 00:14:03
+
+ideia de que
+ 00:14:06
+
+eh Na verdade eu preciso como usuário de
+ 00:14:07
+
+qualquer sistema eu preciso ter a
+ 00:14:11
+
+liberdade de ir para onde eu quiser
+ 00:14:14
+
+procurando o que eu me interesso não é
+ 00:14:16
+
+aquilo que me é mais importante e eu
+ 00:14:18
+
+tenho que ter o controle em outras
+ 00:14:20
+
+palavras se eu clicar na opção um não
+ 00:14:22
+
+pode aparecer opção cinco para mim se eu
+ 00:14:25
+
+clicar Se eu precisar clicar na opção 10
+ 00:14:27
+
+tem que aparecer um ícone para que eu
+ 00:14:29
+
+clique nela e tenha o controle de ir
+ 00:14:32
+
+para onde eu quiser eu não posso por
+ 00:14:35
+
+exemplo ser obrigado a seguir a opção 1
+ 00:14:37
+
+2 3 4 5 até chegar na 10 que é que me
+ 00:14:39
+
+interessa Então esse tipo de de de de
+ 00:14:42
+
+flexibilização precisa estar presente no
+ 00:14:45
+
+softwares
+ 00:14:48
+
+Ah o quarto é a consistência de padrões
+ 00:14:49
+
+consistência e padrões que também é
+ 00:14:52
+
+outro que eu acho muito interessante que
+ 00:14:54
+
+a gente vai ver rapidamente depois que a
+ 00:14:57
+
+a gente peca em alguns pontos nesse
+ 00:14:59
+
+sentido nos portais analisados eh
+ 00:15:01
+
+consistência e padrões é a partir do
+ 00:15:03
+
+momento que eu entro no software eu
+ 00:15:05
+
+entro nesse Portal eu vou começar a
+ 00:15:07
+
+Navegar ali dentro e todas as demais
+ 00:15:09
+
+formas de navegação que eu vou encontrar
+ 00:15:12
+
+vão manter um padrão igual esse que eu
+ 00:15:14
+
+já comecei a entender em alguns casos e
+ 00:15:17
+
+isso é muito comum atualmente existem
+ 00:15:19
+
+padrões mais universais que as pessoas
+ 00:15:21
+
+tendem a a seguir mesmo que ela nunca
+ 00:15:24
+
+tenha entrado nemum determinal Portal
+ 00:15:27
+
+determinado Portal por exemplo depois
+ 00:15:29
+
+que começaram a ser muito divulgados os
+ 00:15:31
+
+os pacotes os software desenvolvidos
+ 00:15:35
+
+pela Microsoft a gente tem alguns
+ 00:15:37
+
+padrões do tipo eu sempre acho que vai
+ 00:15:39
+
+estar no canto superior à esquerda as
+ 00:15:42
+
+minhas opções para gravar um arquivo se
+ 00:15:44
+
+eu tiver num editor de qualquer coisa
+ 00:15:46
+
+editor de imagem editor de texto editor
+ 00:15:49
+
+de áudio a gente sempre tem uma
+ 00:15:50
+
+tendência a achar que tá do lado
+ 00:15:52
+
+superior esquerdo Porque as primeiras
+ 00:15:53
+
+ferramentas como Word Excel PowerPoint
+ 00:15:56
+
+etc que compuseram o pacote eh Microsoft
+ 00:15:58
+
+Office esses Eh esses ícones sempre
+ 00:16:02
+
+estavam nessa posição então a gente
+ 00:16:05
+
+tende achar que eh se eu puder pensar
+ 00:16:07
+
+numa linha de opções numa barra de menu
+ 00:16:09
+
+as coisas sempre começarão do lado
+ 00:16:12
+
+superior esquerdo e terminarão do lado
+ 00:16:14
+
+eh superior direito esses padrões são
+ 00:16:15
+
+naturalmente eh assimilados por nós e
+ 00:16:19
+
+quando a gente se depara com uma
+ 00:16:22
+
+aplicação que essas coisas mudam de
+ 00:16:24
+
+lugar a gente começa a ficar tá perdido
+ 00:16:26
+
+a gente como usuário geral qualquer
+ 00:16:29
+
+usuário que seja porque deveria estar
+ 00:16:31
+
+aqui Se não tá aqui onde tá eu tenho que
+ 00:16:33
+
+sair procurando pela página onde vai est
+ 00:16:35
+
+um por exemplo um botão onde eu vou
+ 00:16:37
+
+poder concluir uma ação ou confirmar um
+ 00:16:39
+
+uma solicitação que eu tenha feito ao
+ 00:16:43
+
+sistema Então essa é a ideia de
+ 00:16:44
+
+consistência tem que ter uma
+ 00:16:46
+
+consistência nessas coisas tem que ficar
+ 00:16:48
+
+claro por exemplo eu acabei de fazer uma
+ 00:16:50
+
+coisa Acabei de de mandar o computador
+ 00:16:52
+
+fazer alguma coisa a a o mínimo que eu
+ 00:16:54
+
+espero é que ele me pergunte você vai
+ 00:16:57
+
+confirmar isso ou não então isso virou
+ 00:16:59
+
+um padrão pra gente quando essa coisa
+ 00:17:01
+
+não é confirmada a gente eh já começa a
+ 00:17:02
+
+ficar preocupado Será que eu eu fiz
+ 00:17:05
+
+certinho os dados ele me deu um tempo de
+ 00:17:07
+
+confirmar então como poar isso eh cinco
+ 00:17:09
+
+a prevenção de erros os sistemas têm que
+ 00:17:12
+
+estar preparados para prever possíveis
+ 00:17:15
+
+erros que o usuário venha cometer ou eh
+ 00:17:18
+
+que o próprio sistema ven cometer dado
+ 00:17:22
+
+a a a ao acesso que foi feito
+ 00:17:24
+
+anteriormente
+ 00:17:28
+
+nas páginas anteriores eu quero dizer
+ 00:17:29
+
+então o sistema tem que estar preparado
+ 00:17:31
+
+para evitar que erros aconteçam E aí
+ 00:17:33
+
+isso pode acontecer de várias formas o
+ 00:17:37
+
+próprio software pode trabalhar isso
+ 00:17:39
+
+internamente ou pode ser feito perguntas
+ 00:17:40
+
+e e
+ 00:17:43
+
+eh eh haio uma uma insistência em algum
+ 00:17:45
+
+tipo de pergunta por parte do software
+ 00:17:49
+
+ao usuário em função de sua eh de Sua
+ 00:17:51
+
+percepção de que aquele aquele
+ 00:17:55
+
+aquela ação que o usuário vai tomar pode
+ 00:17:59
+
+ter consequências muito sérias e a gente
+ 00:18:01
+
+vê muito isso quando acontece coisas do
+ 00:18:03
+
+tipo
+ 00:18:05
+
+eh você fala assim delete exclua todos
+ 00:18:06
+
+os arquivos de uma pasta então o
+ 00:18:10
+
+softwares pode chegar para você pode
+ 00:18:13
+
+simplesmente você deu Ok ele vai lá
+ 00:18:15
+
+deleta ou ele pode falar para você assim
+ 00:18:16
+
+eh você sabe que esse software esses
+ 00:18:18
+
+arquivos não serão mais disponibilizadas
+ 00:18:22
+
+blá blá blá blá blá ele pode fazer
+ 00:18:23
+
+alguma coisa para tentar evitar um
+ 00:18:26
+
+possível erro que você você venha
+ 00:18:27
+
+cometendo
+ 00:18:29
+
+ah na próxima caixinha caixinha número
+ 00:18:30
+
+seis que tá já tá na linha de baixo essa
+ 00:18:33
+
+cor essa cor laranja que tá aí eh nilsen
+ 00:18:35
+
+propõe que seja feito reconhecimento ao
+ 00:18:39
+
+invés de lembrança que é outra muito
+ 00:18:41
+
+interessante também eh eu não devo como
+ 00:18:43
+
+desenvolvedor de software contar que o
+ 00:18:47
+
+usuário vai lembrar onde eu coloquei
+ 00:18:50
+
+aquele botão porque todo mundo esperaria
+ 00:18:53
+
+que fosse por exemplo na coluna da
+ 00:18:56
+
+direita eh na parte de baixo da coluna
+ 00:18:58
+
+da direita de uma determinada página
+ 00:19:00
+
+imagina uma página que tenha duas
+ 00:19:02
+
+colunas e eh eu coloquei um determinado
+ 00:19:03
+
+botão lá na parte de baixo eh da coluna
+ 00:19:06
+
+da direita e a partir daí eu começo a
+ 00:19:10
+
+achar que meu usuário toda vez que
+ 00:19:12
+
+passar ali vai clicar naquele local o
+ 00:19:14
+
+botão vai estar naquele local e ele não
+ 00:19:16
+
+vai ter mais preocupação
+ 00:19:18
+
+eh se eu lá daqu a três qu C páginas de
+ 00:19:19
+
+navegação que ele fez dentro do software
+ 00:19:24
+
+ele precisa fazer novamente essa ação
+ 00:19:27
+
+que eu sei que ele vai achar no mesmo
+ 00:19:29
+
+lugar então isso é lembrança por tanto
+ 00:19:31
+
+usar o software eu entendi como é que
+ 00:19:34
+
+ele usa muitos aplicativos e a gente tem
+ 00:19:36
+
+hoje muitos aplicativos eh de
+ 00:19:38
+
+eh para celular principalmente que eles
+ 00:19:40
+
+são mais Livres não é as pessoas nem sempre
+ 00:19:43
+
+TM uma formação muito muito
+ 00:19:46
+
+eh Coesa muito rígida sobre como
+ 00:19:49
+
+desenvolver software eh você percebe que
+ 00:19:53
+
+alguns aplicativos brincam muito com
+ 00:19:56
+
+isso ele eles acham que a gente vai eh
+ 00:19:57
+
+ter uma uma inspiração na hora e
+ 00:20:00
+
+descobrir como é que você faz por
+ 00:20:02
+
+exemplo para ver seu saldo para para eh
+ 00:20:04
+
+entender porque que aquele valor foi
+ 00:20:07
+
+lançado em sua conta ou entender porque
+ 00:20:09
+
+que eh aquele determinado arquivo sumiu
+ 00:20:11
+
+ele acha o software na verdade não esse
+ 00:20:14
+
+software não é uma entidade não é quando eu
+ 00:20:17
+
+falo software estou dizendo aqueles que
+ 00:20:19
+
+desenvolveram esse software eh acham que
+ 00:20:21
+
+as pessoas vão sempre lembrar onde tá E
+ 00:20:23
+
+aí vão acabar colocando eh V achar a
+ 00:20:26
+
+opção onde clicar ou onde preencher
+ 00:20:29
+
+algum dado facilmente Então o que Nilson
+ 00:20:30
+
+diz é que não isso não é verdade você
+ 00:20:33
+
+não pode contar com a lembrança do seu
+ 00:20:35
+
+usuário você tem que contar com
+ 00:20:37
+
+reconhecimento ele tem que ir para
+ 00:20:38
+
+aquele local para dar o clique ou ele
+ 00:20:40
+
+tem que saber qual opção ele vai
+ 00:20:43
+
+escolher diante de um menu de opções por
+ 00:20:45
+
+reconhecimento do Da Da Da Da Lógica
+ 00:20:47
+
+daquilo que tá escrito ali e não porque
+ 00:20:50
+
+ele lembra que da última vez que ele fez
+ 00:20:52
+
+eh tentou fazer isso foi o caminho x que
+ 00:20:54
+
+que ele usou lá ou seja os botões Tais
+ 00:20:58
+
+Tais e Tais que Ele clicou ele conseguiu
+ 00:21:00
+
+então é um problema clássico que a gente
+ 00:21:03
+
+tem também ah a heurística 7 fala da
+ 00:21:04
+
+flexibilidade e eficiência de uso
+ 00:21:08
+
+Ah também outro algo muito interessante
+ 00:21:11
+
+que há muito tempo alguns e
+ 00:21:14
+
+principalmente sites fazem muito isso
+ 00:21:16
+
+portais de uma forma geral eh é você ter
+ 00:21:17
+
+a possibilidade de chegar onde você quer
+ 00:21:20
+
+por várias maneiras em vez de você ter
+ 00:21:22
+
+que percorrer um caminho de sete passos
+ 00:21:25
+
+por exemplo para chegar eh Imaginem eh
+ 00:21:27
+
+uma um portal onde você tenha que ver
+ 00:21:30
+
+qual foi eh o preço de de determinado
+ 00:21:33
+
+produto que o produtor já já já já
+ 00:21:36
+
+trabalha com com esse produto há muito
+ 00:21:40
+
+tempo e ele quer ver como é que tá o
+ 00:21:42
+
+preço disso a média do preço disso no na
+ 00:21:43
+
+região onde ele tá ou no numa região
+ 00:21:46
+
+maior ou nacionalmente etc e aí eh ele
+ 00:21:49
+
+já faz isso quase todo todo mês por
+ 00:21:53
+
+exemplo para precificar para poder fazer
+ 00:21:55
+
+sua planilha de curso Então ele não
+ 00:21:58
+
+precisar passar pelos cinco passos cinco
+ 00:22:00
+
+páginas até chegar onde ele quer é o que
+ 00:22:03
+
+ele chama de flexibilidade eu posso ir
+ 00:22:05
+
+direto nessa página que é a que mais me
+ 00:22:07
+
+interessa pouca gente eh tem isso Como
+ 00:22:09
+
+regra mas muitas vezes eles acabam
+ 00:22:12
+
+fazendo isso pela prática dos próprios
+ 00:22:14
+
+templates que geram essas essas
+ 00:22:16
+
+aplicações de portais tá eh o oito é a
+ 00:22:19
+
+estética e o design minimalista o que
+ 00:22:24
+
+que é isso novamente é uma página que
+ 00:22:28
+
+não contenha muita informação e e aqui
+ 00:22:30
+
+tá valendo absolutamente tudo
+ 00:22:32
+
+antigamente a gente pensava em página
+ 00:22:34
+
+como um a página que a gente tá
+ 00:22:36
+
+enxergando essa que vocês estão
+ 00:22:38
+
+enxergando Por exemplo agora eh do
+ 00:22:39
+
+YouTube E com o tempo a gente começou a
+ 00:22:41
+
+usar muito rolagem de de de de de de
+ 00:22:44
+
+página então a página já não é só isso
+ 00:22:46
+
+que eu enxergo dentro do da da
+ 00:22:48
+
+circunscrição da minha tela do meu
+ 00:22:50
+
+computador ela se eu rolar ela vai
+ 00:22:52
+
+descendo e vai continuando então Eh essa
+ 00:22:54
+
+ideia de de de de minimalismo é a ideia
+ 00:22:57
+
+de você só colocar a informação que é
+ 00:23:00
+
+estritamente necessária Então isso é um
+ 00:23:01
+
+problema clássico que a gente tem nos
+ 00:23:03
+
+nossos portais eh
+ 00:23:05
+
+e é fácil perceber isso quando a gente
+ 00:23:07
+
+trabalha com os portais eh de de
+ 00:23:10
+
+notícias de uma forma geral eles
+ 00:23:12
+
+costumam colocar imagens em tamanhos
+ 00:23:14
+
+suficientemente grandes para que todos
+ 00:23:17
+
+consigam enxergar eh na primeira página
+ 00:23:18
+
+várias notícias e aquelas notícias cada
+ 00:23:22
+
+cada cada foto daquela com cores com
+ 00:23:24
+
+imagens mas as informações que estão na
+ 00:23:27
+
+lateral ou estão na barra superior
+ 00:23:29
+
+aquilo constitui uma poluição de
+ 00:23:31
+
+informação eh eh de input pro pro olhar
+ 00:23:34
+
+da gente que muitas vezes confunde mais
+ 00:23:37
+
+do que favorece o conhecimento
+ 00:23:40
+
+eventualmente uma pessoa que vai lá vai
+ 00:23:42
+
+conhecer não tá com nenhum objetivo
+ 00:23:44
+
+específico de informação de eh
+ 00:23:47
+
+identificar a a informação Naquele site
+ 00:23:49
+
+ela pode rolar a página ela pode de um
+ 00:23:52
+
+lado pro outro sem muito estess mas as
+ 00:23:56
+
+pessoas que de fato usam e precisam da
+ 00:23:59
+
+das informações providas por aquele site
+ 00:24:01
+
+por aquele Portal elas podem ter
+ 00:24:03
+
+dificuldade porque eh é muita informação
+ 00:24:05
+
+e e e principalmente pouca visibilidade
+ 00:24:08
+
+para os acessos às informações que elas
+ 00:24:12
+
+querem eu digo botões específicos para o
+ 00:24:14
+
+que ela quer logo no começo da página
+ 00:24:17
+
+muit Às vezes tem que rar muitas vezes D
+ 00:24:19
+
+muitos eh eh scroll downs na página para
+ 00:24:21
+
+chegar lá no final e achar o que você
+ 00:24:24
+
+quer então ele propõe que o ideal para o
+ 00:24:25
+
+bom funcionamento de e qualquer tipo de
+ 00:24:28
+
+interface é o minimalismo e essa
+ 00:24:31
+
+estética não tão poluída das das
+ 00:24:34
+
+interfaces nono e penúltimo ajuda para o
+ 00:24:36
+
+reconhecimento diagnóstico e recuperação
+ 00:24:40
+
+de erros é possibilidade que eh os
+ 00:24:42
+
+softwares devem ter de contribuir para
+ 00:24:46
+
+que você consiga sair de uma situação
+ 00:24:49
+
+eh errada conflitante problemática que
+ 00:24:52
+
+você encontrou ali na página e eu me
+ 00:24:55
+
+refiro a que Você clicou no lugar errado
+ 00:24:57
+
+você deu uma informação equivocada você
+ 00:24:59
+
+quer retornar para consertar aquilo
+ 00:25:02
+
+então os softwares devem possibilitar
+ 00:25:04
+
+prover esse tipo de recurso para que
+ 00:25:07
+
+você eh consiga recuperar erros que você
+ 00:25:09
+
+fez eh quando o software é muito
+ 00:25:13
+
+estanque isso gera muito eh muito
+ 00:25:15
+
+desconforto pro usuário que eh pode vir
+ 00:25:17
+
+até a deixar de usá-la por medo de usar
+ 00:25:20
+
+e fazer coisas erradas é muito comum a
+ 00:25:23
+
+gente ouvir
+ 00:25:25
+
+eh netos gera a última geração geração z
+ 00:25:26
+
+qualquer qualquer coisa mais recentes os
+ 00:25:31
+
+mais jovens virarem pros pros idosos e
+ 00:25:33
+
+sua família e falarem e é melhor você
+ 00:25:36
+
+não usar esse aplicativo não vovô vovó
+ 00:25:38
+
+titio papai e é ele é muito complicado
+ 00:25:40
+
+Toda vez você quiser me fala que eu uso
+ 00:25:42
+
+para você e eh o que não deveria
+ 00:25:44
+
+acontecer porque esse idoso deveria ter
+ 00:25:47
+
+condição de usar naturalmente aquilo ali
+ 00:25:49
+
+porque afinal de contas ele ele é dessa
+ 00:25:52
+
+geração ele não tá nessa geração com
+ 00:25:54
+
+pouca idade mas ele é dessa geração e
+ 00:25:56
+
+portanto o que a gente faz é para todo
+ 00:25:59
+
+mundo que vai poder usar esse software
+ 00:26:00
+
+então aquele dos deveria ser contemplado
+ 00:26:02
+
+e muitas vezes não é por causa disso ele
+ 00:26:04
+
+fica inseguro ele não consegue entender
+ 00:26:06
+
+como é que ele recupera um possível erro
+ 00:26:07
+
+que ele vem a fazer ele acaba delegando
+ 00:26:09
+
+a terceiros o uso desse desse software e
+ 00:26:11
+
+por exemplo e eh softwares ligado a a
+ 00:26:14
+
+bancos a aplicações financeiras etc o
+ 00:26:18
+
+décimo a décima e última heurística
+ 00:26:21
+
+proposta por ele é ajuda e documentação
+ 00:26:24
+
+de tudo de tudo que eu tentei não
+ 00:26:28
+
+funcionou o software precisa prover
+ 00:26:30
+
+ajuda para ele hoje em dia eh é muito
+ 00:26:32
+
+comum a gente a gente hoje em dia não não é
+ 00:26:35
+
+já há algum tempo é muito comum a gente
+ 00:26:37
+
+falar assim Aonde está o o o F1 não é que é
+ 00:26:40
+
+outro padrão que já se estabeleceu
+ 00:26:43
+
+aperta F1 para acessar eh as dúvidas
+ 00:26:44
+
+tirar suas dúvidas ou acessar o manual
+ 00:26:47
+
+de um determinado eh software Portal
+ 00:26:49
+
+aqui não se aplica muito a a questão do
+ 00:26:52
+
+manual mas ajuda de uma forma geral eh e
+ 00:26:54
+
+o O problema é que ler essas
+ 00:26:57
+
+documentações entender o que elas dizem
+ 00:26:59
+
+é praticamente impossível então eh ajuda
+ 00:27:02
+
+e documentação não são simplesmente
+ 00:27:04
+
+disponibilizar manuais coisas eh que
+ 00:27:08
+
+possam me dar informações tem outros
+ 00:27:11
+
+outros portais que coloca uma opção de
+ 00:27:13
+
+fq que quer dizer perguntas mais
+ 00:27:16
+
+frequentes e aí você tem que sair
+ 00:27:19
+
+rolando novamente aquele conjunto de
+ 00:27:21
+
+perguntas para saber qual é que de fato
+ 00:27:23
+
+eh te te interessa bom eu eu e aí
+ 00:27:25
+
+termina as as 10 heurísticas então eu me
+ 00:27:29
+
+detive um pouco mais na apresentação
+ 00:27:31
+
+dessas heurísticas para que a gente
+ 00:27:33
+
+tenha uma percepção do que foi esse
+ 00:27:35
+
+trabalho baseado em que foi esse
+ 00:27:38
+
+trabalho mas esse trabalho também foi
+ 00:27:40
+
+baseado numa outra coisa que eu gostaria
+ 00:27:42
+
+de falar para vocês antes de começar a
+ 00:27:44
+
+apresentar a análise propriamente dita
+ 00:27:46
+
+ah a representação da Terra digital à
+ 00:27:48
+
+luz de uma teoria chamada teoria torred
+ 00:27:51
+
+eh proposta por alguns autores um deles
+ 00:27:54
+
+mais significativ é o Bruno latur a
+ 00:27:57
+
+gente trabalha muito isso no campo de
+ 00:27:59
+
+Ciência Tecnologia e sociedade que é
+ 00:28:01
+
+esse programa eh onde eu fiz e a
+ 00:28:03
+
+dissertação então o que que essa teoria
+ 00:28:07
+
+fala essa teoria fala que apesar da
+ 00:28:08
+
+gente pensar que uma rede de qualquer
+ 00:28:11
+
+coisa rede de relações eh familiares
+ 00:28:13
+
+redes de de trabalho redes de produção
+ 00:28:17
+
+de qualquer produto no nosso caso
+ 00:28:19
+
+produção agrícola ou pecuária qualquer
+ 00:28:21
+
+coisa enfim toda a rede ela não é
+ 00:28:24
+
+composta
+ 00:28:26
+
+simplesmente de atores humanos como a
+ 00:28:27
+
+gente pensa então a gente fala ah porque
+ 00:28:29
+
+o Fulano pega informação passa para
+ 00:28:30
+
+beltrano isso tem que ser validado por
+ 00:28:31
+
+não sei quem lá no departamento de não
+ 00:28:33
+
+sei o quê Então essa construção de uma
+ 00:28:35
+
+rede eh o que o o autor da o Bruno latur
+ 00:28:36
+
+propõe é que ela é composta não apenas
+ 00:28:41
+
+de atores humanos Mas também de atores
+ 00:28:44
+
+não humanos o que que ele quer dizer com
+ 00:28:46
+
+isso ele quer dizer que é da mesma forma
+ 00:28:48
+
+que os atores humanos T fundamental H
+ 00:28:50
+
+importância na ação que eles desenvolvem
+ 00:28:54
+
+dentro daquela rede alguns
+ 00:28:56
+
+instrumentos não humanos também tem E aí
+ 00:28:58
+
+o exemplo clássico que salta a a nossa
+ 00:29:01
+
+mente são os próprios computadores então
+ 00:29:04
+
+eh o o o o mal a mal performance de um
+ 00:29:07
+
+determinado ator pode ser muito
+ 00:29:11
+
+complicada a ponto de de estrangular um
+ 00:29:13
+
+ramo da rede ou impossibilitar o
+ 00:29:16
+
+funcionamento tranquilo da rede a mesma
+ 00:29:18
+
+coisa eu posso pensar se eu tiver um
+ 00:29:20
+
+computador que tenha problemas se o
+ 00:29:21
+
+sistema desse computador parar de
+ 00:29:23
+
+funcionar eu certamente terei um
+ 00:29:25
+
+problema seríssimo de viabilizar o
+ 00:29:26
+
+funcionamento da rede bom Então essa é a
+ 00:29:28
+
+ideia principal e o o o lator diz que é
+ 00:29:31
+
+muito importante a gente entender e
+ 00:29:33
+
+considerar esses dois tipos de atores
+ 00:29:35
+
+para que você possa propor eh políticas
+ 00:29:37
+
+públicas ações que melhorem de fato o
+ 00:29:40
+
+funcionamento da rede mas não considerar
+ 00:29:42
+
+apenas os seres humanos mas também essas
+ 00:29:44
+
+máquinas ou processos muitas vezes o
+ 00:29:46
+
+processo burocrático eh pode ser um ator
+ 00:29:49
+
+que está impedindo o desenvolvimento de
+ 00:29:52
+
+uma rede E aí só só para eu só só quis
+ 00:29:54
+
+chamar a atenção disso porque o meu
+ 00:29:57
+
+objetivo com esse trabalho foi mostrar
+ 00:29:58
+
+que é muito importante o computador e o
+ 00:30:00
+
+software e eh se a gente faz essa
+ 00:30:03
+
+análise à luz da teoria torred a gente
+ 00:30:06
+
+começa a perceber e ele precisa estar
+ 00:30:08
+
+com condições muito boas de uso para que
+ 00:30:11
+
+ele de fato não seja impecílio para o
+ 00:30:13
+
+funcionamento da rede então eu
+ 00:30:15
+
+apresentei alguns atores humanos eh que
+ 00:30:16
+
+a gente conhece são os produtores na
+ 00:30:19
+
+segunda linha tem os extensionistas na
+ 00:30:21
+
+terceira tem os gestores os próprios
+ 00:30:22
+
+Engenheiros de software e comunicadores
+ 00:30:24
+
+sociais professores e pedagogos que
+ 00:30:27
+
+trabalham com a educação no campo e
+ 00:30:28
+
+alguns outros que eu botei esses aqui só
+ 00:30:31
+
+pra gente ter como exemplo eh e agora
+ 00:30:33
+
+apresentação de alguns atores não
+ 00:30:35
+
+humanos então a tecnologia esse primeiro
+ 00:30:37
+
+item na na no primeiro marcador aí
+ 00:30:40
+
+tecnologias em geral tudo que envolve
+ 00:30:42
+
+tecnologia todas as tecnologias tanto as
+ 00:30:45
+
+máquinas agrícolas máquinas eh de
+ 00:30:47
+
+comunicação os computadores e todos os
+ 00:30:49
+
+demais equipamentos são fundamentais eh
+ 00:30:52
+
+para que essa rede funcione outra coisa
+ 00:30:55
+
+fundamental que não é ser humano são
+ 00:30:57
+
+Dados informações e conhecimentos que
+ 00:30:58
+
+por exemplo São disponibilizados nesses
+ 00:31:01
+
+portais
+ 00:31:03
+
+ah terceiro item softwares e Sistemas de
+ 00:31:04
+
+Informação voltados para produção então
+ 00:31:07
+
+qualquer software qualquer Portal
+ 00:31:10
+
+qualquer instrumento de computação que
+ 00:31:12
+
+gere informação para que as pessoas
+ 00:31:13
+
+possam fazer o seu trabalho acontecer
+ 00:31:16
+
+elas são fundamentais e TM um papel de
+ 00:31:18
+
+ator esse eles têm um papel de atores no
+ 00:31:20
+
+na rede porque eles não são meros
+ 00:31:24
+
+coadjuvantes ou meros instrumentos não
+ 00:31:26
+
+eles de fato são fundamentais e precisam
+ 00:31:28
+
+ser olhados e cuidados uma outra coisa
+ 00:31:30
+
+muito importante no meu ponto de vista e
+ 00:31:32
+
+a gente discutiu muito isso eh eh no no
+ 00:31:34
+
+no grupo da do Horizonte que a gente tem
+ 00:31:38
+
+Horizonte Rural grupo de pesquisa emem
+ 00:31:41
+
+até tal Professor Zuin é a importância
+ 00:31:43
+
+dessa infraestrutura funcionar então Eh
+ 00:31:45
+
+você ter softwares ter máquinas ter não
+ 00:31:48
+
+sei o que lá é muito legal mas tem
+ 00:31:50
+
+energia elétrica mas eh se tem hoje vai
+ 00:31:52
+
+continuar tendo amanhã Qual é a
+ 00:31:55
+
+infraestrutur ura de uma forma geral
+ 00:31:57
+
+desses equipamentos e mormente quais são
+ 00:31:59
+
+Qual é a infraestrutura das tecnologias
+ 00:32:01
+
+de informação e comunicação que é o
+ 00:32:03
+
+objeto de estudo desse trabalho e por
+ 00:32:06
+
+fim os portais que é o objeto específico
+ 00:32:09
+
+aqui de análise sobre como esses portais
+ 00:32:12
+
+podem funcionar eh e principalmente
+ 00:32:15
+
+entender o comprometimento do não
+ 00:32:19
+
+funcionamento da parada por algum alguma
+ 00:32:21
+
+razão de funcionamento por um período e
+ 00:32:23
+
+quais são as possíveis consequências
+ 00:32:26
+
+Então essa teoria propõe que todos esses
+ 00:32:27
+
+elementos todos esses atores são
+ 00:32:29
+
+importantes e todos eles precisam ser eh
+ 00:32:31
+
+avaliados analisados e e estudados de
+ 00:32:34
+
+uma forma bem bem bem cuidadosa Então
+ 00:32:37
+
+essa é uma ideia geral só sobre atar mas
+ 00:32:40
+
+ela é muito mais profunda é muito
+ 00:32:42
+
+interessante conhecê-lo e agora eu falo
+ 00:32:44
+
+diretamente eh sobre o trabalho que foi
+ 00:32:46
+
+desenvolvido então com esse com essa
+ 00:32:48
+
+contextualização que eu tentei
+ 00:32:50
+
+apresentar eh as heurísticas Desculpa as
+ 00:32:51
+
+heurísticas de nilsen tentei apresentar
+ 00:32:55
+
+eh rapidamente também a tar a teoria
+ 00:32:58
+
+ator rede e de latur então eu agora
+ 00:33:00
+
+trago o nome da da dos das unidades da
+ 00:33:04
+
+Federação que foram analisadas não todas
+ 00:33:08
+
+estão aí praticamente todas e os órgãos
+ 00:33:11
+
+que foram escolhidos selecionados pra
+ 00:33:13
+
+gente fazer essa análise Ah aqui eu
+ 00:33:15
+
+apresento só um gráfico geral uma uma
+ 00:33:18
+
+tabela geral mostrando na primeira
+ 00:33:21
+
+coluna a região não é Norte Centro Oeste
+ 00:33:23
+
+Sudeste só PR a gente tem uma
+ 00:33:26
+
+visualização na segunda coluna dessa
+ 00:33:28
+
+planilha vem os os estados representando
+ 00:33:30
+
+cada uma dessa região
+ 00:33:33
+
+H depois o nome do órgão e depois eu a
+ 00:33:35
+
+partir da da da quarta coluna são as
+ 00:33:38
+
+heurísticas distribuídas de 1 a 10
+ 00:33:41
+
+nessas heurísticas os números que elas
+ 00:33:43
+
+ganharam Então como é que foi feita essa
+ 00:33:44
+
+essa a criação desse dessa tabela que
+ 00:33:47
+
+gerou esses números a gente pegou cada
+ 00:33:50
+
+uma das heurísticas e começou a
+ 00:33:53
+
+analisá-las dentro de cada órgão então a
+ 00:33:55
+
+gente optou por colocar o órgão e o
+ 00:33:58
+
+valor de todas as heurísticas que eh o
+ 00:34:01
+
+valor atribuído a cada heurística de
+ 00:34:03
+
+nilsen que foi gerada a partir da
+ 00:34:05
+
+análise Ah e assim a gente teria uma
+ 00:34:07
+
+visão praticamente Nacional de como é
+ 00:34:09
+
+que estaria a situação dos nossos
+ 00:34:12
+
+portais então a gente já viu o que que é
+ 00:34:14
+
+erística 1 2 3 até a 10 e aí são os
+ 00:34:15
+
+números eh que foram aplicados a eles
+ 00:34:18
+
+então primeira coisa que eu quero chamar
+ 00:34:20
+
+atenção pro fato de que esse trabalho
+ 00:34:22
+
+foi feito a partir de eh de lickert
+ 00:34:23
+
+fizemos a a a a o escalonamento de cada
+ 00:34:26
+
+uma dessas dessas heurísticas num valor
+ 00:34:30
+
+de 1 a 5 tá então tá espalhado Mas vamos
+ 00:34:33
+
+tentar entender um pouquinho melhor como
+ 00:34:38
+
+é que foi esse trabalho só para vocês eh
+ 00:34:39
+
+terem uma ideia de como é que eu posso
+ 00:34:41
+
+fazer isso então vamos pegar por exemplo
+ 00:34:43
+
+a heurística um voltar aqui no slide
+ 00:34:45
+
+anterior que eh a gente viu que ela
+ 00:34:47
+
+recebeu alguns números ali cinco é o
+ 00:34:49
+
+maior Então se a gente correr o olho ao
+ 00:34:52
+
+longo dessa coluna a gente percebe que
+ 00:34:53
+
+os valores não foram tão baixos assim na
+ 00:34:55
+
+heurística um Então vou pro slide
+ 00:34:58
+
+seguinte de novo que é heurística um
+ 00:35:00
+
+chamado visibilidade do status do
+ 00:35:01
+
+sistema então neste quesito Este é o é o
+ 00:35:03
+
+gráfico apresentado pela heurística um a
+ 00:35:07
+
+partir da da análise como é que ficaram
+ 00:35:11
+
+os sites da euristica um então a gente
+ 00:35:12
+
+pode perceber que o quarto estado
+ 00:35:14
+
+analisado ali tá com score mais baixo o
+ 00:35:16
+
+anti penúltimo também e se a gente olhar
+ 00:35:19
+
+a maioria tá com um bom status ou seja a
+ 00:35:22
+
+aplicação da visibilidade do o status do
+ 00:35:25
+
+sistema do portal é considerado bom
+ 00:35:29
+
+ã bom ótimo na quase na maioria dos
+ 00:35:32
+
+Estados do do do dos órgãos dos seus
+ 00:35:36
+
+respectivos estados
+ 00:35:39
+
+eh Então esse esse é o gráfico que agora
+ 00:35:41
+
+eu quero mostrar rapidamente como é que
+ 00:35:45
+
+foi feito como é que se chegou ao número
+ 00:35:46
+
+que se chegou então se eu voltar aqui
+ 00:35:49
+
+novamente ao ao ao slide anterior vocês
+ 00:35:51
+
+vão ver que o primeiro estado que é o
+ 00:35:54
+
+Acre ele teve teve eh o valor qu
+ 00:35:56
+
+atribuído à sua heurística um valor qu
+ 00:35:59
+
+no segundo foi valor quatro no terceiro
+ 00:36:02
+
+valor quat no quarto estado eh da
+ 00:36:05
+
+Federação foi o valor três por aí vai
+ 00:36:08
+
+então como é que foi como é que se
+ 00:36:11
+
+chegou a cada um desses números então
+ 00:36:12
+
+aqui eu apresento algumas no trabalho a
+ 00:36:14
+
+gente apresenta algumas algumas
+ 00:36:17
+
+informações para cada análise foi feita
+ 00:36:18
+
+uma descrição analítica foi o passo um
+ 00:36:20
+
+da análise eh então nessa nessa parte
+ 00:36:23
+
+foi a avado o que que é a heurística um
+ 00:36:26
+
+como ela se aplica E como eu posso
+ 00:36:30
+
+perceber que eh a teoria t rede poderia
+ 00:36:33
+
+ser melhorada ajudaria a melhorar ou
+ 00:36:37
+
+ajudaria a manter no caso de algumas eh
+ 00:36:40
+
+eh avaliações feitas lá não é nos órgãos de
+ 00:36:44
+
+de nos órgãos públicos de de internet de
+ 00:36:48
+
+desculpa de ater e
+ 00:36:52
+
+Eh aí se explica detalhadamente com como
+ 00:36:54
+
+foi feito o processo e porque se chegou
+ 00:36:57
+
+esses valores então eu chamo atenção eh
+ 00:36:59
+
+para essa para essa frase que tá no meio
+ 00:37:02
+
+da da do texto em do lado direito em
+ 00:37:04
+
+tá escrito os portais eh que
+ 00:37:08
+
+foram avaliados com valores mais baixos
+ 00:37:11
+
+ou seja três e quatro não apresentaram
+ 00:37:14
+
+no conjunto de suas funcionalidades
+ 00:37:16
+
+certa frequência nesse tipo de
+ 00:37:18
+
+informação ao usuário Então essa análise
+ 00:37:20
+
+diz o quê essa frase diz o que pra gente
+ 00:37:22
+
+Ela diz que esses três eh quatro os que
+ 00:37:25
+
+ganharam três e quatro como como eh
+ 00:37:28
+
+valores eles até Têm alguma coisa de
+ 00:37:30
+
+visibilidade que é o que propõe a
+ 00:37:33
+
+heurística um porém ela não é permanente
+ 00:37:35
+
+em todas as páginas em todos os sites do
+ 00:37:39
+
+sistema em todos os a os subsites que vê
+ 00:37:41
+
+ali embaixo daquele Portal eh então por
+ 00:37:44
+
+isso ela não não atendeu plenamente a A
+ 00:37:47
+
+euristica então com isso eu já trago a
+ 00:37:50
+
+outra informação como é que ficou o
+ 00:37:53
+
+degradê aí não é a variação dessa valoração
+ 00:37:54
+
+eh quanto mais aquela aquela heurística
+ 00:37:57
+
+estava presente no portal maior era o
+ 00:38:00
+
+score que Ela recebia então Teoricamente
+ 00:38:04
+
+quem ficasse com um tinha praticamente
+ 00:38:06
+
+zero de percepção de identificação
+ 00:38:08
+
+daquela heurística no Portal Quem ficou
+ 00:38:10
+
+com c tem um valor eh alto e diz que
+ 00:38:13
+
+essa heurística está presente em
+ 00:38:15
+
+praticamente todas as páginas todos os
+ 00:38:18
+
+sites eh que estão abaixo desse Portal
+ 00:38:19
+
+não é estão subordinados esse Portal depois
+ 00:38:22
+
+análise analítica desculpa da descrição
+ 00:38:25
+
+analítica feita que eu chamei de análise
+ 00:38:27
+
+um vem análise dois que são possíveis
+ 00:38:29
+
+consequências para o fato dessa eh
+ 00:38:32
+
+heurística não está presente ou está
+ 00:38:35
+
+presente em valores eh ínfimos não é ou não
+ 00:38:37
+
+tão satisfatórios E aí a primeira frase
+ 00:38:41
+
+e é relevante considerar que o
+ 00:38:43
+
+não alcance no valor máximo da
+ 00:38:46
+
+heurística um não é que é essa que a gente
+ 00:38:48
+
+tá tratando não compromete a
+ 00:38:50
+
+navegabilidade total do sistema então
+ 00:38:52
+
+alerta porque a heurística um ela trata
+ 00:38:53
+
+de um tema muito importante mas ela não
+ 00:38:57
+
+compromete exatamente a navegabilidade
+ 00:38:59
+
+que é diferente da usabilidade não é então
+ 00:39:02
+
+a capacidade de Navegar por alguns
+ 00:39:05
+
+momentos e achar algumas coisas
+ 00:39:07
+
+eh não tá comprometida porque a
+ 00:39:09
+
+heurística de de visibilidade do status
+ 00:39:12
+
+do sistema não está presente ali então
+ 00:39:15
+
+porém aí na análise dois eu explico eh
+ 00:39:18
+
+no trabalho como é que
+ 00:39:21
+
+eh Possivelmente eu terei problemas caso
+ 00:39:23
+
+a heurística um onde não está bem
+ 00:39:27
+
+atendida não seja atualizada ou
+ 00:39:29
+
+melhorada Então agora eu vou pro próximo
+ 00:39:32
+
+slide que é a análise três e a última
+ 00:39:34
+
+para cada uma das heurísticas e a
+ 00:39:36
+
+análise três fala de encaminhamento o
+ 00:39:38
+
+que que eu posso fazer a partir de agora
+ 00:39:40
+
+eh e aqui eu procuro trabalhar um um
+ 00:39:42
+
+aspecto que eu que eu eu tive como
+ 00:39:45
+
+objetivo desde o início que é
+ 00:39:47
+
+mostrar que o problema é muito sério e
+ 00:39:50
+
+Quem é o responsável no meu ponto de
+ 00:39:54
+
+vista eh
+ 00:39:56
+
+principal são os próprios
+ 00:39:57
+
+desenvolvedores de software que precisam
+ 00:39:59
+
+considerar isso mas eu quero fazer
+ 00:40:01
+
+algumas observações sobre isso ainda lá
+ 00:40:03
+
+no final Ah eles são os os os detentores
+ 00:40:04
+
+da decisão sobre como vai ser feito isso
+ 00:40:09
+
+aquilo aquilo outro mas se a gente nesse
+ 00:40:11
+
+processo a gente desenvolvedor de
+ 00:40:15
+
+software nesse processo começássemos a
+ 00:40:16
+
+considerar alguns saberes que alguns
+ 00:40:18
+
+autores nos passam e eu cito ao longo
+ 00:40:20
+
+dessas desses encaminhamentos alguns
+ 00:40:22
+
+deles aí por exemplo nessa página tá o
+ 00:40:24
+
+Carlo guin gbur eh e um princípio muito
+ 00:40:26
+
+interessante que ele lança eh sobre a
+ 00:40:30
+
+capacidade de se percebermos ele chama
+ 00:40:32
+
+de parading indiciário de se percebermos
+ 00:40:35
+
+algumas coisas eh que podem estar
+ 00:40:37
+
+sinalizando possíveis situações
+ 00:40:40
+
+agradáveis ou desagradáveis no futuro
+ 00:40:42
+
+então Eh seria responsabilidade Nossa em
+ 00:40:44
+
+parceria com outros autores que não são
+ 00:40:48
+
+da área de computação mas nos ajudariam
+ 00:40:49
+
+a perceber melhor Quem é esse usuário e
+ 00:40:51
+
+desenvolver uma uma aplicação que seja é
+ 00:40:54
+
+factível que seja e e e e possível de
+ 00:40:57
+
+uma forma geral para para quem vai usar
+ 00:41:01
+
+esse sistema então Esses foram os três
+ 00:41:02
+
+elementos para cada uma das heurísticas
+ 00:41:04
+
+então eu trabalhei a a parte mais
+ 00:41:07
+
+descritiva do que o dado trazia
+ 00:41:10
+
+aplicação da da da metodologia de como
+ 00:41:12
+
+foi feita a análise no segundo item
+ 00:41:14
+
+eh eu no no primeiro item foi a parte
+ 00:41:17
+
+mais estatística mais próprio no segundo
+ 00:41:20
+
+item essa análise e no terceiro o que
+ 00:41:22
+
+que poderia acontecer eh
+ 00:41:24
+
+que deve acontecer para que a gente
+ 00:41:27
+
+possa melhorar ou manter que o o score
+ 00:41:28
+
+alto não quer dizer que ele tá para
+ 00:41:32
+
+sempre naquele score as páginas são
+ 00:41:33
+
+muito dinâmicas elas são alteradas e ele
+ 00:41:35
+
+eh o portal pode cair para um score mais
+ 00:41:37
+
+baixo com passar do tempo bom e aí Outro
+ 00:41:40
+
+exemplo aqui heurística quatro que é
+ 00:41:43
+
+consistência de padrões eu só eu só
+ 00:41:45
+
+coloquei umas quatro heurísticas aqui
+ 00:41:47
+
+pra gente ver não vou passar por todas
+ 00:41:49
+
+elas mas só para vocês entenderem eh o o
+ 00:41:50
+
+processo de de de análise como foi feita
+ 00:41:53
+
+então novamente aqui
+ 00:41:56
+
+eu tenho no quesito consistência de
+ 00:41:57
+
+padrões vejam que já houve uma queda se
+ 00:42:00
+
+antes eu tinha quase metade com score 5
+ 00:42:02
+
+agora eu tô com pouca gente chegando ao
+ 00:42:04
+
+cinco isso quer dizer que não existe
+ 00:42:06
+
+consistência e eh e padrões na maioria
+ 00:42:09
+
+delas só para vocês terem uma ideia em
+ 00:42:12
+
+alguns sites é muito comum a gente ter
+ 00:42:13
+
+isso em alguns portais e nos nossos
+ 00:42:15
+
+analisados não foi diferente
+ 00:42:18
+
+eh você ter um software que chama um
+ 00:42:21
+
+outro software Você tem uma página que
+ 00:42:24
+
+chama outra página então eu ponho eu
+ 00:42:26
+
+linko na minha página lá eu distribuo na
+ 00:42:28
+
+na num na minha página se você quiser
+ 00:42:30
+
+saber sobre o aumento eh da tonelada o
+ 00:42:32
+
+aumento do Peso eh do animal x clique
+ 00:42:35
+
+aqui se quiser saber o preço eh de
+ 00:42:38
+
+determinada cultura que tá sendo provido
+ 00:42:40
+
+clica aqui você quiser saber como
+ 00:42:43
+
+conseguir eh equipamentos preços
+ 00:42:44
+
+razoáveis clica aqui esses cliques aqui
+ 00:42:46
+
+que eu tô falando eles muitas vezes
+ 00:42:48
+
+direcionam a gente para um outro
+ 00:42:51
+
+software para um outro Portal que não é
+ 00:42:53
+
+daquele órgão propriamente dito E aí
+ 00:42:55
+
+quando a gente chega no software do
+ 00:42:57
+
+outro Portal todas as regras são
+ 00:42:58
+
+diferentes então não se mantém o padrão
+ 00:43:00
+
+o que que seria o ideal é que o meu
+ 00:43:03
+
+software fosse lá naquele outro
+ 00:43:05
+
+capturasse as informações e
+ 00:43:07
+
+disponibilizasse no meu software na
+ 00:43:09
+
+minha página e ali eu veria se eu quero
+ 00:43:11
+
+saber como como faço financiamento para
+ 00:43:13
+
+aquisição de de equipamentos eu clico
+ 00:43:15
+
+ali e a informação vem da outra no meu
+ 00:43:18
+
+padrão no meu formato no mesmo software
+ 00:43:21
+
+que esse usuário está com todos os dados
+ 00:43:23
+
+ali é esse existem possibilidades de
+ 00:43:25
+
+fazer isso computacionalmente falando não é
+ 00:43:28
+
+de lá é pescar informação e trazer Ah E
+ 00:43:29
+
+aí novamente eu faço a descrição
+ 00:43:32
+
+analítica eu faço a descrição eh das
+ 00:43:33
+
+possíveis consequências e
+ 00:43:36
+
+encaminhamentos para que eh esses
+ 00:43:37
+
+softwares possam melhorar então eu vou
+ 00:43:40
+
+agora só acelerar um pouquinho mais aqui
+ 00:43:42
+
+a mesma coisa agora reconhecimento ao
+ 00:43:45
+
+invés de lembrança Olha que legal tross
+ 00:43:47
+
+ficou não ficou tão ruim assim eh o
+ 00:43:50
+
+quando quando eu falo em Três É de novo
+ 00:43:53
+
+o o três quer dizer que alguns lugares
+ 00:43:55
+
+até podiam estar bom mas a maioria deles
+ 00:43:57
+
+os padrões não eram repetidos o que gera
+ 00:43:59
+
+para o usuário uma em definição sem
+ 00:44:02
+
+saber o que fazer que que eu faço agora
+ 00:44:04
+
+já que sumiu o botão que sempre esteve
+ 00:44:06
+
+nesse lugar aqui ou o nome que sempre
+ 00:44:09
+
+foi usado que era eh eh maquinário agora
+ 00:44:11
+
+apareceu com a palavra chamado eh
+ 00:44:14
+
+chamada equipamentos e o que que é
+ 00:44:16
+
+maquinário que eu sempre sabe soube que
+ 00:44:19
+
+o nome dis maquinário agora mudou será
+ 00:44:21
+
+que equipamento é outra coisa isso gera
+ 00:44:23
+
+uma certa angústia por parte deles eh
+ 00:44:24
+
+novamente os três padrões de análise por
+ 00:44:28
+
+fim estética e design minimalista que é
+ 00:44:31
+
+aquela coisa do do do do software ser
+ 00:44:35
+
+mais light não é ser mais clean mais fácil
+ 00:44:37
+
+de se ver as coisas então vejam como aí
+ 00:44:40
+
+caiu bastante
+ 00:44:42
+
+eh Alguns são não é alguns esses que estão
+ 00:44:43
+
+apontando lá para chegando até a
+ 00:44:47
+
+Barrinha sobe até o nível cinco mas
+ 00:44:50
+
+vejam que a maioria já não tá tão cinco
+ 00:44:52
+
+assim então a maioria já tá CCO de
+ 00:44:55
+
+quatro para três com existência de
+ 00:44:57
+
+alguns dois inclusive isso quer dizer
+ 00:44:58
+
+que quando você entra no site ele não tá
+ 00:45:01
+
+esteticamente agradável à nossa
+ 00:45:04
+
+percepção ele está eh com muita
+ 00:45:06
+
+informação disponibilizada e
+ 00:45:09
+
+principalmente agora com muita cor muita
+ 00:45:12
+
+ah imagem muita imagem movimento e o que
+ 00:45:16
+
+facilita a gente perder a informação bom
+ 00:45:20
+
+de novo os três elementos e agora só
+ 00:45:23
+
+queria chamar a atenção da essa última
+ 00:45:26
+
+que é ajuda e documentação Como eu havia
+ 00:45:27
+
+comentado que ficou com o gráfico bem
+ 00:45:29
+
+bem bem baixo isso quer dizer que o
+ 00:45:31
+
+usuário não encontra ajuda e nem sequer
+ 00:45:34
+
+documentação para saber o que fazer em
+ 00:45:37
+
+situações eh não complicadas mas eu
+ 00:45:40
+
+quero fazer uma defesa aqui desses
+ 00:45:43
+
+portais porque eh e eu escrevo isso no
+ 00:45:45
+
+texto porque eh o padrão de internet que
+ 00:45:48
+
+se usa atualmente tem excluído ajuda e
+ 00:45:51
+
+documentação eh eu não tô avaliando Se
+ 00:45:54
+
+as pessoas pessoas vão lá no tal do help
+ 00:45:56
+
+se chegam ao F1 se isso é muito comum se
+ 00:45:58
+
+tá caindo em desuso eu não vou entrar
+ 00:46:01
+
+nesse mérito mas eu quero chamar a
+ 00:46:02
+
+atenção pro falo de que quando a gente
+ 00:46:03
+
+eh não disponibiliza minimamente uma
+ 00:46:05
+
+ajuda a gente tá com problemas hoje essa
+ 00:46:10
+
+ajuda eh eh eh é muito mais o meu ponto
+ 00:46:12
+
+de vista é muito mais para cumprir o
+ 00:46:16
+
+pré-requisito do que para de fato ajudar
+ 00:46:18
+
+e eu quero tô me referindo à aqueles
+ 00:46:21
+
+chatbots que a gente tem é clique aqui
+ 00:46:23
+
+para tirar sua dúvida então no canto
+ 00:46:25
+
+superior direito fica ali um um um Icone
+ 00:46:27
+
+Zinho para você clicar e entra um
+ 00:46:29
+
+robozinho Olá eu sou Fulano sou fulana
+ 00:46:32
+
+eh da loja tal onde você tá e eu posso
+ 00:46:34
+
+te ajudar alguma coisa quase sempre
+ 00:46:37
+
+esses robôs não ajudam no que a gente
+ 00:46:38
+
+precisa de verdade mas enfim
+ 00:46:40
+
+eh Teoricamente ele disponibilizou o o
+ 00:46:42
+
+provedor desse site o dono desse Portal
+ 00:46:46
+
+providenciou algum tipo de ajuda e
+ 00:46:50
+
+documentação então nas análises que a
+ 00:46:52
+
+gente fez isso não foi detectado eh eh
+ 00:46:54
+
+eh suficientemente bem e quando era era
+ 00:46:57
+
+voltado ainda para uma coisa muito pouco
+ 00:47:01
+
+incipiente que não de fato ajudava tanto
+ 00:47:03
+
+assim o o usuário do software bom
+ 00:47:05
+
+novamente as três análises e algumas
+ 00:47:09
+
+considerações finais para terminar agora
+ 00:47:11
+
+ah eu disse primeiro A análise dos
+ 00:47:12
+
+portais apresentada nesse trabalho
+ 00:47:15
+
+demonstram a necessidade de atenção para
+ 00:47:16
+
+os pontos que estejam de forma
+ 00:47:18
+
+significativ afetando a x eh em vários
+ 00:47:20
+
+aspectos conforme a sessão 4 dois
+ 00:47:24
+
+apresentou do trabalho e aí o X é uma
+ 00:47:27
+
+palavra que eu tô trazendo pela primeira
+ 00:47:28
+
+vez na apresentação agora ela quer dizer
+ 00:47:30
+
+user Experience o do user e o x do
+ 00:47:32
+
+Experience então o x passou a ser uma
+ 00:47:36
+
+sigla eh encorpada no nosso trazida pro
+ 00:47:39
+
+nosso vocabulário principalmente pro
+ 00:47:43
+
+computes que quer dizer mais até do que
+ 00:47:44
+
+a própria usabilidade a usabilidade é
+ 00:47:48
+
+como eu consigo eh me resolver achar as
+ 00:47:50
+
+coisas que eu quero a ux se preocupa em
+ 00:47:53
+
+quão satisfeito você ficou pela
+ 00:47:57
+
+experiência que você acabou de ter então
+ 00:47:59
+
+experiência com usuário uma tentativa de
+ 00:48:01
+
+ser muito mais rigoroso eh porque você
+ 00:48:03
+
+tá eh não só possibilitando mas você tá
+ 00:48:06
+
+preocupado se para que o usuário chegue
+ 00:48:10
+
+naquilo ele tenha passado por um estress
+ 00:48:12
+
+muito grande principalmente pensa em
+ 00:48:14
+
+situações de portais que trabalham com
+ 00:48:16
+
+informações eh que é para hora para
+ 00:48:17
+
+agora que você precisa Então você é
+ 00:48:19
+
+passar para um quatro níveis de de de
+ 00:48:21
+
+menus para chegar ao que você quer Pode
+ 00:48:24
+
+até ser fácil eu sei fazer as palavras
+ 00:48:27
+
+que as ordens estão sendo me dadas eu
+ 00:48:29
+
+consigo executá mas o quanto eu ten isso
+ 00:48:31
+
+tem me gerado de agonia pelo fato de que
+ 00:48:33
+
+eu não tenho eh esse tempo nesse momento
+ 00:48:35
+
+eh segunda consideração as consequências
+ 00:48:37
+
+do não cumprimento das heurísticas
+ 00:48:40
+
+impacta diretamente num resultado que
+ 00:48:42
+
+você pretende alcançar com a criação de
+ 00:48:43
+
+portais em qualquer órgão de prestação
+ 00:48:45
+
+de serviço E aí eu volto aquela fala
+ 00:48:48
+
+muitas vezes o desenvolvedor eh ele faz
+ 00:48:49
+
+entrega mas quase sempre você não tem
+ 00:48:52
+
+pela equipe de de desenvolvimento ou ou
+ 00:48:55
+
+qualquer outra equipe associada a
+ 00:48:58
+
+desenvolvimento eh a preocupação em
+ 00:48:59
+
+saber o quanto isso tá de fato atendendo
+ 00:49:01
+
+meus usuários a o não alcance do público
+ 00:49:03
+
+a terceira eh consideração o não alcance
+ 00:49:06
+
+do público dos portais nos órgãos
+ 00:49:08
+
+estudados resulta em pouco ou nenhuma
+ 00:49:10
+
+disseminação de de informações
+ 00:49:12
+
+fundamentais para todo esse processo
+ 00:49:14
+
+ah as duas últimas os resultados
+ 00:49:17
+
+alcançados pelos portais avaliados
+ 00:49:20
+
+demonstram em geral uma boa aplicação
+ 00:49:22
+
+das heurísticas pela maioria do dos
+ 00:49:24
+
+Sites porém lança luz também em Pontos
+ 00:49:26
+
+que podem ser melhorados para a melhoria
+ 00:49:29
+
+da experiência dos desse usuário por fim
+ 00:49:31
+
+não se pode desconsiderar elementos que
+ 00:49:34
+
+comprometem a melhora a a melhoria
+ 00:49:36
+
+constante de qualidade das heurísticas
+ 00:49:39
+
+como tarnov nas equipes de
+ 00:49:41
+
+desenvolvimento falta de documentação
+ 00:49:43
+
+que favoreça a manutenção preditiva e
+ 00:49:45
+
+preventiva falta de planejamento para
+ 00:49:48
+
+atualização das interfaces e
+ 00:49:50
+
+principalmente a falta de um canal
+ 00:49:52
+
+aberto para o diálogo entre usuários e
+ 00:49:53
+
+desenvolvedores então aí eu tentei eh
+ 00:49:56
+
+mostrar que eu sei também que a equipe
+ 00:49:58
+
+de desenvolvimento eh eu participo disso
+ 00:50:00
+
+eu sei que essa equipe sofre muito com
+ 00:50:03
+
+eh prazos de projeto que sofre muito com
+ 00:50:05
+
+entrega tem que entregar entrega como tá
+ 00:50:08
+
+Depois a gente vai melhorando e sofre
+ 00:50:10
+
+muito também por falta de planejamento
+ 00:50:12
+
+de como esses essas aplicações vão
+ 00:50:14
+
+continuar existindo daqui para frente
+ 00:50:16
+
+uma vez entregue uma vez o que o portal
+ 00:50:17
+
+tá rodando eu não preciso só gente para
+ 00:50:20
+
+fazer feed no para alimentar o o o o
+ 00:50:22
+
+portal eu preciso de de gente equipe
+ 00:50:25
+
+preparada que continue a melhorar o
+ 00:50:27
+
+software por trás daquilo que a gente tá
+ 00:50:30
+
+enxergando Então nem sempre os os
+ 00:50:32
+
+profissionais de ti são responsáveis por
+ 00:50:34
+
+isso muitas vezes quer até até querem
+ 00:50:36
+
+fazer algo muito mais sofisticado muito
+ 00:50:39
+
+mais eh coerente com as heurísticas de
+ 00:50:41
+
+nilsen porém Eles não têm tempo ou eles
+ 00:50:43
+
+não têm orçamento muitas vezes para
+ 00:50:46
+
+fazer mas eu ainda fecho dizendo que
+ 00:50:48
+
+disso tudo se tem alguém que precisa eh
+ 00:50:51
+
+fazer alguma coisa são os engenheiros de
+ 00:50:53
+
+software Mas eles não podem fazer isso
+ 00:50:55
+
+sem a parceria eh fundamental dos
+ 00:50:57
+
+produtores e extensionistas rurais então
+ 00:51:01
+
+voltando a latour a gente fica com a
+ 00:51:04
+
+sensação de que quando eu tô fazendo um
+ 00:51:06
+
+software um sistema é importante é o
+ 00:51:07
+
+software é o hardware é a quantidade de
+ 00:51:09
+
+dados que vai entrar a rede você tá
+ 00:51:11
+
+comunicando bem seu acesso então Eh o
+ 00:51:13
+
+que latur mostra é que isso é só um
+ 00:51:15
+
+pedaço da rede a rede mesmo ela tem que
+ 00:51:17
+
+ser ampliada quando você coloca
+ 00:51:20
+
+produtores extensionistas todos aqueles
+ 00:51:21
+
+que estão envolvidos no processo e não é
+ 00:51:23
+
+simplesmente o software então é muito
+ 00:51:26
+
+importante que o produtor seja ouvido
+ 00:51:27
+
+seja eh eh eh eh atendido e é preciso se
+ 00:51:29
+
+conhecer e esse conhecimento não se dá
+ 00:51:34
+
+simplesmente lendo livros você precisa
+ 00:51:36
+
+ir lá você precisa acompanhá-lo no uso
+ 00:51:38
+
+das aplicações para você ter uma
+ 00:51:41
+
+verdadeira percepção disso então agora
+ 00:51:43
+
+eu fecho dizendo que eh esse foi o livro
+ 00:51:46
+
+que foi gerado paraa Nossa eh gerada A
+ 00:51:48
+
+partir dessa dessa dissertação e eu
+ 00:51:52
+
+encerro aqui me dispondo a responder
+ 00:51:54
+
+possíveis perguntas Obrigado professores
+ 00:51:57
+
+Obrigado
+ 00:51:59
+
+pessoal muito bom muito bom excelente
+ 00:52:02
+
+pesquisa já escutei umas duas vezes e eu
+ 00:52:06
+
+sempre fico com algumas dúvidas e muito
+ 00:52:09
+
+bom eh vou mostrar aqui presente Quem é
+ 00:52:12
+
+que tá aqui presente na na Live aqui
+ 00:52:15
+
+nesse momento Nossa amiga Andreia Nossa
+ 00:52:18
+
+amiga Andreia do curso tecn horticultura
+ 00:52:21
+
+está presente aqui com vocês temos aqui
+ 00:52:24
+
+aqui os extensionista Renato Lopes Tem
+ 00:52:26
+
+uma galera aqui toda da do programa
+ 00:52:30
+
+terma digital Maisa a maa presente
+ 00:52:32
+
+eh temos aqui também wson Frazão eh o
+ 00:52:36
+
+pessoal da Embrapa meio ambiente através
+ 00:52:42
+
+do Luciano pessoal da Emater R Grande do
+ 00:52:45
+
+Norte através da Juliana o Adelar nosso
+ 00:52:47
+
+curso tecn fruticultura aqui também
+ 00:52:50
+
+presente aqueles que se manifestaram
+ 00:52:53
+
+aqui no chat não é
+ 00:52:55
+
+eh Bueno
+ 00:52:57
+
+eh eu tenho uma questão pro Egídio
+ 00:52:59
+
+depois eu já passo a palavra pro profor
+ 00:53:02
+
+Zuin e a minha questão é mais é mais
+ 00:53:04
+
+voltada agora pra linha do Agricultor não é
+ 00:53:07
+
+Eh pro usuário agricultor extensionista
+ 00:53:10
+
+obviamente não é e eu sempre defendi gío
+ 00:53:13
+
+assim ó eh durante o que que eu tenho
+ 00:53:16
+
+trabalhado com
+ 00:53:20
+
+comunicação que
+ 00:53:21
+
+eh as redes sociais elas tem que ser um
+ 00:53:23
+
+complemento daquilo que você vai
+ 00:53:28
+
+comunicar aos agricultores aos usuários
+ 00:53:32
+
+as pessoas enfim a sociedade e não o
+ 00:53:35
+
+ponto principal Então sempre defendi que
+ 00:53:39
+
+por exemplo eu tenho que ter um portal
+ 00:53:41
+
+um site bem alimentado não é Para que não é
+ 00:53:44
+
+para que esse esse conteúdo Não se perca
+ 00:53:49
+
+ao longo do tempo não é porque um exemplo
+ 00:53:52
+
+não é nosso or fal fale seid do Orkut não é não é
+ 00:53:54
+
+muita gente alimentou muita coisa
+ 00:53:58
+
+empresas alimentaram e etc e tal eh que
+ 00:54:00
+
+tavam iniciando e aquilo você terminou e
+ 00:54:03
+
+você perdeu tudo não é então por isso eu
+ 00:54:06
+
+sempre argumento que a lede social seria
+ 00:54:08
+
+um complemento uma extensão do dos Sites
+ 00:54:10
+
+na minha na minha percepção mais de
+ 00:54:13
+
+leigo assim não é E aí eu te pergunto o
+ 00:54:15
+
+seguinte não é se um site não tiver bons
+ 00:54:19
+
+indicadores não é os sites dos órgãos
+ 00:54:22
+
+públicos que foi o que você analisou ele
+ 00:54:24
+
+as redes sociais deles não vão competir
+ 00:54:27
+
+com o site em si não é em virtude que pro
+ 00:54:30
+
+agricultor é mais não é eu pensando como
+ 00:54:33
+
+agricultor é mais fácil com baixa
+ 00:54:36
+
+capacidade de internet celular não é não
+ 00:54:38
+
+mais moderno assim acessar uma rede
+ 00:54:41
+
+social do que acessar o site Será que
+ 00:54:43
+
+não tem uma própria
+ 00:54:47
+
+competitividade da da do própria empresa
+ 00:54:49
+
+o que que tu pode nos contar sobre isso
+ 00:54:52
+
+tô tentando aqui construir um raciocínio
+ 00:54:54
+
+eh pela importância da tua
+ 00:54:56
+
+pesquisa Professor Z vai falar eu acho
+ 00:55:01
+
+que ele fala depois depois ele T
+ 00:55:05
+
+responde é então assim eu
+ 00:55:07
+
+eu eu acho que é muito interessante esse
+ 00:55:10
+
+tipo de de de preocupação que a gente
+ 00:55:12
+
+tem que ter e só para só para reforçar
+ 00:55:14
+
+lá no no no horizonte clal a gente
+ 00:55:17
+
+trabalha eh muito com essa questão de
+ 00:55:20
+
+Por que inventar softwares complicados
+ 00:55:23
+
+se você pode comunicar usando softwares
+ 00:55:25
+
+já existentes e que são de profundo
+ 00:55:27
+
+conhecimento de todos os os pertencentes
+ 00:55:29
+
+a essa rede extensionistas técnicos e
+ 00:55:31
+
+todo mundo o eh produtores
+ 00:55:34
+
+principalmente eh Isso é uma grande é
+ 00:55:36
+
+uma grande sacada é fantástico então por
+ 00:55:38
+
+exemplo a experiência que a gente tem lá
+ 00:55:41
+
+e o professor zoin eh eh referência no
+ 00:55:43
+
+nosso país nesse requisito eh eh a a
+ 00:55:46
+
+possibilidade de de flexibilização do
+ 00:55:48
+
+conhecimento a partir de ferramentas
+ 00:55:51
+
+como mídias sociais e morm a gente pegar
+ 00:55:53
+
+o WhatsApp que todos tem e o próprio
+ 00:55:57
+
+Professor redin várias vezes já nos
+ 00:55:59
+
+falou eh que normalmente a gente tem os
+ 00:56:00
+
+os os produtores rurais usando WhatsApp
+ 00:56:05
+
+via não para escrita até porque ninguém
+ 00:56:09
+
+tem tempo para ficar escrevendo ali eh
+ 00:56:11
+
+aquela letrinha pequenininha aquela
+ 00:56:13
+
+telinha já com com sol batendo sendo
+ 00:56:14
+
+cheque del então o que que é muito fácil
+ 00:56:17
+
+de fazer isso eu tô imaginando no campo
+ 00:56:19
+
+não é pessoa tá lá no campo passar
+ 00:56:20
+
+informação então Eh o que que essas
+ 00:56:22
+
+ferramentas trazem de grande vantagem eu
+ 00:56:24
+
+posso usar áudio e vídeo eh eu eu não
+ 00:56:26
+
+lembro quem eh na na rede aurora no
+ 00:56:29
+
+passado se eu não me engano não sei se
+ 00:56:31
+
+foi na rede Aurora na disciplina do
+ 00:56:32
+
+professor zim um colega nosso não sei se
+ 00:56:33
+
+foi o Renato é que é veterinário e ele
+ 00:56:35
+
+se não me engano foi ele que tava
+ 00:56:38
+
+comentando que um um um um uma vaca que
+ 00:56:40
+
+tava em processo de de de parto eh e não
+ 00:56:43
+
+tinha um um veterinário o o o o o
+ 00:56:47
+
+bezerro Zinho tava invertido qualquer
+ 00:56:51
+
+coisa assim e com a com o celular most
+ 00:56:53
+
+mostrando o vídeo do processo o
+ 00:56:56
+
+veterinário ia lá do outro lado dizendo
+ 00:56:58
+
+via WhatsApp puxa para lá emperra
+ 00:56:59
+
+Empurra a perninha para cá faz não sei e
+ 00:57:01
+
+conseguiram salvar mãe e filho nesse
+ 00:57:03
+
+caso por causa dessa tecnologia
+ 00:57:06
+
+fundamental que é acessível e que é
+ 00:57:07
+
+produzido isso posto não é valorizando
+ 00:57:10
+
+profundamente toda a comunicação feita
+ 00:57:13
+
+por essas ferramentas e nós temos provas
+ 00:57:14
+
+cabais disso que o WhatsApp tem sido
+ 00:57:16
+
+fundamental para isso como nesse exemplo
+ 00:57:19
+
+que eu dei eh fora outros mais na época
+ 00:57:21
+
+da da da da pandemia professor tem
+ 00:57:24
+
+trabalhos super interessantes
+ 00:57:26
+
+fantásticos de áudio e de de de
+ 00:57:27
+
+informações Tex visuais para eles mas a
+ 00:57:30
+
+questão é que
+ 00:57:34
+
+eh voltando a sua pergunta um um uma
+ 00:57:36
+
+rede não pode substituir Tais portais eh
+ 00:57:39
+
+eu acredito que não por quê Porque as
+ 00:57:42
+
+informações o o que os aí eu vou falar
+ 00:57:45
+
+do ponto de vista técnico não é Eh a os
+ 00:57:47
+
+softwares que trabalham com as mídias
+ 00:57:50
+
+sociais eles têm um papel muito
+ 00:57:52
+
+restritivo que prioritariamente era
+ 00:57:55
+
+somente divulgar minha vida pessoal ou
+ 00:57:57
+
+da nossa comunidade sei o que lá então
+ 00:57:59
+
+eles não têm recursos dentro do software
+ 00:58:01
+
+não dentro do computador dentro do
+ 00:58:03
+
+software computacionais suficientes por
+ 00:58:05
+
+exemplo para fazer análises para
+ 00:58:07
+
+apresentar gráficos para ficar sendo eh
+ 00:58:09
+
+alimentado constantemente e
+ 00:58:11
+
+automaticamente por pelos portais que
+ 00:58:13
+
+geram esses gráficos esses dados então a
+ 00:58:15
+
+potencialidade computacional de um
+ 00:58:18
+
+portal é muito maior do que de uma de
+ 00:58:19
+
+uma uma mídia social dessa que só pra
+ 00:58:23
+
+gente assim bem bem simplificadamente se
+ 00:58:25
+
+a gente pensar eh WhatsApp ele
+ 00:58:28
+
+antigamente era só texto qualquer
+ 00:58:30
+
+Messenger que a gente quiser era só
+ 00:58:32
+
+texto depois começou a admitir texto e
+ 00:58:34
+
+áudio depois começou a admitir eh texto
+ 00:58:36
+
+áudio e anexos depois texto áudio anexo
+ 00:58:39
+
+e vídeo agora você já pode filmar então
+ 00:58:42
+
+Eh mesmo assim não tem um lugar onde
+ 00:58:45
+
+você possa eh colocar informação
+ 00:58:48
+
+automática que se conecte a uma a uma
+ 00:58:51
+
+uma rede maior de de de portais no nosso
+ 00:58:53
+
+caso aqui ou de conexões com outros
+ 00:58:56
+
+sistemas e trazer isso eh a a a a
+ 00:58:58
+
+funcionalidade que elas nos dispõem são
+ 00:59:02
+
+reduzidas em relação a aos softwares que
+ 00:59:04
+
+estão rodando em máquinas eh como
+ 00:59:07
+
+parrudas como
+ 00:59:09
+
+eh desktops e notebooks dependendo E aí
+ 00:59:11
+
+você tem isso ligado em outras situações
+ 00:59:14
+
+também então acho que são duas coisas
+ 00:59:16
+
+distintas que precisam coexistir a rede
+ 00:59:18
+
+eh a rede formada pelos pelas eh mídias
+ 00:59:20
+
+sociais são
+ 00:59:25
+
+mas outras informações eu preciso pegar
+ 00:59:27
+
+no site que lá tem robustez
+ 00:59:29
+
+computacional para te dar como por
+ 00:59:32
+
+exemplo vários vídeos vídeos de não sei
+ 00:59:33
+
+quanto tempo das últimas cinco festas
+ 00:59:35
+
+que a gente teve aqui no nosso estado um
+ 00:59:38
+
+um celularia conta disso é muito é muito
+ 00:59:40
+
+pouco espaço para muito dado que lá nos
+ 00:59:43
+
+servidores do dos portais a gente tem
+ 00:59:46
+
+espero não sei se eu respondi exatamente
+ 00:59:49
+
+perfeito eu vou fazer uma pergunta muito
+ 00:59:52
+
+difícil agora muito difícil eu quero ver
+ 00:59:54
+
+se você vai conseguir responder tá eu
+ 00:59:57
+
+vou puxar de novo o seu slide aqui vamos
+ 00:59:59
+
+ver vamos ver onde se eu gostei muito
+ 01:00:02
+
+dessa pesquisa onde eu encontro esse
+ 01:00:05
+
+livro O pessoal que tá assistindo aqui
+ 01:00:09
+
+ele quer acessar essa pesquisa esse
+ 01:00:11
+
+livro é pago é gratuito aonde que eu
+ 01:00:14
+
+encontro com o meu celular na mão e não
+ 01:00:17
+
+tenho o contato do Egídio
+ 01:00:20
+
+é é a pessoa certa para nos responder o
+ 01:00:22
+
+professor
+ 01:00:25
+
+que ele é o pai da
+ 01:00:26
+
+criança eu sabia que ele ia passar pro
+ 01:00:28
+
+zui agora o zui vai ter que responder
+ 01:00:31
+
+não tem mais para quem passar
+ 01:00:34
+
+não é não é só é só digitar no Google não é
+ 01:00:36
+
+blog Aurora rede Aurora de at digital
+ 01:00:40
+
+vai cair num blog o blog tem livros da
+ 01:00:44
+
+rede Aurora e não só esse livro mas
+ 01:00:46
+
+outros livros também não é Você pode est
+ 01:00:48
+
+você pode est baixando também tem o blog
+ 01:00:51
+
+da do Horizonte at também
+ 01:00:53
+
+tem esse primeiro livro Nosso ali não é
+ 01:00:56
+
+então só digitar Horizonte até grupo de
+ 01:00:59
+
+pesquisa extensão agropecuária vai cair
+ 01:01:01
+
+no blog no Google e daí é só baixar ali
+ 01:01:03
+
+não é Tem uma aba livros da rede da do
+ 01:01:06
+
+Horizonte Rural não é E daí você abaixa o
+ 01:01:09
+
+livro
+ 01:01:12
+
+ali o negócio foi tão difícil que ele
+ 01:01:14
+
+passou pro Zoinho disse que não era
+ 01:01:17
+
+fácil passa palavr eu acho eu acho eu
+ 01:01:19
+
+acho o seguinte tem algumas palavras
+ 01:01:23
+
+até que o Ezequiel falou que são
+ 01:01:26
+
+palavras que que que eu tenho um certo
+ 01:01:27
+
+receio de est utilizando não é quando a
+ 01:01:30
+
+gente fala de até digital que quer dizer
+ 01:01:32
+
+palavras não uma palavra só que que é a
+ 01:01:34
+
+palavra complementar então a rede social
+ 01:01:37
+
+é complementar ao site eu não acredito
+ 01:01:39
+
+nisso por quê Porque a palavra
+ 01:01:42
+
+complementar ela tem muitas vezes tem um
+ 01:01:44
+
+sentido
+ 01:01:47
+
+depreciativo não é se é complementar Ah
+ 01:01:48
+
+então eu faço sen não porque não é o
+ 01:01:51
+
+principal é o complementar não é na verdade
+ 01:01:54
+
+não é o complementar não é Ele é o
+ 01:01:57
+
+principal também não é é o principal não é de
+ 01:01:59
+
+você estar eh divulgando uma informação
+ 01:02:03
+
+num certo contexto comunicacional que
+ 01:02:07
+
+são as redes sociais não é quando a gente
+ 01:02:09
+
+pensa em ecossistemas digitais de
+ 01:02:12
+
+comunicação em rede a gente pensa nos
+ 01:02:15
+
+sites Youtube não é e blog não é e a gente
+ 01:02:18
+
+pensa que são sites repositórios lugar
+ 01:02:23
+
+repositórios ali não é de informação e a
+ 01:02:26
+
+gente pensa em em outros locais outros
+ 01:02:29
+
+sites outros aplicativos que a gente usa
+ 01:02:32
+
+para divulgação que seriam mais as redes
+ 01:02:35
+
+sociais não é então ele não é que eles são
+ 01:02:38
+
+complementares não é a informação
+ 01:02:42
+
+perpassando e sendo armazenada nesses
+ 01:02:44
+
+vários locais não é Por que que a gente
+ 01:02:47
+
+fala isso não é porque se a gente fala a
+ 01:02:50
+
+palavra complement
+ 01:02:54
+
+não é volto a dizer elas eu complimentar eu
+ 01:02:56
+
+posso estar utilizando ou não então você
+ 01:03:00
+
+deixa hoje o seu principal meio de
+ 01:03:02
+
+divulgação da sua mensagem que são as
+ 01:03:06
+
+redes sociais e o WhatsApp de fora do
+ 01:03:09
+
+seu ecossistema então se você pensar em
+ 01:03:11
+
+fazer apenas um site ali não é é uma perna
+ 01:03:14
+
+de duas que você tá querendo andar só
+ 01:03:19
+
+que você precisa de uma outra perna
+ 01:03:21
+
+também que são as redes sociais não é não é
+ 01:03:23
+
+então
+ 01:03:26
+
+eh eu acho que o Ezequiel ele quis dizer
+ 01:03:27
+
+não é o Ezequiel daí você fala para mim aí
+ 01:03:30
+
+meu querido não é que o que o Ezequiel ele
+ 01:03:32
+
+tem uma preocupação histórica não é de como
+ 01:03:34
+
+armazenar esse conteúdo não é E esse
+ 01:03:38
+
+conteúdo ficar por um bom tempo ali eu
+ 01:03:42
+
+posso dizer para você Ezequiel meu
+ 01:03:45
+
+querido que essa é uma preocupação
+ 01:03:47
+
+Inclusive das pessoas das ciências da
+ 01:03:48
+
+informação não é Assim como é que a gente
+ 01:03:51
+
+coloca a gente a gente eterniza essa
+ 01:03:54
+
+informação digital não é não é então e eles
+ 01:03:58
+
+não sabem responder isso eles não sabem
+ 01:04:02
+
+responder as ciências da informação e
+ 01:04:04
+
+talvez até o exigido também não saiba
+ 01:04:06
+
+responder não é então
+ 01:04:08
+
+Eh e daí a gente pode ter alguns
+ 01:04:10
+
+caminhos assim criar os sites isso tal
+ 01:04:14
+
+mas sempre tem aquela possibilidade de
+ 01:04:17
+
+de tudo ir por água abaixo não é de você
+ 01:04:20
+
+perder mesmo os seus conteúdos ali nas
+ 01:04:22
+
+coisas não é mas mas a gente mas
+ 01:04:24
+
+historicamente também Ezequiel só para
+ 01:04:26
+
+terminar o livro não é de uma certa forma
+ 01:04:28
+
+que é físico não é que é físico a gente
+ 01:04:32
+
+perde ele ele não é eterno também não é se
+ 01:04:35
+
+a gente não cuida dele não é como a gente
+ 01:04:39
+
+tem que
+ 01:04:42
+
+cuidar talvez muito mais das informação
+ 01:04:43
+
+digital ele vai se perder também não é
+ 01:04:46
+
+Então mas essa preocupação que eu quero
+ 01:04:49
+
+dizer para você meu querido é uma
+ 01:04:51
+
+preocupação de todo um campo das
+ 01:04:53
+
+ciências que é as ciências da informação
+ 01:04:55
+
+que não sabe responder hoje essa sua
+ 01:04:58
+
+grande questão entendeu não sabe
+ 01:05:00
+
+responder como é que o armazeno pro para
+ 01:05:02
+
+pro pro pro tempo infinito ali sei lá
+ 01:05:05
+
+entendeu Pode falar querido muito bom é
+ 01:05:09
+
+isso aí mesmo é é de da da informação
+ 01:05:12
+
+ela continuar ao longo do tempo ela
+ 01:05:15
+
+sempre tando disponível porque senão a
+ 01:05:17
+
+gente pede a história do que acontece não é
+ 01:05:18
+
+e por isso que eu advogo que ela ela eh
+ 01:05:21
+
+hoje Teoricamente os blogs e sites eles
+ 01:05:25
+
+perduram mais ao longo das mudanças
+ 01:05:28
+
+informacionais não é do que as redes
+ 01:05:31
+
+sociais não é mas aí você colocou um ponto
+ 01:05:33
+
+muito interessante agora dar um debate
+ 01:05:36
+
+bem legal
+ 01:05:38
+
+eh Será que isso que você argumenta hoje
+ 01:05:39
+
+Zuin aí aí que tá não desprestigia ou
+ 01:05:42
+
+não dá mais importância Talvez as redes
+ 01:05:46
+
+sociais do que o site não é não que não
+ 01:05:49
+
+seja importante um ou outro não é mas mas
+ 01:05:52
+
+não é no caso parece que assim tipo parece
+ 01:05:55
+
+que hoje não é a gente prefere acessar as
+ 01:05:59
+
+redes sociais do que acessar o site não é
+ 01:06:01
+
+então assim a gente tá tá estamos
+ 01:06:04
+
+disponibilizando em vários locais
+ 01:06:07
+
+depende da característica das redes
+ 01:06:09
+
+sociais não é YouTube YouTube não não vai
+ 01:06:11
+
+para não consigo botar tantas
+ 01:06:14
+
+informações e lá no YouTube a não ser em
+ 01:06:16
+
+forma de vídeo e ele aceita cinco
+ 01:06:20
+
+banners cinco cards lá não é Eh numa nas
+ 01:06:22
+
+comunidades não é então fico eu fico meio
+ 01:06:26
+
+pensando nisso não é Eh então assim talvez
+ 01:06:29
+
+hoje diminua a importância dos dos
+ 01:06:32
+
+portais e aí bate aonde o Egídio tá
+ 01:06:35
+
+falando não é então assim eu dou menos eh
+ 01:06:38
+
+investimento no site porque não é tão
+ 01:06:42
+
+importante não é isso aí não é não vou
+ 01:06:44
+
+investir dinheiro no nos Engenheiros aí
+ 01:06:46
+
+para fazer o softwares Porque hoje o que
+ 01:06:49
+
+importa é as redes sociais é onde os
+ 01:06:51
+
+agricultores acessam onde onde de todo
+ 01:06:53
+
+mundo acessa eu faço essa reflexão n
+ 01:06:55
+
+eh fico fico me interrogando sobre isso
+ 01:07:00
+
+não eu acho que você tem toda a razão
+ 01:07:04
+
+nisso daí eu acho que talvez a a balança
+ 01:07:06
+
+tá atendendo muito mais de um lado hoje
+ 01:07:09
+
+do que do outro não é mas eu acho que isso
+ 01:07:11
+
+tem uma tem uma certa tem um certo
+ 01:07:14
+
+porquê não é do que o usuário médio ele não
+ 01:07:16
+
+vai tá procurando mais o site para se
+ 01:07:20
+
+informar não é ele tá ele tá procurando a a
+ 01:07:22
+
+as redes sociais e se a gente pensar
+ 01:07:26
+
+nessa ideia do site como se uma grande
+ 01:07:29
+
+biblioteca não é ali não é e o e o site e as
+ 01:07:31
+
+redes sociais não é como se fosse um uma
+ 01:07:37
+
+informação para ir para essa grande
+ 01:07:40
+
+biblioteca a gente ainda Precisa testar
+ 01:07:42
+
+se esse caminho acontece não é se ele não
+ 01:07:45
+
+quer só ficar hoje nas redes sociais
+ 01:07:48
+
+aonde que você entrega um uma informação
+ 01:07:52
+
+muito
+ 01:07:55
+
+muito menor muito muito
+ 01:07:56
+
+maiso menor ali muito mais objetiva do
+ 01:08:00
+
+que você ir numa biblioteca que seria o
+ 01:08:03
+
+site não é como a gente tá pensando não é para
+ 01:08:06
+
+ele tá se aprofundando ali não é quer dizer
+ 01:08:08
+
+quem é o seu usuário médio não é talvez
+ 01:08:12
+
+essa sua grande talvez fosse essa grande
+ 01:08:14
+
+questão não é não é Por exemplo eh você pega
+ 01:08:17
+
+as nossas lives por exemplo não é que a
+ 01:08:21
+
+gente historicamente aí a gente tá
+ 01:08:24
+
+fazendo não é Eu acho
+ 01:08:26
+
+que eu não sei mas deve ter Picos se eu
+ 01:08:28
+
+tô me lembrando bem picos de 500 views
+ 01:08:32
+
+de Live ali o maior pico não é só que o
+ 01:08:35
+
+portal extensionista tem 60.000 pessoas
+ 01:08:38
+
+Acho que até mais hoje 70.000 não é então
+ 01:08:41
+
+quem tá indo buscar as lives não é
+ 01:08:45
+
+provavelmente são os extensionistas
+ 01:08:48
+
+rurais são os professores é um outro
+ 01:08:49
+
+público quem busca os shorts até dessas
+ 01:08:52
+
+dessas dessas
+ 01:08:56
+
+dessas dessas palestras e e outros e
+ 01:08:58
+
+outras outras mídias que você faz
+ 01:09:01
+
+entendeu outras pessoas não é então no
+ 01:09:03
+
+mesmo lugar no mesmo site repositório a
+ 01:09:06
+
+gente tem vários públicos que vão tá
+ 01:09:09
+
+pegando essas essas informações de
+ 01:09:12
+
+várias formas eu acho que talvez o mais
+ 01:09:14
+
+importante de um site Z queel e daí o
+ 01:09:18
+
+Egídio entra essa variabilidade de de de
+ 01:09:20
+
+de materiais de formas de conteúdos que
+ 01:09:24
+
+a gente pode estar oferecendo para
+ 01:09:27
+
+vários tipos
+ 01:09:29
+
+vários vários usuários ali entendeu E
+ 01:09:30
+
+que complica a coisa não facilita
+ 01:09:34
+
+complica tá falando muito eu queria
+ 01:09:37
+
+mesmo que eu di de comentar sobre isso
+ 01:09:40
+
+aqui
+ 01:09:42
+
+também muito é é difícil falar alguma
+ 01:09:43
+
+coisa depois do que vocês já falaram é
+ 01:09:46
+
+exatamente isso e eu acho que isso é uma
+ 01:09:48
+
+conclusão muito do nosso do nosso grupo
+ 01:09:50
+
+de pesquisa não é o professor Zuin ele
+ 01:09:52
+
+professor in eles estão sintetizando o
+ 01:09:54
+
+que já vem sido discussões antigas
+ 01:09:57
+
+talvez eu pudesse só acrescentar um
+ 01:09:59
+
+detalhe aí é que o site além de ser isso
+ 01:10:01
+
+tudo que a gente viu e as mídias sociais
+ 01:10:04
+
+serem tudo isso que a gente já sabe e o
+ 01:10:07
+
+professor redin Colocou também eh o site
+ 01:10:09
+
+tem outras potencialidades que não são
+ 01:10:12
+
+possíveis em em uma telinha pequena de
+ 01:10:14
+
+de celular eh E essas inúmeras
+ 01:10:16
+
+possibilidades é que precisam ser
+ 01:10:20
+
+garantidas então assim não há muito
+ 01:10:22
+
+investimento nos portais porque o
+ 01:10:24
+
+pessoal tá usando mais mas será que tá
+ 01:10:26
+
+usando mais aqui porque não tá nem
+ 01:10:28
+
+encontrando informação aqui no site eh e
+ 01:10:30
+
+aquelas outras informações que eles
+ 01:10:32
+
+estão precisando que estão procurando na
+ 01:10:34
+
+rede social que não estão presentes no
+ 01:10:36
+
+site ou
+ 01:10:38
+
+eh elementos por exemplo coisas que o
+ 01:10:40
+
+processador de um celular não tem
+ 01:10:44
+
+condição de fazer e um processador de um
+ 01:10:46
+
+um um sistema que tá num lugar onde tem
+ 01:10:49
+
+não sei Quantos servidores não sei o que
+ 01:10:51
+
+qual tipo de computador consegue dá com
+ 01:10:53
+
+por exemplo cálculos como por exemplo
+ 01:10:55
+
+projeções enfim eh eh eu assino 20 vezes
+ 01:10:57
+
+embaixo que vocês falaram são são são
+ 01:11:02
+
+canais super importantes que precisam
+ 01:11:04
+
+estar alinhados se um um grupo de de de
+ 01:11:06
+
+usuários Tá acessando mais o Canal X
+ 01:11:10
+
+então é o que o professor falou vale a
+ 01:11:12
+
+pena a gente entender Por que que eles
+ 01:11:15
+
+não estão acessando o y também porque
+ 01:11:16
+
+eles deveriam tá numa certa sinergia aí
+ 01:11:18
+
+não é então e pode ser e que me venha na
+ 01:11:21
+
+cabeça agora pode ser que a gente esteja
+ 01:11:24
+
+vendo o fim dos Sites com as
+ 01:11:27
+
+inteligências
+ 01:11:30
+
+artificiais o chat GPT da vida então
+ 01:11:32
+
+aquela informação que você ia entrar no
+ 01:11:35
+
+site para procurar para ver não é você hoje
+ 01:11:37
+
+você tem princialmente a informação em
+ 01:11:41
+
+forma de texto não é em forma de texto não é
+ 01:11:43
+
+artigos científicos o que seja na nossa
+ 01:11:46
+
+área por exemplo não é você não ten mais
+ 01:11:48
+
+isso você tenha uma ia que faça isso por
+ 01:11:50
+
+você não é e que tem uma interface no seu
+ 01:11:53
+
+celular ou no seu computador uma
+ 01:11:57
+
+interface mais simples do que um site em
+ 01:11:59
+
+si não é que nem o chat GPT e você e você
+ 01:12:01
+
+não busque mais essa informação não é
+ 01:12:05
+
+porque você ela ela é dada quer dizer um
+ 01:12:07
+
+você não busque Olha só você não busque
+ 01:12:11
+
+a variedade de informações que você pode
+ 01:12:14
+
+fazer com com você como Sujeito da
+ 01:12:16
+
+pesquisa porque nesse caso o sujeito da
+ 01:12:18
+
+pesquisa não vai ser mais você vai ser
+ 01:12:21
+
+um chat GPT da vida não é Então essa
+ 01:12:22
+
+informação será dada ali mas deixa eu
+ 01:12:26
+
+entender mas e eh o o egid pode nos
+ 01:12:28
+
+ajudar também eh a inteligência
+ 01:12:32
+
+artificial se alimenta de informações do
+ 01:12:35
+
+site tu errado Egídio
+ 01:12:38
+
+não é porque daí ela ela precisa de uma
+ 01:12:41
+
+base de um banco de dados não é Eu tô
+ 01:12:45
+
+tentando fazer uma reflexão aqui não é
+ 01:12:47
+
+então mas esse banco de dados hoje ela
+ 01:12:49
+
+busca emite e se esse banco de dados for
+ 01:12:51
+
+em outro lugar Ah sim é deixa deixa só
+ 01:12:53
+
+só fazer uma uma intervenção que eh
+ 01:12:57
+
+tanto o o a mídia social pode capturar
+ 01:12:59
+
+dados para jogar dentro desse banco de
+ 01:13:02
+
+dados da instituição quanto os sites
+ 01:13:04
+
+podem fazer a mesma coisa então os dados
+ 01:13:06
+
+estarão certamente não estarão nenhum
+ 01:13:09
+
+dos dois estarão no banco de dados da da
+ 01:13:10
+
+instituição lá sim terão tantos aqueles
+ 01:13:13
+
+coletados dessa forma via Site quanto
+ 01:13:15
+
+aqueles coletados pelos portais pelas
+ 01:13:18
+
+mídias por exemplo Então quando você
+ 01:13:20
+
+pensa num numa numa a realidade onde é
+ 01:13:22
+
+que só exista banco de dados entendeu
+ 01:13:26
+
+Você não vai precisar mais de site
+ 01:13:30
+
+talvez se você pensar nessa realidade da
+ 01:13:32
+
+pesquisa por meio de aplicações
+ 01:13:35
+
+aplicativos por meio de desses programas
+ 01:13:38
+
+ali no seu no seu celular ou computador
+ 01:13:41
+
+mesmo também não é Eu tô querendo dizer que
+ 01:13:44
+
+a gente corre um risco de que você não
+ 01:13:47
+
+tem essa variedade e o seu olhar com
+ 01:13:49
+
+pesquisador se perca isso
+ 01:13:53
+
+você entendeu se perca isso não é não é mesmo
+ 01:13:55
+
+você colocando lá as questões no chat
+ 01:13:59
+
+GPT da vida essas coisas mas o seu olhar
+ 01:14:01
+
+com pesquisador de entrar dentro de uma
+ 01:14:03
+
+biblioteca seja ela física ou virtual não é
+ 01:14:05
+
+ali não é Você vai perder porque a pessoa
+ 01:14:08
+
+porque esse esses esses buscadores de
+ 01:14:12
+
+informação não é ali não é ele vai ser meio
+ 01:14:16
+
+que imposto para você e quem fez quem tá
+ 01:14:19
+
+fazendo isso não é é a metafísica não
+ 01:14:23
+
+são pessoas atrás de um computador
+ 01:14:27
+
+programando aquilo que vai responder
+ 01:14:29
+
+para
+ 01:14:30
+
+você é meio é meio é meio dá até um medo
+ 01:14:33
+
+disso
+ 01:14:37
+
+não é Muito boa aqui fiz um ba diálogo leva
+ 01:14:42
+
+conversa interativa aqui
+ 01:14:46
+
+e deixa eu eu acho que vou pedir
+ 01:14:48
+
+pro já falou mas assim sempre é bom
+ 01:14:53
+
+reforçar na Live sou da da eh a a da
+ 01:14:56
+
+repetição ela é importante para gravar
+ 01:15:01
+
+não é no sistema então assim Egídio eh
+ 01:15:03
+
+sintetizando os pontos da tua pesquisa
+ 01:15:07
+
+agora assim o que que você considera que
+ 01:15:10
+
+pode melhorar só só repetindo as
+ 01:15:14
+
+informações que você já comentou aí da
+ 01:15:17
+
+sua pesquisa que da sua dissertação que
+ 01:15:20
+
+virou livro agora o que que pode de
+ 01:15:22
+
+melhorar nos portais sinteticamente
+ 01:15:25
+
+assim pro para quem tá nos ouvindo aqui
+ 01:15:27
+
+assim com a tua pesquisa é numa
+ 01:15:30
+
+percepção geral não dicotomizada pelas
+ 01:15:33
+
+heurísticas etc etc eu acho que alguns
+ 01:15:35
+
+pontos ficam muito claros se chamam
+ 01:15:38
+
+muita atenção eh um deles é o que se
+ 01:15:40
+
+pode melhorar é a a própria visibilidade
+ 01:15:42
+
+desculpa a própria estética do software
+ 01:15:47
+
+do do do do Portal A maioria dos portais
+ 01:15:49
+
+tem muita informação e aí com aquela
+ 01:15:51
+
+possibilidade de fazer is scroll Down
+ 01:15:53
+
+vai descendo e é muita imagem muita
+ 01:15:55
+
+imagem muita imagem eh a ponto de se ter
+ 01:15:57
+
+uma certa dificuldade em achar o que
+ 01:16:00
+
+você quer tudo bem que com o tempo eu
+ 01:16:02
+
+vou aprendendo o que tá naquele
+ 01:16:04
+
+lugarzinho certinho que eu quero para
+ 01:16:05
+
+para um usuário Mas isso pode mudar
+ 01:16:07
+
+então Eh o certo não é eh forçar o
+ 01:16:09
+
+usuário a aprender como usar eh qual
+ 01:16:13
+
+clique que ele tem que dar em qual botão
+ 01:16:16
+
+o certo é o sistema ficar adaptável ao
+ 01:16:17
+
+usuário então uma coisa que me chama
+ 01:16:21
+
+muito atenção é é aquela heurística que
+ 01:16:23
+
+fala sobre minimalismo os sites são
+ 01:16:25
+
+muito poluídos tem muita informação eh e
+ 01:16:27
+
+um outra informação que quer dizer
+ 01:16:30
+
+imaginando que eles queiram consertar
+ 01:16:32
+
+que alguém tem interesse em fazer novas
+ 01:16:33
+
+aplicações eh pensar nessa possibilidade
+ 01:16:35
+
+de tirar essa esse essa poluição visual
+ 01:16:37
+
+uma outra que eu acho que também é muito
+ 01:16:41
+
+muito relevante eh que é a manutenção
+ 01:16:43
+
+dos padrões então onde se acha a
+ 01:16:46
+
+informação tal é no canto superior
+ 01:16:49
+
+esquerdo é no na barra de menu acima e
+ 01:16:51
+
+Não essa barra de menu está acima daqui
+ 01:16:54
+
+a pouco tá do lado daqui a pouco tá
+ 01:16:57
+
+embaixo e aí eu tenho que fazer o scroll
+ 01:16:59
+
+Down da tela inteira para chegar lá isso
+ 01:17:01
+
+é porque eu deduzi porque a informação
+ 01:17:03
+
+precisa est na primeira página que
+ 01:17:06
+
+aparece eu tenho que conseguir
+ 01:17:07
+
+naturalmente chegar então assim do ponto
+ 01:17:08
+
+de vista do que pode melhorar eu acho
+ 01:17:11
+
+que essas seriam as coisas mais no meu
+ 01:17:13
+
+ponto de vista mais relevantes são onde
+ 01:17:15
+
+os scores não foram muito legais
+ 01:17:17
+
+eh aqueles que já tê scores altos também
+ 01:17:20
+
+podem melhorar muito ainda
+ 01:17:23
+
+porque quando você fala assim
+ 01:17:25
+
+eh vamos voltar ao minimalismo isso é um
+ 01:17:28
+
+conceito muito amplo cada um entende
+ 01:17:31
+
+minimalismo como queer um acumulador vai
+ 01:17:33
+
+achar que ali é o mínimo que ele precisa
+ 01:17:36
+
+ter para sobreviver dentro na casa dele
+ 01:17:37
+
+e ele é um acumulador então e esse
+ 01:17:39
+
+minimalismo pode ser eh revisto todas
+ 01:17:42
+
+essas heurísticas Mas o mais importante
+ 01:17:45
+
+que eu que eu queria muito que meu
+ 01:17:47
+
+trabalho pudesse deixar claro é que não
+ 01:17:49
+
+existe isso sem produtor e sem
+ 01:17:51
+
+extensionista
+ 01:17:53
+
+você não pode fazer um software sem
+ 01:17:55
+
+esses indivíduos que de fato manipulam
+ 01:17:57
+
+entram dados se se alimentam das
+ 01:18:01
+
+informações disponíveis eh nos portais e
+ 01:18:04
+
+por que os portais e não as mídias
+ 01:18:07
+
+porque as mídias são estanques elas não
+ 01:18:08
+
+têm muita opção que você tem que fazer
+ 01:18:10
+
+eh e ali algum jornalista nesses órgãos
+ 01:18:12
+
+mais clássicos não é o pessoal de de de
+ 01:18:16
+
+comunicação eles vão postar no formato
+ 01:18:18
+
+que o o o o o aplicativo do da rede
+ 01:18:20
+
+social aceita o site é é um campo aberto
+ 01:18:24
+
+uma folha em branco você pode fazer o
+ 01:18:27
+
+que você quiser ali e mas não dá
+ 01:18:28
+
+desenvolvedor de soft não dá para você
+ 01:18:31
+
+fazer principalmente nessa nessa área
+ 01:18:34
+
+que a gente estuda não dá para fazer
+ 01:18:37
+
+nada sem a parceria e mas não é a
+ 01:18:39
+
+parceria muitas vezes eu falo isso a
+ 01:18:43
+
+pessoa fala assim ah não mas nosso
+ 01:18:44
+
+usuário vem aqui e a gente vai demorar
+ 01:18:46
+
+um ano para fazer o software ele vai
+ 01:18:48
+
+aparecer aqui três vezes não não é isso
+ 01:18:50
+
+ele tem que tá na equipe desde o
+ 01:18:52
+
+primeiro dia até o último ele está junto
+ 01:18:55
+
+na equipe Isso já é preconizado na
+ 01:18:56
+
+informática há muito tempo muitos anos
+ 01:18:58
+
+quando eu fazia faculdade já se falava
+ 01:19:00
+
+nisso Olha que eu fiz faculdade há 200
+ 01:19:02
+
+anos atrás mas a gente não implementa
+ 01:19:04
+
+isso então se isso não é financeiramente
+ 01:19:07
+
+viável não é operacionalmente viável
+ 01:19:09
+
+trazer por exemplo um produtor ou um
+ 01:19:11
+
+extensionista que fica ali acompanhando
+ 01:19:13
+
+tudos se isso não é é Pens em
+ 01:19:15
+
+estratégias que possa viabilizar algo
+ 01:19:18
+
+muito próximo então não pensa por
+ 01:19:19
+
+exemplo em fazer parceria com esse
+ 01:19:21
+
+produtor num projeto de um ano por três
+ 01:19:22
+
+vezes não existe Vai lá se ele não pode
+ 01:19:25
+
+vir aqui vai lá e mostra ele como é que
+ 01:19:27
+
+tá ficando pede informação isso não é
+ 01:19:28
+
+tanta usabilidade a própria usabilidade
+ 01:19:31
+
+eh quanto a a o x não é que é user
+ 01:19:33
+
+Experience tanto uma quanto outra eh
+ 01:19:37
+
+elas só se dão só se efetivam com a
+ 01:19:40
+
+parceria com os usuários verdadeiros
+ 01:19:43
+
+desse sistema eles que vão sinalizar
+ 01:19:45
+
+Qual é o o o padrão ideal e e o o o que
+ 01:19:47
+
+de fato facilita a vida deles e não os
+ 01:19:51
+
+faça correr por exemplo PR rede social e
+ 01:19:53
+
+ficar brigando na rede social porque eu
+ 01:19:55
+
+preciso de dado tal tal e tal tá
+ 01:19:57
+
+disponível lá mas não consigo nem achar
+ 01:19:58
+
+onde como que V entende mas enfim eu
+ 01:20:00
+
+acho que eu eu resumiria as coisas mais
+ 01:20:03
+
+importantes desse trabalho é Engenheiros
+ 01:20:05
+
+de software nos conscientizemos da
+ 01:20:07
+
+parceria Produtores Rurais se vocês e
+ 01:20:09
+
+extensionistas enfim eh de uma forma
+ 01:20:13
+
+geral se você não está entendendo a
+ 01:20:16
+
+culpa não é sua você não tem problema
+ 01:20:18
+
+nenhum Quem tem problema é o software
+ 01:20:20
+
+que foi L apresentado que não favorece
+ 01:20:22
+
+uma
+ 01:20:25
+
+usabilidade tranquila ou possível por
+ 01:20:27
+
+exemplo muito bom muito bom eu eu eh
+ 01:20:29
+
+Quando você foi falando que eu fui
+ 01:20:33
+
+lembrando da minha história com a
+ 01:20:35
+
+informática e os e os programas que
+ 01:20:38
+
+aprendi não é E aí realmente assim ao longo
+ 01:20:40
+
+dos anos você vê que os os editores de
+ 01:20:44
+
+texto de imagem eles vão trocando os
+ 01:20:47
+
+lugares onde tá as coisas e se você não
+ 01:20:51
+
+tá sempre mexendo com isso você acaba H
+ 01:20:54
+
+aquele conhecimento que você tinha não
+ 01:20:58
+
+serve mais para nada e aí o que que eu
+ 01:20:59
+
+eu como experiência de usuário isso me
+ 01:21:02
+
+afasta daquele daquele lugar ou editores
+ 01:21:04
+
+editores de vídeo muito difíceis que são
+ 01:21:08
+
+escondidas as ferramentas ou tem
+ 01:21:13
+
+dificuldade afasta o usuário que não tem
+ 01:21:15
+
+tanto conhecimento e você bateu certinho
+ 01:21:18
+
+não é na nessa questão não é ele tem que ter
+ 01:21:21
+
+um
+ 01:21:24
+
+padrão comum de usabilidade que possa
+ 01:21:25
+
+nos dar essa facilidade de acesso e não
+ 01:21:28
+
+afastar as pessoas do do meu do meu site
+ 01:21:31
+
+do meu portfólio não é eu achei maravilhoso
+ 01:21:34
+
+essa fala e esse resultado de pesquisa
+ 01:21:37
+
+então pra gente encerar gío palavra
+ 01:21:39
+
+final tá contigo assim esse grande
+ 01:21:42
+
+enceramento dessa sua pesquisa aqui
+ 01:21:43
+
+muito legal essa essa teu resumo final
+ 01:21:46
+
+que isso aqui vai ficar registrado para
+ 01:21:48
+
+quem precisar aqui tá trabalhando e quer
+ 01:21:50
+
+melhorar esse Tais vai ser um resumo
+ 01:21:53
+
+muito interessante palavra final tá
+ 01:21:56
+
+contigo Bom primeiramente agradecer
+ 01:21:58
+
+muito a ao professor redinho professor
+ 01:22:00
+
+Zuin agradecer pela orientação dos
+ 01:22:02
+
+Professor Zuin que foi fundamental do
+ 01:22:04
+
+Nosso pessoal lá do do Horizonte eh as
+ 01:22:06
+
+as as sugestões Então tem muito
+ 01:22:10
+
+agradecer a todos eles e e reforçar o
+ 01:22:12
+
+ponto de que
+ 01:22:14
+
+eh eu eu bato muito nessa tecla com meus
+ 01:22:16
+
+alunos eh o senhor algoritmo e a sua
+ 01:22:18
+
+esposa dona Inteligência Artificial não
+ 01:22:21
+
+vão resolver o mundo mundo quem toma
+ 01:22:23
+
+conta desses elementos Somos Nós seres
+ 01:22:26
+
+humanos que produzimos esse software que
+ 01:22:28
+
+precisam ser éticos que precisam ter
+ 01:22:30
+
+moral que precisam eh eh alcançar a
+ 01:22:32
+
+pessoa que precisa e eu não comentei
+ 01:22:35
+
+aqui mas eh tem um um trabalho que eu
+ 01:22:37
+
+desenvolvo com meus alunos da
+ 01:22:39
+
+pós--graduação lá também que é assim o
+ 01:22:40
+
+quanto isso tudo que nós estamos falando
+ 01:22:43
+
+softwares interfaces tem impactado a
+ 01:22:45
+
+vida do Idoso e o idoso ele sai do
+ 01:22:47
+
+mercado de trabalho se aposenta ele
+ 01:22:50
+
+passa a ter pouco uso finalmente fica
+ 01:22:52
+
+ali livre não é Agora vou ser feliz ou não
+ 01:22:54
+
+não é coitado eh e aí ele ele se desconecta
+ 01:22:56
+
+um pouco disso E aí ele perde
+ 01:23:00
+
+completamente quando ele precisa voltar
+ 01:23:01
+
+como é mesmo onde queera eu já mexi
+ 01:23:03
+
+nesse software não tô acreditando E aí
+ 01:23:05
+
+só pegar os software os aplicativos de
+ 01:23:07
+
+banco eles fazem parece que fazem
+ 01:23:09
+
+questão de cada vez ficar mais diferente
+ 01:23:11
+
+mais impossível de se achar as coisas
+ 01:23:13
+
+então existe um grupo muito eh muito
+ 01:23:14
+
+susceptível a essas incoerências eh de
+ 01:23:16
+
+interface que são os idosos ou aqueles
+ 01:23:20
+
+como eu que já estou ficando eu já sou
+ 01:23:22
+
+idoso na verdade não é e eu sei como é que
+ 01:23:24
+
+dá trabalho de você aha eu vou ter que
+ 01:23:26
+
+aprender como é que mexe isso agora
+ 01:23:27
+
+Nessa altura da vida então Eng gêneros
+ 01:23:29
+
+de software não deixa de ter a parceria
+ 01:23:32
+
+desses eh usuários fundamentais pro
+ 01:23:34
+
+nosso trabalho nessa área rural e sem
+ 01:23:37
+
+dizer que o os produtores extensionistas
+ 01:23:39
+
+depois que eu comecei a trabalhar com
+ 01:23:42
+
+professor Zuin eles têm uma riqueza de
+ 01:23:44
+
+conhecimento que extrapola milhões a
+ 01:23:46
+
+nossa a nossa percepção como
+ 01:23:49
+
+desenvolvedor eh e e e produtores rurais
+ 01:23:51
+
+e extensionistas não percam tempo não
+ 01:23:55
+
+pensem que vocês estão eh eh eh em
+ 01:23:57
+
+dívida com ninguém por não conseguir
+ 01:24:00
+
+acessar um site o site precisaria está
+ 01:24:01
+
+disponível para você
+ 01:24:04
+
+obrigado muito bom muito bom e assim
+ 01:24:06
+
+seramos mais uma live aí da dessa grande
+ 01:24:09
+
+parceria com a grupo da rede Aurora de
+ 01:24:14
+
+diálogos em até digital lembrando então
+ 01:24:16
+
+que toda quarta-feira nesse mesmo
+ 01:24:19
+
+horário nesse mesmo canal estamos aqui
+ 01:24:21
+
+com mais algum especialista na grande
+ 01:24:23
+
+área de extensão Rural compartilhando
+ 01:24:26
+
+conhecimentos e experiências conosco um
+ 01:24:28
+
+abraço e até a próxima quarta-feira
+ 01:24:31
+
+tchau tchau rede Aurora diálogos em até
+ 01:24:33
+
+digital na América Latina
+ 01:24:37

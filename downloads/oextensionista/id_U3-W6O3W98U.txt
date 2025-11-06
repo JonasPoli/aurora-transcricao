@@ -1,0 +1,8 @@
+video_id: U3-W6O3W98U
+video_url: https://www.youtube.com/watch?v=U3-W6O3W98U
+title: #motivação #deus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/05/2025

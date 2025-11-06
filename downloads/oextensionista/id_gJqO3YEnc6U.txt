@@ -1,0 +1,8 @@
+video_id: gJqO3YEnc6U
+video_url: https://www.youtube.com/watch?v=gJqO3YEnc6U
+title: Associação de Produtores de vinhos finos
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/29/2024

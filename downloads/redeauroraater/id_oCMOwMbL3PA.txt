@@ -1,0 +1,8 @@
+video_id: oCMOwMbL3PA
+video_url: https://www.youtube.com/watch?v=oCMOwMbL3PA
+title: Lançamento do Livro – Caminhos e Olhares sobre a Ater Digital
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/20/2023

@@ -1,0 +1,8 @@
+video_id: M4_a1mBAt8k
+video_url: https://www.youtube.com/watch?v=M4_a1mBAt8k
+title: #caipira #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2025

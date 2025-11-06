@@ -1,0 +1,8 @@
+video_id: vHRf-RZEl2g
+video_url: https://www.youtube.com/watch?v=vHRf-RZEl2g
+title: #motivação #roça #trabalho
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/19/2025

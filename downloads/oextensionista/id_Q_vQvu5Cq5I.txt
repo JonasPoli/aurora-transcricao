@@ -1,0 +1,8 @@
+video_id: Q_vQvu5Cq5I
+video_url: https://www.youtube.com/watch?v=Q_vQvu5Cq5I
+title: #dados #ciencia
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/18/2025

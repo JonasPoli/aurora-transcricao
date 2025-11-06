@@ -1,0 +1,9 @@
+video_id: 9vMqSO2uGr4
+video_url: https://www.youtube.com/watch?v=9vMqSO2uGr4
+title: Diálogos digitais: as organizações brasileiras de ater e as ações de comunicação via internet
+uploader: O Extensionista
+speaker: Carolina Darcie– CATI-SP
+Lattes: http://lattes.cnpq.br/0347264271056878
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/27/2023

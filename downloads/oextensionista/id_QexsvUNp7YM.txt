@@ -1,0 +1,8 @@
+video_id: QexsvUNp7YM
+video_url: https://www.youtube.com/watch?v=QexsvUNp7YM
+title: #reflexão #oração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/01/2025

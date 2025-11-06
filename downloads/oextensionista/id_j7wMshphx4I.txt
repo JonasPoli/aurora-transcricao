@@ -1,0 +1,8 @@
+video_id: j7wMshphx4I
+video_url: https://www.youtube.com/watch?v=j7wMshphx4I
+title: #roça #caminhoparaumavidamelhor #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/03/2025

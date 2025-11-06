@@ -1,0 +1,8 @@
+video_id: Rdjv9G9CH1w
+video_url: https://www.youtube.com/watch?v=Rdjv9G9CH1w
+title: Posturas dialógicas para técnico-educador #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2023

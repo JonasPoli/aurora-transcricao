@@ -1,0 +1,8 @@
+video_id: lOakVGmEBzk
+video_url: https://www.youtube.com/watch?v=lOakVGmEBzk
+title: #roça #extensão #pesquisa
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

@@ -1,0 +1,8 @@
+video_id: C5eHrbWxxmU
+video_url: https://www.youtube.com/watch?v=C5eHrbWxxmU
+title: #roça #videomaker
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/24/2025

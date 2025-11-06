@@ -1,0 +1,8 @@
+video_id: o_Spxw5XDnA
+video_url: https://www.youtube.com/watch?v=o_Spxw5XDnA
+title: #roça #saude #dinheiro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/21/2025

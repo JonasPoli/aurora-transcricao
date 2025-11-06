@@ -1,0 +1,8 @@
+video_id: tlHIJswpzyY
+video_url: https://www.youtube.com/watch?v=tlHIJswpzyY
+title: Divulgação científica voltada ao público rural -  Jéssica Dayane Nunes Pessôa
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/04/2022

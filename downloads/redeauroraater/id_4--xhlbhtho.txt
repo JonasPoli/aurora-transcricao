@@ -1,0 +1,8 @@
+video_id: 4--xhlbhtho
+video_url: https://www.youtube.com/watch?v=4--xhlbhtho
+title: Como é a acessibilidade dos agricultores pelos aplicativos e o uso da gamificação na Ater Digital?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/07/2022

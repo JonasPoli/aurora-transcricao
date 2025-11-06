@@ -1,0 +1,8 @@
+video_id: BOWOJ8-Ih4I
+video_url: https://www.youtube.com/watch?v=BOWOJ8-Ih4I
+title: #roça #pecuaria
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2025

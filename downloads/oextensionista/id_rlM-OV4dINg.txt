@@ -1,0 +1,8 @@
+video_id: rlM-OV4dINg
+video_url: https://www.youtube.com/watch?v=rlM-OV4dINg
+title: #gaucho #roça #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/27/2025

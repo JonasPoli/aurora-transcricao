@@ -1,0 +1,9 @@
+video_id: ydsS9JJLkkg
+video_url: https://www.youtube.com/watch?v=ydsS9JJLkkg
+title: Metodologias participativas na Extensão Rural no contexto do Semiárido Brasileiro
+uploader: O Extensionista
+speaker: Helder Ribeiro Freitas – UNIVASF
+Lattes: http://lattes.cnpq.br/1667909181096511
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/07/2024

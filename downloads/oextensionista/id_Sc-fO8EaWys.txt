@@ -1,0 +1,8 @@
+video_id: Sc-fO8EaWys
+video_url: https://www.youtube.com/watch?v=Sc-fO8EaWys
+title: #reflexão #estrada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/05/2025

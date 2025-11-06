@@ -1,0 +1,4532 @@
+Olá a todos e todos os extensionistas
+ 00:00:02
+
+Rais agricultores e agricultoras jovens
+ 00:00:04
+
+Rais pesquisadores professores de
+ 00:00:07
+
+extensão ral acadêmicos e demais
+ 00:00:10
+
+públicos aqui presentes sejam todos
+ 00:00:12
+
+muito bem-vindos meu nome é zaquel redim
+ 00:00:14
+
+professor de extensão Rural e quem está
+ 00:00:17
+
+aqui hoje conosco é o Professor luí
+ 00:00:19
+
+Fernando Soares Zuin da USP o fundador
+ 00:00:20
+
+da ar Aurora juntamente com o nosso
+ 00:00:23
+
+grande convidado de hoje que é o Carlos
+ 00:00:25
+
+Guedes da mgi de car todos aqui
+ 00:00:28
+
+excelentes profissionais na área de
+ 00:00:30
+
+extensão rural no Brasil e É nesse dia
+ 00:00:32
+
+11 de setembro estamos mais um evento do
+ 00:00:34
+
+ciclo de diálogos em até digital
+ 00:00:37
+
+Semeando propostas compartilhando
+ 00:00:40
+
+saberes nossos eventos buscam
+ 00:00:42
+
+identificar e propor caminhos
+ 00:00:45
+
+metodológicos para Os Atuais elementos e
+ 00:00:46
+
+condicionantes que determinam os
+ 00:00:49
+
+processos de transferência e
+ 00:00:51
+
+compartilhamento de novas tecnologias
+ 00:00:53
+
+nos territórios Rais da América Latina
+ 00:00:55
+
+da África e alguns países Como Portugal
+ 00:00:57
+
+a Espanha em Luxemburgo a palestra de
+ 00:01:00
+
+hoje é intitulada
+ 00:01:02
+
+aer ferramentas digitais e Agricultura
+ 00:01:04
+
+Familiar quem controla quem nosso
+ 00:01:07
+
+palestrante é o Carlos Mário Guedes de
+ 00:01:10
+
+Guedes essa Live é uma iniciativa do
+ 00:01:12
+
+portal extensionista e da rede Aurora de
+ 00:01:14
+
+diálogos em até digital na América
+ 00:01:17
+
+Latina e com todos os apoiadores que
+ 00:01:18
+
+vocês podem conferir aqui na descrição
+ 00:01:21
+
+desse vídeo sejam todos muito bem-vindos
+ 00:01:23
+
+Professor Zuin Guedes é um prazer vocês
+ 00:01:25
+
+estarem aqui compartilhando seus
+ 00:01:28
+
+conhecimentos conosco desde já o nosso
+ 00:01:30
+
+Muito obrigado já Deão passo a palavra a
+ 00:01:32
+
+professor Zuin bom dia a todos e a todas
+ 00:01:34
+
+é um prazer muito grande estar aqui com
+ 00:01:37
+
+vocês hoje tenho certeza que a gente vai
+ 00:01:38
+
+aprender muito com o Carlos não é e e ele
+ 00:01:40
+
+já falou pra gente nos Bastidores que
+ 00:01:44
+
+vai fazer algumas provocações Isso é
+ 00:01:45
+
+muito bom pra gente pensar não é como que a
+ 00:01:47
+
+gente qual tipo de ater não é qual serviço
+ 00:01:50
+
+de ater que a gente quer no nossos
+ 00:01:53
+
+territórios rurais Carlos seja muito
+ 00:01:54
+
+bem-vindo a essa manhã de quarta-feira
+ 00:01:57
+
+tá palavra é
+ 00:01:59
+
+sua Bom primeiramente Um bom dia a todos
+ 00:02:01
+
+e todas que nos acompanham aqui uma
+ 00:02:04
+
+abraço eh eh muito fraterno aos
+ 00:02:07
+
+professores Ezequiel e zuin que me
+ 00:02:11
+
+convidaram para essa para esse desafio
+ 00:02:14
+
+porque esse é um tema que eu
+ 00:02:17
+
+particularmente eh não trato tanto do
+ 00:02:20
+
+ponto de vista eh eh de formulação mas
+ 00:02:22
+
+tem o contato cotidiano não é todos nós que
+ 00:02:25
+
+trabalhamos no meio Rural não é sabemos da
+ 00:02:29
+
+importância da relevância não é e da
+ 00:02:32
+
+abrangência do trabalho da assistência
+ 00:02:35
+
+técnica e extensão Rural não é Eh eh e aí
+ 00:02:38
+
+eu eu quero um pouco confundir aqui a
+ 00:02:42
+
+minha apresentação com as meus pontos de
+ 00:02:45
+
+contato com a terra não é quer dizer eu
+ 00:02:47
+
+tive quando Trabalhei na na na
+ 00:02:49
+
+prefeitura aqui de Porto Alegre nós
+ 00:02:52
+
+tínhamos um programa Municipal de
+ 00:02:53
+
+abastecimento e a imater localizada em
+ 00:02:55
+
+Porto Alegre na capital do Rio Grande do
+ 00:02:59
+
+Sul tinha um papel muito importante
+ 00:03:00
+
+daquilo que a gente conhecia Antigamente
+ 00:03:02
+
+como Cinturão Verde não é ou a
+ 00:03:03
+
+caracterização de área rural Porto
+ 00:03:06
+
+Alegre é uma das capitais do Brasil com
+ 00:03:08
+
+maior área rural eh eh ainda não é Eh eh
+ 00:03:09
+
+definida e e existente não é Depois quando
+ 00:03:13
+
+trabalhei no Governo do Estado do Rio
+ 00:03:17
+
+Grande do Sul na gestão do governador
+ 00:03:19
+
+Lívio Dutra tive a oportunidade de ter
+ 00:03:20
+
+contato com pessoas maravilhosas da
+ 00:03:23
+
+Emater não é o presidente na época Lino de
+ 00:03:25
+
+Davi os ores técn do Francisco Caporal
+ 00:03:28
+
+não é e e e e uma e uma formulação muito
+ 00:03:32
+
+desafiadora sobre o papel da
+ 00:03:36
+
+agroecologia não é no âmbito da Agricultura
+ 00:03:38
+
+Familiar não é Eh eh e tivemos desafios
+ 00:03:40
+
+importantes os em que a Emater teve um
+ 00:03:45
+
+papel fundamental na implantação de um
+ 00:03:48
+
+programa financiado pelo Banco Mundial
+ 00:03:51
+
+de combate à pobreza Rural não é então o
+ 00:03:53
+
+papel da extensão Rural não só na AB
+ 00:03:56
+
+agem produtiva mas do do âmbito do do do
+ 00:03:59
+
+bem-estar Social no âmbito eh eh da
+ 00:04:03
+
+própria geração de tecnologias para a a
+ 00:04:06
+
+a a autonomia dos Agricultores Foi um
+ 00:04:10
+
+momento bem expressivo na sequência tive
+ 00:04:12
+
+oportunidade de acompanhar o então
+ 00:04:15
+
+primeiro ministro do ministério de
+ 00:04:18
+
+Desenvolvimento Agrário na gestão do
+ 00:04:19
+
+presidente Lula não é o Miguel Rosseto na
+ 00:04:23
+
+eh no no Ministério do Desenvolvimento
+ 00:04:27
+
+Agrário e lá não é Eh tive a oportunidade
+ 00:04:30
+
+de conhecer não é o quanto estava
+ 00:04:34
+
+desestruturada a a a proposta de
+ 00:04:37
+
+assistência técnica extensão Rural Então
+ 00:04:40
+
+se recuperou o departamento de
+ 00:04:42
+
+assistência técnica extensão Rural eh
+ 00:04:43
+
+dentro do MDA não é Eh eh na no Incra nós
+ 00:04:45
+
+tivemos a oportunidade de criar por
+ 00:04:49
+
+dentro do segundo plano nacional de
+ 00:04:52
+
+reforma agrária o serviço de assistência
+ 00:04:54
+
+técnica eh eh eh eh de abrangência eh
+ 00:04:56
+
+agroecológica e social a ates chamada
+ 00:05:01
+
+ates não é tive a oportunidade de ser o
+ 00:05:03
+
+primeiro eh eh eh superintendente do
+ 00:05:06
+
+INCRA na época a assinar a primeira a
+ 00:05:09
+
+primeira eh Norma de execução desse novo
+ 00:05:11
+
+serviço dentro da reforma agrária não é e
+ 00:05:14
+
+na sequência acompanhei a a evolução
+ 00:05:17
+
+crescimento de orçamento e e e e e e
+ 00:05:19
+
+fundamentalmente a criação da anater já
+ 00:05:22
+
+ali no ano de 2015 com Ministro eh PEP
+ 00:05:25
+
+Vargas não é 2014 não é nater fez agora pouco
+ 00:05:29
+
+tempo 10 anos da sua criação então é
+ 00:05:32
+
+nesse contexto e agora trabalhando no
+ 00:05:36
+
+ministério da gestão e inovação eu que
+ 00:05:39
+
+sou servidor de carreira do INCRA não é Eh
+ 00:05:41
+
+eh mas estou cedido ao Ministério da
+ 00:05:45
+
+gestão e inovação no
+ 00:05:47
+
+eh dentro da diretoria do cadastro
+ 00:05:49
+
+ambiental Rural não é E sei do trabalho da
+ 00:05:52
+
+Emater e das Emater e da assistência
+ 00:05:55
+
+técnica n esse eh trabalho grandioso que
+ 00:05:58
+
+foi de povoamento da malha hoje que nós
+ 00:06:01
+
+conhecemos do cadastro ambiental Rural
+ 00:06:04
+
+mais de 7 milhões de imóveis cadastrados
+ 00:06:06
+
+nós estamos falando aí de uma área de
+ 00:06:09
+
+600 600 e poucos milhões de hectares não é
+ 00:06:11
+
+Eh eh cadastradas dentro do dentro do
+ 00:06:15
+
+car e muito desse trabalho de
+ 00:06:18
+
+cadastramento é da extensão Rural não é e e
+ 00:06:20
+
+é muito interessante por quê Porque via
+ 00:06:24
+
+de regra a gente eh eh quando olha a
+ 00:06:26
+
+propriedade rural a gente acaba olhando
+ 00:06:29
+
+ela por partes não é a parte produtiva a
+ 00:06:31
+
+parte que tem que ser conservada a parte
+ 00:06:35
+
+da moradia não é e o Car eh eh eh propiciou
+ 00:06:37
+
+uma visão de conjunto da propriedade
+ 00:06:42
+
+quando você emite a a a declaração do
+ 00:06:44
+
+car você se sente não é na condição de que
+ 00:06:47
+
+vê a propriedade como um todo não é e e e
+ 00:06:51
+
+ninguém melhor que o extensionista Rural
+ 00:06:54
+
+para poder fazer esse tipo de abordagem
+ 00:06:56
+
+não é Essa visão de totalidade não é Eh e isso
+ 00:06:58
+
+a gente tem visto não é no no no trabalho
+ 00:07:02
+
+do car não é e e aonde eu estou
+ 00:07:04
+
+lotado eh até então eu tive um um
+ 00:07:08
+
+intercurso agora nos últimos 4 meses que
+ 00:07:12
+
+tive que contribuí contribuí aqui com a
+ 00:07:14
+
+do Rio Grande do Sul com o ministério da
+ 00:07:17
+
+da da da reconstrução aonde mais uma vez
+ 00:07:20
+
+vimos não é a relevância do trabalho dos
+ 00:07:23
+
+extensionistas na identificação das
+ 00:07:26
+
+perdas das dos danos não é da do impacto da
+ 00:07:29
+
+catástrofe ambiental aqui aqui no Rio
+ 00:07:32
+
+Grande do Sul e do papel dos
+ 00:07:35
+
+extensionistas na reconstrução não é Nós
+ 00:07:37
+
+estamos nesse momento com fortes
+ 00:07:40
+
+políticas públicas de renegociação de
+ 00:07:42
+
+dívidas de acesso a crédito e de eh eh
+ 00:07:44
+
+avaliação não é dos impactos das
+ 00:07:48
+
+propriedades a própria matéria do Rio
+ 00:07:50
+
+Grande do Sul nos ofereceu um primeiro
+ 00:07:52
+
+relatório que agora tá sendo qualificado
+ 00:07:54
+
+junto com a Embrapa não é Eh e esse
+ 00:07:56
+
+trabalho da reconstrução a gente
+ 00:07:59
+
+conseguiu mais uma vez não é reafirmar o
+ 00:08:01
+
+papel da extensão Rural e verificar a
+ 00:08:04
+
+relevância desse serviço público de
+ 00:08:07
+
+assistência técnica extensão Rural e É
+ 00:08:09
+
+nesse contexto que eu trago algumas não é
+ 00:08:12
+
+Eh eh eh contribuições aqui pro nosso
+ 00:08:14
+
+debate não como eu já disse pros
+ 00:08:18
+
+professores já não eu não fiz uma
+ 00:08:20
+
+apresentação formal que o pessoal
+ 00:08:23
+
+geralmente tá acostumado a a a a a a
+ 00:08:24
+
+assistir mas mas trago alguns pontos de
+ 00:08:28
+
+de de reflexão sobre o tema que foi não é
+ 00:08:31
+
+provocado para mim porque ele é muito
+ 00:08:35
+
+atual ele é muito relevante não é e ele ele
+ 00:08:37
+
+também é definidor não é de uma de Para
+ 00:08:40
+
+onde vamos não é com o meio Rural eh eh
+ 00:08:43
+
+brasileiro e o papel da extensão Rural E
+ 00:08:46
+
+aí eu queria fazer um ponto de partida
+ 00:08:49
+
+na conversa não é Eh eh que é essa relação
+ 00:08:51
+
+entre seres humanos e natureza não é acho
+ 00:08:55
+
+que eh eh Vivemos um contexto seja pela
+ 00:08:58
+
+enchente no no no Rio Grande do Sul seja
+ 00:09:02
+
+pela elela evolução das queimadas não é no
+ 00:09:05
+
+conjunto do país em especial na Amazônia
+ 00:09:09
+
+que estamos assistindo eh eh eh no
+ 00:09:11
+
+momento não é Eh eh eh nós precisamos ter
+ 00:09:15
+
+um ponto de partida de reflexão que é
+ 00:09:18
+
+essa relação entre os seres humanos e a
+ 00:09:20
+
+natureza não é E essa relação ela é mediada
+ 00:09:22
+
+pelo trabalho não é pelo trabalho humano não é
+ 00:09:26
+
+e e e de alguma maneira esse trabalho
+ 00:09:29
+
+humano ele é motivado pela necessidade
+ 00:09:33
+
+humana não é Eh e historicamente nós
+ 00:09:35
+
+estabelecemos essa relação como uma
+ 00:09:39
+
+hierarquia não é os seres humanos acima da
+ 00:09:41
+
+natureza dependendo da natureza não é para
+ 00:09:45
+
+poder não é tirar dali não só o alimento
+ 00:09:48
+
+mas todas as os frutos não é do do do do
+ 00:09:52
+
+desse trabalho e mas com pouco as
+ 00:09:56
+
+reflexões acerca da necessidade da
+ 00:09:59
+
+natureza poder se manter se regenerar não é
+ 00:10:02
+
+e e e e de de certa forma ser uma uma
+ 00:10:05
+
+supridora permanente das necessidades
+ 00:10:09
+
+humanas não é então esse primeiro aspecto
+ 00:10:11
+
+do ponto de vista da relação entre seres
+ 00:10:14
+
+humanos e natureza não é mediado pelo
+ 00:10:18
+
+trabalho não é Eh eh eh você já vê de cara
+ 00:10:21
+
+aqui o trabalho da extensão Rural e da
+ 00:10:25
+
+assistência técnica não é que é o trabalho
+ 00:10:27
+
+da melhor orientação possível do ponto
+ 00:10:30
+
+de vista desse relacionamento que se
+ 00:10:32
+
+estabelece cotidianamente que se
+ 00:10:33
+
+estabelece eh eh eh eh a partir não é da da
+ 00:10:36
+
+da Necessidade humana não é E aqui vem um
+ 00:10:41
+
+um um aspecto relevante que é o seguinte
+ 00:10:45
+
+não é as necessidades humanas não é elas se
+ 00:10:47
+
+tornaram muito mais complexas ao longo
+ 00:10:50
+
+do tempo não é e fundamentalmente num certo
+ 00:10:52
+
+período eh eh para cá não é Elas de alguma
+ 00:10:56
+
+maneira são motivadas não é pela pelo a a
+ 00:10:58
+
+acumulação pelo pelo lucro pela eh a
+ 00:11:02
+
+possibilidade de expansão não é Eh eh
+ 00:11:05
+
+produtiva não é E que muitas vezes a gente
+ 00:11:09
+
+vai de eh de alguma maneira postergando
+ 00:11:11
+
+não é e tornando mais elástica não só a a
+ 00:11:14
+
+necessidade de trabalho seja aquele
+ 00:11:18
+
+trabalho do contato direto entre não é
+ 00:11:21
+
+entre os trabalhadores e as
+ 00:11:23
+
+trabalhadoras e a natureza a terra a
+ 00:11:25
+
+floresta as águas não é Eh como também
+ 00:11:28
+
+aquele trabalho que já não é mais feito
+ 00:11:33
+
+manualmente não é Eh eh mas ele foi
+ 00:11:35
+
+produzido também por um trabalho humano
+ 00:11:38
+
+não é quando você pega uma máquina pega um
+ 00:11:40
+
+drone pega uma uma tecnologia de ponta
+ 00:11:42
+
+eh eh ela teve lá n na sua origem um
+ 00:11:45
+
+trabalho humano e que de alguma maneira
+ 00:11:48
+
+não é É é deslocado para aquele momento de
+ 00:11:51
+
+contato entre não é a a a a relação de
+ 00:11:54
+
+trabalho eh eh com a natureza e foi a
+ 00:11:57
+
+partir disso que eu não é sugeri pros
+ 00:12:00
+
+professores aqui que nos nos acolhem
+ 00:12:03
+
+nesse nesse espaço se não era o momento
+ 00:12:06
+
+da gente conversar em especial no na na
+ 00:12:09
+
+questão que envolve a agricultura
+ 00:12:11
+
+familiar que é intensiva em trabalho
+ 00:12:13
+
+como tem como uma das suas
+ 00:12:15
+
+características não é a intensividade no no
+ 00:12:17
+
+no no no trabalho não é Eh eh eh se a gente
+ 00:12:20
+
+está utilizando as ferramentas não é Eh de
+ 00:12:24
+
+Tecnologia de Inteligência Artificial os
+ 00:12:28
+
+novos mecanismos não é para garantir
+ 00:12:30
+
+autonomia aos agricultores e ao trabalho
+ 00:12:33
+
+que é desenvolvido com eles eh
+ 00:12:37
+
+relacionado com a natureza e também
+ 00:12:39
+
+dessa forma associado a isso se nós
+ 00:12:41
+
+estamos conseguindo eh eh eh passar uma
+ 00:12:44
+
+mensagem de que essa autonomia também
+ 00:12:47
+
+significa espaço de regeneração paraa
+ 00:12:50
+
+natureza ou se nós estamos fazendo um
+ 00:12:53
+
+outro movimento que é um movimento na
+ 00:12:55
+
+qual o trabalho e a natureza estão
+ 00:12:58
+
+subordinados a uma outra lógica e que
+ 00:12:59
+
+essa outra lógica muitas vezes esgarça
+ 00:13:02
+
+essas relações do ponto de vista da
+ 00:13:04
+
+necessidade de você trabalhar cada vez
+ 00:13:06
+
+mais e isso não tem nada a ver com o
+ 00:13:09
+
+esforço individual das pessoas com a sua
+ 00:13:11
+
+dedicação em conseguir botar a comida na
+ 00:13:14
+
+na na na sua família mas é sobre a
+ 00:13:17
+
+maneira de quem se apropria do fruto
+ 00:13:20
+
+desse trabalho não é e também da natureza
+ 00:13:22
+
+não é de que da necessidade de você avançar
+ 00:13:25
+
+um pouquinho mais naquela área que eh
+ 00:13:29
+
+ela ela tem uma restrição de caráter
+ 00:13:31
+
+ambiental mas ao mesmo tempo ela se
+ 00:13:34
+
+oferece dentro da propriedade como uma
+ 00:13:36
+
+última alternativa para o agricultor ter
+ 00:13:38
+
+uma renda e poder assumir seus
+ 00:13:41
+
+compromissos e atender suas necessidades
+ 00:13:43
+
+não é E que a natureza de alguma maneira
+ 00:13:46
+
+ela não usa os mesmos mecanismos que os
+ 00:13:50
+
+seres humanos usam para reagir não é a
+ 00:13:53
+
+natureza não grita ela pode eh eh eh se
+ 00:13:55
+
+expressar de outras maneiras não é mas a
+ 00:13:59
+
+natureza em algum momento ela revela não é
+ 00:14:01
+
+a sua a a a a as suas necessidades e as
+ 00:14:04
+
+e fundamentalmente a forma com que ela
+ 00:14:08
+
+eh vem sendo tratada e a gente nunca
+ 00:14:10
+
+pode eh tirar não é da tela não é Eh eh eh a
+ 00:14:13
+
+forma com que a natureza vem eh eh
+ 00:14:19
+
+reagindo em especial não é no último
+ 00:14:23
+
+período em especial no Brasil que que
+ 00:14:26
+
+que que que se orgulha de ter não é uma das
+ 00:14:29
+
+eh eh eh eh eh características não é ter
+ 00:14:32
+
+uma natureza biodiversa eh e de e de de
+ 00:14:36
+
+de caracterização de Flora e de fauna
+ 00:14:40
+
+como muito poucas Nações tem não é e que
+ 00:14:43
+
+nesse contexto é que a gente Traz essa
+ 00:14:47
+
+essa provocação quem controla quem e
+ 00:14:50
+
+aqui ponto de partida não é nosso que seria
+ 00:14:53
+
+a a a as ferramentas
+ 00:14:56
+
+a inteligência artificial a
+ 00:14:59
+
+conectividade todas essas ferramentas
+ 00:15:01
+
+que auxiliam o trabalho humano na
+ 00:15:04
+
+mediação da natureza não é Eh eh
+ 00:15:06
+
+eh elas estarem contribuindo para a
+ 00:15:09
+
+autonomia não é dos agricultores para que a
+ 00:15:13
+
+penosidade do trabalho diminua para que
+ 00:15:15
+
+eles tenham melhores informações do
+ 00:15:18
+
+ponto de vista de custos de produção não é
+ 00:15:21
+
+e de transformação o uso de melhores
+ 00:15:23
+
+tecnologias não é ou seja eh eh eh a
+ 00:15:26
+
+adaptação dos Agricultores no contexto
+ 00:15:30
+
+Rural que conhecemos hoje em que tem uma
+ 00:15:33
+
+menor oferta de trabalho não é humano visto
+ 00:15:35
+
+todo o processo de deslocamento
+ 00:15:39
+
+principalmente dos mais jovens buscando
+ 00:15:41
+
+eh eh eh alternativas a trabalho eh no e
+ 00:15:43
+
+educação eh eh no meio urbano não é Então
+ 00:15:47
+
+as ferramentas de alguma maneira elas
+ 00:15:51
+
+elas podem nos podem auxiliar não é os
+ 00:15:54
+
+gestores das propriedades a a a as
+ 00:15:57
+
+pessoas que respondem não é por aquele
+ 00:15:59
+
+aquele imóvel rural na a questão do
+ 00:16:02
+
+melhor uso eh sem necessidade de uma
+ 00:16:05
+
+hora adicional de trabalho para a
+ 00:16:08
+
+execução eh eh daquela tarefa não é a gente
+ 00:16:10
+
+pode também desculpa gente eh eh
+ 00:16:14
+
+imaginar que a gestão digital não é
+ 00:16:17
+
+contribui para essa condição de
+ 00:16:22
+
+autonomia não é Para que o agricultor possa
+ 00:16:24
+
+eh eh tendo um conjunto de informações
+ 00:16:27
+
+disponíveis não é e a gente sabe que nesse
+ 00:16:31
+
+mundo digitalizado que a gente vive eh
+ 00:16:34
+
+eh eh ter mais informação é sempre
+ 00:16:36
+
+melhor que ter menos informação a
+ 00:16:40
+
+questão o desafio é como eh eh eh
+ 00:16:42
+
+incorporar essas informações não é ou
+ 00:16:46
+
+incorporar esses dados que são
+ 00:16:48
+
+disponíveis e transformar isso em uma
+ 00:16:50
+
+condição de de de melhor bem-estar não é
+ 00:16:53
+
+seja para atividade produtiva seja para
+ 00:16:56
+
+o tempo que vai ser disponível ao ao
+ 00:16:58
+
+convívio da família a roda de chimarrão
+ 00:17:01
+
+ou o que quer que seja não é Para que eh eh
+ 00:17:04
+
+as pessoas não fiquem dependentes não é Eh
+ 00:17:06
+
+terminantemente do do trabalho a ser
+ 00:17:10
+
+desenvolvido e obviamente que as
+ 00:17:13
+
+ferramentas elas contribuem muito nessa
+ 00:17:14
+
+nessa perspectiva não é E aí engatando
+ 00:17:16
+
+nesse tema não é A questão da ferramenta
+ 00:17:19
+
+como facilitadora todos nós idealizamos
+ 00:17:21
+
+uma condição dessas não é Eh eh seja o
+ 00:17:23
+
+computador seja o celular eh eh eh o
+ 00:17:27
+
+Drone não é o conjunto de mecanismos que a
+ 00:17:32
+
+gente identifica e de instrumentos não é
+ 00:17:34
+
+que a gente identifica disponíveis o
+ 00:17:37
+
+nosso a nossa primeira ideia bom é que
+ 00:17:39
+
+elas sejam evidentemente facilitadoras
+ 00:17:41
+
+do nosso dia a dia não é E aqui eh eh tem
+ 00:17:43
+
+dois aspectos que eu que eu já trazia na
+ 00:17:47
+
+provocação principalmente nas primeiras
+ 00:17:50
+
+trocas de mensagem aqui com os
+ 00:17:52
+
+professores não é em que tanto no ambiente
+ 00:17:53
+
+dos custos de transformação e de de
+ 00:17:56
+
+produção não é Vamos chamar aquilo que tá
+ 00:17:58
+
+dentro da Porteira não é muitas vezes o
+ 00:18:01
+
+agricultor se sente surpreendido de que
+ 00:18:04
+
+aquele conhecimento que ele tinha ele
+ 00:18:06
+
+ele tem condições de interagir com essas
+ 00:18:08
+
+esses novos dados e informações
+ 00:18:11
+
+principalmente a caracterização da
+ 00:18:13
+
+situação na eh eh do preço da soja lá
+ 00:18:16
+
+nos Estados Unidos e que reflete aqui na
+ 00:18:19
+
+na escolha que o agricultor faz
+ 00:18:22
+
+cotidianamente não é Eh eh então isso para
+ 00:18:23
+
+dentro da Porteira
+ 00:18:27
+
+permite não é que ele que as ferramentas
+ 00:18:29
+
+possam ser de fato uma facilitadora não é
+ 00:18:32
+
+então esse esse ambiente dos cursos de
+ 00:18:34
+
+produção é um tema que tem que ser
+ 00:18:36
+
+devidamente eh eh eh eh eh entendido
+ 00:18:38
+
+agora tem um outro aspecto que eu chamo
+ 00:18:42
+
+atenção do da do do uso das Ferramentas
+ 00:18:44
+
+da utilidade das Ferramentas não é é aquilo
+ 00:18:47
+
+que a gente chama dos custos de
+ 00:18:49
+
+transação não é Eh e que muitas vezes tá
+ 00:18:51
+
+relacionado não só o que tá dentro da
+ 00:18:55
+
+Porteira mas também o que tá fora da
+ 00:18:56
+
+Porteira depois que o agricultor não é
+ 00:18:58
+
+cumpre a sua tarefa no seu
+ 00:19:00
+
+relacionamento com a natureza de gerar
+ 00:19:02
+
+não é o fruto do do seu trabalho num
+ 00:19:04
+
+alimento ou num eh na numa num num
+ 00:19:07
+
+produto que vai eh eh geral não é a nossa a
+ 00:19:10
+
+nossa vestimenta ou o atendimento de
+ 00:19:14
+
+alguma necessidade eh eh eh usual
+ 00:19:16
+
+essencial nossa não é Eh eh
+ 00:19:19
+
+eh nas transações não é quer dizer do ponto
+ 00:19:23
+
+de vista da formalidade do do próprio
+ 00:19:27
+
+imóvel não é em que você consegue ter
+ 00:19:29
+
+informação de que seu imóvel tá
+ 00:19:32
+
+devidamente registrado lá no no imposto
+ 00:19:34
+
+territorial Rural lá no cadastro do
+ 00:19:36
+
+INCRA no próprio cadastro ambiental
+ 00:19:38
+
+Rural não é se você eh eh tá habilitado A
+ 00:19:40
+
+poder obter um um um financiamento ou o
+ 00:19:44
+
+ou a eh colocar o seu imóvel em garantia
+ 00:19:48
+
+para uma outra atividade que você eh eh
+ 00:19:51
+
+pretenda desenvolver se as condições de
+ 00:19:55
+
+de infraestrutura na na propriedade eh
+ 00:19:58
+
+eh eh a Estrada Vicinal a a Estrada
+ 00:20:02
+
+alimentadora estão em condições de que a
+ 00:20:05
+
+sua produção possa eh eh eh fluir com
+ 00:20:07
+
+com com condições e muitas vezes a gente
+ 00:20:10
+
+observa isso no no no no celular não é se
+ 00:20:12
+
+se se as condições de escoamento elas
+ 00:20:16
+
+estão elas elas estão eh eh adequadas não é
+ 00:20:18
+
+então todo esse conjunto de informações
+ 00:20:23
+
+que permitam o agricultor tomar decisão
+ 00:20:25
+
+são as ferramentas que que nos trazem
+ 00:20:28
+
+esses elementos e obviamente também com
+ 00:20:31
+
+técnicos que estão ah a a treinados e
+ 00:20:33
+
+adaptados para para essa realidade Então
+ 00:20:36
+
+acho que esse primeiro aspecto da nossa
+ 00:20:39
+
+hipótese geral não é de que de que as
+ 00:20:42
+
+ferramentas vê para uma pro bem não é como
+ 00:20:44
+
+a gente gostaria de de dizer ele ele é
+ 00:20:47
+
+saudado e ele é a nossa primeira
+ 00:20:50
+
+percepção não é de do ponto de vista de uma
+ 00:20:53
+
+análise eh desse relacionamento que que
+ 00:20:55
+
+se estabelece entre agricultores não é e eh
+ 00:20:58
+
+eh eh e a natureza porém não é Eh como cada
+ 00:21:03
+
+moeda tem sua cara e sua coroa a gente
+ 00:21:08
+
+não pode eh deixar de eh eh analisar
+ 00:21:10
+
+alguns aspectos eh do ponto de vista de
+ 00:21:15
+
+que em vez de autonomia em vez de
+ 00:21:18
+
+informação não é se a gente também não tá
+ 00:21:21
+
+levando muitas vezes confusão maior
+ 00:21:24
+
+dependência não é e de alguma forma eh eh
+ 00:21:27
+
+eh atingir um objetivo inverso do
+ 00:21:31
+
+inicialmente pensado não é e aqui a gente
+ 00:21:34
+
+eh eh reflete numa conjuntura não é
+ 00:21:37
+
+de de de catástrofe climática e e
+ 00:21:42
+
+mudanças dos preços de grãos não é Se todas
+ 00:21:47
+
+essas informações já não estavam
+ 00:21:52
+
+disponíveis nesses mesmos sistemas não é
+ 00:21:54
+
+que são criados para noa facilitação não é
+ 00:21:57
+
+aí vocês vão pensar bom mas aí não é um
+ 00:22:00
+
+problema da ferramenta é um problema de
+ 00:22:02
+
+Quem interpreta ela mas esse é um ponto
+ 00:22:03
+
+eh eh relevante que cada vez a gente tem
+ 00:22:06
+
+que fazer uma reflexão se eh eh a
+ 00:22:10
+
+ferramenta não é ela ela ela que teria um
+ 00:22:13
+
+uma uma uma característica relativamente
+ 00:22:17
+
+neutra não é Se ela também não está
+ 00:22:21
+
+associada a um propósito específico e
+ 00:22:25
+
+muito muitas vezes esse propósito
+ 00:22:28
+
+específico pode estar relacionado não é a
+ 00:22:29
+
+que a informação mesmo estando
+ 00:22:32
+
+disponível ela não se encontra de forma
+ 00:22:34
+
+inteligível a ser comunicada para quem
+ 00:22:37
+
+mais precisa não é e esse é um ponto eh
+ 00:22:40
+
+relevante do ponto de vista da da
+ 00:22:44
+
+reflexão que a gente tem que fazer não é
+ 00:22:46
+
+porque aí a ferramenta não é
+ 00:22:48
+
+facilitadora não é ela se estabelece num
+ 00:22:50
+
+ponto de inflexão que ela acaba se
+ 00:22:53
+
+tornando um uma uma uma uma uma
+ 00:22:56
+
+ferramenta que leva os agricultores não é
+ 00:22:59
+
+não a uma percepção de de de autonomia
+ 00:23:03
+
+mas há uma necessidade de expansão meio
+ 00:23:07
+
+desenfreada dentro daquele espaço em que
+ 00:23:11
+
+não é o agricultor tem controle não é Por quê
+ 00:23:14
+
+Porque precisa responder a um desafio
+ 00:23:17
+
+concreto não é Vamos pegar o caso da da da
+ 00:23:19
+
+da das das recentes oscilações no preço
+ 00:23:23
+
+da soja não é muitos agricultores foram
+ 00:23:26
+
+pegos de surpresa mas era uma tendência
+ 00:23:29
+
+que se apontava não é Eh eh eh Quais foram
+ 00:23:31
+
+as reflexões objetivas que nós fizemos
+ 00:23:34
+
+não é sobre a necessidade de uma eh eh de
+ 00:23:36
+
+não colocar eh eh eh todos os ovinhos
+ 00:23:41
+
+dentro de uma mesma cesta ou por exemplo
+ 00:23:44
+
+não é ou no caso no nosso caso prático nós
+ 00:23:47
+
+temos basicamente no Rio Grande do Sul
+ 00:23:49
+
+quase 50% da nossa área plantada em soja
+ 00:23:51
+
+então nós nós vivemos situações de de
+ 00:23:54
+
+dependência e de escolhas que elas
+ 00:23:57
+
+também foram fruto dessas ferramentas e
+ 00:24:00
+
+e e de quem não é fazia os inputs eh eh
+ 00:24:02
+
+nessas ferramentas não é E aqui como como
+ 00:24:06
+
+eu tô dizendo ela é uma provocação Ela
+ 00:24:08
+
+não é uma Ela não é uma a ideia de uma
+ 00:24:11
+
+solução A ideia é a gente refletir junto
+ 00:24:13
+
+sobre esses eh eh diferentes aspectos e
+ 00:24:15
+
+diferentes abordagens que a gente pode
+ 00:24:19
+
+ter sobre sobre a natureza outro
+ 00:24:21
+
+elemento importante não é é que obviamente
+ 00:24:23
+
+não é quando a gente fala de tecnologia
+ 00:24:27
+
+desde que o mundo é mundo e desde que o
+ 00:24:29
+
+eh eh eh as tecnologias foram
+ 00:24:31
+
+incorporadas ao trabalho humano nós
+ 00:24:34
+
+estamos falando sim de substituição de
+ 00:24:35
+
+mão deobra não é Nós não estamos falando de
+ 00:24:37
+
+outra coisa não é Então nesse aspecto não é Eh
+ 00:24:39
+
+eh as tecnologias elas oferecem uma
+ 00:24:43
+
+saída rápida a um processo de
+ 00:24:46
+
+deslocamento populacional de mão de obra
+ 00:24:49
+
+dentro do Meio Rural não é mas a gente
+ 00:24:52
+
+também tem que perceber se elas também
+ 00:24:54
+
+não funcionam com como um aspecto de
+ 00:24:56
+
+concentração e exclusão de agricultores
+ 00:24:58
+
+que não adaptados a Essas tecnologias não é
+ 00:25:02
+
+acabam enfrentando dificuldades de
+ 00:25:06
+
+competitividade no meio em que estão
+ 00:25:08
+
+colocados quando a gente Analisa ISO do
+ 00:25:11
+
+ponto de vista individual você pode
+ 00:25:13
+
+dizer claramente não esses agricultores
+ 00:25:15
+
+já estavam mesmo não é no caminho da
+ 00:25:17
+
+exclusão no caminho da seleção não é na
+ 00:25:19
+
+perspectiva de que os melhores ficassem
+ 00:25:22
+
+agora qual é o ponto de eh eh cuidado de
+ 00:25:25
+
+atenção que nós temos nós devemos ter não é
+ 00:25:29
+
+em que eh atividades como atividade
+ 00:25:32
+
+leiteira como atividades que são
+ 00:25:35
+
+intensivas em mão de obra que foi
+ 00:25:37
+
+provado que que por ser intensiva de mão
+ 00:25:39
+
+de obra consegue garantir condições de
+ 00:25:42
+
+sanidade melhor consegue eh eh garantir
+ 00:25:43
+
+eh eh uma melhor qualidade do
+ 00:25:46
+
+produto até que ponto não é a gente eh Ao
+ 00:25:49
+
+estar substituindo mão deobra humana por
+ 00:25:54
+
+eh eh eh eh por tecnologias não é Nós não
+ 00:25:56
+
+estamos enveredando para um caminho que
+ 00:26:00
+
+aumente inclusive o nosso risco de de
+ 00:26:03
+
+segurança alimentar não é então ou seja
+ 00:26:05
+
+isso aqui não é uma eh panaceia não é ela
+ 00:26:09
+
+tem seus dois lados que cabe a nós como
+ 00:26:12
+
+gestores como formuladores de políticas
+ 00:26:15
+
+públicas trazer esse tipo de reflexão não é
+ 00:26:17
+
+para que a gente possa eh eh eh
+ 00:26:20
+
+trabalhar e acho que o aspecto também
+ 00:26:23
+
+relevante é o tema da dependência de
+ 00:26:25
+
+quem Control informação não é já falei
+ 00:26:27
+
+sobre isso antes não é mas eu acho que
+ 00:26:30
+
+quando a gente observa que grande parte
+ 00:26:33
+
+do Brasil Rural e eu tenho acompanhado
+ 00:26:36
+
+alguns estudos que têm sido feitos nesse
+ 00:26:37
+
+sentido não é ainda não tem elementos de
+ 00:26:40
+
+conectividade eh que Garanta uma
+ 00:26:43
+
+transmissão de informações não é que eh
+ 00:26:46
+
+sejam as necessárias para os
+ 00:26:49
+
+agricultores poderem tomar decisão você
+ 00:26:51
+
+cria objetivamente uma assimetria não é de
+ 00:26:54
+
+de ponto de vista de de de de
+ 00:26:56
+
+informações e do ponto de vista da
+ 00:26:59
+
+tomada de decisão não é E isto é um
+ 00:27:00
+
+elemento de vulnerabilidade para os
+ 00:27:03
+
+agricultores não é então assim como a gente
+ 00:27:05
+
+tem vulnerabilidad do ponto de vista de
+ 00:27:08
+
+renda não é de de de condição social
+ 00:27:09
+
+vulnerabilidade climática não é que nós
+ 00:27:13
+
+estamos observando agora eh eh muito
+ 00:27:16
+
+concretamente o Rio Grande do Sul é um
+ 00:27:19
+
+exemplo disso não é Eh eh pelos impactos
+ 00:27:21
+
+que nós vimos não é na na na
+ 00:27:25
+
+em propriedades rurais eh eh eh nas
+ 00:27:36
+
+Beiras dos rios ou em áreas de
+ 00:27:39
+
+deslizamento de de movimentação de
+ 00:27:42
+
+terras são famílias vulneráveis do ponto
+ 00:27:44
+
+de vista climático também a gente
+ 00:27:47
+
+precisa fazer uma reflexão sobre a
+ 00:27:50
+
+vulnerabilidade enquanto acesso à
+ 00:27:51
+
+tecnologias e acesso à informação não é E
+ 00:27:54
+
+que isso pode ser decisivo voltando ao
+ 00:27:57
+
+tema dos custos de transação não é de um
+ 00:27:59
+
+agricultor que não vê outra alternativa
+ 00:28:02
+
+que não seja vender a sua propriedade
+ 00:28:04
+
+porque ele não consegue objetivamente
+ 00:28:06
+
+ficar ali eh eh eh disputando espaço com
+ 00:28:08
+
+um outro contexto diferente do que ele
+ 00:28:12
+
+vivia 20 anos atrás e aí nesse contexto
+ 00:28:14
+
+Ness nessa nesses desafios é muito
+ 00:28:17
+
+importante a gente pensar no seguinte a
+ 00:28:20
+
+agricultura não é Como o próprio nome diz
+ 00:28:22
+
+não é é uma cultura que se carrega durante
+ 00:28:24
+
+longos períodos
+ 00:28:29
+
+não é e muitas vezes nós nós identificamos
+ 00:28:31
+
+uma contradição entre o conhecimento
+ 00:28:35
+
+adquirido por tempos e as novas
+ 00:28:38
+
+tecnologias que são oferecidas e que são
+ 00:28:41
+
+disseminadas por ferramentas dessa forma
+ 00:28:42
+
+quem faz a mediação o equilíbrio entre
+ 00:28:45
+
+essas duas eh eh eh
+ 00:28:48
+
+acho que deu uma pequena queda aí gente
+ 00:29:06
+
+vamos aguardar um pouquinho talvez o
+ 00:29:08
+
+Carlos retorne aí a
+ 00:29:10
+
+conexão e também já convidamos o pessoal
+ 00:29:13
+
+aqui para para vocês estar aí eh
+ 00:29:16
+
+chamando as perguntas e interagindo aí
+ 00:29:19
+
+quando tiver perguntas a gente já pode
+ 00:29:22
+
+fazer ao Carlos sobre essa grande
+ 00:29:23
+
+questão aí da da das feramentas digitais
+ 00:29:26
+
+do acesso conectividade agora voltou
+ 00:29:29
+
+voltou deu duas quedas Carlos A primeira
+ 00:29:31
+
+foi pequenininha A segunda foi maior daí
+ 00:29:34
+
+entrou Desculpa aí gente não sei que com
+ 00:29:37
+
+a minha provedora de tecnologia tava
+ 00:29:40
+
+talvez estivesse falando achando que eu
+ 00:29:42
+
+tava falando mal deles e reagiram aqui
+ 00:29:43
+
+não é Não mas só para concluir não é Eu acho
+ 00:29:46
+
+que esse tema de balanço entre não é a o
+ 00:29:49
+
+conhecimento tradicional e as novas
+ 00:29:52
+
+tecnologias não é o extensionista tem um
+ 00:29:54
+
+papel Central nisso não é quer dizer o o o
+ 00:29:56
+
+o o a memória a história não é as
+ 00:29:59
+
+referências eh eh eh em que vão se não é
+ 00:30:03
+
+contrabalançado Eh com as novas
+ 00:30:07
+
+ferramentas é o é o ponto eh eh
+ 00:30:10
+
+desafiador e ao mesmo tempo de eh eh eh
+ 00:30:13
+
+de elaboração e e formulação da nossa da
+ 00:30:18
+
+nossa da nossa extensão Rural e eu e eu
+ 00:30:21
+
+pelo que eu vejo cotidianamente não é
+ 00:30:24
+
+Eh e eh eh via de regra nossos equipes
+ 00:30:26
+
+de Campo Tem tem tratado isso de uma
+ 00:30:30
+
+forma muito sábia não é Eh em que é
+ 00:30:32
+
+possível ter um celular sem abrir mão não é
+ 00:30:36
+
+das suas referências das suas Memórias
+ 00:30:39
+
+da sua história da sua afirmação não é e em
+ 00:30:42
+
+especial nesse nessa diversidade que é o
+ 00:30:45
+
+que é o rural brasileiro então fica esse
+ 00:30:47
+
+essa essa mensagem final não é de que é um
+ 00:30:50
+
+tema absolutamente desafiador não é de que
+ 00:30:54
+
+o ponto de partida que a gente trabalha
+ 00:30:57
+
+sobre isso é a relação entre seres
+ 00:30:59
+
+humanos e natureza alguma coisa precisa
+ 00:31:01
+
+ser feita diferente do que a gente vem
+ 00:31:04
+
+fazendo não é E que as ferramentas venham
+ 00:31:06
+
+para nos ajudar nesse processo de
+ 00:31:09
+
+eh aumento de informação de de tomar de
+ 00:31:12
+
+decisão e fundamentalmente não de
+ 00:31:15
+
+negação a isso que tá acontecendo não é
+ 00:31:18
+
+então acho que esse é esse essa é a
+ 00:31:20
+
+mensagem que eu gostaria de deixar para
+ 00:31:22
+
+vocês me desculpa se Fi mais longo que o
+ 00:31:24
+
+necessário mas eh eh Esses são os
+ 00:31:26
+
+aspectos que eu podia trazer aqui de
+ 00:31:29
+
+contribuição pro nosso
+ 00:31:31
+
+debate muito bom não que não foi longo
+ 00:31:34
+
+não foi ótimo foi muito bom excelentes
+ 00:31:37
+
+reflexões que precisam ser cada ser
+ 00:31:40
+
+feitas não é em relação a todas essas
+ 00:31:42
+
+questões entre a facilidade e talvez a
+ 00:31:45
+
+os problemas que se derivam do uso das
+ 00:31:49
+
+tecnologias não é Eh digitais então isso aí
+ 00:31:51
+
+é interessante Quando o Carlos estava
+ 00:31:54
+
+falando aqui me Surgiu uma uma questão
+ 00:31:56
+
+aqui eu fiquei pensando não é quando ele
+ 00:32:00
+
+chegou na questão da conectividade que é
+ 00:32:02
+
+um ponto assim fundamental não é e e não
+ 00:32:04
+
+vamos muito não é nem vamos falar dos
+ 00:32:08
+
+Municípios da das enchentes não é Mas vamos
+ 00:32:10
+
+falar de municípios aí que que estão se
+ 00:32:12
+
+instituindo em Universidad tem
+ 00:32:15
+
+Universidade por exemplo tem dificuldade
+ 00:32:17
+
+de ter acesso à internet não é isso a 10 km
+ 00:32:19
+
+do centro da cidade não é então assim essas
+ 00:32:24
+
+de conectividade elas podem ser assim um
+ 00:32:28
+
+um uma mais uma forma de de exclusão
+ 00:32:31
+
+hoje não é porque entre ter o acesso à
+ 00:32:35
+
+informação e não ter o acesso à
+ 00:32:37
+
+informação faz uma grande diferença como
+ 00:32:39
+
+o Carlos pontuou aí sobre a questão do
+ 00:32:40
+
+preço da soja e tal não é E e aí que eu
+ 00:32:42
+
+fico me perguntando entre ter o acesso e
+ 00:32:46
+
+não ter o acesso seria mais um ponto de
+ 00:32:48
+
+disparidade social esse esse ponto aqui
+ 00:32:51
+
+Carlos eu levanto para você tá mais
+ 00:32:53
+
+dialogando aqui com nós mais um
+ 00:32:56
+
+pouquinho sobre essa questão da
+ 00:32:58
+
+conectividade dá mais um exemplo por
+ 00:32:59
+
+exemplo eh propriedades de agricultores
+ 00:33:01
+
+com dificuldades que o cara até tem o
+ 00:33:04
+
+pacote de dados até tem acesso à
+ 00:33:07
+
+internet mas tem dificuldade de
+ 00:33:09
+
+acessá-lo depende da da Onde tá
+ 00:33:11
+
+localizado sua casa a sua propriedade não é
+ 00:33:13
+
+então assim o que que isso pode
+ 00:33:16
+
+influenciar ou dificultar também no dia
+ 00:33:18
+
+a dia na lida do da nossa agricultura não é
+ 00:33:21
+
+Deixa a palavra aí para fazer mais uma
+ 00:33:24
+
+reflexão Não exatamente eu sei que o por
+ 00:33:26
+
+exemplo o Ministério do Desenvolvimento
+ 00:33:29
+
+Agrário tá fazendo estudos nessa linha
+ 00:33:30
+
+não é Eh
+ 00:33:33
+
+eh visando expandir vamos chamar assim
+ 00:33:34
+
+não é Eh eh eh essa infraestrutura não é
+ 00:33:38
+
+digital
+ 00:33:42
+
+não é Se a gente for analisar o o o o eu
+ 00:33:43
+
+fiz questão de falar um pouco sobre a
+ 00:33:46
+
+parte cadastral porque é uma parte que
+ 00:33:48
+
+hoje Depende muito da da internet pro
+ 00:33:49
+
+agricultor poder atualizar o seu
+ 00:33:51
+
+cadastro do INCRA do car da do próprio
+ 00:33:53
+
+ITR não é eh eh eh e essa infraestrutura
+ 00:33:56
+
+digital ela precisa est devidamente eh
+ 00:34:00
+
+coberta não é Ou pelo menos não é expandida no
+ 00:34:03
+
+país para que a gente aquilo que a gente
+ 00:34:07
+
+imagina que poderia chegar aos
+ 00:34:09
+
+agricultores chegue de Fato não é quer
+ 00:34:11
+
+dizer então essa esses Passos não é eles
+ 00:34:13
+
+devem ser cumpridos não é e enquanto eles
+ 00:34:16
+
+não acontecem não é Nós temos esse risco de
+ 00:34:18
+
+termos manchas não é de vulnerabilidade
+ 00:34:21
+
+digital de agricultores não é que são
+ 00:34:25
+
+incorporados a um novo contexto sem ter
+ 00:34:27
+
+a oferta não é necessária eh eh para esse
+ 00:34:30
+
+contexto não é então quando a gente tá
+ 00:34:34
+
+falando do pessoal dos açaizais no baraj
+ 00:34:36
+
+a gente tá falando eh eh eh das
+ 00:34:40
+
+catadoras de de de coco babaçu no
+ 00:34:43
+
+Maranhão não é quer dizer nós estamos
+ 00:34:46
+
+falando de públicos que muitos deles
+ 00:34:48
+
+inclusive estão na fronteira de expansão
+ 00:34:50
+
+agrícola não é Eh eh eh eh e que e que e
+ 00:34:52
+
+que às vezes são assediados não é Por um
+ 00:34:57
+
+novo jeito de se fazer esse tipo de
+ 00:35:00
+
+assédio que é o quê em vez de ter uma
+ 00:35:02
+
+arma ter um celular na mão em que a
+ 00:35:04
+
+informação toda tá disponível por na
+ 00:35:06
+
+parte de quem quer comprar o a a a
+ 00:35:08
+
+propriedade ou ou quer convencer os
+ 00:35:10
+
+agricultores que tem um bom negócio para
+ 00:35:12
+
+fazer não é e do outro lado não tem nenhuma
+ 00:35:14
+
+defesa nenhuma capacidade de de reagir
+ 00:35:17
+
+aquele movimento Inicial não é Por quê
+ 00:35:20
+
+Porque há uma simetria concreta de
+ 00:35:23
+
+informação não é entre um lado e o outro não é
+ 00:35:25
+
+então esses são aspectos importantes que
+ 00:35:28
+
+que que que eu trago do ponto de vista
+ 00:35:30
+
+de uma reflexão e de até de uma
+ 00:35:33
+
+priorização por parte não é dos agentes
+ 00:35:36
+
+públicos não é Eh eh assim como é
+ 00:35:38
+
+importante manter a Estrada Vicinal
+ 00:35:41
+
+funcionando não é com a com com a máquina
+ 00:35:44
+
+lá podendo aplainar quando tem não é um
+ 00:35:47
+
+problema porque tem que sair o leite tem
+ 00:35:49
+
+que sair a produção de lá de dentro
+ 00:35:51
+
+também tem que garantir a conectividade
+ 00:35:53
+
+não é para que os agricultores todes saibam
+ 00:35:55
+
+o que tá acontecendo ou fundamentalmente
+ 00:35:59
+
+chegue as informações que lhes
+ 00:36:00
+
+interessam para poder tomar
+ 00:36:02
+
+decisão é isso me me chama atenção a
+ 00:36:04
+
+gente já tá num momento de reflexão aqui
+ 00:36:08
+
+eu acho que essas coisas são importantes
+ 00:36:09
+
+ser reforçadas não é Eh eu eu lembro que eu
+ 00:36:11
+
+tava nas férias em casa lá na nossa
+ 00:36:14
+
+propriedade em Arroio do Tigre não é Rio
+ 00:36:15
+
+Grande do Sul e aí eu precisava assinar
+ 00:36:17
+
+uma ata não é pelo sougov um simples um
+ 00:36:19
+
+simples assinar uma ata E aí o sougov
+ 00:36:23
+
+ele exige um que cai no teu celular não é
+ 00:36:26
+
+aí que tá a questão aí que tá a questão
+ 00:36:30
+
+porque antes a gente tinha acesso ao
+ 00:36:33
+
+celular dentro da casa você tranquilo o
+ 00:36:36
+
+sinal celular daí por um tempo o sinal
+ 00:36:39
+
+Parece que foi mudando não sei Por quais
+ 00:36:41
+
+motivos não é E aí ele já não pega tão
+ 00:36:43
+
+direito dentro de casa aí o tal do
+ 00:36:46
+
+código a gente tinha internet dentro de
+ 00:36:49
+
+casa lá na agricultura na roça mas o
+ 00:36:51
+
+código não chegava para aí o código
+ 00:36:54
+
+chegava lá no meio da lavoura aí eu Cora
+ 00:36:57
+
+lá na lavoura para rece ver o código
+ 00:37:00
+
+quando eu chegava de volta para colocar
+ 00:37:02
+
+o código lá no computador não é porque era
+ 00:37:04
+
+o celular e computador já tava inspirado
+ 00:37:06
+
+mas aquilo me deu uma
+ 00:37:08
+
+raiva para ver que as dificuldades que
+ 00:37:11
+
+se tem não é Eh de não é só a não é só Ah
+ 00:37:14
+
+vamos resolver com o sinal de rádio
+ 00:37:20
+
+sinal de satélite Não é só isso não é
+ 00:37:22
+
+também vai para fazer todas as
+ 00:37:24
+
+integrações dos os bancos de dados enfim
+ 00:37:26
+
+não é então isso é complicado sabe e
+ 00:37:28
+
+precisamos avançar nisso não é Eh eh vai
+ 00:37:31
+
+precisar de mais investimento porque
+ 00:37:34
+
+senão vai se tornar um profess eu penso
+ 00:37:36
+
+assim que pode se tornar uma um processo
+ 00:37:39
+
+maior de de exclusão e não o fato só o
+ 00:37:41
+
+fato de ter internet também não é um
+ 00:37:44
+
+ponto penso eu assim com a maor
+ 00:37:46
+
+realidade que eu vivo com a com a nossa
+ 00:37:49
+
+família em a r do Tig não é pode ser um
+ 00:37:50
+
+ponto assim que não não te dá e eh
+ 00:37:53
+
+inclusão total não é Eh um exemplo assim um
+ 00:37:56
+
+dia o professor Zuin foi fazer um um uma
+ 00:38:00
+
+aula não é ele sempre fazia as aulas à
+ 00:38:02
+
+noite etc e tal e aí eu fui tentar
+ 00:38:04
+
+assistir a aula com o meu computador lá
+ 00:38:07
+
+com a nossa internet do da do rural era
+ 00:38:09
+
+internet que minha mãe meu pai podiam
+ 00:38:12
+
+pagar o recurso que tinham não é não
+ 00:38:14
+
+consegui não é E aí no outro dia fui pra
+ 00:38:16
+
+cidade fiz um upgrade no plano não é mas aí
+ 00:38:18
+
+tá Ezequiel pode fazer um upgrade alguns
+ 00:38:21
+
+não podem fazer esse upgrade não é então eu
+ 00:38:24
+
+não consegui assistir a aula Professor
+ 00:38:26
+
+zuin naquela noite não é E aí eu fico
+ 00:38:27
+
+pensando pelo fato que hoje nós também
+ 00:38:30
+
+temos aqui nós temos aqui agradecer a
+ 00:38:32
+
+presença aqui de vários participantes
+ 00:38:35
+
+nós temos aqui alunos agricultores e que
+ 00:38:38
+
+que que fazem o curso EAD de
+ 00:38:40
+
+fruticultura e eles também têm essa
+ 00:38:42
+
+dificuldade Porque eles estão escutando
+ 00:38:45
+
+lá de casa e às vezes a Internet falha o
+ 00:38:47
+
+dá um vento cai a luz toda aquela coisa
+ 00:38:50
+
+da infraestrutura não é
+ 00:38:52
+
+Eh então se quer aud viu só para ajudar
+ 00:38:54
+
+uhum eh eh eh e e a gente sempre tem que
+ 00:38:59
+
+lembrar que é o seguinte o o o o a massa
+ 00:39:02
+
+de dados que nós estamos demandando cada
+ 00:39:07
+
+vez mais
+ 00:39:10
+
+não é Ela não ela ela é Ela não é eh eh eh
+ 00:39:11
+
+simples não é pequena não é quer dizer e a
+ 00:39:17
+
+e a e o fluxo de dados não é É de uma
+ 00:39:19
+
+intensidade que eh eh se torna uma
+ 00:39:22
+
+ilusão ah nós temos acesso à internet
+ 00:39:26
+
+bom se você tem um acesso à internet que
+ 00:39:29
+
+não consegue garantir que aquela massa
+ 00:39:31
+
+de dados vai e volte no tempo que você
+ 00:39:34
+
+precisa não é é basicamente um trabalho
+ 00:39:37
+
+morto ali não é quer dizer porque ela tem
+ 00:39:40
+
+mas você não consegue usar não é E e esse é
+ 00:39:42
+
+um aspecto importante porque cada vez
+ 00:39:44
+
+quando a gente tá fornecendo cada vez
+ 00:39:46
+
+mais informação e E alguém vai ter que
+ 00:39:48
+
+tomar decisão sobre Qual informação você
+ 00:39:51
+
+acessa dada a sua limitação no tráfico
+ 00:39:53
+
+de dados não é e e e e talvez aquela
+ 00:39:56
+
+decisão queha sido tomada ela foi
+ 00:39:59
+
+relevante do ponto de vista de uma uma
+ 00:40:02
+
+decisão final que foi mal sucedida não é
+ 00:40:04
+
+então acho que são esses elementos que a
+ 00:40:08
+
+gente traz não é Eh eh do ponto de vista de
+ 00:40:10
+
+infraestrutura não é nem tô falando aqui da
+ 00:40:13
+
+já falei sobre abordagem mas não é mas
+ 00:40:17
+
+especificamente abordagem das
+ 00:40:20
+
+tecnologias junto com o técnico e tal
+ 00:40:21
+
+são relevantes mas esse aspecto
+ 00:40:23
+
+preliminar
+ 00:40:25
+
+não é de você ter saber que existe os dados
+ 00:40:27
+
+já é uma coisa importante saber como
+ 00:40:31
+
+chegar neles e saber se eles vão chegar
+ 00:40:33
+
+para você da forma que você precisa não é
+ 00:40:35
+
+são aspectos absolutamente desafiadores
+ 00:40:39
+
+e não e e hoje faz parte da dinâmica de
+ 00:40:41
+
+uma minoria de de de proprietários
+ 00:40:45
+
+rurais do do nosso país na agricultura
+ 00:40:48
+
+familiar eu diria que também é é um é um
+ 00:40:50
+
+elemento de de de de assimetria bastante
+ 00:40:54
+
+significativo muito bom o o Egídio
+ 00:40:59
+
+Professor São Paulo acabou sua tese na
+ 00:41:02
+
+ter digital tempo dias atrás não é ainda tá
+ 00:41:05
+
+fresquinha tem um livro aí do egido
+ 00:41:08
+
+depois do eg pode pode publicar aí o
+ 00:41:10
+
+link do livro dele é o Egídio fala o
+ 00:41:12
+
+seguinte já passei pelo mesmos problema
+ 00:41:15
+
+mencionado Professor Ezequiel
+ 00:41:16
+
+investimento é fundamental para qualquer
+ 00:41:18
+
+iniciativa em até digital principalmente
+ 00:41:20
+
+disponibilização de conexão
+ 00:41:25
+
+e ele continua penso que a persistência
+ 00:41:28
+
+em falta de recursos para a conexão e o
+ 00:41:31
+
+uso de aplicativos acaba gerando
+ 00:41:34
+
+desestímulo pelos agricultores em
+ 00:41:37
+
+usá-los
+ 00:41:39
+
+é Olha tem tanta coisa envolvida aí que
+ 00:41:41
+
+que eu não sei nem para onde começar não é
+ 00:41:44
+
+Car essa essa era a ideia da da
+ 00:41:47
+
+provocação não é é a mas a a questão da
+ 00:41:49
+
+inclusão digital eu tenho tenho batido
+ 00:41:53
+
+muito nesse ponto assim a inclusão
+ 00:41:56
+
+digital ela ela é tanto tanto quanto
+ 00:41:58
+
+fundamental quanto a conectividade não é não é
+ 00:42:02
+
+porque eh fazer operações simples não é Eh
+ 00:42:04
+
+acho que não sei se a mãe tá me
+ 00:42:09
+
+escutando aí às vezes ela escuta via
+ 00:42:10
+
+Facebook na nossa programação aqui a mãe
+ 00:42:12
+
+mandou um vídeo dizendo assim oh
+ 00:42:15
+
+consegui aprendi a a fazer um vídeo não é
+ 00:42:17
+
+então assim são agricultores não é que
+ 00:42:20
+
+viveram numa outra época que estão se
+ 00:42:22
+
+adaptando ainda a aos elementos
+ 00:42:25
+
+fundamentais do de um celular não é de uma
+ 00:42:28
+
+rede social não é de WhatsApp do então eles
+ 00:42:32
+
+estão aprendendo em processo de
+ 00:42:37
+
+aprendizagem e Nós também sempre estamos
+ 00:42:39
+
+em processo de aprendizagem não é porque E
+ 00:42:42
+
+aí tem uma corção fundamental não é que
+ 00:42:43
+
+nossas nossas redes sociais Nossos
+ 00:42:46
+
+programas toda hora estão em processo de
+ 00:42:48
+
+mudança não é quando você acha que sabe
+ 00:42:50
+
+Eles mudaram não é então também tem esse
+ 00:42:53
+
+grande problema aí não é Então são são
+ 00:42:55
+
+desafios aí que que isso eh complica
+ 00:42:58
+
+também o processo de aprendizagem sobre
+ 00:43:02
+
+sobre a sobre a internet sobre a sobre
+ 00:43:06
+
+as tecnologias digitais em si não é enfim
+ 00:43:10
+
+passo a palavra aí se o Zuin o Carlos
+ 00:43:14
+
+quer dar continuidade
+ 00:43:16
+
+agora Carlos muito bacana a sua palestra
+ 00:43:18
+
+parabéns gostei bastante Carlos quando a
+ 00:43:22
+
+gente pensa na no digital nos
+ 00:43:24
+
+territórios rurais eu penso em dois
+ 00:43:28
+
+grandes grupos não é tá como quando a gente
+ 00:43:30
+
+delimita a comunicação a comunicação
+ 00:43:34
+
+entre humanos e a comunicação entre
+ 00:43:37
+
+máquinas e humanos não é seriam três ali
+ 00:43:40
+
+mas Du dois grandes grupos máquina
+ 00:43:43
+
+máquina máquina humana não é Eh quando a
+ 00:43:46
+
+gente a gente observa tá observando que
+ 00:43:49
+
+por exemplo aqui em Caconde não é onde
+ 00:43:52
+
+aquele projeto não é de proporcionar
+ 00:43:56
+
+internet nos territórios rurais que é a
+ 00:43:58
+
+Fapesp junto com a Embrapa estão fazendo
+ 00:44:02
+
+aqui no norte do estado de São Paulo a
+ 00:44:04
+
+gente tá observando ali que quando entra
+ 00:44:06
+
+a conectividade ela entra para suprir
+ 00:44:09
+
+serviços e suprir a comunicação das
+ 00:44:11
+
+pessoas não é ela não entra pra Agricultura
+ 00:44:14
+
+Familiar pra máquina conversar com
+ 00:44:18
+
+máquina eu não sou contra isso eu quero
+ 00:44:19
+
+que o Drone voe na lavoura da da
+ 00:44:21
+
+agricultura familiar eu quero e quero
+ 00:44:24
+
+que isso um dia tá mas quando ela entra
+ 00:44:26
+
+a primeira vez ela entra pro
+ 00:44:29
+
+pro pra produção agropecuária da família
+ 00:44:32
+
+seja melhor gerenciada ali nos vários
+ 00:44:36
+
+aspectos ela entra para possibilidade de
+ 00:44:40
+
+novos negócios ali da família não é e ela
+ 00:44:44
+
+entra paraa educação dos filhos não é como
+ 00:44:47
+
+qualquer qualquer pessoa ali não é E quando
+ 00:44:50
+
+a gente pensa nesse tipo de comunicação
+ 00:44:53
+
+e nos órgãos públicos a gente tá falando
+ 00:44:55
+
+de serviços não é Queria saber da sua
+ 00:44:58
+
+experiência não é até esse momento como é
+ 00:45:01
+
+que a gente pode e daí o serviço hoje
+ 00:45:04
+
+dos órgãos não é x x públicos não é eles
+ 00:45:06
+
+entram na vida das pessoas por meio dos
+ 00:45:11
+
+aplicativos na sua grande maioria quando
+ 00:45:13
+
+entra pelo WhatsApp entra por meio do de
+ 00:45:17
+
+robozinhos não é ali certo a a questão é e
+ 00:45:21
+
+daí o aplicativo ele tem uma série de
+ 00:45:26
+
+problemas não é já existem pesquisas que
+ 00:45:28
+
+dizem que que Como da como da da Paloma
+ 00:45:31
+
+não é que é uma pesquisador da uma técnica
+ 00:45:37
+
+da Embrapa que defendeu o mestrado não é
+ 00:45:40
+
+que ela mediu que ela viu os aparelhos
+ 00:45:43
+
+celulares dos Agricultores da
+ 00:45:47
+
+Agricultura Familiar no distrito federal
+ 00:45:48
+
+não é ele viu que o celular dessa pessoa
+ 00:45:51
+
+tinha 32 GB de memória em média
+ 00:45:54
+
+32 GB você não faz absolutamente nada
+ 00:45:57
+
+você não tem vida digital não é e os órgãos
+ 00:46:00
+
+públicos eles eles investem muito nessa
+ 00:46:03
+
+questão do aplicativo e de um celular de
+ 00:46:06
+
+32 GB que que ele vai ter ali ele vai
+ 00:46:09
+
+ter o YouTube o WhatsApp e o aplicativo
+ 00:46:11
+
+do banco e acabou não tem mais nada ali
+ 00:46:13
+
+entendeu Talvez um outro ali mas não tem
+ 00:46:15
+
+não dá não rola isso sem falar da
+ 00:46:18
+
+conectividade que metade desses
+ 00:46:20
+
+agricultores que ela entrevistou tinha
+ 00:46:21
+
+problemas de pagar internet em dia o
+ 00:46:23
+
+plano de internet em dia dia com a
+ 00:46:25
+
+operadora não é então ficava sem internet
+ 00:46:27
+
+Então essa questão toda só quando você
+ 00:46:29
+
+fala da precarização é isso que acontece
+ 00:46:31
+
+no campo como você muito bem disse a
+ 00:46:33
+
+questão é E daí e daí é uma pergunta
+ 00:46:36
+
+complicada não é fácil não não é E daí como
+ 00:46:40
+
+é que eles se comunicam eles comunicam
+ 00:46:42
+
+pelo WhatsApp os agricultores como com
+ 00:46:44
+
+todas as pessoas comunicam pelo WhatsApp
+ 00:46:47
+
+não é trabalham pelo WhatsApp não é ali buscam
+ 00:46:49
+
+informações pelo WhatsApp e daí do
+ 00:46:52
+
+WhatsApp também buscam no YouTube no
+ 00:46:54
+
+tiktok e assim por diante não é mas eles se
+ 00:46:57
+
+comunicam como pelo WhatsApp não é pelas
+ 00:46:59
+
+facilidades que T não é Essa questão da
+ 00:47:02
+
+franquia do plano de dados e assim por
+ 00:47:05
+
+diante não é A questão é como que você
+ 00:47:06
+
+acredita não é que os órgãos públicos podem
+ 00:47:10
+
+se aproximar não só dos Agricultores mas
+ 00:47:13
+
+não é n das pessoas não é não sendo por meio
+ 00:47:15
+
+dos aplicativos não é utilizar mais a
+ 00:47:20
+
+ferramenta do WhatsApp você entendeu
+ 00:47:22
+
+ainda mais em momento de crise extrema
+ 00:47:25
+
+que vocês passaram no Rio Grande do Sul
+ 00:47:29
+
+você entendeu que a comunicação Ali era
+ 00:47:31
+
+uma questão de literalmente de vida ou
+ 00:47:33
+
+morte não é das pessoas não é então
+ 00:47:35
+
+eh eh bom essa é minha primeira pergunta
+ 00:47:38
+
+mas eu tenho outras também tá mas
+ 00:47:42
+
+parabéns pela pela sua exposição foi
+ 00:47:45
+
+muito bacana Obrigado Tava eu tava eu
+ 00:47:47
+
+tava também me me me desafiando aqui
+ 00:47:50
+
+porque confesso que a primeira vez que
+ 00:47:53
+
+eu faço uma fala mais inteira sobre Esse
+ 00:47:55
+
+aspecto e tal e e e tava com certo
+ 00:47:57
+
+receio de não não conseguir comunicar não é
+ 00:48:00
+
+adequadamente principalmente com uma
+ 00:48:03
+
+plateia não é que muito qualificada não é
+ 00:48:04
+
+então esse esse é um tema que na Gestão
+ 00:48:08
+
+Pública tá sendo debatido não é Nós criamos
+ 00:48:12
+
+um mar de aplicativos não é quer dizer que
+ 00:48:14
+
+ele ele acaba mais dispersando as
+ 00:48:17
+
+pessoas do que ajudando não é quer dizer as
+ 00:48:21
+
+pessoas não sabem como é que não é entro
+ 00:48:24
+
+num labirinto que não conseguem não não
+ 00:48:27
+
+conseguem chegar onde elas precisam não é
+ 00:48:30
+
+porque é um volume de informações uma
+ 00:48:33
+
+carga de dados que você não não não não
+ 00:48:35
+
+consegue mesmo o WhatsApp tem um desafio
+ 00:48:38
+
+que é o seguinte eu vivi isso agora
+ 00:48:40
+
+recentemente que é a diferença do
+ 00:48:42
+
+WhatsApp no celular e no e no e no
+ 00:48:43
+
+desktop não é que você tem coisas que você
+ 00:48:46
+
+não consegue responder no WhatsApp do
+ 00:48:48
+
+desktop isso seguinte imagina marcar uma
+ 00:48:50
+
+consulta você não consegue fazer no no
+ 00:48:53
+
+desktop só faz no no no no no no celular
+ 00:48:55
+
+não é então nós temos eh hoje uma distância
+ 00:48:58
+
+entre o que as ferramentas dizem
+ 00:49:02
+
+oferecer não é e o que elas oferecem e
+ 00:49:04
+
+temos uma distância entre o que os
+ 00:49:07
+
+gestores imaginam que estão oferecendo
+ 00:49:09
+
+paraa população e o que chega de Fato não é
+ 00:49:12
+
+quer dizer então essas distâncias elas
+ 00:49:14
+
+precisam ser elas precisam ser reduzidas
+ 00:49:17
+
+eh eh por exemplo nós estamos no no mgi
+ 00:49:19
+
+fazendo uma uma reflexão não é do ponto de
+ 00:49:22
+
+vista de de de e definitivamente assumir
+ 00:49:25
+
+a ideia de de de uma missão que é de
+ 00:49:28
+
+garantir uma uma infraestrutura pública
+ 00:49:31
+
+de dados não é de como
+ 00:49:33
+
+racionalizar toda essa Parafernalha de
+ 00:49:36
+
+informações que são organizadas pelo
+ 00:49:40
+
+pelo de que são demandadas não é pelo
+ 00:49:42
+
+serviço público e aí basicamente pro
+ 00:49:46
+
+público Rural não é a partir da dos seus
+ 00:49:48
+
+direitos das suas responsabilidades e
+ 00:49:51
+
+restrições não é que como é que o começo
+ 00:49:54
+
+consigo traduzir isso não é o direito
+ 00:49:57
+
+fundamentalmente é o direito à
+ 00:50:00
+
+propriedade não é quer dizer que é a
+ 00:50:01
+
+questão do do fundiário e que hoje é o
+ 00:50:03
+
+Incra não é que garante esse tipo de
+ 00:50:06
+
+informação através do seu cadastro as
+ 00:50:08
+
+responsabilidades e as restrições também
+ 00:50:11
+
+estão nos diferentes cadastros por
+ 00:50:13
+
+exemplo o ITR é uma responsabilidade não é
+ 00:50:15
+
+do do
+ 00:50:19
+
+Agricultor pagar o não é fazer a declaração
+ 00:50:20
+
+anualmente pagar o imposto quando for
+ 00:50:23
+
+quando for necess
+ 00:50:25
+
+por exemplo no caso do car nós estamos
+ 00:50:27
+
+falando de uma restrição que é o quê
+ 00:50:28
+
+Qual é a área que ela tem que ser
+ 00:50:30
+
+preservada não é do ponto de vista de app
+ 00:50:31
+
+reserva legal qual é a área consolidada
+ 00:50:34
+
+que tem que ser a mesma área que tá lá
+ 00:50:36
+
+informada no inrena e na receita só que
+ 00:50:38
+
+são três formulários Diferentes não é então
+ 00:50:40
+
+nós estamos muito empenhados hoje não é em
+ 00:50:43
+
+em trabalhar um projeto de integração
+ 00:50:46
+
+definitiva desses cadastros em que a
+ 00:50:49
+
+gente Facilite racionalize a entrada de
+ 00:50:51
+
+dados por parte dos agricultores não é Eh
+ 00:50:54
+
+eh eh e que a entrada de dados do
+ 00:50:58
+
+Agricultor ela possa irrigar esses
+ 00:51:02
+
+diferentes cadastros não é Eh então a
+ 00:51:04
+
+ferramenta do Golf BR lembrada aqui pelo
+ 00:51:07
+
+pelo Ezequiel ela tem esse propósito ela
+ 00:51:09
+
+pode avançar nessa perspectiva não é Eh e
+ 00:51:12
+
+esse é um trabalho que nós estamos nos
+ 00:51:16
+
+dedicando internamente eh Tomara que a
+ 00:51:18
+
+gente consiga já em 2025 oferecer uma
+ 00:51:20
+
+solução que a gente tá pensando e que
+ 00:51:23
+
+vai nessa linha de diminuir a distância
+ 00:51:25
+
+entre não é aquilo que a gente imagina que
+ 00:51:27
+
+tá oferecendo paraos agricultores e
+ 00:51:30
+
+aquilo que ele enfrenta na na na na
+ 00:51:31
+
+realidade ali do do do do do dia a dia
+ 00:51:34
+
+no campo não é Eu vi um vídeo
+ 00:51:36
+
+recentemente eh muito interessante de um
+ 00:51:40
+
+eh eh cronista e eh americano não é o John
+ 00:51:43
+
+Stuart que tem um programa de talk show
+ 00:51:48
+
+e tal não é E ele fala exatamente sobre
+ 00:51:51
+
+inteligência artificial e ele pega duas
+ 00:51:53
+
+mensagens do mar Zuckerberg do do do
+ 00:51:55
+
+Facebook não é e do WhatsApp e tal uma ele
+ 00:51:58
+
+fala não é sobre a importância da
+ 00:52:01
+
+inteligência artificial para curar
+ 00:52:02
+
+doenças e a outra ele usando o
+ 00:52:04
+
+aplicativo para desligar a torradeira
+ 00:52:06
+
+Vamos combinar que a gente não precisa
+ 00:52:08
+
+de um aplicativo para desligar a
+ 00:52:09
+
+torradeira não é meu amigo entendeu e
+ 00:52:10
+
+muitas vezes esse aplicativo tá lá se
+ 00:52:13
+
+juntando a 200 300 não é que o agricultor
+ 00:52:15
+
+tem que todo dia apagar um para colocar
+ 00:52:18
+
+outro não é quer dizer então cabe a nós
+ 00:52:20
+
+também como gestores como não é
+ 00:52:23
+
+proprietários de de de de tecnologias não é
+ 00:52:25
+
+ajudar nesse esforço de racionalidade não é
+ 00:52:28
+
+e acho que nós estamos muito distante
+ 00:52:30
+
+disso por quê Porque a ideia é a ânsia
+ 00:52:32
+
+de oferecer não é e reproduzir uma lógica
+ 00:52:35
+
+de compartimentalização não é Eh de atender
+ 00:52:38
+
+a sua solução específica sem pensar no
+ 00:52:41
+
+todos e aí eu volto não é na um dos pontos
+ 00:52:44
+
+que eu falei anteriormente relacionado
+ 00:52:47
+
+ao especificamente ao instrumento que eu
+ 00:52:49
+
+trabalho hoje que é o cadastro ambiental
+ 00:52:51
+
+Rural que é a oportunidade do Agricultor
+ 00:52:53
+
+ver a sua propriedade como um todo não é e
+ 00:52:55
+
+eu acho que falta um pouco para nós esse
+ 00:52:57
+
+exercício de totalidade e volto a dizer
+ 00:53:00
+
+a extensão Rural é um dos poucos
+ 00:53:02
+
+serviços que não oferece essa
+ 00:53:04
+
+possibilidade de ver a totalidade na
+ 00:53:06
+
+perspectiva de uma propriedade de um
+ 00:53:08
+
+território de uma não é de uma de uma
+ 00:53:11
+
+unidade ali eh pode ser um município o
+ 00:53:13
+
+que quer que seja não é uma uma uma bacia
+ 00:53:16
+
+hidrográfica não é mas conseguir pensar
+ 00:53:19
+
+nessas totalidades e pensar nas partes
+ 00:53:22
+
+mas pensar conjuntamente
+ 00:53:24
+
+muito bom olha eu tava pensando aqui
+ 00:53:29
+
+Quando o Carlos falava e essa questão
+ 00:53:32
+
+que o Zuin colocou assim ó ela é assim ó
+ 00:53:34
+
+muito importante is é muito importante
+ 00:53:38
+
+aí eu fiquei pensando porque que a gente
+ 00:53:40
+
+não tem uma política de popularização do
+ 00:53:42
+
+celular paraos nossos específico paraos
+ 00:53:44
+
+nossos agricultores e e eu fiquei
+ 00:53:46
+
+pensando que bom a gente tem desconto
+ 00:53:48
+
+para para o Car comprar um caro novo um
+ 00:53:50
+
+caro determinada faixa de caro pro
+ 00:53:53
+
+agricultor pro uso da atividade hoje tá
+ 00:53:55
+
+sendo eh decisiva essa questão porque
+ 00:53:58
+
+assim ó vamos e convenhamos não é um
+ 00:54:01
+
+agricultor vai pagar R 3 R 4.000 por um
+ 00:54:05
+
+celular um agricultor familiar de baixa
+ 00:54:08
+
+renda não é assim para ele conseguir um
+ 00:54:10
+
+celular com o mínimo de capacidade r a R
+ 00:54:13
+
+4.000 o mínimo de capacidade nem tô
+ 00:54:16
+
+falando de 1 GB de um terra de 512 não é tô
+ 00:54:19
+
+falando lá de 125 200 talvez
+ 00:54:24
+
+256 e isso faz uma diferença incrível na
+ 00:54:27
+
+vida do Agricultor não é porque porque o
+ 00:54:31
+
+celular é o hoje é uma ferramenta aí de
+ 00:54:34
+
+comunicação e trabalho não é indispensável
+ 00:54:37
+
+não vejo isso e e o grande problema é
+ 00:54:40
+
+memória hoje não é Hoje hoje as a as
+ 00:54:43
+
+operadoras as coisas que vem celular
+ 00:54:46
+
+elas cobram por memória quanto maior a
+ 00:54:50
+
+memória maior mais caro é o celular
+ 00:54:52
+
+chegando na faixa dela os r$ 2000 não é E
+ 00:54:55
+
+isso e e ali que tá o grande tan não é
+ 00:54:57
+
+enfim fica aqui essa reflexão aí sobre
+ 00:55:01
+
+essa questão porque talvez a gente tendo
+ 00:55:04
+
+uma política de popularização do celular
+ 00:55:06
+
+para os nossos agricultores Talvez possa
+ 00:55:08
+
+Minimizar não vai não vai resolver
+ 00:55:11
+
+problema mas minimiza alguma coisa
+ 00:55:13
+
+fiquei aqui refletindo alto hoje hoje eu
+ 00:55:15
+
+tô igual o Carlos refletindo bastante
+ 00:55:17
+
+nosso professor Tarcísio aqui professor
+ 00:55:20
+
+do Instituto Federal não é Santo Augusto
+ 00:55:22
+
+meu querido amigo
+ 00:55:25
+
+Obrigado aí pela é Colorado esse que
+ 00:55:27
+
+também problema o problema dele que ele
+ 00:55:30
+
+é Colorado mas gente de
+ 00:55:32
+
+boa ele vivemos o Babel digital segundo
+ 00:55:34
+
+ele faz a pergunta não é Será que os
+ 00:55:38
+
+agricultores têm essa sensação ou usuf
+ 00:55:40
+
+ou usufruem do básico e nem se assusta
+ 00:55:44
+
+com isso como uin já resumiu ele só fez
+ 00:55:47
+
+questões aqui não é vivemos noor de
+ 00:55:50
+
+babelo o que que será que nosso os
+ 00:55:54
+
+agricultores usam não é Eu acho que é por
+ 00:55:56
+
+isso que oim coloca não é sempre o WhatsApp
+ 00:55:58
+
+no jogo não é porque eu algo que é o mais
+ 00:56:01
+
+acessível e fácil e porque tem pacote de
+ 00:56:05
+
+WhatsApp também não é gratuito depende da
+ 00:56:08
+
+operadora não é então ali você pode usar
+ 00:56:11
+
+ilimitadamente não é mas enfim deixo aí a a
+ 00:56:13
+
+questão aí se vocês querem complementar
+ 00:56:18
+
+em relação a essa esse comentário do
+ 00:56:21
+
+Tarcisio não então eu eu eu acho que que
+ 00:56:23
+
+não aí não são só os agricultores não é a
+ 00:56:28
+
+sociedade como um toda ela tá eh ela tá
+ 00:56:30
+
+num momento histórico em que ela ela tem
+ 00:56:33
+
+acesso a muita informação não é Eh
+ 00:56:36
+
+eh nós vivemos um risco de que os
+ 00:56:40
+
+filtros dessas informações não sejam
+ 00:56:43
+
+feitos da forma mais democrática
+ 00:56:46
+
+possível não é Eh eh eh acho que esse é um
+ 00:56:47
+
+tema importantíssimo à luz do que
+ 00:56:51
+
+aconteceu recentemente na de decisão
+ 00:56:53
+
+correta do Ministro Alexandre Moraes
+ 00:56:56
+
+sobre não é abusos não é cometidos por uma
+ 00:56:58
+
+rede social não é Eh
+ 00:57:02
+
+eh e e e de Fato não é a gente volta ao
+ 00:57:04
+
+tema que que é o nosso desafio aqui não é o
+ 00:57:09
+
+extensionista rural de alguma maneira
+ 00:57:11
+
+ele ele ele cumpre esse papel não é de ser
+ 00:57:13
+
+um mediador não é do ponto de vista de eh
+ 00:57:17
+
+eh eh saber o que existe não é e entender
+ 00:57:20
+
+que aquilo não é eh eh vai ser levado para
+ 00:57:24
+
+agricultor não é Eh permite que o
+ 00:57:27
+
+agricultor assimile a informação não é e
+ 00:57:29
+
+junto com o extensionista possam tomar a
+ 00:57:32
+
+melhor decisão sobre a continuidade da
+ 00:57:35
+
+sua atividade produtiva ou do bem-estar
+ 00:57:37
+
+Social da da da da própria família o que
+ 00:57:40
+
+quer que seja não é Isso é o que a gente
+ 00:57:42
+
+imagina não é só que no meio disso nós
+ 00:57:44
+
+temos várias outras coisas acontecendo
+ 00:57:47
+
+eu tive agora experiência recente nós
+ 00:57:49
+
+estamos aqui no Rio Grande do Sul num
+ 00:57:51
+
+processo intenso de renegociação de
+ 00:57:53
+
+dívida das de acesso a financiamentos
+ 00:57:55
+
+Por parte dos Agricultores diretamente
+ 00:57:58
+
+atingidos o meu WhatsApp não é para pegar o
+ 00:58:00
+
+caso não é tem sido de fato a porta de
+ 00:58:03
+
+entrada e de comunicação imediata para
+ 00:58:06
+
+desfazer muita desinformação não é Eh eh
+ 00:58:10
+
+que é gerada
+ 00:58:14
+
+instantaneamente a partir do que são a a
+ 00:58:16
+
+a os instrumentos formais e e muitas
+ 00:58:19
+
+vezes surpreende o fato de que muitos
+ 00:58:21
+
+agricultores estão se estão se eh eh
+ 00:58:24
+
+conectando pela primeira vez com eh eh
+ 00:58:28
+
+eh nomenclaturas que são usadas
+ 00:58:31
+
+historicamente na estrutura do estado
+ 00:58:34
+
+brasileiro para gerar esses benefícios
+ 00:58:36
+
+não é E isso muitas vezes é aproveitado por
+ 00:58:38
+
+quem já esteve no governo e hoje já hoje
+ 00:58:41
+
+é oposição para desinformar não é então a
+ 00:58:44
+
+gente perde boa parte do tempo limpando
+ 00:58:48
+
+não é Eh eh eh mentira confusão que é
+ 00:58:51
+
+gerada para poder gerar uma informação
+ 00:58:55
+
+qualificada e poder dar tranquilidade
+ 00:58:57
+
+para os agricultores não é quer dizer
+ 00:58:59
+
+porque a a dor que os agricultores do
+ 00:59:01
+
+Rio Grande do Sul viveram aqui não é Eh a a
+ 00:59:03
+
+o o a as famílias contemplando o cenário
+ 00:59:07
+
+de desastre durante dois TR meses que
+ 00:59:10
+
+foi o tempo que nós levamos de alguma
+ 00:59:13
+
+maneira para poder dadas todas as
+ 00:59:15
+
+restrições que a gente vive do ponto de
+ 00:59:18
+
+vista da ação pública não é de poder
+ 00:59:19
+
+ajustar as políticas públicas não é Agora é
+ 00:59:22
+
+o momento em que tomada não é ofertada a
+ 00:59:25
+
+política pública ver como ela chega da
+ 00:59:28
+
+forma mais eh eh eh inteligível não é pros
+ 00:59:31
+
+agricultores E é disso aqui que nós
+ 00:59:35
+
+estamos falando exatamente disso aqui
+ 00:59:36
+
+que nós estamos falando qual é a
+ 00:59:38
+
+ferramenta digital que consegue levar a
+ 00:59:40
+
+informação não é Qual é o trabalho que o
+ 00:59:42
+
+extensionista faz a partir dessa
+ 00:59:44
+
+informação para poder chegar a
+ 00:59:46
+
+agricultor e dizer para ele olha é
+ 00:59:47
+
+melhor você apresentar um laudo do que
+ 00:59:49
+
+uma autodeclaração porque a sua perda
+ 00:59:50
+
+foi maior e você poderá ter um desconto
+ 00:59:53
+
+maior Essa é a prática não é quer dizer E
+ 00:59:54
+
+aí a ferramenta ela cumpre um papel em
+ 00:59:57
+
+que o agricultor e o extensionista não é Eh
+ 01:00:00
+
+eh e tem controle da informação e podem
+ 01:00:03
+
+se mutualmente construir a melhor A
+ 01:00:06
+
+melhor solução não é Eh eh eh eh diferente
+ 01:00:08
+
+por exemplo de você tá tudo lá só na
+ 01:00:13
+
+ferramenta e você escolheu o número 1 2
+ 01:00:15
+
+3 e de repente não consegue voltar para
+ 01:00:18
+
+trás não é na na na na na escolha e o
+ 01:00:20
+
+impacto disso vai ser verificado ou
+ 01:00:23
+
+imediatamente ou num num futuro próximo
+ 01:00:26
+
+dada a inviabilidade da propriedade por
+ 01:00:28
+
+uma escolha errada no momento decisivo
+ 01:00:30
+
+de retomada da produção não é e da mesma
+ 01:00:33
+
+forma o que a gente vem conversando é
+ 01:00:35
+
+que tão importante quanto as ferramentas
+ 01:00:37
+
+não é que auxiliam no aspecto produtivo é
+ 01:00:39
+
+que a gente tenha mecanismos também para
+ 01:00:43
+
+que os agricultores possam voltar a
+ 01:00:45
+
+refletir sobre a parte que não é
+ 01:00:48
+
+destinado à produção mas é destinada à
+ 01:00:50
+
+preservação dentro das propriedades
+ 01:00:52
+
+porque é isso que vai garantir
+ 01:00:54
+
+sustentabilidade nas propriedades rurais
+ 01:00:56
+
+e na produção não é quer dizer Esse é uma
+ 01:00:59
+
+Esse é um dos legados desse processo
+ 01:01:01
+
+duríssimo que nós estamos vivendo no Rio
+ 01:01:03
+
+Grande do Sul não é Eh eh e que dessa forma
+ 01:01:05
+
+eu acho que as ferramentas permitem esse
+ 01:01:09
+
+esse tipo de visão total não é da
+ 01:01:11
+
+propriedade de uma reflexão dos
+ 01:01:14
+
+Agricultores sobre o o o bom uso e o
+ 01:01:15
+
+cuidado daquela porção da natureza que
+ 01:01:18
+
+está sob responsabilidade deles e delas
+ 01:01:21
+
+muito bom muito bom quanto você falava
+ 01:01:26
+
+aqui eu ficava lendo o nosso título aqui
+ 01:01:28
+
+quem controla quem não é é um título muito
+ 01:01:30
+
+chamativo não é
+ 01:01:34
+
+e as próprias redes sociais não é Elas
+ 01:01:35
+
+ditam como que a gente vai se relacionar
+ 01:01:39
+
+como a gente vai se interagir com nossos
+ 01:01:42
+
+nossos parceiros não é Eh como eh como a
+ 01:01:45
+
+gente faz as lives não é Elas ditam para
+ 01:01:48
+
+nós não é nós que escolhemos não é aí a
+ 01:01:51
+
+gente
+ 01:01:53
+
+busca cujos estratégias para tentar
+ 01:01:54
+
+fazer diferente mas com isso tem um
+ 01:01:57
+
+custo não é Por exemplo hoje a gente um
+ 01:01:59
+
+exemplo básico aqui não é daí eu fazendo
+ 01:02:02
+
+quem controla quem não é Nós gostaríamos de
+ 01:02:05
+
+estar transmitindo em todas as
+ 01:02:08
+
+plataformas ao mesmo tempo mas nós não
+ 01:02:09
+
+conseguimos porque o não nos permitem não é
+ 01:02:11
+
+as redes não nos permitem aí a gente
+ 01:02:15
+
+tenta usar um programa para conseguir em
+ 01:02:17
+
+algumas Talvez não é então assim a
+ 01:02:19
+
+limitação do usuário depende com o que
+ 01:02:21
+
+que a rede nos oferece não é O que que as
+ 01:02:24
+
+ferramentas nos oferecem até o momento
+ 01:02:26
+
+não é E isso e E aí isso nos dá entender
+ 01:02:28
+
+nessa perspectiva que não é nós que
+ 01:02:32
+
+controlamos nós somos controlados e pelo
+ 01:02:35
+
+pelas ferramentas e pelas tecnologias
+ 01:02:38
+
+que a gente tem de acordo com o que que
+ 01:02:40
+
+nos proporcionam claro que a com o tempo
+ 01:02:43
+
+não é as coisas evoluem melhoram não é isso a
+ 01:02:46
+
+gente tem notado melhorou bastante não é eu
+ 01:02:49
+
+fiquei refletindo sobre essa questão
+ 01:02:51
+
+agora bom mas agora PR a gente fazer o
+ 01:02:53
+
+fechamento da nossa Grande live não é 1
+ 01:02:56
+
+hora aí 1 hora E2 minutos aí muito muito
+ 01:02:58
+
+boa uma live concisa pra gente para o
+ 01:03:01
+
+pessoal assistir depois também eu vou
+ 01:03:04
+
+dar a Palavra Final pro Carlos aí tu usa
+ 01:03:06
+
+o tempo que se quiser para fazer essa
+ 01:03:09
+
+esse grande fechamento da nossa Live
+ 01:03:11
+
+aqui sobre a terra ferramento digital e
+ 01:03:13
+
+Agricultura
+ 01:03:16
+
+Familiar Bom eu acho que nós temos um
+ 01:03:17
+
+grande desafio não é Eh eh eu sempre tenho
+ 01:03:20
+
+dito ano que vem nós vamos ter a pop do
+ 01:03:23
+
+clima no Brasil não é em novembro de 2025 e
+ 01:03:26
+
+por exemplo o Rio Grande do Sul já está
+ 01:03:29
+
+convidado para lá como a grande eh eh eh
+ 01:03:31
+
+eh experiência vamos chamar assim não é de
+ 01:03:35
+
+uma de um impacto em amplitude em
+ 01:03:39
+
+magnitude e eh que talvez o Brasil não
+ 01:03:43
+
+tenha tido experiência anterior não é
+ 01:03:47
+
+eh e aí não é o Rio Grande do Sul convidado
+ 01:03:51
+
+o que que vai dizer lá não é Nós eu sei que
+ 01:03:54
+
+nós estamos falando para todo o Brasil
+ 01:03:56
+
+mas eu acho que o caso do Rio Grande do
+ 01:03:57
+
+su ele é muito emblemático porque ele
+ 01:03:58
+
+nos prepara enquanto eh eh eh a tarefa
+ 01:04:01
+
+que temos daqui pra frente não é E e aí
+ 01:04:05
+
+volto pro meu ponto de partida a relação
+ 01:04:08
+
+seres humanos e natureza
+ 01:04:11
+
+não é como nós estabelecemos essa
+ 01:04:13
+
+relação de uma forma diferente do que a
+ 01:04:16
+
+gente tem feito até então porque se a
+ 01:04:19
+
+gente reproduzir o que a gente vinha
+ 01:04:21
+
+fazendo antes obviamente que o resultado
+ 01:04:22
+
+será o mesmo ou pior não é e em cima disso
+ 01:04:24
+
+não é as ferramentas podem cumprir um papel
+ 01:04:28
+
+eh relevante na garantia de autonomia na
+ 01:04:30
+
+garantia de conhecimento na garantia de
+ 01:04:35
+
+um diálogo entre o conhecimento passado
+ 01:04:37
+
+e o conhecimento que é gerado no no no
+ 01:04:40
+
+presente não é Eh desde que a
+ 01:04:43
+
+infraestrutura esteja disponível para
+ 01:04:45
+
+que isso possa acontecer não é desde que as
+ 01:04:47
+
+pessoas estejam minimamente eh eh eh
+ 01:04:50
+
+Preparadas ou eh eh elas consigam
+ 01:04:54
+
+absorver essa dinâmica de de de
+ 01:04:57
+
+aprendizado no dia a dia não é Ou seja a
+ 01:05:00
+
+curva de aprendizagem ela ser mais a a
+ 01:05:02
+
+aguda do que é não é Eh eh eh eh eh nesse
+ 01:05:04
+
+tema não é E que a gente consiga entender
+ 01:05:08
+
+que todo o passivo Ambiental do presente
+ 01:05:11
+
+é também um passivo fiscal do futuro e
+ 01:05:14
+
+que se a gente quer fazer investimento
+ 01:05:18
+
+público em conectividade em que quer que
+ 01:05:20
+
+seja e que é necessário no Rural
+ 01:05:22
+
+Brasileiro não é nós vamos ter que parar de
+ 01:05:24
+
+gastar menos com os efeitos do da reação
+ 01:05:26
+
+da natureza e para gastar menos nós
+ 01:05:29
+
+temos que prever mais ter mais
+ 01:05:31
+
+preventivos não é ser mais sustentáveis ser
+ 01:05:33
+
+na nossa prática cotidiana então é é um
+ 01:05:36
+
+é um nós temos que romper um círculo
+ 01:05:39
+
+vicioso de uma relação que hoje tá se
+ 01:05:41
+
+demonstrando que a natureza ela ela
+ 01:05:45
+
+aguenta até um certo ponto assim como o
+ 01:05:47
+
+ser humano aguenta até um certo ponto não é
+ 01:05:50
+
+no seu desgaste na sua na sua condição
+ 01:05:52
+
+de trabalho na penosidade não é quer dizer
+ 01:05:55
+
+eh eh eh só que o ser humano reage de um
+ 01:05:57
+
+jeito e a natureza reage de outro e a
+ 01:06:01
+
+natureza já demonstrou que quando ela
+ 01:06:03
+
+reage o ser humano não consegue
+ 01:06:04
+
+controlar não é Eu acho que esse é o ponto
+ 01:06:06
+
+que que que tá colocado para nós não é E
+ 01:06:08
+
+que no e que no meio disso o papel do
+ 01:06:11
+
+extensionista rural utilizando
+ 01:06:13
+
+ferramentas para esse propósito não é Eu
+ 01:06:15
+
+acho que a gente tem um futuro de
+ 01:06:18
+
+sustentabilidade na agricultura
+ 01:06:19
+
+brasileira Fantástico não é Eu acho que
+ 01:06:21
+
+essa é a construção que a gente tem
+ 01:06:23
+
+condições de levar por uma cópia do
+ 01:06:25
+
+clima não é visto que não é a é a área de
+ 01:06:27
+
+agricultura e mudança do uso da Terra a
+ 01:06:31
+
+maior responsável por emissão de gases
+ 01:06:33
+
+não é no no caso do Brasil não é então cabe a
+ 01:06:35
+
+nós que trabalhamos todo dia no campo
+ 01:06:38
+
+aumentar essa reflexão seja na Amazônia
+ 01:06:40
+
+que é onde existe o maior passivo de
+ 01:06:44
+
+reserva legal e área de prestação
+ 01:06:46
+
+permanente a ser recuperado em torno de
+ 01:06:48
+
+10 milhões de hectares seja aqui no
+ 01:06:49
+
+Pampa no Rio Grande do Sul em que nós
+ 01:06:52
+
+temos 300.000 haar de passivo não é de
+ 01:06:53
+
+reserva legal e e e e e vegetação nativa
+ 01:06:56
+
+eh eh as dimensões são diferentes mas a
+ 01:07:00
+
+responsabilidade é a mesma não é e assim
+ 01:07:04
+
+como a responsabilidade é a mesma ela
+ 01:07:06
+
+pode ser assumida não é de forma eh eh
+ 01:07:08
+
+proporcional à capacidade de
+ 01:07:12
+
+contribuição não é E para isso eu mais uma
+ 01:07:13
+
+vez não é ressalto não é que a ferramenta até
+ 01:07:17
+
+digital o que quer que seja pode ajudar
+ 01:07:19
+
+muito nesse sentido mas eu acho que a
+ 01:07:22
+
+gente tem tem que ter o espírito crítico
+ 01:07:24
+
+para entender o que que é informação o
+ 01:07:26
+
+que que é desinformação o que que
+ 01:07:28
+
+precisa para poder chegar essa
+ 01:07:30
+
+informação de uma forma qualificada E
+ 01:07:32
+
+por que que às vezes não há recurso
+ 01:07:34
+
+disponível para isso não é então são
+ 01:07:36
+
+reflexões que a gente segue no Bom
+ 01:07:39
+
+debate muito bom trago aqui já para
+ 01:07:43
+
+finalizar então o comentário da gí
+ 01:07:47
+
+Parabéns pela palestra tema muito
+ 01:07:49
+
+pertinente e necessário em tempos que
+ 01:07:52
+
+vivemos e essa A reflexão do Carlos aí
+ 01:07:54
+
+foi fundamental não é a natureza e seus
+ 01:07:56
+
+processos evolutivos e o trabalho do da
+ 01:07:59
+
+da dos Agricultores da sociedade para
+ 01:08:02
+
+com a sua conservação isso aí é vem
+ 01:08:05
+
+muito antes e or do Sul é a prova viva e
+ 01:08:08
+
+carnal disso tudo não é então isso aí é
+ 01:08:10
+
+fundamental para que a gente consiga aí
+ 01:08:13
+
+ter processos comunicativos e
+ 01:08:16
+
+sustentáveis melhor muito obrigado pela
+ 01:08:18
+
+presença de todos aqui que participaram
+ 01:08:21
+
+da nossa Live foi um prazer e lembrando
+ 01:08:23
+
+que toda quarta-feira 9 horas esse mesmo
+ 01:08:26
+
+bate canal nesse mesmo bate horário
+ 01:08:29
+
+estamos aqui com mais um grande
+ 01:08:32
+
+especialista na área de extensão Rural e
+ 01:08:33
+
+afins para debater conosco aqui sobre
+ 01:08:36
+
+grandes temas da área de extensão rural
+ 01:08:38
+
+no Brasil e no mundo Muito obrigado e
+ 01:08:40
+
+até uma próxima oportunidade tchau tchau
+ 01:08:42
+
+gente
+ 01:08:44

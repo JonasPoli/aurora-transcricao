@@ -1,0 +1,8 @@
+video_id: wyZzvnAsdHg
+video_url: https://www.youtube.com/watch?v=wyZzvnAsdHg
+title: Reflexões e experiências sobre Ater Digital desenvolvidas pela Emater (DF) - Renato Lopes
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/02/2022

@@ -1,0 +1,9 @@
+video_id: AR_qPuZA8To
+video_url: https://www.youtube.com/watch?v=AR_qPuZA8To
+title: Crédito Rural – Pronaf Cotas-Partes 💲 👨‍🌾🌱 Posso pegar 50 mil?
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/29/2024

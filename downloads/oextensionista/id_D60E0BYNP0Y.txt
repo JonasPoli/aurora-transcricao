@@ -1,0 +1,8 @@
+video_id: D60E0BYNP0Y
+video_url: https://www.youtube.com/watch?v=D60E0BYNP0Y
+title: Dia de Extensão Rural 💚
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/12/2024

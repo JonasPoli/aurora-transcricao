@@ -1,0 +1,8 @@
+video_id: cBynsNlK4r4
+video_url: https://www.youtube.com/watch?v=cBynsNlK4r4
+title: #jesus #motivação #amem #reflexão #deus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

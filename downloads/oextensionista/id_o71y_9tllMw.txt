@@ -1,0 +1,8 @@
+video_id: o71y_9tllMw
+video_url: https://www.youtube.com/watch?v=o71y_9tllMw
+title: #shorts #casa #roc #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/18/2025

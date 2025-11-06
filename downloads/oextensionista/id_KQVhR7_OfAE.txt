@@ -1,0 +1,9 @@
+video_id: KQVhR7_OfAE
+video_url: https://www.youtube.com/watch?v=KQVhR7_OfAE
+title: Semeando mensagens, colhendo diálogos: a comunicação rural
+uploader: O Extensionista
+speaker: Gabriel Arroyo - Universidade de Araraquara
+Lattes: http://lattes.cnpq.br/8489125193765181
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/17/2025

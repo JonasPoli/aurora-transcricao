@@ -1,0 +1,9 @@
+video_id: Lf5gdBp5Nqc
+video_url: https://www.youtube.com/watch?v=Lf5gdBp5Nqc
+title: PNAE em tempos de pandemia
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9862285172883742
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/02/2022

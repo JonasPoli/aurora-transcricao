@@ -1,0 +1,9 @@
+video_id: 9fqRY67aql0
+video_url: https://www.youtube.com/watch?v=9fqRY67aql0
+title: Cooperativismo e Universidade: uma janela de oportunidades
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/0513445839964687
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/03/2023

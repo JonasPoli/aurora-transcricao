@@ -1,0 +1,8 @@
+video_id: DEwWu4lz1ss
+video_url: https://www.youtube.com/watch?v=DEwWu4lz1ss
+title: #roça #quilombola #restingaseca #comunidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

@@ -1,0 +1,9 @@
+video_id: 3T9VEwDqqL4
+video_url: https://www.youtube.com/watch?v=3T9VEwDqqL4
+title: Você sempre avaliou a revista científica pelo Qualis Capes? Não acredito! 😳
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/23/2022

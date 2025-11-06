@@ -1,0 +1,9 @@
+video_id: 3JPJJiV7FyM
+video_url: https://www.youtube.com/watch?v=3JPJJiV7FyM
+title: Agricultura digital adoção e difusão entre produtores rurais
+uploader: Rede Aurora
+speaker: Maíra de Souza Regis
+Lattes: http://lattes.cnpq.br/2813923258412718
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2024

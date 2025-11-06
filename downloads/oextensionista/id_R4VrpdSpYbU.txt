@@ -1,0 +1,9 @@
+video_id: R4VrpdSpYbU
+video_url: https://www.youtube.com/watch?v=R4VrpdSpYbU
+title: Extensão Rural precisa trabalhar com os 17 ODS - Sergio Schneider
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/14/2024

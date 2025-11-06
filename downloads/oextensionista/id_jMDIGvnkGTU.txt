@@ -1,0 +1,9 @@
+video_id: jMDIGvnkGTU
+video_url: https://www.youtube.com/watch?v=jMDIGvnkGTU
+title: Quer conhecer um pouco da história produtiva da nossa propriedade na Agricultura Familiar? 👩🐮 🌱🐂
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/02/2022

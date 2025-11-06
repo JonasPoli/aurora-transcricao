@@ -1,0 +1,8 @@
+video_id: CHJdm445caw
+video_url: https://www.youtube.com/watch?v=CHJdm445caw
+title: Ater além do digital  explorando ferramentas digitais para potencializar a extensão no campo
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2023

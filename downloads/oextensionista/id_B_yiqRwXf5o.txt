@@ -1,0 +1,9 @@
+video_id: B_yiqRwXf5o
+video_url: https://www.youtube.com/watch?v=B_yiqRwXf5o
+title: As mudanças climáticas na Agricultura - Gravado 2 dias antes das enchentes no Rio Grande do Sul
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/27/2024

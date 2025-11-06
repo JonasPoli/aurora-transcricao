@@ -1,0 +1,8 @@
+video_id: hQftWWN0B4s
+video_url: https://www.youtube.com/watch?v=hQftWWN0B4s
+title: #roça #colono #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/18/2025

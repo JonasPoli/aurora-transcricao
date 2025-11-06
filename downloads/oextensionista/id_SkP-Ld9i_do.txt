@@ -1,0 +1,8 @@
+video_id: SkP-Ld9i_do
+video_url: https://www.youtube.com/watch?v=SkP-Ld9i_do
+title: #roça #colono #imigração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/16/2025

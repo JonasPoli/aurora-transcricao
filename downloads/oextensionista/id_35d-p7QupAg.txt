@@ -1,0 +1,8 @@
+video_id: 35d-p7QupAg
+video_url: https://www.youtube.com/watch?v=35d-p7QupAg
+title: #roça #deustemumapalavrapravoce #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/26/2025

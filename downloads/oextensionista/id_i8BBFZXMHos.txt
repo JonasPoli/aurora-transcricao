@@ -1,0 +1,8 @@
+video_id: i8BBFZXMHos
+video_url: https://www.youtube.com/watch?v=i8BBFZXMHos
+title: #educação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2025

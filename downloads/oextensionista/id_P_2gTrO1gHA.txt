@@ -1,0 +1,8 @@
+video_id: P_2gTrO1gHA
+video_url: https://www.youtube.com/watch?v=P_2gTrO1gHA
+title: #motivação #roça #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

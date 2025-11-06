@@ -1,0 +1,8 @@
+video_id: KCf_RQDiD8Q
+video_url: https://www.youtube.com/watch?v=KCf_RQDiD8Q
+title: #gaucho #roça #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/25/2025

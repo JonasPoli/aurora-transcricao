@@ -1,0 +1,8 @@
+video_id: W4rCQaByhyY
+video_url: https://www.youtube.com/watch?v=W4rCQaByhyY
+title: #reflexão #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/18/2025

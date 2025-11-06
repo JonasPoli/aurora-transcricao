@@ -1,0 +1,9 @@
+video_id: 8VUIx6wokso
+video_url: https://www.youtube.com/watch?v=8VUIx6wokso
+title: Cursos de Pós-graduação em Extensão Rural para enriquecer seu currículo | Prof. Dr. Ezequiel Redin
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/04/2020

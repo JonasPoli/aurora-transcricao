@@ -1,0 +1,8 @@
+video_id: W8VUZ1WVFrY
+video_url: https://www.youtube.com/watch?v=W8VUZ1WVFrY
+title: Direto ao ponto: Ater Digital Fundação Itesp: Contexto Histórico - Anderson Hazenfratz
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/09/2022

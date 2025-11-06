@@ -1,0 +1,8 @@
+video_id: VP7OuGreB20
+video_url: https://www.youtube.com/watch?v=VP7OuGreB20
+title: #jesus #motivação #amem #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2025

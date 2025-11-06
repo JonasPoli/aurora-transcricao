@@ -1,0 +1,9 @@
+video_id: yQv2jjMIJcQ
+video_url: https://www.youtube.com/watch?v=yQv2jjMIJcQ
+title: Plataforma Ater+ Digital: Hubs desenvolvidos pela Embrapa Meio Ambiente
+uploader: O Extensionista
+speaker: Luciano Lourenço Nass (Embrapa)
+Lattes: http://lattes.cnpq.br/1470642537538445
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/29/2025

@@ -1,0 +1,8 @@
+video_id: kZOH1FgiJto
+video_url: https://www.youtube.com/watch?v=kZOH1FgiJto
+title: Técnico em Fruticultura no Descubra da UFSM #seleção #ufsm
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2025

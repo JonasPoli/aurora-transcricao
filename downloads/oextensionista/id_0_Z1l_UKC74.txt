@@ -1,0 +1,9 @@
+video_id: 0_Z1l_UKC74
+video_url: https://www.youtube.com/watch?v=0_Z1l_UKC74
+title: 👉 5 perguntas para se fazer antes de comprar uma tecnologia agrícola
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/26/2023

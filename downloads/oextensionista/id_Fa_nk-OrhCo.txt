@@ -1,0 +1,8 @@
+video_id: Fa_nk-OrhCo
+video_url: https://www.youtube.com/watch?v=Fa_nk-OrhCo
+title: Políticas Públicas na Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/18/2020

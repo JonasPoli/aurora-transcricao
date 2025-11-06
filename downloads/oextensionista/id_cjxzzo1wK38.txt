@@ -1,0 +1,8 @@
+video_id: cjxzzo1wK38
+video_url: https://www.youtube.com/watch?v=cjxzzo1wK38
+title: #roça #casa
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/23/2025

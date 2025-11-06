@@ -1,0 +1,8 @@
+video_id: Pyc9w4CQw1g
+video_url: https://www.youtube.com/watch?v=Pyc9w4CQw1g
+title: #roça #colono #agro #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/25/2025

@@ -1,0 +1,8 @@
+video_id: d-9-RRandoQ
+video_url: https://www.youtube.com/watch?v=d-9-RRandoQ
+title: #jesus #motivação #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/27/2025

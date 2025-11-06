@@ -1,0 +1,7478 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:01
+
+agricultores e agricultoras jovens Rais
+ 00:00:04
+
+pesquisadores professores tensional
+ 00:00:07
+
+acadêmicos e demais públicos aqui
+ 00:00:09
+
+presentes sejam todos muito bem-vindos
+ 00:00:12
+
+meu nome é zequel redim professor de
+ 00:00:14
+
+extensão Rural e quem está aqui hoje
+ 00:00:16
+
+conosco é o Professor luí Fernando
+ 00:00:18
+
+Soares Zuin da USP o fundador da area de
+ 00:00:20
+
+Aurora e juntamente com a nossa
+ 00:00:22
+
+convidada que é a nossa grande
+ 00:00:24
+
+extensionista Luciana Teixeira da Emater
+ 00:00:26
+
+Ger nossa querida Emater de Minas todos
+ 00:00:29
+
+aqui excelentes profissionais na área de
+ 00:00:32
+
+extensão rural no Brasil e É nesse dia
+ 00:00:35
+
+22 de Maio que nós estamos no mais um
+ 00:00:37
+
+evento do ciclo diálogos em ater digital
+ 00:00:40
+
+Semeando propostas e compartilhando
+ 00:00:42
+
+saberes nossos eventos buscam
+ 00:00:45
+
+identificar e propor caminhos
+ 00:00:47
+
+metodológicos para Os Atuais elementos e
+ 00:00:49
+
+condicionantes que determinam os
+ 00:00:52
+
+processos de transferência e
+ 00:00:54
+
+compartilhamento de novas tecnologias
+ 00:00:55
+
+nos territórios Rais da América Latina
+ 00:00:58
+
+da África e alguns países Como Portugal
+ 00:01:00
+
+Espanha e Luxemburgo a palestra de hoje
+ 00:01:02
+
+é intitulada nexp do analógico ao
+ 00:01:04
+
+digital como ser um extensionista em um
+ 00:01:08
+
+mundo cada vez mais complexo e dinâmico
+ 00:01:10
+
+é a nossa palestrante a Luciana Maria
+ 00:01:13
+
+Rocha Teixeira da maer Minas Gerais essa
+ 00:01:15
+
+Live é uma iniciativa do portal
+ 00:01:18
+
+extensionista e da Reed de Aurora de
+ 00:01:20
+
+diálogos em ater digital na América
+ 00:01:21
+
+Latina e com todos os apoiadores que
+ 00:01:24
+
+vocês podem conferir aqui na descrição
+ 00:01:26
+
+desse vídeo se sejam muito bem-vindos
+ 00:01:28
+
+Professor Zuin Luciana é um prazer vocês
+ 00:01:30
+
+estarem aqui conosco compartilhando seus
+ 00:01:33
+
+conhecimentos desde já o nosso Muito
+ 00:01:35
+
+obrigado e antemão já passo a palavra ao
+ 00:01:37
+
+professor Zuin bom dia a todos e a todas
+ 00:01:39
+
+é um prazer muito grande estar aqui hoje
+ 00:01:43
+
+com Ezequiel e com a Luciana Luciana
+ 00:01:45
+
+fazer um trabalho maravilhoso na Emater
+ 00:01:47
+
+de Minas Gerais A Emater de Minas Gerais
+ 00:01:49
+
+que é um exemplo pra gente não é inclusive
+ 00:01:52
+
+o exemplo prático mesmo na minha vida
+ 00:01:55
+
+porque foi por meio de trabalhos que nem
+ 00:01:57
+
+o maxpar 4.0 que eu comecei a trabalhar
+ 00:01:59
+
+a estudar a ter digital não é então uma das
+ 00:02:03
+
+obras assim seminis ali não é que eu que eu
+ 00:02:06
+
+que eu comecei a estudar a me interar
+ 00:02:10
+
+sobre o assunto há 3S anos atrás não é foi
+ 00:02:13
+
+justamente uma obra produzida pela
+ 00:02:15
+
+Luciana e pelo pessoal da emat de Minas
+ 00:02:17
+
+Gerais não é então meu grande não é o meu
+ 00:02:19
+
+grande agradecimento não é a eles e eu
+ 00:02:23
+
+tenho certeza que hoje a gente vai ter
+ 00:02:26
+
+uma live muito B muito legal da Luciana
+ 00:02:27
+
+Luciana seja muito bem-vinda hoje com a
+ 00:02:31
+
+gente aqui nessa manhã de
+ 00:02:34
+
+quarta-feira Bom dia professor Ezequiel
+ 00:02:35
+
+Professor Zuin e eu quero agradecer
+ 00:02:39
+
+muito não é Para mim é uma honra est aqui
+ 00:02:42
+
+nesse espaço que eu acompanho de debate
+ 00:02:45
+
+não é e de troca eh todas voltadas para o
+ 00:02:48
+
+fortalecimento da extensão rural no
+ 00:02:51
+
+Brasil eu quero dizer que a emat ela
+ 00:02:54
+
+nesce 75 anos da sua existência ela
+ 00:02:57
+
+sempre esteve presente nesses espaços não é
+ 00:03:00
+
+a gente luta para permanecer
+ 00:03:03
+
+contribuindo também nesses debates
+ 00:03:05
+
+nessas discussões tudo que envolve o
+ 00:03:07
+
+fortalecimento da at e eu quero antes de
+ 00:03:09
+
+mais nada parabenizá-los eu acho que nós
+ 00:03:12
+
+vivemos um momento em que espaços como
+ 00:03:15
+
+esse tanto o canal extensionista como a
+ 00:03:18
+
+rede Aurora eles são fundamentais no
+ 00:03:20
+
+fortalecimento da terno Brasil eu antes
+ 00:03:22
+
+de iniciar minha apresentação eu não
+ 00:03:25
+
+poderia jamais deixar de deixar aqui
+ 00:03:27
+
+Ezequiel o nossoo abraço a todo o povo
+ 00:03:30
+
+do Rio Grande do Sul não é que passa aí por
+ 00:03:33
+
+essa tragédia climática saiba que nós
+ 00:03:36
+
+estamos assim absolutamente
+ 00:03:39
+
+sensibilizados eu acho que todo o Brasil
+ 00:03:41
+
+eu tenho certeza que eu posso falar aqui
+ 00:03:43
+
+em nome de toda a Emater de Minas Gerais
+ 00:03:45
+
+não é Eh é assim a gente não pode nem dizer
+ 00:03:47
+
+que nós imaginamos o que vocês estão
+ 00:03:51
+
+passando porque definitivamente eh a
+ 00:03:53
+
+forma como tudo isso aconteceu e a ção
+ 00:03:56
+
+que isso tomou realmente é É imaginável
+ 00:04:00
+
+não é mas a gente tem certeza de que vocês
+ 00:04:03
+
+vão se recuperar a gente tem a certeza
+ 00:04:06
+
+que tudo isso vai passar e que esses
+ 00:04:09
+
+momentos difíceis vão ser superados e
+ 00:04:11
+
+contem com a maté de minas não é nós já
+ 00:04:13
+
+fizemos aqui uma campanha e a gente tá
+ 00:04:16
+
+junto também com os nossos irmãos
+ 00:04:19
+
+extensionistas nessa reconstrução tão
+ 00:04:21
+
+importante e necessário pro nosso país
+ 00:04:24
+
+eh eu quero começar a minha apresentação
+ 00:04:26
+
+são feitas as já fiz os agradecimentos
+ 00:04:29
+
+iniciais eu vou pedir ao colega aqui de
+ 00:04:33
+
+sala para colocar a minha apresentação
+ 00:04:35
+
+eh o tema proposto o Ezequiel já colocou
+ 00:04:38
+
+muito bem aí a gente conversar um pouco
+ 00:04:41
+
+sobre a mecpar a mepar é metodologia
+ 00:04:43
+
+participativa de extensão rural de
+ 00:04:46
+
+desenvolvimento sustentável a mepar para
+ 00:04:48
+
+nós aqui da emat de Minas é um
+ 00:04:50
+
+patrimônio não é Eh Ela é conhecida
+ 00:04:52
+
+nacionalmente quando do seu lançamento
+ 00:04:54
+
+eh equipes da emat rodaram Todo o estado
+ 00:04:56
+
+eh trabalhando também com colegas de
+ 00:05:00
+
+outras entidades de assistência técnica
+ 00:05:03
+
+E por que não dizer que ela é conhecida
+ 00:05:05
+
+no mundo não é Ela já foi levada pro Chile
+ 00:05:07
+
+Bolívia eh nas ações desenvolvidas pela
+ 00:05:10
+
+ONU que a emate participa também eh Ela
+ 00:05:13
+
+já foi inclusive levada para a África
+ 00:05:16
+
+Então ela é mundialmente conhecida vamos
+ 00:05:19
+
+assim dizer e antes de eu iniciar minha
+ 00:05:21
+
+apresentação eu quero dizer a vocês que
+ 00:05:24
+
+a para mim eu considero absolutamente
+ 00:05:26
+
+oportuno na minha participação aqui hoje
+ 00:05:29
+
+nesse canal porque nós estamos nesse
+ 00:05:31
+
+momento passando por uma revisão da
+ 00:05:34
+
+mecpar então eh a gente eu quero muito
+ 00:05:36
+
+que esse momento de troca aqui de
+ 00:05:39
+
+conversa que nós vamos fazer que ele
+ 00:05:41
+
+possa também contribuir com esse
+ 00:05:43
+
+trabalho de revisão da nossa mcpa então
+ 00:05:45
+
+eu espero contribuições do grupo aqui
+ 00:05:49
+
+presente não é no sentido de de nós
+ 00:05:51
+
+levarmos aquilo que a gente discutia
+ 00:05:54
+
+aqui para essa revisão que nós
+ 00:05:57
+
+entendemos ser tão importante e
+ 00:06:00
+
+necessária nesse momento Então os
+ 00:06:01
+
+colegas sintam-se à vontade para se
+ 00:06:03
+
+manifestarem e contribuírem nesse que
+ 00:06:05
+
+para mim a minha apresentação ela tem
+ 00:06:08
+
+muito mais um foco reflexivo e
+ 00:06:10
+
+provocativo
+ 00:06:12
+
+eh eu quero iniciar eh me apresentando
+ 00:06:14
+
+não é o Ezequiel já passou um pouco do da
+ 00:06:18
+
+minha ficha técnica eh eu gosto muito de
+ 00:06:20
+
+dizer que a minha relação com a Emater
+ 00:06:24
+
+ela é uma relação também afetiva não é essa
+ 00:06:27
+
+fotinha aí essa menininha de vestidinho
+ 00:06:30
+
+Amarelo É sou eu pequenininha com a
+ 00:06:32
+
+minha mãe e eu sou filha de agricultores
+ 00:06:35
+
+familiares Então essa foto é na porta da
+ 00:06:37
+
+casa onde eu fui nascida e criada lá no
+ 00:06:39
+
+município de Cajuri na Zona da Mata
+ 00:06:42
+
+mineira eu sou pedagoga de formação e
+ 00:06:44
+
+muito interessante que eu fiz
+ 00:06:48
+
+aniversário segunda-feira dia 20 e eu
+ 00:06:50
+
+descobri que dia 20 de Maio é o dia do
+ 00:06:54
+
+pedagogo então eu falei eu não tinha
+ 00:06:56
+
+outra opção na minha a vida senão ser
+ 00:06:58
+
+pedagoga e eu gosto muito dessa área de
+ 00:07:00
+
+educação já atuei como na área de
+ 00:07:03
+
+educação formal mas o meu coração foi
+ 00:07:06
+
+sequestrado pela Emater pelo trabalho da
+ 00:07:09
+
+extensão Rural Eu costumo dizer sempre
+ 00:07:12
+
+que se eu tivesse continuado na área de
+ 00:07:14
+
+educação já estaria aposentado e ainda
+ 00:07:16
+
+me falta aí longos 10 anos de caminhada
+ 00:07:19
+
+mas em nenhum momento eu me arrependo da
+ 00:07:21
+
+Escolha que eu fiz porque eh ser
+ 00:07:23
+
+extensionista para mim hoje é o que me
+ 00:07:26
+
+representa e que me traz muito orgulho
+ 00:07:28
+
+então eu gosto sempre de me apresentar
+ 00:07:30
+
+como extensionista eu sou extensionista
+ 00:07:32
+
+e atualmente eu ocupo temporariamente o
+ 00:07:34
+
+cargo de coordenadora Estadual de
+ 00:07:37
+
+metodologia de extensão Rural
+ 00:07:39
+
+eh n Eu quero o o dividir a minha
+ 00:07:41
+
+apresentação eu quero falar um pouco da
+ 00:07:44
+
+emat depois a gente vai falar um pouco
+ 00:07:46
+
+da mcpa
+ 00:07:48
+
+Eh quero trazer aqui Como dito no início
+ 00:07:50
+
+algumas reflexões que eu acho que são
+ 00:07:53
+
+importantes para o momento que nós
+ 00:07:55
+
+estamos vivendo e no final eu qu
+ 00:07:57
+
+apresentar algumas ações que eu acho que
+ 00:07:59
+
+a emate de Minas desenvolve e que
+ 00:08:01
+
+conversam muito com aquilo que a gente
+ 00:08:04
+
+entende que tem que ser o trabalho da
+ 00:08:06
+
+extensão rural no país então aí uma
+ 00:08:09
+
+rápida apresentação eu sou funcionária
+ 00:08:12
+
+de uma empresa de 75 anos não é feitos
+ 00:08:14
+
+agora em dezembro para comemorar esse
+ 00:08:17
+
+Marco histórico eh nós realizamos um
+ 00:08:20
+
+seminário de extensão Rural e nós
+ 00:08:22
+
+tivemos a alegria e a satisfação de ter
+ 00:08:25
+
+o professor Zuin conosco lá discutindo a
+ 00:08:28
+
+extensão Rural do país e e ele eh
+ 00:08:32
+
+contribuiu fortemente nesse espaço de
+ 00:08:36
+
+debate e ela é uma empresa aem matéria
+ 00:08:39
+
+ela se caracteriza não é Nós temos aí uma
+ 00:08:42
+
+capilaridade muito grande observa aí
+ 00:08:45
+
+pelo mapa não é o verdinho é onde nós
+ 00:08:48
+
+estamos então o mapa fala por si só nós
+ 00:08:50
+
+estamos em 811 municípios do do Estado
+ 00:08:53
+
+isso representa 95% de cobertura e ela
+ 00:08:56
+
+tem uma estrutura de funcionamento
+ 00:08:59
+
+organizacional eh muito bem pensada eh
+ 00:09:01
+
+nós temos 32 unidades regionais dividida
+ 00:09:05
+
+em todos os estados e atrelada a esses a
+ 00:09:08
+
+essas unidades regionais e esses 811
+ 00:09:11
+
+municípios nós temos aqui em Belo
+ 00:09:14
+
+Horizonte a unidade Central onde a gente
+ 00:09:16
+
+tem os departamentos mais
+ 00:09:19
+
+administrativos e temos também o
+ 00:09:21
+
+departamento técnico que presta um apoio
+ 00:09:23
+
+direto aos colegas eh na execução dos
+ 00:09:25
+
+seus trabalhos no campo
+ 00:09:28
+
+bom então eu vou iniciar agora para
+ 00:09:31
+
+aquilo que foi o convite que eu recebi
+ 00:09:33
+
+não é que é falar um pouquinho sobre a
+ 00:09:35
+
+maxpar a maxpar é um documento de 18
+ 00:09:38
+
+anos
+ 00:09:41
+
+eh a 18 anos não é Eh até num período de
+ 00:09:43
+
+grande aproximação da sociedade civil
+ 00:09:48
+
+com o poder público não é anterior a a a
+ 00:09:50
+
+elaboração da maxpar e o seu lançamento
+ 00:09:55
+
+nós vivimos um momento
+ 00:09:57
+
+em que havia um trabalho muito forte de
+ 00:09:59
+
+organização social não é então clube de
+ 00:10:02
+
+mulheres grupo de jovens associações
+ 00:10:04
+
+conselhos rurais então isso estava muito
+ 00:10:07
+
+forte no país então diante de todo esse
+ 00:10:10
+
+trabalho que foi feito de organização da
+ 00:10:14
+
+sociedade que teve uma participação
+ 00:10:16
+
+muito grande da emé surgiu a ideia de
+ 00:10:18
+
+lançar a mecpar em 2006 a maxpar na
+ 00:10:22
+
+verdade ela foi uma organização M das
+ 00:10:26
+
+técnicas que traz na mecpar não é Ela é uma
+ 00:10:29
+
+organização daquilo que já era o
+ 00:10:32
+
+trabalho realizado pelo extensionista no
+ 00:10:34
+
+campo não é mas sentiu-se a necessidade de
+ 00:10:36
+
+organizar isso no manual que pudesse
+ 00:10:39
+
+subsidiar o trabalho dos nossos colegas
+ 00:10:41
+
+no campo aí eh é muito desse dessa da
+ 00:10:43
+
+redação da mecpar também eh em função
+ 00:10:48
+
+dessa experiência adquirida pela empresa
+ 00:10:51
+
+se nós pensarmos até nos três momentos
+ 00:10:54
+
+não é que são colocados a mcpa que é
+ 00:10:56
+
+conhecer a realidade organizar a ação e
+ 00:10:59
+
+gestão e depois executar e acompanhar
+ 00:11:03
+
+também é fruto dessa experiência
+ 00:11:05
+
+adquirida durante muitos anos pelos
+ 00:11:07
+
+nossos colegas
+ 00:11:10
+
+extensionistas mas aí passados alguns
+ 00:11:11
+
+anos nós passamos também pela pandemia
+ 00:11:14
+
+não é Eh uma tragédia humanitária quase e
+ 00:11:17
+
+nós tivemos a necessidade revisitar a
+ 00:11:21
+
+mecpar por quê Porque nós precisávamos
+ 00:11:24
+
+de ter um manual orientado dos colegas
+ 00:11:26
+
+de Campo Que privilegiassem ações
+ 00:11:30
+
+ferramentas técnicas que pudessem eh
+ 00:11:33
+
+observar a característica do tempo que
+ 00:11:36
+
+nós estávamos vivendo não é que era o de
+ 00:11:39
+
+distanciamento social e fechamento do
+ 00:11:41
+
+Comércio Então os produtores eles
+ 00:11:43
+
+precisavam continuar produzindo e eles
+ 00:11:46
+
+precisavam também de ter acesso a
+ 00:11:49
+
+ferramentas de comercialização os
+ 00:11:51
+
+técnicos precisavam continuar orientando
+ 00:11:54
+
+os produtores seja virtualmente não é ou
+ 00:11:56
+
+com todo o cuidado eh mais
+ 00:11:59
+
+presencialmente então nós foi redigido a
+ 00:12:02
+
+maxpar 4.0 é importante dizer que a
+ 00:12:06
+
+metodologia ela é participativa seja ela
+ 00:12:10
+
+como a primeira em 2016 que foi redigida
+ 00:12:13
+
+tendo como foco desenvolvimento Rural
+ 00:12:17
+
+sustentável então a maxpar de 2006 é
+ 00:12:20
+
+metodologia participativa de extensão
+ 00:12:23
+
+Rural para o desenvolvimento Rural
+ 00:12:25
+
+sustentável seja ela mepar 4.0 até
+ 00:12:27
+
+digital conectando pessoas ela sempre
+ 00:12:32
+
+vai ter ser um processo de construção não é
+ 00:12:35
+
+Hoje nós estamos revisitando a mecpar
+ 00:12:38
+
+por quê Porque ela nunca vai est pronta
+ 00:12:40
+
+ela sempre precisa estar contemporânea
+ 00:12:42
+
+ela sempre precisa de atender aos
+ 00:12:45
+
+anseios da sociedade e do nosso público
+ 00:12:47
+
+que são os agricultores para aquele
+ 00:12:50
+
+momento mas nós jamais desde a mecpar de
+ 00:12:52
+
+2006 a mecpar p0 e essa nova versão que
+ 00:12:56
+
+nós pretendemos lançar o ano que vem as
+ 00:13:01
+
+pessoas elas estão no centro da Inovação
+ 00:13:03
+
+e quando a gente fala que ela é
+ 00:13:07
+
+protagonista da sua ação transformadora
+ 00:13:08
+
+isso não está nós não estamos nos
+ 00:13:11
+
+referindo apenas aos produtores mas
+ 00:13:13
+
+também o extensionista não é então assim eu
+ 00:13:16
+
+costumo dizer que não há nada mais
+ 00:13:18
+
+contemporâneo do que a gente pensar que
+ 00:13:21
+
+nós realizamos nós prestamos um serviço
+ 00:13:23
+
+à sociedade mineira que tem as pessoas
+ 00:13:26
+
+no centro dessa troca e dessa construção
+ 00:13:29
+
+então isso vai perpetuar na mepar não é e
+ 00:13:33
+
+eu penso que a nova versão não fugirá
+ 00:13:36
+
+dessa desse que a gente considera que
+ 00:13:39
+
+seja a essência da nossa metodologia mas
+ 00:13:42
+
+é fato que passado 18 anos eu tenho aqui
+ 00:13:45
+
+em tela dois professores universitários
+ 00:13:48
+
+e a gente sabe muito bem que qualquer
+ 00:13:50
+
+documento que tenha 18 anos ele precisa
+ 00:13:54
+
+de ser revisitado vocêa precisa de olhar
+ 00:13:57
+
+para aquele documento você precisa de
+ 00:13:59
+
+ver se Todas aquelas orientações se elas
+ 00:14:01
+
+estão de acordo com aquilo que nós
+ 00:14:05
+
+estamos vivendo hoje não é então a gente
+ 00:14:07
+
+pensa em produzir um material que traga
+ 00:14:09
+
+algo de novo e Converse melhor com o
+ 00:14:12
+
+mundo atual e com as suas dinâmicas cada
+ 00:14:15
+
+vez mais complexas e e é interessante
+ 00:14:18
+
+antes da gente entrar aqui na sala nós
+ 00:14:22
+
+estávamos conversando eu e oess os
+ 00:14:24
+
+professores eh e nós estamos falando do
+ 00:14:26
+
+seminário de até que teve em Brasília e
+ 00:14:29
+
+uma coisa que foi muito falada lá é a
+ 00:14:31
+
+necessidade de nós discutirmos uma nova
+ 00:14:34
+
+metodologia para Aé Então eu acho que
+ 00:14:37
+
+nós estamos eh sendo muito assertivos
+ 00:14:39
+
+nós estamos sendo capazes de entender
+ 00:14:43
+
+aquilo que o momento nos pede e eu tenho
+ 00:14:46
+
+a certeza que a emat de minas mais uma
+ 00:14:49
+
+vez vai fazer uma bela entrega para a
+ 00:14:51
+
+sociedade e para o país visto que a mcpa
+ 00:14:54
+
+ela não respeita os limites do Estado de
+ 00:14:57
+
+Minas Gerais não é Ela é um um documento
+ 00:14:59
+
+disponibilizado na página principal do
+ 00:15:02
+
+site da emat e ela pode ser utilizado
+ 00:15:05
+
+por qualquer pessoa Então como que nós
+ 00:15:08
+
+vamos fazer
+ 00:15:10
+
+isso nós estamos pensando
+ 00:15:11
+
+eh e independente gente eu acho que
+ 00:15:14
+
+quando a gente faz uma leitura de
+ 00:15:17
+
+cenário por isso que eu falo que a minha
+ 00:15:19
+
+proposta aqui é fazer uma uma
+ 00:15:21
+
+apresentação mais provocativa eh quando
+ 00:15:23
+
+a gente pensa em discutir até nós temos
+ 00:15:26
+
+que para além de observar os casos de
+ 00:15:29
+
+sucesso e aí Me desculpa a pouca
+ 00:15:32
+
+modéstia A Emater tem muito apresentar
+ 00:15:34
+
+nesse sentido não é Eh o trabalho de
+ 00:15:37
+
+extensão da memat nós temos os nossos
+ 00:15:40
+
+problemas não somos perfeitos mas a
+ 00:15:42
+
+gente tem uma experiência adquirida com
+ 00:15:44
+
+75 anos nós temos uma estrutura de
+ 00:15:46
+
+empresa que nos permite desenvolver
+ 00:15:49
+
+belos trabalhos e belas entregas pro
+ 00:15:51
+
+estado mas anterior a tudo isso a gente
+ 00:15:53
+
+precisa de voltar lá nas nossas bases
+ 00:15:56
+
+discutir efetivamente Qual que é o
+ 00:15:59
+
+cenário da ater hoje então eu coloquei
+ 00:16:01
+
+algumas perguntinhas aí provocativas não é
+ 00:16:03
+
+quem são os grupos que A Emater trabalha
+ 00:16:06
+
+hoje quando eu falo em grupo eu tô
+ 00:16:09
+
+pensando eh nós trabalhamos com
+ 00:16:11
+
+associações cooperativas eh como que tá
+ 00:16:14
+
+quando eu olho para o meu Município como
+ 00:16:17
+
+que tão os grupos informais eles existem
+ 00:16:20
+
+dentro de grupos informais Será que os
+ 00:16:23
+
+produtores do município que eu trabalho
+ 00:16:26
+
+eles estão organizados em grupos
+ 00:16:27
+
+temáticos eh eles têm aderência a esse
+ 00:16:29
+
+trabalho eh coletivo organizado ou não
+ 00:16:32
+
+então a gente precisa de conhecer um
+ 00:16:36
+
+pouco mais desse desse espaço rural
+ 00:16:39
+
+quando a gente pensa em termos de
+ 00:16:42
+
+organização outra pergunta o que que é o
+ 00:16:44
+
+campo não é que que é o campo hoje o campo
+ 00:16:47
+
+de de 18 anos atrás quando a a mcpa foi
+ 00:16:50
+
+escrita era outra realidade certamente
+ 00:16:53
+
+não é eram outras relações sociais a gente
+ 00:16:56
+
+fala muito hoje que a gente precisa
+ 00:17:00
+
+revisitar a macpa por causa das
+ 00:17:02
+
+tecnologias digitais de informação e
+ 00:17:04
+
+comunicação não é só por isso nós
+ 00:17:06
+
+precisamos de revisitar a maxpar porque
+ 00:17:09
+
+as relações sociais hoje são outras não é
+ 00:17:11
+
+Eh a a a agilidade a complexidade que
+ 00:17:13
+
+isso envolve no nosso trabalho é muito
+ 00:17:18
+
+grande então o quem que é esse campo
+ 00:17:19
+
+hoje esse campo tecnológico esse campo
+ 00:17:21
+
+hoje tem espaços de exclusões eh o
+ 00:17:25
+
+professor Schneider não é
+ 00:17:28
+
+Eh já teve a oportunidade também de
+ 00:17:30
+
+participar desse espaço ele fala isso as
+ 00:17:33
+
+ações desenvolvidas geraram sérios
+ 00:17:36
+
+problemas de exclusão de fome no campo
+ 00:17:39
+
+então o que que nós estamos fazendo que
+ 00:17:41
+
+alguns grupos de produtores não estão
+ 00:17:43
+
+desenvolvendo como deveria não é como que
+ 00:17:46
+
+esse espaço de produção eh nós estamos
+ 00:17:49
+
+trabalhando muito com comodes ou mais
+ 00:17:52
+
+com produção de alimentos para a mesa É
+ 00:17:54
+
+provocativo eu sei que é matéria o foco
+ 00:17:57
+
+dela é a agricultura familiar mas nós
+ 00:18:00
+
+temos que fazer essa reflexão porque nós
+ 00:18:02
+
+temos o agricultura familiar como nosso
+ 00:18:04
+
+público prioritário mas nós atendemos
+ 00:18:07
+
+médios e grandes produtores
+ 00:18:09
+
+eventualmente Então esse público Ele é
+ 00:18:10
+
+familiar esse campo hoje ele tá
+ 00:18:13
+
+organizado mais ou essa Agricultura
+ 00:18:15
+
+Familiar aquela que a lei não é estabelece
+ 00:18:18
+
+como sendo ela tá sendo escamoteada para
+ 00:18:21
+
+um espaço menor e as grandes Produções
+ 00:18:24
+
+não é de grãos ela tá tomando a gente pode
+ 00:18:27
+
+ter situações em algumas regiões do
+ 00:18:30
+
+estado que isso possa est acontecendo ou
+ 00:18:32
+
+do país não é Ele é Empresarial ela é
+ 00:18:34
+
+organizado essa esse campo ele tá
+ 00:18:38
+
+conectado em rede a gente fala tanto de
+ 00:18:41
+
+até digital nós fizemos uma reunião eh
+ 00:18:43
+
+dentro dessa perspectiva de revisitar a
+ 00:18:46
+
+maxpar e uma colega quando a gente ficou
+ 00:18:48
+
+focando muito na até digital não é Eh uma
+ 00:18:51
+
+colega colocou É mas eu tenho comunidade
+ 00:18:54
+
+aqui que não tem acesso à rede de
+ 00:18:56
+
+internet então Eh nós precisamos de
+ 00:18:57
+
+fazer essa discussão o campo eles são
+ 00:19:00
+
+muitos não é Nós não temos uma uniformidade
+ 00:19:03
+
+de espaços eh mesmo porque o estado de
+ 00:19:07
+
+Minas Gerais é muito grande não é quem que
+ 00:19:09
+
+é esse sujeito Quem que é o público da
+ 00:19:12
+
+terra eh eu costumo dizer que muitas
+ 00:19:14
+
+empresas elas se candidatam a prestar
+ 00:19:17
+
+assistência técnica mas extensão Rural
+ 00:19:19
+
+são as emates que fazem e há uma
+ 00:19:22
+
+diferença muito grande quando a gente
+ 00:19:25
+
+passa em assistência técnica e extensão
+ 00:19:27
+
+Rural Nós não escolhemos o público que
+ 00:19:29
+
+nós vamos atender ou não deveríamos
+ 00:19:32
+
+escolher nós temos políticas públicas
+ 00:19:35
+
+aqui de público de C único programas com
+ 00:19:37
+
+fomento que atende pessoas que não tem
+ 00:19:40
+
+uma renda per capita de
+ 00:19:42
+
+9 Então isso é muito sério porque isso
+ 00:19:45
+
+vai impactar toda nosso debate aqui é
+ 00:19:48
+
+metodológico isso vai impactar
+ 00:19:51
+
+diretamente nos procedimentos
+ 00:19:53
+
+metodológicos que nós vamos adotar então
+ 00:19:55
+
+isso precisa também ser trabalhado então
+ 00:19:59
+
+eu costumo dizer que a estratificação do
+ 00:20:01
+
+público da extensão Rural é muito grande
+ 00:20:03
+
+e aqui dentro ainda inclui os pcts não é
+ 00:20:06
+
+que são os povos comunidades
+ 00:20:08
+
+tradicionais nós precisamos de pensar
+ 00:20:10
+
+também em gênero não é como que tá sendo o
+ 00:20:12
+
+trabalho das mulheres não é quem quer se
+ 00:20:14
+
+sujeito as mulheres estão sendo
+ 00:20:17
+
+incluídas nesse trabalho que aaté tem
+ 00:20:18
+
+feito no campo eh a questão da sucessão
+ 00:20:21
+
+Rural não é E aí por que que a gente
+ 00:20:24
+
+precisa conhecer porque tá talvez a
+ 00:20:26
+
+tomada de decisão ela não seja tão
+ 00:20:29
+
+simples como alguns possam eh pensar não é
+ 00:20:31
+
+quando a gente fala por exemplo de
+ 00:20:34
+
+mulheres e jovens não é simplesmente
+ 00:20:36
+
+chegar e assentar com o produtor e dizer
+ 00:20:38
+
+que o filho dele precisa ter um espaço
+ 00:20:40
+
+existe toda uma questão cultural ali que
+ 00:20:43
+
+precisa ser trabalhado então talvez a
+ 00:20:45
+
+gente precisa de interiorizar aquilo que
+ 00:20:47
+
+seja o trabalho do
+ 00:20:51
+
+extensionista de ir a campo e levar um
+ 00:20:52
+
+convite para um evento técnico em nome
+ 00:20:56
+
+da família e nomear o o o o produtor a
+ 00:20:59
+
+sua esposa e o seu filho isso é muito
+ 00:21:05
+
+simbólico então Ali você vai começando a
+ 00:21:07
+
+a quebrar um pouco aquela estrutura
+ 00:21:11
+
+patriarcal que não pode mais existir nos
+ 00:21:13
+
+tempos de hoje não é então não é dizer
+ 00:21:15
+
+simplesmente como eu ouvi lá em Brasília
+ 00:21:18
+
+um colega dizendo Ah mas o técnico da
+ 00:21:20
+
+emat chega e se tiver só a mulher em
+ 00:21:23
+
+casa ele vai embora de carro não mas
+ 00:21:26
+
+vamos fazer uma análise disso por que
+ 00:21:29
+
+que ele tomou essa decisão talvez porque
+ 00:21:30
+
+ele sabe que o marido não gosta que a
+ 00:21:32
+
+esposa receba a assistência técnica
+ 00:21:35
+
+então é um processo eu não quero me
+ 00:21:37
+
+alongar muito nessa pauta porque não é o
+ 00:21:39
+
+nosso foco mas é um processo que demanda
+ 00:21:41
+
+a gente entender melhor as nossas
+ 00:21:43
+
+relações culturais também e quem que é o
+ 00:21:46
+
+extensionista não é a emate recebeu 500
+ 00:21:49
+
+novos funcionários nos últimos anos não é
+ 00:21:53
+
+do do concurso que foi realizado a gente
+ 00:21:55
+
+tem observado que a gente tem recebido
+ 00:21:59
+
+muitos agrônomos aonde que estão as
+ 00:22:01
+
+nossas colegas não é não necessariamente do
+ 00:22:03
+
+sexo feminino mas da área social da
+ 00:22:06
+
+empresa que vocês vão ver que nas ações
+ 00:22:08
+
+desenvolvidas na emé ela tem uma relação
+ 00:22:11
+
+Direta com o trabalho social não que os
+ 00:22:14
+
+colegas não possam desenvolver não é mas
+ 00:22:16
+
+existe uma relação social importante eh
+ 00:22:18
+
+que precisa ser considerado nesse grupo
+ 00:22:21
+
+de funcionários que a empresa tem no
+ 00:22:24
+
+campo não é será que eles são técnicos são
+ 00:22:27
+
+agrônomos grau de escolaridade nós
+ 00:22:29
+
+recebemos quase 50 colegas eh com
+ 00:22:32
+
+doutorado alguns até com phd então a
+ 00:22:35
+
+gente precisa de entender esse público
+ 00:22:38
+
+que eles têm muito a contribuir nesse
+ 00:22:40
+
+processo não é então a essa discussão do
+ 00:22:42
+
+que seja o extensionista também é
+ 00:22:46
+
+importante a questão da satisfação não é a
+ 00:22:48
+
+gente sabe que isso impacta diretamente
+ 00:22:51
+
+no nosso trabalho esse técnico Ele tá
+ 00:22:53
+
+trabalhando eh com algum grau de
+ 00:22:55
+
+satisfação
+ 00:22:57
+
+Como é que tá a questão salarial tem que
+ 00:22:59
+
+ser discutido se a gente quer discutir
+ 00:23:01
+
+um cenário de até essas questões Elas
+ 00:23:03
+
+têm que ser trazido para a mesa de
+ 00:23:06
+
+discussão eh e aí por fim como que a
+ 00:23:08
+
+sociedade nos vê e isso é muito sério
+ 00:23:11
+
+gente porque eu eu inicio a minha fala
+ 00:23:14
+
+falando do quanto sucesso que nós temos
+ 00:23:17
+
+para apresentar mas por vezes a gente
+ 00:23:19
+
+tem uma sensação que a sociedade não nos
+ 00:23:22
+
+defende então isso deveria ser pauta de
+ 00:23:25
+
+reflexão dentro da empresa Será que
+ 00:23:27
+
+falta publicidade Será que falta
+ 00:23:30
+
+pertencimento Será que a gente não tá
+ 00:23:33
+
+sabendo romper aquilo que o professor
+ 00:23:35
+
+schnaider coloca muito bem na sua fala
+ 00:23:37
+
+dese todo esse trabalho que que nós
+ 00:23:39
+
+estamos sofremos em vários anos no país
+ 00:23:43
+
+de descredibilizar o o servidor público
+ 00:23:46
+
+não é Nós precisamos de romper isso é um
+ 00:23:50
+
+trabalho tão bonito eu eu sou uma
+ 00:23:53
+
+apaixonada pela extensão Rural muito do
+ 00:23:55
+
+que ela produz não é para toda a sociedade
+ 00:23:58
+
+então nós precisamos de preocupar também
+ 00:24:01
+
+como que a sociedade nos vê Porque se
+ 00:24:03
+
+ela não nos defende eh E se nós não
+ 00:24:05
+
+estamos devidamente fortalecidos uma
+ 00:24:08
+
+política contrária ou que não tem esse
+ 00:24:11
+
+reconhecimento ela pode destruir uma
+ 00:24:13
+
+empresa de extensão Rural como aconteceu
+ 00:24:15
+
+em muitos estados do nosso país
+ 00:24:18
+
+infelizmente não é então a gente precisa
+ 00:24:20
+
+também fazer essa reflexão porque se nós
+ 00:24:23
+
+temos essa capilaridade que atende aos
+ 00:24:25
+
+governos na execução de políticas
+ 00:24:28
+
+públicas nós temos que pensar mas nós
+ 00:24:30
+
+estamos atendendo a demanda da sociedade
+ 00:24:32
+
+Isso precisa ser refletido E aí eu passo
+ 00:24:35
+
+eh para a os desafios de ater que eu
+ 00:24:40
+
+acho que é também uma pauta Claro que eu
+ 00:24:43
+
+não não tive aqui a pretensão de esgotar
+ 00:24:45
+
+porque os nossos desafios são muitos não é
+ 00:24:48
+
+Eh quando eu fui pensar da minha fala do
+ 00:24:51
+
+do para esse momento eu coloquei como
+ 00:24:54
+
+Sub título como ser extensionista no
+ 00:24:57
+
+mundo cada vez mais dinâmico e complexo
+ 00:25:00
+
+eu acho que ela essa listinha de
+ 00:25:02
+
+desafios aqui ela responde um pouco essa
+ 00:25:04
+
+minha fala não é então a gente traz para
+ 00:25:07
+
+esse esse espaço aqui e a gente observa
+ 00:25:11
+
+cada vez mais com os colegas que o
+ 00:25:14
+
+extensionista eh ele precisa estar
+ 00:25:16
+
+capacitado para atuar na cadeia
+ 00:25:20
+
+produtiva da agropecuária o que que eu
+ 00:25:21
+
+quero dizer disso a gente observa e os
+ 00:25:24
+
+colegas reclamam muito que parece que
+ 00:25:26
+
+hoje tem que se saber de tudo não é Eh
+ 00:25:28
+
+desde o adubo até Como que você faz o
+ 00:25:31
+
+processamento de uma determinada
+ 00:25:33
+
+produção aí você quando você vai paraa
+ 00:25:35
+
+questão da do processamento vem a
+ 00:25:39
+
+legislação é rotulagem eh a
+ 00:25:41
+
+comercialização ela é difícil não é Então é
+ 00:25:44
+
+uma uma gama de de de conhecimentos que
+ 00:25:48
+
+o técnico tem que ter que é Um Desafio
+ 00:25:51
+
+que a extensão eh precisa superar e
+ 00:25:53
+
+trabalhar e então sem falar também não é Eh
+ 00:25:56
+
+que somos acionados para orientar sobre
+ 00:26:00
+
+marketing empreendedorismo então assim a
+ 00:26:02
+
+Gama de conhecimentos que a gente tem
+ 00:26:05
+
+que ter é cada vez maior então daí vem
+ 00:26:07
+
+mais eh eh nós precisamos de pensar uma
+ 00:26:11
+
+metodologia de trabalho que nós
+ 00:26:14
+
+precisamos e eu acho que a gente eh
+ 00:26:17
+
+dentro dessa necessidade de atender cada
+ 00:26:20
+
+vez mais e ter cada vez mais
+ 00:26:23
+
+conhecimento nós precisamos de começar
+ 00:26:26
+
+efetivamente a desenvolver uma rede de
+ 00:26:29
+
+apoio aaté já tem essa rede mas
+ 00:26:31
+
+fortalecer aonde que ela não tá legal
+ 00:26:33
+
+Onde que nós precisamos melhorar e essa
+ 00:26:36
+
+rede de apoio essa troca ela não tem que
+ 00:26:38
+
+ser só interna ela pode ser externa
+ 00:26:40
+
+também eh quando a gente estuda hoje não é
+ 00:26:42
+
+o mundo moderno uma coisa que vem muito
+ 00:26:45
+
+forte é a questão das parcerias não é as
+ 00:26:48
+
+grandes empresas já descobriram isso
+ 00:26:50
+
+então nós precisamos nos unir a outras
+ 00:26:53
+
+empresas não sabemos de marketing talvez
+ 00:26:55
+
+você possa fazer um trabalho nesse
+ 00:26:57
+
+sentido dentro da empresa não é os nossos
+ 00:27:00
+
+aqui no nosso caso nós temos O Ima
+ 00:27:03
+
+EPAMIG uma empresa de pesquisa elas
+ 00:27:05
+
+também podem contribuir e os próprios
+ 00:27:08
+
+colegas em campo eu acho que a gente
+ 00:27:10
+
+pode criar também uma rede de troca
+ 00:27:12
+
+ninguém precisa saber tudo não é mas a
+ 00:27:14
+
+gente precisa ter esse despreendimento
+ 00:27:17
+
+de fazer essa troca porque essa questão
+ 00:27:19
+
+eh do ampliação dessa Gama de
+ 00:27:22
+
+conhecimento ela vai ser cada dia maior
+ 00:27:26
+
+e o pior não é você ter que atender o
+ 00:27:28
+
+produtor dentro daquilo que você estudou
+ 00:27:31
+
+na academia que você estudou nos seus
+ 00:27:34
+
+cursos que você fez o problema é que
+ 00:27:36
+
+cada vez mais nós vamos ter que atender
+ 00:27:39
+
+o produtor em assuntos que ele recebe
+ 00:27:41
+
+pelo WhatsApp que ele lê em páginas de
+ 00:27:43
+
+internet que não são confiáveis não é então
+ 00:27:46
+
+ele leva tudo isso pro técnico às vezes
+ 00:27:50
+
+coisas que não são nem validadas pela
+ 00:27:52
+
+academia e ele quer aplicar aquilo na
+ 00:27:54
+
+propriedade ele quer que o técnico saiba
+ 00:27:56
+
+sobre aquilo uma coisa que ainda nem foi
+ 00:27:58
+
+eh deliberadamente publicado então nós
+ 00:28:01
+
+Ainda temos esse conflito com as redes
+ 00:28:04
+
+sociais eh que disseminam infelizmente
+ 00:28:06
+
+ainda muita fake News E aí a gente passa
+ 00:28:09
+
+para a a questão do público não é que eu já
+ 00:28:13
+
+falei atrás mas eu acho também eu vejo
+ 00:28:15
+
+eh a questão eh de dominar tecnologias
+ 00:28:18
+
+aplicáveis a diversos públicos da terra
+ 00:28:22
+
+eu faço um link aí com a integrar
+ 00:28:24
+
+academia o centro de pesquisa para gerar
+ 00:28:27
+
+tecnologias acessíveis à Agricultura
+ 00:28:29
+
+Familiar porque eu acho que é mais ou
+ 00:28:31
+
+menos isso eh essa integração essa
+ 00:28:33
+
+parceria Não é só para que a gente possa
+ 00:28:36
+
+eh fazer troca de conhecimento técnico
+ 00:28:39
+
+mas muito no sentido de nós produzirmos
+ 00:28:41
+
+tecnologias acessíveis à Agricultura
+ 00:28:44
+
+Familiar a Embrapa no seminário de até
+ 00:28:47
+
+que eu participei em Brasília a Embrapa
+ 00:28:50
+
+foi muito cobrada nesse sentido a
+ 00:28:51
+
+Embrapa vai existir só para gerar eh
+ 00:28:53
+
+tecnologia as e e produzir e sementes
+ 00:28:57
+
+insumos para o agronegócio ou a Embrapa
+ 00:29:01
+
+também vai ter toda uma
+ 00:29:05
+
+preocupação com a questão da agricultura
+ 00:29:07
+
+familiar do nosso Estado não é então isso é
+ 00:29:10
+
+extremamente importante nós temos essa
+ 00:29:13
+
+tecnologia e daí eu faço um recorte a
+ 00:29:15
+
+maxpar de 18 anos atrás eh ela nós não
+ 00:29:18
+
+nós não pretendemos mexer na maxpar Por
+ 00:29:22
+
+que que nós não vamos alterar a redação
+ 00:29:26
+
+da mepar de 2006 porque nós entendemos
+ 00:29:28
+
+que ela se aplica a um público
+ 00:29:32
+
+específico da da ater Então ela ainda é
+ 00:29:33
+
+atual ela ainda é necessária para esse
+ 00:29:37
+
+trabalho da extensão Rural e por fim
+ 00:29:41
+
+trabalhar os projetos produtivos
+ 00:29:44
+
+integrado os jovens e as mulheres não é que
+ 00:29:46
+
+eu já falei um pouquinho atrás eh que é
+ 00:29:47
+
+extremamente importante nós não podemos
+ 00:29:50
+
+de nenhuma forma eh abandonar esse
+ 00:29:52
+
+público não é alguns colegas fala assim ah
+ 00:29:56
+
+mas mulher é público de matéria jovem é
+ 00:29:58
+
+público de matéria é mas como que eles
+ 00:30:00
+
+estão sendo integrados nesses projetos
+ 00:30:02
+
+produtivos Será que nós vamos viver a
+ 00:30:04
+
+vida toda atendendo jovens e mulheres
+ 00:30:07
+
+por uma obrigação legal de alguma
+ 00:30:10
+
+política pública eu dou exemplo do Dom
+ 00:30:12
+
+Hélder O Dom Hélder Eu já fui gestora do
+ 00:30:14
+
+Dom Hélder no passado e o Dom Hélder vai
+ 00:30:16
+
+voltar agora novamente para o ano que
+ 00:30:19
+
+vem eh uma das suas premissas é que 30%
+ 00:30:21
+
+do público seja mulheres 20% jovens e
+ 00:30:25
+
+ainda tem que ter um índice lá que eu
+ 00:30:28
+
+não me lembro de atendimento dos pcts
+ 00:30:30
+
+então eh só assim que nós vamos acordar
+ 00:30:32
+
+a sucessão Rural não é que hoje a gente
+ 00:30:36
+
+chama de gestão compartilhada porque
+ 00:30:38
+
+sucessão dá impressão que alguém tem que
+ 00:30:41
+
+morrer pro outro chegar não é e é muito
+ 00:30:42
+
+ruim isso então a gestão compartilhada
+ 00:30:45
+
+ela dá um pouco mais de leveza nesse
+ 00:30:48
+
+processo ela precisa ser pauta
+ 00:30:49
+
+permanente dos nossos trabalhos em campo
+ 00:30:52
+
+e para isso nós temos que ter
+ 00:30:54
+
+metodologias estratégias paraa gente
+ 00:30:56
+
+chegar nesse produtor porque a gente
+ 00:30:58
+
+sabe que ainda existe muita resistência
+ 00:31:00
+
+eh de Alguns produtores em ceder espaços
+ 00:31:02
+
+da sua propriedade para o trabalho dos
+ 00:31:06
+
+jovens Então essas imagens que eu trago
+ 00:31:08
+
+aí nessa lâmina elas dão um pouco desse
+ 00:31:11
+
+perfil não é Nós temos que ser
+ 00:31:13
+
+eh assertivos nós temos que ser modernos
+ 00:31:16
+
+como o técnico que tá aí com o tablet na
+ 00:31:19
+
+mão não é fazendo a sua assistência técnica
+ 00:31:22
+
+mas nós não podemos esquecer que tem
+ 00:31:24
+
+pessoas que ainda usa um arado puxado
+ 00:31:26
+
+por um animal então o público é diverso
+ 00:31:29
+
+as demandas são as mais variadas e nós
+ 00:31:32
+
+precisamos de ter atenção a
+ 00:31:34
+
+isso bom E aí eh eu passo para uma uma
+ 00:31:38
+
+questão do do analógico ao digital que
+ 00:31:43
+
+foi a proposta inicial da fala da
+ 00:31:45
+
+mepa antes de eu falar do analógico
+ 00:31:49
+
+digital Eu queria falar uma coisa da
+ 00:31:52
+
+dessa questão da leitura de cenários e
+ 00:31:54
+
+dos Desafios até que feito todo esse
+ 00:31:57
+
+trabalho nós precisamos de responder a
+ 00:31:59
+
+uma pergunta não é que ela vai impactar
+ 00:32:01
+
+diretamente no nosso trabalho de
+ 00:32:05
+
+reescrever e de produzir Eu não vou usar
+ 00:32:08
+
+a expressão reescrever porque a mepa não
+ 00:32:10
+
+vai ser alterada mas de produzir uma uma
+ 00:32:13
+
+nova mcpa que é qual que é o papel do
+ 00:32:15
+
+extensionista nesse cenário ão colocados
+ 00:32:18
+
+aqui todos esses desafios não é falado
+ 00:32:21
+
+desse cenário eh de até qual que é o
+ 00:32:24
+
+papel do extensionista não é a gente tem
+ 00:32:27
+
+que ter a capacidade de trazer isso para
+ 00:32:30
+
+o manual de metodologia vai ser difícil
+ 00:32:32
+
+vai não vai ser fácil mas eu acho que é
+ 00:32:35
+
+o caminho mais adequado por isso que
+ 00:32:38
+
+esse trabalho ele não é um trabalho
+ 00:32:41
+
+fechado em um grupo pequeno de pessoas
+ 00:32:43
+
+nós vamos visitar Todo o estado nós
+ 00:32:46
+
+vamos ter seis encontros nas unidades
+ 00:32:49
+
+regionais nós vamos receber lá mais de
+ 00:32:51
+
+30 colegas que vão poder contribuir
+ 00:32:54
+
+dentro desse debate que a gente
+ 00:32:57
+
+considera tão importante e necessário
+ 00:32:59
+
+para a extensão Rural Eu costumo dizer
+ 00:33:02
+
+que nós tínhamos duas opções com relação
+ 00:33:04
+
+a mecpar eh nós poderíamos fazer um
+ 00:33:06
+
+caminho mais fácil que era pegar a
+ 00:33:09
+
+mecpar as duas mecpar não é agregar a elas
+ 00:33:11
+
+as novas tecnologias digitais eh sugerir
+ 00:33:14
+
+novas técnicas e ferramentas não é a gente
+ 00:33:18
+
+tem muita ferramenta de gestão hoje que
+ 00:33:21
+
+poderia ser colocada ali poderíamos
+ 00:33:23
+
+trabalhar um pouco as metodologias ágeis
+ 00:33:26
+
+não é no sentido de facilitar o trabalho do
+ 00:33:28
+
+técnico em campo mas nós optamos pelo
+ 00:33:30
+
+caminho a meu ver eh melhor e mas mais
+ 00:33:32
+
+difícil que é discutir a para além de
+ 00:33:37
+
+escrever um guia nós queremos discutir a
+ 00:33:40
+
+extensão Rural dar aos colegas a
+ 00:33:42
+
+oportunidade de falar aquilo que eles
+ 00:33:45
+
+vivem que eles sentem e que eles
+ 00:33:48
+
+entendem que são questões que precisa
+ 00:33:50
+
+serem colocados e considerados no novo
+ 00:33:53
+
+guia de metodologia então então eu trago
+ 00:33:55
+
+aí também muito no sentido da da
+ 00:33:58
+
+provocação não é analógico ou digital a
+ 00:34:00
+
+gente fala maxpad analógico ao digital e
+ 00:34:02
+
+eu digo para vocês que são os dois não é eu
+ 00:34:05
+
+coloco aí em tela cursos presenciais não é
+ 00:34:07
+
+eles vão continuar Jamais vão deixar de
+ 00:34:10
+
+existir essa foto aí eu eu não acho que
+ 00:34:12
+
+a resolução Talvez não tenha ficado tão
+ 00:34:15
+
+boa Mas é de um colega da incap e ele tá
+ 00:34:16
+
+debaixo de uma parreira de uva com um
+ 00:34:20
+
+papel não é e ele tá fazendo lá a sua o seu
+ 00:34:21
+
+curso a sua apresentação e e isso
+ 00:34:25
+
+continua a ser muito pertinente nós
+ 00:34:28
+
+precisamos ainda de dominar essas
+ 00:34:30
+
+técnicas porque nós trabalhamos às vezes
+ 00:34:32
+
+em espaço sem nenhuma infraestrutura não é
+ 00:34:35
+
+Eh eu poderia facilmente colocar foto
+ 00:34:38
+
+aqui do carro da ematec ou técnico
+ 00:34:40
+
+escrevendo em cima do capô um cartaz e
+ 00:34:42
+
+os produtores em volta tentando entender
+ 00:34:45
+
+aquilo que ele tava explicando não é o
+ 00:34:47
+
+Serginho o nosso colega aqui da empresa
+ 00:34:49
+
+ele tem uma foto muito boa eh de uma
+ 00:34:51
+
+palestra que ele deu debaixo de uma
+ 00:34:53
+
+mangueira não é então isso nunca vai deixar
+ 00:34:55
+
+de ex gente isso é o o que a gente chama
+ 00:34:57
+
+de extensão raiz que ela é tão
+ 00:34:59
+
+importante para o nosso trabalho
+ 00:35:02
+
+reuniões e espaços de discussão e
+ 00:35:05
+
+construção presenciais Coloca aí não é as
+ 00:35:07
+
+fichinhas tão conhecidos pela extensão
+ 00:35:10
+
+Rural não é E que são tão boas para você
+ 00:35:12
+
+discutir com o grupo criar senso crítico
+ 00:35:15
+
+definir as ações elas nunca vão deixar
+ 00:35:18
+
+de existir nem podem não é Eh cursos eh
+ 00:35:21
+
+podem ser também virtuais Então atrelada
+ 00:35:24
+
+essa das reuniões e do espaço de
+ 00:35:27
+
+discussões presenciais dos cursos nós
+ 00:35:29
+
+temos hoje uma realidade dentro da
+ 00:35:32
+
+empresa de cursos virtuais não é isso
+ 00:35:34
+
+acontece com muita frequência e sabendo
+ 00:35:37
+
+adequar a metodologia não é sabendo
+ 00:35:40
+
+entender que aquele espaço ele traz
+ 00:35:42
+
+características que são diferentes do
+ 00:35:45
+
+presencial não é o presencial você olha
+ 00:35:47
+
+para uma árvore um passarinho passa eh
+ 00:35:50
+
+uma lâmpada estora não é considerando assim
+ 00:35:53
+
+o pior cenário aquilo Acorda você e
+ 00:35:55
+
+volta pro foco a tela ela por muitas
+ 00:35:59
+
+vezes ela é cansativa ela é enfadonha e
+ 00:36:02
+
+as pessoas elas perdem muito foco
+ 00:36:06
+
+facilmente mas nós podemos sim com uma
+ 00:36:08
+
+metodologia adequada entendendo a
+ 00:36:10
+
+funcionalidade do que seja um curso
+ 00:36:13
+
+virtual utilizar Eh esses cursos
+ 00:36:15
+
+inclusive com produtores dependendo da
+ 00:36:18
+
+temática que vai ser trabalhada e nós
+ 00:36:20
+
+agregamos aos atendimentos eh
+ 00:36:23
+
+presenciais as ferramentas digitais tem
+ 00:36:25
+
+uma fotinha aí de uma colega com um
+ 00:36:27
+
+tablet também anteriormente já tinha
+ 00:36:29
+
+apresentado e é muito bom o professor
+ 00:36:30
+
+Zuin tem uma fala muito boa nesse
+ 00:36:33
+
+sentido não é que o digital eh aer digital
+ 00:36:34
+
+que hoje nós chamamos de at ter
+ 00:36:38
+
+contemporânea não é porque ela veio agregar
+ 00:36:39
+
+e não substituir isso tem que ficar
+ 00:36:42
+
+muito claro ela ela é uma uma uma
+ 00:36:45
+
+ferramenta que nos permite estar
+ 00:36:48
+
+presencialmente com o produtor e buscar
+ 00:36:51
+
+virtualmente um conteúdo Ela nos permite
+ 00:36:53
+
+estar numa num numa sala de reunião numa
+ 00:36:56
+
+comunidade e escutar o professor Zuin
+ 00:36:59
+
+então o longe ficou perto não é Então essa
+ 00:37:02
+
+at digital ela ela se bem utilizada e
+ 00:37:05
+
+compreendida eu acho que ela veio muito
+ 00:37:09
+
+para agregar aos nossos trabalhos e nós
+ 00:37:12
+
+temos aí um uma uma experiência por fim
+ 00:37:15
+
+de uma ter também uma assistência
+ 00:37:18
+
+técnica ela pode ser virtual claro que
+ 00:37:19
+
+nós temos que dosar isso não é gente porque
+ 00:37:22
+
+a extensão Rural eu gosto sempre de
+ 00:37:25
+
+focar nisso ela tem uma relação de
+ 00:37:28
+
+afetividade que precisa ser preservada e
+ 00:37:31
+
+dificilmente nós vamos criar essa
+ 00:37:34
+
+relação de afetividade utilizando Só
+ 00:37:37
+
+Telas de computadores e celulares
+ 00:37:39
+
+dificilmente nós vamos adquirir aquela
+ 00:37:42
+
+relação quase familiar não é a gente vive
+ 00:37:45
+
+isso no campo eu já vivi nos meus 13
+ 00:37:49
+
+anos que eu fiquei no campo eu era eu me
+ 00:37:51
+
+sentia quase parte integrante de uma
+ 00:37:53
+
+família se eu eu só utilizar o WhatsApp
+ 00:37:55
+
+para tratar das questões com aquele
+ 00:37:59
+
+produtor agora essas ferramentas são
+ 00:38:01
+
+importantes são extremamente importantes
+ 00:38:03
+
+e eu digo que é um caminho sem volta
+ 00:38:06
+
+aqueles que acham que nós não podemos eh
+ 00:38:09
+
+considerar e que a extensão rural tem
+ 00:38:12
+
+que ser só presencial eh infelizmente
+ 00:38:14
+
+elas vão ter que mudar Sua percepção não é
+ 00:38:18
+
+ou atuar em talvez em uma outra área
+ 00:38:22
+
+porque o analógico digital ele tá
+ 00:38:24
+
+muito perto e ele é hoje uma realidade
+ 00:38:28
+
+da extensão Rural pode
+ 00:38:31
+
+passar e aí eu trago rapidamente não é
+ 00:38:34
+
+dentro daquilo que a gente coloca como
+ 00:38:37
+
+sendo os desafios da terra como sendo a
+ 00:38:39
+
+uma leitura de cenário não é como que a
+ 00:38:42
+
+Emater Ela Tem trabalhado internamente
+ 00:38:45
+
+não é Eh a questão por exemplo das
+ 00:38:48
+
+capacitações cursos reuniões virtuais
+ 00:38:50
+
+como que aqui na unidade Central A gente
+ 00:38:53
+
+tem pensado muita estrutura da empresa
+ 00:38:56
+
+também utilizando as ferramentas
+ 00:38:58
+
+digitais então nós recebemos mais de 500
+ 00:39:00
+
+colegas novos na empresa todos passaram
+ 00:39:03
+
+pelo Pré serviço eh digital então eles
+ 00:39:06
+
+foram eh o esse processo foi teve início
+ 00:39:09
+
+durante a pandemia e depois a gente
+ 00:39:13
+
+Manteve porque nós entendemos que as
+ 00:39:15
+
+capacitações elas são continuadas mesmo
+ 00:39:19
+
+que elas fossem presenciais nós não
+ 00:39:21
+
+íamos superar tudo que precisava ser
+ 00:39:24
+
+dito e trabalhado com esse grupo então a
+ 00:39:26
+
+gente dá aquilo que a gente chama de
+ 00:39:28
+
+pontapé inicial a gente confia muito na
+ 00:39:30
+
+estrutura da empresa esses técnicos são
+ 00:39:33
+
+recebidos por coordenadores regionais
+ 00:39:35
+
+por outros colegas que T muita
+ 00:39:38
+
+experiência na imat e essa troca entre
+ 00:39:39
+
+os pares ela às vezes é mais produtiva
+ 00:39:43
+
+às vezes do que uma outra pessoa falando
+ 00:39:46
+
+em uma determinado determinada temática
+ 00:39:49
+
+Então os cursos e reuniões virtuais são
+ 00:39:52
+
+uma realidade eu vejo isso como um
+ 00:39:54
+
+facilitador da nossa ação não é Eu tô aqui
+ 00:39:57
+
+hoje sou gestora de um contrato com
+ 00:40:00
+
+idene eu preciso de resolver uma questão
+ 00:40:02
+
+lá em Almenara eu abro uma videochamada
+ 00:40:04
+
+com uma colega no computador projeto a
+ 00:40:08
+
+minha planilha e a gente discute aquilo
+ 00:40:10
+
+que precisa ser resolvido não é Nós temos
+ 00:40:12
+
+hoje uma plataforma mudo não é que é o EAD
+ 00:40:14
+
+da Mate eu Eu não busquei com os colegas
+ 00:40:17
+
+Quantos cursos nós temos lá se alguém
+ 00:40:21
+
+tiver presente quiser colocar no chat o
+ 00:40:23
+
+Carlos fica à vontade mas nós temos
+ 00:40:25
+
+muitos cursos que são oferecidos para os
+ 00:40:28
+
+nossos colegas é um espaço muito
+ 00:40:30
+
+interessante aqui eu faço um parêntese
+ 00:40:33
+
+para falar da equipe da educação
+ 00:40:35
+
+corporativa que é uma equipe que vem
+ 00:40:37
+
+revolucionando essa relação de formação
+ 00:40:39
+
+na nossa empresa ela lidera um trabalho
+ 00:40:43
+
+que eu considero Fundamental e que tem
+ 00:40:46
+
+uma relação Direta com a metodologia
+ 00:40:48
+
+tanto é que esse trabalho de revisão da
+ 00:40:50
+
+mecpar é a equipe de metodologia tem
+ 00:40:52
+
+liderado junto com a educação
+ 00:40:55
+
+corporativa e foi nomeado mais algum
+ 00:40:57
+
+alguns colegas de Campo que T
+ 00:41:00
+
+participado mais efetivamente mas todos
+ 00:41:02
+
+terão a oportunidade de
+ 00:41:05
+
+participar e por fim eu não quero
+ 00:41:08
+
+estourar o meu tempo eh nós temos uma
+ 00:41:11
+
+plataforma digital que é o demeter não é
+ 00:41:13
+
+que é uma plataforma de apoio ao
+ 00:41:15
+
+extensionista ali ele tem espaços de
+ 00:41:17
+
+para ele fazer o cadastro do seu cliente
+ 00:41:20
+
+fazer o lançamento das suas das suas
+ 00:41:22
+
+atividades não é Tem análise de solo tem no
+ 00:41:24
+
+espaço eh da Embrapa não é que acessa lá o
+ 00:41:27
+
+trabalho desenvolvido com a Embrapa
+ 00:41:30
+
+então é uma plataforma de apoio à ação
+ 00:41:32
+
+extensionista Então veja que o digital
+ 00:41:34
+
+nós temos outras tantas ferramentas eu
+ 00:41:36
+
+eu optei por trabalhar só com essas três
+ 00:41:39
+
+eh nós temos uma preocupação muito
+ 00:41:41
+
+grande também de utilizar o digital no
+ 00:41:44
+
+sentido de nós darmos celeridade ao
+ 00:41:48
+
+processo Eu acho que isso é que é legal
+ 00:41:50
+
+e entender o tempo também dos nossos
+ 00:41:52
+
+colegas do campo então o curso de AD que
+ 00:41:54
+
+fica disponível na plataforma e o
+ 00:41:57
+
+técnico pode fazer quando ele eh se
+ 00:41:59
+
+organizar para aquilo eu acho que é
+ 00:42:01
+
+muito interessante e conversa muito com
+ 00:42:03
+
+com o mundo que nós estamos vivendo hoje
+ 00:42:06
+
+não é E só por fim eh dessa dessa dessa
+ 00:42:08
+
+planilha eu quero falar um pouco de que
+ 00:42:13
+
+a matéria ela tem uma preocupação quando
+ 00:42:15
+
+a gente
+ 00:42:17
+
+fala lá dos Desafios de até eh de toda
+ 00:42:24
+
+aqu não é ideia de prão agropecuária eh aem
+ 00:42:28
+
+matéria ela tem toda uma preocupação na
+ 00:42:32
+
+formação dos nossos colegas então no ano
+ 00:42:33
+
+de 2023 foram capacitados 134
+ 00:42:35
+
+extensionistas com repetição
+ 00:42:38
+
+4654 colegas passaram por alguma
+ 00:42:41
+
+capacitação hoje nós temos a liberdade
+ 00:42:44
+
+de solicitar eh participação em
+ 00:42:47
+
+seminário em cursos então a matéria ela
+ 00:42:50
+
+uma empresa absolutamente aberta e
+ 00:42:53
+
+preocupada t bem com a formação do seu
+ 00:42:56
+
+corpo técnico eh rapidamente eu quero
+ 00:42:58
+
+falar um pouco das mídias sociais não é É
+ 00:43:02
+
+só mesmo para conhecimento a matela ela
+ 00:43:05
+
+tá presente hoje no YouTube ledin
+ 00:43:08
+
+Instagram Facebook Rafael tá aqui não me
+ 00:43:10
+
+deixa mentir porque ele é é uma pessoa
+ 00:43:13
+
+que trabalha diretamente com esses
+ 00:43:16
+
+Espaços das mídias sociais não é fez
+ 00:43:17
+
+Inclusive a divulgação desse momento
+ 00:43:21
+
+aqui faço aqui um agradecimento a ele e
+ 00:43:22
+
+isso é importante não é gente é o mundo que
+ 00:43:26
+
+nós vivemos hoje eh e a gente tem que
+ 00:43:28
+
+est preparado também para ocupar esses
+ 00:43:31
+
+espaços nós temos que ter maturidade
+ 00:43:33
+
+profissional para isso não é Eh foi
+ 00:43:35
+
+colocado lá esse debate poderíamos
+ 00:43:37
+
+sofrer críticas achar que essa temática
+ 00:43:40
+
+não é adequada não é E que bom que as
+ 00:43:42
+
+pessoas podem se manifestar eu sou
+ 00:43:44
+
+absolutamente democrática eu acho que a
+ 00:43:46
+
+gente tem que valorizar cada vez mais as
+ 00:43:49
+
+manifestações mesmo que elas não nos
+ 00:43:51
+
+agrade porque por trás daquela
+ 00:43:53
+
+manifestação certa mente existe uma
+ 00:43:55
+
+outra história que precisa ser
+ 00:43:58
+
+trabalhada talvez de insatisfação de
+ 00:43:59
+
+aborrecimento de alguma alguma uma
+ 00:44:02
+
+alguma atitude de alguma pessoa que às
+ 00:44:06
+
+vezes não foi de acordo então que bom
+ 00:44:08
+
+que as pessoas se manifestam não é Eu acho
+ 00:44:11
+
+que muito do que a gente vive hoje dos
+ 00:44:13
+
+nossas relações sociais não é dessa
+ 00:44:15
+
+quantidade tão grande de pessoas
+ 00:44:18
+
+adoecidas estamos todos noss sujeito a
+ 00:44:20
+
+isso é muito em função das pessoas não
+ 00:44:23
+
+falarem eu sou sempre a favor das
+ 00:44:25
+
+pessoas falarem nós temos que falar É
+ 00:44:27
+
+claro que de forma respeitosa claro que
+ 00:44:29
+
+utilizando da Inteligência Emocional não é
+ 00:44:32
+
+a gente não pode agredir as pessoas mas
+ 00:44:34
+
+nos manifestar e nos colocarmos eh
+ 00:44:37
+
+diante daquilo que a gente entende que
+ 00:44:40
+
+precisa ser dito eu sou absolutamente a
+ 00:44:42
+
+favor e não tenho nenhum problema com
+ 00:44:44
+
+críticas desde que elas sejam
+ 00:44:47
+
+construtivas é claro não é porque é fato
+ 00:44:49
+
+que algumas pessoas às vezes criticam
+ 00:44:52
+
+por criticar mas essas a gente deleta e
+ 00:44:54
+
+a gente Segue o nosso caminhar eh certos
+ 00:44:57
+
+de que estamos fazendo aquilo que
+ 00:44:59
+
+precisa ser feito e é o correto eu só
+ 00:45:01
+
+queria agora na última parte da minha
+ 00:45:04
+
+apresentação que eu sei que eu tô
+ 00:45:06
+
+estourando o meu tempo eu só queria
+ 00:45:07
+
+falar um pouquinho das ações da emat eh
+ 00:45:08
+
+que ela vem desenvolvendo hoje porque eu
+ 00:45:11
+
+acho que elas conversam muito com essa
+ 00:45:13
+
+perspectiva de uma nova mcpa de uma
+ 00:45:15
+
+metodologia que tem aí o extensionista
+ 00:45:18
+
+não é como um gestor eh do Desenvolvimento
+ 00:45:21
+
+Social local eu acho que a gente algum
+ 00:45:24
+
+momento a gente vai ter que assumir isso
+ 00:45:26
+
+verdadeiramente não é E quando a gente fala
+ 00:45:28
+
+por exemplo do trabalho de ua indústria
+ 00:45:31
+
+de pequeno porte que é matéria
+ 00:45:33
+
+desenvolve hoje das equipes voltadas
+ 00:45:34
+
+para o desenvolvimento desse trabalho não é
+ 00:45:37
+
+Eh colegas muito Preparadas e não é só
+ 00:45:40
+
+eh é formação de grupos para atendimento
+ 00:45:44
+
+às necessidades locais mas é a formação
+ 00:45:47
+
+de um grupo de apoio que vai est
+ 00:45:49
+
+discutindo nos Espaços adequados uma
+ 00:45:52
+
+nova legislação para agricultura
+ 00:45:55
+
+familiar Então eu acho que a Emater hoje
+ 00:45:56
+
+ela tem muito também essa credibilidade
+ 00:45:58
+
+de não só orientar o produtor na melhor
+ 00:46:01
+
+rotulagem na forma correta de produzir
+ 00:46:03
+
+na sua infraestrutura mas nós temos
+ 00:46:06
+
+também uma responsabilidade de estar
+ 00:46:08
+
+ocupando os espaços de discussão de
+ 00:46:10
+
+adequação de legislação eh para
+ 00:46:13
+
+atendimento à Agricultura Familiar eh eu
+ 00:46:16
+
+costumo dizer que parece que a gente tem
+ 00:46:18
+
+um um uma autorização do Produtor para
+ 00:46:20
+
+entre aspas falar em nome dele é porque
+ 00:46:23
+
+nós somos conhecedores das suas dores
+ 00:46:26
+
+então a gente não pode se calar e não
+ 00:46:29
+
+pode deixar de nos manifestar e nesses
+ 00:46:31
+
+espaços porque a gente sabe que ainda
+ 00:46:34
+
+tem muita coisa que precisa ser
+ 00:46:36
+
+trabalhado e adequado para atender a
+ 00:46:38
+
+especificidade do que seja Agricultura
+ 00:46:41
+
+Familiar o o nós temos hoje uma rede não é
+ 00:46:43
+
+de queijos artesanais de Minas Gerais
+ 00:46:46
+
+uma equipe a Fernanda Maria Diniz faz um
+ 00:46:48
+
+trabalho maravilhoso não é Nós temos aí o
+ 00:46:51
+
+queijo cabacinha requeijão Moreno queijo
+ 00:46:54
+
+Minas artesanal é um trabalho
+ 00:46:57
+
+extremamente importante é um trabalho é
+ 00:46:59
+
+uma temática Regional isso tem um
+ 00:47:01
+
+impacto econômico para os produtores
+ 00:47:04
+
+para aquela região muito importante e a
+ 00:47:07
+
+maté tá ali presente não é discutindo
+ 00:47:09
+
+legislação apoiando orientando na melhor
+ 00:47:12
+
+forma de se produzir o turismo Rural nós
+ 00:47:15
+
+temos hoje uma coordenadora Estadual que
+ 00:47:18
+
+é a Tatiana não é que promove aí o que eu
+ 00:47:20
+
+chamo de uma revolução no trabalho do
+ 00:47:22
+
+Turismo Rural da empresa ela ela chegou
+ 00:47:24
+
+na empresa há pouco tempo formada em
+ 00:47:27
+
+turismo não é que eu acho que a formação
+ 00:47:30
+
+também ajuda muito é conhecedora dessa
+ 00:47:32
+
+temática e eu acho legal que ela chegou
+ 00:47:35
+
+trabalhando conceitos é muito dentro
+ 00:47:38
+
+dessa proposta que eu coloquei aqui da
+ 00:47:40
+
+revisão da mcpa nós precisamos de
+ 00:47:42
+
+trabalhar os conceitos nós precisamos de
+ 00:47:44
+
+entender que que esse é esse turismo
+ 00:47:46
+
+Rural não é o turismo
+ 00:47:49
+
+gastronômico o turismo de roteiros então
+ 00:47:51
+
+assim eh é um projeto extremamente
+ 00:47:54
+
+importante e que envolve muitas mulheres
+ 00:47:57
+
+e os jovens não é ainda tem esse outro viés
+ 00:48:00
+
+e temos também não poderia deixar de
+ 00:48:03
+
+citar aqui o certifica Minas café que eu
+ 00:48:06
+
+falo sem dúvida me desculpe os colegas
+ 00:48:10
+
+presentes mas eu acho que é um dos
+ 00:48:12
+
+projetos mais importantes em Mater hoje
+ 00:48:14
+
+em função da sua organização dessa rede
+ 00:48:16
+
+que a gente fala que é tão importante no
+ 00:48:19
+
+desenvolvimento da extensão Rural da
+ 00:48:22
+
+assistência técnica e também pela sua
+ 00:48:24
+
+capacidade de atuar na cadeia produtiva
+ 00:48:27
+
+eu converso às vezes com os colegas tem
+ 00:48:30
+
+o Serginho Bernardino Will eh que coloca
+ 00:48:32
+
+muito essa coisa na perspectiva de um
+ 00:48:35
+
+trabalho de certificação então não se
+ 00:48:38
+
+trabalha só com a produção do café mas
+ 00:48:41
+
+na produção de um café de qualidade nós
+ 00:48:43
+
+temos que ter o melhor café para atender
+ 00:48:45
+
+cada vez melhor o mercado nós temos que
+ 00:48:48
+
+ter também uma preocupação com as
+ 00:48:50
+
+questões ambientais trabalhistas sociais
+ 00:48:51
+
+não é a o bem-viver dessa essa família ela
+ 00:48:54
+
+é importante nesse processo então o o
+ 00:48:57
+
+certifica Minas café hoje é uma grande
+ 00:49:00
+
+bandeira da Emater é um caso de sucesso
+ 00:49:03
+
+que precisa ser multiplicado
+ 00:49:07
+
+internamente porque não para outras
+ 00:49:09
+
+instituições também eh de de até E aí eu
+ 00:49:11
+
+já caminho para o final da minha fala eu
+ 00:49:16
+
+queria rapidamente falar do do do
+ 00:49:18
+
+contrato a gente aqui chama de contrato
+ 00:49:21
+
+da educação não é que é uma uma ação dentro
+ 00:49:22
+
+da po política da alimentação escolar
+ 00:49:26
+
+que a em a empresa desenvolve em
+ 00:49:29
+
+parceria com a Secretaria Estadual de
+ 00:49:31
+
+Educação e é um projeto extremamente
+ 00:49:33
+
+importante porque ele tem uma
+ 00:49:35
+
+abrangência muito grande e ele tem um
+ 00:49:38
+
+propósito que a meu ver credibilização
+ 00:49:41
+
+não é muito nessa perspectiva de pensar a
+ 00:49:56
+
+teré e trabalhar os desafios que nos são
+ 00:49:59
+
+apresentados de forma a Gerar os
+ 00:50:02
+
+melhores resultados para o produtor
+ 00:50:05
+
+então Eh os recursos do penais não
+ 00:50:07
+
+estavam sendo adequadamente eh aplicados
+ 00:50:10
+
+não no sentido da ilegalidade mas do
+ 00:50:13
+
+acesso mesmo do Produtor a esse recurso
+ 00:50:16
+
+porque ele des conhecia da legislação
+ 00:50:19
+
+das exigências e a emat chegou forte eh
+ 00:50:22
+
+orientando esses agricultores familiares
+ 00:50:25
+
+na sua formalização
+ 00:50:27
+
+eh organizando eles muitas vezes em
+ 00:50:29
+
+grupos ou trabalhando com
+ 00:50:32
+
+empreendimentos já eh solidificados não é
+ 00:50:34
+
+já constituídos e
+ 00:50:37
+
+eh com isso os resultados são
+ 00:50:39
+
+agricultores familiares capacitados e
+ 00:50:42
+
+aptos para fornecer os alimentos para
+ 00:50:44
+
+merenda escolar a melhoria da renda da
+ 00:50:46
+
+Agricultura Familiar que é extremamente
+ 00:50:49
+
+importante poderia falar que de valores
+ 00:50:50
+
+mas não é o caso e a oferta de alimentos
+ 00:50:52
+
+saudáveis pros pros alunos de escolas
+ 00:50:55
+
+estaduais para mim esse último só sendo
+ 00:50:58
+
+esse já Valeria todo o esforço da
+ 00:51:01
+
+extensão Rural porque pensar que as
+ 00:51:04
+
+nossas crianças em um mundo cada vez de
+ 00:51:06
+
+alimentos Ultra processados não é e ter a
+ 00:51:09
+
+acesso a alimentos de qualidade
+ 00:51:12
+
+saudáveis produzidos pela Agricultura
+ 00:51:14
+
+Familiar isso é muito bonito isso
+ 00:51:16
+
+efetivamente no ausente de Orgulho e tem
+ 00:51:18
+
+o outro lado que a gente falou eh eu
+ 00:51:21
+
+acho que quando eu falei dos Desafios de
+ 00:51:23
+
+atéa eu não falei do financiamento de
+ 00:51:25
+
+Atera eu pulei Mas não tem problema
+ 00:51:27
+
+porque toda vez que a gente fala de
+ 00:51:30
+
+desafio de Atera a gente incorre no erro
+ 00:51:31
+
+de tratar só do financeiro Então Que bom
+ 00:51:34
+
+que eu tive tantas coisas a falar e não
+ 00:51:37
+
+foquei a minha fala no financeiro Apesar
+ 00:51:39
+
+dele ser extremamente importante então
+ 00:51:41
+
+por todo esse trabalho há uma
+ 00:51:44
+
+compensação por parte do Estado pelos
+ 00:51:46
+
+serviços prestados e esses recursos eles
+ 00:51:49
+
+são utilizados no custeio da emat tanto
+ 00:51:52
+
+com pessoal quanto por
+ 00:51:54
+
+equipamentos e por fim eu quero falar do
+ 00:51:57
+
+que a gente tem hoje eh que é a nossa
+ 00:52:00
+
+plataforma de comercialização
+ 00:52:03
+
+Marketplace não é Eh o é do campo nós
+ 00:52:05
+
+estamos proibidos de falar em
+ 00:52:08
+
+Marketplace nós temos uma plataforma de
+ 00:52:10
+
+comercialização que se chama é do campo
+ 00:52:12
+
+tem aí o QR Code não é se os colegas
+ 00:52:15
+
+quiserem acessar pessoas às vezes que
+ 00:52:17
+
+não é da emat mas quer conhecer essa
+ 00:52:19
+
+plataforma ela está em construção mas é
+ 00:52:22
+
+um espaço muito muito interessante ela
+ 00:52:25
+
+amplia significativamente a participação
+ 00:52:28
+
+da Agricultura Familiar no mercado por
+ 00:52:30
+
+meio da venda direta ao consumidor a
+ 00:52:33
+
+partir do uso dessas tecnologias não é que
+ 00:52:35
+
+é a própria o comércio eletrônico
+ 00:52:37
+
+associada ao serviço especializado de
+ 00:52:40
+
+até então não é uma plataforma só de
+ 00:52:42
+
+comercialização eh tem sido trabalhado
+ 00:52:45
+
+muito associada à prestação do serviço
+ 00:52:48
+
+de assistência técnica não é Que isso fique
+ 00:52:51
+
+claro então a matéria ela tem uma
+ 00:52:53
+
+preocupação no sentido de orientar
+ 00:52:55
+
+trabalhar aquela equipe lá de
+ 00:52:58
+
+agroindústria e todos os outros colegas
+ 00:53:00
+
+de tornar aquele produtor apto de estar
+ 00:53:03
+
+comercializando nessa plataforma e por
+ 00:53:07
+
+fim eu passo aqui acho que eu estourei
+ 00:53:10
+
+só um pouquinho tempo peço desculpas não é
+ 00:53:12
+
+Por Ficar às vezes muito cansativo eh eu
+ 00:53:14
+
+só quero voltar
+ 00:53:17
+
+eh naquilo que eu coloquei quando eu fui
+ 00:53:18
+
+convidada a estar aqui com vocês nesse
+ 00:53:21
+
+diálogo nessa troca eh eu coloquei
+ 00:53:24
+
+algumas perguntas provocativas não é e eu
+ 00:53:27
+
+queria eh um pouco respondê-las dentro
+ 00:53:31
+
+daquilo que eu entendo que seja o
+ 00:53:33
+
+caminho que a extensão Rural eh precisa
+ 00:53:36
+
+eh tomar eh diante de todos esses
+ 00:53:38
+
+cenários que a gente vive então o
+ 00:53:42
+
+trabalho da extensão Rural para minha
+ 00:53:43
+
+Para prestação de assistência técnica a
+ 00:53:45
+
+meu ver não o o trabalho da do da
+ 00:53:47
+
+extensão Rural do extensionista ele tem
+ 00:53:50
+
+que ser sempre focado em fazer um
+ 00:53:54
+
+trabalho de de extensão Rural Eu costumo
+ 00:53:56
+
+dizer que dentro da extensão Rural nós
+ 00:53:58
+
+temos assistência técnica mas dentro da
+ 00:54:00
+
+assistência técnica nós não temos a
+ 00:54:02
+
+extensão Rural a assistência técnica ela
+ 00:54:04
+
+é extremamente importante mas ela tem
+ 00:54:06
+
+que tá dentro da extensão Rural esse
+ 00:54:08
+
+olhar pela propriedade o olhar do todo
+ 00:54:11
+
+não é saber e entender e interagir com o
+ 00:54:14
+
+produtor na melhor forma de produção mas
+ 00:54:17
+
+também na melhor forma de viver é é
+ 00:54:20
+
+extremamente importante e isso quem faz
+ 00:54:23
+
+são os extensionistas que trabalha com
+ 00:54:25
+
+extensão Rural e não com assistência
+ 00:54:28
+
+técnica e eu costumo dizer no pré-viagem
+ 00:54:30
+
+prestadora de assistência técnica eu
+ 00:54:37
+
+arrisco a dizer que nós vamos ser
+ 00:54:40
+
+superados nós precisamos de focar
+ 00:54:43
+
+naquilo que nós somos bons e nós somos
+ 00:54:45
+
+bons em fazer extensão Rural é isso que
+ 00:54:47
+
+nos enche de orgulho eh as empresas de
+ 00:54:49
+
+extensão Rural serão apenas executores
+ 00:54:52
+
+de projetos específicos e políticas
+ 00:54:53
+
+públicas não sei eu acho que a
+ 00:54:55
+
+capilaridade as políticas públicas não é eu
+ 00:54:57
+
+citei aqui o exemplo do contrato da
+ 00:54:59
+
+educação eles são extremamente
+ 00:55:01
+
+importantes até na saúde financeira da
+ 00:55:03
+
+empresa não é Eh e a gente tem que entender
+ 00:55:05
+
+que hoje o cenário é esse não é e mas que
+ 00:55:09
+
+esse cenário a gente pode fazer do Limão
+ 00:55:12
+
+uma limonada não é se eu tenho que executar
+ 00:55:14
+
+uma política pública que eu Execute da
+ 00:55:17
+
+melhor forma possível considerando todos
+ 00:55:19
+
+aqueles princípios da extensão Rural eu
+ 00:55:21
+
+posso executar uma política pública sem
+ 00:55:24
+
+extremamente participativo não é e não só
+ 00:55:26
+
+cumpridor de metas a meta ela é
+ 00:55:30
+
+importante infelizmente a gente ainda
+ 00:55:32
+
+não conseguiu Superar Essa necessidade o
+ 00:55:34
+
+cumprimento de metas para a execução de
+ 00:55:37
+
+uma política pública mas ela pode ser só
+ 00:55:39
+
+parte de um processo que os colegas
+ 00:55:41
+
+podem certamente trabalhar de forma
+ 00:55:43
+
+muito melhor do que aquela definida
+ 00:55:46
+
+dentro de um projeto aí eu coloco em o
+ 00:55:48
+
+mundo tão complexo dinâmico as ações
+ 00:55:51
+
+coletivas com os resultados mais
+ 00:55:53
+
+abrangentes essa aí eu não tenho dúvida
+ 00:55:55
+
+eu acho que nós temos que discutir a
+ 00:55:57
+
+empresa a extensão Rural do país dentro
+ 00:55:59
+
+dessa lógica do coletivo e aí Alguns
+ 00:56:02
+
+colegas falam assim Ah então assistência
+ 00:56:05
+
+técnica aquela ida na propriedade ela
+ 00:56:07
+
+vai deixar de existir não ela não vai
+ 00:56:09
+
+deixar ela é parte de um processo
+ 00:56:11
+
+coletivo é essa discussão que a gente
+ 00:56:13
+
+precisa de trazer também para além de
+ 00:56:15
+
+discutir a assistência técnica com a
+ 00:56:18
+
+extensão Rural nós precisamos discutir o
+ 00:56:21
+
+que que é coletivo que que é individual
+ 00:56:23
+
+se você trabalha com a temática de
+ 00:56:25
+
+bovinocultura e você vai à propriedade
+ 00:56:27
+
+do Produtor eu não Considero que esse
+ 00:56:29
+
+atendimento que você faz o produtor é um
+ 00:56:32
+
+atendimento individual ele é uma
+ 00:56:34
+
+assistência técnica individual mas ele
+ 00:56:36
+
+tá dentro de uma dimensão coletiva então
+ 00:56:38
+
+nós precisamos de discutir um pouco a
+ 00:56:41
+
+meu ver o que sejam atividades coletivas
+ 00:56:43
+
+não é não necessariamente eu tenho que
+ 00:56:46
+
+reunir os produtores numa sala para eu
+ 00:56:48
+
+ter uma ação coletiva no campo então eu
+ 00:56:50
+
+acho eh não vejo perspectivas assim
+ 00:56:52
+
+próxim
+ 00:56:55
+
+de nós mudarmos os cenário de número de
+ 00:56:56
+
+funcionários no campo recursos para a
+ 00:56:58
+
+ater Então nesse sentido Nós temos que
+ 00:57:01
+
+nos adequar e eu acho que o coletivo ele
+ 00:57:04
+
+dá para nós eh resultados mais
+ 00:57:07
+
+significativos não é dentro daquela lógica
+ 00:57:10
+
+de nós atendemos as necessidades sociais
+ 00:57:13
+
+do que às vezes um atendimento
+ 00:57:15
+
+individual que vai continuar existindo
+ 00:57:16
+
+mas não pode ser o foco da extensão
+ 00:57:18
+
+Rural E aí como fica os atendimentos
+ 00:57:21
+
+individuais onde são construídas as
+ 00:57:24
+
+relações de efetividade e troca tão
+ 00:57:26
+
+importantes para o trabalho de extensão
+ 00:57:28
+
+eles sempre vão existir eu eu costumo
+ 00:57:29
+
+dizer que o extensionista o
+ 00:57:32
+
+extensionista ele consegue estabelecer
+ 00:57:35
+
+essa relação de afetividade e troca com
+ 00:57:38
+
+os produtores e eu desafio a dizer é
+ 00:57:40
+
+arrisco dizer que ela é fundamental
+ 00:57:43
+
+nesse trabalho de extensão Rural E então
+ 00:57:47
+
+aqui eu já parto para as para
+ 00:57:51
+
+encerramento da minha fala eu acho que
+ 00:57:55
+
+eu falei bastante
+ 00:57:57
+
+Eh quero pedir desculpas aí se eu
+ 00:57:58
+
+estourei muito tempo eh mas a ansiedade
+ 00:58:00
+
+de querer colocar eu eu quero dizer
+ 00:58:03
+
+inclusive
+ 00:58:06
+
+eh pode tirar eu quero dizer inclusive
+ 00:58:07
+
+que
+ 00:58:10
+
+eh quando a gente é convidado a estar
+ 00:58:12
+
+num espaço como esse ô ô Ezequiel a
+ 00:58:15
+
+gente quer falar tudo não é e assim isso
+ 00:58:18
+
+gera um pouco de ansiedade e e muita
+ 00:58:21
+
+coisa que eu gostaria de falar aqui
+ 00:58:24
+
+muito também voltado para essa coisa do
+ 00:58:26
+
+trabalho coletivo por exemplo a
+ 00:58:28
+
+certificação que é um trabalho que é
+ 00:58:29
+
+maté faz maravilhoso eh eu me coloco
+ 00:58:31
+
+aqui à disposição e eu acho que eu posso
+ 00:58:34
+
+falar em nome dos colegas professores em
+ 00:58:36
+
+tela eh nós temos muito a apresentar e
+ 00:58:38
+
+contribuir nesse debate eh Nós temos
+ 00:58:41
+
+muitos colegas que poderiam estar
+ 00:58:44
+
+sentado aqui falando dos seus trabalhos
+ 00:58:45
+
+entendeu contribuindo que eu acho que é
+ 00:58:48
+
+nessa nessa troca é que nós vamos ficar
+ 00:58:51
+
+cada vez mais fortes E acima de tudo
+ 00:58:54
+
+necessários Nós podemos ser muito forte
+ 00:58:57
+
+mas se nós deixarmos de ser necessários
+ 00:59:00
+
+para a sociedade para os nossos
+ 00:59:02
+
+produtores eu temo que a gente possa ser
+ 00:59:04
+
+superado muito obrigado pelo convite e
+ 00:59:07
+
+estou à
+ 00:59:09
+
+disposição muito bom Luciana grande
+ 00:59:10
+
+extensionista hein Olha só Luciana assim
+ 00:59:13
+
+a gente já aproveita com essa sua fala e
+ 00:59:16
+
+já convida todos os extensionistas da
+ 00:59:18
+
+imater minas que gostariam e de fato
+ 00:59:21
+
+estar aqui dialogando conosco porque às
+ 00:59:25
+
+vezes a gente não conhece todos eu
+ 00:59:27
+
+conheci alguns na minha estadia em Minas
+ 00:59:28
+
+Gerais meus 4 anos de Unaí mas a gente
+ 00:59:31
+
+Às vezes tem umas experiências muito
+ 00:59:34
+
+legais que a gente não conhece e a gente
+ 00:59:35
+
+não chama porque não conhece não é Tem
+ 00:59:37
+
+tanta gente em Minas Minas é uma
+ 00:59:39
+
+internidade para sair de Unaí para
+ 00:59:41
+
+chegar em Diamantina é quase 8 horas não é
+ 00:59:43
+
+então não é não é pouca coisa então
+ 00:59:46
+
+assim sintam-se todos convidado só
+ 00:59:48
+
+entrar em contato pelas redes sociais o
+ 00:59:50
+
+WhatsApp da vida aí que a gente organiza
+ 00:59:53
+
+não é isso Isso é muito bom e outro não tem
+ 00:59:55
+
+como falar de da história da extensão
+ 00:59:57
+
+Rural não é isso é impossível não é Sem falar
+ 01:00:00
+
+da imater Minas Gerais Isso é isso é
+ 01:00:02
+
+impossível não tem como falar de maxpar
+ 01:00:05
+
+sem falar da imater minasgerais e isso é
+ 01:00:08
+
+sério isso não é um um elogio à toa não é É
+ 01:00:11
+
+É algo assim que a se considerar nós
+ 01:00:14
+
+temos nossos alunos do técnico
+ 01:00:17
+
+horticultura EAD aqui ó olha só nós
+ 01:00:18
+
+temos um curso técnico F cultura EAD
+ 01:00:20
+
+onde a gente tem 25% do nossos nosso
+ 01:00:23
+
+curso EAD presencial realmente eles vêm
+ 01:00:26
+
+fazer as técnicas aqui e a gente fala do
+ 01:00:28
+
+maxp digital do maxp não é de 2006 da Mater
+ 01:00:31
+
+Minas Gerais que sempre fez aí a frente
+ 01:00:36
+
+aí tá sendo a frente há muitos anos na
+ 01:00:38
+
+extensão Rural Então isso é muito
+ 01:00:40
+
+importante então assim tem que
+ 01:00:42
+
+parabenizar Eu acho que um das falas
+ 01:00:45
+
+assim que mais chamou a atenção da
+ 01:00:47
+
+Luciana é a afetividade não é é afetividade
+ 01:00:48
+
+e e a gente tenta transpassar essa
+ 01:00:52
+
+afetividade o professor Gustavo Pinto Tá
+ 01:00:55
+
+assistindo lá da Espanha também e ele e
+ 01:00:57
+
+ele comenta muito isso não é para os nossos
+ 01:00:59
+
+alunos e ad e também para nossos
+ 01:01:02
+
+agricultores que a gente atende não é como
+ 01:01:05
+
+conseguir fazer isso e a gente usa
+ 01:01:07
+
+muitas metodologias por exemplo
+ 01:01:09
+
+professor Gustavo tem aqui com a poeira
+ 01:01:11
+
+que é a Feira do Agricultor dentro da
+ 01:01:13
+
+Universidade Federal de Santa Maria onde
+ 01:01:15
+
+ele conseguiu trazer esse esse grande
+ 01:01:17
+
+projeto aí faz mediações pro WhatsApp
+ 01:01:19
+
+mas tem as mediações presenciais muito
+ 01:01:21
+
+importantes e a que acontece e onde se
+ 01:01:24
+
+cria os vínculos não é E essa questão da
+ 01:01:26
+
+afetividade ela é muito importante mesmo
+ 01:01:28
+
+bom agora eu vou passar algumas algumas
+ 01:01:31
+
+questões aqui e aí a Luciana vai ficar à
+ 01:01:33
+
+vontade para comentar todas elas deixa
+ 01:01:37
+
+eu ver se eu consigo identificar alguns
+ 01:01:40
+
+não se identificaram aqui mas eu só
+ 01:01:41
+
+volar só P ter uma noção para onde é que
+ 01:01:43
+
+tá aqui o pessoal aqui região de região
+ 01:01:46
+
+central do Sul Andreia nosso aluna da
+ 01:01:49
+
+fruticultura futuro extensionista ral
+ 01:01:51
+
+sempre falo para Andreia presente não é e é
+ 01:01:54
+
+real assim ela passou no processo
+ 01:01:57
+
+seletivo da im matéria aqui Rio Grande
+ 01:01:59
+
+do Sul e tem bastante gente aqui tem
+ 01:02:01
+
+pessoal de São Paulo que eu já vi eu não
+ 01:02:04
+
+posso deixar de registrar o Egídio na
+ 01:02:07
+
+presença dele que amanhã ele vai
+ 01:02:09
+
+defender a dissertação não é orientada pelo
+ 01:02:10
+
+Maestro Zuin não é É sobre análise dos
+ 01:02:13
+
+portais de internet da extensão Rural não é
+ 01:02:17
+
+então isso é muito legal muito inovador
+ 01:02:21
+
+essa essa Nossa essa essa ação do Egídio
+ 01:02:23
+
+temos aqui também o nosso famoso Zap
+ 01:02:26
+
+Rural Felipe aí prestigiando aí da ipag
+ 01:02:29
+
+muito bom tem muita gente da imater aqui
+ 01:02:32
+
+daí toda imater Minas Gerais que eu não
+ 01:02:35
+
+vou conseguir passar todo mundo aqui não é
+ 01:02:37
+
+mas tá a galera toda min minha terra ó
+ 01:02:39
+
+Cajuri é minha terra eu sou de Cajuri
+ 01:02:42
+
+legal olha aí ó que legal a Marines da
+ 01:02:45
+
+Emater do Sul a Marta A Marta já é
+ 01:02:49
+
+famosa que a Marta já conheço a Marta
+ 01:02:52
+
+muito bom a aqui ó São João do polese
+ 01:02:54
+
+nosso nosso agricultor Adelar
+ 01:02:57
+
+fruticultor também não é São João do polese
+ 01:03:00
+
+Rio Grande do Sul tem muita gente aqui a
+ 01:03:03
+
+Cátia de São Paulo que não posso deixar
+ 01:03:05
+
+representada pela Carolina tem mais
+ 01:03:08
+
+gente aqui não é nem todos comentaram já
+ 01:03:10
+
+tem bastantes elogios aqui não é parabéns
+ 01:03:13
+
+pelo evento Vamos começar com essa
+ 01:03:15
+
+questão aqui ó da Tânia Parabéns Luciana
+ 01:03:18
+
+vejo que o novo profissional da extensão
+ 01:03:22
+
+Rural
+ 01:03:25
+
+necessariamente ainda não sabe o que é
+ 01:03:26
+
+ser um extensionista isso é interessante
+ 01:03:28
+
+eh eu tava dando aula pro técnico
+ 01:03:30
+
+zootecnia aqui mas aí pensa não é são são
+ 01:03:33
+
+são jovens de de 17 a 21 anos Eles não
+ 01:03:36
+
+sabiam o que era se extensionista para
+ 01:03:40
+
+eles tem lógica não saber que eu ser um
+ 01:03:42
+
+extensionista tá ainda como vai começar
+ 01:03:44
+
+a vida profissional mas realmente a
+ 01:03:46
+
+gente tem ainda eh pessoas que já tão
+ 01:03:49
+
+formadas e não tem essa noção o que que
+ 01:03:52
+
+você pode dizer sobre essa questão da
+ 01:03:54
+
+sua experiência
+ 01:03:57
+
+Luciano ó eh sen abriu não eu eu
+ 01:03:58
+
+concordo com a Tânia nesse sentido eu
+ 01:04:03
+
+acho que isso é um trabalho de todos nós
+ 01:04:06
+
+sabe Ezequiel a Tânia é uma querida
+ 01:04:07
+
+colega da empresa coordenadora lá de
+ 01:04:10
+
+Governador Valadares eh eu acho que eu
+ 01:04:12
+
+eu costumo dizer o seguinte que tem
+ 01:04:15
+
+pessoas que nascem para ser
+ 01:04:17
+
+extensionistas outras não é como você
+ 01:04:18
+
+colocar um pesquisador para fazer o
+ 01:04:21
+
+trabalho da extensão ele nunca vai ser
+ 01:04:22
+
+extensionista
+ 01:04:24
+
+fio dele é diferente quando a gente
+ 01:04:25
+
+recebe os colegas na empresa no final do
+ 01:04:27
+
+Pré serviço a gente fala assim gente
+ 01:04:29
+
+observem bem se esse é o espaço que
+ 01:04:31
+
+vocês querem ocupar se não for tudo bem
+ 01:04:33
+
+também vão ocupar outros espaços sabe a
+ 01:04:36
+
+sociedade tá cheia de espaço que
+ 01:04:39
+
+precisam de pessoas porque na verdade o
+ 01:04:41
+
+extensionista ele tem toda uma
+ 01:04:43
+
+característica e eu não quero me fazer
+ 01:04:45
+
+repetitiva mas que tem uma preocupação
+ 01:04:48
+
+com essa relação da afetividade sabe e
+ 01:04:50
+
+infelizmente a gente sente que alguns
+ 01:04:52
+
+colegas e não não só por culpa deles mas
+ 01:04:54
+
+também em função de muita demanda a
+ 01:04:57
+
+gente sabe que a demanda eh do trabalho
+ 01:04:59
+
+do campo ela é muito grande então às
+ 01:05:01
+
+vezes o próprio colega na exercício da
+ 01:05:04
+
+sua função ele tá só pagando incêndio
+ 01:05:07
+
+sabe então assim a gente tem uma
+ 01:05:10
+
+preocupação nessa nova mepa de trazer
+ 01:05:12
+
+algumas orientações no sentido dele
+ 01:05:14
+
+otimizar também esse tempo para que ele
+ 01:05:16
+
+possa estabelecer essa relação para que
+ 01:05:19
+
+ele possa não só presencialmente lá mas
+ 01:05:21
+
+receber o produtor eu quando eu fui
+ 01:05:24
+
+extensionista de Campo eu falava com
+ 01:05:26
+
+todos os produtores a matéria é a sua
+ 01:05:29
+
+casa então você vai na cidade às vezes é
+ 01:05:31
+
+um dia de chuva ele precisa trocar um
+ 01:05:33
+
+sapato que tá em lameado é lá na emate
+ 01:05:36
+
+que você vai fazer isso você troca o seu
+ 01:05:39
+
+sapato lá tem um café lá tem um biscoito
+ 01:05:41
+
+Olha só como é que você cria vínculos de
+ 01:05:44
+
+efetividade não necessariamente noo lá
+ 01:05:46
+
+prestar assistência técnica um produtor
+ 01:05:48
+
+chega para você você tem que
+ 01:05:50
+
+necessariamente dar um abraço nele sabe
+ 01:05:52
+
+ele é um par ser o seu ai às vezes eles
+ 01:05:54
+
+brincava assim a eu tô Suada não não tem
+ 01:05:57
+
+problema não vem cá sabe então esse
+ 01:05:59
+
+carinho sabe que eu acho que hoje na
+ 01:06:01
+
+sociedade infelizmente eh a gente tá
+ 01:06:03
+
+perdendo sabe então assim ser
+ 01:06:06
+
+extensionista Tânia eu não sei se eu
+ 01:06:08
+
+consegui te responder mas é um processo
+ 01:06:10
+
+que é de uma responsabilidade também
+ 01:06:12
+
+nossa no sentido de orientar de dele
+ 01:06:14
+
+sentar tem um exemplo que eu gosto muito
+ 01:06:17
+
+que fala assim o técnico o que faz a
+ 01:06:19
+
+assistência técnica ele vai na casa do
+ 01:06:22
+
+Produtor e olha a vaca dele que tá
+ 01:06:24
+
+doente isso é assistência técnica ele
+ 01:06:26
+
+atendeu fez a prescrição lá do que
+ 01:06:29
+
+precisa ser feito explicou às vezes até
+ 01:06:31
+
+deixou um relatório Zinho que é
+ 01:06:33
+
+importante que deixe não é registrado que
+ 01:06:34
+
+precisa ser feito o extensionista ele
+ 01:06:36
+
+vai na casa do Produtor atender a vaca
+ 01:06:38
+
+dele que tá doente ele observa que o
+ 01:06:40
+
+esgoto dele tá sendo julgado no pé da
+ 01:06:42
+
+horta dele ele observa já duas três
+ 01:06:44
+
+vezes que ele vai lá que aqu a criança
+ 01:06:47
+
+não não Tá frequentando na escola que
+ 01:06:48
+
+que tá acontecendo Então ele nesse
+ 01:06:50
+
+contato nessa relação por isso que a
+ 01:06:52
+
+gente fala que a proximidade AF idade
+ 01:06:54
+
+ela é importante ele pode questionar eu
+ 01:06:55
+
+tenho observado que o seu filho não tá
+ 01:06:58
+
+será que é um problema de transporte
+ 01:07:00
+
+escolar Olha aí o papel do extensionista
+ 01:07:02
+
+de C ponte sabe por isso que quando a
+ 01:07:04
+
+gente fala com os colegas que chegam
+ 01:07:06
+
+novos no município Se apresente pro
+ 01:07:08
+
+secretário de educação se apresente para
+ 01:07:10
+
+o secretário de saúde por quê Porque o
+ 01:07:13
+
+seu trabalho do campo não tem Como
+ 01:07:16
+
+desvincular dessas pessoas entendeu Você
+ 01:07:18
+
+pode chegar lá e educadamente questionar
+ 01:07:20
+
+Olha eu tenho visitado umas propriedades
+ 01:07:22
+
+as crianças não estão frequentando na
+ 01:07:24
+
+escola por quê Porque não tem transporte
+ 01:07:25
+
+escolar a ponte caiu sabe então assim eh
+ 01:07:27
+
+Isso é ser extensionista e você ter uma
+ 01:07:31
+
+olhar sobre o todo e Não especificamente
+ 01:07:33
+
+daquilo que você foi lá e foi eh foi
+ 01:07:36
+
+atender desculpa eu me alonguei muito
+ 01:07:39
+
+não tá ótimo é para nós dialogar mesmo
+ 01:07:41
+
+aqui agora A ideia é dialogar eh você
+ 01:07:44
+
+comentou dessa questão assim de de o
+ 01:07:47
+
+trabalho de extensão oral obviamente ele
+ 01:07:49
+
+é muito complexo não é como você colocou no
+ 01:07:52
+
+título da sua Live não é muito complexo e
+ 01:07:55
+
+dinâmico não é E ontem nós esta visitando a
+ 01:07:57
+
+imater Silveira Martins que foi um dos
+ 01:08:01
+
+Municípios muito atingidos aqui que a
+ 01:08:03
+
+gente quer fazer um trabalho de
+ 01:08:05
+
+fruticultura na região e e a e ela e a
+ 01:08:06
+
+extensionista da Emater inclusive já fez
+ 01:08:09
+
+algumas lives aí também ela já é Doutora
+ 01:08:12
+
+formada tem todas as condições para para
+ 01:08:15
+
+fazer um ótimo trabalho não é e faz um
+ 01:08:17
+
+ótimo trabalho ess ver matins E aí ela
+ 01:08:19
+
+comentou que olha min a gente precisa de
+ 01:08:22
+
+esforço porque os períodos que a gente
+ 01:08:24
+
+mais precisa atuar junto na fruticultura
+ 01:08:27
+
+são os períodos de Julho Agosto e
+ 01:08:29
+
+Setembro aonde a gente faz os projetos
+ 01:08:31
+
+de crédito eu não consigo sair do
+ 01:08:33
+
+escritório porque lota de projeto de
+ 01:08:34
+
+crédito aqui não é então assim vê como que
+ 01:08:36
+
+é a dificuldade não é então ass sempre
+ 01:08:39
+
+precisa somar forças não é na área porque
+ 01:08:42
+
+precisa a estensão Rural precisa
+ 01:08:45
+
+trabalhar com um monte de coletivos não
+ 01:08:46
+
+é só um extensionista que vai conseguir
+ 01:08:49
+
+resolver todos os problemas não é então
+ 01:08:50
+
+isso isso é muito relevante não é deixa eu
+ 01:08:53
+
+colocar aqui também o comentário da
+ 01:08:55
+
+Adriana da casa da agricultura de São
+ 01:08:58
+
+José do Rio Preto São Paulo está aqui
+ 01:09:00
+
+presente também eh o pessoal da C Tem
+ 01:09:03
+
+bastante gente aqui a Tânia coloca assim
+ 01:09:06
+
+ó que o profissional Ah está sem bagagem
+ 01:09:08
+
+sobre extensão talvez o problema está
+ 01:09:11
+
+nas universidades nesse caso um pouco
+ 01:09:13
+
+entendimento sobre extensão para o
+ 01:09:15
+
+profissional da área técnica técnico é
+ 01:09:17
+
+só técnico não é eu vou comentar um
+ 01:09:19
+
+pouquinho depois eu passo a palavra para
+ 01:09:22
+
+você é eu ia falar isso vocês estão com
+ 01:09:24
+
+mais credencial para responder isso aí
+ 01:09:26
+
+do que eu não mas é que é tranquilo a a
+ 01:09:28
+
+universidade ela ela já tá pensando
+ 01:09:32
+
+sobre essas questões nós no colégio
+ 01:09:34
+
+politécnico da UFSM por exemplo a gente
+ 01:09:36
+
+tem uma metodologia de de detar tentar
+ 01:09:38
+
+dar o máximo de bagagem de campo para
+ 01:09:41
+
+esse aluno que está fazendo o curso mas
+ 01:09:44
+
+aí cada um depende da sua maturidade
+ 01:09:46
+
+como encara esse momento não é porque assim
+ 01:09:49
+
+um dos grandes desafios é você colocar o
+ 01:09:51
+
+aluno a fazer não é você Como você aprende
+ 01:09:54
+
+não é você não aprende só olhando não é o
+ 01:09:57
+
+professor olhando o cara fazer mas
+ 01:10:00
+
+também fazendo não é e a Quando você vai
+ 01:10:02
+
+fazer quando você for trabalhar com isso
+ 01:10:04
+
+não é Então essa é a grande dificuldade
+ 01:10:07
+
+Então as nossas metodologias a gente
+ 01:10:09
+
+coloca inclusive na EAD é o aluno fazer
+ 01:10:10
+
+para nós importa ele fazer mais do que a
+ 01:10:14
+
+gente ficar só mostrando como faz eh vai
+ 01:10:17
+
+resolver para alguns resolve para outros
+ 01:10:22
+
+não resolve vai depender de como tu
+ 01:10:26
+
+encara essa questão não é então isso é bem
+ 01:10:28
+
+difícil não é mas realmente é isso aí
+ 01:10:30
+
+técnico é só técnico e E é isso que a
+ 01:10:32
+
+gente enfrenta muito nos cursos das
+ 01:10:35
+
+agrárias não é porque eles vêm buscar
+ 01:10:37
+
+conhecimento técnico não é E a gente tem
+ 01:10:39
+
+que a gente mostra bom pera aí mas tem
+ 01:10:42
+
+as pessoas como a Luciana falou não é as
+ 01:10:44
+
+pessoas como centro do processo não é e
+ 01:10:47
+
+isso é bem bem difícil não é enfim Se vocês
+ 01:10:49
+
+quiser fazer comentários também fique à
+ 01:10:52
+
+vontade
+ 01:10:54
+
+só para não me alongar muito aqui e não
+ 01:10:57
+
+acho que é isso mesmo fá pode falar e
+ 01:10:59
+
+tem a coisa do perfil não é que eu não
+ 01:11:01
+
+quero me fazer repetitiva assim eu acho
+ 01:11:02
+
+que tem o perfil Tem pessoas que não tem
+ 01:11:04
+
+perfil para ser extensionista gente nem
+ 01:11:06
+
+que você abra a cabeça dele com machado
+ 01:11:08
+
+e e enfia lá dentro ele jamais vai ser
+ 01:11:09
+
+extensionista é perfil sabe essa coisa
+ 01:11:13
+
+Nossa aqui do falar muito do sabe do ser
+ 01:11:16
+
+o próximo de tocar Sabe tem pessoas que
+ 01:11:20
+
+não suportam isso Elas não querem
+ 01:11:23
+
+conversar elas querem ser bem objetivas
+ 01:11:25
+
+sabe então eles eles têm um espaço na
+ 01:11:27
+
+sociedade para eles que não é o da
+ 01:11:31
+
+extensão
+ 01:11:33
+
+Rural muito bom agora como tá chegando
+ 01:11:34
+
+vários comentários aqui eu vou
+ 01:11:37
+
+selecionar alguns para ser mais objetivo
+ 01:11:38
+
+uns eu só vou ler aqui não é Valdemar faz
+ 01:11:40
+
+uma questão interessante que isso é
+ 01:11:43
+
+reala lá no Nossa propriedade em rting
+ 01:11:44
+
+também já acontece isso não é não podemos
+ 01:11:46
+
+esquecer que a Internet não chega em
+ 01:11:48
+
+todos os pontos do município Ainda temos
+ 01:11:50
+
+muitos produtores resistentes às redes
+ 01:11:52
+
+sim e tem uns que não tem condições de
+ 01:11:55
+
+pagar uma internet tem isso também não é
+ 01:11:57
+
+tem ainda enfrentamos Muitas
+ 01:12:00
+
+dificuldades ainda e seja em Minas seja
+ 01:12:02
+
+R Grande do Sul Minas Gerais por exemplo
+ 01:12:06
+
+a internet não pegava direito dentro da
+ 01:12:07
+
+Universidade não é que era dentro do do
+ 01:12:09
+
+Campo não é em Unaí é real a gente o
+ 01:12:11
+
+telefone do celular a gente tinha pegar
+ 01:12:14
+
+no segundo andar não é então assim isso são
+ 01:12:16
+
+10 km da cidade então a nem vai falar
+ 01:12:18
+
+muito em outras questões não é vamos ver
+ 01:12:20
+
+aqui a comentar da Car não é da São Paulo
+ 01:12:24
+
+não é Muito interessante agora uma pergunta
+ 01:12:27
+
+não é uma pergunta PR Luciana Você tem
+ 01:12:29
+
+encontrado
+ 01:12:32
+
+dificuldades em usar o digital com os
+ 01:12:34
+
+próprios extensionistas se sim quais
+ 01:12:37
+
+estrutural Educacional
+ 01:12:40
+
+cultural Boa pergunta olha
+ 01:12:42
+
+e assim dificuldades assim a gente tem
+ 01:12:46
+
+dificuldade em que eles usem a a
+ 01:12:52
+
+estrutura que a empresa oferece não sei
+ 01:12:55
+
+se eu vou responder bem o que ela
+ 01:12:57
+
+colocou o que que eu quero dizer com
+ 01:12:59
+
+isso todos nós temos um e-mail
+ 01:13:00
+
+institucional e nós temos a em matéria
+ 01:13:02
+
+ela privilegia muito essa estrutura
+ 01:13:04
+
+infraestrutura da empresa não é então Eh os
+ 01:13:07
+
+carros são novos todos os colegas
+ 01:13:09
+
+ganharam celular novo para usar para
+ 01:13:11
+
+execução do seu trabalho com um chip
+ 01:13:14
+
+então assim qual que é a dificuldade que
+ 01:13:17
+
+a gente tem no uso dessa dos digitais é
+ 01:13:18
+
+porque eles não acessam o e-mail
+ 01:13:21
+
+institucional deles só só acessa do
+ 01:13:22
+
+escritório local e não usa o celular
+ 01:13:25
+
+corporativo Então se a gente precisa de
+ 01:13:29
+
+mandar uma senha alguma coisa que eles
+ 01:13:31
+
+precisam de utilizar óbvio que eu não
+ 01:13:34
+
+vou mandar e nem a empresa manda para o
+ 01:13:36
+
+seu celular
+ 01:13:38
+
+eh privado aí ele não acessa então muito
+ 01:13:39
+
+nesse sentido assim sabe e mas a gente
+ 01:13:43
+
+tem uma compreensão também de que eh a
+ 01:13:46
+
+gente não pode exigir porque acho que o
+ 01:13:49
+
+digital Ele trouxe uma uma aceler uma
+ 01:13:51
+
+aceleração não é Não sei se essa palavra
+ 01:13:55
+
+desculpa das pessoas eh que me preocupa
+ 01:13:56
+
+um pouco talvez a dificuldade eu não sei
+ 01:14:00
+
+se é o caso do que se ela colocou É no
+ 01:14:02
+
+sentido deles serem mais rápidos não é
+ 01:14:04
+
+questiona atende lei a mensagem eu tenho
+ 01:14:06
+
+uma certa tranquilidade com relação a
+ 01:14:09
+
+isso não é porque a gente tem que entender
+ 01:14:11
+
+que às vezes naquele momento ele
+ 01:14:13
+
+realmente não pode atender não é E a gente
+ 01:14:14
+
+tem pedido muitos colegas para
+ 01:14:17
+
+estabelecer limite de utilização não é
+ 01:14:18
+
+porque senão não é o caso assim da troca
+ 01:14:21
+
+entre nós mas da troca com o produtor não é
+ 01:14:23
+
+8 horas da noite ele manda um zap para
+ 01:14:26
+
+ele sabe Então essas pequenas regras Mas
+ 01:14:28
+
+respondendo a sua pergunta Carolina que
+ 01:14:31
+
+eu agradeço via de regra eu não tenho
+ 01:14:33
+
+muita dificuldade sabe eh primeiro que
+ 01:14:35
+
+eles têm bons equipamentos e segundo que
+ 01:14:38
+
+eu tenho um pouco de compreensão que
+ 01:14:41
+
+esse processo às vezes não tem a
+ 01:14:43
+
+celeridade que às vezes Em alguns
+ 01:14:45
+
+momentos eu gostaria eh que
+ 01:14:46
+
+tivesse muito bem vamos lá aqui Aqui tem
+ 01:14:52
+
+uma questão agora do O Valdemar coloca
+ 01:14:55
+
+que é um uma certa crítica não é ele diz
+ 01:14:58
+
+assim ó ah eu ten totalmente razão T
+ 01:15:01
+
+formei em Viçosa eu fiz um ano de
+ 01:15:04
+
+extensão ural eh prática em um programa
+ 01:15:06
+
+e hoje não entendo que tipo de
+ 01:15:08
+
+profissional se forma em cursos noturnos
+ 01:15:10
+
+e ad eu vou responder o comentário do
+ 01:15:12
+
+Valdemar com o comentário da Andreia
+ 01:15:15
+
+andreé a nossa aluna de fruticultura
+ 01:15:18
+
+aqui do colégio politécnico que eu curso
+ 01:15:20
+
+fruticultura e ad não é É ela diz o
+ 01:15:23
+
+seguinte ó sobre os cursos noturnos e ad
+ 01:15:25
+
+em Santa Maria no fcm temos o colégio
+ 01:15:27
+
+politécnico uma referência entre os
+ 01:15:29
+
+cursos federais temos o técnic
+ 01:15:31
+
+agricultura técnic fruticultura EAD com
+ 01:15:33
+
+várias saídas de Campo aí aquela questão
+ 01:15:35
+
+não é Como que você organiza um curso EAD
+ 01:15:38
+
+não é então assim eh quando quando a
+ 01:15:41
+
+Luciana colocou do Eu acho que eu não
+ 01:15:44
+
+sei se era era o mudo que ela tava
+ 01:15:46
+
+falando o mudo é um é chato de entrar
+ 01:15:47
+
+não é legal entrar no mundo vamos falar
+ 01:15:50
+
+a verdade aqui como não é legal entrar
+ 01:15:52
+
+no classroom Mas por que você entra
+ 01:15:54
+
+porque tem alguém te estimulando a
+ 01:15:56
+
+entrar não é porque lá tem um conhecimento
+ 01:15:58
+
+sistematizado Você pode organizar em
+ 01:16:00
+
+formas de tópicos e tal então tem Tem
+ 01:16:02
+
+dificuldades os professores TM também
+ 01:16:05
+
+mas às vezes é aquela questão não é Vamos
+ 01:16:07
+
+com vontade de fazer a transformação
+ 01:16:09
+
+vontade de fazer a diferença não é então
+ 01:16:11
+
+isso tem muito assim que é eh de quem tá
+ 01:16:14
+
+conduzindo o processo isso é importante
+ 01:16:17
+
+não é Deixa eu ver aqui se eu não passei
+ 01:16:19
+
+agora deixa eu ver aqui outro tem vários
+ 01:16:21
+
+comentários aqui tem muito
+ 01:16:23
+
+comentário muito legal a Esmeralda Fala
+ 01:16:26
+
+Parabéns Lucio momento de reflexão e
+ 01:16:29
+
+provocação Você tocou nos pontos fortes
+ 01:16:31
+
+e frágeis da
+ 01:16:32
+
+ater aí tem Adriana também não é Muito boa
+ 01:16:34
+
+apresentação aqui ó tem a Débora sou
+ 01:16:38
+
+extensionista da área social do Estado
+ 01:16:41
+
+de São Paulo que ótima exposição
+ 01:16:43
+
+Parabéns muitos comentários
+ 01:16:45
+
+Obrigada Luziane ó termin Gerais muito
+ 01:16:48
+
+bem
+ 01:16:52
+
+representada Tatiana Parabéns Lu somos
+ 01:16:53
+
+apaixonados com a extensão Rural fala
+ 01:16:56
+
+maravilhosa obrigada pela citação do
+ 01:16:58
+
+Turismo Rural muito importante não é Essa é
+ 01:17:00
+
+a Tatiana do Turismo rural tem feito um
+ 01:17:02
+
+trabalho maravilhoso A Luziane eu quero
+ 01:17:04
+
+fazer um reparo aqui eh na verdade a
+ 01:17:06
+
+metodologia da im matéria hoje nós somos
+ 01:17:09
+
+três é uma equipe Então somos Marta
+ 01:17:11
+
+beber que já se manifestou e você
+ 01:17:14
+
+conhece a Luziane que chegou pouco tempo
+ 01:17:16
+
+e eu então eu somos três na metodologia
+ 01:17:19
+
+hoje muito muito bom aqui tem o
+ 01:17:23
+
+comentário da Débora Olha só isso aqui
+ 01:17:26
+
+também pode dar uma fala ó ser
+ 01:17:28
+
+extensionista é mais que uma profissão
+ 01:17:30
+
+não é estamos lidando diretamente com a
+ 01:17:32
+
+vida das pessoas seu dia a dia Tomando
+ 01:17:34
+
+café ouvindo problemas conhecendo os
+ 01:17:37
+
+filhos eh vemos crescer não é então muito
+ 01:17:40
+
+interessante muito bom zequiel eh dentro
+ 01:17:44
+
+dessa fala da Débora aí eh eu acho muito
+ 01:17:46
+
+legal essa relação da extensão eu sou
+ 01:17:49
+
+uma apaixonada pela extensão eu eu eu
+ 01:17:51
+
+penso que eu quero ter terminar minha
+ 01:17:53
+
+vida profissional no escritório local
+ 01:17:55
+
+não sei se eu vou conseguir em função de
+ 01:17:57
+
+família filhos mas assim porque isso que
+ 01:17:59
+
+ela escreveu aí é uma verdade muito
+ 01:18:01
+
+grande você quer ver uma coisa legal do
+ 01:18:03
+
+campo é quando chega o período de férias
+ 01:18:05
+
+que os filhos que às vezes são casados
+ 01:18:07
+
+você chega numa propriedade em dezembro
+ 01:18:10
+
+é uma festa eles estão em festa Pela
+ 01:18:12
+
+chegada dos filhos sabe isso é muito
+ 01:18:14
+
+legal você participar disso sabe o
+ 01:18:17
+
+produtor vai matar um porco você é
+ 01:18:20
+
+convidada a participar daquele EV
+ 01:18:22
+
+porque para eles é um evento sabe quer
+ 01:18:25
+
+que você esteja ali para você sabe então
+ 01:18:27
+
+assim essa relação do café sabe da gente
+ 01:18:30
+
+ser recebido eu se a gente tivesse algum
+ 01:18:33
+
+dia escrever um livro casos da extensão
+ 01:18:35
+
+Rural eu teria alguns bons casos para
+ 01:18:38
+
+contar entendeu E nós somos um pouco
+ 01:18:41
+
+psicólogos eu já escutei cada coisas
+ 01:18:44
+
+assim sabe da confiança mesmo que você
+ 01:18:46
+
+estabelece com essas pessoas elas
+ 01:18:49
+
+acreditam em você então é muito legal
+ 01:18:50
+
+isso e me tocou Débora parabéns eu acho
+ 01:18:53
+
+que é isso
+ 01:18:55
+
+mesmo seu microfone tá fechado ele
+ 01:18:59
+
+fechou sem querer mas deixa te fazer um
+ 01:19:03
+
+comentário Eu gostei muito dessa tua
+ 01:19:06
+
+palavra da afetividade não é E que você
+ 01:19:08
+
+comentou que sempre tem os dois lados
+ 01:19:10
+
+obviamente não é você comentou que a
+ 01:19:13
+
+afetividade a gente consegue construir
+ 01:19:14
+
+mais de forma presencial óbvio não é só que
+ 01:19:16
+
+na pandemia não teve esse contato
+ 01:19:19
+
+presencial a gente teve que Se forçar a
+ 01:19:21
+
+construir relaç AES com um WhatsApp que
+ 01:19:23
+
+a gente nunca viu não é e a gente teve uma
+ 01:19:26
+
+experiência muito legal assim que tipo
+ 01:19:28
+
+que a eu virei coordenador de
+ 01:19:31
+
+pós--graduação
+ 01:19:32
+
+eh dos estruturais da ufvjm no meio da
+ 01:19:33
+
+pandemia quando eu não conhecia as
+ 01:19:37
+
+pessoas nem nossos alunos nossos alunos
+ 01:19:39
+
+entraram no meio da pandemia e é tão
+ 01:19:41
+
+legal isso porque por que que eu tô
+ 01:19:43
+
+comentando isso a gente construiu uma
+ 01:19:45
+
+rede de afetividade pelo WhatsApp mas
+ 01:19:48
+
+como se constrói afetividade com tempo
+ 01:19:51
+
+não é não é você vai na casa do Agricultor
+ 01:19:53
+
+você fica lá tomando cafezinho em Minas
+ 01:19:55
+
+no virão do su chimarrão não é fica
+ 01:19:57
+
+conversando descascando uma Bergamota no
+ 01:20:00
+
+virão do su uma tangerina Minas enfim é
+ 01:20:02
+
+você tem tempo e no WhatsApp é a mesma
+ 01:20:05
+
+coisa você tem que ter tempo para
+ 01:20:08
+
+construir essa afetividade hoje a gente
+ 01:20:10
+
+Conheço pessoas que eu nunca vi
+ 01:20:12
+
+presencialmente a gente tem uma grande
+ 01:20:14
+
+afetividade não é de que saiu do mestrado
+ 01:20:15
+
+mas porque envolve muito tempo não é isso
+ 01:20:18
+
+tempo hoje não é o tempo hoje tá cada cada
+ 01:20:22
+
+vez mais escasso não é mas envolve muito
+ 01:20:24
+
+tempo queria deixar esse comentário
+ 01:20:27
+
+muito legal e eu vou mas eu eu só quero
+ 01:20:28
+
+eu só quero fazer uma pequena observação
+ 01:20:31
+
+na sua fala quando você diz que na
+ 01:20:33
+
+pandemia Nós criamos laços afetivos via
+ 01:20:35
+
+WhatsApp mas é porque naquele momento
+ 01:20:37
+
+nós éramos necessários eu gosto muito
+ 01:20:40
+
+dessa fala necessários também porque
+ 01:20:42
+
+fala-se muito em Estrutura a empresa é
+ 01:20:44
+
+grande a empresa tá financeiramente
+ 01:20:47
+
+muito bem mas nós temos que entender se
+ 01:20:49
+
+nós somos necessários porque quando você
+ 01:20:51
+
+tem um um grupo de mestrado e essa
+ 01:20:54
+
+relação de vocês ela é necessária aquela
+ 01:20:56
+
+pessoa que tá ali precisa muito de você
+ 01:20:59
+
+e você quer ajudá-la tá vendo como que é
+ 01:21:01
+
+a relação da afetividade às vezes se dá
+ 01:21:04
+
+por outros motivos não é É claro que o
+ 01:21:05
+
+presencial favorece muito mas essa coisa
+ 01:21:08
+
+de ser necessário a gente tem que às
+ 01:21:10
+
+vezes refletir um pouco será que eu tô
+ 01:21:13
+
+sendo necessário eu tô sendo só um
+ 01:21:14
+
+Executor de política pública Será que
+ 01:21:16
+
+essa política pública é o que o produtor
+ 01:21:18
+
+tá precisando nesse momento Então essa
+ 01:21:20
+
+coisa da do necessário é importante
+ 01:21:22
+
+também
+ 01:21:24
+
+muito legal muito legal e é isso que a
+ 01:21:25
+
+gente tava debatendo ontem quando a
+ 01:21:27
+
+gente queria fazer um trabalho de
+ 01:21:28
+
+fruticultura não é uma coisa é o mestrado
+ 01:21:29
+
+não é é necessário precisa desenvolver uma
+ 01:21:31
+
+pesquisa ali então vai ter interesse
+ 01:21:34
+
+muitos fruticultores talvez não tenham
+ 01:21:36
+
+essa necessidade do necessário para esse
+ 01:21:38
+
+momento ou para aquilo que você tá
+ 01:21:40
+
+conseguindo ofertar não é muito bom muito
+ 01:21:41
+
+bom deixa eu fazer o comentário aqui da
+ 01:21:44
+
+da Marines que ela não colocou no não
+ 01:21:46
+
+colocou no no YouTube porque ela não
+ 01:21:49
+
+conseguiu tá tendo problemas no chat ela
+ 01:21:52
+
+ela coloca o seguinte não é ela me mandou
+ 01:21:54
+
+aqui foi muito boa a fala da colega
+ 01:21:56
+
+abordou questões muito importantes no
+ 01:21:58
+
+que Tang as metodologias de gênero as
+ 01:22:00
+
+necessidades de equipes
+ 01:22:03
+
+multidisciplinares que a gente sempre tá
+ 01:22:04
+
+batendo nessa questão para atender as
+ 01:22:06
+
+necessidades de diferentes públicos eh
+ 01:22:08
+
+fica a questão eh para que o atendimento
+ 01:22:10
+
+em todas essas questões além de
+ 01:22:13
+
+trabalhar a sucessão ural e mesmo
+ 01:22:16
+
+utilizando ferramentas digitais
+ 01:22:18
+
+precisamos de trabalhadores e contudo
+ 01:22:20
+
+que temos vivido nos últimos dias cada
+ 01:22:22
+
+vez mais indispensável ter a presença de
+ 01:22:25
+
+extensionistas que atuam nos territórios
+ 01:22:27
+
+de forma continuada não é famosa não é
+ 01:22:29
+
+conceito de extensão oral não é continuado
+ 01:22:33
+
+não é Muito interessante Obrigado Marin
+ 01:22:35
+
+pelo seu comentário aqui deixa eu ver o
+ 01:22:38
+
+que que mais nós temos temos bastante
+ 01:22:40
+
+comentário minha nossa um par de
+ 01:22:42
+
+comentário aqui ó deixa eu ver aqui eu
+ 01:22:44
+
+vou fazer mais um depois vou passar
+ 01:22:47
+
+proos Zuin senão vou ficar só eu
+ 01:22:48
+
+conversando aqui eu e a Luci deixa eu
+ 01:22:50
+
+achar um aqui deixa deixa ver aqui uren
+ 01:22:53
+
+e a uren diz assim em alguns casos falta
+ 01:22:55
+
+foco do técnico na parte Econômica da
+ 01:22:58
+
+propriedade nesses casos o produtor não
+ 01:23:01
+
+fica satisfeito com o trabalho é e tem
+ 01:23:03
+
+essas coisas também não é a Carol bota que
+ 01:23:07
+
+a na vari realidade Desculpa se você ia
+ 01:23:10
+
+comentar eu tô aqui passando não pode
+ 01:23:12
+
+ficar eu concordo com ele eu acho que o
+ 01:23:14
+
+foco é o resultado eu sou inclusive
+ 01:23:16
+
+grande defensora
+ 01:23:19
+
+disso sabe eu costumo dizer que eu me
+ 01:23:20
+
+lembro bem de um produtor que a gente
+ 01:23:23
+
+atendia lá em Resente Costa não é Resende
+ 01:23:25
+
+Costa é uma relação afetiva louca morei
+ 01:23:27
+
+lá mais de 10 anos não sei se vocês
+ 01:23:30
+
+conhecem mas fica aqui o convite para
+ 01:23:31
+
+conhecer é uma cidade turística per de
+ 01:23:33
+
+tirar dentes maravilhosa sou apaixonada
+ 01:23:35
+
+com rezente Costa mas feito esse
+ 01:23:37
+
+parêntese não é que não tinha nada a ver
+ 01:23:39
+
+com o tema que eu ia falar
+ 01:23:41
+
+eh a gente atendia um produtor lá e um
+ 01:23:42
+
+dia ele me chamou eu cheguei lá parei o
+ 01:23:45
+
+carro daem matéria e falou vem cá que eu
+ 01:23:46
+
+quero te mostrar um negócio aí eu fiquei
+ 01:23:48
+
+curiosa quando ele abriu a garagem ele
+ 01:23:50
+
+tinha uma caminhonete novinha e a
+ 01:23:52
+
+alegria dele a satisfação isso é
+ 01:23:54
+
+resultado gente a gente não pode também
+ 01:23:56
+
+viver só no mundo das ideias não é a gente
+ 01:23:58
+
+tem que entender por isso que a
+ 01:24:00
+
+discussão dessa nova maxpar ela é muito
+ 01:24:02
+
+desafiadora porque ela tem que trazer
+ 01:24:04
+
+orientações técnicas que dê ao técnico a
+ 01:24:06
+
+condição de chegar nesse resultado com o
+ 01:24:08
+
+produtor não é senão vai ficar só na
+ 01:24:10
+
+discussão é igual fazer diagnóstico Você
+ 01:24:13
+
+sabe não é tem algumas reun regiões se você
+ 01:24:15
+
+falar com o produtor que você vai fazer
+ 01:24:17
+
+diagnóstico ele quer pegar e matar
+ 01:24:18
+
+Porque já foi feito tanto diagnóstico
+ 01:24:21
+
+Ele quer saber agora de result chega de
+ 01:24:23
+
+fazer diagnóstico Então são essas coisas
+ 01:24:25
+
+que a gente vive no dia a dia é
+ 01:24:28
+
+complicado não é Teve uma época que a gente
+ 01:24:31
+
+defendeu que tinha que ter um sistema
+ 01:24:33
+
+meio que Unificado para esses
+ 01:24:35
+
+diagnósticos não é para não estar se
+ 01:24:36
+
+repetindo não é mas é que é difícil não é é
+ 01:24:38
+
+muito muito gostos zoin deixa eu passar
+ 01:24:41
+
+para ti a palavra tem muito comentário
+ 01:24:43
+
+aqui fala um pouquinho meu
+ 01:24:45
+
+querido eu acho que eu acho que tem
+ 01:24:49
+
+algumas discussões que que eu acho
+ 01:24:51
+
+interessante a gente fazer hoje depois
+ 01:24:54
+
+de tanto tempo não é Essa questão da da
+ 01:24:56
+
+afetividade não é Tem um autor que que é o
+ 01:24:59
+
+evic que é francês que ele fala que ele
+ 01:25:02
+
+tem um livro não é não é E ele fala muito
+ 01:25:05
+
+desse livro da afetividade mas a
+ 01:25:08
+
+afetividade não no sentido de carinho não é
+ 01:25:10
+
+Mas como você afeta o outro não é que
+ 01:25:12
+
+também envolve o carinho tudo Mas quais
+ 01:25:15
+
+são as as Vertentes ali não é E E daí essa
+ 01:25:17
+
+afetividade a gente pelo menos que eu vi
+ 01:25:20
+
+agora ag Dos comentários até agora não é eu
+ 01:25:24
+
+vi essa questão do digital remoto
+ 01:25:26
+
+presencial analógico não é e e eu acho que
+ 01:25:29
+
+com a evolução das tdics que nem agora a
+ 01:25:34
+
+gente nós três aqui junto com a plateia
+ 01:25:37
+
+no YouTube a gente tá de uma certa forma
+ 01:25:39
+
+remota mas presencial dentro do YouTube
+ 01:25:42
+
+dentro desse local por exemplo eu
+ 01:25:45
+
+Ezequiel Ezequiel Quantas vezes a gente
+ 01:25:48
+
+já se encontrou assim presencialmente e
+ 01:25:50
+
+eu já sei até a hora que ele faz o o
+ 01:25:55
+
+almoço agora ele já mudou não é Toda a
+ 01:25:57
+
+quartafeira nunca só pro pessoal que
+ 01:25:59
+
+saber Nunca gente nunca se encontramos a
+ 01:26:01
+
+gente nunca se encontrou presencialmente
+ 01:26:05
+
+nunca e toda quarta-feira a gente assumi
+ 01:26:06
+
+um compromisso de est junto fora os
+ 01:26:10
+
+outros projetos as outras coisas de est
+ 01:26:12
+
+junto realizando esse projeto aqui
+ 01:26:15
+
+entendeu então a construção de uma
+ 01:26:18
+
+relação hoje com a sidic não é com essa com
+ 01:26:20
+
+essa possibilidade das Tid não é cada vez
+ 01:26:23
+
+mais populares não é acessíveis não é Elas
+ 01:26:25
+
+estão se estreitando não é elas não tão não
+ 01:26:29
+
+estão se alargando não é Eu acho que esse
+ 01:26:32
+
+pensamento do remoto como algo distante
+ 01:26:34
+
+não é ele ele se dava numa época em que
+ 01:26:37
+
+chegava uma carta pra pessoa ou um
+ 01:26:40
+
+telefonema se tivesse um telefone ou
+ 01:26:42
+
+vizinho falando ou melhor ainda pelo
+ 01:26:45
+
+rádio entendeu não é que ainda é muito
+ 01:26:47
+
+importante o rádio mas é é dessa época
+ 01:26:49
+
+não é época de hoje não é Então essa
+ 01:26:52
+
+questão de proximidade não é o digital El
+ 01:26:55
+
+ele aproximou muito mais do que do que
+ 01:26:58
+
+você tá distanciando Principalmente
+ 01:27:01
+
+quando você fala de serviços não é como
+ 01:27:03
+
+professor como extensionista Rural não é e
+ 01:27:06
+
+eu sempre brinco com as pessoas não é nas
+ 01:27:09
+
+minhas palestras não é eu falo assim olha
+ 01:27:11
+
+se você faz algum se você realiza algum
+ 01:27:13
+
+tipo de serviço hoje e se você acha que
+ 01:27:15
+
+o digital comunicação digital não é
+ 01:27:18
+
+importante deixa o seu celular em casa
+ 01:27:20
+
+vai pro seu escritório liga o seu
+ 01:27:23
+
+computador pega o seu telefone fixo mas
+ 01:27:25
+
+tem que ser honesto você não pode abrir
+ 01:27:28
+
+o WhatsApp não é nem o telegram não é você e
+ 01:27:30
+
+vai e vê se você consegue trabalhar da
+ 01:27:33
+
+mesma forma não é com o seu público não é Isso
+ 01:27:35
+
+quer dizer o quê volta pros anos 90
+ 01:27:38
+
+entendeu começo dos anos 2000 você
+ 01:27:41
+
+consegue trabalhar hoje assim se você
+ 01:27:44
+
+consegue Então você tá certo não é se você
+ 01:27:46
+
+não consegue então a comunicação digital
+ 01:27:48
+
+é muito importante hoje no seu trabalho
+ 01:27:50
+
+não é visto isso não é uma coisa que eu acho
+ 01:27:53
+
+que é um grande desafio nosso da
+ 01:27:56
+
+academia da Luciana que trabalha essa
+ 01:27:58
+
+reflexão dos processos de ensino
+ 01:28:01
+
+aprendizagem é como a gente vai
+ 01:28:03
+
+sistematizar essas relações na
+ 01:28:05
+
+comunicação digital nas várias Vertentes
+ 01:28:08
+
+dessa prestação de serviço do
+ 01:28:11
+
+extensionista rural da extensionista
+ 01:28:13
+
+Rural não é essa essa essa é uma questão
+ 01:28:14
+
+chave hoje porque todo mundo cada vez
+ 01:28:17
+
+mais sabe da importância disso sabe da
+ 01:28:20
+
+importância desse tipo de comunicação
+ 01:28:23
+
+mas como
+ 01:28:25
+
+sistematizar não é a vista de uma
+ 01:28:26
+
+literatura a vista de uma reflexão não é
+ 01:28:28
+
+científica não é Para que outras pessoas
+ 01:28:31
+
+possam est reproduzindo E repensando
+ 01:28:34
+
+essas práticas pra gente
+ 01:28:37
+
+evoluir Então hoje esse é um grande
+ 01:28:40
+
+desafio e daí eu eu eu bato na tecla
+ 01:28:42
+
+sempre os órgãos de extensão Rural
+ 01:28:45
+
+rurais públicos eles têm que fazer tem
+ 01:28:48
+
+que fomentar entre os seus funcionários
+ 01:28:51
+
+certo esse pensamento crítico essa
+ 01:28:53
+
+reflexão não é que vem por meio de muitas
+ 01:28:56
+
+vezes de fazer um mestrado de fazer um
+ 01:28:59
+
+doutorado junto com a gente não é Por quê
+ 01:29:01
+
+Porque eu também não me canso de falar
+ 01:29:04
+
+que a Inovação principalmente na
+ 01:29:06
+
+extensão Rural ela não tá dentro das
+ 01:29:08
+
+Universidades Ela tá no campo e ela tá
+ 01:29:10
+
+acontecendo todos os dias e cabe a
+ 01:29:13
+
+universidade ir lá conversar com
+ 01:29:16
+
+extensionista chamar o extensionista
+ 01:29:17
+
+chamar o agricultor para dentro da
+ 01:29:20
+
+universidade e sistematizar esse
+ 01:29:22
+
+conhecimento essa experiência essa
+ 01:29:24
+
+vivência isso é muito importante gente
+ 01:29:26
+
+pra área é muito importante não é então os
+ 01:29:29
+
+órgãos de extensão oral meu apelo aqui
+ 01:29:32
+
+não é fica não é pros dirigentes não é Eh
+ 01:29:34
+
+fomentarem isso não é junto aos seus
+ 01:29:38
+
+funcionários não é essa essa essa ida pra
+ 01:29:40
+
+universidade e fazer esses cursos de
+ 01:29:43
+
+poos junto com a gente não é pra gente
+ 01:29:45
+
+também aprender muito com vocês então só
+ 01:29:47
+
+voltando não é encerrando a grande desafio
+ 01:29:51
+
+hoje porque porque várias das perguntas
+ 01:29:53
+
+que foram feitas aqui para Luciana os
+ 01:29:55
+
+comentários vem ao encontro justamente
+ 01:29:57
+
+dessa sistematização que a gente tá
+ 01:30:00
+
+fazendo hoje não é muitas dúvidas entendeu
+ 01:30:02
+
+dessa sistematização não é Por exemplo onde
+ 01:30:06
+
+é que funciona onde é que não vai
+ 01:30:09
+
+funcionar a comunicação digital o que
+ 01:30:10
+
+que precisa antes ter essa construção
+ 01:30:12
+
+dessa relação dessa afetividade não é ou
+ 01:30:15
+
+sen não não já dá para construir não
+ 01:30:17
+
+como é que é isso não é então a gente
+ 01:30:19
+
+precisa disso a gente precisa desses tr
+ 01:30:22
+
+não é
+ 01:30:24
+
+e e a questão do da da educação à
+ 01:30:26
+
+distância hoje com essa tecnologia é
+ 01:30:31
+
+educação sem distâncias não é não é uma
+ 01:30:34
+
+educação com distância é sem distâncias
+ 01:30:38
+
+gente eu coordenei e Participei de mais
+ 01:30:41
+
+de 20 livros da série diálogos a gente
+ 01:30:45
+
+faz fez mais de 100 Mídias e só foi
+ 01:30:48
+
+possível por causa das dicks se fosse
+ 01:30:52
+
+pensar em fazer esse livro de forma de
+ 01:30:55
+
+forma de forma eh
+ 01:30:57
+
+presencial física geográfica eles nunca
+ 01:31:00
+
+teriam saído ou teria saído um só
+ 01:31:03
+
+entendeu por quê Porque as sidic hoje
+ 01:31:06
+
+facilitam essa aproximação de pessoas
+ 01:31:08
+
+que querem trabalhar juntas pode ser uma
+ 01:31:11
+
+frase super batida não é não é assim um Clichê
+ 01:31:14
+
+não é mas é a educação hoje sem distâncias
+ 01:31:18
+
+não é isso que a gente tem que colocar tem
+ 01:31:22
+
+que colocar tem que repensar isso não é E
+ 01:31:25
+
+claro que a universidade hoje não é ela ela
+ 01:31:28
+
+tá passando não só no Brasil mas no
+ 01:31:31
+
+mundo todo uma Crise existencial não é Por
+ 01:31:32
+
+causa da muito das tiques e da pandemia
+ 01:31:35
+
+não é como é que vão ser os os processos de
+ 01:31:38
+
+ensino aprendizagem não é pros nossos
+ 01:31:41
+
+estudantes de graduação não é como é que
+ 01:31:43
+
+que a gente tem que fazer não é já com essa
+ 01:31:45
+
+com essa questão não é das didic Então é só
+ 01:31:48
+
+é uma questão mais de reflexão mesmo não é
+ 01:31:51
+
+e deixar sempre aberto paraa Luciana não é
+ 01:31:53
+
+a gente as as portas abertas minhas do
+ 01:31:56
+
+Ezequiel no que vocês precisarem a gente
+ 01:31:58
+
+pode estar contribuindo com essa
+ 01:32:00
+
+reflexão não é e fazer coisas novas não é
+ 01:32:02
+
+porque vocês são muito bons Nossa a sua
+ 01:32:06
+
+palestra foi muito boa muito legal e daí
+ 01:32:08
+
+fico eu só fico pensando mas tem que
+ 01:32:11
+
+sistematizar todos esses exemplos a
+ 01:32:12
+
+gente
+ 01:32:14
+
+tem outras pessoas entendeu É isso daí
+ 01:32:15
+
+queel falei demais Querido desculpa não é
+ 01:32:19
+
+mas Ô Professor só eh também já tô aqui
+ 01:32:22
+
+encerrando não é a minha fala é muito no
+ 01:32:25
+
+sentido de que a gente precisa trazer
+ 01:32:27
+
+uma metodologia sistematizar tudo isso
+ 01:32:28
+
+mas a gente não pode cair no erro de
+ 01:32:31
+
+criar protocolos eh eu escutei muito
+ 01:32:33
+
+isso lá em Brasília a gente precisa ter
+ 01:32:36
+
+um protocolo de atendimento ao produtor
+ 01:32:38
+
+foi o que que é protocolo aí o cara vai
+ 01:32:40
+
+chegar vai ter um manual eles pensam
+ 01:32:41
+
+isso tem um grupo que pensa isso vai ter
+ 01:32:43
+
+um modelo um formulário Google que tem
+ 01:32:45
+
+que ser preenchido e tal então a gente
+ 01:32:47
+
+não pode ter protocolo a gente tem que
+ 01:32:49
+
+ter uma metodologia que vai surg geria
+ 01:32:51
+
+ao técnico e eu não sei se eu falei isso
+ 01:32:54
+
+não é porque eu falei bastante eh eu acho
+ 01:32:57
+
+que o caminho da extensão Rural o
+ 01:32:59
+
+extensionista ele vai ter que assumir o
+ 01:33:02
+
+papel de gestor de desenvolvimento
+ 01:33:03
+
+Municipal dentro dessa lógica o
+ 01:33:05
+
+professor Ezequiel colocou desse
+ 01:33:07
+
+trabalho de fruticultura para um
+ 01:33:10
+
+município que foi arrasado não é Eh nós
+ 01:33:11
+
+temos vários casos nem matéri de espaços
+ 01:33:14
+
+de municípios não é que foram assolados
+ 01:33:17
+
+Aqui não por tragédias climáticas não é
+ 01:33:20
+
+também tivemos mas não é o caso mas
+ 01:33:23
+
+assim situações produzia muito áo um
+ 01:33:25
+
+exemplo clássico e de repente resolveram
+ 01:33:29
+
+importar o alho com taxação zero O alho
+ 01:33:32
+
+do cara que era vendido a r$ 1 ele tinha
+ 01:33:34
+
+que vender a R 1 e olhe lá e nós temos
+ 01:33:36
+
+experiências comparativas de municípios
+ 01:33:39
+
+que hoje são grandes produtores de
+ 01:33:41
+
+morango e o outro diversificou demais a
+ 01:33:42
+
+sua produção que não vejo prejuízo mas
+ 01:33:45
+
+eu quero com essa fala dizer o seguinte
+ 01:33:48
+
+o extensionista da emat que tava no
+ 01:33:50
+
+município reuniu os produtores e falar
+ 01:33:51
+
+assim olha áo já foi que que nós
+ 01:33:53
+
+precisamos discutir então é ser esse
+ 01:33:56
+
+gestor de desenvolvimento Municipal eu
+ 01:33:58
+
+acho que nós precisamos de assumir isso
+ 01:34:00
+
+e nós vamos ganhar muito com o apoio da
+ 01:34:02
+
+sociedade se nós atuarmos nesse sentido
+ 01:34:04
+
+entendeu eh eu quero dizer que eu já fiz
+ 01:34:08
+
+programa de
+ 01:34:10
+
+rádio programa de rádio é ótimo gente eu
+ 01:34:12
+
+falo com os colegas todo mundo que tiver
+ 01:34:15
+
+oportunidade faço programa de rádio você
+ 01:34:16
+
+manda abraço para todo mundo você marca
+ 01:34:18
+
+reunião tá vendo Ô Ezequiel é um É de
+ 01:34:20
+
+longe mas gera afetividade não é então é
+ 01:34:23
+
+uma ferramenta que eu acho que é muito
+ 01:34:26
+
+importante paraa extensão e os colegas
+ 01:34:28
+
+às vezes têm receio de fazer os primeiro
+ 01:34:29
+
+a gente fica assim meio trêmulo meio
+ 01:34:31
+
+nervoso eu montava o programa na na na
+ 01:34:33
+
+não sei como é que chama aqui na mesa da
+ 01:34:36
+
+Rádio eu ficava sozinha eu montava com
+ 01:34:38
+
+em abertura do programa A música que eu
+ 01:34:41
+
+queria tocar eu já sabia até montar a
+ 01:34:42
+
+programação toda do meu programa
+ 01:34:44
+
+eh a questão do do da da da da parceria
+ 01:34:46
+
+com a academia eu quero dizer aqui que
+ 01:34:50
+
+nós já fizemos uma reunião educação
+ 01:34:53
+
+corporativa com o pessoal lá da
+ 01:34:55
+
+Universidade lá dos Vales je quetin pra
+ 01:34:57
+
+gente tentar organizar uma turma de
+ 01:35:00
+
+mestrado e as coisas estão caminhando
+ 01:35:02
+
+vamos ver se vai dar vão dar frutos não é e
+ 01:35:04
+
+por fim eu acho que eu encerro aqui a
+ 01:35:07
+
+minha fala não é mas estou à disposição de
+ 01:35:08
+
+vocês eh a gente pensa muito pelo
+ 01:35:11
+
+produtor não é Eu tô aqui pensando nisso a
+ 01:35:14
+
+gente pensa demais pelo produtor ai
+ 01:35:17
+
+porque tem que est presente na
+ 01:35:19
+
+propriedade Alguém já perguntou pro
+ 01:35:21
+
+produtor se ele não prefere ter a sua
+ 01:35:22
+
+necessidade atendida mais rápida pelo
+ 01:35:24
+
+WhatsApp do que ele esperar o técnico ir
+ 01:35:26
+
+lá daí 15 dias para poder ver aquela
+ 01:35:29
+
+situação que ele tá vivendo Alguém já
+ 01:35:31
+
+perguntou pro produtor então assim a
+ 01:35:33
+
+gente pensa muito pela cabeça do outro e
+ 01:35:36
+
+a gente tem que dar oportunidade para
+ 01:35:38
+
+que as pessoas possam manifestar e
+ 01:35:40
+
+colocar aquilo que para elas é
+ 01:35:42
+
+importante não é É como trabalhar com
+ 01:35:44
+
+fichinha pregada na parede tem um grupo
+ 01:35:47
+
+de produtores que definitivamente se
+ 01:35:49
+
+você for utilizar dessa metodologia você
+ 01:35:51
+
+vai ter dificuldade ade Porque eles
+ 01:35:52
+
+estão tão na frente eles estão tão
+ 01:35:54
+
+avançados el eles estão querendo é
+ 01:35:57
+
+tecnologia estão querendo é resultado
+ 01:35:59
+
+sabe então a gente tem que ter esse
+ 01:36:00
+
+senso crítico e analisar os espaços que
+ 01:36:03
+
+são muitos os clientes que são muito
+ 01:36:05
+
+variados e a gente tentar fazer o melhor
+ 01:36:08
+
+trabalho e melhor atendimento que quem
+ 01:36:10
+
+ganha com isso são todos nós não porque
+ 01:36:13
+
+nós vamos ter mais credibilidade junto a
+ 01:36:15
+
+produtor e eu considero que isso seja
+ 01:36:17
+
+importante mas porque a sociedade ganha
+ 01:36:18
+
+e nós fazemos parte de uma sociedade não é
+ 01:36:21
+
+então se o produtor tá feliz se produz
+ 01:36:24
+
+bons alimentos todos nós de alguma forma
+ 01:36:26
+
+Vamos ser beneficiados por isso que eu
+ 01:36:29
+
+tenho muito orgulho de fazer parte de
+ 01:36:31
+
+uma empresa que desenvolveu um projeto
+ 01:36:33
+
+como aquele do penai de alimentação
+ 01:36:34
+
+escolar eh porque nós estamos falando de
+ 01:36:36
+
+criança recebendo alimento de qualidade
+ 01:36:39
+
+na hora da merenda escolar isso é muito
+ 01:36:41
+
+isso vai além de qualquer questão
+ 01:36:44
+
+financeira muito bom Luciano Eu não vou
+ 01:36:47
+
+encerar ainda porque tá muito bom esse
+ 01:36:50
+
+papo eu vou eu vou fazer um comentário e
+ 01:36:52
+
+ler os últimos comentários que são muito
+ 01:36:54
+
+legais e aí eu dar última fala porque tá
+ 01:36:56
+
+muito bom e eu vou por que que vamos
+ 01:36:59
+
+fazer isso veja só tudo passou por essa
+ 01:37:01
+
+Live que o conceito chama afetividade não é
+ 01:37:04
+
+eh e aí eu acho que eu vou eu vou
+ 01:37:06
+
+provocar o professor Zuin que tá fazendo
+ 01:37:09
+
+uma dissertação aí online eu vou
+ 01:37:11
+
+provocar para ficar gravado não é sobre as
+ 01:37:14
+
+questões das nossas lives que tá saindo
+ 01:37:17
+
+uma dissertação muito legal Será que o
+ 01:37:19
+
+conceito de afetividade não passa também
+ 01:37:21
+
+também por essas nossas lives aqui não é A
+ 01:37:23
+
+A Lu tá aqui com nós estamos com 50 um
+ 01:37:25
+
+pico de
+ 01:37:29
+
+53 assises nesse momento isso para uma
+ 01:37:30
+
+quarta-feira que começou às 9 da manhã
+ 01:37:34
+
+isso não é normal num num num
+ 01:37:36
+
+pós-pandemia tá então isso Talvez possa
+ 01:37:38
+
+ter a ver com a afetividade a Lu vai
+ 01:37:40
+
+dizer não mas é que eu mandei um e-mail
+ 01:37:42
+
+pro pessoal da imater não sei o quê Sim
+ 01:37:44
+
+mas se não tivesse afetividade não
+ 01:37:47
+
+estariam assistindo aqui então isso é
+ 01:37:49
+
+uma é isso também impacta com o nosso
+ 01:37:51
+
+trabalho não é se tu tem efetividade você
+ 01:37:54
+
+tem mais gente querendo te ouvir e
+ 01:37:57
+
+talvez você possa provocar mais pessoas
+ 01:37:59
+
+provocar a mente de mais pessoas muito
+ 01:38:01
+
+legal essa questão e outra sobre os
+ 01:38:04
+
+extensionistas não posso deixar de falar
+ 01:38:06
+
+Eu me emocionei com a fala da Lu já
+ 01:38:08
+
+virou a Lu não é virou amiga já virou a Lu
+ 01:38:10
+
+eh os programas de rádio muito legais
+ 01:38:13
+
+tem um um amigo um vizinho agricultor
+ 01:38:16
+
+que deu R do Tigre que ele foi virar ele
+ 01:38:19
+
+agricultor ele foi fazer o programa de
+ 01:38:21
+
+ele não sabia nem como falar ele disse
+ 01:38:23
+
+ah eu cheguei lá eu achei que eles ia me
+ 01:38:25
+
+dar um negócio me largaram o programa de
+ 01:38:27
+
+eu não sabia o que fazer não é Hoje eu tava
+ 01:38:29
+
+assistindo ele ele ele coloca o o
+ 01:38:31
+
+programa dele no rádio mas também no
+ 01:38:33
+
+Facebook tipo assim já tá um radialista
+ 01:38:35
+
+agricultor que não tem ensino médio só
+ 01:38:38
+
+para vocês terem uma noção e eu e o cara
+ 01:38:42
+
+tá ali destrinchando muito legal então é
+ 01:38:44
+
+um impacto muito legal que cria essas
+ 01:38:47
+
+afetividades muito legais muito
+ 01:38:48
+
+importantes deixa eu ler aqui os
+ 01:38:50
+
+comentários não vou deixar passar esses
+ 01:38:52
+
+comentários muito legais José Rambo
+ 01:38:54
+
+professor da universidade diz que a
+ 01:38:56
+
+importância das Ferramentas com como um
+ 01:38:58
+
+abraço é importante muitas vezes
+ 01:39:02
+
+fundamental assim pode ser uma live um
+ 01:39:04
+
+WhatsApp não é o William coloca Will Will
+ 01:39:06
+
+coloca o seguinte a importância da
+ 01:39:10
+
+extensão está diretamente ligada ao
+ 01:39:12
+
+desenvolvimento da Agricultura Familiar
+ 01:39:14
+
+brasileira a ter pública a única que vai
+ 01:39:15
+
+n localidades mais distantes desse país
+ 01:39:18
+
+muito bacana temos aqui a nossa a
+ 01:39:21
+
+Letícia você esteve no meu
+ 01:39:24
+
+pré-social meu pdoc estando na imater
+ 01:39:35
+
+muito legal muito legal nossa que legal
+ 01:39:38
+
+feliz de ver esse depoimento eu tinha
+ 01:39:41
+
+que ler o depoimento da Letícia
+ 01:39:43
+
+obviamente aí a Marta comenta aqui a
+ 01:39:45
+
+extensão uma paixão parabé Luciana falou
+ 01:39:47
+
+com razão e emoção e o último comentário
+ 01:39:49
+
+o Sidney eh Bom dia muito bacana o
+ 01:39:52
+
+debate Parabéns sempre aprendendo muito
+ 01:39:55
+
+com esse espaço um abraço agora sim a
+ 01:39:56
+
+Palavra Final a nós vamos encerrar essa
+ 01:39:59
+
+Live ficou muito bo Muito obrigado pela
+ 01:40:02
+
+tua presença desde
+ 01:40:04
+
+já bom mais uma vez eu quero agradecer
+ 01:40:07
+
+não é dizer que eu posso falar em nome da
+ 01:40:10
+
+emat de Minas nós estamos aqui à
+ 01:40:12
+
+disposição Eu acredito muito nesses
+ 01:40:14
+
+espaços Só que eu acho que nós temos que
+ 01:40:16
+
+ocupar outros espaços não é o seminário de
+ 01:40:18
+
+ater lá em Brasília eu acho que vocês
+ 01:40:21
+
+tinham que estar presentes eh porque a
+ 01:40:22
+
+gente tem que fazer o contraditório não é e
+ 01:40:25
+
+e a gente que defende uma extensão Rural
+ 01:40:28
+
+não formal não é de uma educação não formal
+ 01:40:31
+
+continuada eu acho que essa palavra
+ 01:40:33
+
+surgiu aí em algum momento e ela é
+ 01:40:35
+
+extremamente importante nós jamais vamos
+ 01:40:37
+
+fortalecer a extensão Rural é através de
+ 01:40:40
+
+chamamento público não é Essas pessoas elas
+ 01:40:43
+
+não adquirem não é repetindo a palavras
+ 01:40:45
+
+aqui ela me vem a todo momento a
+ 01:40:48
+
+afetividade essa relação de continuidade
+ 01:40:49
+
+ela não existe agora eles são
+ 01:40:52
+
+importantes eu acho que a gente precisa
+ 01:40:54
+
+de estudar uma forma porque também nós
+ 01:40:56
+
+temos que fazer
+ 01:40:58
+
+eh um uma uma crítica no sentido de que
+ 01:40:59
+
+nós não somos capazes de atender a toda
+ 01:41:03
+
+a demanda de assistência técnica esse
+ 01:41:05
+
+país precisa as braer traz números que
+ 01:41:06
+
+provam isso não é então a gente precisa de
+ 01:41:09
+
+entender que existe uma estrutura
+ 01:41:12
+
+governamental de assistência técnica
+ 01:41:14
+
+extensão Rural que pode ser uma grande
+ 01:41:16
+
+parceira das ones do chamamento público
+ 01:41:18
+
+mas sempre com essa condução eh das
+ 01:41:22
+
+empresas governamentais não é Alguns podem
+ 01:41:25
+
+interpretar como eu tô eh puxando a
+ 01:41:28
+
+sardinha para minha abasa mas eu acho
+ 01:41:31
+
+que é muito em função disso da gente
+ 01:41:32
+
+conhecer desse espaço e saber das
+ 01:41:34
+
+necessidades que eles têm tá projetos
+ 01:41:37
+
+pontuais e eventuais Definitivamente eu
+ 01:41:40
+
+não vejo como a solução da agricultura
+ 01:41:43
+
+familiar do nosso país nós precisamos de
+ 01:41:45
+
+estar sempre presentes nesses espaços não é
+ 01:41:48
+
+e entendendo defin amente que por mais
+ 01:41:51
+
+que a gente estude faça os mestrados
+ 01:41:54
+
+necessári que eu tinha um sonho de fazer
+ 01:41:56
+
+o mestrado com pessoas zoin já abandonei
+ 01:41:58
+
+tá Zuin muito difícil eu vou lá pode
+ 01:41:59
+
+cham mantina
+ 01:42:02
+
+eh a gente tem que entender que toda a
+ 01:42:03
+
+decisão é do Produtor então o produtor é
+ 01:42:07
+
+que dá a Palavra Final ele que decide o
+ 01:42:11
+
+que vai ser feito como que vai ser feito
+ 01:42:13
+
+nós somos ali instrumentos para apoiá-lo
+ 01:42:15
+
+e ajudá-lo nesse processo um abraço
+ 01:42:18
+
+afetivo a todos vocês parabéns pelo
+ 01:42:21
+
+espaço eh eu acho que nós temos agora eu
+ 01:42:24
+
+só finalizando aqui porque eu não falei
+ 01:42:27
+
+da da do sistema único de ater que eu
+ 01:42:29
+
+acho que precisava de ser dito eh dessa
+ 01:42:31
+
+projeto de lei que tá sendo escrito não é E
+ 01:42:34
+
+vai ser encaminhado até o final do ano
+ 01:42:37
+
+paraa câmara para alguns Utopia para eu
+ 01:42:39
+
+prefiro pensar que é um sonho não é da
+ 01:42:41
+
+gente ter um financiamento de até eh
+ 01:42:43
+
+direto já definido como o SUS tem o seu
+ 01:42:46
+
+não é como outras entidades T eu acho que
+ 01:42:49
+
+nós merecemos é porque a extensão Rural
+ 01:42:51
+
+não se faz só de infraestrutura de
+ 01:42:54
+
+computadores de carros mas ela se passa
+ 01:42:56
+
+também por Um bom salário para os
+ 01:42:59
+
+extensionistas não é para que eles possam
+ 01:43:01
+
+ter satisfação possam dar conforto as
+ 01:43:03
+
+questões sociais Elas têm que ser
+ 01:43:06
+
+consideradas e elas são extremamente
+ 01:43:08
+
+importantes nessa relação um abraço eh
+ 01:43:10
+
+fiquem com Deus e permaneça à disposição
+ 01:43:13
+
+de todos para outros espaços e outros
+ 01:43:16
+
+momentos como esse muito bom eh eu achei
+ 01:43:18
+
+muito rico e sai daqui assim
+ 01:43:21
+
+e mais entusiasmada e apaixonada pela
+ 01:43:23
+
+extensão
+ 01:43:26
+
+Rural caiu minha Live bem na
+ 01:43:31
+
+hora
+ 01:43:34
+
+encerou desculpa que aqui caiu a
+ 01:43:36
+
+Internet bem na hora muito obrigado Lu a
+ 01:43:38
+
+gente agradece aqui a tua exposição eu
+ 01:43:41
+
+fiquei assim apaixonado eu acho que eu
+ 01:43:44
+
+ficaria mais Du horas conversando aqui
+ 01:43:46
+
+porque você trouxe conceitos muito
+ 01:43:48
+
+importantes que talvez a gente possa
+ 01:43:50
+
+trabalhar mais eles ainda é com o futuro
+ 01:43:52
+
+e também desmistificar algumas questões
+ 01:43:55
+
+muito relevantes não é como essa questão
+ 01:43:57
+
+que você colocou Será que não é Será que o
+ 01:44:00
+
+agricultor realmente quer Eh um
+ 01:44:02
+
+extensionista 4 horas na propriedade
+ 01:44:05
+
+dele não é então isso é um ponto de
+ 01:44:07
+
+interrogação muito importante porque
+ 01:44:10
+
+muitas vezes a gente escutou osores Ah
+ 01:44:12
+
+mas eu tenho que trabalhar o cara chegou
+ 01:44:14
+
+ali não falo que é um extensionista aqui
+ 01:44:16
+
+no sul mais um técnico do da cultura do
+ 01:44:18
+
+tabaco enfim não é a gente já ouviu fal
+ 01:44:20
+
+isso também não é então a gente tem que
+ 01:44:23
+
+botar esses pontos de interrogação e
+ 01:44:25
+
+refletir sobre essas questões também tem
+ 01:44:26
+
+muita gente aqui comentando Agradeço a
+ 01:44:29
+
+todos os presentes e quero dizer assim
+ 01:44:31
+
+que toda quarta-feira 9 hor da manhã
+ 01:44:33
+
+quem tiver tempo e condições a Live fica
+ 01:44:35
+
+gravada também estaremos aqui online
+ 01:44:39
+
+falando com um novo especialista na área
+ 01:44:41
+
+de extensão Rural Muito obrigado e
+ 01:44:43
+
+Tenham todos uma ótima quarta-feira
+ 01:44:45
+
+tchau tchau
+ 01:44:47

@@ -1,0 +1,8 @@
+video_id: EIB_H3G49cY
+video_url: https://www.youtube.com/watch?v=EIB_H3G49cY
+title: #bananeiras #gato
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

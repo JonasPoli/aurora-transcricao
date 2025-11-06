@@ -1,0 +1,8 @@
+video_id: LsuORBgP3YY
+video_url: https://www.youtube.com/watch?v=LsuORBgP3YY
+title: E nem é meme #memes #trabalho #extensãorural #reconhecimento
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2025

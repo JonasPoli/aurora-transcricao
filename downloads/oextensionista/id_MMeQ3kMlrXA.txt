@@ -1,0 +1,8 @@
+video_id: MMeQ3kMlrXA
+video_url: https://www.youtube.com/watch?v=MMeQ3kMlrXA
+title: #bike #caminhada #toropi #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/20/2025

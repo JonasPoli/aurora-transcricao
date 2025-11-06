@@ -1,0 +1,8 @@
+video_id: Ny1S0wRiHVA
+video_url: https://www.youtube.com/watch?v=Ny1S0wRiHVA
+title: Discurso dos Cursos Superiores Tecnológicos do Colégio Politécnico da UFSM 💚
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/28/2024

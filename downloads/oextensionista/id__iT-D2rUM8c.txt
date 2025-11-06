@@ -1,0 +1,9 @@
+video_id: _iT-D2rUM8c
+video_url: https://www.youtube.com/watch?v=_iT-D2rUM8c
+title: Educação Sanitária, o canal de diálogo entre o Serviço de Defesa Agropecuária e a comunidade
+uploader: O Extensionista
+speaker: Clovis Thadeu Rabello Improta – CIDASC
+Lattes: http://lattes.cnpq.br/5105031463482613
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/30/2024

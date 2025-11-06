@@ -1,0 +1,8 @@
+video_id: CdlZJkFqxEY
+video_url: https://www.youtube.com/watch?v=CdlZJkFqxEY
+title: Implantação de novas culturas para a diversificação na propriedade rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/17/2020

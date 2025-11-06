@@ -1,0 +1,7451 @@
+Olá
+ 00:00:00
+
+a todos e todos extensionistas rais,
+ 00:00:02
+
+agricultores e agricultoras, jovens
+ 00:00:04
+
+rais, pesquisadores, professores de
+ 00:00:06
+
+ciência rural, acadêmicos e demais
+ 00:00:09
+
+públicos aqui presentes. Sejam todos
+ 00:00:10
+
+muito bem-vindos. Meu nome é Zquel
+ 00:00:13
+
+Oedim, professor de extensão rural e
+ 00:00:14
+
+quem está aqui hoje conosco é o
+ 00:00:16
+
+professor Luís Fernando Soares da USP, o
+ 00:00:18
+
+fundador da Areia de Aurora, juntamente
+ 00:00:20
+
+com o nosso convidado de hoje que é o
+ 00:00:22
+
+Denis Oliveira. Todos aqui excelentes
+ 00:00:23
+
+profissionais na área de extensão rural
+ 00:00:25
+
+no Brasil e no mundo. E é nesse dia 10
+ 00:00:27
+
+de setembro que estamos em mais um ciclo
+ 00:00:29
+
+dos diálogos em até digital, semendo
+ 00:00:32
+
+propostas e compartilhando saberes.
+ 00:00:34
+
+Nossos eventos buscam propor identificar
+ 00:00:37
+
+caminhos metodológicos para os atuais
+ 00:00:40
+
+condicionantes que determinam os
+ 00:00:42
+
+processos de transferência e
+ 00:00:43
+
+compartilhamento de novas tecnologias
+ 00:00:45
+
+nos territórios israis da América
+ 00:00:47
+
+Latina, da África e alguns países como
+ 00:00:49
+
+Portugal, Espanha e Luxemburgo. A nossa
+ 00:00:51
+
+palestra de hoje é intitulada Promovendo
+ 00:00:54
+
+a digitalização
+ 00:00:56
+
+inclusiva na Amazônia paraense. O nosso
+ 00:00:58
+
+convidado de hoje é Denis Rodrigues de
+ 00:01:01
+
+Oliveira. Essa live é uma iniciativa do
+ 00:01:03
+
+portal O Extensionista e da Rede Aurora
+ 00:01:05
+
+de Diálogos em Até Digital na América
+ 00:01:08
+
+Latina e com todos os apoiadores que
+ 00:01:10
+
+vocês podem conferir aqui na descrição
+ 00:01:12
+
+desse vídeo. Sejam muito bem-vindos,
+ 00:01:14
+
+professor Zuin Denis. É um prazer vocês
+ 00:01:16
+
+estarem aqui compartilhando seus
+ 00:01:18
+
+conhecimentos conosco. Desde já o nosso
+ 00:01:19
+
+muito obrigado. De antemão já passo a
+ 00:01:21
+
+palavra ao professor Zui.
+ 00:01:23
+
+>> Bom dia a todos e a todas. É um prazer
+ 00:01:25
+
+estar hoje aqui nessa manhã de
+ 00:01:27
+
+quarta-feira com o professor Ezequiel,
+ 00:01:29
+
+com o Denis. Tenho certeza hoje que a
+ 00:01:30
+
+gente vai aprender muito hoje, não é, sobre
+ 00:01:32
+
+esse processo de digitalização, não é, nos
+ 00:01:35
+
+territórios rurais, não é, da Amazônia
+ 00:01:37
+
+paraense. Denis, portanto, seja muito
+ 00:01:40
+
+bem-vindo. A palavra é sua, meu querido.
+ 00:01:43
+
+>> Obrigado. Obrigado, professor Ezequiel.
+ 00:01:45
+
+Obrigado, professor Zuin, pela
+ 00:01:47
+
+oportunidade, pela abertura do canal.
+ 00:01:48
+
+Eh, eu conheci o canal de vocês, o
+ 00:01:52
+
+trabalho de vocês há alguns meses atrás.
+ 00:01:55
+
+Realmente fiquei encantado. Acho que é
+ 00:01:57
+
+um trabalho riquíssimo e que conversa
+ 00:01:58
+
+muito com o trabalho que eu venho
+ 00:02:01
+
+desenvolvendo na minha carreira desde
+ 00:02:02
+
+que eu par particularmente comecei a
+ 00:02:04
+
+atuar, não é, de forma profissional e após
+ 00:02:06
+
+a graduação. Então, eh,
+ 00:02:08
+
+um uma pequena apresentação bem rápida
+ 00:02:12
+
+sobre sobre o meu histórico. Eu sou
+ 00:02:14
+
+bacharel em gestão ambiental pela Exalp
+ 00:02:16
+
+em Piracicaba.
+ 00:02:19
+
+Eh, trabalho desde 2014 na Fundação
+ 00:02:21
+
+Solidaridade, que eu vou dar um pouco
+ 00:02:26
+
+mais de detalhes, que é uma organização
+ 00:02:27
+
+voltada pro fortalecimento de de áreas
+ 00:02:29
+
+rurais, promoção, desenvolvimento rural,
+ 00:02:32
+
+não é, de uma maneira mais conectada ao
+ 00:02:34
+
+mercado. E em 2022 eu fiz um fiz um
+ 00:02:36
+
+mestrado, iniciei um curso de mestrado
+ 00:02:41
+
+no Instituto de Economia da Unicamp, na
+ 00:02:43
+
+no curso de desenvolvimento econômico,
+ 00:02:46
+
+na área de eh economia agrícola aplicada
+ 00:02:48
+
+e do meio ambiente, não é? Então, a
+ 00:02:52
+
+conclusão desse estudo, desse desse meu
+ 00:02:54
+
+mestrado aconteceu agora em 2025 e foi
+ 00:02:57
+
+por meio da de um de dos meus dos meus
+ 00:03:00
+
+avaliadores da banca ali que eu conheci
+ 00:03:02
+
+o trabalho de vocês e é por isso que eu
+ 00:03:04
+
+estou aqui hoje. Então, um prazer estar
+ 00:03:06
+
+com vocês, um prazer para conversar com
+ 00:03:07
+
+vocês, conversar com nossa nosso público
+ 00:03:10
+
+aí, seja agora ou seja depois. Eu já me
+ 00:03:12
+
+coloco à disposição até para quem quiser
+ 00:03:15
+
+entrar em contato posteriormente, não é?
+ 00:03:17
+
+Quem tiver vendo depois da live, quem
+ 00:03:19
+
+tiver vendo agora, mas quem tiver vendo
+ 00:03:20
+
+também depois. Eh, fica à vontade para
+ 00:03:22
+
+para me contatar, consegue trocar umas
+ 00:03:25
+
+figurinhas aí, tá bom?
+ 00:03:26
+
+>> Muito bom. Seja bem-vindo. Vou passar
+ 00:03:28
+
+teu slide aqui. Fique à vontade agora
+ 00:03:31
+
+para compartilhar seu conhecimento
+ 00:03:33
+
+conosco,
+ 00:03:34
+
+>> tá bom, professor? E aí, eh, eu consigo
+ 00:03:35
+
+ir gerenciando aqui ou aqui na
+ 00:03:37
+
+fica à vontade.
+ 00:03:41
+
+>> Beleza? Então, eh, não é, pegando o gancho
+ 00:03:42
+
+da onde eu parei, a gente começou, eu,
+ 00:03:45
+
+eu fiz esse, essa minha pesquisa do
+ 00:03:48
+
+mestrado casada com a minha atuação
+ 00:03:50
+
+profissional, não é? Então, o esse o título
+ 00:03:53
+
+da dissertação Inclusão Digital de
+ 00:03:56
+
+Agricultores na Amazônia paraense, tá?
+ 00:03:57
+
+Eh, é em função do trabalho, não é? Depois
+ 00:04:00
+
+que a gente tá já atuando no mercado
+ 00:04:03
+
+para conseguir tocar o mestrado, a gente
+ 00:04:05
+
+tem que casar as coisas até por questão
+ 00:04:07
+
+de de possibilidade de tempo mesmo. Mas
+ 00:04:09
+
+casou muito porque é um tema que eu sou
+ 00:04:12
+
+apaixonado, não é, que eu venho trabalhando
+ 00:04:13
+
+desde 2014 nessa área. Então foi
+ 00:04:15
+
+bastante interessante e bastante
+ 00:04:18
+
+enriquecedor por causa disso, tá?
+ 00:04:20
+
+Então, só passando aqui a agenda da da
+ 00:04:23
+
+minha apresentação, eu eh a ideia é
+ 00:04:26
+
+compartilhar um pouco com vocês sobre a
+ 00:04:30
+
+nossa organização,
+ 00:04:32
+
+eh, e como a a gente a gente viabiliza,
+ 00:04:34
+
+eh, sistemas, modelos de extensão rural,
+ 00:04:38
+
+de assistência técnica de extensão rural
+ 00:04:41
+
+de uma forma mais conectada com o
+ 00:04:42
+
+mercado, não é? E como que o digital nos
+ 00:04:44
+
+ajuda nessa nossa missão, nesse nosso,
+ 00:04:48
+
+nesse nosso trabalho, não é? como tá bem
+ 00:04:50
+
+ali intercalado a as duas agendas,
+ 00:04:52
+
+extensão rural e digitalização.
+ 00:04:56
+
+Aí eu entro um pouco mais já na minha
+ 00:04:58
+
+pesquisa mesmo, não é? Eh, e para e para
+ 00:04:59
+
+explicar qual é a inovação que eu tentei
+ 00:05:04
+
+trazer na minha pesquisa, não é, na verdade
+ 00:05:07
+
+da publicidade, compartilhar os
+ 00:05:08
+
+resultados, conclusões e alguma
+ 00:05:10
+
+discussão que possa ter aqui entre nós
+ 00:05:12
+
+que estamos vendo essa live ao vivo, tá
+ 00:05:14
+
+bom? Então, eh, basicamente indo paraa
+ 00:05:17
+
+parte da Fundação Solidaridade. Nós
+ 00:05:21
+
+somos uma organização da sociedade
+ 00:05:23
+
+civil, a gente tem mais de 55 anos de
+ 00:05:25
+
+atuação. Eh, somos uma organização de
+ 00:05:27
+
+escala global. Eh, e no Brasil a gente
+ 00:05:30
+
+atua de forma oficial desde 2010, não é? A
+ 00:05:33
+
+gente teve alguns projetos pequenos
+ 00:05:36
+
+antes ali 2008, 2009, não é? As primeiras
+ 00:05:39
+
+iniciativas, mas oficialmente mesmo a
+ 00:05:42
+
+gente considera o ano de início 2010.
+ 00:05:44
+
+não é? E a gente tem essa essa ambição aí,
+ 00:05:47
+
+não é, de trabalhar o desenvolvimento de
+ 00:05:52
+
+cadeias de uma forma mais inclusiva, não é,
+ 00:05:54
+
+trazendo o trazendo a camada ambiental,
+ 00:05:57
+
+que é importantíssima, mas a gente tem
+ 00:06:00
+
+um foco, um braço muito forte voltado
+ 00:06:02
+
+pra promoção do desenvolvimento
+ 00:06:06
+
+econômico dos produtores das regiões com
+ 00:06:07
+
+as quais a gente nas quais a gente
+ 00:06:09
+
+trabalha, tá? Então, estamos hoje
+ 00:06:11
+
+globalmente em sete regiões do mundo.
+ 00:06:14
+
+Somos, temos escritórios em 48 países,
+ 00:06:16
+
+não é, eh, que vão aí passa África, ASA.
+ 00:06:19
+
+Basicamente os nossos escritórios no
+ 00:06:23
+
+norte são para engajamento de
+ 00:06:26
+
+corporações, de grandes empresas do
+ 00:06:28
+
+setor, arrecadação de fundos da
+ 00:06:30
+
+cooperação internacional e no hemisfério
+ 00:06:32
+
+sul são escritórios muito mais voltados
+ 00:06:35
+
+para implantação.
+ 00:06:39
+
+com o passar do tempo aqui na América
+ 00:06:41
+
+Latina, eh, os recursos, não é, destinados
+ 00:06:42
+
+da cooperação internacional europeia
+ 00:06:46
+
+americana, então, nesse momento, a gente
+ 00:06:48
+
+não precisa nem entrar no detalhe, mas
+ 00:06:49
+
+eh estão ficando cada vez mais escasso,
+ 00:06:51
+
+porque nós não somos mais um grande alvo
+ 00:06:53
+
+no sentido de promoção do
+ 00:06:55
+
+desenvolvimento. Então, a gente também
+ 00:06:56
+
+tem criou nos últimos 5 se anos uma
+ 00:06:58
+
+grande capacidade de engajamento de
+ 00:07:02
+
+corporações e e arrecadação de fundos de
+ 00:07:04
+
+cooperação de forma mais direta. Então,
+ 00:07:08
+
+cada vez mais aqui no Brasil,
+ 00:07:10
+
+principalmente mais na América Latina
+ 00:07:11
+
+como um todo, eh cada vez mais nós
+ 00:07:13
+
+estamos menos dependentes do norte
+ 00:07:15
+
+global para operar, não é, para
+ 00:07:18
+
+operacionalizar nossos projetos e nossas
+ 00:07:20
+
+missões, tá? A gente tem duas premissas
+ 00:07:22
+
+fundamentais, que a primeira é
+ 00:07:26
+
+produtores em primeiro lugar. Então isso
+ 00:07:27
+
+todos os nossos projetos, quando a gente
+ 00:07:30
+
+vai desenhar uma intervenção de campo,
+ 00:07:32
+
+quando a gente vai pensar um uma uma
+ 00:07:33
+
+programa de médio ou longo prazo, a
+ 00:07:37
+
+gente sempre tem como principal
+ 00:07:39
+
+beneficiário os produtores rurais, tá?
+ 00:07:41
+
+pela premissa de sermos inclusivos, a
+ 00:07:45
+
+gente não descarta trabalhar com grandes
+ 00:07:47
+
+produtores, porque tem cadeias
+ 00:07:49
+
+importantíssimas pro nosso agro, que são
+ 00:07:50
+
+a soja e a cana, onde eh os produtores
+ 00:07:53
+
+de grande escala são importantes e são
+ 00:07:56
+
+agendas que a gente tem o foco mais no
+ 00:07:58
+
+ambiental, não é? Então, quando a gente
+ 00:08:00
+
+quer obter resultados eh mais voltados
+ 00:08:03
+
+pro meio ambiente, o foco
+ 00:08:07
+
+majoritariamente são produtores de
+ 00:08:09
+
+grande escala, mas quando a gente quer
+ 00:08:11
+
+promover eh desenvolvimento social
+ 00:08:14
+
+econômico, aí são os produtores de
+ 00:08:16
+
+pequena e média escala, não é? Sendo eles
+ 00:08:18
+
+agricultores familiares, oficialmente
+ 00:08:21
+
+falando ou não, tá? E a paixão do nosso
+ 00:08:23
+
+time aqui no Brasil, ela atende muito
+ 00:08:26
+
+para trabalhar com agricultura familiar.
+ 00:08:29
+
+Então, nossos projetos mais ricos, mais
+ 00:08:30
+
+long mais longevos, mais exitosos em
+ 00:08:33
+
+termos de resultados, acabam sendo
+ 00:08:36
+
+aqueles que são focados na agricultura
+ 00:08:38
+
+familiar, tá? Ou na agricultura de
+ 00:08:40
+
+pequena escala, não é, para usar o termo
+ 00:08:42
+
+mais apropriado aqui, porque pode ser ou
+ 00:08:44
+
+não agricultura familiar. Então, como
+ 00:08:46
+
+missão, a gente tem essa ideia de
+ 00:08:49
+
+engajar, não é, cadeias produtivas com
+ 00:08:51
+
+soluções inovadoras. Aqui já começa a
+ 00:08:53
+
+pintar, não é, o digital. E a nossa visão
+ 00:08:56
+
+eh pro Brasil, não é, pro escritório
+ 00:08:59
+
+brasileiro, é essa essa essa
+ 00:09:01
+
+agenda mais inclusiva da perspectiva
+ 00:09:07
+
+social econômica, não é, e cadeias com
+ 00:09:10
+
+maior transparência, não é, e com maior
+ 00:09:12
+
+transparência. E em termos de extensão
+ 00:09:15
+
+rural, de fusão tecnológica. que aí o
+ 00:09:18
+
+foco realmente é aumentar a eficiência e
+ 00:09:20
+
+é como a gente viabiliza o acesso dessa
+ 00:09:22
+
+agricultura de pequena escala a
+ 00:09:26
+
+tecnologias que sejam capazes de fazer
+ 00:09:27
+
+esse aumento de eficiência, tá? Eh,
+ 00:09:29
+
+então aqui, eh, o meu, eu atuo muito
+ 00:09:33
+
+próximo, não é? a minha atuação principal é
+ 00:09:37
+
+com a extensão rural, mas tem todo um um
+ 00:09:39
+
+sistema, um ambiente em torno que a
+ 00:09:42
+
+gente considera e que a gente atua
+ 00:09:44
+
+também eh para viabilizar esse sistema,
+ 00:09:46
+
+porque a nossa a nossa a nossa o nosso
+ 00:09:49
+
+modo de operação é não basta eu fazer a
+ 00:09:51
+
+difusão tecnológica, não faz não basta
+ 00:09:55
+
+eu promover a extensão rural se eu não
+ 00:09:57
+
+elaborar ou se eu não desenvolver
+ 00:10:00
+
+mercados capazes de incorporar e
+ 00:10:02
+
+viabilizar no médio e longo prazo que
+ 00:10:04
+
+que os resultados dessa atuação se
+ 00:10:07
+
+tornem autossuficientes, seja um projeto
+ 00:10:09
+
+endógeno, não é, uma uma iniciativa
+ 00:10:12
+
+endógena no futuro, para que quando a
+ 00:10:14
+
+gente saia dessa desse território ou
+ 00:10:17
+
+quando essa essa intervenção termine, eh
+ 00:10:19
+
+as coisas continuem a partir dali, sem
+ 00:10:22
+
+voltar para estaca zero, não é, sem
+ 00:10:25
+
+retroceder para o momento anterior do
+ 00:10:27
+
+início do nosso trabalho. Então, nesse
+ 00:10:29
+
+sentido, a gente engaja atores em todos
+ 00:10:31
+
+os em todos os elos da de uma cadeia, de
+ 00:10:36
+
+uma determinada cadeia, não é? Então, a
+ 00:10:38
+
+gente tem eh engajamento de atores do
+ 00:10:40
+
+setor financeiro, bancos, eh empresas
+ 00:10:42
+
+fintecs voltadas para promoção de de
+ 00:10:46
+
+microcrédito.
+ 00:10:49
+
+A gente tem a
+ 00:10:51
+
+o apoio de academia para desenvolver
+ 00:10:54
+
+modelos de produção mais resilientes,
+ 00:10:56
+
+que aumentem a eficiência, que sejam eh
+ 00:10:59
+
+mais adaptados aos novos as novas
+ 00:11:01
+
+condições climáticas de agora ou as
+ 00:11:03
+
+projetadas pro futuro. a gente engaja
+ 00:11:05
+
+muito fortemente grandes empresas do
+ 00:11:08
+
+setor para na na estruturação de uma
+ 00:11:11
+
+agenda de abastecimento sustentável.
+ 00:11:14
+
+Então a gente puxa essa agenda também da
+ 00:11:18
+
+importância de de você, enquanto grande
+ 00:11:20
+
+empresa, investir no fortalecimento da
+ 00:11:22
+
+sua própria cadeia, porque isso não é
+ 00:11:25
+
+uma uma ação eh uma ação
+ 00:11:26
+
+assistencialista, senão um próprio
+ 00:11:30
+
+investimento, não é, no seu negócio. Então,
+ 00:11:32
+
+a gente tem todo e a gente tem equipes,
+ 00:11:35
+
+não é, que trabalham nesses vários, nesses
+ 00:11:37
+
+vários níveis, engajando diversas atores
+ 00:11:39
+
+para viabilizar uma extensão rural que
+ 00:11:42
+
+não só seja producente no sentido de
+ 00:11:44
+
+transferir a tecnologia, de capacitar
+ 00:11:48
+
+esses produtores, mas também de dar
+ 00:11:50
+
+vazão a esse incremento de produção e a
+ 00:11:51
+
+esse incremento de qualidade desse
+ 00:11:55
+
+produto, não é? E aqui, por qualidade, eu
+ 00:11:57
+
+quero dizer eh ambientalmente adequados,
+ 00:11:59
+
+socialmente justos, não é? Então, eh, é
+ 00:12:02
+
+dessa maneira que a gente trabalha aqui.
+ 00:12:04
+
+Eh, nem vão ficar muito, mas só para
+ 00:12:07
+
+compartilhar com vocês a apresentação
+ 00:12:09
+
+vai ficar aí. Depois eh também posso
+ 00:12:11
+
+disponibar o PDF para quem tiver
+ 00:12:13
+
+interesse. Os resultados aqui do Brasil,
+ 00:12:15
+
+não é, no ano passado. Então a gente
+ 00:12:17
+
+trabalha em mais de 300 municípios, não é,
+ 00:12:19
+
+tem muito voltado aí no número de
+ 00:12:21
+
+hectares, produtores. A gente também tá
+ 00:12:24
+
+começando um trabalho agora de de
+ 00:12:27
+
+alcançar empregador rural, porque até
+ 00:12:29
+
+então a gente trabalha a questão do
+ 00:12:32
+
+trabalho rural de forma eh marginal, no
+ 00:12:33
+
+sentido de a gente atua com o produtor e
+ 00:12:37
+
+com os com os trabalhadores que estão
+ 00:12:41
+
+envolvidos ali, que estão diretamente
+ 00:12:43
+
+relacionados à gestão do produtor. Só
+ 00:12:44
+
+que tem uma figura que é o empregador
+ 00:12:47
+
+rural. E aqui o empregador rural pode
+ 00:12:49
+
+ser uma empresa, mas pode ser um
+ 00:12:50
+
+turmeiro, pode ser alguém que passa e
+ 00:12:52
+
+leva ali os migrantes, não é? um grupo de
+ 00:12:54
+
+pessoas para fazer uma colheita por via
+ 00:12:56
+
+de diário. Isso é muito comum no meio
+ 00:12:57
+
+rural, como vocês devem saber. E esse
+ 00:12:59
+
+ator até então não tem um eh difícil
+ 00:13:02
+
+você ver um projeto, uma intervenção, um
+ 00:13:04
+
+programa voltado paraa qualificação
+ 00:13:06
+
+desse ator, não é? Então nós estamos
+ 00:13:09
+
+começando uma um programa de trabalho
+ 00:13:10
+
+decente na na solidariedade aqui no
+ 00:13:13
+
+Brasil também voltado para isso, tá?
+ 00:13:15
+
+No Brasil nós trabalhamos com oito
+ 00:13:19
+
+cadeias. Então, a gente tem esse viés,
+ 00:13:21
+
+não é um viés limitante, mas é um viés
+ 00:13:23
+
+que tradicionalmente nos impulsiona, até
+ 00:13:26
+
+porque toda a nossa estrutura tá
+ 00:13:28
+
+centrada na no engajamento de grandes
+ 00:13:30
+
+empresas dessas cadeias. A gente tem uma
+ 00:13:32
+
+articulação internacional com nossos
+ 00:13:34
+
+colegas eh dos escritórios na Europa e
+ 00:13:36
+
+na América do Norte que nos ajudam, não é,
+ 00:13:38
+
+e acabam impulsionando e nos
+ 00:13:40
+
+direcionando para esse lado de trabalhar
+ 00:13:42
+
+com cadeias. Embora já desde 2020 a
+ 00:13:43
+
+gente venha aos poucos tentando criar
+ 00:13:46
+
+uma abordagem de desenvolvimento
+ 00:13:50
+
+territorial, mas fundamentalmente a
+ 00:13:51
+
+gente atua por cadeias. Então, nós temos
+ 00:13:54
+
+programas de pecuária e cacau na
+ 00:13:56
+
+Amazônia, temos um programa de erva mate
+ 00:13:58
+
+e soja no Sul, um programa de soja no
+ 00:14:01
+
+Centro-Oeste, eh um programa de palma de
+ 00:14:05
+
+óleo de palma, não é, o palma de óleo
+ 00:14:08
+
+também na região amazônica, eh café aqui
+ 00:14:10
+
+no centro sul e laranja no centro sul,
+ 00:14:13
+
+assim como a cana também que tá aqui na
+ 00:14:15
+
+região centro do sul, não é? Então, nós
+ 00:14:17
+
+temos a nossa estruturação é por
+ 00:14:19
+
+programas e a partir eh por programas de
+ 00:14:21
+
+cadeias. E a partir dessas cadeias a
+ 00:14:23
+
+gente vai adicionando camadas, tentando
+ 00:14:25
+
+transformar nossas intervenções numa em
+ 00:14:28
+
+uma perspectiva mais setorial, não é?
+ 00:14:31
+
+Então, os produtor tem cacau, pecuária e
+ 00:14:33
+
+açaí lá na Amazônia. Aí a gente consegue
+ 00:14:35
+
+iniciar as intervenções voltadas no
+ 00:14:38
+
+CACAR, na pecuária e consegue um projeto
+ 00:14:40
+
+para viabilizar a inclusão do açaí na
+ 00:14:43
+
+nossa na nossa agenda de assistência
+ 00:14:45
+
+técnica e extensão rural. Ervamate é a
+ 00:14:47
+
+mesma coisa. O cara tem erva mate, soja
+ 00:14:49
+
+e tem uma outra plantação lá, um fumo,
+ 00:14:52
+
+alguma coisa assim. Então,
+ 00:14:54
+
+paulatinamente, a gente vai incluindo,
+ 00:14:55
+
+não é, olhando pra propriedade como um
+ 00:14:57
+
+todo. Aí a gente começa a interagir com
+ 00:14:59
+
+associações, com empresas locais, com
+ 00:15:01
+
+empresas eh internacionais e vai
+ 00:15:03
+
+construindo um um um grupo, um consórcio
+ 00:15:06
+
+de atores envolvidos na promoção do
+ 00:15:10
+
+fortalecimento da produção agropecuária
+ 00:15:12
+
+brasileira. E a gente também tem um viés
+ 00:15:15
+
+de sempre que possível, não é, de fazer
+ 00:15:18
+
+publicações técnicas a partir das nossas
+ 00:15:21
+
+experiências de campo, não é? Então nós
+ 00:15:23
+
+temos aí um uma um uma agenda de
+ 00:15:25
+
+desenvolvimento, elaboração de estudos,
+ 00:15:30
+
+apresent para compartilhar os resultados
+ 00:15:33
+
+e dar visibilidade dessas soluções
+ 00:15:34
+
+inovadoras que nós sempre buscamos eh
+ 00:15:37
+
+encontrar. E aí, pensando em assistência
+ 00:15:40
+
+técnica extensão rural, que eu acho que
+ 00:15:43
+
+é o nosso tema principal aqui, eu
+ 00:15:44
+
+recomendo, não é, tá disponível na na no
+ 00:15:46
+
+nosso site esses essas duas publicações
+ 00:15:48
+
+voltadas de ATER, que é o vazio da Ter,
+ 00:15:51
+
+que é um estudo sobre o nosso programa
+ 00:15:53
+
+de extensão rural na Amazônia, que tá em
+ 00:15:55
+
+pé desde 2016, então a gente já tá
+ 00:15:58
+
+presto a completar 10 anos de
+ 00:16:01
+
+intervenção lá. E aqui aponta como, não é,
+ 00:16:03
+
+o vazio do de sistemas públicos ou mais
+ 00:16:06
+
+estruturados de extensão rural impactam
+ 00:16:09
+
+a vida dos produtores e como a gente vem
+ 00:16:12
+
+tentando, não é, paulatinamente, aos
+ 00:16:14
+
+poucos, e numa numa numa linha
+ 00:16:16
+
+construtiva, estruturar um sistema de
+ 00:16:19
+
+ETER lá. Então aqui a gente traz os
+ 00:16:21
+
+resultados dos nossos programas também,
+ 00:16:23
+
+das nossas intervenções, modelagens
+ 00:16:25
+
+econômicas, apresenta os resultados de
+ 00:16:27
+
+incremento socioeconômico que as
+ 00:16:29
+
+famílias que a gente assiste lá eh vem
+ 00:16:31
+
+obtendo eh, não é, de uma forma direta ou,
+ 00:16:34
+
+não é, direta ou direta indiretamente em
+ 00:16:37
+
+função da nossa intervenção. E a gente
+ 00:16:40
+
+também tem esse guia de recomendações
+ 00:16:42
+
+para uma assistência técnica inclusiva,
+ 00:16:44
+
+que é uma metodologia que que a gente
+ 00:16:45
+
+adotou, que a gente desenvolveu, não é, e
+ 00:16:48
+
+melhorou. E a gente transformou isso
+ 00:16:50
+
+numa publicação de forma a deixar um a
+ 00:16:51
+
+partir da nossa experiência, não é? Não uma
+ 00:16:55
+
+receita porque a gente não acredita
+ 00:16:57
+
+nisso. Eh, toda todo modelo tem que ter
+ 00:16:59
+
+seu alto grau no Brasil. Eu diria que é
+ 00:17:02
+
+um alto grau de customização, adaptação
+ 00:17:05
+
+e mesmo agora eh aumentando um pouco o a
+ 00:17:08
+
+dimensão disso, pensando em uma
+ 00:17:11
+
+construção local, não é, de modelos de
+ 00:17:14
+
+assistência técnica que possam ser de
+ 00:17:16
+
+fato mais inclusivos, tá?
+ 00:17:17
+
+E aí, para terminar essa parte de
+ 00:17:21
+
+introdução à agenda digital da nossa
+ 00:17:22
+
+organização, tá? Eh, desde 2012 nós
+ 00:17:24
+
+começamos como um projeto pequeno, uma
+ 00:17:28
+
+agenda de inovação digital dentro da
+ 00:17:31
+
+nossa organização, que é muito na hoje é
+ 00:17:33
+
+bastante comum você ver a maioria das
+ 00:17:35
+
+organizações internacionais como nós,
+ 00:17:37
+
+tem lá o seu departamento de soluções
+ 00:17:40
+
+digitais, tem o seu departamento de
+ 00:17:42
+
+geoprocessamento, tem a sua área de
+ 00:17:44
+
+inteligência, não é? Mas em 2012, se a
+ 00:17:46
+
+gente fosse olhar pro mercado que a
+ 00:17:49
+
+gente atua, a gente não fala
+ 00:17:51
+
+competidores, não é? Mas nossos nossos
+ 00:17:52
+
+parceiros, organizações como WWF, eh,
+ 00:17:55
+
+IPAN, então organizações que IMAFlora,
+ 00:17:59
+
+era muito raro você ter uma organização
+ 00:18:03
+
+da sociedade civil investindo em
+ 00:18:05
+
+desenvolvimento digital para apoiar eh
+ 00:18:08
+
+os serviços, não é, os modelos de
+ 00:18:11
+
+assistência técnica e assistenção rural.
+ 00:18:13
+
+E a gente teve esse ímpeto já desde,
+ 00:18:15
+
+basicamente, desde que a gente chegou no
+ 00:18:17
+
+Brasil, não é? Então, em 2011, a gente
+ 00:18:18
+
+desenvolveu uma primeira plataforma
+ 00:18:20
+
+digital que era o Webed, era voltada
+ 00:18:21
+
+para o produtor fazer uma autoavaliação
+ 00:18:24
+
+da do seu sistema produtivo e a
+ 00:18:26
+
+plataforma gerava um relatório eh dando
+ 00:18:29
+
+orientações práticas para esses
+ 00:18:32
+
+produtores com com referências
+ 00:18:34
+
+bibliográficas incluídas sobre o porquê,
+ 00:18:36
+
+não é, o que e o porqu melhorar
+ 00:18:39
+
+determinadas práticas. Então, que
+ 00:18:42
+
+práticas ele poderia adotar para obter
+ 00:18:43
+
+melhores resultados em termos de
+ 00:18:45
+
+produtividade, práticas de gestão,
+ 00:18:47
+
+então, eh, práticas de adequação legal,
+ 00:18:51
+
+não é? A gente dá assim uma orientação, mas
+ 00:18:53
+
+era muito baseado em texto, não é? Era uma
+ 00:18:55
+
+plataforma bastante hoje olhando de 25,
+ 00:18:58
+
+olhando para para lá, era uma uma
+ 00:19:01
+
+plataforma bastante simplória, mas foi o
+ 00:19:02
+
+início ali e já foi um uma semente que
+ 00:19:05
+
+vingou na organização aqui no Brasil,
+ 00:19:08
+
+que se iniciou aqui no Brasil. Eh, e a
+ 00:19:11
+
+partir daí a gente foi evoluindo, não é?
+ 00:19:13
+
+Então, eh, a gente chamava-se Horizonte
+ 00:19:16
+
+Rural, não é? 2012 começamos, 2013 a gente
+ 00:19:19
+
+lançou essa plataforma. Em 2018, a gente
+ 00:19:22
+
+lançou uma primeira ferramenta para o
+ 00:19:25
+
+produtor rural em mobile, que era que
+ 00:19:27
+
+ela reproduzia essa proposta de valor da
+ 00:19:30
+
+plataforma Horizonte Rural, ou seja, o
+ 00:19:33
+
+produtor poderia entrar, fazer uma
+ 00:19:35
+
+autoavaliação e obter ali um guia
+ 00:19:37
+
+prático, e a gente chama de plano de
+ 00:19:39
+
+ação, com as práticas que ele poderia
+ 00:19:41
+
+melhorar e com, não é, a indexação de
+ 00:19:44
+
+conteúdos aqui já dando um primeiro
+ 00:19:47
+
+passo, ainda recipiente, mas um primeiro
+ 00:19:50
+
+passo no conteúdo. do audiovisual, não é,
+ 00:19:52
+
+para que aquele produtor se interasse,
+ 00:19:55
+
+não é, e e se tornasse o agente principal
+ 00:19:57
+
+de transformação do seu sistema
+ 00:20:01
+
+produtivo. A ideia é que não era
+ 00:20:02
+
+substituir a assistência técnica eh
+ 00:20:04
+
+presencial, mas sim aumentar a
+ 00:20:06
+
+capacidade eh de acesso do produtor as
+ 00:20:08
+
+informações, considerando que os a a
+ 00:20:11
+
+extensão rural é uma é uma operação
+ 00:20:14
+
+bastante custosa, não é, por causa do dos
+ 00:20:17
+
+custos de recursos humanos e dependendo
+ 00:20:20
+
+do local, não é, como a gente trabalha na
+ 00:20:23
+
+Amazônia, por exemplo, a logística nossa
+ 00:20:25
+
+para para conduzir um projeto de
+ 00:20:27
+
+extensão rural tão duradouro, ela é
+ 00:20:29
+
+absurdamente cara. Então, a ideia sempre
+ 00:20:31
+
+foi ter o digital como um auxiliar, como
+ 00:20:34
+
+um assistente do extensionista, do
+ 00:20:37
+
+agente, não é, propagador ali da difusão
+ 00:20:40
+
+tecnológica,
+ 00:20:42
+
+eh, aumentando a janela de interações
+ 00:20:43
+
+que o produtor pode ter com conteúdos
+ 00:20:47
+
+técnicos relacionados à produção
+ 00:20:50
+
+agropecuária.
+ 00:20:51
+
+Eh, neste momento os nomes estão em
+ 00:20:54
+
+inglês e a gente sempre, eu sempre peço
+ 00:20:57
+
+desculpa toda vez que a gente apresenta
+ 00:20:59
+
+isso, porque a ideia era que esses
+ 00:21:01
+
+aplicativos que a gente estava
+ 00:21:04
+
+desenvolvendo no Brasil fossem
+ 00:21:05
+
+utilizados em outros países também, não é?
+ 00:21:06
+
+Então em 2019 veio um outro aplicativo
+ 00:21:09
+
+aí voltado pro agente extensionista, não é,
+ 00:21:11
+
+que é uma espécie de assistente e
+ 00:21:14
+
+digital que substitui a ficha de visitas
+ 00:21:16
+
+que o extensionista normalmente tem que
+ 00:21:20
+
+tem que levar pro campo. Então aqui o
+ 00:21:22
+
+aplicativo Extension Solution acabou se
+ 00:21:24
+
+tornando o nosso carro chefe. Ele até
+ 00:21:26
+
+hoje tá tá ativo e é bastante usual e é
+ 00:21:28
+
+bastante usado, não é, pros nossos
+ 00:21:32
+
+projetos. Hoje a gente tem mais ou menos
+ 00:21:33
+
+30.000 produtores que foram avaliados ou
+ 00:21:35
+
+estão sendo avaliados continuamente por
+ 00:21:38
+
+esse aplicativo, por agentes
+ 00:21:41
+
+extensionistas, sejam eh equipe nossa
+ 00:21:43
+
+própria ou equipe de parceiros. Então, a
+ 00:21:46
+
+gente tem projeto em que, por exemplo,
+ 00:21:49
+
+eh a gente apoia a equipe técnica de uma
+ 00:21:51
+
+determinada empresa, não é? Então, uma
+ 00:21:56
+
+empresa interessada em investir no seu
+ 00:21:57
+
+no seu abastecimento sustentável,
+ 00:22:00
+
+eh, usa a nossa ferramenta para que seus
+ 00:22:03
+
+extensionistas façam o levantamento de
+ 00:22:05
+
+dados, façam o levantamento do perfil
+ 00:22:08
+
+socioeconômico dos produtores, faço o
+ 00:22:10
+
+levantamento do perfil produtivo de cada
+ 00:22:12
+
+fazenda, não é, no nível individual e tenho
+ 00:22:14
+
+ali a possibilidade de fazer os
+ 00:22:16
+
+registros de visita de forma já
+ 00:22:18
+
+digitalizada. Aqui a proposta, o que a
+ 00:22:21
+
+gente consegue entregar é que o técnico
+ 00:22:23
+
+passou a precisar muito menos, a gastar
+ 00:22:26
+
+muito menos tempo em escritório, fazendo
+ 00:22:29
+
+o relatório em Excel, digitalizando
+ 00:22:32
+
+dados que ele levanta em campo, mandando
+ 00:22:34
+
+ou fazendo um relatório para os seus
+ 00:22:36
+
+coordenadores, porque a partir da base
+ 00:22:38
+
+gerada pelo aplicativo, a gente gera as
+ 00:22:41
+
+ferramentas de inteligência de negócios.
+ 00:22:44
+
+Então, enquanto o meu coordenador também
+ 00:22:47
+
+não precisa mais fazer relatório, então
+ 00:22:50
+
+ele tem um dashboard ali automatizado
+ 00:22:52
+
+que ele entra, vê o que tá acontecendo
+ 00:22:54
+
+no campo. Se a gente precisa fazer uma
+ 00:22:56
+
+relatoria para um doador ou para um
+ 00:22:58
+
+parceiro comercial, a gente também não
+ 00:23:00
+
+faz mais isso de forma estática, não é?
+ 00:23:02
+
+Então, todo aquele tempo que eu, meus
+ 00:23:04
+
+colegas gerentes, coordenadores,
+ 00:23:06
+
+precisavam gastar, elaborando um
+ 00:23:07
+
+relatório sobre o impacto, sobre as
+ 00:23:09
+
+ações, relatando e dando a evidência de
+ 00:23:11
+
+que as visitas aconteceram, de que os
+ 00:23:15
+
+produtores evoluíram ao longo do tempo,
+ 00:23:18
+
+nada mais isso é necessário, porque a
+ 00:23:20
+
+gente substituiu todo esse trabalho, não é,
+ 00:23:22
+
+manual de processamento de dados por uma
+ 00:23:24
+
+ferramenta digital. E em 2024,
+ 00:23:26
+
+finalmente, vem o Soles, que é uma
+ 00:23:29
+
+tentativa de avançar
+ 00:23:31
+
+na difusão tecnológica por meio de
+ 00:23:34
+
+conteúdos audiovisuais. E esse aqui é o
+ 00:23:36
+
+é o tema, não é, essa esse projeto que
+ 00:23:39
+
+resultou na criação desse novo
+ 00:23:42
+
+aplicativo Soles, é o tema da minha
+ 00:23:44
+
+dissertação, tá? Eh, bom, aqui eh, já
+ 00:23:46
+
+falamos um pouco, então não vou tomar
+ 00:23:50
+
+muito tempo, mas é basicamente como a
+ 00:23:51
+
+nossas a nossa plataforma digital engaja
+ 00:23:53
+
+e e gera valor para cada elo da cadeia,
+ 00:23:56
+
+não é? Então o produtor tem a ferramenta
+ 00:24:00
+
+agora, não é, pra gente conseguir fazer uma
+ 00:24:02
+
+difusão de tecnologias, de práticas de
+ 00:24:05
+
+produção mais mais resilientes, mais
+ 00:24:07
+
+adaptadas à sua realidade. consoles, as
+ 00:24:09
+
+organizações, associações, cooperativas
+ 00:24:12
+
+ou empresas processadoras, aquelas que
+ 00:24:15
+
+compram, não é, que precisam do da do
+ 00:24:17
+
+abastecimento, que se relacionam
+ 00:24:20
+
+diretamente com os produtores, se
+ 00:24:21
+
+aproveitam desse dessa dessa plataforma
+ 00:24:23
+
+do Station Solution, mais das nossas
+ 00:24:26
+
+ferramentas de inteligência para fazer a
+ 00:24:28
+
+coleta mais assertiva de campo, para
+ 00:24:30
+
+reduzir o tempo necessário, gasto com
+ 00:24:33
+
+relatoria, com o administrativo e ter
+ 00:24:35
+
+mais tempo para tomar decisão, para
+ 00:24:38
+
+pensar na intervenção. E no caso dos
+ 00:24:40
+
+técnicos, principalmente, mais tempo
+ 00:24:42
+
+para fazer assistência técnica, não é, para
+ 00:24:44
+
+fazer a extensão rural acontecer. E a
+ 00:24:46
+
+indústria também utiliza muito a nossa
+ 00:24:49
+
+inteligência. Então, toda a inteligência
+ 00:24:51
+
+gerada a partir dos lados do campo, a
+ 00:24:52
+
+gente consegue transformar em insumos,
+ 00:24:54
+
+não é, paraa indústria tomar decisão, pra
+ 00:24:56
+
+indústria fazer eh gestão de risco da
+ 00:24:58
+
+cadeia. A gente ainda não chegou no
+ 00:25:02
+
+varejo, mas é um plano que a gente tem,
+ 00:25:03
+
+tá?
+ 00:25:05
+
+Agora, finalmente, indo paraa pesquisa,
+ 00:25:07
+
+a gente tá eh
+ 00:25:09
+
+chegando a 25 minutos. Então, eh qual
+ 00:25:13
+
+que foi o objetivo do meu estudo de
+ 00:25:15
+
+mestrado? foi compreender por meio de
+ 00:25:17
+
+estudo de caso eh como a gente consegue
+ 00:25:20
+
+colocar em prática discussões teóricas
+ 00:25:23
+
+que vem aumentando, que vem crescendo
+ 00:25:25
+
+ultimamente sobre conjugar tecnologias
+ 00:25:27
+
+digitais e preceitos agroecológicos para
+ 00:25:30
+
+acelerar uma transição do modelo
+ 00:25:34
+
+produtivo que sai dessa dessa
+ 00:25:36
+
+agricultura convencional para uma
+ 00:25:38
+
+agricultura de perfil mais
+ 00:25:39
+
+agroecológico, uma agricultura mais
+ 00:25:41
+
+alinhada às as práticas agroecológicas,
+ 00:25:42
+
+tá? Eh, então aí as tendo como
+ 00:25:45
+
+premissas, não é, até como a principal
+ 00:25:49
+
+ferramenta paraa promoção do
+ 00:25:51
+
+desenvolvimento rural, tá? A gente tem a
+ 00:25:52
+
+questão da busca por conhecimentos
+ 00:25:55
+
+teóricos relacionados ao desenvolvimento
+ 00:25:56
+
+rural. Então aqui é o é o extrato da
+ 00:25:58
+
+minha pesquisa, não é? Então, trabalhei um
+ 00:26:01
+
+pouco na revisão bibliográfica a
+ 00:26:03
+
+importância da ATER, como a gente
+ 00:26:05
+
+relaciona a a ATER no Brasil de forma a
+ 00:26:07
+
+ressignificar a nossa extensão rural
+ 00:26:11
+
+para essa transição, para acelerar ou
+ 00:26:14
+
+promover ou acelerar essa transição, não é?
+ 00:26:16
+
+precisei conhecer mais a fundo porque eu
+ 00:26:19
+
+entrei para trabalhar nessa área, não é, a
+ 00:26:22
+
+partir da graduação. Então sempre tive
+ 00:26:24
+
+muito conhecimento táo ali, não é, de de
+ 00:26:26
+
+campo, vou muito para campo, continuo
+ 00:26:29
+
+indo, fui, continuo indo. Então, eu
+ 00:26:32
+
+conheço bem a realidade do campo nos na
+ 00:26:34
+
+nas regiões onde a gente atua e fui
+ 00:26:37
+
+aprendendo no desenvolvimento digital
+ 00:26:39
+
+como fazer plataforma digital para
+ 00:26:41
+
+resolver os problemas que a gente
+ 00:26:43
+
+encontrando, mas foi, eu precisava ter
+ 00:26:44
+
+esse acabço institucional sobre a
+ 00:26:47
+
+história da Terra no Brasil, não é? Então
+ 00:26:50
+
+isso também tá bem tá bem extenso até na
+ 00:26:52
+
+minha tese, perdão, na minha
+ 00:26:54
+
+dissertação. Eh, aí eu identifiquei
+ 00:26:56
+
+quais barreiras dificultam a adoção de
+ 00:27:00
+
+novas tecnologias produtivas por
+ 00:27:02
+
+agricultores familiares, não é,
+ 00:27:04
+
+agricultores de pequena escala, mas
+ 00:27:06
+
+principalmente os familiares. E também
+ 00:27:07
+
+tive como objetivo ali investigar
+ 00:27:09
+
+propostas alternativas, que nesse caso é
+ 00:27:11
+
+esse projeto que resultou no aplicativo
+ 00:27:14
+
+Soles, não é? Então, chama-se ferramentas
+ 00:27:16
+
+digitais inclusivas. É um projeto que a
+ 00:27:18
+
+gente começou em 2023. e a gente tem
+ 00:27:20
+
+como resultado mais eh em termos
+ 00:27:22
+
+palpáveis de produto digital o nosso
+ 00:27:24
+
+aplicativo SOS. Então aqui praticamente,
+ 00:27:26
+
+não é, foi foram os objetivos. Aqui o meu
+ 00:27:30
+
+referencial teórico, não é, eh mais
+ 00:27:32
+
+detalhado do que eu acabei de falar. Eh,
+ 00:27:35
+
+mas são todos temas que a gente consegue
+ 00:27:38
+
+que tá que estão disponíveis lá na minha
+ 00:27:40
+
+dissertação. Eu vou pra parte mais
+ 00:27:42
+
+prática que eu acho que é mais
+ 00:27:43
+
+interessante, tá? Mas eu nela eu vou
+ 00:27:44
+
+tocando ali bastante na revisão
+ 00:27:48
+
+bibliográfica.
+ 00:27:50
+
+Então, começando com uma com uma
+ 00:27:52
+
+contextualização do território, eh a
+ 00:27:53
+
+gente tem esse projeto que eu mencionei
+ 00:27:57
+
+antes na Amazônia, não é, mais precisamente
+ 00:27:59
+
+no território de da cidade Novo
+ 00:28:02
+
+Repartimento. Para quem não conhece, que
+ 00:28:05
+
+eu eh é uma cidade que fica mais ou
+ 00:28:08
+
+menos 150 km de Marabá, que é o
+ 00:28:10
+
+aeroporto mais próximo, e ela fica no
+ 00:28:12
+
+eixo eh da Transamazônica
+ 00:28:15
+
+entre a cidade de Marabá e a cidade de
+ 00:28:19
+
+Altamira. não é? Então, a gente começou a
+ 00:28:21
+
+nossa atuação ali em 2012, chegamos no
+ 00:28:23
+
+território, aterrizamos em 2012 e em
+ 00:28:26
+
+2015 para 16 a gente começou de fato a
+ 00:28:28
+
+colocar o pé no campo. Então são 3 anos,
+ 00:28:31
+
+não é, de articulação com parceiros locais,
+ 00:28:33
+
+CPLAC, prefeitura, governo do estado.
+ 00:28:37
+
+Então, a gente fez uma boa amarração com
+ 00:28:39
+
+esses atores. Inclusive, a identificação
+ 00:28:41
+
+do Cacau como a primeira a primeira
+ 00:28:43
+
+cadeia produtiva a ser trabalhada, veio
+ 00:28:47
+
+a partir desses 2 anos e meio, 3 anos de
+ 00:28:49
+
+articulação com os atores locais, porque
+ 00:28:52
+
+o estado tinha e o e o município tava
+ 00:28:54
+
+alinhado com o estado essa ambição de
+ 00:28:56
+
+transformar a região numa grande região
+ 00:28:59
+
+produtora de cacau por causa do seu
+ 00:29:01
+
+potencial
+ 00:29:03
+
+produtivo e por causa do seu potencial
+ 00:29:05
+
+comercial. E como cacau a gente consegue
+ 00:29:07
+
+trabalhar em agrofloresta. a gente
+ 00:29:10
+
+também tinha aí uma boa janela para
+ 00:29:12
+
+trabalhar a questão da agenda do da
+ 00:29:14
+
+redução do desmatamento ou da
+ 00:29:16
+
+recuperação de áreas degradadas, não é, a
+ 00:29:17
+
+partir de sistemas agroflorestais, tá?
+ 00:29:19
+
+Então, na minha dissertação, eu discorri
+ 00:29:22
+
+bastante sobre a formação, não é, do
+ 00:29:24
+
+território. Então, é basicamente ali o o
+ 00:29:26
+
+a história comum, não é, da expansão eh
+ 00:29:30
+
+agrícola e pecuária pro norte a partir
+ 00:29:33
+
+do do governo do governo militar, tá?
+ 00:29:36
+
+Depois a gente, eu fiz uma cartização
+ 00:29:41
+
+produtiva,
+ 00:29:43
+
+fiz uma análise exploratória de dados
+ 00:29:45
+
+levantados pelo nosso projeto lá. Eh,
+ 00:29:46
+
+aqui a gente tem, a gente atua hoje com
+ 00:29:50
+
+1900 produtores, 1913 produtores. Então,
+ 00:29:52
+
+o nosso sistema de assistência técnica,
+ 00:29:55
+
+bastante em função dessa nossa
+ 00:29:58
+
+plataforma digital, subsidiando a ação
+ 00:30:00
+
+de gestão da informação, a gente
+ 00:30:02
+
+consegue acompanhar quase 2.000 famílias
+ 00:30:04
+
+de forma rotineira. Dessas 2000
+ 00:30:07
+
+famílias, eu utilizei 1446
+ 00:30:09
+
+porque para análise de dados, porque
+ 00:30:12
+
+eram eram eram os dados que estavam mais
+ 00:30:15
+
+consistentes, não é? A gente leva um tempo
+ 00:30:18
+
+entre ingressar uma família na nossa
+ 00:30:21
+
+plataforma digital e começar a ter dados
+ 00:30:24
+
+mais consistentes. Denis, que são dados
+ 00:30:26
+
+consistentes? são dados, são, eh, a
+ 00:30:28
+
+gente trabalha com questionário no
+ 00:30:30
+
+aplicativo para traçar o perfil
+ 00:30:32
+
+socioprodutivo e econômico. Então, ah,
+ 00:30:33
+
+eu fiz uma um corte em termos de
+ 00:30:36
+
+quantidade de preenchimento, não é? Então,
+ 00:30:39
+
+eh, a partir de um momento que não tinha
+ 00:30:42
+
+que tinha menos de 80% desse
+ 00:30:44
+
+questionário preenchido, eu
+ 00:30:46
+
+desconsiderei são essa diferença que tá
+ 00:30:47
+
+aqui, não é? E trabalhei com dados que nós
+ 00:30:50
+
+levantamos entre julho de 2021 e junho
+ 00:30:53
+
+de 2024. Como a nossa plataforma tá
+ 00:30:55
+
+continuamente sendo atualizada, não é, os
+ 00:30:58
+
+os assistentes técnicos fazem suas
+ 00:31:00
+
+visitas rotineiras, em cada visita eles
+ 00:31:02
+
+atualizam as informações, eu precisei
+ 00:31:04
+
+fazer um uma data de corte de entrada e
+ 00:31:07
+
+de saída, não é? Então eu analisei somente
+ 00:31:10
+
+esse período de 3 anos entre 21 e 24.
+ 00:31:12
+
+Eh, e aí fiz uma análise, não, na
+ 00:31:17
+
+verdade não foi uma análise porque eu
+ 00:31:20
+
+não podia fazer uma análise porque é
+ 00:31:21
+
+como eu fui coordenador desse projeto,
+ 00:31:23
+
+eu não tinha capacidade, não é, não ia ter
+ 00:31:25
+
+a a
+ 00:31:27
+
+a possibilidade de fazer uma análise.
+ 00:31:29
+
+Então, eu fiz mais um estudo de caso no
+ 00:31:31
+
+sentido de explicar e apresentar como o
+ 00:31:33
+
+projeto ferramentas digitais inclusivas
+ 00:31:35
+
+foi trabalhado a partir de uma
+ 00:31:38
+
+publicação, de duas publicações feitas
+ 00:31:40
+
+pelo próprio projeto, não é, que foi um
+ 00:31:42
+
+currículo de de sustentabilidade que é
+ 00:31:45
+
+um é um consolidado da metodologia que a
+ 00:31:48
+
+gente adotou para executar esse projeto
+ 00:31:53
+
+e um policy brief com recomendações
+ 00:31:55
+
+sobre como eh esse projeto foi executado
+ 00:31:57
+
+e os principais resultados e as
+ 00:32:00
+
+principais recomendações. Então,
+ 00:32:01
+
+basicamente pautei meu estudo de caso
+ 00:32:03
+
+sem fazer uma análise crítica, porque eu
+ 00:32:06
+
+não tinha a a a possibilidade de fazê-lo
+ 00:32:08
+
+por estar envolvido no projeto. Mas
+ 00:32:12
+
+olhando para essas duas publicações,
+ 00:32:13
+
+eh, na minha dissertação, eu fiz um
+ 00:32:16
+
+resumo do que foi apresentado nesse,
+ 00:32:19
+
+nesse, nesses dois produtos, nesses do
+ 00:32:22
+
+nessas duas publicações, tá?
+ 00:32:24
+
+Então aqui entrando já nos resultados,
+ 00:32:27
+
+a estruturação do território, o
+ 00:32:30
+
+histórico do território de ocupação é
+ 00:32:32
+
+como já tinha mencionado, o básico ali,
+ 00:32:33
+
+não é, o convencional da da região. Então
+ 00:32:36
+
+muito pautado na estratégia do integrar
+ 00:32:39
+
+para não entregar. Produtores foram
+ 00:32:41
+
+chamados, foram levados pro território,
+ 00:32:43
+
+eh, com a promessa de de se tornarem
+ 00:32:45
+
+propriedários da terra, tinham que
+ 00:32:49
+
+desmatar. Então, a gente lida muito com
+ 00:32:50
+
+isso na nossa realidade, que é a gente
+ 00:32:52
+
+ainda tá com muitos produtores eh da
+ 00:32:55
+
+primeira geração. Quando não é da
+ 00:32:59
+
+primeira é no máximo da segunda. E todos
+ 00:33:00
+
+esses produtores foram levados e foram
+ 00:33:02
+
+eh incentivados, motivados ou criaram a
+ 00:33:05
+
+cultura, não é, de desmatar, porque eles
+ 00:33:08
+
+foram motivados pelo governo para fazer
+ 00:33:11
+
+isso. E agora a gente chega lá falando:
+ 00:33:13
+
+"Não, você não pode mais desmatar por
+ 00:33:14
+
+causa disso disso. Então essa esse
+ 00:33:15
+
+conflito a gente ainda eh enfrenta muito
+ 00:33:18
+
+porque a gente ainda tá falando com
+ 00:33:21
+
+produtores que que abriram e com os
+ 00:33:23
+
+filhos desses produtores. Os netos
+ 00:33:26
+
+desses produtores ainda são muito são
+ 00:33:28
+
+muito eh esparsos, assim, são poucos
+ 00:33:30
+
+casos que a gente tá falando já com a
+ 00:33:33
+
+terceira geração, eh embora haja
+ 00:33:34
+
+bastante jovens e eles são foco do
+ 00:33:37
+
+projeto ferramentas digitais inclusivas,
+ 00:33:38
+
+tá? Eh, a sessão de teste foi de forma
+ 00:33:40
+
+desordenada. Tem o tem dois tem dois eh
+ 00:33:43
+
+fatores eh que aumentam o nível de
+ 00:33:47
+
+conflito aí, que foi a construção da
+ 00:33:50
+
+Transamazônica. Então, aônica corta o
+ 00:33:52
+
+território na onde a gente atua e a
+ 00:33:54
+
+construção da usina elétrica de Tucuruí,
+ 00:33:56
+
+que foi a responsável pela criação do
+ 00:33:59
+
+município de novo repartimento. Novo
+ 00:34:01
+
+Repartimento eh foi um município criado
+ 00:34:03
+
+a partir do deslocamento da comunidade
+ 00:34:06
+
+de repartimento que foi alagada pra
+ 00:34:08
+
+usina de Tucuruí. Então, também é um
+ 00:34:11
+
+município relativamente jovem, não é? Então
+ 00:34:13
+
+esse é o contexto histórico do nosso
+ 00:34:15
+
+projeto.
+ 00:34:18
+
+Aí eu fiz uma análise de dados
+ 00:34:20
+
+secundários a partir do de dados do IBGE
+ 00:34:22
+
+principalmente, não é? Aqui uma comparação
+ 00:34:25
+
+do recebimento de assistência técnica,
+ 00:34:28
+
+não é? Rebimento de orientação técnica, que
+ 00:34:30
+
+como o Censo Agropecuário pergunta.
+ 00:34:32
+
+Então a gente vê que é baixo no Brasil
+ 00:34:35
+
+inteiro, não é? E ainda mais baixo no Pará,
+ 00:34:37
+
+aqui considerando o estado como um todo,
+ 00:34:41
+
+não é? Então, a gente tem que menos de
+ 00:34:43
+
+cinco, aproximadamente 5% dos produtores
+ 00:34:44
+
+de de do Pará eh receberam que já
+ 00:34:48
+
+tiveram algum tipo de orientação técnica
+ 00:34:51
+
+na sua na sua trajetória, tá? Aí aqui a
+ 00:34:54
+
+ideia foi dar um uma perspectiva do da
+ 00:34:59
+
+caracterização produtiva do território.
+ 00:35:02
+
+Então as duas cadeias mais importantes
+ 00:35:04
+
+são pecuária e cacau. Mas a gente também
+ 00:35:06
+
+tem uma boa uma considerável uma
+ 00:35:10
+
+considerável atividade na aquicultura,
+ 00:35:13
+
+embora percentualmente seja baixo, mas é
+ 00:35:16
+
+uma considerável com um potencial
+ 00:35:18
+
+bastante interessante, tá? E aqui esse
+ 00:35:19
+
+gráfico eh eu fiz para mostrar a
+ 00:35:22
+
+diferença do rendimento médio do cacau
+ 00:35:24
+
+eh no território, no estado, nos três
+ 00:35:27
+
+municípios que a gente trabalha no no
+ 00:35:30
+
+repartimento, mas tem dois vizinhos que
+ 00:35:31
+
+tem produtores porque é um assentamento,
+ 00:35:33
+
+na verdade. Então é o assentamento tuerê
+ 00:35:35
+
+que é gigantesco, não é? É o maior
+ 00:35:38
+
+assentamento da América Latina, tem
+ 00:35:40
+
+aproximadamente entre 8 e 10.000
+ 00:35:41
+
+famílias assentadas nesse assentamento.
+ 00:35:43
+
+Então esse assentamento transborda um
+ 00:35:46
+
+pouco o município de novo repartimento e
+ 00:35:48
+
+chega até ANAPU. e Pacajá. O Pacajá é
+ 00:35:50
+
+Napu em No sentido Marabá, eh, Altamira,
+ 00:35:53
+
+não é? Anapu já é uma cidade que faz
+ 00:35:56
+
+fronteira com Altamira. Então, a gente
+ 00:35:58
+
+já chegou em Altamira esse ano, então a
+ 00:36:00
+
+gente tá expandindo a nossa intervenção
+ 00:36:02
+
+no território. Mas até o momento em que
+ 00:36:03
+
+eu fiz o estudo, que foi quando a gente
+ 00:36:06
+
+fez o projeto, a ferramenta de tais
+ 00:36:08
+
+inclusivas, a gente estava nesses três
+ 00:36:10
+
+municípios. Então aqui um comparativo da
+ 00:36:12
+
+produtividade de cacau que era, não é, que
+ 00:36:15
+
+foi o o carro chefe da nossa chegada no
+ 00:36:18
+
+território e que corroborou a a
+ 00:36:22
+
+expectativa do estado e do município no
+ 00:36:25
+
+sentido de usar o cacau como a a cadeia
+ 00:36:27
+
+para impulsionar o desenvolvimento no
+ 00:36:31
+
+território. Então, embora a Bahia ainda
+ 00:36:33
+
+tem ainda tenha sido em 24 o maior o
+ 00:36:35
+
+maior produtor em termos de volume, os
+ 00:36:40
+
+níveis de produtividade do território
+ 00:36:43
+
+eles são bem bem mais altos do que o os
+ 00:36:45
+
+do da Bahia e também estão bastante
+ 00:36:48
+
+acima do do Brasil, não é? Então aqui a
+ 00:36:51
+
+gente tem que novo repartimento, a
+ 00:36:53
+
+produtividade tem um índice bem alto,
+ 00:36:55
+
+certo? E e mesmo o mais baixo aqui que é
+ 00:36:58
+
+Pacajá, tá acima do nível de
+ 00:37:01
+
+produtividade do Brasil.
+ 00:37:03
+
+Eh,
+ 00:37:06
+
+e aqui a análise da pecuária, ela é
+ 00:37:09
+
+feita com base no número de cabeças, não é,
+ 00:37:13
+
+e não de produtividade, que são os dados
+ 00:37:15
+
+disponíveis. Então, a gente tem aqui
+ 00:37:17
+
+também a comparação entre eh a as
+ 00:37:19
+
+cidades, tá pequeno aqui para eu ver,
+ 00:37:23
+
+mas eh as cidades e o estado, não é, em em
+ 00:37:25
+
+termos de produt de número de de cabeças
+ 00:37:29
+
+de gado. Então, a gente tem aí um um
+ 00:37:32
+
+números absolutos, mais de 25 milhões de
+ 00:37:36
+
+cabeças, não é, no estado do Pará. Eh, e
+ 00:37:39
+
+ele só fica atrás no Mato Grosso, não é?
+ 00:37:42
+
+São dados bastante, acho que é bastante
+ 00:37:44
+
+para quem trabalha com agropecuária, que
+ 00:37:47
+
+eu acho que é o público do nosso canal,
+ 00:37:48
+
+do canal aqui, é um público bastante, é
+ 00:37:49
+
+um, é um dado bastante comum, assim, não é,
+ 00:37:52
+
+bastante esperado, não tem nenhuma
+ 00:37:54
+
+novidade aqui, mas é interessante a
+ 00:37:55
+
+gente fazer essa análise.
+ 00:37:57
+
+Aí agora já olhando pros dados que a
+ 00:38:00
+
+gente tem na nossa base de dados
+ 00:38:03
+
+coletadas pelo nosso serviço de
+ 00:38:05
+
+assistência técnica e que eu utilizei
+ 00:38:06
+
+para fazer uma cartação específica do
+ 00:38:09
+
+grupo que foi o público objeto do
+ 00:38:11
+
+projeto ferramentas digitais, não é? Então
+ 00:38:13
+
+aqui é uma distribuição por município,
+ 00:38:16
+
+não é? Então a gente tem a maior parte
+ 00:38:18
+
+deles em novo repartimento, mas tem
+ 00:38:20
+
+Pacajá, na PU e já tem um pouco de
+ 00:38:22
+
+produtores em Altamira, porque como eu
+ 00:38:24
+
+falei, não é, é um é um assentamento e o
+ 00:38:26
+
+território tem produtores que estão
+ 00:38:29
+
+associados à cooperativa ou associações
+ 00:38:32
+
+de Pacajá ou Anapu, mas que o seu
+ 00:38:35
+
+território já está em alta mira, não é? A
+ 00:38:37
+
+distribuição de idade eles têm em média
+ 00:38:40
+
+entre 42 e 58 anos.
+ 00:38:43
+
+Acho que é isso. Então ali tá
+ 00:38:46
+
+concentrado o maior número, não é, de de
+ 00:38:49
+
+produtores que são assistidos dessas
+ 00:38:50
+
+quase 2.000 famílias.
+ 00:38:52
+
+Eh,
+ 00:38:54
+
+eh, aqui a gente tá falando do nível de
+ 00:38:58
+
+escolaridade, então assim, é bastante
+ 00:39:00
+
+baixo ainda, não é? E a gente também faz
+ 00:39:02
+
+levantamento de informações sobre
+ 00:39:05
+
+acessibilidade de serviços digitais, não é?
+ 00:39:07
+
+Então aqui a partir dos nossos dados, a
+ 00:39:10
+
+gente tem uma comparação entre os
+ 00:39:13
+
+produtores que têm acesso e os que não
+ 00:39:14
+
+têm acesso, não é, a cada tipo de serviço.
+ 00:39:16
+
+Então aqui a gente fez aplicativo,
+ 00:39:19
+
+aplicativo de de banco, internet. Então
+ 00:39:21
+
+eh eh esse esse resultado tá aqui. Eu
+ 00:39:25
+
+vou pedir licença um pouquinho que eu
+ 00:39:28
+
+acho que eu vou abrir uma versão do do
+ 00:39:29
+
+PPT na no meu na minha segunda tela aqui
+ 00:39:32
+
+para eu conseguir visualizar que tá
+ 00:39:34
+
+pequeno para mim. Só um minuto.
+ 00:39:35
+
+Eh, enquanto isso eu vou dando sequência
+ 00:39:38
+
+aqui.
+ 00:39:39
+
+Eh,
+ 00:39:42
+
+boa.
+ 00:39:46
+
+Aí já me ajuda,
+ 00:39:49
+
+pessoal. Vouar com vocês aqui. Onde
+ 00:39:54
+
+vocês estão aqui. Desculpa, gente. Vamos
+ 00:39:56
+
+lá
+ 00:39:59
+
+então. Aí, dando sequência. Eh, aí aqui
+ 00:40:01
+
+eu tenho o resultado em relação a
+ 00:40:05
+
+à prática, a renda, não é, a renda dos
+ 00:40:09
+
+produtores nos no período de estudo.
+ 00:40:11
+
+Eh,
+ 00:40:16
+
+com relação à renda, a gente tem algumas
+ 00:40:18
+
+questões com outliers dos dados. Então
+ 00:40:20
+
+eu precisei fazer aquele cálculo de o
+ 00:40:24
+
+cálculo para identificação desses
+ 00:40:27
+
+outliers foi uma vez e meia a o o o
+ 00:40:28
+
+limite intercartílico, não é, da da última
+ 00:40:33
+
+do último quartil ali para amenizar um
+ 00:40:36
+
+pouco. Mas basicamente
+ 00:40:39
+
+comprovou que cacau e pecuária são as
+ 00:40:41
+
+principais fontes de renda dos
+ 00:40:43
+
+produtores com os quais a gente
+ 00:40:44
+
+trabalha.
+ 00:40:46
+
+Eh, aqui a cterização do grupo de
+ 00:40:49
+
+produtores. Aqui a gente tem eh uma
+ 00:40:52
+
+questão de da área, do tamanho da área.
+ 00:40:55
+
+Professor, quer falar alguma coisa?
+ 00:40:58
+
+>> Eh, uma questão de
+ 00:41:01
+
+>> da área.
+ 00:41:03
+
+>> Não, tá bom, desculpa. É que abriu,
+ 00:41:05
+
+apareceu aqui a a janela para mim. Eu
+ 00:41:07
+
+achei que o senhor queria falar alguma
+ 00:41:09
+
+coisa.
+ 00:41:10
+
+Eh,
+ 00:41:12
+
+deixa eu achar esse dado aqui que daí eu
+ 00:41:14
+
+consigo ver melhor. Só um minuto.
+ 00:41:16
+
+Bom,
+ 00:41:21
+
+então foi a renda. Aqui a gente tá
+ 00:41:26
+
+olhando paraa área total e o estado de
+ 00:41:29
+
+documentação da propriedade, tá? Então
+ 00:41:30
+
+assim, a maioria, a grande maioria dos
+ 00:41:32
+
+produtores, então, perdão, com relação à
+ 00:41:36
+
+área, a média é de 60 ha, tá? Então,
+ 00:41:38
+
+todos os produtores que a gente atende
+ 00:41:40
+
+ali na média 60, a gente tem alguns
+ 00:41:42
+
+pouquíssimos com
+ 00:41:44
+
+eh menos de 60 ali, 12, a gente tem até
+ 00:41:47
+
+uns mais ou menos eh com 200, perdão,
+ 00:41:51
+
+com menos de 60 ha, mas ainda com mais
+ 00:41:56
+
+de 60. Então assim, a gente tem um um
+ 00:42:00
+
+produtor com 145. o nosso produtor, o
+ 00:42:02
+
+nosso maior produtor em termos de área
+ 00:42:05
+
+tem 140, eh, tem 145 ha, tá? Eh, indo
+ 00:42:07
+
+pra questão da documentação, ou seja,
+ 00:42:12
+
+pra relação da propriedade da terra.
+ 00:42:14
+
+Então, esse grupo de produtores não
+ 00:42:17
+
+possui nem o CCIR, nem tem o ITR. Então,
+ 00:42:19
+
+a gente tem ali que a grande maioria
+ 00:42:23
+
+deles não tem um como comprovar, não é? não
+ 00:42:26
+
+não estão inseridos na questão fundiária
+ 00:42:29
+
+e na e com relação à regularização
+ 00:42:32
+
+ambiental, eh a gente tem que 64, 65%
+ 00:42:35
+
+possui o CAR, não é, e que mais ou menos
+ 00:42:40
+
+40%
+ 00:42:44
+
+eh, perdão, mais de 60% realizou a
+ 00:42:45
+
+abertura de áreas de 2008 paraa frente,
+ 00:42:49
+
+não é? Então, depois de 2008. Então, eh, é
+ 00:42:52
+
+o que a gente encontrou, encontra aqui.
+ 00:42:55
+
+Eh,
+ 00:43:00
+
+deixa eu só voltar aqui. Beleza?
+ 00:43:04
+
+Aí, aqui a gente tem um mapa das
+ 00:43:08
+
+práticas mais importantes do cacau e da
+ 00:43:10
+
+pecuária, não é? Manejo de pastagem. Então
+ 00:43:12
+
+assim, eh, acho que o que vale destacar
+ 00:43:15
+
+aqui na questão do cacau é o baixíssimo
+ 00:43:17
+
+número de produtores que fazem análise
+ 00:43:21
+
+solo, que é que é a prática prioritária
+ 00:43:23
+
+assim pra gente conseguir determinar o
+ 00:43:25
+
+manejo, não é, do solo mais apropriado.
+ 00:43:28
+
+Então, 73% não fazem análise de solo,
+ 00:43:30
+
+tá? Quando a gente vai paraa pecuária,
+ 00:43:33
+
+esse número ainda mais alarmante. Eh,
+ 00:43:35
+
+96,8%
+ 00:43:37
+
+dos produtores não fazem análise de
+ 00:43:39
+
+solo, não é? 99,2%
+ 00:43:41
+
+não fazem correção do solo e 96% eh faz
+ 00:43:44
+
+AP não faz nenhum tipo de aplicação de
+ 00:43:49
+
+de fertilizante no solo. Então, a gente
+ 00:43:51
+
+tem um uma possibilidade, uma lacuna de
+ 00:43:53
+
+crescimento de produtividade tanto na
+ 00:43:56
+
+pecuária quanto no cacau, muito muito
+ 00:43:59
+
+grande, não é? da do aspecto positivo que
+ 00:44:01
+
+vale ressaltar em termos de práticas é
+ 00:44:04
+
+que no Cacau eh tem um grande número de
+ 00:44:07
+
+produtores, um grandíssimo número de
+ 00:44:11
+
+produtores fazendo já eh controle de
+ 00:44:13
+
+pragas, não é? Então, 96,8% dos produtores
+ 00:44:16
+
+afirmam, e a gente, não é, consegue
+ 00:44:19
+
+assegurar isso, eles têm eh alguma
+ 00:44:21
+
+prática voltada para controle de plantas
+ 00:44:24
+
+invasoras e daninhas.
+ 00:44:26
+
+E no e no na pecuária, 72% já fazem um
+ 00:44:29
+
+ajuste mais racional de alocação de
+ 00:44:34
+
+cabeças por hectare, porque uma das
+ 00:44:37
+
+nossas principais agendas do da da
+ 00:44:40
+
+extensão rural lá na pecuária é
+ 00:44:42
+
+justamente a
+ 00:44:45
+
+é justamente a a intensificação do
+ 00:44:47
+
+manejo do passo. Então a gente tá
+ 00:44:51
+
+basicamente implantando o pastejo
+ 00:44:52
+
+rotacionado consorciado com agrofloresta
+ 00:44:54
+
+pro cacau, tá? Então aqui termina a
+ 00:44:57
+
+parte de carterização produtiva, não é? Uma
+ 00:45:00
+
+parte com os dados do IBGE, uma parte
+ 00:45:03
+
+com os nossos dados. Isso foi importante
+ 00:45:05
+
+paraa minha pesquisa para dar o o
+ 00:45:07
+
+panorama de qual é o cenário que a gente
+ 00:45:11
+
+encontra na hora de fazer uma inovação
+ 00:45:13
+
+digital, de trabalhar um projeto que
+ 00:45:16
+
+busca eh fazer inovação digital voltado
+ 00:45:17
+
+para engajar esses produtores e para
+ 00:45:20
+
+acelerar a adoção de práticas de perfil
+ 00:45:22
+
+mais agroecológico, não é?
+ 00:45:25
+
+Então, eh, o objetivo do desse projeto
+ 00:45:28
+
+era simples, era por meio da
+ 00:45:30
+
+digitalização acelerar a transição da
+ 00:45:32
+
+produção para um sistema agro
+ 00:45:34
+
+agroflorestal ou agrovil pastoril, tá? O
+ 00:45:36
+
+principal, a principal cadeia desse
+ 00:45:39
+
+projeto ou a cadeia de interesse do
+ 00:45:41
+
+projeto era a pecuária. Eh, só que a
+ 00:45:43
+
+gente trabalhou ele de uma forma
+ 00:45:46
+
+consorciada com cacau e outras culturas
+ 00:45:48
+
+também, não é? E aí o projeto aqui, eu vou
+ 00:45:49
+
+apresentar para vocês o resultado que
+ 00:45:52
+
+foi a metodologia que nós fomos
+ 00:45:54
+
+construindo ao longo do projeto e que a
+ 00:45:56
+
+gente compilou naquela publicação que eu
+ 00:45:59
+
+mencionei, que serviu de base pro estudo
+ 00:46:01
+
+da minha dissertação, que foi o
+ 00:46:03
+
+currículo de sustentabilidade na cadeia
+ 00:46:05
+
+da pecuária, não é? Então a gente entendeu
+ 00:46:06
+
+que precisava ser uma uma construção
+ 00:46:10
+
+conjunta com os produtores, tá? Então,
+ 00:46:13
+
+para isso, a gente precisa estabelecer
+ 00:46:16
+
+condições eh eh de
+ 00:46:17
+
+propícias de confiançar
+ 00:46:22
+
+com esses produtores e ter com eles um
+ 00:46:26
+
+diálogo no sentido de identificar
+ 00:46:29
+
+o que poderia funcionar. Essa
+ 00:46:32
+
+ferramenta, ela foi criada desde o zero
+ 00:46:33
+
+junto com os produtores, não é? Então, só
+ 00:46:35
+
+que a nossa avaliação dentro da
+ 00:46:38
+
+perspectiva do projeto e não da
+ 00:46:40
+
+dissertação foi de que só foi possível
+ 00:46:41
+
+acontecer isso porque nós já estamos
+ 00:46:45
+
+presentes no território e os produtores
+ 00:46:47
+
+têm uma confiança bastante grande na
+ 00:46:50
+
+nossa equipe de extensão rural. Então, o
+ 00:46:52
+
+primeiro passo é, a gente precisa ter um
+ 00:46:54
+
+um estabelecimento de uma relação de
+ 00:46:57
+
+confiança. E isso a gente pode ou
+ 00:46:59
+
+conseguir pela nossa longa atuação ou
+ 00:47:01
+
+por se associar a um parceiro que já tem
+ 00:47:03
+
+essa relação de confiança com os
+ 00:47:06
+
+produtores, não é? Eh,
+ 00:47:08
+
+o segundo passo é justamente conseguir
+ 00:47:11
+
+identificar quais são as necessidades
+ 00:47:14
+
+técnico-produtivas desses produtores no
+ 00:47:16
+
+mundo, não é? no mercado onde a gente atua,
+ 00:47:19
+
+onde eu atuo, eh, e onde a gente atua
+ 00:47:22
+
+enquanto organização,
+ 00:47:25
+
+a gente ainda reproduz o modelo básico,
+ 00:47:27
+
+não é, mais tradicional de assistência
+ 00:47:30
+
+técnica, de reprodução da das práticas
+ 00:47:32
+
+produtivistas. Então, a gente ou vem com
+ 00:47:34
+
+manual de boas práticas ou vem com
+ 00:47:37
+
+práticas eh muito amplamente conhecidas
+ 00:47:39
+
+como boas práticas ou a gente vem com
+ 00:47:41
+
+normas de de qualidade internacionais
+ 00:47:44
+
+definidas aí, seja em sistema de
+ 00:47:48
+
+certificação, seja em sistemas próprios
+ 00:47:49
+
+dos parceirosis com os quais a gente
+ 00:47:52
+
+trabalha. E isso vem normalmente é
+ 00:47:54
+
+trabalhado de cima para baixo. Então a
+ 00:47:57
+
+gente chega com a propriedade da
+ 00:47:59
+
+informação e o nosso trabalho é
+ 00:48:02
+
+disseminar essa informação que nós
+ 00:48:05
+
+temos. E aí o desafio aqui era começar a
+ 00:48:06
+
+reverter esse processo para de fato ser
+ 00:48:10
+
+um processo participativo, não só na
+ 00:48:13
+
+questão da difusão da tecnologia, mas
+ 00:48:16
+
+começando já no na identificação de
+ 00:48:19
+
+quais são as práticas mais relevantes
+ 00:48:21
+
+para esses produtores. Acho que aqui,
+ 00:48:23
+
+independentemente do desenvolvimento
+ 00:48:25
+
+digital, pra nossa realidade, esse foi o
+ 00:48:26
+
+ponto mais inovador, que foi ao invés da
+ 00:48:30
+
+gente começar conversar com os
+ 00:48:33
+
+produtores, olha, você precisa adotar
+ 00:48:34
+
+uma prática X ou uma prática Y, isso
+ 00:48:37
+
+aqui você precisa fazer de desse jeito,
+ 00:48:40
+
+daquele outro jeito. A gente deu um
+ 00:48:42
+
+passo atrás, bastante atrás, e
+ 00:48:44
+
+perguntamos: "O que que você acha que
+ 00:48:47
+
+você precisa pra sua produção ser
+ 00:48:49
+
+melhor? para para você ter um aumento de
+ 00:48:52
+
+produtividade, para você ter um aumento
+ 00:48:54
+
+de rentabilidade. Então, a gente
+ 00:48:57
+
+conduziu uma série de oficinas
+ 00:48:59
+
+presenciais com esses produtores para
+ 00:49:01
+
+conseguir identificar essas informações,
+ 00:49:04
+
+não é? Eh, antes até de pensar na
+ 00:49:06
+
+ferramenta digital que poderia apoiá-los
+ 00:49:10
+
+na construção desse conhecimento,
+ 00:49:13
+
+tá? Eh,
+ 00:49:16
+
+foi nesse momento também que a gente fez
+ 00:49:19
+
+o levantamento de eh acessibilidade
+ 00:49:20
+
+digital no território. A partir desse
+ 00:49:23
+
+levantamento, nós fomos para um um uma
+ 00:49:25
+
+fase de treinamentos práticos que eh
+ 00:49:28
+
+reuniu duas agendas distintas de
+ 00:49:32
+
+treinamento. Uma foi eh prático
+ 00:49:35
+
+produtivo, então dias de campo, não é,
+ 00:49:39
+
+trabalhando sobre as práticas que nós
+ 00:49:42
+
+identificamos com os próprios
+ 00:49:45
+
+produtores. Então, a partir dessas
+ 00:49:46
+
+oficinas, nós elencamos um ranking de
+ 00:49:48
+
+práticas que eles julgavam ser
+ 00:49:51
+
+interessante para eles, não é? Lógico,
+ 00:49:53
+
+aqui, pelo fato da nossa intervenção ter
+ 00:49:56
+
+um longo tempo, eles acabaram apontando
+ 00:49:58
+
+práticas que a nossa assistência técnica
+ 00:50:00
+
+invariavelmente já tocam de uma maneira
+ 00:50:03
+
+ou outra, não é? E aqui a gente pode
+ 00:50:05
+
+perceber um grau adicional de
+ 00:50:08
+
+customização dessas práticas que até
+ 00:50:11
+
+então a gente não tinha percebido, que é
+ 00:50:12
+
+sistematizar
+ 00:50:16
+
+quando um assistente técnico aponta uma
+ 00:50:17
+
+leguminosa, um exemplo, aponta uma
+ 00:50:21
+
+leguminosa que é muito mais eh
+ 00:50:23
+
+recorrente no território, muito mais
+ 00:50:25
+
+acessível no território do que aquela
+ 00:50:27
+
+lista de leguminosas que a gente tem
+ 00:50:29
+
+pré-prontas de academia ou que vem de um
+ 00:50:31
+
+manual de boas práticas, não é? Porque às
+ 00:50:34
+
+vezes a gente a gente identificou essa
+ 00:50:36
+
+questão, a gente chega lá com uma
+ 00:50:38
+
+listagem de espécies vegetais a serem
+ 00:50:40
+
+trabalhadas no consorciamento do do
+ 00:50:42
+
+pasto ou no enriquecimento do pasto, na
+ 00:50:45
+
+adubação verde. E essas e essas espécies
+ 00:50:46
+
+talvez possam ser substituídas por
+ 00:50:50
+
+espécies locais, mas que não estão
+ 00:50:52
+
+identificadas ali. Então esse processo
+ 00:50:54
+
+de customização acontece na nossa
+ 00:50:57
+
+intervenção rotineira, mas isso não está
+ 00:51:00
+
+sistematizado. Então, a gente começou a
+ 00:51:02
+
+conseguir sistematizar isso a partir do
+ 00:51:04
+
+nosso projeto também. Então, a partir da
+ 00:51:06
+
+lista de práticas que nós acordamos, não é,
+ 00:51:09
+
+e foram apontadas pelos próprios
+ 00:51:12
+
+produtores como prioritárias, nós
+ 00:51:14
+
+organizamos um dia de campo, tá? Eh,
+ 00:51:16
+
+para que um especialista em agroecologia
+ 00:51:20
+
+pudesse eh explicar como que essas
+ 00:51:24
+
+práticas poderiam ser adaptadas às
+ 00:51:27
+
+realidades daqueles produtores, tá? Foi
+ 00:51:29
+
+nesse momento também na identificação
+ 00:51:31
+
+das necessidades técnicas produtivas que
+ 00:51:33
+
+a gente eh idealizou junto com os
+ 00:51:36
+
+produtores uma ferramenta digital que
+ 00:51:39
+
+pudesse ajudá-los a acessar essa
+ 00:51:40
+
+informação. Então, ah, se eu não puder
+ 00:51:44
+
+ir no dia de campo, quando que eu posso
+ 00:51:45
+
+acessar isso, não é? Então, essa foi um
+ 00:51:47
+
+esse foi um dos levantamentos. Então o
+ 00:51:49
+
+Soles, ele veio como uma ideia dos
+ 00:51:53
+
+próprios produtores de ser um canal que
+ 00:51:55
+
+emulasse o mecanismo de rede social, mas
+ 00:51:58
+
+que fosse exclusivamente voltado para
+ 00:52:01
+
+produtores do território que adotaram as
+ 00:52:04
+
+práticas que possam compartilhar como
+ 00:52:07
+
+eles fizeram isso nas suas propriedades
+ 00:52:09
+
+e possam compartilhar os resultados.
+ 00:52:10
+
+Então, essa essa fase de identificação,
+ 00:52:13
+
+não é, das necessidades técnico-produtivas,
+ 00:52:16
+
+além das práticas, a gente identificou
+ 00:52:18
+
+também uma maneira de como esses
+ 00:52:20
+
+produtores gostariam de acessar essas
+ 00:52:23
+
+informações, não é? Então, daí surgiu a
+ 00:52:25
+
+ideia dos soles. Então, nós fizemos o
+ 00:52:28
+
+passo seguinte, que foi o os
+ 00:52:30
+
+treinamentos práticos, não é, os dias de
+ 00:52:33
+
+campo e depois a gente foi para um outro
+ 00:52:35
+
+nível de treinamento de para o
+ 00:52:37
+
+compartilhamento do que foi feito
+ 00:52:39
+
+naqueles dias de campo, mas que também
+ 00:52:41
+
+fosse possível de ser continuamente
+ 00:52:44
+
+disseminado. Então, aí entrou o Soles.
+ 00:52:47
+
+Então, o SES entra, ele tem uma uma essa
+ 00:52:49
+
+abordagem de realmente emular uma rede
+ 00:52:52
+
+social e a gente identificou que
+ 00:52:55
+
+precisávamos de um grupo de produtores,
+ 00:52:58
+
+não é, que na no digital é o é o são os
+ 00:53:00
+
+primeiros usuários, não é, os adopters,
+ 00:53:03
+
+como como se fala na linguagem do
+ 00:53:06
+
+desenvolvimento digital, para não só
+ 00:53:08
+
+serem os primeiros a adotarem a
+ 00:53:11
+
+ferramenta, mas também para serem os
+ 00:53:13
+
+primeiros a produzir conteúdo nessa
+ 00:53:14
+
+ferramenta. Então, nós fizemos também
+ 00:53:16
+
+uma capacitação com cinco jovens e dois
+ 00:53:17
+
+técnicos extensionistas
+ 00:53:20
+
+no na produção de conteúdos audiovisuais
+ 00:53:22
+
+para mí digitais. Então, a gente fez um
+ 00:53:26
+
+treinamento conjunto de práticas
+ 00:53:28
+
+agroecológicas, de eh dias de campo e
+ 00:53:30
+
+combinou com esse com essa capacitação
+ 00:53:34
+
+em como produzir conteúdos, ou seja, no
+ 00:53:36
+
+fim do dia eh transformando jovens
+ 00:53:39
+
+produtores, filhos de produtores que têm
+ 00:53:42
+
+o intuito de continuar o negócio dos
+ 00:53:44
+
+pais ou precisam continuar em criadores
+ 00:53:47
+
+de conteúdo audi visuais para os fins
+ 00:53:49
+
+produtivos de extensão rural daquela
+ 00:53:53
+
+comunidade. Então a gente, esse foi o
+ 00:53:55
+
+projeto, esse foi o produto. No final do
+ 00:53:58
+
+dia, não é? A gente teve um conjunto de
+ 00:54:00
+
+práticas identificadas com os
+ 00:54:02
+
+produtores, a gente teve uma ferramenta
+ 00:54:03
+
+idealizada junto com os produtores e a
+ 00:54:05
+
+gente teve a formação de um grupo de
+ 00:54:08
+
+atores locais capazes de criar conteúdos
+ 00:54:11
+
+e disseminar e promover a disseminação
+ 00:54:16
+
+desses conteúdos, não é? Então, basicamente
+ 00:54:18
+
+foi essa a ideia.
+ 00:54:20
+
+Então aqui, eh, eu já tô terminando pra
+ 00:54:22
+
+gente não se estender muito, mas aqui,
+ 00:54:25
+
+eh, tá o resultado das principais
+ 00:54:27
+
+práticas que surgiram desse processo
+ 00:54:30
+
+coparticipativo com os produtores, não é?
+ 00:54:33
+
+Então, foi muito voltado paraa
+ 00:54:35
+
+diversificação e integração de
+ 00:54:36
+
+atividades. Então, eh, esse grupo
+ 00:54:38
+
+específico de produtores já tem um grau
+ 00:54:40
+
+de maturidade de perceber a importância
+ 00:54:42
+
+para a sua renda familiar de não se fiar
+ 00:54:44
+
+apenas no cacau e na pecuária, não é?
+ 00:54:48
+
+Então, muitas coisas sobre outros
+ 00:54:50
+
+cultivos associados à pecuária. Então,
+ 00:54:52
+
+eles entendem essas culturas como os
+ 00:54:55
+
+grandes provedores de renda, mas
+ 00:54:57
+
+entendem a importância de você ter uma
+ 00:54:59
+
+um consorciamento.
+ 00:55:00
+
+Eh, manejo de pastagem, saiu bastante,
+ 00:55:02
+
+bem-estar animal e suplementação
+ 00:55:04
+
+alimentar. Então acabou voltando muito
+ 00:55:06
+
+ali pra pecuária, que era a cadeia, não é,
+ 00:55:09
+
+principal preferencial do projeto, mas o
+ 00:55:10
+
+grupo de produtores que a gente atendeu,
+ 00:55:14
+
+não é, assistiu com esse projeto,
+ 00:55:16
+
+participou do projeto, todos eles eram
+ 00:55:17
+
+caca ecutores e pecuaristas. E o cacau
+ 00:55:19
+
+eles têm dúvidas, mas a pecuária foi o
+ 00:55:22
+
+que mais eh levantou dúvidas aí, tá?
+ 00:55:24
+
+Aqui um detalhamento dessas práticas,
+ 00:55:28
+
+tá? Eh, e aqui a gente tem eh sugestões
+ 00:55:31
+
+como a conclusão do projeto a partir do
+ 00:55:36
+
+momento da conclusão dessa primeira
+ 00:55:40
+
+dessa fase, não é, da da construção das
+ 00:55:42
+
+práticas, da adaptação das práticas, da
+ 00:55:44
+
+construção do aplicativo, divulgação do
+ 00:55:47
+
+aplicativo e o início do da adesão dos
+ 00:55:48
+
+produtores no aplicativo. A gente
+ 00:55:51
+
+apresentou esses resultados para atores
+ 00:55:54
+
+locais em três municípios. No próprio
+ 00:55:55
+
+município de novo repartimento, aqui a
+ 00:55:58
+
+gente chama cooperativa, academia,
+ 00:56:00
+
+empresas locais e órgãos da prefeitura,
+ 00:56:02
+
+não é, principalmente a Secretaria de Meio
+ 00:56:05
+
+Ambiente e Agricultura, para apresentar
+ 00:56:06
+
+os resultados que a gente teve e para
+ 00:56:09
+
+adaptar sobre como esse processo poderia
+ 00:56:11
+
+ser útil ou não para o município, para o
+ 00:56:15
+
+para a continuidade do desenvolvimento
+ 00:56:18
+
+do município. aqui a ideia era meio que
+ 00:56:19
+
+estabelecer uma agenda de pesquisa, não é,
+ 00:56:21
+
+um equivalente a uma agenda de pesquisa,
+ 00:56:23
+
+mas o que eu chamei na dissertação de
+ 00:56:26
+
+agenda de extensão. Então aqui a ideia
+ 00:56:27
+
+foi, a gente fez isso com o nosso grupo
+ 00:56:30
+
+de produtores, qual que é o próximo
+ 00:56:31
+
+passo? Como esse processo pode de fato
+ 00:56:33
+
+ajudar ou não o desenvolvimento eh
+ 00:56:35
+
+local? E para isso a gente consultou,
+ 00:56:38
+
+fez esse esse evento de consulta pública
+ 00:56:41
+
+mesmo e coleta de feedback, coleta de
+ 00:56:44
+
+ideias sobre como ou esse processo
+ 00:56:46
+
+atende ou como esse processo precisa
+ 00:56:48
+
+melhorar essa essa essa metodologia mais
+ 00:56:50
+
+a ferramenta digital precisam melhorar
+ 00:56:53
+
+para de fato as empresas locais poderem
+ 00:56:56
+
+obter resultado disso, as prefeituras
+ 00:56:59
+
+conseguirem trabalhar suas agendas, as
+ 00:57:01
+
+cooperativas e como a academia local
+ 00:57:03
+
+poderia interagir, uma vez que é uma
+ 00:57:05
+
+ferramenta que tem esse atrativo para o
+ 00:57:08
+
+público jovem de emular uma rede social,
+ 00:57:11
+
+não é? Então, foi uma conversa bastante
+ 00:57:13
+
+interessante. Dali a gente tirou alguns
+ 00:57:15
+
+insightes que estão sendo trabalhados
+ 00:57:17
+
+numa numa nova fase de projeto que que
+ 00:57:19
+
+deve começar ainda esse semestre, não é?
+ 00:57:21
+
+Além de novo repartimento, a gente fez
+ 00:57:24
+
+isso em Marabá também, que é o centro,
+ 00:57:25
+
+não é? Eh, eh, a Novo Repartimento e
+ 00:57:28
+
+Território pertencem ao território
+ 00:57:30
+
+administrativo de Marabá. Lá a gente
+ 00:57:32
+
+consultou atores desses setores também,
+ 00:57:35
+
+mas centralizados em Marabá. E como uma
+ 00:57:37
+
+espécie de eh controle, a gente fez um
+ 00:57:41
+
+evento similar no município de Alta
+ 00:57:45
+
+Floresta, que é onde nós temos um certo
+ 00:57:48
+
+histórico de atuação enquanto
+ 00:57:49
+
+solidaridade e mas eh a gente não atua
+ 00:57:50
+
+no Mato Grosso desde 2017. Então, a
+ 00:57:53
+
+gente quis testar o quão longe ou quão
+ 00:57:56
+
+perto essa metodologia do Ferramentas
+ 00:57:59
+
+Digitais Inclusíveis Inclusivas está
+ 00:58:01
+
+para ser utilizada, para ser adaptada
+ 00:58:05
+
+num território onde nós não estamos
+ 00:58:07
+
+presentes ainda, não é? E aí a gente obteve
+ 00:58:09
+
+também bastante feedback, não é? E algumas
+ 00:58:12
+
+coisas relacionadas a isso. Então,
+ 00:58:14
+
+gente, basicamente aqui é a conclusão
+ 00:58:17
+
+mais a dissertação, não é? Eh, mas
+ 00:58:19
+
+basicamente a gente tem essa questão de
+ 00:58:21
+
+como a gente tira a extensão rural,
+ 00:58:23
+
+modelo de extensão técnica, extensão
+ 00:58:25
+
+rural e coloca ela numa agenda digital.
+ 00:58:26
+
+Eh, falando assim, para mim, a conclusão
+ 00:58:30
+
+clara é, a gente esse processo de
+ 00:58:33
+
+coparticipação, de engajamento dos
+ 00:58:36
+
+produtores, dos atores locais, desde o
+ 00:58:38
+
+princípio, ele é fundamental, mas ele
+ 00:58:40
+
+também é muito caro. Então, a gente
+ 00:58:42
+
+precisa entender como que a gente
+ 00:58:44
+
+viabiliza a reprodução dessa metodologia
+ 00:58:46
+
+num cenário, não é, em outros cenários.
+ 00:58:50
+
+Então, como que a gente faz essas
+ 00:58:52
+
+oficinas? Como que a gente cria esse
+ 00:58:54
+
+conhecimento? Como que a gente junta o
+ 00:58:56
+
+conhecimento que nós trazemos enquanto
+ 00:58:58
+
+organização da academia, do setor
+ 00:59:00
+
+privado, do mercado e a gente permite a
+ 00:59:02
+
+entrada do conhecimento local e como que
+ 00:59:05
+
+a gente faz isso num ambiente digital
+ 00:59:09
+
+para acelerar ou para aumentar a
+ 00:59:12
+
+capilaridade em termos de difusão, não é?
+ 00:59:14
+
+Então é meio que essa é a hipótese. A
+ 00:59:17
+
+partir de agora nós fizemos esse teste,
+ 00:59:19
+
+funcionou, tem várias tem várias
+ 00:59:20
+
+condições habilitantes ali que
+ 00:59:23
+
+permitiram que isso acontecesse, não é? Eh,
+ 00:59:25
+
+a nossa presença no território, ela é
+ 00:59:28
+
+fundamental para viabilizar eh o sucesso
+ 00:59:30
+
+dessa etapa do projeto. Mas como a gente
+ 00:59:33
+
+faz isso? Como a gente reproduz isso num
+ 00:59:37
+
+território onde a gente ainda não está?
+ 00:59:39
+
+N? Então, basicamente, as a as
+ 00:59:41
+
+indicações são, não adianta chegar do
+ 00:59:43
+
+nada, já construindo essa conversa com
+ 00:59:46
+
+os produtores, não vai funcionar, mas a
+ 00:59:47
+
+conversa, a abertura para construir o
+ 00:59:49
+
+conhecimento junto e o interesse do
+ 00:59:52
+
+público jovem em virar criador de
+ 00:59:55
+
+conteúdo digital para ajudar a sua
+ 00:59:58
+
+própria comunidade no sentido de
+ 01:00:00
+
+difundir a os conhecimentos, ela deu
+ 01:00:02
+
+sinais de que pode ser uma uma tentativa
+ 01:00:06
+
+interessante, não é, Porque ali a gente
+ 01:00:09
+
+também apela para para o que as redes
+ 01:00:11
+
+sociais se utilizam bastante, que é o
+ 01:00:15
+
+nível de engajamento, que é a questão da
+ 01:00:18
+
+a recompensa pelas curtidas, a
+ 01:00:20
+
+recompensa pelos comentários, a promoção
+ 01:00:22
+
+da interação entre esse público, mesmo
+ 01:00:25
+
+estando distante, não é? e contando aí com
+ 01:00:27
+
+o avanço paulatino e bastante acelerado
+ 01:00:31
+
+até com do Brasil comparado com os
+ 01:00:33
+
+outros países da América Latina, onde eu
+ 01:00:35
+
+atuo também, eh da disponibilidade de
+ 01:00:37
+
+internet nas áreas nas áreas rurais, tá?
+ 01:00:39
+
+Então aqui eu tô passando, não é, tá tá o
+ 01:00:43
+
+texto aí, mas eu não vou gastar tempo
+ 01:00:46
+
+lendo isso não, mas é basicamente isso,
+ 01:00:48
+
+não é? Então essa é a conclusão da
+ 01:00:51
+
+dissertação, não é? Tá bem tá bem misturada
+ 01:00:53
+
+com o meu trabalho profissional. Eh, mas
+ 01:00:56
+
+eh foi um projeto que me agradou demais
+ 01:01:00
+
+assim e a gente continua eh trabalhando
+ 01:01:03
+
+esse projeto agora com a possibilidade
+ 01:01:05
+
+de expandir pro Mato Grosso com o novo
+ 01:01:08
+
+parceiro. E eu acho que um principal
+ 01:01:09
+
+resultado desse projeto que não tá na
+ 01:01:13
+
+mente dissertação, mas eh que dá os
+ 01:01:15
+
+indicativos, não é, do potencial da
+ 01:01:17
+
+iniciativa, estão associados também ao
+ 01:01:19
+
+fato da rapa digital e da rapa pecuária
+ 01:01:22
+
+sudeste terem achado eh essas
+ 01:01:25
+
+publicações, terem visto esses esse os
+ 01:01:27
+
+os resultados desse projeto nas nossas
+ 01:01:31
+
+redes ou em algum lugar e terem nos
+ 01:01:33
+
+chamados para conversar, então de
+ 01:01:35
+
+encaminhamentos da perspectiva da
+ 01:01:37
+
+solidariedade do meu trabalho
+ 01:01:39
+
+profissional nacional e não da pesquisa.
+ 01:01:40
+
+Tem dois resultados que não estavam
+ 01:01:42
+
+esperados, que foi a gente chamou a
+ 01:01:44
+
+atenção de uma organização que já atua
+ 01:01:45
+
+de um de do WWF, que já atua no Mato
+ 01:01:47
+
+Grosso pra gente adaptar e reproduzir a
+ 01:01:49
+
+metodologia no território do Mato
+ 01:01:52
+
+Grosso, também com pecuaristas. E a
+ 01:01:54
+
+gente chamou a atenção da Embrapa
+ 01:01:57
+
+pecuária eh Sudeste e da Embrapa
+ 01:01:58
+
+Digital, que também eh estamos
+ 01:02:01
+
+construindo em termo de cooperação para
+ 01:02:03
+
+reproduzir num território aqui no aqui
+ 01:02:06
+
+no estado de São Paulo também com
+ 01:02:08
+
+pecuaristas ali na em Lagoinha, perto de
+ 01:02:10
+
+a perto de Taubaté ali na na na serra
+ 01:02:13
+
+ali descendo para para Ubatuba.
+ 01:02:16
+
+e viabilizar o Soles como uma ferramenta
+ 01:02:19
+
+capaz de fazer esse ponto de contato, de
+ 01:02:22
+
+estabelecer esse canal de comunicação
+ 01:02:25
+
+direta com o produtor para que ele seja
+ 01:02:27
+
+o canal pelo qual tanto a Embrapa
+ 01:02:29
+
+Digital quanto Embrapa Sudeste possam
+ 01:02:31
+
+começar a ou acelerar a difusão das suas
+ 01:02:35
+
+tecnologias, não é? No caso da Embrapa
+ 01:02:38
+
+Digital, é um caso bastante interessante
+ 01:02:39
+
+porque eles têm uma uma prateleira
+ 01:02:42
+
+gigantesca de ferramentas digitais no
+ 01:02:44
+
+pela Embrapa e que eles não conseguem
+ 01:02:47
+
+dar vazão, não é? Tem tem várias questões
+ 01:02:49
+
+ali, mas então eh eh a rapa enxergou nos
+ 01:02:52
+
+soles essa essa possibilidade de ser a
+ 01:02:56
+
+ferramenta que estabelece o contato com
+ 01:02:59
+
+o produtor e que pode ser usada tanto
+ 01:03:01
+
+para disseminar eh práticas, disseminar
+ 01:03:03
+
+conhecimentos a partir do engajamento
+ 01:03:06
+
+dos atores locais e também entregar
+ 01:03:08
+
+ferramentas que possam ser úteis para
+ 01:03:11
+
+esses produtores, não é? Então, a a a
+ 01:03:13
+
+Embrapa pecuária tem aquela tem o balde
+ 01:03:15
+
+cheio, tem várias vários conteúdos
+ 01:03:17
+
+técnicos da da Embrapa que a Embrapa
+ 01:03:19
+
+gostaria de dar vazão, ela não consegue
+ 01:03:21
+
+e ela vê os soles, ela viu soles um
+ 01:03:24
+
+portal para isso, não é? Então são aí eh
+ 01:03:26
+
+basicamente não resumindo tanto, mas e
+ 01:03:29
+
+apresentando de uma forma conjunta a
+ 01:03:32
+
+pesquisa do meu mestrado com a minha
+ 01:03:35
+
+atuação profissional, chegamos a esse
+ 01:03:37
+
+ponto. E aí eu paro aqui, professores,
+ 01:03:39
+
+eu a gente pode partir paraa sessão de
+ 01:03:41
+
+perguntas e discussões.
+ 01:03:43
+
+>> Muito bom, Denis, muito bom. Parabéns aí
+ 01:03:46
+
+pela pela explanação e por a
+ 01:03:49
+
+apresentação do seu trabalho e sua
+ 01:03:52
+
+dissertação. E quanto mais a gente eh
+ 01:03:54
+
+começa a dialogar sobre extensão rural,
+ 01:03:56
+
+mais a gente vê a necessidade da
+ 01:03:59
+
+presença de instituições que trabalham
+ 01:04:01
+
+com ela, não é? E toda presença ainda é
+ 01:04:04
+
+pouco, não é? Como você comentou ali dos
+ 01:04:06
+
+5%, não é? Da Pará. E aí depois no final
+ 01:04:09
+
+você ainda comentou que 80% ainda fica
+ 01:04:13
+
+sem acesso à ternée. E isso é muito, não é?
+ 01:04:15
+
+preciso de muita gente para est
+ 01:04:18
+
+trabalhando, não é? É assim, ó, é revelador
+ 01:04:19
+
+e e insistente essa prática da
+ 01:04:22
+
+necessidade da terra e os resultados são
+ 01:04:25
+
+muito meio parecidos, não é? Trabalhos
+ 01:04:28
+
+básicos, não é? É, a tua dissertação
+ 01:04:30
+
+reforça bem a realidade do que é o
+ 01:04:33
+
+problema da extensão rural no Brasil e
+ 01:04:35
+
+que no mundo, não é?
+ 01:04:37
+
+>> Mas enfim,
+ 01:04:39
+
+>> vou eu vou comentar alguns comentários
+ 01:04:40
+
+aqui dos convidados. Eu ia fazer uma
+ 01:04:43
+
+pergunta bem legal e a Jéssica resolveu
+ 01:04:45
+
+fazer a mesma pergunta. Então eu vou
+ 01:04:48
+
+falar aqui que a Jéssica aqui do
+ 01:04:50
+
+doutorando do do PPG em Ciência
+ 01:04:51
+
+Tecnologia e Sociedade Fiscar tá
+ 01:04:53
+
+presente, nossa assído telespectadora de
+ 01:04:55
+
+toda quarta-feira da manhã. Muito
+ 01:04:58
+
+obrigado, Jés pela tua presença. Temos
+ 01:05:00
+
+aqui também a Mariana que ela é
+ 01:05:02
+
+doutorando em literatura na União Oeste.
+ 01:05:04
+
+Muito obrigado aí pela tua presença,
+ 01:05:07
+
+Mariana. Muito bacana. Claro que teve
+ 01:05:09
+
+gente aqui que não se pronunciou, não é?
+ 01:05:11
+
+Tem tem mais pessoas assistindo, mas
+ 01:05:13
+
+deixa eu colocar a pergunta da Jéssica.
+ 01:05:15
+
+Então, ela faz a seguinte questão:
+ 01:05:17
+
+Quais as principais resistências
+ 01:05:21
+
+e desafios da implantação dessas
+ 01:05:25
+
+tecnologias no campo? Interessantíssimo.
+ 01:05:28
+
+>> Ótima pergunta. Ótima pergunta.
+ 01:05:32
+
+Eh, no campo eu vou eu vou dividir em
+ 01:05:35
+
+dois, tá? que pensando aqui na nossa
+ 01:05:38
+
+atuação que nós temos eh digital em em
+ 01:05:40
+
+dois em duas dimensões, a dimensão do
+ 01:05:44
+
+extensionista e a dimensão do produtor,
+ 01:05:47
+
+tá? a do extensionista, que a gente vem
+ 01:05:50
+
+tendo um trabalho mais eh mais longevo
+ 01:05:52
+
+já de sucesso.
+ 01:05:55
+
+Eh, a gente tem algum a gente tem uma
+ 01:05:57
+
+certa resistência da digitalização
+ 01:06:00
+
+quando a gente lida com as pessoas
+ 01:06:02
+
+formadas há mais tempo. Então, quem tá
+ 01:06:05
+
+muito acostumado, sempre trabalhou eh
+ 01:06:06
+
+com o a ficha em papel, tá acostumado
+ 01:06:09
+
+com aquele tempo de escritório,
+ 01:06:12
+
+a gente sente ali uma certa insegurança
+ 01:06:14
+
+dessas pessoas ao
+ 01:06:18
+
+trocar o papel por um aplicativo. Aí é
+ 01:06:21
+
+normal assim, pensando, eu sou, eu tenho
+ 01:06:24
+
+43 anos hoje, não é? Então quando eu era
+ 01:06:27
+
+criança, eu vi a passagem da máquina,
+ 01:06:30
+
+vi, não vivi, tá gente? Mas eu vi a
+ 01:06:33
+
+passagem da máquina de escrever pro
+ 01:06:34
+
+computador, depois eu vi a entrada da
+ 01:06:36
+
+internet e agora tô vivenciando a
+ 01:06:38
+
+chegada da inteligência artificial.
+ 01:06:40
+
+Então, numa certa medida, na extensão
+ 01:06:43
+
+rural, pensando no extensionista, a
+ 01:06:46
+
+gente vê a reprodução dessas
+ 01:06:48
+
+resistências das pessoas mais apegadas e
+ 01:06:50
+
+acostumadas a trabalhar com um meio para
+ 01:06:53
+
+outro, o que é convém, o que é normal,
+ 01:06:56
+
+não é? Então, a nossa a nossa atuação, por
+ 01:06:57
+
+exemplo, para para subverter ou para
+ 01:07:00
+
+sobrepor essas barreiras, a gente tem
+ 01:07:03
+
+uma agenda de treinamentos bastante
+ 01:07:05
+
+contínua, bastante intensa. A nossa
+ 01:07:07
+
+equipe disponibiliza um canal de suporte
+ 01:07:09
+
+ao usuário que funciona das 9 às 5 por
+ 01:07:12
+
+WhatsApp. Então, se pensioness tá no
+ 01:07:14
+
+campo, tá com alguma dúvida, aplicativo,
+ 01:07:16
+
+sei lá, não respondeu do jeito que ele
+ 01:07:18
+
+queria, ele consegue, se ele tiver
+ 01:07:19
+
+internet, não é, ele consegue mandar um
+ 01:07:21
+
+WhatsApp pra gente, a gente dá um
+ 01:07:22
+
+suporte imediato para ele. Então, assim,
+ 01:07:23
+
+nós precisamos criar, foi preciso criar
+ 01:07:26
+
+na organização
+ 01:07:29
+
+uma unidade mesmo, na verdade meio que
+ 01:07:32
+
+eu até brinco, nós criamos uma uma AGTEC
+ 01:07:34
+
+dentro de uma ONG, não é? E aí essa GTEC dá
+ 01:07:38
+
+o suporte ao usuário tanto pro
+ 01:07:40
+
+extensionista no campo e também tem um
+ 01:07:43
+
+outro lado que não tá no campo, mas tá
+ 01:07:44
+
+próximo, que é o coordenador de projeto.
+ 01:07:47
+
+Então até o produtor, até o coordenador
+ 01:07:49
+
+de projeto vê a beleza de não precisar
+ 01:07:51
+
+mais fazer relatório em Excel para
+ 01:07:53
+
+mandar pro seu chefe, porque ele tinha
+ 01:07:55
+
+isso num dashboard já automatizado,
+ 01:07:57
+
+também foi uma barreira bastante grande,
+ 01:07:59
+
+tá? Agora a outra dimensão que é o
+ 01:08:01
+
+produtor rural, nós tivemos um, como eu
+ 01:08:04
+
+mostrei na linha do tempo, uma primeira
+ 01:08:07
+
+tentativa com Farm Solution, que só aí
+ 01:08:08
+
+já matou, não é? O nosso Senhor falou
+ 01:08:11
+
+assim: "Não, tem que ser um nome inglês
+ 01:08:13
+
+porque vai ser no mundo inteiro." Apesar
+ 01:08:14
+
+de todas as nossas lutas, a gente não
+ 01:08:16
+
+conseguiu reverter. Tem gente aí que
+ 01:08:18
+
+fala, não é, com orgulho que manda quem
+ 01:08:20
+
+pode, obedece, quem tem juízo. A gente
+ 01:08:22
+
+precisou fazer, não gostamos, mas mas
+ 01:08:23
+
+foi necessário. Então, assim, o nome é
+ 01:08:25
+
+uma barreira. Então, quem tá quem tá
+ 01:08:29
+
+pensando em trabalhar com digital, para
+ 01:08:30
+
+mim isso é importantíssimo. As pessoas
+ 01:08:32
+
+não levam, não conseguem perceber a
+ 01:08:33
+
+importância de você ter um nome fácil,
+ 01:08:37
+
+um nome que já comunica, que que desarma
+ 01:08:39
+
+o produtor quando você fala para ele que
+ 01:08:42
+
+é uma ferramenta digital. Então, tem até
+ 01:08:44
+
+um exemplo interessante de de uns não
+ 01:08:46
+
+são parceiros, mas são colegas nossos do
+ 01:08:49
+
+IPAN que criaram um aplicativo que chama
+ 01:08:50
+
+Pai d'Égua, não é? Uma ferramenta para o
+ 01:08:52
+
+extensionista. Então, o nome é
+ 01:08:55
+
+fundamental. A gente viu, isso tá
+ 01:08:56
+
+mudando um pouco agora, mas a gente
+ 01:08:59
+
+enfrentou uma barreira gigantesca que
+ 01:09:00
+
+foi a segunda barreira, foi a mais alta,
+ 01:09:01
+
+que é esse público com código de
+ 01:09:04
+
+trabalho, agritor agricultor de pequena
+ 01:09:06
+
+escala, baixo nível educacional, que
+ 01:09:08
+
+nunca teve tem pouquíssima orientação
+ 01:09:10
+
+técnica, ele não consegue, não é uma não
+ 01:09:12
+
+é uma tarefa comum, fácil o cara entrar
+ 01:09:15
+
+numa loja de aplicativo e e baixar o
+ 01:09:18
+
+aplicativo. Não é uma tarefa fácil.
+ 01:09:20
+
+Então isso é fundamental. consoles, a
+ 01:09:22
+
+gente tentou a abordagem diferentes.
+ 01:09:25
+
+Então, a gente fez uma tentativa que foi
+ 01:09:27
+
+relativamente bem aceita, que é enviar o
+ 01:09:29
+
+link do aplicativo pelos pelo WhatsApp
+ 01:09:33
+
+do produtor e o nosso aplicativo, ele
+ 01:09:36
+
+não tem barreira de entrada para
+ 01:09:39
+
+cadastro, porque quando o produtor
+ 01:09:41
+
+consegue superar a barreira de entrar na
+ 01:09:43
+
+loja e baixar o aplicativo, ele tem a
+ 01:09:45
+
+barreira de criar conta. Então a gente
+ 01:09:47
+
+eliminou do sistema de onboard, não é, de
+ 01:09:50
+
+entrada do produtor no aplicativo, a
+ 01:09:52
+
+necessidade de criação de conta. Ele só
+ 01:09:55
+
+precisa colocar o telefone dele, não
+ 01:09:56
+
+precisa colocar nenhum nome, ele só
+ 01:09:58
+
+precisa colocar o telefone por uma
+ 01:09:59
+
+questão de segurança que é exigida.
+ 01:10:01
+
+Então ele coloca o telefone, o
+ 01:10:02
+
+aplicativo manda um WhatsApp para ele
+ 01:10:04
+
+mesmo e o aplicativo já lê a mensagem do
+ 01:10:07
+
+WhatsApp que chega nele e que coloca o
+ 01:10:09
+
+código e ele acessa. Então a gente
+ 01:10:11
+
+precisa dessa verificação para evitar
+ 01:10:12
+
+robôs, para evitar eh esse tipo de
+ 01:10:15
+
+problema. Então, verificou, ele já
+ 01:10:18
+
+entrou. Eh, eu acho que eh são essas
+ 01:10:20
+
+grandes barreiras que a gente tem. E aí
+ 01:10:23
+
+a usabilidade da ferramenta é muito
+ 01:10:25
+
+importante, tá? Isso, isso é o que pega
+ 01:10:28
+
+nos aplicativos da Embrapa Digital, por
+ 01:10:30
+
+exemplo. Os aplicativos eles são feitos
+ 01:10:32
+
+pelos técnicos da Embrapa, pelos
+ 01:10:34
+
+pesquisadores da Embrapa, que são ótimos
+ 01:10:35
+
+no que fazem, mas até dá dá dá a
+ 01:10:37
+
+impressão quebrapa e outros e outras
+ 01:10:41
+
+empresas que se se propõem a desenvolver
+ 01:10:43
+
+aplicativos para esse público não
+ 01:10:45
+
+conseguem dar atenção necessária paraa
+ 01:10:48
+
+experiência do usuário. E aí nós
+ 01:10:51
+
+aprendemos isso também na Dorapenas, mas
+ 01:10:53
+
+a gente incorporou uma equipe de
+ 01:10:55
+
+usabilidade, então a gente trouxe
+ 01:10:58
+
+designer, uma designer e ela foi se
+ 01:10:59
+
+aprofundando na cultura da agricultura
+ 01:11:02
+
+familiar, na cultura do pequeno
+ 01:11:05
+
+produtor. Ela veio lá de São Paulo, não é,
+ 01:11:06
+
+acostumada a fazer tela para para
+ 01:11:09
+
+aplicativo, tal. A gente pegou essa
+ 01:11:11
+
+pessoa, contratou e ela começou a
+ 01:11:13
+
+entender, entrar na mente desse desse
+ 01:11:15
+
+público para conseguir desenvolver as
+ 01:11:17
+
+telas, a navegabilidade. Então, às vezes
+ 01:11:20
+
+coisas são óbvias, ah, se apertar esse
+ 01:11:22
+
+botão aqui, vai para cá, isso é óbvio
+ 01:11:24
+
+pra gente, pro produtor às vezes não é,
+ 01:11:25
+
+não é? Então, acho que são esses cuidados
+ 01:11:27
+
+que a gente precisa ter e ainda assim
+ 01:11:29
+
+continuam eh tendo, a gente continua
+ 01:11:30
+
+enfrentando bastante barreira,
+ 01:11:33
+
+principalmente dos mais velhos.
+ 01:11:34
+
+Nesse trabalho do do ferramenta digitais
+ 01:11:36
+
+inclusivas no nosso território, que foi
+ 01:11:39
+
+o público alvo,
+ 01:11:42
+
+a gente bebeu muito da fonte do TikTok.
+ 01:11:44
+
+E assim eu fiquei absurdamente surpreso
+ 01:11:46
+
+com a adesão que produtores 40, 45 mais,
+ 01:11:50
+
+não é, de idade tem ao TikTok. Então aí a
+ 01:11:53
+
+ideia veio muito daí. Eu tava imaginando
+ 01:11:57
+
+assim que no máximo encontrar YouTube.
+ 01:11:59
+
+Eles usam YouTube. O problema do YouTube
+ 01:12:01
+
+para eles é que os vídeos são muito
+ 01:12:03
+
+longos. Então assim, eles usam muito o
+ 01:12:04
+
+TikTok e a gente cansou. O que mais tem
+ 01:12:06
+
+assim de depoimento que a gente
+ 01:12:09
+
+registrou durante as oficinas é de que é
+ 01:12:10
+
+legal um conteúdo que seja rápido, que
+ 01:12:13
+
+fale rápido. Ali tem que ser um conteúdo
+ 01:12:15
+
+do território. Eles falaram antigamente,
+ 01:12:18
+
+não é, até os mais velhos falavam, a gente
+ 01:12:20
+
+tem uns depoimentos estão assim.
+ 01:12:22
+
+Antigamente eu queria aprender coisas o
+ 01:12:24
+
+que tava acontecendo no mundo, eu vi o
+ 01:12:25
+
+Globo Rural. Só o Globo Rural não não
+ 01:12:27
+
+fala mais comigo. É um cara rico, é um
+ 01:12:30
+
+cara do outro lugar. Então agora no
+ 01:12:32
+
+TikTok ou no YouTube, eu até acho
+ 01:12:35
+
+pequenos produtores que são que nem eu,
+ 01:12:37
+
+mas às vezes o cara tá na Bahia, às
+ 01:12:39
+
+vezes o cara tá não sei na onde e eu sei
+ 01:12:41
+
+que o solo dele é diferente, que o sol
+ 01:12:43
+
+dele é diferente, que a chuva dele é
+ 01:12:45
+
+diferente. Então eu não duvido do que
+ 01:12:46
+
+esse cara tá tá colocando ali no vídeo,
+ 01:12:48
+
+mas ele tá num cenário diferente. Então
+ 01:12:50
+
+se tivesse alguém, algum vizinho meu,
+ 01:12:52
+
+meu filho, falando isso para mim, eh eu
+ 01:12:54
+
+confiaria mais. Aqui eu já entrei mais
+ 01:12:57
+
+na questão do conteúdo em si, não é? Mas eu
+ 01:12:59
+
+diria assim, os desafios são esses, não é?
+ 01:13:01
+
+Então a gente tem que pensar que esse
+ 01:13:03
+
+cara vai não vai ser tão fácil para ele
+ 01:13:04
+
+ainda, embora esteja mudando já com os
+ 01:13:06
+
+mais jovens, baixar um aplicativo da
+ 01:13:09
+
+loja. Então não vai ser fácil para esse
+ 01:13:11
+
+cara criar conta e e e como todos nós, a
+ 01:13:12
+
+gente precisa ter um retorno rápido, não é?
+ 01:13:17
+
+E o nosso aplicativo antigo falhava
+ 01:13:20
+
+nisso, a o que ele entregava o produtor,
+ 01:13:22
+
+aquele plano de trabalho, pô, o cara
+ 01:13:25
+
+tinha que responder, sei lá, 50
+ 01:13:27
+
+perguntas antes. E aí ele tinha um plano
+ 01:13:29
+
+de trabalho que tinha ali uns vídeos,
+ 01:13:31
+
+tal, mas não sabia muito bem para quê. A
+ 01:13:33
+
+dopamina, não é, o vício em dopamina aqui,
+ 01:13:36
+
+gente, a ideia é OK, isso tá posto, não é,
+ 01:13:38
+
+tá criado, tá todo mundo viciado nisso.
+ 01:13:41
+
+Como que a gente minimamente consegue
+ 01:13:43
+
+usar isso a nosso favor no sentido de
+ 01:13:45
+
+difusão tecnológica, não é? Então, esse
+ 01:13:47
+
+tipo de recompensa de você ver um
+ 01:13:50
+
+vizinho ou de você aparecer para um
+ 01:13:51
+
+vizinho, de você ver o seu vídeo sendo
+ 01:13:53
+
+comentado pela sua comunidade, é o que a
+ 01:13:55
+
+gente tá tentando explorar aqui, tá?
+ 01:13:57
+
+Então eu diria que são esses os desafios
+ 01:13:59
+
+e são essas as tentativas de saída,
+ 01:14:02
+
+superação desses desafios.
+ 01:14:04
+
+>> Sensacional. Até até que enfim alguém
+ 01:14:07
+
+disse zoir. Uma coisa que eu tô sempre
+ 01:14:11
+
+falando e ninguém acredita que eu falo.
+ 01:14:13
+
+TikTok tem um baito potencial, não é? E
+ 01:14:15
+
+olha aí, você o deles comentou aí, éí o
+ 01:14:18
+
+TikTok tá uma, tá numa tendência de
+ 01:14:21
+
+naturalização, não é? Quanto menos edição,
+ 01:14:24
+
+melhor, mais realidade, não é?
+ 01:14:27
+
+>> Eu eu vejo como um grande potencial,
+ 01:14:29
+
+gente que não sabe explorar direito ele,
+ 01:14:31
+
+não é? Exato. É, a gente a gente optou por
+ 01:14:33
+
+fazer, a gente até considerou,
+ 01:14:37
+
+professores, eh utilizar as redes
+ 01:14:38
+
+sociais já disponíveis ao invés de criar
+ 01:14:40
+
+uma nova ferramenta.
+ 01:14:43
+
+Teve alguns a alguns insightes dos
+ 01:14:45
+
+próprios produtores que nos
+ 01:14:48
+
+impulsionaram a criar o nosso próprio,
+ 01:14:51
+
+que foi: "Eu adoro TikTok". Só que aí eu
+ 01:14:52
+
+entro no TikTok, eu vou ver um vídeo do
+ 01:14:56
+
+meu vizinho e o próximo já é uma
+ 01:14:59
+
+menininha dançando e o próximo já é um
+ 01:15:01
+
+acidente, o próximo dia já é não sei o
+ 01:15:02
+
+quê. Quando eu vejo, eu passei meia
+ 01:15:04
+
+hora, uma hora do meu dia vendo um monte
+ 01:15:06
+
+de vídeos que não que não tem a ver.
+ 01:15:08
+
+Então, talvez, não é, a gente consultou,
+ 01:15:10
+
+esse processo de consulta foi muito
+ 01:15:12
+
+enriquecedor com os produtores. A gente
+ 01:15:14
+
+chegou com a ideia, a gente tirou os os
+ 01:15:15
+
+insightes, chegamos com a ideia antes de
+ 01:15:17
+
+desenvolver qualquer coisa, em cima da
+ 01:15:19
+
+ideia nós pegamos uma outra uma outra
+ 01:15:21
+
+onda de de sugestões. E aí ouvi isso de
+ 01:15:23
+
+três, três ou quatro produtores já 50
+ 01:15:27
+
+mais falando isso. Fal assim, ó, me dá a
+ 01:15:30
+
+facilidade que o TikTok me dá, mas não
+ 01:15:33
+
+me deixa eu ficar viciado em vídeos que
+ 01:15:35
+
+não me agregam nada. Então isso foi
+ 01:15:37
+
+fundamental pra gente tentar, não é, e
+ 01:15:39
+
+optar nesse momento por fazer uma
+ 01:15:42
+
+ferramenta própria. Outro fato também
+ 01:15:44
+
+que é que que foi considerado que aí é a
+ 01:15:46
+
+gestão, a curadoria desse desse
+ 01:15:48
+
+conteúdo, a gestão cuidado que é hoje o
+ 01:15:50
+
+que mais me preocupa, que é vamos assim
+ 01:15:52
+
+escalon escalonou a adoção foi grande lá
+ 01:15:55
+
+nessa campanha a gente conseguiu
+ 01:15:58
+
+terminar o o projeto com mais ou menos
+ 01:15:59
+
+250 produtores aderidos na plataforma. A
+ 01:16:02
+
+gente fez até alguns pilotos que eu
+ 01:16:05
+
+acabei não colocando no na dissertação
+ 01:16:07
+
+porque não tinha publicação ainda, é
+ 01:16:09
+
+para para subsidiar, não é? A gente fez eh
+ 01:16:11
+
+dois pilotos pequenos de impulsionamento
+ 01:16:13
+
+dos soles nas redes sociais. Então a
+ 01:16:15
+
+gente pagou, não é, fez aquele tráfego pago
+ 01:16:17
+
+e a gente fez uma campanha rápida no
+ 01:16:20
+
+YouTube, no Instagram, no TikTok a gente
+ 01:16:23
+
+não testou e a para disparar um
+ 01:16:25
+
+comercialzinho do aplicativo em
+ 01:16:29
+
+territórios onde a gente não tá e em
+ 01:16:31
+
+territórios onde a gente tá. E ali
+ 01:16:33
+
+entraram mais alguns também que a gente
+ 01:16:34
+
+nem considerar na conta, mas que se
+ 01:16:36
+
+cadastraram, não é? Então assim, a a
+ 01:16:37
+
+necessidade a gente ter uma um controle
+ 01:16:41
+
+bastante rígido do que está sendo
+ 01:16:43
+
+publicado, não é, e do que está sendo
+ 01:16:45
+
+entregue com o nosso com o nosso aval,
+ 01:16:48
+
+com a nossa com a nossa com o nosso
+ 01:16:50
+
+canal também foi bastante fundamental
+ 01:16:53
+
+para optar por seguir com um canal
+ 01:16:55
+
+próprio, mas o nosso aplicativo ele
+ 01:16:58
+
+conversa diretamente com qualquer rede.
+ 01:17:00
+
+Então, se o produtor publicar no TikTok,
+ 01:17:02
+
+ele pode compartilhar pelo nosso
+ 01:17:04
+
+aplicativo e vice-versa. Ele pode subir
+ 01:17:06
+
+o vídeo direto no nosso aplicativo e
+ 01:17:09
+
+compartilhar pelo TikTok. Então, a gente
+ 01:17:11
+
+tá tentando estabelecer essa conversa
+ 01:17:13
+
+com as redes sociais de forma a utilizar
+ 01:17:15
+
+isso, mas a ideia é ter o nosso próprio
+ 01:17:17
+
+canal, nossa nossa própria rede social
+ 01:17:19
+
+para poder ter esse essa curadoria do
+ 01:17:21
+
+conteúdo, não é, e garantir que o que tá
+ 01:17:24
+
+sendo subido ali com pouco movimento, a
+ 01:17:25
+
+gente consegue controlar manualmente.
+ 01:17:28
+
+Mas se cresce, a gente vai ter que
+ 01:17:30
+
+partir para um para um para um modelo de
+ 01:17:31
+
+curadoria semiautomatizado para para nos
+ 01:17:34
+
+ajudar, não é, se não quando crescer, que
+ 01:17:37
+
+aqui a gente tá bem optimista com isso.
+ 01:17:39
+
+>> Muito bom. Excelente. Vou passar a
+ 01:17:41
+
+palavra pro senor Zuin. Muito bom,
+ 01:17:44
+
+>> muito bom, Denis. muito bacana, não é, a
+ 01:17:49
+
+sua pesquisa, não é, e tem e eu fiquei com
+ 01:17:52
+
+um monte de questões a respeito do
+ 01:17:55
+
+funcionamento do soles. Eu queria saber
+ 01:17:57
+
+mais a respeito dele, não é, que
+ 01:17:59
+
+>> que o que a gente observa na na
+ 01:18:03
+
+literatura e mesmo em outros casos é que
+ 01:18:05
+
+quando você cria redes sociais, fora das
+ 01:18:08
+
+redes sociais, elas não costumam dar
+ 01:18:11
+
+muito certo,
+ 01:18:13
+
+>> não é? Isso que vocês fizeram de de, não é,
+ 01:18:14
+
+dar o protagonismo, não é, da criação das
+ 01:18:18
+
+mídias pros agricultores, eu achei muito
+ 01:18:22
+
+muito muito bacana, não é? Achei uma
+ 01:18:25
+
+solução muito interessante, não é? Eh, e
+ 01:18:27
+
+uma outra coisa também que eu achei
+ 01:18:30
+
+interessante que vocês fazem é
+ 01:18:32
+
+justamente tentar fazer esse essa ponte
+ 01:18:33
+
+com as redes sociais tradicionais, não é?
+ 01:18:36
+
+inclusive para não deixar, não é, estanque,
+ 01:18:39
+
+não é, estancado num lugar só toda essa
+ 01:18:43
+
+produção de conhecimento.
+ 01:18:45
+
+>> Uhum.
+ 01:18:47
+
+>> não é? Então, achei isso muito muito bacana
+ 01:18:47
+
+da parte de vocês. Existem outras, você
+ 01:18:49
+
+na sua palestra você diz que existe
+ 01:18:53
+
+algumas barreiras de entrada para esses
+ 01:18:55
+
+agricultores e você focou essas
+ 01:18:57
+
+barreiras, não é, nessa questão do ensino
+ 01:18:59
+
+aprendizagem de um letramento digital,
+ 01:19:02
+
+não é? Mas existem outros tipos de
+ 01:19:05
+
+barreiras, não é? por exemplo, o tipo do
+ 01:19:06
+
+telefone celular da pessoa.
+ 01:19:09
+
+>> Uhum.
+ 01:19:11
+
+>> não é? Se essa pessoa tem um telefone com
+ 01:19:12
+
+32 GB de memória, não é? não é? Ele ele
+ 01:19:14
+
+provavelmente vai ter uma dificuldade
+ 01:19:17
+
+muito grande de acessar os soles,
+ 01:19:19
+
+>> não é? De colocar os soles dentro ali. É
+ 01:19:21
+
+>> ali dentro do desse sistema, não é? Então
+ 01:19:24
+
+eu queria eh e mas eu não sei também se
+ 01:19:27
+
+o seu público tem esse problema, você
+ 01:19:30
+
+entendeu, não é? Eu não sei, talvez o
+ 01:19:32
+
+público que vocês atendem não tem. O
+ 01:19:35
+
+celular deles já tem 128 GB de memória,
+ 01:19:37
+
+não tem problema nenhum, não é? Outra coisa
+ 01:19:40
+
+também é que o Soles hoje ele trata ele
+ 01:19:43
+
+ele ele
+ 01:19:48
+
+ele organiza que tipo de conhecimento,
+ 01:19:51
+
+de qual cadeia produtiva ou de quais
+ 01:19:54
+
+cadeias produtivas, assim, de forma mais
+ 01:19:55
+
+clara, não é? Porque imag, eu fico
+ 01:19:57
+
+imaginando, eu eu quando entro no
+ 01:19:59
+
+YouTube, quando eu entro no TikTok, não é,
+ 01:20:01
+
+um o universo tá na minha frente.
+ 01:20:04
+
+>> Uhum.
+ 01:20:06
+
+>> O universo tá na minha frente, não é,
+ 01:20:07
+
+literalmente, não é? E daí como é que eu
+ 01:20:08
+
+chego na informação que eu quero dentro
+ 01:20:11
+
+do Soles,
+ 01:20:14
+
+>> não é? Dentro de uma cadeia produtiva em
+ 01:20:15
+
+que o Soles produz e armazena esse
+ 01:20:17
+
+conhecimento, entendeu? É isso, é isso
+ 01:20:19
+
+que
+ 01:20:22
+
+>> mais pontos
+ 01:20:23
+
+>> que hoje que hoje, por exemplo, me deixa
+ 01:20:24
+
+muito eh
+ 01:20:27
+
+eh me estiga muito de como a gente vai
+ 01:20:30
+
+tá buscando essa informação dentro de um
+ 01:20:33
+
+dos soles, que nem você disse, que tem
+ 01:20:36
+
+potencial muito grande de tá entrando na
+ 01:20:37
+
+Embrapa, não é,
+ 01:20:39
+
+>> e dentro da Embrapa aqui da pecuária,
+ 01:20:41
+
+não é, de corte, não é, Sudeste e e daí e vai
+ 01:20:44
+
+ter um universo imenso de de de
+ 01:20:48
+
+possibilidades ali dentro, não é?
+ 01:20:51
+
+>> E outra coisa também, eh, nossa, eu tô
+ 01:20:53
+
+eu fiquei muito curioso, muita coisa,
+ 01:20:56
+
+então só vou dar mais uma coisa,
+ 01:20:58
+
+perguntar mais uma coisinha, não é? Do
+ 01:21:00
+
+ponto de vista pragmático, tendo essa
+ 01:21:02
+
+parceria combpa ou qualquer outra
+ 01:21:05
+
+organização que você que vocês estão
+ 01:21:06
+
+querendo fazer essa ponte, não é? Como é
+ 01:21:09
+
+que vai ser a produção de conteúdo da
+ 01:21:11
+
+Embrapa, não é, para entrar no sol?
+ 01:21:13
+
+>> Uhum.
+ 01:21:17
+
+>> não é? Porque, por exemplo, não é, talvez um
+ 01:21:17
+
+pesquisador falando, certamente o
+ 01:21:20
+
+pesquisador falando, vai ser diferente
+ 01:21:23
+
+do que o agricultor.
+ 01:21:24
+
+>> Uhum.
+ 01:21:26
+
+>> não é? Daquela cadeia produtiva, não é? Isso
+ 01:21:26
+
+também pode, não é? A partir do momento que
+ 01:21:29
+
+que o o agricultor ele entrar em contato
+ 01:21:31
+
+com essa mídia, ele fala: "Não, não
+ 01:21:34
+
+entendi nada". e começa a abandonar esse
+ 01:21:36
+
+ou não procurar tanto esse tipo de
+ 01:21:39
+
+conteúdo, porque a grande o grande polo
+ 01:21:41
+
+do gato que vocês fizeram no Soles, ao
+ 01:21:44
+
+meu ver, é justamente dar voz aos
+ 01:21:46
+
+produtores rurais, não é? não é? E no meio das
+ 01:21:49
+
+mídias que que eles produzem. Isso aí é
+ 01:21:52
+
+a grande sacada e nossa, e é
+ 01:21:54
+
+maravilhoso, não é? Então, quando chega com
+ 01:21:56
+
+a, não é, essa proposta com a academia, com
+ 01:21:59
+
+o centro de pesquisa, como é que vai ser
+ 01:22:03
+
+isso? essa produção de conteúdo, essa
+ 01:22:04
+
+essa e o armazenamento, a busca desse
+ 01:22:07
+
+conteúdo também, não é? Tudo isso daí,
+ 01:22:09
+
+>> entendeu? Porque ao meu ver vocês estão
+ 01:22:12
+
+indo para um outro patamar, não é, esse
+ 01:22:14
+
+aplicativo do que do que é agora,
+ 01:22:17
+
+>> não é? Vocês estão indo para um outro
+ 01:22:20
+
+lugar, não é?
+ 01:22:21
+
+>> Uhum.
+ 01:22:22
+
+>> Que tem os seus desafios, não é? Como vocês
+ 01:22:23
+
+tiveram no começo aí. Mas são outros
+ 01:22:25
+
+desafios.
+ 01:22:27
+
+>> São outros. Palavra é sua, meu querido.
+ 01:22:28
+
+>> Obrigado, professor Zimin. É, são, eu
+ 01:22:30
+
+consolidei aqui em quatro pontos que eu
+ 01:22:33
+
+anotei. Aí depois se eu esqueci de
+ 01:22:35
+
+algum, o senhor me ajuda a lembrar, por
+ 01:22:37
+
+favor.
+ 01:22:39
+
+>> Não, isso vai ser difícil, porque eu
+ 01:22:39
+
+também já vou ter esquecido, entendeu?
+ 01:22:41
+
+Eu já tô com 53 anos de idade, eu já vou
+ 01:22:44
+
+ter esquecido também. Fica tranquilo.
+ 01:22:46
+
+São ótimos pontos. É bom, vamos lá. Eu
+ 01:22:48
+
+vou começar aqui da ordem que o senhor
+ 01:22:51
+
+apresentou, que começamos foi a questão
+ 01:22:53
+
+das barreiras técnicas dos dispositivos
+ 01:22:56
+
+dos produtores, não é? É assim, eh,
+ 01:22:59
+
+realmente é uma questão, não é? Então
+ 01:23:01
+
+assim, o Soles aqui eu vou entrar um
+ 01:23:04
+
+pouco um pouco mais em aspecto de
+ 01:23:06
+
+tecnologia e desenvolvimento, tá? O
+ 01:23:08
+
+Soles, tecnicamente ele não é um
+ 01:23:10
+
+dispositivo. A nossa tecnologia de,
+ 01:23:12
+
+perdão, não é um aplicativo, ele não é
+ 01:23:15
+
+um aplicativo convencional.
+ 01:23:18
+
+Hoje nós temos uma tecnologia que já é
+ 01:23:21
+
+bastante usada, que na verdade eh a
+ 01:23:23
+
+gente conseguiu voltar
+ 01:23:26
+
+pro modelo de desenvolvimento de sites
+ 01:23:29
+
+que parecem aplicativos. Então o Soles,
+ 01:23:32
+
+ele é um site que parece um aplicativo.
+ 01:23:35
+
+A gente a tanto que a gente a primeira a
+ 01:23:39
+
+primeira versão dele, o MVP eh ele nem
+ 01:23:41
+
+era baixado, o produtor nem precisava
+ 01:23:44
+
+baixar. Então, no sistema de de website
+ 01:23:47
+
+de de páginas, é quase como se o o Soles
+ 01:23:50
+
+ele entra, você entra no link do site e
+ 01:23:55
+
+ele automaticamente se favorita no seu
+ 01:23:58
+
+celular e aí ele cria um logo lá para
+ 01:24:01
+
+facilitar a entrada, entendeu? Então
+ 01:24:04
+
+assim, ele é muito mais leve do que um
+ 01:24:05
+
+aplicativo. Isso tem muitas vantagens em
+ 01:24:07
+
+comparação com aplicativos
+ 01:24:10
+
+convencionais. O principal deles pro
+ 01:24:11
+
+usuário é o uso de menos espaço, não é, de
+ 01:24:14
+
+bem menos espaço. Embora eh os
+ 01:24:17
+
+aplicativo, o nosso aplicativo Extension
+ 01:24:20
+
+Solution hoje, por exemplo, ele ele usa
+ 01:24:22
+
+a tecnologia de um Spotify, que é você
+ 01:24:25
+
+faz o download dos dados, só que ele
+ 01:24:29
+
+compacta os dados ali para ocupar menos
+ 01:24:31
+
+espaço. Então mesmo o Stension, que é um
+ 01:24:32
+
+aplicativo de verdade, ocupa pouco
+ 01:24:34
+
+espaço na memória do telefone do
+ 01:24:37
+
+extensionista, porque a gente pode
+ 01:24:39
+
+também estender esse problema, lógico
+ 01:24:41
+
+que ele é muito maior do produtor, mas
+ 01:24:43
+
+em muitos casos o extensionista também é
+ 01:24:45
+
+produtor e o nível eh socioeconômico
+ 01:24:48
+
+dele não é tão diferente do do nível do
+ 01:24:51
+
+produtor que ele mesmo atende, não é? Então
+ 01:24:53
+
+aí você consegue balizar a capacidade
+ 01:24:55
+
+dele de investir em dispositivos e
+ 01:24:58
+
+muitos projetos ou muitas iniciativas
+ 01:25:00
+
+não tem recurso para disponibilizar um
+ 01:25:03
+
+um dispositivo específico pro
+ 01:25:05
+
+extensionista, tá? Então, mas o Solis
+ 01:25:07
+
+ele não é um aplicativo, ele é um site
+ 01:25:09
+
+que se comporta como aplicativo. Aí
+ 01:25:12
+
+outra vantagem que isso traz é que
+ 01:25:15
+
+quando você desenvolve aplicativo você
+ 01:25:16
+
+toda e qualquer atualização, pô, queria
+ 01:25:20
+
+mudar o botão ali, eu deixar a letra um
+ 01:25:22
+
+pouquinho maior, porque o meu usuário
+ 01:25:25
+
+majoritariamente tem um problema de
+ 01:25:28
+
+visão.
+ 01:25:30
+
+Eu faço esse ajuste em 2 minutos, só que
+ 01:25:31
+
+eu tenho que mandar essa esse tenho que
+ 01:25:34
+
+gerar uma nova versão do aplicativo. Eu
+ 01:25:36
+
+tenho que mandar essa nova versão pra
+ 01:25:38
+
+validação do Google ou da ou da Apple. E
+ 01:25:40
+
+o da Apple é absurdamente demorado. O do
+ 01:25:43
+
+Google leva em torno 40 30 de 48 de 36 a
+ 01:25:45
+
+48 horas. A Apple às vezes leva semanas.
+ 01:25:49
+
+Eh, e aí a Apple disponibiliza essa nova
+ 01:25:52
+
+atualização atualização na loja. E se o
+ 01:25:56
+
+usuário do dispositivo, dispositivo não
+ 01:25:59
+
+tiver configurado para atualizar
+ 01:26:01
+
+automaticamente, o usuário continua
+ 01:26:02
+
+usando aplicativo desatualizado.
+ 01:26:04
+
+Essa tecnologia de você fazer site,
+ 01:26:06
+
+você, eu fui lá, mudei a fonte, como é
+ 01:26:09
+
+um site, a próxima vez que ele entrar no
+ 01:26:11
+
+site já vai est atualizado, tá? Então, a
+ 01:26:13
+
+questão da barreira técnica a gente
+ 01:26:16
+
+tenta, a gente tenta superar em relação
+ 01:26:17
+
+a isso. A contrapartida é que por ser um
+ 01:26:20
+
+site não funciona offline. Só que aqui a
+ 01:26:23
+
+gente nem tem como eh pensar de outra
+ 01:26:25
+
+maneira, porque se a gente fosse fazer
+ 01:26:29
+
+um aplicativo que viabilizasse o
+ 01:26:30
+
+produtor acessar os vídeos offline, aí
+ 01:26:32
+
+que a gente não ia ter espaço de memória
+ 01:26:34
+
+mesmo, porque daí
+ 01:26:36
+
+eh guardar vídeo na memória é
+ 01:26:38
+
+absurdamente grande, não é? Então essa foi
+ 01:26:41
+
+uma escolha, gente. Vamos considerar um
+ 01:26:43
+
+mundo onde todo mundo tem internet,
+ 01:26:45
+
+porque é uma assim no nos territórios
+ 01:26:47
+
+onde a gente atua, lá em O novo
+ 01:26:49
+
+repartimento, de 2021 para cá, a
+ 01:26:52
+
+disponibilidade de internet ela aumentou
+ 01:26:54
+
+absurdamente. Então 100% dos nossos
+ 01:26:56
+
+produtores têm acesso à internet pelo
+ 01:26:59
+
+menos uma vez por dia e na maioria deles
+ 01:27:00
+
+mais de 90% é internet em casa. Então
+ 01:27:03
+
+hoje ele, quando que, quando que o
+ 01:27:06
+
+produtor fica sem internet? Hoje quando
+ 01:27:07
+
+ele sai da casa dele para ir no centro
+ 01:27:09
+
+da cidade, que demora em média 2 horas,
+ 01:27:11
+
+2 horas e meia, dependendo da onde for a
+ 01:27:13
+
+propriedade, às vezes até 4 horas, não é?
+ 01:27:15
+
+Porque é um assentamento. Então, no
+ 01:27:17
+
+percurso ele fica sem internet, mas em
+ 01:27:19
+
+casa e na propriedade que normalmente é
+ 01:27:22
+
+é do lado da casa, não é? Então a casa dele
+ 01:27:25
+
+tá no lote e ele tá ali em volta da
+ 01:27:27
+
+casa, normalmente ele tem internet.
+ 01:27:29
+
+Então a gente optou, beleza, vamos
+ 01:27:31
+
+ocupar menos espaço, vamos facilitar o
+ 01:27:33
+
+processo de atualização da ferramenta,
+ 01:27:35
+
+porque a gente quer fazer que ela seja
+ 01:27:38
+
+mais aderida e vamos considerar e vamos
+ 01:27:40
+
+deixar de fora do nosso barco,
+ 01:27:42
+
+infelizmente, por enquanto, quem ainda
+ 01:27:44
+
+não tem acesso à internet, tá? Então
+ 01:27:46
+
+aqui vai a questão da barreira técnica,
+ 01:27:48
+
+a conversa com outras redes e aqui
+ 01:27:52
+
+lincando, o professor com outro ponto
+ 01:27:54
+
+que colocou que importantíssimo, que é a
+ 01:27:55
+
+filtragem do conteúdo. Hoje a gente tá
+ 01:27:58
+
+num estágio bem incipiente, assim, é um
+ 01:28:00
+
+estágio, é um é um MVP Plus 1.0 no
+ 01:28:02
+
+máximo, tá? O aplicativo e a gente tá aí
+ 01:28:06
+
+com 250, 300 usuários.
+ 01:28:08
+
+essas rodadas de feedback que nós
+ 01:28:11
+
+fizemos com os atores locais e os
+ 01:28:13
+
+próprios, a gente chama de embaixadores,
+ 01:28:15
+
+o grupo de produtores e técnicos que a
+ 01:28:17
+
+gente treinou paraa produção de mídias
+ 01:28:19
+
+de mídias digitais. a gente tá chamando
+ 01:28:21
+
+isso de embaixadores dos soles. Então, a
+ 01:28:23
+
+as primeiras as primeiras sugestões
+ 01:28:26
+
+desse grupo e as sugestões que vieram,
+ 01:28:29
+
+principalmente da academia, eh, dessas
+ 01:28:31
+
+rodadas de feedback que nós tivemos nos
+ 01:28:34
+
+outros territórios, foi a seguinte: tá
+ 01:28:36
+
+muito bonito. Hoje, tá um é um é um a
+ 01:28:38
+
+gente chama de feed, não é? É uma página
+ 01:28:40
+
+contínua. Então, você publicou o seu
+ 01:28:42
+
+vídeo, seu vídeo vai vai para lá.
+ 01:28:44
+
+majoritariamente cacau e pecuária, que
+ 01:28:46
+
+são são as cadeias com as quais nós
+ 01:28:48
+
+trabalhamos na Amazônia, os produtores
+ 01:28:50
+
+desse desse território também, não é? Então
+ 01:28:52
+
+eles vão estar interessados em cacau em
+ 01:28:55
+
+pecuária. Mas isso foi a primeira coisa
+ 01:28:56
+
+que esses jovens embaixadores, jovens
+ 01:28:58
+
+produtores que a gente treinou falaram:
+ 01:29:00
+
+"Cara, a gente precisa, vocês precisam
+ 01:29:02
+
+ter um perfil mais uma, um cadastro de
+ 01:29:04
+
+perfil mais volumoso em termos de
+ 01:29:08
+
+informação para que a gente possa já
+ 01:29:10
+
+linkar ali qual é o nosso interesse, se
+ 01:29:13
+
+é cacau, se é pecuária, se é laranja, se
+ 01:29:17
+
+é saí. E vocês precisam criar um
+ 01:29:20
+
+dispositivo para que quando eu ou
+ 01:29:23
+
+qualquer outro usuário for subir o vídeo
+ 01:29:25
+
+já possa tá guiar com esses temas. Então
+ 01:29:28
+
+eu tô subindo um vídeo de cacau. Então
+ 01:29:31
+
+eles já sugeriram
+ 01:29:33
+
+logo de cara a necessidade da criação de
+ 01:29:35
+
+um algoritmo mínimo para que a gente
+ 01:29:37
+
+consiga fazer essa filtragem, não é? Isso
+ 01:29:40
+
+não tá desenvolvido ainda, mas tá no
+ 01:29:43
+
+nosso pipeline de desenvolvimento paraa
+ 01:29:44
+
+nova fase. Agora esse projeto ele foi
+ 01:29:46
+
+financiado pela cooperação europeia pelo
+ 01:29:48
+
+IFAT, não é, por meio do CGA IAR e SIAT.
+ 01:29:50
+
+Então a gente eh tá negociando,
+ 01:29:55
+
+finalizando, finalizando a negociação
+ 01:29:58
+
+para uma nova etapa. Então a gente tem
+ 01:30:00
+
+esse pipeline desenvolvimento de
+ 01:30:02
+
+melhorias que aí basicamente é perguntar
+ 01:30:03
+
+na hora do cadastro, produtor entrou
+ 01:30:06
+
+tal, já navegou, que isso a gente mudou
+ 01:30:07
+
+também. Antes os nossos outros
+ 01:30:10
+
+aplicativos, o produtor entrava, ele pô,
+ 01:30:11
+
+ele venceu a barreira de baixar o
+ 01:30:14
+
+aplicativo na loja, ele venceu a
+ 01:30:16
+
+barreira de criar conta, ele caía numa
+ 01:30:18
+
+outra barreira que era preencher o
+ 01:30:20
+
+cadastro. Então ali ele colocava o nome,
+ 01:30:22
+
+colocava o tamanho da propriedade, o
+ 01:30:24
+
+endereço, que produções ele tem. O Solis
+ 01:30:26
+
+reverte isso. Então o produtor entrou,
+ 01:30:29
+
+já tá na página principal, que é os
+ 01:30:32
+
+vídeos. Então já pode começar vendo o
+ 01:30:34
+
+vídeo, mas tem uma área de perfil lá pra
+ 01:30:35
+
+gente fazer esse preenchimento. Aí a
+ 01:30:38
+
+ideia, o que tá no pipeline é
+ 01:30:39
+
+esporadicamente, com uma certa
+ 01:30:42
+
+frequência o aplicativo lembrar o
+ 01:30:44
+
+produtor de que ele precisa completar
+ 01:30:46
+
+aquela informação, não é? Então, e ali a
+ 01:30:48
+
+gente já vai deixar um campo aberto
+ 01:30:50
+
+perguntando que culturas ele tem
+ 01:30:53
+
+interesse e que temas ele tem interesse.
+ 01:30:55
+
+E na contrapartida, não é, a outra parte do
+ 01:30:57
+
+desenvolvimento é na hora de opilodar o
+ 01:31:00
+
+vídeo, de subir o vídeo, o produtor já
+ 01:31:02
+
+precisa marcar com pelo menos um tema,
+ 01:31:04
+
+se é que produção que é, onde que ele
+ 01:31:06
+
+tá. E aí a ideia, a medida que a gente
+ 01:31:08
+
+for reproduzindo, expandindo, a gente
+ 01:31:11
+
+vai criando um catálogo de vídeos, eh,
+ 01:31:13
+
+já, não é, previamente identificados. e que
+ 01:31:16
+
+viabilize num futuro desenvolvimento de
+ 01:31:19
+
+algoritmo mínimo, porque a gente tem
+ 01:31:22
+
+muita preocupação em reproduzir o a as
+ 01:31:24
+
+bolhas, não é? E a gente ainda também não
+ 01:31:26
+
+quer isso. Muita, alguns questionamentos
+ 01:31:28
+
+que vieram da nossa rodada de de
+ 01:31:31
+
+apresentação pros pros atores locais
+ 01:31:34
+
+veram nesse sentido, ah, vocês vão vocês
+ 01:31:36
+
+vão criar uma bolha, o cara só vai saber
+ 01:31:38
+
+de cacau, o cara só vai saber do
+ 01:31:39
+
+território dele. Então, a gente quer
+ 01:31:40
+
+evitar isso. Hoje ele não tem algoritmo
+ 01:31:42
+
+nenhum, hoje é zero, mas a gente quer
+ 01:31:44
+
+construir, tem ter muita
+ 01:31:46
+
+responsabilidade, muita ética no
+ 01:31:47
+
+desenvolvimento de algoritmos que
+ 01:31:49
+
+realmente resolvam esses problemas que o
+ 01:31:51
+
+senhor aponta, professor, de facilitar a
+ 01:31:53
+
+identificação de conteúdos de interesse,
+ 01:31:55
+
+mas sem cair nessa nessa armadilha de só
+ 01:31:58
+
+fornecer para ele o conteúdo que lhe
+ 01:32:01
+
+interessa ou só, não é, eh reforçar o viés
+ 01:32:03
+
+dele.
+ 01:32:05
+
+Eh, aí a o outro ponto que eu anotei é a
+ 01:32:07
+
+questão da adaptação da linguagem. A
+ 01:32:10
+
+ideia não é que um pesquisador da
+ 01:32:13
+
+Embrapa, a ideia não é que eu faça
+ 01:32:15
+
+vídeo, que vocês façam vídeo, a ideia é
+ 01:32:17
+
+reproduzir a metodologia do ferramenta
+ 01:32:19
+
+digitais por completo, não é? Então a gente
+ 01:32:21
+
+vai fazer alguns pilotos para a curar o
+ 01:32:23
+
+custo e as metodologias de se produzir.
+ 01:32:27
+
+Com isso, o que que eu quero dizer? Que
+ 01:32:30
+
+a ideia é capacitar, identificar quais
+ 01:32:31
+
+são as práticas mais relevantes pro pros
+ 01:32:34
+
+produtores que vão ser assistidos por
+ 01:32:37
+
+aquele modelo de assistência técnica.
+ 01:32:38
+
+fazer minimamente um dia de campo para
+ 01:32:41
+
+adaptação, não é, com o especialista ali.
+ 01:32:43
+
+Aí sim, o especialista no dia de campo
+ 01:32:46
+
+pode ser o pesquisador da Embrapa, pode
+ 01:32:48
+
+ser o professor, pode ser o perito em em
+ 01:32:50
+
+algum tema específico, não é? Nesse dia de
+ 01:32:54
+
+campo a gente faz, a gente filma, eh, os
+ 01:32:57
+
+nossos dias de campo foram filmados e aí
+ 01:32:59
+
+a gente produziu cortes nesses dias de
+ 01:33:02
+
+campo para disponibilizar. E aí, não só
+ 01:33:04
+
+cortes do especialista falando, mas
+ 01:33:07
+
+também e principalmente no nosso na
+ 01:33:10
+
+nossa experiência dos produtores
+ 01:33:13
+
+reagindo ou dos produtores
+ 01:33:15
+
+perdão,
+ 01:33:19
+
+reinterpretando
+ 01:33:20
+
+o a o que foi falado, não é, e dando seu
+ 01:33:22
+
+testemunho. Ah, eu fiz isso na minha
+ 01:33:26
+
+propriedade, na minha é sim, na minha é
+ 01:33:28
+
+sada. Então, a ideia é já aí ter um
+ 01:33:30
+
+conjunto de conteúdos desse dia de campo
+ 01:33:32
+
+que possa ser continuamente circulado
+ 01:33:34
+
+entre os entre os os usuários, tá? E a
+ 01:33:37
+
+ideia não é realmente que esse cara
+ 01:33:40
+
+faça. Então, qual que é a nossa
+ 01:33:42
+
+abordagem? Eh, eu enquanto
+ 01:33:43
+
+solidariedade, enquanto Denis me
+ 01:33:45
+
+aproximo, a gente fecha as parcerias e a
+ 01:33:47
+
+gente reproduz esse modelo da maneira
+ 01:33:50
+
+mais economicamente viável possível e
+ 01:33:52
+
+capacita pelo menos um grupo local para
+ 01:33:55
+
+serem os primeiros embaixadores do
+ 01:33:58
+
+Stórios List para serem os responsáveis
+ 01:34:01
+
+para fazer a adaptação da linguagem
+ 01:34:03
+
+daquele conhecimento técnico para o seu
+ 01:34:06
+
+contexto local. Então assim, ah, é um
+ 01:34:09
+
+projeto que tem um recurso financeiro
+ 01:34:11
+
+mais abundante, digamos assim, e a gente
+ 01:34:14
+
+tem um interesse mais específico, vou
+ 01:34:16
+
+dar um exemplo no nosso programa de
+ 01:34:18
+
+laranja, em combater o greening. Então,
+ 01:34:20
+
+eu não vou pegar e fazer um vídeo lá na
+ 01:34:22
+
+Citro Suluco, lá na na Coperito, na
+ 01:34:26
+
+empresa, no num no na academia, na
+ 01:34:28
+
+Exalcor especialista em Green. Não vou
+ 01:34:31
+
+fazer isso. Vou, a ideia é pego essa
+ 01:34:34
+
+grana, esse parceiro vem junto, a gente
+ 01:34:36
+
+ou faz um dia de campo ou a gente traz
+ 01:34:39
+
+um grupo de pessoas para conversar com
+ 01:34:41
+
+eles. Esse grupo aprende e esse grupo de
+ 01:34:43
+
+pessoas do local compartilha um vídeo,
+ 01:34:47
+
+não é? Aí esse grupo de pessoas pode ser o
+ 01:34:49
+
+produtor e pode ser o extensionista.
+ 01:34:51
+
+Então, a ideia é aumentar a interação
+ 01:34:53
+
+também entre produtores extensionistas
+ 01:34:55
+
+eh na produção de conteúdo. O meu
+ 01:34:58
+
+público em termos de content creators,
+ 01:35:00
+
+não é, de de criadores de conteúdo, é
+ 01:35:02
+
+produtor, majoritariamente jovem, mas
+ 01:35:05
+
+não é não é excludente. Se algum senhor
+ 01:35:07
+
+mais velho, uma alguma senhora mais
+ 01:35:11
+
+velha se sentir a vontade de aparecer no
+ 01:35:12
+
+vídeo, é que é menos natural para eles,
+ 01:35:13
+
+não é? Pros jovens. É, hoje eu pego o
+ 01:35:15
+
+celular e já vou fazer o vídeo. Eh, e a
+ 01:35:17
+
+gente extensionista.
+ 01:35:20
+
+>> Muito bom. Olha só, enquanto você falava
+ 01:35:22
+
+que o professor Gilmar La Forga, ele
+ 01:35:25
+
+disse o seguinte, ó: "Bom dia, Denis
+ 01:35:27
+
+Ezequiel Zuin aqui abriu soles e me
+ 01:35:29
+
+pareceu bem útil na organização,
+ 01:35:32
+
+verificação dos encaminhamentos de dados
+ 01:35:34
+
+nas atividades produtivas, bem útil para
+ 01:35:37
+
+aspectos relacionados à assistência tec
+ 01:35:39
+
+mais: "Vou solicitar meus alunos fazer
+ 01:35:42
+
+um teste com os produtores que
+ 01:35:43
+
+assistimos no projeto de extensão grupos
+ 01:35:45
+
+de ATER." Legal, parabéns.
+ 01:35:47
+
+Só vou pedir um pouco. É, não, obrigado,
+ 01:35:50
+
+não é? Fico muito feliz. Tô à disposição.
+ 01:35:52
+
+Meu meu contato tá aí, tá? Pros
+ 01:35:54
+
+professores que quiserem entrar em
+ 01:35:57
+
+contato com a gente, o Só está
+ 01:35:58
+
+disponível para usar, não é? E é, como eu
+ 01:35:59
+
+falei, é uma versão uma versão 1.0.
+ 01:36:01
+
+Então, eh, e a gente tá à disposição
+ 01:36:04
+
+para conversar e apoiar no que for
+ 01:36:07
+
+preciso aí.
+ 01:36:09
+
+>> Muito bom, Denis. para não se alongar
+ 01:36:10
+
+nossa live, a palavra final dessa grande
+ 01:36:12
+
+experiência que você compartilhou
+ 01:36:16
+
+conosco.
+ 01:36:17
+
+>> Não, acho que eu só tenho agradecer eh
+ 01:36:18
+
+assim, eh realmente foi uma experiência
+ 01:36:20
+
+muito eh eu não gosto de usar
+ 01:36:24
+
+desrupitivo porque é muito, é muito
+ 01:36:26
+
+arroz com feijão, não é? Mas eu acho que a
+ 01:36:28
+
+a o qual foi a grande virada de chave
+ 01:36:32
+
+até então, tanto nós na Fundação
+ 01:36:35
+
+Solidariedade como nastecs, nas
+ 01:36:38
+
+startups, primeiro que essas, não é,
+ 01:36:41
+
+normalmente como elas precisam se
+ 01:36:43
+
+autoustentar
+ 01:36:44
+
+no longo tempo, dificilmente você vê
+ 01:36:46
+
+solução digital sendo pensada para
+ 01:36:49
+
+produtor em pequena escala, não é? E nós
+ 01:36:51
+
+como uma organização da sociedade civil
+ 01:36:53
+
+temos essa vantagem de poder considerar
+ 01:36:55
+
+o produtor como o nosso beneficiário,
+ 01:36:58
+
+nosso cliente mais importante, mesmo que
+ 01:37:01
+
+ele não pague, porque eh também é uma
+ 01:37:04
+
+premissa fundamental nossa de não cobrar
+ 01:37:06
+
+eh pelos serviços prestados aos
+ 01:37:08
+
+produtores. É, é, não é, o nosso negócio tá
+ 01:37:10
+
+fundamentado de outra maneira, mas eu
+ 01:37:12
+
+acho que o grande, não é, a grande virada
+ 01:37:14
+
+aqui é começar a pensar em ferramentas
+ 01:37:16
+
+digitais não só para coletar dado, mas
+ 01:37:19
+
+principalmente
+ 01:37:23
+
+para fazer de fato a difusão
+ 01:37:24
+
+tecnológica, não é, e para retomar o que
+ 01:37:26
+
+foi o início da nossa da nossa
+ 01:37:29
+
+iniciativa digital lá em 2012, que é
+ 01:37:31
+
+tornar o produtor rural o centro, não é, o
+ 01:37:34
+
+agente principal da mudança que a gente,
+ 01:37:37
+
+a tentativa é tornar o produtor rural no
+ 01:37:40
+
+agente principal da difusão tecnológica,
+ 01:37:42
+
+não é? Então eu acho que essa é a grande
+ 01:37:44
+
+virada. Eu acho que esse é um caminho
+ 01:37:46
+
+que abriu portas que a gente nem eu
+ 01:37:49
+
+mesmo, não é, atuando nem nem previa isso.
+ 01:37:52
+
+A gente tinha muito foco, eu mesmo tinha
+ 01:37:54
+
+muito foco no digital paraa coleta de
+ 01:37:56
+
+dados, para geração de inteligência,
+ 01:37:58
+
+para aumento de eficiência na gestão da
+ 01:37:59
+
+informação. E não tinha, essa porta não
+ 01:38:01
+
+tinha se aberto. Para mim, até que a
+ 01:38:04
+
+gente recebeu essa provocação e essa
+ 01:38:05
+
+oportunidade que veio pelo nosso
+ 01:38:06
+
+histórico, não é? Os doadores precisavam de
+ 01:38:08
+
+alguém com presença e experiência,
+ 01:38:11
+
+presença na Amazônia. experiência com
+ 01:38:15
+
+pecuária extensão rural e experiência em
+ 01:38:17
+
+digitalização. Então nos na nossa
+ 01:38:20
+
+experiência nos colocou no lugar certo,
+ 01:38:22
+
+na hora certa e abriu uma porta que hoje
+ 01:38:24
+
+para mim é irrevogável. assim, não tem
+ 01:38:27
+
+como eu pensar em outra coisa que não
+ 01:38:29
+
+seja fortalecer essa iniciativa de usar
+ 01:38:31
+
+o digital para de fato entregar um valor
+ 01:38:34
+
+pro produtor e não só para coletar o
+ 01:38:37
+
+dado para gerar inteligência para depois
+ 01:38:38
+
+tentar fazer isso votar pro próprio
+ 01:38:40
+
+produtor, uma relação mais direta de de
+ 01:38:42
+
+valor gerado. E agradecer vocês pela
+ 01:38:44
+
+oportunidade. Fico muito feliz.
+ 01:38:47
+
+Aguardava com com ansiedade esse esse
+ 01:38:49
+
+dia. Que bom que ele chegou. Espero ter
+ 01:38:52
+
+contribuído com a discussão aí.
+ 01:38:54
+
+Com certeza essa live aqui vai ser muito
+ 01:38:56
+
+assistida e replicada em vários locais
+ 01:38:59
+
+porque realmente agregou muito assim
+ 01:39:01
+
+grandes lives, grandes aprendizados
+ 01:39:03
+
+somos os principais alunos de de todas
+ 01:39:06
+
+essas lives que a gente faz porque a
+ 01:39:08
+
+gente aprende muito. Denis muito
+ 01:39:09
+
+obrigado.
+ 01:39:11
+
+>> Obrigado, professor. Obrigado todo mundo
+ 01:39:12
+
+aí do chat.
+ 01:39:13
+
+>> Sucesso. Quando puder volte aqui no
+ 01:39:14
+
+canal com novas ideias.
+ 01:39:16
+
+>> Muito legal. Então, só para dizer aqui o
+ 01:39:18
+
+pessoal que tá nos assistindo, toda
+ 01:39:20
+
+quarta-feira, 9 horas da manhã, nesse
+ 01:39:22
+
+mesmo canal, nesse mesmo bate horário,
+ 01:39:24
+
+estamos com um novo especialista na área
+ 01:39:25
+
+de extensão rural no Brasil e no mundo.
+ 01:39:27
+
+Um abraço e até a próxima oportunidade.
+ 01:39:29
+
+Tchau, tchau, gente.
+ 01:39:32
+
+>> Gente, boa quarta.
+ 01:39:33

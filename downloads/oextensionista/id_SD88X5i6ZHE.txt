@@ -1,0 +1,8 @@
+video_id: SD88X5i6ZHE
+video_url: https://www.youtube.com/watch?v=SD88X5i6ZHE
+title: VITICULTURA E FRUTICULTURA NO BIOMA PAMPA- PARTE 2
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2024

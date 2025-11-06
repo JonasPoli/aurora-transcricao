@@ -1,0 +1,8 @@
+video_id: lKxLkWsMo-k
+video_url: https://www.youtube.com/watch?v=lKxLkWsMo-k
+title: Conhece o Campo Remoto, Extensionista? #ater #aterdigital #assistenciatecnica #extensãorural #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/19/2024

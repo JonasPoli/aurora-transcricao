@@ -1,0 +1,8 @@
+video_id: j5P8_l0vFk4
+video_url: https://www.youtube.com/watch?v=j5P8_l0vFk4
+title: O social na Extensão Rural um olhar para o passado e perspectivas de futuro
+uploader: Rede Aurora
+speaker: Clelia Cecilia Lovato Brum – Emater/RS-Ascar – Aposentada
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/22/2024

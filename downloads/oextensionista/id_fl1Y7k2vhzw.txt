@@ -1,0 +1,8 @@
+video_id: fl1Y7k2vhzw
+video_url: https://www.youtube.com/watch?v=fl1Y7k2vhzw
+title: Escândalo no meio científico 😵‍💫 #artigocientífico #ciencia #revista
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/18/2024

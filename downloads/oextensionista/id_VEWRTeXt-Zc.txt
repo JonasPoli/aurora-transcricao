@@ -1,0 +1,8 @@
+video_id: VEWRTeXt-Zc
+video_url: https://www.youtube.com/watch?v=VEWRTeXt-Zc
+title: Ater pública frente à digitalização na agricultura: construção e perspectivas
+uploader: O Extensionista
+speaker: Alice Alcântara
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/04/2025

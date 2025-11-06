@@ -1,0 +1,8 @@
+video_id: ztwg1lFOnEU
+video_url: https://www.youtube.com/watch?v=ztwg1lFOnEU
+title: #prenda #riograndedosul #gaucho
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

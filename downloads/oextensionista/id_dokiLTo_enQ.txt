@@ -1,0 +1,8 @@
+video_id: dokiLTo_enQ
+video_url: https://www.youtube.com/watch?v=dokiLTo_enQ
+title: Mulheres do Cacau: experiências de ATER Digital com mulheres rurais do Espírito Santo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/05/2023

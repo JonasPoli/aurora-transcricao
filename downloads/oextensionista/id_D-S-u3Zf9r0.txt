@@ -1,0 +1,8 @@
+video_id: D-S-u3Zf9r0
+video_url: https://www.youtube.com/watch?v=D-S-u3Zf9r0
+title: #roça #livros #feiradolivro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/29/2025

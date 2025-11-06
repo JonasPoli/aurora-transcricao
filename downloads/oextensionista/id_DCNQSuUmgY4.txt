@@ -1,0 +1,9 @@
+video_id: DCNQSuUmgY4
+video_url: https://www.youtube.com/watch?v=DCNQSuUmgY4
+title: Reflexões de uma ATER Digital participativa e dialógica para cafeicultoras idosas
+uploader: O Extensionista
+speaker: Mariana de Carvalho Araújo - UFSCAR
+Lattes: http://lattes.cnpq.br/5786000050348426
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/26/2023

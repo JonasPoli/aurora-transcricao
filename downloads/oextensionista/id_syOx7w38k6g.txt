@@ -1,0 +1,8 @@
+video_id: syOx7w38k6g
+video_url: https://www.youtube.com/watch?v=syOx7w38k6g
+title: #roça #plantas
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/28/2025

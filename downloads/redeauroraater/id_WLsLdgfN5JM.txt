@@ -1,0 +1,9 @@
+video_id: WLsLdgfN5JM
+video_url: https://www.youtube.com/watch?v=WLsLdgfN5JM
+title: Extensão universitária para o desenvolvimento de destino de cicloturismo
+uploader: Rede Aurora
+speaker: Clarice Bastarz - UFPR
+Lattes: http://lattes.cnpq.br/5834945320684124
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/02/2025

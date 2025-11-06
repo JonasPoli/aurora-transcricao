@@ -1,0 +1,8 @@
+video_id: FTkztu6aYb4
+video_url: https://www.youtube.com/watch?v=FTkztu6aYb4
+title: #deustemumapalavrapravoce #tempo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/27/2025

@@ -1,0 +1,8 @@
+video_id: hqGe6cur6aY
+video_url: https://www.youtube.com/watch?v=hqGe6cur6aY
+title: #reflexão #roça #colono #caminhoparaumavidamelhor #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2025

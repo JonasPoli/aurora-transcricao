@@ -1,0 +1,8 @@
+video_id: guxRC2xvBs8
+video_url: https://www.youtube.com/watch?v=guxRC2xvBs8
+title: #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/25/2025

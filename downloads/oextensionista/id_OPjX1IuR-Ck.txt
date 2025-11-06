@@ -1,0 +1,9 @@
+video_id: OPjX1IuR-Ck
+video_url: https://www.youtube.com/watch?v=OPjX1IuR-Ck
+title: Mulheres como sujeito de direitos nas práticas da ATER
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/5086379830315123
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/16/2022

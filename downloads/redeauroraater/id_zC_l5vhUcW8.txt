@@ -1,0 +1,8 @@
+video_id: zC_l5vhUcW8
+video_url: https://www.youtube.com/watch?v=zC_l5vhUcW8
+title: Direto ao ponto: Ater Digital com  WhatsApp na comunicação com o produtor rural - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

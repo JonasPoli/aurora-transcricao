@@ -1,0 +1,8 @@
+video_id: l7eM3tIIy5c
+video_url: https://www.youtube.com/watch?v=l7eM3tIIy5c
+title: Extensão Rural: Dinâmica e Perspectiva Agroecológica
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/15/2021

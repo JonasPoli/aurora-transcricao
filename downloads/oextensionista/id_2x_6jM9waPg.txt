@@ -1,0 +1,8 @@
+video_id: 2x_6jM9waPg
+video_url: https://www.youtube.com/watch?v=2x_6jM9waPg
+title: #reflexão #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

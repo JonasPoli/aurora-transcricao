@@ -1,0 +1,9 @@
+video_id: h8BesdXPCPM
+video_url: https://www.youtube.com/watch?v=h8BesdXPCPM
+title: Análises dos processos de diversificação na fumicultura no Centro Serra/RS
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/3850662893640466
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/09/2023

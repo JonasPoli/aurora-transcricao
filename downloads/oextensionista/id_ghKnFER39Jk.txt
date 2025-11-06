@@ -1,0 +1,9 @@
+video_id: ghKnFER39Jk
+video_url: https://www.youtube.com/watch?v=ghKnFER39Jk
+title: Extensão Rural na produção leiteira em Minas Gerais
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/8244210426446780
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2022

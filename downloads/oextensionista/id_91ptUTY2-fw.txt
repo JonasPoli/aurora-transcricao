@@ -1,0 +1,8 @@
+video_id: 91ptUTY2-fw
+video_url: https://www.youtube.com/watch?v=91ptUTY2-fw
+title: Painel do III SNEER - Extensãp Rural - Santa Maria
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/25/2025

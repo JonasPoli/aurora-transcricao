@@ -1,0 +1,5134 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:01
+
+agricultores e agricultoras jovens Rais
+ 00:00:04
+
+pesquisadores e professores de extensão
+ 00:00:06
+
+Rural acadêmicos e demais públicos aqui
+ 00:00:09
+
+presentes sejam todos muito bem-vindos
+ 00:00:12
+
+meu nomequel red professor de extensão
+ 00:00:14
+
+Rural e quem está aqui hoje conosco é o
+ 00:00:16
+
+Professor luí Fernando Soares zim o
+ 00:00:19
+
+fundador da ar Aurora juntamente com a
+ 00:00:21
+
+nossa convidada pesquisadora grande
+ 00:00:23
+
+extensionista Maira R todos aqui
+ 00:00:25
+
+excelentes ionais na área no Brasil e É
+ 00:00:28
+
+nesse dia 18 de julho estamos em mais um
+ 00:00:32
+
+evento do ciclo diálogos em até digital
+ 00:00:34
+
+Semeando propostas e compartilhando
+ 00:00:37
+
+saberes nossos eventos buscam
+ 00:00:39
+
+identificar e propor caminhos
+ 00:00:41
+
+metodológicos para Os Atuais elementos e
+ 00:00:43
+
+condicionantes que determinam os
+ 00:00:46
+
+processos de transferência e
+ 00:00:47
+
+compartilhamento de novas tecnologias
+ 00:00:49
+
+nos territórios Rais da América Latina
+ 00:00:51
+
+África e alguns países Como Portugal
+ 00:00:54
+
+Espanha e Luxemburgo a nossa palestra de
+ 00:00:56
+
+hoje é intitulada agricultura digital
+ 00:00:58
+
+adoção e difusão entre produtores rurais
+ 00:01:02
+
+e a nossa palestrante é Maira de Souza
+ 00:01:04
+
+regges essa Live é uma iniciativa do
+ 00:01:07
+
+Portal extensionista da rede Aurora de
+ 00:01:09
+
+diálogos em até digital na América
+ 00:01:11
+
+Latina e com todos os apoiadores que
+ 00:01:13
+
+vocês podem conferir aqui na descrição
+ 00:01:15
+
+desse vídeo sejam muito bem-vindos
+ 00:01:18
+
+Professor Zuin Maira é um prazer vocês
+ 00:01:20
+
+estarem aqui compartilhando seus
+ 00:01:22
+
+conhecimentos Desde já muito obrigado já
+ 00:01:24
+
+de Ant mão passo a palavra ao professor
+ 00:01:26
+
+Zuin bom dia a todos e a todas prazer
+ 00:01:28
+
+muito grande estar aqui com vocês
+ 00:01:31
+
+Ezequiel a Maira não é então a gente hoje
+ 00:01:32
+
+vai falar um pouquinho sobre agricultura
+ 00:01:35
+
+digital não é doção e a difusão não é entre
+ 00:01:37
+
+Produtores Rurais não é de como que ocorre
+ 00:01:40
+
+Quais são os caminhos comunicacionais o
+ 00:01:43
+
+que eles o que eles acham importante ali
+ 00:01:45
+
+não é nesse tipo de interação com essa
+ 00:01:48
+
+palestra muito bacana da Maira aqui com
+ 00:01:51
+
+a gente não é onde ela vai expor a sua
+ 00:01:53
+
+dissertação de m resultado da sua
+ 00:01:56
+
+dissertação do mestrado não é na UnB Maira
+ 00:01:58
+
+seja muito bem-vinda tá a palavra é
+ 00:02:02
+
+sua Bom dia obrigada professores é um
+ 00:02:05
+
+prazer estar aqui não é trazer para o
+ 00:02:09
+
+público o que essa pesquisa
+ 00:02:12
+
+eh me trouxe porque era eh Ela respondeu
+ 00:02:15
+
+a muitos questionamentos meus não é eu vou
+ 00:02:19
+
+me apresentar aqui eu sou engenheira
+ 00:02:22
+
+agrônoma e eu trabalho no Banco do
+ 00:02:23
+
+Brasil na como assessora de Agro negócio
+ 00:02:27
+
+trabalhei muito tempo visitando as
+ 00:02:30
+
+fazendas trabalhei muito tempo junto com
+ 00:02:32
+
+os produtores e toda visita que eu ia Eh
+ 00:02:34
+
+eu gostei eh muito desse tema e ele
+ 00:02:38
+
+começou quando eu vi sobre uma Startup
+ 00:02:42
+
+que estava desenvolvendo uma tecnologia
+ 00:02:44
+
+digital para irrigação e foi daí que
+ 00:02:46
+
+começou meus questionamentos e eu
+ 00:02:50
+
+percebi que é um mundo gigante não é não é
+ 00:02:53
+
+só startups não é e foi aí que eu me
+ 00:02:56
+
+interessei de fazer um mestrado consegui
+ 00:02:59
+
+uma vaga na UnB e entrei com esse tema
+ 00:03:02
+
+não é Na época eu entrei com tema de
+ 00:03:06
+
+irrigação sustentável que estava
+ 00:03:08
+
+vinculado com a tecnologia digital até
+ 00:03:11
+
+porque a tecnologia digital eh se mostra
+ 00:03:14
+
+também muito eh relacionada à questão
+ 00:03:17
+
+sustentável não é uma vez que você consegue
+ 00:03:21
+
+aí verificar que se você tem um controle
+ 00:03:24
+
+maior do que você coloca ali no não é do
+ 00:03:27
+
+que o solo tá te respondendo no caso dos
+ 00:03:30
+
+professores O que que a planta eh
+ 00:03:32
+
+responde em relação a isso você tem um
+ 00:03:34
+
+controle você já consegue verificar aí
+ 00:03:36
+
+que há possibilidade de ser sustentável
+ 00:03:38
+
+não é e eu vou pedir o professor Ezequiel
+ 00:03:41
+
+que pode subir porque a apresentação e
+ 00:03:43
+
+aí tá o meu trabalho não é e eh esse tema
+ 00:03:47
+
+aí agricultura digital adoção e difusão
+ 00:03:51
+
+entre Produtores Rurais eu quero falar
+ 00:03:54
+
+que tem também não é Eh foram Produtores
+ 00:03:55
+
+Rurais que a gente colocou no título
+ 00:03:58
+
+original
+ 00:04:00
+
+bancarizados por que isso porque eh eu
+ 00:04:01
+
+tive uma dificuldade quando eu fui fazer
+ 00:04:05
+
+esse trabalho porque na época que eu fiz
+ 00:04:07
+
+saiu aquela lei de proteção de dados
+ 00:04:10
+
+então eu não conseguia ter e-mail e as
+ 00:04:12
+
+instituições não não tava ainda no
+ 00:04:15
+
+começo não sabia como não me passavam eh
+ 00:04:18
+
+contatos dos produtores não é então eu tive
+ 00:04:21
+
+que fazer via
+ 00:04:24
+
+eh WhatsApp eu mandei o questionário por
+ 00:04:25
+
+o WhatsApp
+ 00:04:29
+
+E aí também isso já se coloca assim eh
+ 00:04:30
+
+que uma pessoa que responde que recebe
+ 00:04:33
+
+uma mensagem por WhatsApp ela está
+ 00:04:36
+
+também de alguma forma numa tecnologia
+ 00:04:38
+
+digital não é E aí tá o tema do meu
+ 00:04:40
+
+trabalho vou passar aqui essas esses
+ 00:04:45
+
+foram Os questionamentos não é como eu
+ 00:04:48
+
+havia colocado de saber como está a
+ 00:04:50
+
+adoção e a difusão das novas tecnologias
+ 00:04:53
+
+digitais para os produtores rurais não é no
+ 00:04:56
+
+Brasil como que como tá acontecendo essa
+ 00:04:59
+
+evolução no campo esse eram os meus
+ 00:05:02
+
+questionamentos não é Eh Quais as
+ 00:05:04
+
+dificuldades que os produtores têm quais
+ 00:05:07
+
+o O que impede não é O que motiva eh qual a
+ 00:05:10
+
+visão eh do produtor rural frente a
+ 00:05:14
+
+essas novas tecnologias digitais que a
+ 00:05:17
+
+gente já está vendo aí já via não é no na
+ 00:05:19
+
+questão quando a gente pensa de medicina
+ 00:05:23
+
+de eh de instituições financeiras trabal
+ 00:05:25
+
+tanto com as tecnologias digitais e eu
+ 00:05:30
+
+espero que essa os eh os resultados não é
+ 00:05:34
+
+que esse trabalho trouxe para mim também
+ 00:05:38
+
+eh respondam não é Eh questões se alguém
+ 00:05:40
+
+tem em relação a isso não é Eh a saber como
+ 00:05:43
+
+de saber como está isso na no meio Rural
+ 00:05:47
+
+não é e abrir também outras eh ideias não é
+ 00:05:50
+
+para que a gente possa estar junto aí do
+ 00:05:54
+
+Produtor não é levando essa Essas
+ 00:05:57
+
+tecnologias
+ 00:05:59
+
+eh disruptivas não é inovadoras para
+ 00:06:01
+
+ele e aí o meu trabalho eu trouxe aqui o
+ 00:06:05
+
+que foram os objetivos não é geral que era
+ 00:06:09
+
+avaliar a adoção e a difusão de dessas
+ 00:06:12
+
+novas tecnologias não é
+ 00:06:16
+
+Eh digitais que são desenvolvidas para o
+ 00:06:18
+
+produtor rural no Brasil especialmente
+ 00:06:22
+
+nesse meu trabalho a gente trabalhou
+ 00:06:25
+
+muito com produtores de grão não é das
+ 00:06:27
+
+principais regiões produtoras do Brasil
+ 00:06:30
+
+e os objetivos específicos primeira eh
+ 00:06:34
+
+apresentar a evolução da Agricultura
+ 00:06:37
+
+digital no Brasil e também no mundo e
+ 00:06:40
+
+identificar Quais são os fatores não é
+ 00:06:43
+
+motivadores E impeditivos que
+ 00:06:46
+
+influenciam as decisões desses
+ 00:06:48
+
+agricultores deles adotarem ou não a
+ 00:06:50
+
+agricultura digital em suas propriedades
+ 00:06:53
+
+e por fim eh dimensionar as perspectivas
+ 00:06:56
+
+dos Agricultores não é e e verificar eh
+ 00:07:00
+
+acerca do cenário atual quanto a
+ 00:07:04
+
+utilização de tecnologias digitais no
+ 00:07:07
+
+agronegócio
+ 00:07:10
+
+brasileiro e aqui eu trago a metodologia
+ 00:07:13
+
+de de como foi feito não é para o primeiro
+ 00:07:16
+
+objetivo específico aí eh eu fiz uma
+ 00:07:19
+
+revisão de Literatura e eh eu comecei a
+ 00:07:22
+
+fazer essa revisão em 2020 então ia para
+ 00:07:26
+
+para as revistas eh de publicação e
+ 00:07:29
+
+colocava todas essas palavras que tinham
+ 00:07:34
+
+algum vínculo não é Eh agricultura digital
+ 00:07:36
+
+e adoção Quais são as barreiras Smart
+ 00:07:38
+
+Farm não é que é um termo inglês e que na
+ 00:07:41
+
+literatura internacional tem muito
+ 00:07:44
+
+trabalho a respeito desse tema eh também
+ 00:07:47
+
+agricultura inteligente colocava em
+ 00:07:50
+
+português não é e tecnologia digital e
+ 00:07:52
+
+inovação então eu fiz um levantamento aí
+ 00:07:55
+
+de vários trabalhos que eu vi que tinha
+ 00:07:58
+
+eh um foco parecido com o meu no mesmo
+ 00:08:00
+
+na mesma linha fiz vários levantamentos
+ 00:08:05
+
+para entender como que está essa
+ 00:08:08
+
+agricultura no digital no mundo não é e
+ 00:08:11
+
+levantar também informações de como está
+ 00:08:15
+
+aqui no Brasil também de como estava E
+ 00:08:18
+
+aí os dois eh as
+ 00:08:21
+
+duas dos dois objetivos
+ 00:08:24
+
+eh específicos que para eu saber como
+ 00:08:27
+
+estava não é Para eu identificar esses
+ 00:08:31
+
+fatores dimensionar essas expectativas
+ 00:08:33
+
+eu apliquei um questionário que foi
+ 00:08:35
+
+enviado pelo Whatsapp e eh nos grupos
+ 00:08:37
+
+que eu tenho de produtores de colegas
+ 00:08:42
+
+assessores de Agronegócios como eu falei
+ 00:08:45
+
+trabalho no Banco do Brasil e esse
+ 00:08:47
+
+questionário foi enviado e a gente
+ 00:08:50
+
+obteve 55 eh pessoas responderam o que
+ 00:08:52
+
+corresponde aí acima de 30 o que a gente
+ 00:08:57
+
+já consegue fazer
+ 00:09:00
+
+análises e passando aqui eu queria
+ 00:09:03
+
+trazer um pouco do que é a evolução da
+ 00:09:06
+
+Agricultura não é Eh fala-se muito em
+ 00:09:08
+
+agricultura 1.0 que a gente pega aí
+ 00:09:11
+
+antes de 1950 não é com praticamente uma
+ 00:09:14
+
+mão deobra intensiva baixa produtividade
+ 00:09:19
+
+eh nessa época aí a gente conhece da
+ 00:09:24
+
+história que muitas as pessoas passavam
+ 00:09:27
+
+fome porque a produção não conseguia
+ 00:09:30
+
+suprir não é a eh infecção por pragas e
+ 00:09:34
+
+doenças a gente tem o caso aí da Batata
+ 00:09:38
+
+na Holanda E aí foi visto aí que era
+ 00:09:40
+
+necessário melhorar essa agricultura e a
+ 00:09:44
+
+gente passa aí paraa agricultura 2.0 que
+ 00:09:47
+
+é tida com a revolução verde não é E aí a
+ 00:09:50
+
+gente tem melhoramento genético uso de
+ 00:09:54
+
+eh pesticidas fertilizantes e o uso aí
+ 00:09:57
+
+mais intenso de maquinários agrícolas e
+ 00:10:02
+
+a partir de
+ 00:10:05
+
+1990 a gente verifica aí e já entra numa
+ 00:10:07
+
+agricultura 3.0 com o uso da agricultura
+ 00:10:11
+
+de precisão taxa variável não é Sistema de
+ 00:10:15
+
+posicionamento global e a utilização de
+ 00:10:19
+
+software e para aplicação agrícola então
+ 00:10:23
+
+eu já Considero que aqui a gente já tem
+ 00:10:26
+
+aí o início de uma agricultura digital
+ 00:10:29
+
+não é
+ 00:10:32
+
+a a agricultura já entrando aí nesse
+ 00:10:33
+
+meio revolucionário do digital no mundo
+ 00:10:36
+
+e passamos paraa agricultura
+ 00:10:42
+
+4.0 que foi mais ou menos a partir de
+ 00:10:45
+
+2010 e o que a gente tá vivendo até
+ 00:10:49
+
+agora não é a agricultura 4.0 e Agricultura
+ 00:10:51
+
+5.0 que eu diria que estamos aí eh já na
+ 00:10:55
+
+agricultura digital mesmo não é com a
+ 00:10:59
+
+eh quando a gente tem aí o uso de
+ 00:11:03
+
+Inteligência Artificial da robótica de
+ 00:11:06
+
+rede de sensores de drones
+ 00:11:09
+
+eh trabalhando já com imagens de
+ 00:11:11
+
+satélites eh Big datas já já é realidade
+ 00:11:14
+
+no campo a eh desde 2010 a gente já tem
+ 00:11:19
+
+aí no campo essa
+ 00:11:23
+
+realidade e aqui eu vou passar para para
+ 00:11:26
+
+as
+ 00:11:30
+
+características gerais do que foram não é
+ 00:11:31
+
+Eh do que eu obtive das amostras desses
+ 00:11:34
+
+dessas pessoas que responderam e a gente
+ 00:11:37
+
+tem aí uma predominância e já é visto
+ 00:11:40
+
+quando a gente faz vários estudos que a
+ 00:11:43
+
+predominância masculina não é tivemos aí
+ 00:11:46
+
+85% dos respondentes do sexo masculino
+ 00:11:50
+
+eh 80% com ensino superior e ou
+ 00:11:55
+
+pós-graduação
+ 00:12:00
+
+eh maiores de 60 anos experiência de 10
+ 00:12:02
+
+e 20 anos de trabalho na agricultura
+ 00:12:07
+
+foram 31,48 por. e
+ 00:12:09
+
+57
+ 00:12:14
+
+57% uma renda advinda de outras
+ 00:12:15
+
+atividades quase 98% dos dos
+ 00:12:19
+
+respondentes falaram que tem filho e que
+ 00:12:22
+
+3S qu4 desses acreditam que pelo menos
+ 00:12:25
+
+um filho Continuará a trabalhar com
+ 00:12:27
+
+agricultura Ou seja a gente tem aí uma
+ 00:12:30
+
+sucessão familiar
+ 00:12:32
+
+eh houve também uma concentração não é dos
+ 00:12:35
+
+respondentes E aí eu coloquei esse mapa
+ 00:12:39
+
+ao lado que mostra as regiões que mais
+ 00:12:41
+
+respond as regiões que responderam e a
+ 00:12:43
+
+gente teve uma concentração na região
+ 00:12:46
+
+centro-oeste considerando aí Goiás Mato
+ 00:12:49
+
+Grosso e Distrito Federal com
+ 00:12:51
+
+57,4 dos respondentes essa região já
+ 00:12:54
+
+conhecida eh por nós como uma grande
+ 00:12:58
+
+região produtora de
+ 00:13:02
+
+grãos e quais foram os produtos mais
+ 00:13:04
+
+cultivados por esses produtores
+ 00:13:07
+
+44,29 responderam que produzem soja
+ 00:13:10
+
+eh feijão com 20% e o milho com
+ 00:13:14
+
+17,14 desses respondentes E aí a gente
+ 00:13:19
+
+foi eh perguntar sobre o tamanho da
+ 00:13:22
+
+fazenda então
+ 00:13:25
+
+31,30 eh7 % responderam que possuem
+ 00:13:27
+
+propriedades com de eh entre com 1000
+ 00:13:31
+
+hear
+ 00:13:35
+
+28,83 por com 5.000 haar e eh 26,83 por
+ 00:13:37
+
+são os eh eles falaram que eles são os
+ 00:13:44
+
+reais proprietários e 20%
+ 00:13:47
+
+com tamanho de fazenda de 500 a 1000
+ 00:13:51
+
+haar de efetiva exploração produtiva eh
+ 00:13:54
+
+desses eh respondentes desses produtores
+ 00:13:59
+
+eh 51% eh 51,85 por Eles responderam que
+ 00:14:02
+
+eles têm até 10 funcionários e um terç
+ 00:14:07
+
+desse
+ 00:14:11
+
+eh delas tem um número bem distribuído
+ 00:14:12
+
+que foi entre que ficou entre 12 e 78
+ 00:14:15
+
+funcionários bom a renda bruta anual
+ 00:14:20
+
+desses produtores dos que possuem entre
+ 00:14:23
+
+10.000 e 1 milhão foi de 37%
+ 00:14:26
+
+e foi seguida aí entre 10 e 100 milhões
+ 00:14:29
+
+ficou em segundo colocação lugar aí
+ 00:14:34
+
+Nesse
+ 00:14:37
+
+quesito a gente percebe com esses dados
+ 00:14:39
+
+só falando um pouco que a gente teve aí
+ 00:14:42
+
+que um percentual grande de produtores
+ 00:14:45
+
+que são considerados grandes
+ 00:14:49
+
+produtores eh perguntamos também sobre
+ 00:14:52
+
+se eles utilizam software ou algum
+ 00:14:56
+
+aplicativo tivo de operações bancárias
+ 00:14:58
+
+via internet e
+ 00:15:00
+
+96,3 por responderam que sim que eles
+ 00:15:03
+
+utilizam é o que a gente vê não é o mundo
+ 00:15:07
+
+está eh nessa eh eh está no digital e as
+ 00:15:09
+
+eh o que a gente vê de várias
+ 00:15:15
+
+instituições bancárias e de startups
+ 00:15:17
+
+novas nesse setor que está usando muito
+ 00:15:19
+
+essa essa tecnologia essa inovação os
+ 00:15:23
+
+produtores também responderam
+ 00:15:27
+
+quase 91% que eles acompanham a previsão
+ 00:15:29
+
+climática por meio de aplicativos e que
+ 00:15:33
+
+utilizam também aplicativos para fazer o
+ 00:15:37
+
+manejo agrícola não é e 70% responderam que
+ 00:15:39
+
+utilizam algum software para fazer a
+ 00:15:44
+
+gestão de propriedades e aí já mostra
+ 00:15:46
+
+que a agricultura no Brasil ela já é
+ 00:15:49
+
+digital com esses números eu fiquei
+ 00:15:52
+
+muito feliz também quando perguntamos se
+ 00:15:55
+
+possuem dap e 90% respondeu que não mas
+ 00:15:59
+
+eu percebi que 10% já que eu queria
+ 00:16:02
+
+atingir um público maior disseram que
+ 00:16:05
+
+não possuem dap eh 90% disseram que não
+ 00:16:07
+
+possuem mas 10% éo contrário disseram
+ 00:16:11
+
+que possuem não é então a gente vê que a
+ 00:16:14
+
+agricultura familiar se fez presente
+ 00:16:16
+
+aqui nesse estudo e
+ 00:16:19
+
+61% falaram que eles fazem parte de
+ 00:16:22
+
+alguma cooperativa
+ 00:16:26
+
+5% falaram que possuem um consultor ou
+ 00:16:29
+
+assistência técnica contratada isso é
+ 00:16:33
+
+muito importante e interessante de ver
+ 00:16:35
+
+porque as novas tecnologias elas são
+ 00:16:39
+
+disruptivas eh o produtor tem muita
+ 00:16:42
+
+dificuldade de lidar com elas e quando
+ 00:16:45
+
+eles têm um consultor ou uma assistência
+ 00:16:47
+
+técnica contratada a gente percebe que
+ 00:16:50
+
+facilita a vida do produtor rural 60
+ 00:16:53
+
+quase 6 3% falaram que tem os seus
+ 00:16:58
+
+parceiros não é na atividade agrícola
+ 00:17:01
+
+90% destes respondentes falaram que eles
+ 00:17:06
+
+mesmos administram as suas propriedades
+ 00:17:09
+
+e destes que eles possuem gerentes
+ 00:17:12
+
+abaixo deles não é
+ 00:17:15
+
+68 responderam que sim que contam com
+ 00:17:17
+
+gerentes e
+ 00:17:22
+
+85% responderam que eles pretendiam
+ 00:17:24
+
+expandir seus negócios nos próximos 5
+ 00:17:27
+
+anos essa daí são as características que
+ 00:17:30
+
+a gente verificou eh inerentes ao ao
+ 00:17:33
+
+produtor rural que respondeu a essa
+ 00:17:37
+
+pesquisa e aqui a gente vai passar paraa
+ 00:17:42
+
+análise descritiva das perspectivas e
+ 00:17:45
+
+utilização da Agricultura digital então
+ 00:17:49
+
+nós fizemos uma pergunta que qual era a
+ 00:17:53
+
+opinião dos Agricultores sobre
+ 00:17:56
+
+agricultura digital e os riscos para a
+ 00:17:59
+
+agropecuária e fizemos eh e aí ele
+ 00:18:02
+
+respondeu que
+ 00:18:06
+
+64% acreditavam que a dig
+ 00:18:09
+
+digitalização da Agricultura ela é
+ 00:18:15
+
+favorável para a sustentabilidade
+ 00:18:18
+
+ambiental e é o que a gente já se
+ 00:18:20
+
+percebe o vários estudos mostram eh que
+ 00:18:23
+
+há essa
+ 00:18:27
+
+percepção de que as tecnologias digitais
+ 00:18:29
+
+elas vieram para fazer com que o mundo
+ 00:18:34
+
+eh se o mundo que já está muito
+ 00:18:37
+
+preocupado não é com sustentabilidade possa
+ 00:18:41
+
+ser mais fácil conseguir esse
+ 00:18:44
+
+objetivo quase eh
+ 00:18:47
+
+89% eles acreditam na redução de riscos
+ 00:18:51
+
+inerentes à agricultura eles acreditam
+ 00:18:54
+
+que a tecnologia digital vai eh
+ 00:18:57
+
+Minimizar os riscos inerentes à
+ 00:19:01
+
+agricultura e a gente fez mais uma
+ 00:19:05
+
+pergunta e essa pergunta eu até eh vou
+ 00:19:07
+
+trouxe mais aqui do meu estudo que nós
+ 00:19:10
+
+perguntamos eles
+ 00:19:13
+
+43,75 por falaram que acreditam que os
+ 00:19:16
+
+riscos climáticos são os mais reduzidos
+ 00:19:19
+
+mas nessa pergunta a gente colocou
+ 00:19:22
+
+riscos climáticos eh riscos eh eh
+ 00:19:24
+
+biológicos a questão aí de pragas e
+ 00:19:29
+
+doenças e Nesse quesito 27 responderam
+ 00:19:31
+
+para essa questão de pragas e doenças e
+ 00:19:36
+
+a gente perguntou também em relação aos
+ 00:19:39
+
+preços não é tanto no na compra quanto na
+ 00:19:41
+
+venda e quase
+ 00:19:45
+
+23% responderam que acreditam que a
+ 00:19:47
+
+digitalização da Agricultura possa
+ 00:19:50
+
+reduzir estes riscos e a gente colocou
+ 00:19:53
+
+também crédito agrícola que teve quatro
+ 00:19:56
+
+, 17% dos respondentes colocando como
+ 00:19:58
+
+sim e perguntamos sobre custo de
+ 00:20:02
+
+produção e resultados e apenas
+ 00:20:04
+
+2,08 por falaram eh optaram por essa em
+ 00:20:07
+
+falar que a agricultura digital pode
+ 00:20:13
+
+reduzir Sim esses riscos mas a gente
+ 00:20:16
+
+percebe só analisando aqui na questão de
+ 00:20:19
+
+riscos climáticos que esses riscos eles
+ 00:20:22
+
+vão impactar também
+ 00:20:24
+
+diretamente no crédito agrícola não é
+ 00:20:26
+
+porque se a gente percebe que o produtor
+ 00:20:29
+
+fez
+ 00:20:32
+
+um investimento ou
+ 00:20:33
+
+adquiriu eh financiou aí adquiriu
+ 00:20:36
+
+investimento ou custeio se ele tem ali
+ 00:20:39
+
+uma quebra de Safra pelos riscos
+ 00:20:42
+
+climáticos vai ser difícil ele pagar
+ 00:20:44
+
+então a gente observa que os riscos eles
+ 00:20:47
+
+estão muito
+ 00:20:49
+
+interligados e o produtor percebe
+ 00:20:51
+
+percebendo que se ele pode reduzir esses
+ 00:20:54
+
+riscos climático ele ele tem também uma
+ 00:20:57
+
+maior segurança não é de Honrar com outros
+ 00:20:59
+
+compromissos que ele tem Eh aí a gente
+ 00:21:03
+
+quis perguntar também quais eram as
+ 00:21:08
+
+tecnologias mais utilizadas pelos
+ 00:21:11
+
+produtores e a gente tem aí que já foi
+ 00:21:14
+
+mostrado não é Eh mais de 96% respondendo
+ 00:21:17
+
+que acessam operações bancárias via
+ 00:21:21
+
+internet eh utilizam software softw o
+ 00:21:24
+
+aplicativo de previsão climática ficou
+ 00:21:29
+
+com quase 91% juntamente aí com o uso de
+ 00:21:31
+
+aplicativos de smartphone para manejo
+ 00:21:35
+
+agrícola Confirma aí mais uma vez que a
+ 00:21:40
+
+agricultura está no caminho do já vem a
+ 00:21:43
+
+aí no caminho do digital não é das
+ 00:21:47
+
+tecnologias digitais
+ 00:21:50
+
+eh e a gente eh analisando passamos aí
+ 00:21:53
+
+para um outro que era de fazer uma
+ 00:21:58
+
+análise de como estavam e quais são os
+ 00:22:01
+
+fatores que contribuem para que o
+ 00:22:04
+
+produtor de fato adote eh as tecnologias
+ 00:22:06
+
+digitais no campo e eh para isso a gente
+ 00:22:10
+
+fez essas perguntas para entender como
+ 00:22:14
+
+que o agricultor
+ 00:22:18
+
+ 00:22:19
+
+ele via eh a a questão dele de estar ou
+ 00:22:21
+
+não aberto a essas inovações
+ 00:22:26
+
+e a gente viu que o produtor ele está
+ 00:22:28
+
+aberto sim a novas tecnologias a
+ 00:22:31
+
+inovações
+ 00:22:35
+
+porque quando a gente fez essa pergunta
+ 00:22:37
+
+essa pergunta completa tá assim na hora
+ 00:22:40
+
+de comprar máquinas e equipamentos
+ 00:22:42
+
+prefiro adquiri-los eh com todas as
+ 00:22:44
+
+opções de tecnologias disponível mesmo
+ 00:22:47
+
+se precisar pagar a mais e a gente vê
+ 00:22:50
+
+que o desvio padrão Aí ficou em um
+ 00:22:54
+
+próximo o que mostrou aí da média de que
+ 00:22:57
+
+o produtor ele está disposto a pagar
+ 00:23:00
+
+mais para ele ter uma tecnologia para
+ 00:23:02
+
+ele ter um equipamento que venha com
+ 00:23:04
+
+toda a tecnologia embarcada porque ele
+ 00:23:06
+
+percebe aí algum diferencial algum
+ 00:23:09
+
+benefício para ele dessa
+ 00:23:13
+
+tecnologia mas a gente vê aí na questão
+ 00:23:16
+
+seguinte quando a gente perguntou em
+ 00:23:19
+
+geral estou entre os primeiros do meu
+ 00:23:22
+
+grupo de produtores agrícolas a adquirir
+ 00:23:25
+
+novas te
+ 00:23:27
+
+ou equipamentos novos no mercado e a
+ 00:23:29
+
+gente considera isso como sendo Pioneiro
+ 00:23:31
+
+de logo uma tecnologia sair o produtor
+ 00:23:35
+
+já estar ali junto querendo isso na sua
+ 00:23:37
+
+propriedade e a gente percebe que ficou
+ 00:23:40
+
+perto aí não é Do desvio padrão de um de
+ 00:23:43
+
+que os produtores eles estão abertos sim
+ 00:23:46
+
+à inovação no campo a adquirir novas
+ 00:23:50
+
+tecnologias a colocar isso no seu dia a
+ 00:23:54
+
+dia
+ 00:23:57
+
+e na pergunta seguinte quando a gente
+ 00:23:59
+
+fez eh um questionário do por utilizar
+ 00:24:02
+
+isso o que que ele percebia como
+ 00:24:06
+
+eh benefício para ele não é e eles e mais
+ 00:24:08
+
+de
+ 00:24:12
+
+57% afirmaram que o melhor controle de
+ 00:24:13
+
+custo é o que precisavam para melhorar a
+ 00:24:17
+
+gestão ou seja o produtor ele quando a
+ 00:24:21
+
+gente olha para o produtor rural ele
+ 00:24:25
+
+está muito preocupado em produzir é o
+ 00:24:27
+
+que a gente vê é o que ele gosta não é ele
+ 00:24:31
+
+se preocupa muito com a questão de custo
+ 00:24:34
+
+e com a questão de produção Mas aí o
+ 00:24:36
+
+produtor ele também hoje já percebe que
+ 00:24:39
+
+ele precisa melhorar a gestão e a gestão
+ 00:24:43
+
+a gente fala de um todo não é tanto aquela
+ 00:24:46
+
+antes da Porteira Quanto depois da
+ 00:24:48
+
+Porteira de melhorar a gestão tanto de
+ 00:24:51
+
+produção como gestão de
+ 00:24:54
+
+comercialização porque não adianta você
+ 00:24:57
+
+produzir bem ter uma ótima produtividade
+ 00:24:59
+
+se você não consegue vender aquilo ali
+ 00:25:02
+
+no momento certo com o preço que te eh
+ 00:25:05
+
+vai que V trazer para o produtor eh uma
+ 00:25:09
+
+lucratividade então o produtor ele
+ 00:25:12
+
+precisa e ele está preocupado com isso
+ 00:25:14
+
+como que eu posso melhorar aí os meus
+ 00:25:16
+
+processos e vamos seguir aqui com mais
+ 00:25:19
+
+uma análise sobre os fatores que
+ 00:25:23
+
+contribuem que a gente observou vou E aí
+ 00:25:25
+
+eu fiquei feliz porque já que estamos
+ 00:25:29
+
+aqui nesse canal o extensionista que tem
+ 00:25:31
+
+o objetivo de levar informações para os
+ 00:25:35
+
+produtores a gente fez essas perguntas e
+ 00:25:38
+
+quase
+ 00:25:41
+
+80% confirmaram que os Consultores as
+ 00:25:42
+
+assistências técnicas As feiras e as
+ 00:25:47
+
+Exposições agrícolas são as os grandes
+ 00:25:50
+
+influenciadores para que o produtor
+ 00:25:54
+
+possa usar essas novas tecnologias
+ 00:25:57
+
+digitais Então a gente vai eh percebe o
+ 00:26:00
+
+quão importante eh eh é o consultor ter
+ 00:26:03
+
+um conhecimento a assistência técnica de
+ 00:26:08
+
+tecnologia digital esses Consultores
+ 00:26:11
+
+eles precisam eh estar mais a par dessa
+ 00:26:15
+
+realidade que a gente passa agora nessa
+ 00:26:18
+
+na nossa agricultura de levar isso para
+ 00:26:21
+
+os produtores e e a importância D de
+ 00:26:25
+
+feiras e Exposições porque são nessas
+ 00:26:28
+
+feiras que as tecnologias as inovações
+ 00:26:30
+
+são eh
+ 00:26:33
+
+disponibilizadas e a gente percebe isso
+ 00:26:35
+
+a importância que isso tem no Brasil e
+ 00:26:38
+
+eh maior importância para o produtor que
+ 00:26:42
+
+está ali procurando o que que ele pode
+ 00:26:46
+
+fazer para melhorar a sua
+ 00:26:48
+
+atividade passamos então já que a gente
+ 00:26:54
+
+viu os fatores que
+ 00:26:57
+
+eh ajudam que possibilitam o uso da
+ 00:27:00
+
+tecnologia digital a gente quis ver
+ 00:27:04
+
+também quais são os que limitam por que
+ 00:27:05
+
+que a gente eh ouve falar tanto em
+ 00:27:09
+
+tecnologia digital com uso em diversas
+ 00:27:12
+
+outras áreas e E como tá Quais são as
+ 00:27:14
+
+dificuldades que esses Produtores Rurais
+ 00:27:17
+
+aqui no Brasil eles estão enfrentando aí
+ 00:27:19
+
+no seu dia a dia para poder colocar e e
+ 00:27:22
+
+fazer o uso mais intensivo não é é isso o
+ 00:27:26
+
+uso mais intensivo dessa tecnologia na
+ 00:27:29
+
+sua propriedade e
+ 00:27:32
+
+18,97 eles acreditam que a limitação é a
+ 00:27:36
+
+falta de conhecimento e é aí onde a
+ 00:27:40
+
+gente vê falta de conhecimento do
+ 00:27:42
+
+produtor rural pode ser falta de
+ 00:27:45
+
+conhecimento do técnico do consultor das
+ 00:27:47
+
+assistências técnicas que não está
+ 00:27:52
+
+conseguindo colocar isso no campo passar
+ 00:27:54
+
+essas informações para os produtores e
+ 00:27:58
+
+uma outra que
+ 00:28:00
+
+eh apareceu nesse trabalho porque a
+ 00:28:03
+
+gente tinha algumas perguntas e essa era
+ 00:28:05
+
+uma das que a gente deixava em aberto
+ 00:28:08
+
+colocava os itens e outros e a pessoa
+ 00:28:11
+
+poderia citar eh qual Outro fator a
+ 00:28:13
+
+gente queria descobrir quais outros
+ 00:28:16
+
+fatores que que a gente não contemplou
+ 00:28:18
+
+não é não falou nos itens e foi muito
+ 00:28:20
+
+interessante que
+ 00:28:23
+
+eh
+ 00:28:24
+
+22,41 por C escolheram essa opção de
+ 00:28:27
+
+outras limitações e eles falaram e aqui
+ 00:28:30
+
+eu vou trazer para vocês o que eu achei
+ 00:28:33
+
+que mais importante e se quiserem mais
+ 00:28:35
+
+detalhado no final vou deixar o link aí
+ 00:28:39
+
+do meu trabalho para que vocês possam
+ 00:28:41
+
+acessar mas muitos falaram assim acesso
+ 00:28:43
+
+a dados eles têm dificuldade de acessar
+ 00:28:47
+
+dados
+ 00:28:50
+
+eh a gente percebe que hoje com as
+ 00:28:51
+
+máquinas eh agrícolas muas tem vários
+ 00:28:54
+
+sensores com bastante informação então
+ 00:28:58
+
+no campo a gente sabe que a geração de
+ 00:29:00
+
+dados é imensa e o produtor ele precisa
+ 00:29:02
+
+explorar esses dados ele precisa fazer
+ 00:29:06
+
+com que esses dados eh se transformem em
+ 00:29:08
+
+informação então Eles responderam assim
+ 00:29:12
+
+acesso a
+ 00:29:14
+
+dados responderam também baixa
+ 00:29:15
+
+assertividade eh o produtor tá com essa
+ 00:29:18
+
+dificuldade de saber se é assertivo essa
+ 00:29:21
+
+tecnologia eu posso confiar ou não a
+ 00:29:25
+
+gente tem muito verifica isso na questão
+ 00:29:28
+
+se a gente for olhar da dos de clima
+ 00:29:30
+
+onde a gente não tá conseguindo hoje por
+ 00:29:34
+
+vários fatores não é Eh dizer com maior
+ 00:29:37
+
+precisão do de como o clima vai se
+ 00:29:39
+
+comportar e uma eh outra questão que foi
+ 00:29:41
+
+falada assim falta de comunicação os
+ 00:29:47
+
+produtores estão vendo essa dificuldade
+ 00:29:50
+
+e um outro que eu achei interessante é
+ 00:29:52
+
+que falou assim Falta de relatórios
+ 00:29:54
+
+gerenciais
+ 00:29:56
+
+vinculados com dados da alta gestão eh
+ 00:29:58
+
+integração entre sistemas Então a gente
+ 00:30:02
+
+tem dois pontos aí que eu vi no meu
+ 00:30:04
+
+trabalho e que já percebo vários estudos
+ 00:30:08
+
+nessa questão que é o a connectividade
+ 00:30:10
+
+no campo ou falado internet das coisas
+ 00:30:14
+
+não é é IOT a sigla em inglês o produtor
+ 00:30:18
+
+ele quer isso
+ 00:30:22
+
+eh e outros falaram assim integração
+ 00:30:23
+
+entre técnicos Plata forma incompleta
+ 00:30:26
+
+eh a gente tava Esse meu trabalho foi em
+ 00:30:29
+
+2020 estávamos ali na pandemia e foi a
+ 00:30:32
+
+partir daí que a gente vê um crescimento
+ 00:30:36
+
+das plataformas digitais do da
+ 00:30:38
+
+Agricultura digital de tudo digital o
+ 00:30:41
+
+que a gente acompanhou a pandemia trouxe
+ 00:30:43
+
+isso mas os produtores eles percebiam
+ 00:30:46
+
+que as plataformas quem tinha acesso
+ 00:30:49
+
+estavam incompletas então quem sabe aí
+ 00:30:52
+
+para as startups as empresas desse
+ 00:30:54
+
+pensar em Como melhorar as suas
+ 00:30:58
+
+plataformas um reclamou também e o que
+ 00:31:01
+
+eu observava no campo que essa
+ 00:31:04
+
+reclamação também quando eu questionava
+ 00:31:06
+
+os produtores nas minhas visitas era o
+ 00:31:08
+
+pós-venda ou seja o produtor ele adquire
+ 00:31:11
+
+um produto com alta tecnologia mas na
+ 00:31:14
+
+hora da manutenção na hora que dá algum
+ 00:31:17
+
+problema quando ele aciona a empresa a
+ 00:31:20
+
+empresa não está ali presente ele tem
+ 00:31:23
+
+essa dificuldade
+ 00:31:26
+
+então eh ele e outro colocou assim O
+ 00:31:28
+
+Retorno constante à propriedade Então eu
+ 00:31:32
+
+imagino que seja um sonho assim de
+ 00:31:34
+
+colocar tudo digital lá de casa eu
+ 00:31:37
+
+aperto e vai fazer a irrigação vai fazer
+ 00:31:39
+
+a aplicação dos insumos e penso nessa
+ 00:31:42
+
+forma mas é o que a agricultura se
+ 00:31:47
+
+desenha e que eu imagino que as
+ 00:31:50
+
+tecnologias digitais vão fazer isso
+ 00:31:52
+
+mesmo no futuro não é o produtor vai poder
+ 00:31:55
+
+gerenciar a sua propriedade de de modo
+ 00:31:58
+
+remoto o que seria muito interessante e
+ 00:32:01
+
+passando aqui a gente verificou mais
+ 00:32:05
+
+fatores que limitam E aí foi
+ 00:32:07
+
+eh uma questão que a gente já sabia já
+ 00:32:10
+
+imaginavam da dificuldade da
+ 00:32:14
+
+disponibilidade de internet nas
+ 00:32:16
+
+propriedades porque para você utilizar
+ 00:32:19
+
+essa tecnologia digital e fazer com que
+ 00:32:22
+
+eh a conectiv
+ 00:32:25
+
+entre o as máquinas entre software a
+ 00:32:28
+
+gente precisa de uma internet banda
+ 00:32:33
+
+larga Por que banda larga porque a banda
+ 00:32:35
+
+larga ela faz com que você consiga fazer
+ 00:32:38
+
+o upload e o download em tempo ali real
+ 00:32:40
+
+então o produtor ele vai ter essa
+ 00:32:43
+
+informação em tempo real para ele tomar
+ 00:32:47
+
+ali a sua decisão do que fazer então a
+ 00:32:49
+
+gente tem essa dificuldade que foi
+ 00:32:53
+
+apontada aí pelos produtores o principal
+ 00:32:55
+
+impecílio quando a gente cita aqui foi a
+ 00:32:58
+
+questão da internet nas propriedades e
+ 00:33:01
+
+eu vou trazer até aqui a questão que os
+ 00:33:04
+
+produtores não é eles eh eh tem um estudo
+ 00:33:08
+
+que é do Milanês em que ele fala que os
+ 00:33:12
+
+produtores eles desconhecem o custo no
+ 00:33:15
+
+meu trabalho mostrou que eles até
+ 00:33:19
+
+conhecem e entendem dos benefícios da
+ 00:33:21
+
+tecnologia digital Mas eles desconhecem
+ 00:33:23
+
+os custos da de colocar isso no campo
+ 00:33:25
+
+quando eh de que eles desconhecem do que
+ 00:33:28
+
+que essas novas tecnologias pode trazer
+ 00:33:33
+
+de retorno financeiro para ele e eu vou
+ 00:33:36
+
+trazer aqui um dado
+ 00:33:39
+
+eh que produtores eh dados aqui de um
+ 00:33:40
+
+estudo de 2020 que fez um cálculo do
+ 00:33:45
+
+investimento mínimo para que um produtor
+ 00:33:48
+
+pode fazer para receber uma internet
+ 00:33:51
+
+banda larga e na época variava entre 10
+ 00:33:54
+
+a R 40 ou R A R 40 por hectare e isso
+ 00:33:57
+
+seria em torno de 10
+ 00:34:04
+
+a 15% do valor de uma saca de soja e aí
+ 00:34:07
+
+se a gente admite que o Brasil tem uma
+ 00:34:11
+
+produtividade média de soja de 3208 kg
+ 00:34:13
+
+por hectare se fizer esse cálculo mesmo
+ 00:34:17
+
+com o investimento sendo mais alto de R
+ 00:34:20
+
+40 por
+ 00:34:22
+
+eh hectare o investimento do Produtor
+ 00:34:24
+
+ele já tem um retorno recuperado com um
+ 00:34:29
+
+aumento de 1% na produtividade ao ano
+ 00:34:32
+
+então a gente vê que o grande produtor
+ 00:34:36
+
+ele pode sim ter esse investimento mas
+ 00:34:39
+
+se o grande produtor faz acaba que esse
+ 00:34:42
+
+investimento fica só restrito à área
+ 00:34:45
+
+dele e a fazenda e a gente tem que
+ 00:34:47
+
+pensar também no médio e no pequeno e no
+ 00:34:49
+
+agricultor familiar que ficaria de fora
+ 00:34:52
+
+então a gente percebe que essa
+ 00:34:55
+
+disponibilidade de internet tem que ser
+ 00:34:57
+
+uma ação conjunta aí de governo
+ 00:34:59
+
+de das empresas que disponibilizam essa
+ 00:35:02
+
+internet para colocar para fazer uma
+ 00:35:06
+
+cobertura mais Ampla no campo porque a
+ 00:35:08
+
+depender de como é a propriedade se tem
+ 00:35:11
+
+eh se é mais plana ou não você vai
+ 00:35:14
+
+precisar aí de um investimento
+ 00:35:17
+
+maior E aí nós tivemos o o eh as
+ 00:35:20
+
+questões aí não é que tem de aprendizagem
+ 00:35:25
+
+desses programas aplicativos ou
+ 00:35:28
+
+equipamentos vem em segundo lugar
+ 00:35:31
+
+dificuldade que o que o produtor
+ 00:35:32
+
+encontra dificuldade da coleta de dados
+ 00:35:34
+
+manuais Claro eh quando a gente ir numa
+ 00:35:37
+
+visita minha a Campo o produtor com uma
+ 00:35:41
+
+máquina maravilhosa e quando eu
+ 00:35:43
+
+perguntei o que que essa máquina faz faz
+ 00:35:47
+
+muita coisa era uma plantadeira Então
+ 00:35:49
+
+ela passa ela vai tem sensores que ela
+ 00:35:53
+
+traz vários dados de como que está o
+ 00:35:56
+
+solo e eu perguntei o que que você faz
+ 00:35:58
+
+com esses dados aí ele falou ah às vezes
+ 00:36:00
+
+o operador esquece de passar para o pen
+ 00:36:03
+
+drive e colocar lá no computador do
+ 00:36:06
+
+escritório e e eh o dia a dia do
+ 00:36:08
+
+Produtor é muito corrido então fazer
+ 00:36:12
+
+isso manual ele vê uma certa dificuldade
+ 00:36:14
+
+e aí a conectividade já iria fazer isso
+ 00:36:18
+
+em tempo real sem precisar dessa
+ 00:36:20
+
+interferência humana eh desconhecimento
+ 00:36:23
+
+de aplicativos o produtor
+ 00:36:27
+
+22,22 responderam que essa era a
+ 00:36:30
+
+dificuldade e a desconfiança na
+ 00:36:33
+
+segurança de dados quase eh
+ 00:36:36
+
+20,37 responderam dessa
+ 00:36:39
+
+dificuldade Então a gente tem que
+ 00:36:42
+
+trabalhar aí muito com a questão da
+ 00:36:44
+
+segurança se pensarmos em plataformas na
+ 00:36:46
+
+questão de est startups não é para passar
+ 00:36:50
+
+essa segurança para os
+ 00:36:53
+
+produtores e a gente fez uma pergunta
+ 00:36:55
+
+sobre afirmando assim se eles
+ 00:36:59
+
+desconheciam os benefícios trazidos pela
+ 00:37:02
+
+inserção da tecnologia digital no
+ 00:37:05
+
+ambiente agrícola e
+ 00:37:08
+
+77,78 por eles discordaram dessa
+ 00:37:11
+
+afirmativa não é ou seja eles sabem os
+ 00:37:14
+
+benefícios que a tecnologia digital pode
+ 00:37:17
+
+trazer para ele e aí tem um estudo
+ 00:37:21
+
+abaixo que eles afir que eu falei não é que
+ 00:37:24
+
+é o que Milan eles afirma que o produtor
+ 00:37:26
+
+desconhece os custos e os benefícios
+ 00:37:29
+
+nesse meu estudo quanto aos benefícios
+ 00:37:31
+
+eles conhecem o que o produtor está
+ 00:37:33
+
+desconhecendo aí eh são os custos com
+ 00:37:36
+
+investimento nessa
+ 00:37:39
+
+tecnologia e eh nessa análise
+ 00:37:42
+
+exploratória a gente fez eh pegamos as
+ 00:37:46
+
+perguntas em que ele respondeu sim ou
+ 00:37:49
+
+não e com aquelas três perguntas que eu
+ 00:37:51
+
+citei não é No início qual seria a
+ 00:37:53
+
+proporção
+ 00:37:56
+
+e a gente percebeu que quem usa
+ 00:37:58
+
+tecnologias de programa de controle de
+ 00:38:01
+
+fluxo de caixa eh e veículos Aéreos não
+ 00:38:03
+
+tripulados os vantes para gerar mapa de
+ 00:38:06
+
+eh de de vegetação eles diferiram em
+ 00:38:10
+
+30% em 30 pontos percentuais nos grupos
+ 00:38:14
+
+dos que concordavam e discordavam que
+ 00:38:17
+
+que a gente observa que isso está
+ 00:38:21
+
+relacionado àqueles que responderam que
+ 00:38:23
+
+são Pioneiros que eles adquirem
+ 00:38:25
+
+eh assim que
+ 00:38:28
+
+são lançadas não é são Pioneiros nessas
+ 00:38:30
+
+tecnologias a gente percebeu que esses
+ 00:38:33
+
+dois são os grupos que diferiram mais do
+ 00:38:35
+
+que concordavam E discordavam então que
+ 00:38:38
+
+tem aí
+ 00:38:41
+
+Alguma eh vinculação quanto eh quanto
+ 00:38:42
+
+aqueles que utilizam que aí a gente já
+ 00:38:46
+
+considera uso de drones
+ 00:38:48
+
+e de program de controle de fluxo de
+ 00:38:50
+
+caixa como uma tecnologia maior o
+ 00:38:53
+
+produtor aí percebendo que que Aqueles
+ 00:38:56
+
+não é que se consideram Pioneiros
+ 00:38:59
+
+adquirindo Essas tecnologias e em
+ 00:39:02
+
+relação às outras tecnologias a gente
+ 00:39:05
+
+não eh observou nenhuma relação muito
+ 00:39:07
+
+perceptível não é de diferenças
+ 00:39:09
+
+alternativas aí as respostas ficaram
+ 00:39:12
+
+muito próximas as duas que diferiram
+ 00:39:14
+
+foram essas que elas estão aí com uma
+ 00:39:16
+
+diferença de 30% uma em relação à
+ 00:39:19
+
+outra desculpa e a gente seguiu com
+ 00:39:25
+
+essas eh analisando as proporções
+ 00:39:28
+
+só um
+ 00:39:33
+
+minuto
+ 00:39:35
+
+eh paraa gente verificar aqui como que
+ 00:39:37
+
+estavam eh em relação
+ 00:39:41
+
+a entre a as perguntas que nós fizemos
+ 00:39:44
+
+não é e programa para controle de fluxo de
+ 00:39:48
+
+caixa uso de indicador de gerenciador de
+ 00:39:51
+
+propriedades
+ 00:39:55
+
+uso de vans de veículos Aéreos não
+ 00:39:57
+
+tripulado para gerar mapa e monitoria de
+ 00:40:00
+
+operações via sensores era a proporção
+ 00:40:03
+
+de quem utiliza determinada tecnologia
+ 00:40:06
+
+em relação ao pioneirismo em adquirir
+ 00:40:09
+
+novas e eh em relação aos produtores que
+ 00:40:11
+
+falaram que eles eh compram que eles
+ 00:40:15
+
+Estão dispostos a adquirir produtos mais
+ 00:40:18
+
+caros e
+ 00:40:20
+
+recém-lançados a gente teve aí uma
+ 00:40:21
+
+possível relação entre as perguntas
+ 00:40:23
+
+programa para controle de fluxo de caixa
+ 00:40:26
+
+e monitoria de operações via sensores
+ 00:40:29
+
+essas duas perguntas aí elas deferiram
+ 00:40:32
+
+em 30% de quem concorda e discorda com
+ 00:40:35
+
+essa afirmação De que De quem dos que
+ 00:40:39
+
+disseram não é que comprariam sim eh
+ 00:40:41
+
+produtos lançados mesmo que fossem mais
+ 00:40:45
+
+caros desde que estivessem toda uma
+ 00:40:48
+
+tecnologia
+ 00:40:51
+
+embarcada e nessa relação a gente fez
+ 00:40:54
+
+Qual a relação não é entre adquirir
+ 00:40:57
+
+equipamentos com toda a tecnologia e o
+ 00:40:59
+
+grau de escolaridade do respondente e o
+ 00:41:02
+
+que a gente viu que nos grupos que
+ 00:41:05
+
+falaram que tinha ensino médio e ensino
+ 00:41:08
+
+superior uma maior proporção de quem
+ 00:41:10
+
+concorda e a gente percebeu uma maior
+ 00:41:12
+
+proporção de quem discorda aí no grupo
+ 00:41:15
+
+de que possui pós-graduação o que pode
+ 00:41:18
+
+isso mostrar é que quem sabe quem possui
+ 00:41:22
+
+uma pós--graduação seja mais question
+ 00:41:25
+
+ador não é de verificar essa tecnologia
+ 00:41:27
+
+traz isso mesmo traz o que promete
+ 00:41:29
+
+preciso ter certeza fizemos essa mesma a
+ 00:41:33
+
+pergunta em relação ao uso de software
+ 00:41:37
+
+para manejo agrícola e em relação a faix
+ 00:41:40
+
+etária escolaridade tempo de trabalho na
+ 00:41:43
+
+agricultura e proporção de pais
+ 00:41:46
+
+agricultores dos respondentes e a gente
+ 00:41:48
+
+viu que entre 30 e 40 anos e Entre 50 e
+ 00:41:51
+
+60 anos há uma proporção maior para eh
+ 00:41:55
+
+para os que não utilizam esse software
+ 00:41:59
+
+para manejo agrícola Enquanto nas demais
+ 00:42:03
+
+faixas etárias a gente percebeu que
+ 00:42:05
+
+prevalece a proporção de usuários de
+ 00:42:07
+
+softwares para esse fim quanto ao tempo
+ 00:42:11
+
+de trabalho na agricultura há uma maior
+ 00:42:14
+
+proporção de usuários de software para
+ 00:42:16
+
+manejo Agrícola no grupo de 20 a 40 anos
+ 00:42:18
+
+eh de trabalho esse grupo que por estar
+ 00:42:22
+
+a gente imagina mais tempo no campo ele
+ 00:42:26
+
+percebe que sim essa tecnologia vai me
+ 00:42:29
+
+ajudar não é ter um software para me ajudar
+ 00:42:32
+
+aqui na gestão
+ 00:42:34
+
+é eh de manejo é muito importante e
+ 00:42:36
+
+quanto aos pais agricultores a proporção
+ 00:42:41
+
+de usuários de software para manejo
+ 00:42:43
+
+agrícola foi de 3/4 e enquanto apenas
+ 00:42:45
+
+Metade dos que não possuem pais
+ 00:42:49
+
+agricultores utilizam software de manejo
+ 00:42:51
+
+agrícola
+ 00:42:56
+
+nós fizemos também a relação entre usar
+ 00:42:58
+
+softwares para gestão de propriedades e
+ 00:42:59
+
+essas variáveis demográficas
+ 00:43:02
+
+sociodemográficas e a gente percebeu que
+ 00:43:05
+
+propriedades produtoras de grãos a utili
+ 00:43:08
+
+eh que utilizam ficou acima de
+ 00:43:11
+
+85% e nas culturas de feijão e sorgo
+ 00:43:13
+
+ficou 100% que a gente imagina que é o
+ 00:43:16
+
+grande que já eh o produtor que já tem
+ 00:43:19
+
+aí na sua propriedade já produz soja e
+ 00:43:22
+
+milho
+ 00:43:26
+
+já utilizando mas e aqueles que além
+ 00:43:27
+
+disso tem o feijão fazem ainda a
+ 00:43:31
+
+produção de feijão e sorgo tendo aí 100%
+ 00:43:34
+
+da sua produtividade da sua propriedade
+ 00:43:37
+
+dentro aí utilizando software para
+ 00:43:40
+
+gestão de propriedades Vimos que a
+ 00:43:43
+
+partir de 100 hear quanto maior o
+ 00:43:45
+
+tamanho da Fazenda maior a proporção de
+ 00:43:47
+
+uso desse aplicativo e fazendas a partir
+ 00:43:49
+
+de 10 funcionários
+ 00:43:52
+
+desculpa gente eh utilizam aí esse
+ 00:43:57
+
+aplicativo de gestão de
+ 00:44:01
+
+propriedades fizemos também a relação
+ 00:44:03
+
+entre utiliza software para gestão de
+ 00:44:05
+
+propriedade e continuando aqui não é e
+ 00:44:08
+
+variáveis
+ 00:44:11
+
+sociodemográficas estados do centrooeste
+ 00:44:12
+
+a proporção de uso dessa tecnologia foi
+ 00:44:15
+
+maior que 80% e a gente percebeu o que
+ 00:44:18
+
+no norte e nordeste do país o que a
+ 00:44:22
+
+gente já imagin
+ 00:44:25
+
+e o que a gente já sabe por meio de
+ 00:44:27
+
+outros estudos é que é pouco utilizado e
+ 00:44:30
+
+é uma houve uma maior percepção no
+ 00:44:35
+
+estado da Bahia e a gente vai considerar
+ 00:44:37
+
+aí o a região oeste da Bahia que é aí um
+ 00:44:40
+
+maior é um grande Produtor na Bahia de
+ 00:44:44
+
+grãos que
+ 00:44:46
+
+eh onde foi a gente viu na região
+ 00:44:48
+
+Nordeste o estado que teve eh exceção não é
+ 00:44:51
+
+em relação ao uso de de software do e em
+ 00:44:54
+
+relação ao resto do Nordeste há uma
+ 00:44:58
+
+relação entre o interesse em Expandir os
+ 00:45:01
+
+negócios e o uso de software para gestão
+ 00:45:04
+
+eh pois mais de
+ 00:45:07
+
+73% utilizam software de gestão quanto
+ 00:45:09
+
+maior a receita bruta do imóvel maior a
+ 00:45:13
+
+proporção de usuários e todas as
+ 00:45:16
+
+propriedades com receita bruta anual
+ 00:45:20
+
+entre 10 e 1 bilhão utilizavam software
+ 00:45:23
+
+de de
+ 00:45:26
+
+gestão daqueles que responderam que
+ 00:45:27
+
+fazem parte de um grupo de troca de
+ 00:45:29
+
+experiência apresentaram significado
+ 00:45:32
+
+aumento na proporção de uso de
+ 00:45:34
+
+aplicativos para a gestão de propriedade
+ 00:45:36
+
+essa foi uma pergunta que a gente
+ 00:45:38
+
+colocou a troca de experiência não é que
+ 00:45:39
+
+estava ali entre os itens e esse quem
+ 00:45:41
+
+respondeu que acha interessante e que
+ 00:45:44
+
+adquire essas novas tecnologias
+ 00:45:47
+
+conhecimento A partir dessa troca de
+ 00:45:49
+
+experiência a gente considera aí troca
+ 00:45:51
+
+de experiência com vizinhos troca de
+ 00:45:52
+
+experiência com eh Consultores com
+ 00:45:55
+
+assistência técnica eh faziam uso de
+ 00:45:58
+
+aplicativo de gestão da propriedade e os
+ 00:46:02
+
+que responderam que possuíam consultor
+ 00:46:05
+
+ou assistência técnica contratado
+ 00:46:07
+
+representavam um significativo aumento
+ 00:46:10
+
+na proporção do uso de aplicativos para
+ 00:46:12
+
+a gestão de propriedade isso aí Confirma
+ 00:46:15
+
+corrobora com o que a gente verifica
+ 00:46:18
+
+assistência técnica consultor ele tem
+ 00:46:21
+
+que tá aí eh desenvolver o conhecimento
+ 00:46:23
+
+sobre as tecnologias digitais para levar
+ 00:46:27
+
+isso para os produtores
+ 00:46:30
+
+eh fizemos a relação entre a adoção de
+ 00:46:32
+
+tecnologias eh para precisar melhorar a
+ 00:46:35
+
+gestão da propriedade eh o grupo que
+ 00:46:39
+
+discorda de que melhorar a gestão da
+ 00:46:42
+
+propriedade não é um determinante para a
+ 00:46:45
+
+utilização das tecnologias digitais na
+ 00:46:47
+
+produção agrícola
+ 00:46:50
+
+100% administram suas propriedades e de
+ 00:46:52
+
+Diferentemente do grupo que concorda com
+ 00:46:56
+
+o determinante eh onde
+ 00:46:58
+
+93% administram suas propriedades esses
+ 00:47:02
+
+grupos também foi o que registrou 71,7
+ 00:47:05
+
+4% que tem gerentes nas suas
+ 00:47:08
+
+propriedades e aqui a gente vai
+ 00:47:13
+
+finalizando aqui eu trago as conclusões
+ 00:47:15
+
+do que esse trabalho trouxe eh mostrou
+ 00:47:18
+
+para a gente eh sobre apresentar a
+ 00:47:22
+
+evolução da agricultura tal a adoção de
+ 00:47:25
+
+novas tecnologias disruptivas é um
+ 00:47:29
+
+caminho sem volta no meio Rural
+ 00:47:32
+
+eh mostramos aí uma evolução conceitual
+ 00:47:35
+
+das tecnologias inovadoras e que hoje é
+ 00:47:39
+
+denominada de agricultura digital
+ 00:47:42
+
+eh a agricultura 4.0 5.0 hoje está com
+ 00:47:45
+
+essa denominação aí de agricultura
+ 00:47:50
+
+digital e a gente elaborou esse
+ 00:47:52
+
+questionário exploratório que foi foi
+ 00:47:55
+
+aplicado para os produtores
+ 00:47:57
+
+eh nos objetivos ali quanto a
+ 00:47:59
+
+identificar Quais foram os fatores
+ 00:48:02
+
+motivadores e impeditivos que
+ 00:48:05
+
+influenciam as decisões não é dos
+ 00:48:06
+
+produtores em adotar tecnologia
+ 00:48:08
+
+digital eles acreditam que a agricultura
+ 00:48:12
+
+digital é favorável para a
+ 00:48:14
+
+sustentabilidade ambiental além de
+ 00:48:16
+
+reduzir os custos inerentes de produção
+ 00:48:19
+
+e a gente observou como eu já apresentei
+ 00:48:21
+
+principalmente os riscos climáticos os
+ 00:48:24
+
+produtores eles são propícios a a
+ 00:48:27
+
+adquirir máquinas equipamentos com
+ 00:48:30
+
+tecnologia disponível tecnologia digital
+ 00:48:33
+
+toda embarcada nas máquinas e nos
+ 00:48:36
+
+equipamentos e a gente observou que uma
+ 00:48:39
+
+grande parte já utiliza program de
+ 00:48:42
+
+controle de fluxo de caixa
+ 00:48:44
+
+mensal e que parte desses já utilizam
+ 00:48:46
+
+drones drones nas suas eh nas suas
+ 00:48:49
+
+propriedades para gerar mapas de
+ 00:48:53
+
+vegetação
+ 00:48:55
+
+observamos também que o nível de
+ 00:48:57
+
+escolaridade vai influenciar na
+ 00:48:59
+
+propensão
+ 00:49:02
+
+inovativa quando a gente observa aí
+ 00:49:03
+
+esses dados que eu já apresentei em
+ 00:49:06
+
+quando eles afirmam que preferem
+ 00:49:09
+
+adquirir máquinas e equipamentos com
+ 00:49:11
+
+toda a tecnologia disponível e a maior
+ 00:49:13
+
+barreira que a gente viu a falta de
+ 00:49:16
+
+internet no campo foi apontada aí como
+ 00:49:18
+
+sendo a principal barreira que o
+ 00:49:22
+
+produtor
+ 00:49:23
+
+eh obsa nas suas propriedades eh quanto
+ 00:49:25
+
+a a dimensionar as perspectivas dos
+ 00:49:29
+
+Agricultores e as verificações acerca do
+ 00:49:32
+
+cenário atual da Agricultura digital eh
+ 00:49:36
+
+das tecnologias digitais inseridas na
+ 00:49:39
+
+agricultura brasileira o centro-oeste aí
+ 00:49:42
+
+é a região que mais adota tecnologias
+ 00:49:45
+
+digitais
+ 00:49:47
+
+eh em relação à localização das
+ 00:49:48
+
+propriedades e o uso de gestão de ou de
+ 00:49:51
+
+softwares o aplicativo para gestão de
+ 00:49:55
+
+propriedades há um forte decréscimo na
+ 00:49:57
+
+região Nordeste do país
+ 00:50:00
+
+eh os usuários de aplicativos de gestão
+ 00:50:03
+
+de propriedades são na sua maioria 80%
+ 00:50:06
+
+proprietários de fazendas com grandes
+ 00:50:09
+
+extensões entre 500 e 1000 hectares E
+ 00:50:11
+
+esses são os mais propensos a fazer
+ 00:50:16
+
+parte de grupos de troca de experiência
+ 00:50:18
+
+são os que possuem Consultores eh
+ 00:50:21
+
+técnicos contratados e possuem também
+ 00:50:24
+
+uma maior renda bruta anual
+ 00:50:27
+
+eh os agricultores eles têm ciência dos
+ 00:50:29
+
+benefícios da Agricultura digital e eles
+ 00:50:33
+
+desejam digitalizar as suas atividades e
+ 00:50:36
+
+verificamos aí uma forte relação entre o
+ 00:50:40
+
+uso do software de gestão com o
+ 00:50:42
+
+interesse do Produtor em Expandir os
+ 00:50:44
+
+seus negócios eh com uma renda bruta
+ 00:50:47
+
+anual eh entre 10 e 1 bilhão eh de reais
+ 00:50:50
+
+das suas propriedades e propriedades a
+ 00:50:55
+
+partir de 100 haar e que possuíam 10
+ 00:50:57
+
+funcionários e os mesmos que têm que
+ 00:51:00
+
+possuem Consultores e assistências
+ 00:51:03
+
+técnicas contratadas e a gente observou
+ 00:51:05
+
+aí que a nova geração de agricultores
+ 00:51:08
+
+são os que mais utilizam softwares para
+ 00:51:10
+
+manejo agrícola Ou seja a nova geração
+ 00:51:14
+
+tá levando para os seus pais
+ 00:51:18
+
+agricultores ou Estão levando para
+ 00:51:20
+
+dentro da Agricultura que isso pode ser
+ 00:51:23
+
+também estudantes não é não necessariamente
+ 00:51:25
+
+terem pais agricultores levando
+ 00:51:27
+
+eh tecnologia digital para as
+ 00:51:30
+
+propriedades rurais e aqui eu vou eu
+ 00:51:34
+
+deixei para vocês o meu LinkedIn se
+ 00:51:38
+
+alguém que tiver dúvidas mais depois de
+ 00:51:42
+
+ler o trabalho quiser procurar não é Eh Em
+ 00:51:44
+
+outro momento Deixei também aí o q code
+ 00:51:47
+
+do da Minha tese que está lá no
+ 00:51:51
+
+repositório da UnB disponibilizado para
+ 00:51:54
+
+todo mundo e pretendo estou tentando aí
+ 00:51:57
+
+publicar como artigo esse trabalho e eu
+ 00:52:00
+
+devolvo a palavra para os professores aí
+ 00:52:04
+
+eu acho que agora a gente entra na parte
+ 00:52:07
+
+de
+ 00:52:08
+
+perguntas muito bem parabéns aí pela
+ 00:52:11
+
+apresentação muito muit dados muito
+ 00:52:14
+
+muito bacana assim o pessoal tudo tá
+ 00:52:18
+
+assistindo aqui de vários locais do
+ 00:52:20
+
+Brasil tá achando como é importante você
+ 00:52:23
+
+assistem matizar esses dados não é Por mais
+ 00:52:26
+
+que alguns a gente tenha uma noção você
+ 00:52:28
+
+reforça como eles são muito necessários
+ 00:52:31
+
+não é A questão da falta de internet é que
+ 00:52:35
+
+mais ficou assim não só essa várias
+ 00:52:38
+
+outras tem muitos dados muito legais eu
+ 00:52:41
+
+tava tava pensando que cada um aqui dá
+ 00:52:43
+
+uma dissertação não é de de explorar não é a a
+ 00:52:45
+
+profundidade deles mas muito legal e a
+ 00:52:49
+
+questão que você apontou também dos do
+ 00:52:54
+
+dos Consultores da assistência técnica
+ 00:52:56
+
+dos dias de campo não é isso influencia
+ 00:52:58
+
+muito o acesso às tecnologias não é e a
+ 00:53:01
+
+gente sempre sabe que é importante mas
+ 00:53:05
+
+não tem a noção de quão importante é não é
+ 00:53:07
+
+Então essa tua dissertação ela vem aí
+ 00:53:09
+
+vem aí muito a a a ajudar assim na
+ 00:53:12
+
+compreensão da de como como se dá esse
+ 00:53:16
+
+acesso da Agricultura digital muito
+ 00:53:19
+
+legal eu vou comentar aqui primeiro os
+ 00:53:21
+
+comentários aqui da galera para ver para
+ 00:53:24
+
+você vê quem é que tá presente aqui
+ 00:53:26
+
+também se sentir integrado aqui não é Aqui
+ 00:53:27
+
+tá o o Rafael Lobo tá presente o eg de
+ 00:53:30
+
+Cunha da do Instituto Federal de São
+ 00:53:34
+
+Paulo eh Andreia aqui do nosso curso
+ 00:53:36
+
+técnico e fruticultura aqui da
+ 00:53:39
+
+Universidade Federal de Santa Maria
+ 00:53:40
+
+nosso curso técnico horticultura tem 75%
+ 00:53:42
+
+EAD e 25%
+ 00:53:45
+
+presencial pessoal aqui ó e da UnB aqui
+ 00:53:47
+
+não é o André rils a galera aqui presente
+ 00:53:51
+
+pessoal da epag do Zap Rural aí presente
+ 00:53:55
+
+também
+ 00:53:58
+
+Raimundo seja bem-vinda aí a Daniela
+ 00:54:00
+
+Daniel desculpa o Cláudio Cunha Cláudio
+ 00:54:03
+
+Cunha nosso extencionista da imater aqui
+ 00:54:06
+
+da região de Santa Maria do do Sul A
+ 00:54:08
+
+Iane e já vou aproveitar aqui botar o
+ 00:54:11
+
+comentário do Rafael o Rafael fala o
+ 00:54:14
+
+seguinte e excelente apresentação Maira
+ 00:54:17
+
+e gostaria de perguntar se seu trabalho
+ 00:54:20
+
+indica sugestões para estudos futuros
+ 00:54:24
+
+isso é muito legal sabe por quê Porque
+ 00:54:27
+
+eu tem meus orientados aqui eles estão
+ 00:54:30
+
+assistindo até para ver como faz uma
+ 00:54:32
+
+apresentação de TCC E aí assim isso aqui
+ 00:54:34
+
+é muito legal pro para dar ideias não é
+ 00:54:38
+
+deles também fazer futuros estudos e dar
+ 00:54:41
+
+continuidade ao teu trabalho
+ 00:54:43
+
+Eh o meu trabalho sim ele tem lá no
+ 00:54:46
+
+finalzinho um
+ 00:54:49
+
+eh algumas sugestões sim a até porque a
+ 00:54:53
+
+gente percebeu algumas limitações desse
+ 00:54:57
+
+trabalho não é e a gente propôs lá na no
+ 00:55:00
+
+meu trabalho tem o aprofundamento no
+ 00:55:04
+
+tema e para estudos futuros não é Eh o eu
+ 00:55:06
+
+vou ler aqui o que eu coloquei não é Eh em
+ 00:55:11
+
+relação à intensidade de utilização das
+ 00:55:13
+
+principais tecnologias na agricultura
+ 00:55:16
+
+digital para obtenção de uma visão mais
+ 00:55:17
+
+geral não é da de uma visão Geral das
+ 00:55:21
+
+disparidades tecnológicas regionais isso
+ 00:55:23
+
+aí seria um tema que a gente acha que
+ 00:55:26
+
+seria interessante não é Eh assim como o
+ 00:55:29
+
+levantamento das áreas de produção que
+ 00:55:32
+
+mais utilizam tecnologias digitais
+ 00:55:35
+
+porque aqui eh eu coloquei Mita a
+ 00:55:38
+
+questão de grãos
+ 00:55:41
+
+e a gente sabe que a pecuária utiliza
+ 00:55:43
+
+muito então aí a gente tem uma área que
+ 00:55:47
+
+poderia ser estudada a pecuária digital
+ 00:55:50
+
+que a gente não eh não coloca aqui não é
+ 00:55:54
+
+agropecuária teria que ser assim não é
+ 00:55:56
+
+agropecuária digital para o Brasil mas
+ 00:55:58
+
+eu coloquei só sobre agricultura quando
+ 00:56:01
+
+a gente pega ali eu queria trabalhar
+ 00:56:03
+
+mais com produtores de grão Esse foi a
+ 00:56:05
+
+ideia Inicial mas a gente tem outras
+ 00:56:08
+
+áreas
+ 00:56:10
+
+fruticultura pode ter aí pode se mostrar
+ 00:56:11
+
+não é um uma área que não não apareceu aqui
+ 00:56:14
+
+no meu trabalho
+ 00:56:18
+
+não é Tem Sim Rafael Lobo tem duas
+ 00:56:19
+
+indicações lá e que lendo o trabalho a
+ 00:56:24
+
+gente percebe como professor Ezequiel
+ 00:56:26
+
+mostrou aí que tem muito não é Muito muito
+ 00:56:28
+
+para
+ 00:56:31
+
+fazer muito legal mesmo muito bacana já
+ 00:56:32
+
+quero incentivar quem tá presente aqui
+ 00:56:35
+
+também fazer suas suas dúvidas e
+ 00:56:37
+
+curiosidades aqui para que eu possa
+ 00:56:39
+
+responder para nós aqui agora vou passar
+ 00:56:41
+
+a palavra pro professor Zuin fazer uma
+ 00:56:43
+
+interlocução aí conosco
+ 00:56:45
+
+Maira muito legal sua apresentação
+ 00:56:47
+
+Parabéns tá trabalho muito bacana não é O
+ 00:56:50
+
+que a gente vê hoje não é uma
+ 00:56:53
+
+quando a gente fala de startups não é a
+ 00:56:57
+
+gente tem uma percepção de que a
+ 00:57:00
+
+Inovação que tá sendo não é desenvolvida
+ 00:57:02
+
+nessas startups é muito delas para o
+ 00:57:05
+
+campo não é então ela Elas pensam que
+ 00:57:09
+
+existe um problema x que pode até
+ 00:57:12
+
+existir não é ali mas não conseguem
+ 00:57:14
+
+visualizar descrever muito esse essa
+ 00:57:18
+
+dificuldade esse problema e a gente
+ 00:57:21
+
+percebe que tá tá sendo meio que
+ 00:57:23
+
+inundado não é os produtores rurais
+ 00:57:26
+
+pequenos médios ou grandes não é no caso
+ 00:57:29
+
+das startups mas os médios e os grandes
+ 00:57:31
+
+não é de novos novas tecnologias sejam
+ 00:57:33
+
+aplicativos sejam programas seja o que
+ 00:57:36
+
+for não é nessa parte da da do da da
+ 00:57:38
+
+digitalização do campo não tanto em
+ 00:57:43
+
+maquinário mas mais na questão de
+ 00:57:45
+
+softwares ali não é na sua pesquisa você
+ 00:57:47
+
+identificou alguma algum relato alguma
+ 00:57:51
+
+coisa de algum produto falando olha me
+ 00:57:55
+
+oferecem muita coisa e eu não sei como
+ 00:57:57
+
+usar essa muita coisa eu nem sei se é
+ 00:58:00
+
+importante para mim essa muita coisa que
+ 00:58:02
+
+eles estão fazendo não é então e daí o que
+ 00:58:04
+
+acontece a tecnologia ela fica na
+ 00:58:07
+
+eternamente numa prateleira sem ninguém
+ 00:58:09
+
+utilizar Então você desenvolve não é Por
+ 00:58:12
+
+quê Porque você não tem essa comunicação
+ 00:58:15
+
+com a realidade do produtor rural ali não é
+ 00:58:17
+
+Não sei se você viu alguma coisa nesse
+ 00:58:23
+
+sentido Eh o meu trabalho ele não foi
+ 00:58:24
+
+direto nesse como foi a a agricultura
+ 00:58:27
+
+digital que é mais Ampla mas e eu falei
+ 00:58:30
+
+ali do que me levou a isso não é que foi de
+ 00:58:33
+
+uma Startup eu pesquisei muito sobre
+ 00:58:35
+
+Startup porque até chegar no que a gente
+ 00:58:38
+
+quer vocês são professores orientadores
+ 00:58:41
+
+você sabe como que é a gente começa com
+ 00:58:43
+
+o tema e vai ó vamos nesse caminho e
+ 00:58:45
+
+quando eu comecei a ler sobre startups
+ 00:58:48
+
+antes não é já em 2018 eu tava lendo mas em
+ 00:58:51
+
+2020 que eu peguei para por causa do
+ 00:58:54
+
+mestrado para você ter uma noção
+ 00:58:57
+
+Professor juin tem eh tem uma um site aí
+ 00:58:59
+
+que fala sobre Startup onde as startups
+ 00:59:03
+
+se cadastram lá e em 2020 era 13300
+ 00:59:05
+
+aproximada startups no Brasil e aí a
+ 00:59:10
+
+gente vai falar de antes da Porteira
+ 00:59:13
+
+dentro da Porteira e depois porque se a
+ 00:59:16
+
+gente pegar iFood é considerado uma
+ 00:59:19
+
+startup do agronegócio não é colocando aqui
+ 00:59:22
+
+que é a mais conhecida que a gente vê
+ 00:59:26
+
+mas é na parte de comercialização então
+ 00:59:28
+
+em 2020 tinha eh 1300 aproximada em 2022
+ 00:59:30
+
+quando eu fui voltando aos estudos já
+ 00:59:35
+
+estava em 1.00 startups E aí foi com
+ 00:59:37
+
+esse estudo que me abriu como que está
+ 00:59:42
+
+antes disso já junto aos produtores eh o
+ 00:59:44
+
+que aparece aí na minha pesquisa é que
+ 00:59:47
+
+eles vão falar que falta de eh de dos
+ 00:59:49
+
+dados as dificuldades que ele tem e a
+ 00:59:52
+
+Startup eh eh ela não consegue se
+ 00:59:55
+
+desenvolver por causa também dessa
+ 00:59:57
+
+dificuldade porque quando a gente pensa
+ 00:59:59
+
+em startups vem muito na nossa cabeça e
+ 01:00:02
+
+o que eu imagino que elas também têm na
+ 01:00:04
+
+mentalidade de se imaginar como uma Uber
+ 01:00:07
+
+não é Uber lançou ali uma plataforma todo
+ 01:00:11
+
+mundo eh como é aquele lá de hotéis que
+ 01:00:14
+
+me passou agora o nome então a gente
+ 01:00:17
+
+pensa muito em Startup nisso mas quando
+ 01:00:19
+
+você leva isso pro campo a realidade é
+ 01:00:21
+
+totalmente diferente porque cada região
+ 01:00:24
+
+e cada produtor ele tem ali na sua
+ 01:00:27
+
+propriedade uma especificidade e as
+ 01:00:30
+
+startups elas não conseguem eh ver isso
+ 01:00:34
+
+hoje eu acho que tá até conseguindo mais
+ 01:00:38
+
+tá
+ 01:00:40
+
+eh desenvolveu muito de com essa
+ 01:00:41
+
+pandemia então Acho que sim e eh e
+ 01:00:44
+
+quando eu citei que na no meu
+ 01:00:47
+
+questionamento no meu dia a dia com
+ 01:00:49
+
+produtor foi justamente o que um
+ 01:00:50
+
+produtor me falou quando eu falei olha
+ 01:00:52
+
+eh tem uma start
+ 01:00:54
+
+Startup aí de irrigação e tal ele falou
+ 01:00:56
+
+não mas tem um monte eu falei ai não
+ 01:00:58
+
+conhecia só algumas aí ele falou e eu eu
+ 01:01:01
+
+até imagino que ele tenha respondido
+ 01:01:04
+
+essa pesquisa não é porque apareceu aqui
+ 01:01:05
+
+também eh ele falou eu tenho dificuldade
+ 01:01:07
+
+porque elas vêm aqui me vendem o produto
+ 01:01:10
+
+era de sensores Você vai lá na planta
+ 01:01:13
+
+coloca o sensor para medir a umidade do
+ 01:01:15
+
+solo eh coloca o sensor para verificar a
+ 01:01:17
+
+umidade não é Eh como está o tempo o
+ 01:01:20
+
+momento de irrigar só que ele falou um
+ 01:01:24
+
+sensor deu defeito e ele ligou para essa
+ 01:01:26
+
+Startup e ela não tinha manutenção nemum
+ 01:01:30
+
+pós-venda então o produtor comprou
+ 01:01:34
+
+adquiriu um produto caro que assim
+ 01:01:37
+
+eh uma Startup até muito conhecida que
+ 01:01:40
+
+já até ganhou prêmios e tal mas ele não
+ 01:01:43
+
+tava tendo vendo isso na realidade dele
+ 01:01:46
+
+ou seja o produtor ele já eh tava meio
+ 01:01:49
+
+descrente não é será o que é isso porque a
+ 01:01:51
+
+as empresas que estão desenvolvendo e
+ 01:01:55
+
+tecnologias disruptivas as startups elas
+ 01:01:57
+
+TM que pensar elas T que ir a campo e
+ 01:02:00
+
+verificar e não só ir a campo em uma
+ 01:02:03
+
+fazenda não em várias e se ela quer Eh
+ 01:02:05
+
+colocar essa Startup para todo o Brasil
+ 01:02:08
+
+ela tem que ir em todas as regiões do
+ 01:02:12
+
+Brasil porque cada região e cada
+ 01:02:14
+
+propriedade é diferente não é E aí você
+ 01:02:17
+
+imagine que é um dos que a gente vê
+ 01:02:20
+
+também quando a gente estuda isso que
+ 01:02:23
+
+quando qu maior o uso de determinada
+ 01:02:25
+
+tecnologia é mais barata ela fica porque
+ 01:02:27
+
+a gente sabe que tecnologia digital para
+ 01:02:30
+
+o produtor rural ainda é caro então você
+ 01:02:32
+
+imagina uma Startup T de desenvolver
+ 01:02:35
+
+soft e sensores ali na propriedade
+ 01:02:37
+
+porque cada ponto ali da da área é
+ 01:02:40
+
+diferente pode ter uma área mais arenosa
+ 01:02:43
+
+ou uma área mais agilos no caso da
+ 01:02:45
+
+irrigação a irrigação vai ser diferente
+ 01:02:47
+
+não é então você imagine considerar todos
+ 01:02:50
+
+esses fatores para se desenvol uma
+ 01:02:53
+
+Startup o que eu percebo é isso é o que
+ 01:02:56
+
+você falou a Startup tá muito aqui ah se
+ 01:02:58
+
+eu desenvolver isso e no campo a
+ 01:03:00
+
+realidade é diferente é isso que eu
+ 01:03:03
+
+observei desses produtores E só mais uma
+ 01:03:05
+
+pergunta não é a respeito dos dados não é
+ 01:03:08
+
+assim Dados dados dados dados não é Que
+ 01:03:12
+
+tipo de
+ 01:03:16
+
+dados a questão é como trabalhar esses
+ 01:03:17
+
+dados os produtores que você entrevistou
+ 01:03:20
+
+eles sabem como trabalhar com essa
+ 01:03:23
+
+lanche de dados não é porque essa pergunta
+ 01:03:25
+
+é uma continuação da primeira que eu te
+ 01:03:29
+
+fiz S entendeu não é ele a especificidades
+ 01:03:31
+
+de cada lugar de cada produtor de tudo
+ 01:03:34
+
+isso daí o que a gente observa é que
+ 01:03:37
+
+essa essa essa agronomi ou tecnas de
+ 01:03:39
+
+precisão é que você tem por exemplo Ah
+ 01:03:42
+
+tá eu tenho uma câmera dentro da minha
+ 01:03:44
+
+suinocultura e ela vai tirar uma foto a
+ 01:03:46
+
+cada 2 minutos chega no final do dia eu
+ 01:03:48
+
+tenho dezenas centenas de fotos ali que
+ 01:03:51
+
+que eu faço com isso
+ 01:03:54
+
+entendeu então isso aí são Dados isso
+ 01:03:56
+
+são Dados agora a questão é Tem empresas
+ 01:03:58
+
+fornecendo esses dados e as soluções não é
+ 01:04:01
+
+acredito que elas também ofereçam
+ 01:04:04
+
+soluções para esses dados alguns
+ 01:04:06
+
+parâmetros ali mas se ela não tem essa
+ 01:04:08
+
+diversidade no momento em que ela tá
+ 01:04:11
+
+desenvolvendo o seu software que nem
+ 01:04:13
+
+você acabou de falar agora não é como é que
+ 01:04:15
+
+eu posso confiar nessas
+ 01:04:17
+
+recomendações talvez aí que tenha que
+ 01:04:21
+
+tenha a grande a grande
+ 01:04:23
+
+a grande decepção dos produtores que nem
+ 01:04:26
+
+você acabou de ligar falar sobre esse
+ 01:04:29
+
+daí não é e certamente deve acontecer
+ 01:04:31
+
+coisas do tipo que você falou olha
+ 01:04:34
+
+existe uma programação para solo arenoso
+ 01:04:36
+
+e essa programação tá sendo utilizada
+ 01:04:38
+
+para solo argiloso entendeu por falta de
+ 01:04:40
+
+de esclarecimento desconhecimento de
+ 01:04:44
+
+como utilizar essa ferramenta não é então o
+ 01:04:46
+
+que dá o que dá para o que dá as coisas
+ 01:04:50
+
+hoje em dia elas parece que elas estão
+ 01:04:53
+
+muito recipientes ainda não é como é que
+ 01:04:55
+
+como essas interfaces essa
+ 01:04:57
+
+multidisciplinaridade ela tá se elas
+ 01:05:00
+
+estão se conversando não é das disciplinas
+ 01:05:02
+
+não é o programador não é que provavelmente
+ 01:05:04
+
+nunca foi no ao campo não é ali não é com o
+ 01:05:07
+
+agrônomo não é com o zootecnista com o
+ 01:05:10
+
+médico veterinário com o técnico em
+ 01:05:12
+
+fruticultura não é ali e as pessoas estão
+ 01:05:14
+
+começando talvez talvez conversar hoje
+ 01:05:17
+
+para fazer eh eh para ter essa essa
+ 01:05:20
+
+visão múltipla ali daquele daquele
+ 01:05:23
+
+problema não é Mas e daí que acontece daí
+ 01:05:26
+
+que nem você muito falou você tem a
+ 01:05:30
+
+decepção do produtor rural não é você tem a
+ 01:05:32
+
+produção e
+ 01:05:34
+
+e e o programador muitas vezes não é não é que
+ 01:05:36
+
+nem eu tive orientando tava até aqui o
+ 01:05:40
+
+Egídio não é acho que tá aqui o Egídio
+ 01:05:42
+
+ainda não é Ele é professor não é de
+ 01:05:43
+
+programação de Instituto Federal a gente
+ 01:05:46
+
+fez a dissertação de Mestrado dele e E
+ 01:05:49
+
+ele fala olha Professor o programador
+ 01:05:51
+
+ele ele nunca foi a Campo entendeu ali
+ 01:05:53
+
+ele não sabe como é que é lá não é as
+ 01:05:56
+
+pessoas não é ali não é e e a gente trabalhou
+ 01:05:59
+
+até com esse olhar da agricultura do do
+ 01:06:03
+
+da familiar agricultura pequeno pote não é
+ 01:06:05
+
+mas mesmo agricultura de grande pote que
+ 01:06:08
+
+nem você existe uma
+ 01:06:10
+
+diversidade ex e ela é muito grande e as
+ 01:06:11
+
+empresas de insumos incluindo essa que
+ 01:06:14
+
+você acabou de falar que hoje é uma
+ 01:06:17
+
+empresa de insumos essa dessas
+ 01:06:19
+
+tecnologias não é Elas parec que elas estão
+ 01:06:21
+
+mais distante ainda do que as empresas
+ 01:06:24
+
+de insumos clássicas que já estão há
+ 01:06:26
+
+muito mais tempo nos territórios rurais
+ 01:06:28
+
+não é que nem de insumos de máquinas
+ 01:06:30
+
+agrícolas assim por diante não é então Eh
+ 01:06:32
+
+eu fico eu fico assim e daí esse
+ 01:06:36
+
+produtor ele adquire a tecnologia e cai
+ 01:06:39
+
+no clássico não é ele adquire vê que não dá
+ 01:06:41
+
+certo Será que vou comprar outra
+ 01:06:44
+
+entendeu será que eu vou adquirir outra
+ 01:06:46
+
+não é Isso é é isso que eh Em uma fazenda
+ 01:06:48
+
+que eu Visitei e que eu vi a a alegria
+ 01:06:53
+
+do Produtor em adquirir inclusive nesse
+ 01:06:56
+
+dia foi muito engraçado porque o filho
+ 01:06:59
+
+dele tinha dormido dentro da máquina de
+ 01:07:01
+
+tanta felicidade imagina uma máquina
+ 01:07:04
+
+naquela época de 1 Milhão que hoje já
+ 01:07:06
+
+deve estar em 2 milhões não é que o preço
+ 01:07:07
+
+subiu muito e eu perguntei geram dados
+ 01:07:09
+
+gera essa máquina passa ela praticamente
+ 01:07:12
+
+faz tudo não é lê o solo diz o que tem o
+ 01:07:14
+
+que não tem vamos falar assim mas eu
+ 01:07:17
+
+falei o que que você faz com os dados
+ 01:07:19
+
+porque dados só dados e dados são Dados
+ 01:07:21
+
+se dados se não tiver alguém ali
+ 01:07:24
+
+analisando esses dados eles não vão se
+ 01:07:26
+
+transformar em informação não é isso
+ 01:07:28
+
+essa é difer então a gente precisa
+ 01:07:31
+
+entender que só a geração de dados não é
+ 01:07:34
+
+importante dados os produtores quem usa
+ 01:07:37
+
+essas máquinas aí eles têm aos montes
+ 01:07:39
+
+Eles não estão sabendo como trabalhar
+ 01:07:41
+
+esses dados não é e é aí onde uma e hoje eu
+ 01:07:44
+
+imagino assim professor Zuin nós temos
+ 01:07:48
+
+agora não é então falar da inteligência
+ 01:07:51
+
+artificial que pode ajudar tá a
+ 01:07:53
+
+robotização então Eh nós precisamos de
+ 01:07:56
+
+Analytics não é que é a nova área aí que se
+ 01:08:00
+
+faz que é pegar esses dados analisar e
+ 01:08:02
+
+levar informação para o produtor mas aí
+ 01:08:05
+
+esses dados eles tê que ser analisados
+ 01:08:08
+
+quê os dados dessa Fazenda porque os
+ 01:08:10
+
+dados dessa Fazenda vai mostrar o que tá
+ 01:08:12
+
+ali a realidade desse produtor Então as
+ 01:08:14
+
+Startup ela tem que se preocupar e aí o
+ 01:08:17
+
+que que a gente vê a dificuldade porque
+ 01:08:19
+
+você tem que ter eh vai pegar os dados a
+ 01:08:21
+
+partir de agora que ele adqu fizemos uma
+ 01:08:23
+
+conectividade no campo vamos imaginar
+ 01:08:26
+
+assim então esse dado da máquina ele já
+ 01:08:28
+
+tá indo direto alimentando ali não é o
+ 01:08:30
+
+software já está aparecendo ali vamos
+ 01:08:32
+
+imaginar esse mundo tá ão os dados Quais
+ 01:08:35
+
+são as informações e aí vai precisar de
+ 01:08:38
+
+um consultor engenheiro agrônomo
+ 01:08:41
+
+Florestal eh veterinários ou tecnista
+ 01:08:43
+
+que pegue esses dados Leia E aí eu
+ 01:08:47
+
+imagino muito que a inteligência
+ 01:08:50
+
+artificial vai ajudar nisso eu já a a
+ 01:08:51
+
+gente já tá entrando aí pelo que eu
+ 01:08:55
+
+imagino numa nova numa agricultura aí
+ 01:08:57
+
+quem sabe já mais do que 5.0 de fazer
+ 01:08:59
+
+com que esses dados retornem para o
+ 01:09:03
+
+produtor como informação Então vai
+ 01:09:06
+
+trazer ali uma informação e o produtor
+ 01:09:08
+
+vai olhar aquela informação e naquele
+ 01:09:10
+
+momento isso tudo em tempo real quando a
+ 01:09:12
+
+gente pensa Vai tomar sua decisão é o
+ 01:09:14
+
+momento para plantar é agora a humidade
+ 01:09:17
+
+tá boa o tempo tá ajudando vai chover
+ 01:09:20
+
+não vai chover é isso que precisa e a
+ 01:09:22
+
+gente ainda tem muita essa eh a gente vê
+ 01:09:26
+
+ainda essa dificuldade da questão do do
+ 01:09:29
+
+do desenvolvedor não é do programador em
+ 01:09:32
+
+que na cabeça dele ele pensa mas ele
+ 01:09:35
+
+nunca foi a Campo ele vai imaginar que
+ 01:09:37
+
+ele desenvolveu aquilo ali vai atender e
+ 01:09:40
+
+e não é isso que a gente vê e temos uma
+ 01:09:43
+
+outra eh e a outra dificuldade que vê é
+ 01:09:46
+
+essa questão que eu falei aqui que o
+ 01:09:48
+
+produtor tem muita dificuldade se ele já
+ 01:09:50
+
+tem um banco de dados na propriedade
+ 01:09:52
+
+deles ele tem dificuldade de passar
+ 01:09:54
+
+esses dados que é o que a gente mais vê
+ 01:09:57
+
+que as startups fazem elas criam falar
+ 01:09:59
+
+ah inclua seus dados para ter ali um
+ 01:10:01
+
+histórico não é daquela propriedade só que
+ 01:10:03
+
+o produtor ele tem tanta coisa para
+ 01:10:05
+
+fazer que ele não está muito afim de
+ 01:10:07
+
+incluir dados não tá porque ele vai
+ 01:10:10
+
+tirar uma pessoa que ajuda ele ali na
+ 01:10:12
+
+produção para passar todos esses dados e
+ 01:10:15
+
+eles falam que é muito difícil e isso a
+ 01:10:17
+
+gente vê por quê Por causa da quantidade
+ 01:10:20
+
+que a gente tem de dados no campo o o
+ 01:10:23
+
+momento agora eu acho que é de utilizar
+ 01:10:25
+
+esses dados não é fazer com que esses dados
+ 01:10:28
+
+retornem para o produtor como
+ 01:10:30
+
+informação são são várias as
+ 01:10:33
+
+dificuldades mas eu o que eu imagino é
+ 01:10:35
+
+que aos poucos a gente vai romper isso
+ 01:10:38
+
+aí e a tecnologia vai a agricultura vai
+ 01:10:41
+
+evoluindo não tem
+ 01:10:44
+
+como não sei se respondi a sua pergunta
+ 01:10:46
+
+muito bem É o que você falou agora por
+ 01:10:51
+
+último muito verdade não é Eh a gente
+ 01:10:54
+
+começou a estudar e tal e aí a gente vai
+ 01:10:57
+
+trabalhar na agricultura não é sou filho do
+ 01:11:01
+
+Agricultor não é Aí você chega à noite você
+ 01:11:03
+
+você não quer estudar à noite você tá
+ 01:11:07
+
+tão cansado que você só quer comer
+ 01:11:09
+
+deitar e assistir alguma coisa sem
+ 01:11:11
+
+pensar muito não é porque o trabalho do
+ 01:11:14
+
+Agricultor durante o dia ele é cansativo
+ 01:11:16
+
+Independente se for em cima de máquina
+ 01:11:19
+
+ou não se não for é pior ainda não é então
+ 01:11:21
+
+eu eu eu um trabalho que te cansa te
+ 01:11:24
+
+esgota então assim é difícil tu aliar
+ 01:11:26
+
+assim eh raciocínios eh lógicos eh junto
+ 01:11:29
+
+com o trabalho mais braçal não é então por
+ 01:11:34
+
+isso a as empresas T que pensar nessa
+ 01:11:37
+
+questão para facilitar a vida do
+ 01:11:40
+
+Agricultor nesse sentido talvez a
+ 01:11:42
+
+tecnologia possa ter mais eh aderência
+ 01:11:44
+
+ao nosso agricultor não é que nem você
+ 01:11:47
+
+começou a comentar aí não é que não vai
+ 01:11:48
+
+tirar uma pessoa que fazer um trabalho
+ 01:11:51
+
+importante pra renda dele para alimentar
+ 01:11:53
+
+um software claro que isso pode dar um
+ 01:11:55
+
+resultado legal não é mas até ele entender
+ 01:11:58
+
+isso demora bastante Deixa eu fazer as
+ 01:12:01
+
+perguntinhas da galera aqui que tá
+ 01:12:03
+
+esperando aqui que tá muito legal
+ 01:12:05
+
+obrigado pela pelas perguntas aqui
+ 01:12:06
+
+gostei demais o Daniel comentou o
+ 01:12:08
+
+seguinte ó Olá eu sou agrônomo e também
+ 01:12:11
+
+já trabalhei com a Maira aqui em
+ 01:12:13
+
+Brasília parabéns pelo trabalho dúvida a
+ 01:12:16
+
+implantação de
+ 01:12:19
+
+Tecnologia embarcada em máquinas mais
+ 01:12:21
+
+antigas um Agro hacking é possível daí
+ 01:12:24
+
+ele comenta ele faz um outro comentário
+ 01:12:28
+
+ainda colocar aqui penso que isso
+ 01:12:29
+
+poderia ser o ponto de virada para a
+ 01:12:32
+
+adoção dessas tecnologias em aspectos de
+ 01:12:35
+
+produtores com menor renda achei muito
+ 01:12:38
+
+legal deixo contigo então Eh quando eu
+ 01:12:41
+
+estava no estúdio Ficava muito
+ 01:12:45
+
+preocupada com isso quando a gente vê
+ 01:12:47
+
+pensando nas empresas aí de máquinas
+ 01:12:49
+
+vamos falar mais e pô e essa empresa ela
+ 01:12:51
+
+desenvolve uma tecnologia aqui e vai
+ 01:12:54
+
+conversar com a outra porque no campo a
+ 01:12:56
+
+gente sabe que o produtor ele vai
+ 01:12:57
+
+comprar uma colheitadeira dessa
+ 01:12:59
+
+determinada marca que ele acredita a
+ 01:13:01
+
+plantadeira já é de outra porque foi um
+ 01:13:03
+
+momento do custo e benefício que ele viu
+ 01:13:05
+
+ou que ele gosta como e os últimos
+ 01:13:07
+
+trabalhos que eu tenho lido pois já essa
+ 01:13:10
+
+barreira já foi rompida tá vai eh o
+ 01:13:13
+
+desenvolvimento desenvolve um um sensor
+ 01:13:16
+
+ou um Como que fala um um uma um
+ 01:13:19
+
+aplicativo em que ele pode ser eh um um
+ 01:13:23
+
+um um instrumento Vou Colocar assim
+ 01:13:26
+
+porque a palavra que ele pode ser
+ 01:13:28
+
+colocado nesse eh nessa máquina dessa
+ 01:13:30
+
+empresa dessa marca vai gerar dados e
+ 01:13:33
+
+pode ser retirado e levado para outra
+ 01:13:36
+
+máquina não é Então olha isso já é uma
+ 01:13:38
+
+evolução que a gente vê esse mesmo
+ 01:13:42
+
+eh
+ 01:13:45
+
+instrumento ele pode ser colocado numa
+ 01:13:46
+
+máquina que não tem nenhuma tecnologia
+ 01:13:49
+
+ele vai passar se ele se ele quer ver
+ 01:13:52
+
+ali fazer uma leitura de solo enquanto a
+ 01:13:54
+
+máquina tiver andando ele vai ali e vai
+ 01:13:56
+
+fazendo toda a leitura de solo isso já
+ 01:13:59
+
+vi trabalhos e já é realidade tá não
+ 01:14:02
+
+está ainda a Campo assim em uso mas é
+ 01:14:05
+
+possível sim Daniel obrigada aí pela sua
+ 01:14:08
+
+participação Daniel que foi meu colega
+ 01:14:11
+
+aqui em Brasília muito bacana eu adorei
+ 01:14:13
+
+essa pergunta dele achei muito muito
+ 01:14:16
+
+legal muito inteligente aqui a família
+ 01:14:19
+
+AB Lobo faz o seginte estão Você
+ 01:14:23
+
+considera que as aters vamos entender
+ 01:14:26
+
+aqui Como as empresas de assistência ou
+ 01:14:29
+
+as pessoas que trabalho na assistência
+ 01:14:32
+
+técnica extensão Rural e social
+ 01:14:33
+
+encontram-se
+ 01:14:35
+
+atualizadas em relação à agricultura
+ 01:14:37
+
+digital sugerindo com precisão as
+ 01:14:40
+
+melhores tecnologias aos produtores
+ 01:14:43
+
+Rais é com precisão eu já não sei te
+ 01:14:48
+
+dizer não é mas que o os as assistências
+ 01:14:51
+
+técnicas Eu acredito que sim já tem
+ 01:14:55
+
+conhecimento porque assim ó vamos pensar
+ 01:14:58
+
+o digital já é realidade na nossa vida
+ 01:15:00
+
+tá no dia a dia então Vamos considerar
+ 01:15:02
+
+aí o que a pandemia fez eu fiz uma
+ 01:15:05
+
+visita num assentamento aqui que tinha
+ 01:15:07
+
+uma produtora que vendia pã eh de ipin
+ 01:15:09
+
+ou mandioca não sei como é conhecida aí
+ 01:15:12
+
+e tal eu fiz o pagamento para ela
+ 01:15:14
+
+através de pix então digital já é e todo
+ 01:15:16
+
+mundo já conhece não é então um pagamento
+ 01:15:19
+
+através de pix já mostra que essa
+ 01:15:22
+
+produtora uma eh de um assentamento Ela
+ 01:15:23
+
+já tá no meio digital a comercialização
+ 01:15:26
+
+dela já acontece de forma digital não é Eh
+ 01:15:29
+
+quanto quando a gente fala em tecnologia
+ 01:15:32
+
+que a gente imagina o que eu acho que é
+ 01:15:34
+
+isso que ela quer dizer quando a gente
+ 01:15:36
+
+pensa em máquinas em ferramentas em
+ 01:15:38
+
+equipamentos é que a gente tem aí um um
+ 01:15:41
+
+a maior dificuldade e a dificuldade
+ 01:15:44
+
+também do de quem tá indicando de
+ 01:15:47
+
+entender isso porque a gente sabe que a
+ 01:15:50
+
+agricultura ela vem de longos anos nós
+ 01:15:53
+
+temos um pessoal aí que tem mais tempo
+ 01:15:55
+
+que tem uma certa idade que tem mais
+ 01:15:57
+
+dificuldade de conhecer ess de de de eh
+ 01:15:59
+
+de se familiarizar com Essas tecnologias
+ 01:16:03
+
+com o digital a gente teve também não é Eu
+ 01:16:05
+
+imagino assim mas a gente vê que essas
+ 01:16:09
+
+novas gerações esses esse pessoal já
+ 01:16:11
+
+nasce no digital Então tudo para eles
+ 01:16:14
+
+quando o digital é mais tranquilo então
+ 01:16:16
+
+Imagino que os próximos eh os estudantes
+ 01:16:19
+
+de agora os os agrônomos que estão sa
+ 01:16:22
+
+indo não é mais recente ele já tem mais
+ 01:16:25
+
+precisão e mais conhecimento do que ele
+ 01:16:28
+
+fala de levar isso para os produtores tá
+ 01:16:31
+
+então pensando assim e temos e é é que a
+ 01:16:34
+
+questão quando você coloca precisão é um
+ 01:16:37
+
+pouco mais difícil não é numa eh numa
+ 01:16:39
+
+ciência vamos dizer assim ainda nova não é
+ 01:16:43
+
+muito nova a gente
+ 01:16:46
+
+considera muito bom É eu acho que dentro
+ 01:16:48
+
+dessa desse Grande Debate aqui Ah até
+ 01:16:52
+
+foi colocado aqui na na pesquisa durante
+ 01:16:55
+
+a apresentação não é o desconhecimento dos
+ 01:16:58
+
+apes isso me chamou muita atenção não é e e
+ 01:17:00
+
+eu acho que isso serve para boa parte
+ 01:17:03
+
+das reflexões não é a gente não utiliza
+ 01:17:05
+
+algo que a gente conhece que a gente não
+ 01:17:08
+
+sabe não é eu posso por exemplo comprar o
+ 01:17:11
+
+melhor programa possível mas se eu não
+ 01:17:14
+
+sei trabalhar com ele eu vou acabar
+ 01:17:16
+
+desistindo é a mesma coisa com as
+ 01:17:18
+
+tecnologias não é se eu não conheço o
+ 01:17:20
+
+potencial dela eu não vou com conseguir
+ 01:17:22
+
+explorar o melhor a melhor questão e a
+ 01:17:25
+
+gente às vezes acaba abandonando isso já
+ 01:17:27
+
+aconteceu com todo mundo em algum
+ 01:17:29
+
+momento da vida não é então Eh o conhecer
+ 01:17:31
+
+sobre um aplicativo conhecer sobre um
+ 01:17:35
+
+programa ou sobre uma tecnologia faz
+ 01:17:37
+
+toda a diferença não tenha dúvida que
+ 01:17:39
+
+não que que Esso é um grande pulo do
+ 01:17:42
+
+gato não é o salto não é de você usar mais ou
+ 01:17:44
+
+usar menos não é mas muito legal eu vou dar
+ 01:17:47
+
+agora a Palavra Final pr pra nossa
+ 01:17:50
+
+grande pesquisadora que apresentou aqui
+ 01:17:53
+
+dados muito legais isso aqui vai ficar
+ 01:17:55
+
+aqui para muita gente assistir eu gostei
+ 01:17:57
+
+demais é muito legal quando você traz
+ 01:18:00
+
+dados você comprova argumentos que são
+ 01:18:02
+
+na realidade quase todo o Brasil que que
+ 01:18:05
+
+S fora do Brasil também não é então dá a
+ 01:18:07
+
+Palavra Final para fazer esse grande
+ 01:18:10
+
+fechamento da nossa Live de hoje
+ 01:18:11
+
+ah um prazer estar aqui com vocês
+ 01:18:15
+
+eh e assim quando eu pensei nesse
+ 01:18:18
+
+trabalho e até fico emocionada Porque eu
+ 01:18:21
+
+queria muito muit ajudar a pesquisa no
+ 01:18:24
+
+Brasil e quando eu vi esse trabalho já
+ 01:18:26
+
+que não consegui publicá-lo ainda não é
+ 01:18:29
+
+como eu falei antes de entrar que a
+ 01:18:31
+
+gente tava conversando mas quando eu vi
+ 01:18:33
+
+que ele saiu num jornal O Estadão eu
+ 01:18:35
+
+fiquei assim muito feliz porque por não
+ 01:18:38
+
+ser uma revista científica nós que somos
+ 01:18:40
+
+acadêmicos não é entendemos mas vai para um
+ 01:18:43
+
+um um para o Brasil todo todo mundo teve
+ 01:18:47
+
+acesso não é a esse trabalho eu fiquei
+ 01:18:50
+
+muito feliz de ser de sa assim de alguma
+ 01:18:52
+
+forma eu estou ajudando não é Estou
+ 01:18:55
+
+contribuindo que era a o meu intuito não é
+ 01:18:58
+
+no quando eu pensei no trabalho eu
+ 01:19:01
+
+queria muito que fosse assim então essa
+ 01:19:03
+
+parte já estou realizada e mais
+ 01:19:06
+
+realizada ainda quando eu participo de
+ 01:19:08
+
+lives como essa de levar esse
+ 01:19:10
+
+conhecimento e é aquilo dados e contra
+ 01:19:12
+
+que o que eu penso não é contra dados não
+ 01:19:17
+
+há argumentos Então os dados estão aí e
+ 01:19:18
+
+já mostra que a gente já está nessa
+ 01:19:21
+
+tecnologia digital a agricultura
+ 01:19:24
+
+brasileira já é digital o que a gente
+ 01:19:26
+
+tem que fazer é levar todos os
+ 01:19:28
+
+produtores pequenos médios e grandes
+ 01:19:30
+
+todo mundo junto não é contar aí com o
+ 01:19:32
+
+apoio de instituições de do governo para
+ 01:19:35
+
+fazer das assistências técnicas melhorar
+ 01:19:39
+
+ainda mais não é que a gente sabe eu sei a
+ 01:19:42
+
+dificuldade eu trabalhei na ebda quando
+ 01:19:43
+
+tinha na Bahia eu sou baiana e hoje já
+ 01:19:47
+
+não existe então a gente precisa ter
+ 01:19:50
+
+essas empresas para levar o produtor ele
+ 01:19:53
+
+precisa do eh eh de nós como técnicos e
+ 01:19:55
+
+que temos um conhecimento tá junto dele
+ 01:19:59
+
+junto para mostrar para ele que Essas
+ 01:20:01
+
+tecnologias já existem mostrar para eles
+ 01:20:04
+
+as vantagens as desvantagens mostrar os
+ 01:20:06
+
+benefícios o que que vai eh trazer que
+ 01:20:09
+
+todo tudo isso novas tecnologias só traz
+ 01:20:13
+
+pro produtor mais ganhos não é Eh isso que
+ 01:20:15
+
+a gente eh quer com as novas tecnologias
+ 01:20:18
+
+e estou muito feliz de participar dessa
+ 01:20:22
+
+live com vocês professores e para
+ 01:20:25
+
+qualquer dúvida eu deixei aí não é meu
+ 01:20:29
+
+LinkedIn eh pode entrar em contato e é
+ 01:20:31
+
+isso espero que essa pesquisa aí Dê
+ 01:20:36
+
+muitos frutos tá muitos frutos é o que
+ 01:20:38
+
+eu quero e é isso muito bom eu fiquei
+ 01:20:40
+
+muito f Fiquei muito feliz O pessoal
+ 01:20:45
+
+adorou aqui também e não tenha dúvida
+ 01:20:47
+
+que essa Live vai ser assistida muito
+ 01:20:49
+
+depois ainda porque Ela traz muitas
+ 01:20:51
+
+novidades e e eu adoro quando tem muita
+ 01:20:53
+
+pesquisa muito dado assim mostrar para a
+ 01:20:56
+
+realidade mesmo da nossa agricultura
+ 01:20:59
+
+então muito obrigado gente e dizer a
+ 01:21:01
+
+todos que estão acompanhando aqui que
+ 01:21:03
+
+toda semana nós estamos com uma nova
+ 01:21:05
+
+live com um novo especialista na área de
+ 01:21:07
+
+extensão rol no Brasil comentando sobre
+ 01:21:10
+
+algum assunto relevante paraa Nossa
+ 01:21:12
+
+agricultura Nacional internacional um
+ 01:21:14
+
+abraço e até a próxima oportunidade
+ 01:21:16
+
+tchau tchau
+ 01:21:18

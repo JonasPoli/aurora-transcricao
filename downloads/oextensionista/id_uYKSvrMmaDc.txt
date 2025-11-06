@@ -1,0 +1,9 @@
+video_id: uYKSvrMmaDc
+video_url: https://www.youtube.com/watch?v=uYKSvrMmaDc
+title: Conhece o conceito de Assistência Técnica e Extensão Rural – ATER? 💲 👨‍🌾🌱 #extensãorural #ater
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/08/2024

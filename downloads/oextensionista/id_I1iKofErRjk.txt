@@ -1,0 +1,8 @@
+video_id: I1iKofErRjk
+video_url: https://www.youtube.com/watch?v=I1iKofErRjk
+title: #jesus #motivação #oração #deustemumapalavrapravoce #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

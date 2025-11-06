@@ -1,0 +1,8 @@
+video_id: YypSI9FbWwk
+video_url: https://www.youtube.com/watch?v=YypSI9FbWwk
+title: Você já ouviu falar sobre a Extensão Rural contextualizada? 📚💚#extensãorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/16/2023

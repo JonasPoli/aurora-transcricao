@@ -1,0 +1,8 @@
+video_id: nkzcM4IByB0
+video_url: https://www.youtube.com/watch?v=nkzcM4IByB0
+title: Diversidade cultural/linguística são desafios para extensionista em Moçambique #extensãorural #agro
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2023

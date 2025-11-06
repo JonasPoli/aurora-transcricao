@@ -1,0 +1,8 @@
+video_id: I87fXNtdSzg
+video_url: https://www.youtube.com/watch?v=I87fXNtdSzg
+title: Vantagens da Ater digital na produção rural #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

@@ -1,0 +1,8 @@
+video_id: uZ2ZGugqEfA
+video_url: https://www.youtube.com/watch?v=uZ2ZGugqEfA
+title: Aproximação entre P&D e TT: o estudo de caso do Balde Cheio
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2023

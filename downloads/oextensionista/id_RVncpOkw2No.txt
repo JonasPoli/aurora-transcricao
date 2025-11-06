@@ -1,0 +1,8 @@
+video_id: RVncpOkw2No
+video_url: https://www.youtube.com/watch?v=RVncpOkw2No
+title: #reflexão #deus #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

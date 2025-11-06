@@ -1,0 +1,8 @@
+video_id: h25V5-DHJgQ
+video_url: https://www.youtube.com/watch?v=h25V5-DHJgQ
+title: Fruticultura e Viticultura - Manejo Biológico
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/31/2024

@@ -1,0 +1,8 @@
+video_id: rYdsDQxali0
+video_url: https://www.youtube.com/watch?v=rYdsDQxali0
+title: #gaucho #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/03/2025

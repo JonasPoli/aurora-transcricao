@@ -1,0 +1,8 @@
+video_id: b6y_a4r4UqA
+video_url: https://www.youtube.com/watch?v=b6y_a4r4UqA
+title: #roça #extensãorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2025

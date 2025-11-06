@@ -1,0 +1,9 @@
+video_id: Ys1-6ni3Vls
+video_url: https://www.youtube.com/watch?v=Ys1-6ni3Vls
+title: ATER digital como estratégia da extensão rural oficial durante a pandemia de Covid-19
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/1249557446779891
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/02/2021

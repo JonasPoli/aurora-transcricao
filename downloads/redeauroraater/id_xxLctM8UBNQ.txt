@@ -1,0 +1,9 @@
+video_id: xxLctM8UBNQ
+video_url: https://www.youtube.com/watch?v=xxLctM8UBNQ
+title: Ações de extensão e o impacto das ferramentas digitais
+uploader: Rede Aurora
+speaker: Cláudia Bernardini – EMATER/RS
+Lattes: http://lattes.cnpq.br/1374345044207381
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/26/2024

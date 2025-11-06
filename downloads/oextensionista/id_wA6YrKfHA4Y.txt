@@ -1,0 +1,9 @@
+video_id: wA6YrKfHA4Y
+video_url: https://www.youtube.com/watch?v=wA6YrKfHA4Y
+title: Agricultura de Subsistência ou Autoconsumo
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/14/2021

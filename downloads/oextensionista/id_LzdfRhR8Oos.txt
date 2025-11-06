@@ -1,0 +1,8 @@
+video_id: LzdfRhR8Oos
+video_url: https://www.youtube.com/watch?v=LzdfRhR8Oos
+title: Mercados Alternativos para a Agricultura Familiar @oextensionista
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/22/2021

@@ -1,0 +1,8 @@
+video_id: wu7wJr7XDUY
+video_url: https://www.youtube.com/watch?v=wu7wJr7XDUY
+title: #roça #aterdigital #extensãorural #videomaker
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/10/2025

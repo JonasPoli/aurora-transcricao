@@ -1,0 +1,8 @@
+video_id: m3nDaL8-b_s
+video_url: https://www.youtube.com/watch?v=m3nDaL8-b_s
+title: 👉 5 livros para quem quer iniciar os estudos na Extensão Rural! 💚
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/08/2022

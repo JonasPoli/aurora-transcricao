@@ -1,0 +1,8 @@
+video_id: JmqwYCy8lzQ
+video_url: https://www.youtube.com/watch?v=JmqwYCy8lzQ
+title: #roça #caminhada #mtb #bike #sports
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/21/2025

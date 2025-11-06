@@ -1,0 +1,8 @@
+video_id: _U6938NMvNY
+video_url: https://www.youtube.com/watch?v=_U6938NMvNY
+title: 06 de dezembro - Dia Nacional da Extensão Rural  👩‍🌾👨‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/06/2023

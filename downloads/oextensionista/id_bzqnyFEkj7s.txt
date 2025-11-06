@@ -1,0 +1,9 @@
+video_id: bzqnyFEkj7s
+video_url: https://www.youtube.com/watch?v=bzqnyFEkj7s
+title: O melhor artigo científico de Extensão Rural em 2022 👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/07/2023

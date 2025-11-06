@@ -1,0 +1,8 @@
+video_id: Ls9mSN3EfCc
+video_url: https://www.youtube.com/watch?v=Ls9mSN3EfCc
+title: Gato Leon #roça #extensãorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

@@ -1,0 +1,8 @@
+video_id: tSpdIi4fGwM
+video_url: https://www.youtube.com/watch?v=tSpdIi4fGwM
+title: #motivação #reflexão #roça #colono #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2025

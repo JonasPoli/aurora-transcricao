@@ -1,0 +1,8 @@
+video_id: cm_JCT7mi7w
+video_url: https://www.youtube.com/watch?v=cm_JCT7mi7w
+title: Linhas de crédito destinada a Agricultura Familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/15/2020

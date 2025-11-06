@@ -1,0 +1,8 @@
+video_id: L3lRa89qBRc
+video_url: https://www.youtube.com/watch?v=L3lRa89qBRc
+title: Prática da escuta do técnico-educador nos processos de transferência de tecnologias #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

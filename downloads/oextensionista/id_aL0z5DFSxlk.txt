@@ -1,0 +1,8 @@
+video_id: aL0z5DFSxlk
+video_url: https://www.youtube.com/watch?v=aL0z5DFSxlk
+title: #reflexão #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/05/2025

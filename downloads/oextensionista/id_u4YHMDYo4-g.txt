@@ -1,0 +1,8 @@
+video_id: u4YHMDYo4-g
+video_url: https://www.youtube.com/watch?v=u4YHMDYo4-g
+title: #bandinha #evento
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/27/2025

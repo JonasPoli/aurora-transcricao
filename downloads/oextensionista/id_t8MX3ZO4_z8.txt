@@ -1,0 +1,9 @@
+video_id: t8MX3ZO4_z8
+video_url: https://www.youtube.com/watch?v=t8MX3ZO4_z8
+title: Experiência de ater de qualidade na pandemia
+uploader: O Extensionista
+speaker: Diego Adilio da Silva – EPAGRI/SC
+Lattes: http://lattes.cnpq.br/8333612030540909
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/17/2024

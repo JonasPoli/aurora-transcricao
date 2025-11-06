@@ -1,0 +1,8 @@
+video_id: E8aCDcOllvA
+video_url: https://www.youtube.com/watch?v=E8aCDcOllvA
+title: #motivação #roça #trabalho
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/16/2025

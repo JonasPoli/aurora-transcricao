@@ -1,0 +1,8 @@
+video_id: h6miiP8BxWE
+video_url: https://www.youtube.com/watch?v=h6miiP8BxWE
+title: Direto ao ponto: WhatsApp e mulheres produtoras de café em tempos de Covid 19 – Bianca Mayara Mendes
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2022

@@ -1,0 +1,9 @@
+video_id: j6yeSVWuwFE
+video_url: https://www.youtube.com/watch?v=j6yeSVWuwFE
+title: O que a redação do Enem a ver com a Extensão Rural?🎓👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/14/2022

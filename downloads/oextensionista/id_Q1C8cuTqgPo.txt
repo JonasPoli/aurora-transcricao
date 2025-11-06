@@ -1,0 +1,8 @@
+video_id: Q1C8cuTqgPo
+video_url: https://www.youtube.com/watch?v=Q1C8cuTqgPo
+title: Sistemas Agroflorestais e Agricultura Familiar na Amazônia
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/24/2021

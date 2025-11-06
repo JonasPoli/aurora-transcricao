@@ -1,0 +1,8 @@
+video_id: hSSZuIEbOjg
+video_url: https://www.youtube.com/watch?v=hSSZuIEbOjg
+title: #roça #caminhoparaumavidamelhor #deustemumapalavrapravoce #motivação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2025

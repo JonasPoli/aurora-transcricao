@@ -1,0 +1,8 @@
+video_id: g2nSIAKXpbo
+video_url: https://www.youtube.com/watch?v=g2nSIAKXpbo
+title: 🍇 Quer aumentar a produção de uvas no seu pomar doméstico?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/17/2025

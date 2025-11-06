@@ -1,0 +1,8 @@
+video_id: 6Zrn7_JNXPw
+video_url: https://www.youtube.com/watch?v=6Zrn7_JNXPw
+title: Caminhada da Primavera em Agudo, RS
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/07/2023

@@ -1,0 +1,9 @@
+video_id: AC8Vg91KyEU
+video_url: https://www.youtube.com/watch?v=AC8Vg91KyEU
+title: Metodologias clássicas da Extensão Rural e a ATER Digital
+uploader: O Extensionista
+speaker: Anna Cristina Xavier – Emater/RS
+Lattes: http://lattes.cnpq.br/4326407267537271
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/07/2024

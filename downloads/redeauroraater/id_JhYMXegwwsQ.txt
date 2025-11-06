@@ -1,0 +1,8 @@
+video_id: JhYMXegwwsQ
+video_url: https://www.youtube.com/watch?v=JhYMXegwwsQ
+title: Importância de se montar uma equipe multidisciplinar para uma Ater digital participativa
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

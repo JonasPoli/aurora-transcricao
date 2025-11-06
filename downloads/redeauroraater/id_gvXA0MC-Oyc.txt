@@ -1,0 +1,9 @@
+video_id: gvXA0MC-Oyc
+video_url: https://www.youtube.com/watch?v=gvXA0MC-Oyc
+title: Construindo caminhos para a criação agroecológica de animais
+uploader: Rede Aurora
+speaker: Juliana Vieira Paz – Yamandú Agroecologia
+Lattes: http://lattes.cnpq.br/9205483556330498
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/05/2025

@@ -1,0 +1,8 @@
+video_id: VbgvIaVDtog
+video_url: https://www.youtube.com/watch?v=VbgvIaVDtog
+title: Aula de Fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2024

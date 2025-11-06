@@ -1,0 +1,8 @@
+video_id: ktz2AD8KKU8
+video_url: https://www.youtube.com/watch?v=ktz2AD8KKU8
+title: #agrale #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2025

@@ -1,0 +1,9 @@
+video_id: la_Ux7sSAY8
+video_url: https://www.youtube.com/watch?v=la_Ux7sSAY8
+title: A cidadania alimentar para a transformação dos sistemas alimentares
+uploader: O Extensionista
+speaker: Gustavo Pinto da Silva
+Lattes: http://lattes.cnpq.br/5659811271344671
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/19/2025

@@ -1,0 +1,9 @@
+video_id: SDwrcwquV9w
+video_url: https://www.youtube.com/watch?v=SDwrcwquV9w
+title: Extensão rural entre a necessidade e a realidade possível, caminhos possíveis
+uploader: Rede Aurora
+speaker: Lauro Edilso Bernardi – Emater/ASCAR-RS
+Lattes: http://lattes.cnpq.br/4840635409114287
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/25/2024

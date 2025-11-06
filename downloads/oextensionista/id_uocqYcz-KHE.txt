@@ -1,0 +1,8 @@
+video_id: uocqYcz-KHE
+video_url: https://www.youtube.com/watch?v=uocqYcz-KHE
+title: #roça #estudos
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2025

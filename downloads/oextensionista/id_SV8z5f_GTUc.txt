@@ -1,0 +1,8 @@
+video_id: SV8z5f_GTUc
+video_url: https://www.youtube.com/watch?v=SV8z5f_GTUc
+title: #oração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/24/2025

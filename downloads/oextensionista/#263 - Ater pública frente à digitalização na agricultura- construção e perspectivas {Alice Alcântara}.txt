@@ -1,0 +1,4523 @@
+Tá certo.
+ 00:00:00
+
+>> Olá a todos e todos os extensionistas
+ 00:00:02
+
+rurais, agricultores e agricultoras,
+ 00:00:04
+
+jovens rurais, pesquisadores,
+ 00:00:06
+
+professores, acadêmicos e demais
+ 00:00:08
+
+públicos aqui presentes. Sejam todos
+ 00:00:10
+
+muito bem-vindos. Meu nome é Ezequiel Redin,
+ 00:00:12
+
+professor de extensão rural e quem está
+ 00:00:15
+
+aqui hoje conosco é o professor Luiz
+ 00:00:17
+
+Fernando Soaresin, o o nosso famoso
+ 00:00:18
+
+fundador da rede aurora da USP,
+ 00:00:21
+
+juntamente com a nossa convidada hoje
+ 00:00:23
+
+que é Alícia Alcântra do Ica. Todos aqui
+ 00:00:25
+
+excelentes profissionais de extensão
+ 00:00:28
+
+rural no Brasil e no mundo. E é nesse
+ 00:00:29
+
+dia 3 de setembro que estamos em mais um
+ 00:00:31
+
+evento do ciclo de diálogos em Até
+ 00:00:34
+
+Digital, semeando propostas e
+ 00:00:36
+
+compartilhando saberes. Nossos eventos
+ 00:00:38
+
+buscam identificar e propor caminhos
+ 00:00:41
+
+metodológicos para os atuais elementos e
+ 00:00:43
+
+condicionantes que determinam os
+ 00:00:46
+
+processos de transferência e
+ 00:00:47
+
+compartilhamento de novas tecnologias
+ 00:00:50
+
+nos territórios rarais da América
+ 00:00:52
+
+Latina, da África e alguns países como
+ 00:00:54
+
+Portugal, Espanha e Luxemburgo. A
+ 00:00:56
+
+palestra de hoje é intitulada a ATER
+ 00:00:58
+
+pública frente à digitalização na
+ 00:01:01
+
+Agricultura, construções e perspectivas.
+ 00:01:03
+
+E a nossa convidada de hoje é Alice
+ 00:01:06
+
+Alcântra. Essa live é uma iniciativa do
+ 00:01:08
+
+portal Extensionista e da Rede Aurora de
+ 00:01:10
+
+Diálogos em Até Digital na América
+ 00:01:13
+
+Latina e com todos os apoiadores que
+ 00:01:15
+
+vocês podem conferir aqui na descrição
+ 00:01:17
+
+desse vídeo. Sejam muito bem-vindos,
+ 00:01:19
+
+professor Zuin, Alice. É um prazer vocês
+ 00:01:21
+
+estarem aqui compartilhando seus
+ 00:01:24
+
+conhecimentos conosco. Desde já o nosso
+ 00:01:25
+
+muito obrigado. De antemão já passo a
+ 00:01:27
+
+palavra ao professor Zuin.
+ 00:01:29
+
+>> Bom dia a todos e a todas. É muito
+ 00:01:31
+
+bacana estar aqui com o professor
+ 00:01:33
+
+Ezequiel, com a Alice, não é? Hoje eu tenho
+ 00:01:34
+
+certeza que a gente vai aprender muito
+ 00:01:37
+
+com a Alice, não é, esse resultado da
+ 00:01:38
+
+dissertação dela, não é, sobre a ter
+ 00:01:40
+
+pública frente à digitalização na
+ 00:01:42
+
+agricultura. Alice, muito obrigado por
+ 00:01:44
+
+ter aceitado o nosso convite, não é, e
+ 00:01:46
+
+muito bacana estar aqui com você, tá? A
+ 00:01:50
+
+palavra é sua, fique à vontade.
+ 00:01:52
+
+>> Gente, muito obrigada pela introdução,
+ 00:01:55
+
+muito obrigada pelo convite. É um prazer
+ 00:01:57
+
+estar aqui hoje com vocês. Bom, eh, meu
+ 00:02:00
+
+nome é Alice Alcântara, eu trabalho como
+ 00:02:04
+
+especialista em digitalização
+ 00:02:07
+
+agroalimentar pelo Iica, um Instituto
+ 00:02:09
+
+Interamericano de Cooperação para
+ 00:02:11
+
+Agricultura.
+ 00:02:13
+
+Eh, e bom, o que eu vou apresentar hoje
+ 00:02:15
+
+é a minha a minha dissertação de
+ 00:02:19
+
+mestrado. Eu fiz um mestrado na Unicamp
+ 00:02:21
+
+pelo Instituto de Economia, não é? Foi um
+ 00:02:23
+
+mestrado em desenvolvimento econômico
+ 00:02:25
+
+com a área de eh concentração em
+ 00:02:28
+
+economia agrícola e meio ambiente. E
+ 00:02:30
+
+basicamente eh o meu mestrado fo a minha
+ 00:02:33
+
+dissertação foi entender a construção do
+ 00:02:37
+
+serviço de até digital eh no Brasil. Eu
+ 00:02:40
+
+hoje eu trabalho num programa regional
+ 00:02:44
+
+de digitalização do ICA, eh, se chama
+ 00:02:47
+
+Programa Hemisférico Digitalização
+ 00:02:50
+
+Agroalimentar.
+ 00:02:52
+
+Então,
+ 00:02:54
+
+eh, a gente é coordenado pela sede
+ 00:02:56
+
+central do ICA, que fica na Costa Rica.
+ 00:02:58
+
+É um programa que atende toda a América,
+ 00:03:01
+
+América do Norte, América Central,
+ 00:03:05
+
+Caribe também e América do Sul. Eu
+ 00:03:07
+
+iniciei no ICA eh, justamente mapeando
+ 00:03:10
+
+iniciativas de digitalização. Isso há
+ 00:03:14
+
+três anos atrás. Inclusive, acho que
+ 00:03:17
+
+hoje eu posso dizer que o Brasil é uma
+ 00:03:19
+
+referência no assunto, não é, especialmente
+ 00:03:21
+
+no quesito de digitalização da
+ 00:03:24
+
+assistência técnica. Então, eh,
+ 00:03:28
+
+e assim, eu acho que o trabalho que
+ 00:03:32
+
+vocês fazem aqui também é muito
+ 00:03:34
+
+importante para tá fortalecendo isso,
+ 00:03:36
+
+não é? todas essas discussões eh que tem,
+ 00:03:38
+
+eu dei uma olhada no canal antes, eh é
+ 00:03:41
+
+muito importante porque isso eh nem esse
+ 00:03:44
+
+tipo de discussão às vezes a gente
+ 00:03:46
+
+encontra em outros países. Então essa
+ 00:03:48
+
+importância de debater o assunto. E é
+ 00:03:51
+
+isso. Eu vou apresentar a minha
+ 00:03:54
+
+dissertação. tava falando aqui com o
+ 00:03:55
+
+professor Zuin antes, não é, que
+ 00:03:58
+
+eh talvez eu terminei a minha
+ 00:04:02
+
+dissertação o ano passado, que talvez
+ 00:04:04
+
+algumas coisas, alguns programas que eu
+ 00:04:06
+
+fale aqui já estejam até um pouco
+ 00:04:09
+
+ultrapassados, digamos assim, porque
+ 00:04:12
+
+quando a gente fala de digitalização, de
+ 00:04:14
+
+tecnologias digitais, primeiro que é
+ 00:04:17
+
+tudo novo e também tudo muda muito
+ 00:04:18
+
+rápido. Às vezes, é, a gente tá falando
+ 00:04:21
+
+de um extensionista, de um agricultor
+ 00:04:23
+
+que tá usando, é só um tipo de
+ 00:04:25
+
+tecnologia e passa dois meses, esse
+ 00:04:27
+
+agricultor ou esses extensionistas já tá
+ 00:04:30
+
+utilizando outras que já lançaram, então
+ 00:04:33
+
+as coisas acontecem de forma muito
+ 00:04:36
+
+rápida. Eh, e eu sei também que esse eh
+ 00:04:37
+
+é o assunto, não é, do canal. Esse tema ele
+ 00:04:41
+
+é muito debatido. Eu sei que já teve
+ 00:04:44
+
+gente que veio aqui também para falar de
+ 00:04:46
+
+algumas iniciativas que eh eu vou
+ 00:04:48
+
+apresentar aqui hoje também, mas eu
+ 00:04:51
+
+espero que possa agregar algo para para
+ 00:04:52
+
+a discussão. E no final também eu queria
+ 00:04:56
+
+aproveitar a oportunidade, não é, de do
+ 00:04:59
+
+canal para falar também um pouco do meu
+ 00:05:01
+
+trabalho hoje, do que que a gente tá
+ 00:05:03
+
+fazendo desde o Ica, não é, que é um
+ 00:05:05
+
+organismo internacional, o que que a
+ 00:05:06
+
+gente tá promovendo para apoiar a
+ 00:05:09
+
+digitalização da agricultura.
+ 00:05:12
+
+>> Muito bom, Alice, fique à vontade.
+ 00:05:15
+
+Então,
+ 00:05:16
+
+>> ó, aí aqui para eu passar e
+ 00:05:19
+
+>> você clica em cima aí da da
+ 00:05:22
+
+apresentação.
+ 00:05:23
+
+Ah,
+ 00:05:26
+
+>> OK.
+ 00:05:26
+
+Bom, eh, a pergunta, não é, vou começar
+ 00:05:28
+
+assim, eh, eu sei que o o público alvo
+ 00:05:31
+
+desse desse canal, provavelmente já é
+ 00:05:35
+
+bem entendido do assunto digitalização
+ 00:05:40
+
+da agricultura, mas eu queria dar um
+ 00:05:43
+
+passo atrás e voltar um pouco do começo,
+ 00:05:44
+
+eh, explicar alguns conceitos. Primeiro
+ 00:05:47
+
+aqui, não é, a pergunta de partida que foi
+ 00:05:50
+
+do meu trabalho, que era como a
+ 00:05:52
+
+digitalização
+ 00:05:54
+
+está sendo incorporada ao serviços de
+ 00:05:56
+
+assistência técnica e extensão rural
+ 00:05:58
+
+públicos no Brasil. E aí eu dividi em
+ 00:06:01
+
+três objetivos. O primeiro foi analisar
+ 00:06:04
+
+as experiências de AT digital no Brasil,
+ 00:06:07
+
+o segundo identificar os principais
+ 00:06:10
+
+desafios, eh, as barreiras, não é, a
+ 00:06:12
+
+digitalização
+ 00:06:15
+
+da da AT. E o último é propor algumas
+ 00:06:17
+
+reflexões sobre o papel h da
+ 00:06:21
+
+digitalização na promoção da inclusão
+ 00:06:24
+
+digital
+ 00:06:26
+
+eh nas áreas rurais.
+ 00:06:28
+
+E isso. Então
+ 00:06:32
+
+eh o que é transformação digital, não é? Eu
+ 00:06:37
+
+queria começar
+ 00:06:40
+
+pelo começo, porque eu que trabalho com
+ 00:06:42
+
+isso, às vezes as pessoas ainda têm
+ 00:06:44
+
+muita dúvida. a gente tá falando
+ 00:06:46
+
+digitalização, usar as tecnologias
+ 00:06:48
+
+digitais, mas o que isso significa?
+ 00:06:50
+
+Então, o que eu queria dizer é que, bom,
+ 00:06:53
+
+nos últimos anos, eh, bom, todos nós
+ 00:06:56
+
+vimos, especialmente durante a pandemia,
+ 00:06:59
+
+não é, como as tecnologias digitais elas
+ 00:07:02
+
+estão mudando a a configuração, não é, e o
+ 00:07:05
+
+funcionamento de diversas cadeias de
+ 00:07:10
+
+valor e no fim das contas também a nossa
+ 00:07:13
+
+vida cotidiana.
+ 00:07:15
+
+Então, existem muitos exemplos recentes
+ 00:07:17
+
+de indústrias que passaram por uma
+ 00:07:20
+
+transformação
+ 00:07:22
+
+profunda, assim, devido à introdução de
+ 00:07:24
+
+uma ou mais eh tecnologias digitais. E
+ 00:07:26
+
+talvez os casos mais conhecidos sejam os
+ 00:07:30
+
+setores de transporte de passageiros, o
+ 00:07:32
+
+Uber, hospedagem com Airbnb,
+ 00:07:35
+
+entretenimento, não é? Um exemplo é a
+ 00:07:39
+
+Netflix e finanças. Todo mundo agora tem
+ 00:07:42
+
+uma conta em um em um banco digital. Em
+ 00:07:44
+
+em todos esses casos, a chegada de
+ 00:07:48
+
+dispositivos e aplicativos mudou
+ 00:07:51
+
+completamente
+ 00:07:53
+
+eh a forma como, não é, os processos eram
+ 00:07:55
+
+realizados e como também a oferta e a
+ 00:07:57
+
+demanda interagiu. E isso criou um novo
+ 00:08:01
+
+modelo de funcionamento da cadeia. E
+ 00:08:04
+
+quando as tecnologias digitais elas
+ 00:08:07
+
+entram numa cadeia, numa cadeia de
+ 00:08:09
+
+valor, elas começam provocando mudanças
+ 00:08:12
+
+progressivas que com o tempo podem levar
+ 00:08:15
+
+também à transformação total dessa
+ 00:08:19
+
+cadeia.
+ 00:08:22
+
+Mas afinal, como esse processo de
+ 00:08:26
+
+transformação digital acontece? E aí
+ 00:08:29
+
+podemos pensar em três etapas
+ 00:08:32
+
+principais. Primeiro seria a
+ 00:08:34
+
+digitização,
+ 00:08:37
+
+que é quando transformamos uma
+ 00:08:39
+
+informação que ela é física em formato
+ 00:08:41
+
+digital, que é, por exemplo, trocar
+ 00:08:44
+
+registros em papel por planilhas
+ 00:08:47
+
+eletrônicas. E aí depois vem a
+ 00:08:49
+
+digitalização,
+ 00:08:52
+
+que é a palavra muito usada hoje, que é
+ 00:08:54
+
+quando usamos a tecnologia para tá eh
+ 00:08:57
+
+otimizando um processo que já existe,
+ 00:09:02
+
+não é, como as operações bancárias online
+ 00:09:05
+
+que tornam tudo muito mais rápido, muito
+ 00:09:07
+
+mais conveniente do conforto da sua
+ 00:09:09
+
+casa. E aí vem a transformação digital,
+ 00:09:11
+
+que é quando mudamos completamente o
+ 00:09:15
+
+modelo ou a estratégia de uma cadeia de
+ 00:09:17
+
+valor, não é? Tá integrando tecnologias
+ 00:09:20
+
+digitais e focando essas tecnologias nas
+ 00:09:23
+
+necessidades do setor das pessoas. E aí,
+ 00:09:27
+
+no caso de um da agricultura, no caso de
+ 00:09:31
+
+um agricultor, então quando um
+ 00:09:34
+
+agricultor começa a registrar suas
+ 00:09:36
+
+atividades no aplicativo, isso é a
+ 00:09:39
+
+digitização.
+ 00:09:42
+
+quando ele instala sensores e combina,
+ 00:09:44
+
+não sei, dados climáticos para irrigar
+ 00:09:47
+
+melhor ou recebe, não é, por meio de um
+ 00:09:49
+
+aplicativo,
+ 00:09:53
+
+eh, assistência técnica, isso é uma isso
+ 00:09:55
+
+é o que a gente chama de digitalização.
+ 00:09:59
+
+E quando ele muda um um agricultor, ele
+ 00:10:02
+
+muda todo o seu modelo de produção e
+ 00:10:05
+
+vendas também com base em dados e um
+ 00:10:07
+
+contato direto com clientes. Isso é o
+ 00:10:11
+
+que a gente chama de eh transformação
+ 00:10:13
+
+digital.
+ 00:10:17
+
+Eh, quando a gente pensa em assistência
+ 00:10:18
+
+técnica, não é, nesse contexto, o acesso à
+ 00:10:20
+
+informação é uma das principais eh
+ 00:10:23
+
+oportunidades atribuídas à transformação
+ 00:10:26
+
+digital, essa ideia de que melhorando o
+ 00:10:30
+
+acesso à informação também possa
+ 00:10:33
+
+melhorar a tomada de decisão dos dos
+ 00:10:36
+
+agricultores e aumentar a eficiência da
+ 00:10:40
+
+das suas operações ali dentro da sua
+ 00:10:42
+
+fazenda, não é, ou as as operações
+ 00:10:45
+
+agrícolas como um todo. Então, eh, por
+ 00:10:48
+
+outro lado, a digitalização, ela vem
+ 00:10:51
+
+acompanhada de três condições principais
+ 00:10:53
+
+para o uso das tecnologias
+ 00:10:56
+
+eh nas zonas rurais, que estão eh
+ 00:10:59
+
+ilustradas aqui na segunda
+ 00:11:02
+
+eh na segunda figura, não é, à direita, que
+ 00:11:05
+
+aí primeiro é a disponibilidade de uma
+ 00:11:08
+
+infraestrutura adequada de internet, que
+ 00:11:10
+
+é fundamental para adoção, não é, dessas
+ 00:11:13
+
+tecnologias digitais. segundo que é
+ 00:11:16
+
+muito importante, que é a alfabetização
+ 00:11:19
+
+digital e dos agricultores e também eh
+ 00:11:21
+
+pensando aqui na assistência técnica,
+ 00:11:25
+
+não é, dos extensionistas. Então, é essa o
+ 00:11:27
+
+nível de educação, não é, e alfabetização
+ 00:11:32
+
+digital é crucial para utilizar de forma
+ 00:11:34
+
+eficaz as tecnologias de digitais. E
+ 00:11:39
+
+para alcançar eh essas duas condições,
+ 00:11:42
+
+há implementação de políticas públicas
+ 00:11:45
+
+que integrem políticas de
+ 00:11:48
+
+universalização do acesso à internet e
+ 00:11:52
+
+também políticas de incentivo à
+ 00:11:55
+
+alfabetização digital. Então, se uma
+ 00:11:58
+
+condição não for acompanhada das outras,
+ 00:12:01
+
+as desigualdades que já existem elas
+ 00:12:04
+
+podem podem aumentar.
+ 00:12:07
+
+Aí
+ 00:12:12
+
+sei.
+ 00:12:14
+
+Eh, então, nos últimos anos, a gente viu
+ 00:12:16
+
+eh
+ 00:12:20
+
+um aumento na conectividade
+ 00:12:21
+
+eh no Brasil, da infraestrutura de
+ 00:12:25
+
+conectividade no Brasil. Então, o
+ 00:12:27
+
+aumento dessa conectividade brasileira
+ 00:12:30
+
+nos permite hoje falar de ATER digital.
+ 00:12:32
+
+E por quê, não é? os dados mais recentes. E
+ 00:12:36
+
+aí, isso aqui eu ter que olhar aqui nas
+ 00:12:39
+
+minhas notas para falar esses dados
+ 00:12:42
+
+direitinhos, mas os dados mais recentes
+ 00:12:45
+
+do IBGE mostram que houve mudanças
+ 00:12:48
+
+expressivas no meio rural quando falamos
+ 00:12:52
+
+de conectividade, até então desde
+ 00:12:54
+
+2016, quando a PINATE contínua começou a
+ 00:12:59
+
+acompanhar anualmente o uso da internet,
+ 00:13:02
+
+dos celulares, o número de de domicílios
+ 00:13:05
+
+conectado só cresce. Então, em 2023, dos
+ 00:13:08
+
+mais de 78 milhões de domicílios
+ 00:13:13
+
+particulares, não é, no país, cerca de 72
+ 00:13:17
+
+milhões já tinham acesso à internet e
+ 00:13:21
+
+mais de 75 milhões possuíam pelo menos
+ 00:13:24
+
+um telefone celular.
+ 00:13:28
+
+Eh, isso significa que em 7 anos o
+ 00:13:30
+
+número de domicílios com internet
+ 00:13:34
+
+aumentou em torno de 40%.
+ 00:13:36
+
+E esse avanço ele não aconteceu apenas
+ 00:13:40
+
+nas cidades, não é, no campo também, na
+ 00:13:42
+
+zona rural. o crescimento foi
+ 00:13:44
+
+significativo.
+ 00:13:47
+
+Em 2023, eh, 81% dos domicílios rurais
+ 00:13:48
+
+estavam conectados, ou seja, não é, mais de
+ 00:13:53
+
+mais de 7 milhões de lares. E quando a
+ 00:13:57
+
+gente olha para os dispositivos mais
+ 00:14:00
+
+usados, a gente vê uma mudança muito
+ 00:14:04
+
+importante
+ 00:14:06
+
+que é os microcomputadores e os tablets,
+ 00:14:08
+
+eles perderam espaço, enquanto o
+ 00:14:11
+
+telefone celular ele se se concilidou
+ 00:14:14
+
+como principal meio de acesso. E esse
+ 00:14:17
+
+movimento acompanha também eh a
+ 00:14:19
+
+ampliação da cobertura dos serviços de
+ 00:14:22
+
+rede imóvel. Então esse cenário ele abre
+ 00:14:25
+
+novas possibilidades para a
+ 00:14:28
+
+digitalização dos serviços de de
+ 00:14:29
+
+assistência técnica.
+ 00:14:33
+
+E aqui vale lembrar também um dado do
+ 00:14:35
+
+censo agropecuário de 2000 2017 que 82%
+ 00:14:37
+
+dos agricultores familiares não
+ 00:14:43
+
+receberam
+ 00:14:45
+
+assistência técnica naquele ano e isso
+ 00:14:46
+
+mostra como a conectividade pode ser um
+ 00:14:50
+
+divisor de águas, não é, uma oportunidade
+ 00:14:53
+
+para até digital.
+ 00:14:56
+
+E e mais ainda que como a maioria dos
+ 00:14:58
+
+acessos acontece pelo celular,
+ 00:15:01
+
+precisamos pensar em quais os formatos
+ 00:15:03
+
+de conteúdo eh e ferramentas digitais
+ 00:15:06
+
+funcionam melhor eh nesse dispositivo. E
+ 00:15:09
+
+essa é uma é uma questão chave para que
+ 00:15:12
+
+as iniciativas de de AT digital
+ 00:15:15
+
+realmente cheguem ao agricultor, não é, de
+ 00:15:17
+
+forma prática, acessível, que seja
+ 00:15:19
+
+engajadora. Então, os números mostram
+ 00:15:22
+
+que os agricultores eles de fato estão
+ 00:15:24
+
+usando o celular. O próprio professor
+ 00:15:27
+
+Zoinha, que a gente tava conversando
+ 00:15:29
+
+antes de entrar online, tava me falando,
+ 00:15:31
+
+não é, que eles foram fazer,
+ 00:15:33
+
+aí eu vou falar, não sei se eu vou falar
+ 00:15:38
+
+certo aqui agora, mas acho que tava no
+ 00:15:40
+
+Paraná, não é, e que muitos dos
+ 00:15:41
+
+agricultores que eles conversaram lá já
+ 00:15:44
+
+usam eh o chat GPT, por exemplo, não é,
+ 00:15:46
+
+inteligência artificial pelo celular
+ 00:15:49
+
+regularmente.
+ 00:15:52
+
+Eh, OK.
+ 00:15:55
+
+Então, eh, qual o percurso, não é, voltando
+ 00:15:59
+
+aqui paraa minha dissertação, qual o
+ 00:16:02
+
+percurso que o Brasil vem trilhando para
+ 00:16:04
+
+modernizar os serviços de assistência
+ 00:16:07
+
+técnica e extensão rural? Então, esse é
+ 00:16:09
+
+um caminho que começou em 2020, 2020,
+ 00:16:12
+
+quando o governo federal lançou o
+ 00:16:16
+
+programa ATER Digital.
+ 00:16:18
+
+Então, eh, em 2020 foi,
+ 00:16:21
+
+o governo começou a dar os primeiros
+ 00:16:25
+
+passos, não é, rumo à digitalização do
+ 00:16:27
+
+desse serviço no Brasil. Então, esse
+ 00:16:29
+
+programa ele foi criado pela pela
+ 00:16:32
+
+Secretaria de Agricultura Familiar e
+ 00:16:35
+
+Cooperativismo, que é ligada ao mapa,
+ 00:16:37
+
+não é, e com um objetivo que era muito
+ 00:16:39
+
+claro, que é fortalecer e ampliar os
+ 00:16:42
+
+serviços de AT, modernizando as a as
+ 00:16:45
+
+instituições e incentivando também os
+ 00:16:49
+
+usos, o uso eh das tecnologias de
+ 00:16:51
+
+informação e comunicação. Então, a
+ 00:16:55
+
+justificativa,
+ 00:16:58
+
+não é, para criação desse programa foi
+ 00:16:59
+
+muito simples e direta. O modelo
+ 00:17:02
+
+tradicional de até não estava
+ 00:17:04
+
+conseguindo ampliar o seu alcance.
+ 00:17:06
+
+Então, o que se observa é uma aposta do
+ 00:17:08
+
+governo federal no poder eh da
+ 00:17:11
+
+digitalização,
+ 00:17:14
+
+no uso das tecnologias como um caminho
+ 00:17:15
+
+para chegar a mais produtores e superar
+ 00:17:19
+
+os gargalos da até pública. Então,
+ 00:17:22
+
+dentro desse programa, a gente pode eh
+ 00:17:25
+
+eu pude destacar, não é, duas frentes. A
+ 00:17:28
+
+primeira é a modernização das estruturas
+ 00:17:31
+
+da da ATER pública, das instituições de
+ 00:17:35
+
+de assistência técnica pública e a
+ 00:17:39
+
+segunda atuação da ANATEC, que é a a
+ 00:17:42
+
+Agência Nacional, não é, de assistência
+ 00:17:45
+
+Técnica e extensão Rural, que
+ 00:17:47
+
+estabeleceu parcerias com instituições
+ 00:17:49
+
+eh
+ 00:17:52
+
+estaduais. Então, em 2023, essas eh
+ 00:17:54
+
+essas parcerias elas foram firmadas com
+ 00:17:57
+
+cinco estados.
+ 00:17:59
+
+no Maranhão com a a Gerpe, Tocantins,
+ 00:18:01
+
+com a Ruralts, no Acre com a Ematé do
+ 00:18:05
+
+Acre, no Piauí com a Sada e no Amapá com
+ 00:18:08
+
+a Rurá, que são as empresas de extensão
+ 00:18:11
+
+pública dos estados, não é? Então, esses
+ 00:18:14
+
+acordos eles foram feitos por meio de
+ 00:18:17
+
+instrumentos específicos de parceria, em
+ 00:18:19
+
+que os recursos eles não precisam ser
+ 00:18:22
+
+devolvidos e o objetivo principal foi a
+ 00:18:25
+
+aquisição de equipamentos digitais para
+ 00:18:28
+
+apoiar atividades remotas, eh, como
+ 00:18:30
+
+computadores, tablets, notebooks, GPS e
+ 00:18:34
+
+até drones, não é? Então, eh, eu vou dar
+ 00:18:39
+
+aqui um exemplo mais concreto dessas
+ 00:18:42
+
+parcerias. não é, entre a
+ 00:18:45
+
+eh no Amapá, a parceria com a RURAP, que
+ 00:18:48
+
+é a empresa pública do estado, envolveu
+ 00:18:51
+
+um repasse de mais de R$ 200.000 para
+ 00:18:53
+
+implementação do projeto. E aí já o ano
+ 00:18:56
+
+passado, em 2024, novos acordos foram
+ 00:18:58
+
+assinados com a Imaté do Pará e o
+ 00:19:02
+
+Instituto de Desenvolvimento
+ 00:19:04
+
+Agropecuário e Florestal eh do Amazonas.
+ 00:19:05
+
+Então, cada instituição estadual, ela
+ 00:19:09
+
+elaborou o seu próprio
+ 00:19:11
+
+plano de trabalho, definindo como esses
+ 00:19:14
+
+recursos seriam aplicados, não é, na compra
+ 00:19:17
+
+dos equipamentos e na execução das
+ 00:19:20
+
+atividades dentro do programa até
+ 00:19:23
+
+digital.
+ 00:19:26
+
+E aqui, eh, eu observei também que
+ 00:19:27
+
+entrou um ponto muito interessante, que
+ 00:19:30
+
+a partir de 2021, todos os contratos,
+ 00:19:32
+
+eh, passaram a incluir, os contratos
+ 00:19:36
+
+entre ANATÉ e essas agências estaduais,
+ 00:19:40
+
+não é, passaram a incluir de forma
+ 00:19:42
+
+obrigatória as chamadas atividades
+ 00:19:44
+
+remotas, não é? Não era usado o termo
+ 00:19:47
+
+atividades digitais, mas atividades
+ 00:19:51
+
+remotas. Então, antes disso, essa
+ 00:19:53
+
+prática, ela não era mencionada, ou
+ 00:19:55
+
+seja, eh, a pandemia acelerou uma
+ 00:19:57
+
+mudança estrutural que a assistência
+ 00:20:02
+
+técnica digital, ela deixou de ser uma
+ 00:20:04
+
+opção e passou a ser trabalhada como uma
+ 00:20:06
+
+opção de metodologia dentro da TEC.
+ 00:20:09
+
+E bom, no ano passado também, 2024, não é,
+ 00:20:13
+
+no âmbito do programa, foi lançado a
+ 00:20:17
+
+plataforma Até mais digital,
+ 00:20:20
+
+que é que oferece conteúdo para
+ 00:20:22
+
+extensionistas em diversos formatos,
+ 00:20:25
+
+todos projetados para orientar e
+ 00:20:27
+
+capacitar esses agentes em suas
+ 00:20:29
+
+atividades de atendimento aos
+ 00:20:31
+
+produtores, tanto as remotas, não é, quanto
+ 00:20:33
+
+as presenciais. é uma iniciativa que
+ 00:20:35
+
+busca atender a uma demanda por
+ 00:20:38
+
+conteúdos que os técnicos de até possam
+ 00:20:40
+
+compartilhar de forma
+ 00:20:43
+
+eh mais rápida com os agricultores, não é,
+ 00:20:46
+
+utilizando aí as ferramentas digitais.
+ 00:20:49
+
+Eu sei que o ATMA Digital, essa
+ 00:20:51
+
+plataforma, ela já foi apresentada aqui
+ 00:20:53
+
+nesse canal, por isso eu não quero me
+ 00:20:55
+
+alongar muito nisso, mas eu queria fazer
+ 00:20:58
+
+um adendo aqui, que eu participei de um
+ 00:21:00
+
+evento na semana passada em Campinas, o
+ 00:21:02
+
+dia da agricultura digital,
+ 00:21:05
+
+em que o IC é um dos executores, o ICA é
+ 00:21:08
+
+o Instituto que eu trabalho, é um dos
+ 00:21:12
+
+executores
+ 00:21:14
+
+eh desse desse dessa plataforma, não é, da
+ 00:21:16
+
+Tem Digital. foi firmado um acorde de
+ 00:21:19
+
+cooperação técnica entre o ICA e a
+ 00:21:21
+
+Embrapa,
+ 00:21:23
+
+que é para dar continuidade a essa
+ 00:21:25
+
+plataforma, não é, nos próximos 5 anos e
+ 00:21:27
+
+lançar, eu acho que hoje essa
+ 00:21:31
+
+plataforma, ela já tem, se eu não me
+ 00:21:33
+
+engano, 18 ou 20 hubs temáticos, não é?
+ 00:21:35
+
+E nesses próximos 5 anos, além de outras
+ 00:21:40
+
+atividades que vão fazer no âmbito desse
+ 00:21:43
+
+acordo, o esperado é tá disponibilizando
+ 00:21:46
+
+mais 20 hubs dentro da plataforma.
+ 00:21:50
+
+Então, eh, voltando aqui, não é, através
+ 00:21:54
+
+dessas iniciativas que eu pude, o que eu
+ 00:21:57
+
+pude identificar é que existe sim por
+ 00:22:01
+
+parte do governo federal uma aposta na
+ 00:22:04
+
+digitalização
+ 00:22:06
+
+como uma estratégia para enfrentar o
+ 00:22:08
+
+desafio da baixa cobertura do serviço de
+ 00:22:12
+
+extensão rural, especialmente nas
+ 00:22:14
+
+regiões Norte e Nordeste. E por que eu
+ 00:22:16
+
+digo isso, não é? Porque
+ 00:22:19
+
+todos os empréstimos para a compra de
+ 00:22:21
+
+equipamentos novos, eles foram
+ 00:22:24
+
+destinados a estados dessas duas regiões
+ 00:22:26
+
+que que são regiões que historicamente
+ 00:22:29
+
+conhecidas por serem mais afetadas pela
+ 00:22:32
+
+baixa cobertura da extensão rural, não é? a
+ 00:22:37
+
+região onde os agricultores mais
+ 00:22:39
+
+precisam desse serviço.
+ 00:22:41
+
+Aí aqui o
+ 00:22:45
+
+próximo slide. E aí, diante das
+ 00:22:48
+
+tendências de digitalização
+ 00:22:51
+
+que vimos, eh eu identifiquei três
+ 00:22:53
+
+grandes propostas.
+ 00:22:57
+
+E a primeira é o uso das tecnologias
+ 00:22:59
+
+para facilitar a comunicação entre os
+ 00:23:02
+
+extensionistas e os agricultores.
+ 00:23:05
+
+Essa comunicação, ela pode ou não
+ 00:23:07
+
+envolver conteúdos digitais, não é, mas tem
+ 00:23:10
+
+como foco aproximar o técnico e o
+ 00:23:12
+
+produtor. A segunda proposta é a
+ 00:23:15
+
+orientação técnica, ou seja, a
+ 00:23:18
+
+capacitação online. E aqui entram os
+ 00:23:21
+
+conteúdos preparados pela AT e
+ 00:23:23
+
+disponibilizados na internet. diferentes
+ 00:23:25
+
+formatos. E a terceira proposta está
+ 00:23:28
+
+relacionada à gestão, o uso de
+ 00:23:31
+
+tecnologias para monitorar e coletar os
+ 00:23:34
+
+eh dados das atividades de extensão
+ 00:23:38
+
+rural, apoiando a organização e o
+ 00:23:40
+
+acompanhamento do trabalho. Então, essas
+ 00:23:44
+
+três áreas, não é, que é comunicação,
+ 00:23:46
+
+orientação, técnica e gestão, tão aqui
+ 00:23:48
+
+representadas no esse diagrama que eu
+ 00:23:52
+
+criei para tentar sintetizar as
+ 00:23:55
+
+experiências, não é, que eu cito no
+ 00:23:57
+
+trabalho.
+ 00:23:59
+
+E, bom, na prática, a comunicação
+ 00:24:01
+
+digital, ela se mostra cada vez mais
+ 00:24:04
+
+interativa, não é? Hoje os aplicativos de
+ 00:24:07
+
+mensagens, as redes sociais já são
+ 00:24:09
+
+amplamente utilizados para troca de
+ 00:24:11
+
+informações. Então, todas as entidades
+ 00:24:13
+
+de ATEC que são citadas, não é,
+ 00:24:17
+
+eh, dos vários estados ali do Norte,
+ 00:24:21
+
+Nordeste, também de Minas Gerais, eh,
+ 00:24:23
+
+elas possuem contas eh no Instagram,
+ 00:24:26
+
+onde divulgam notícias, informações,
+ 00:24:29
+
+suas atividades no Instagram e no
+ 00:24:32
+
+Facebook, não é? Mas o grande destaque aqui
+ 00:24:33
+
+é o WhatsApp. que é citado em quase
+ 00:24:37
+
+todos os estudos e relatórios sobre o
+ 00:24:39
+
+tema também, não é? Então, muitos
+ 00:24:42
+
+extensionistas eles passaram a atender
+ 00:24:44
+
+por esse aplicativo de forma espontânea,
+ 00:24:47
+
+muitas vezes atendendo ao pedido dos
+ 00:24:50
+
+próprios agricultores. Então, é um canal
+ 00:24:52
+
+que realmente cria uma proximidade
+ 00:24:55
+
+entre extensionista e agricultor, mas
+ 00:24:58
+
+claro, também traz outros desafios que é
+ 00:25:00
+
+como registrar essas interações, como
+ 00:25:04
+
+contabilizar o tempo de trabalho
+ 00:25:07
+
+dedicado desses extensionistas.
+ 00:25:10
+
+E aí outro ponto é que em muitos casos
+ 00:25:13
+
+os extensionistas acabam usando seus
+ 00:25:16
+
+próprios números pessoais para atender
+ 00:25:19
+
+os agricultores, não é? O que eu notei é
+ 00:25:21
+
+que essas agências elas não estão muito
+ 00:25:23
+
+preparadas
+ 00:25:24
+
+eh para essa troca que acaba sendo muito
+ 00:25:26
+
+pessoal no final das contas. Mas assim,
+ 00:25:31
+
+um exemplo muito interessante é o
+ 00:25:34
+
+aplicativo. Foi o aplicativo que ele não
+ 00:25:36
+
+existe mais, mas foi uma tentativa aí,
+ 00:25:39
+
+não é?
+ 00:25:41
+
+um aplicativo chamado Emate Digital,
+ 00:25:42
+
+criado no Piauí, a partir que foi um
+ 00:25:44
+
+aplicativo que surgiu a partir das
+ 00:25:48
+
+demandas dos agricultores por orientação
+ 00:25:50
+
+técnica via WhatsApp. Então, além de
+ 00:25:53
+
+apoiar com o CAR, que é o cadastro
+ 00:25:57
+
+ambiental rural, e na emissão da
+ 00:26:01
+
+declaração de aptidão ao PRONAF, o
+ 00:26:03
+
+aplicativo ele também gerava relatórios
+ 00:26:07
+
+sobre as atividades dos extensionistas e
+ 00:26:09
+
+das famílias atendidas. Então, embora
+ 00:26:12
+
+ele não esteja mais ativo, ele mostra eh
+ 00:26:15
+
+é um exemplo, não é, de como a
+ 00:26:18
+
+digitalização da AT não aconteceu apenas
+ 00:26:20
+
+de cima para baixo, mas também como
+ 00:26:23
+
+resposta a umas necessidades eh às
+ 00:26:26
+
+necessidades reais dos agricultores.
+ 00:26:29
+
+Então, na área de orientação técnica, um
+ 00:26:33
+
+outro exemplo é o portfólio de
+ 00:26:36
+
+aplicativos do
+ 00:26:38
+
+do IDR Paraná Digital, não é, da Agência de
+ 00:26:41
+
+Extensão Técnica do Paraná, que tem eles
+ 00:26:44
+
+têm diversos aplicativos, não é, na página
+ 00:26:48
+
+deles. um deles é de certificação de
+ 00:26:51
+
+produtos orgânicos até monitoramento
+ 00:26:53
+
+climático, mas também eh eh eu vejo
+ 00:26:56
+
+também uma limitação, não é, nesses
+ 00:27:00
+
+aplicativos que eles oferecem
+ 00:27:04
+
+informações que são estáticas, sem
+ 00:27:05
+
+interação direta com o agricultor, não é
+ 00:27:08
+
+uma troca. E aí a sua utilidade, ela vai
+ 00:27:10
+
+tá dependendo muito da alfabetização
+ 00:27:13
+
+digital desse usuário, não é? Como que ele
+ 00:27:17
+
+sabe
+ 00:27:20
+
+eh mexer mesmo com aplicativos, usar
+ 00:27:22
+
+esses aplicativos. E aí, por outro lado,
+ 00:27:25
+
+o sistema de mensagens da Ematé Ceará,
+ 00:27:28
+
+que
+ 00:27:33
+
+eles têm um sistema de mensagens pelo
+ 00:27:34
+
+próprio site deles que permite perguntas
+ 00:27:36
+
+e respostas diretas entre os
+ 00:27:39
+
+agricultores e os especialistas, os
+ 00:27:42
+
+técnicos. E apesar de ampliar a
+ 00:27:44
+
+interação, o fato de ser baseado apenas
+ 00:27:47
+
+em texto pode reduzir o alcance, não é, em
+ 00:27:51
+
+contexto com baixo nível de
+ 00:27:53
+
+alfabetização, porque é um sistema que
+ 00:27:55
+
+você entra, faz a sua pergunta e recebe
+ 00:27:57
+
+um texto no final.
+ 00:28:00
+
+Então, aí que vem um ponto importante
+ 00:28:02
+
+também, não é?
+ 00:28:05
+
+Porque eh eu fui procurar algumas
+ 00:28:08
+
+pesquisas sobre o assunto e o que eu
+ 00:28:10
+
+descobri foi que no meio rural o recurso
+ 00:28:13
+
+mais usado é o áudio do WhatsApp,
+ 00:28:16
+
+justamente por causa do alto índice de
+ 00:28:19
+
+seria de analfabetismo funcional, por
+ 00:28:23
+
+exemplo, eh, a Pinate contínua. Eh, bom,
+ 00:28:27
+
+um dado importante, não é, para
+ 00:28:31
+
+exemplificar isso. A Pinat contínua em
+ 00:28:32
+
+2000, eh, mostra que em 2023
+ 00:28:35
+
+a taxa de analfabetismo no Nordeste
+ 00:28:39
+
+chegou a 11,2%, enquanto a média
+ 00:28:42
+
+nacional foi de 5,4%.
+ 00:28:45
+
+E essa é uma área onde mais carece, não é,
+ 00:28:49
+
+de assistência técnica e onde também a
+ 00:28:51
+
+digitalização poderia trazer várias
+ 00:28:55
+
+oportunidades.
+ 00:28:57
+
+Porém, isso significa um duplo desafio,
+ 00:28:59
+
+que é além das dificuldades, não é, de
+ 00:29:03
+
+acesso aos serviços
+ 00:29:06
+
+eh de até, há também essas barreiras
+ 00:29:08
+
+educacionais que vão estar afetando a
+ 00:29:11
+
+relação com as ferramentas digitais. E
+ 00:29:13
+
+essas barreiras elas mostram que não
+ 00:29:17
+
+basta simplesmente transferir conteúdos
+ 00:29:21
+
+em texto para o digital, não é? É preciso
+ 00:29:24
+
+adaptar os materiais, usar áudio, usar
+ 00:29:27
+
+vídeo, recursos que sejam mais
+ 00:29:30
+
+intuitivos e acessíveis, quais são as
+ 00:29:32
+
+necessidades da população. Então, não é, só
+ 00:29:34
+
+assim, a comunicação digital, ela vai
+ 00:29:38
+
+poder de fato ser mais eficaz.
+ 00:29:42
+
+Então,
+ 00:29:47
+
+eh, para fazer uma síntese aqui, não é? As
+ 00:29:48
+
+iniciativas, o que eu pude perceber é
+ 00:29:52
+
+que as iniciativas de AT digital no
+ 00:29:54
+
+Brasil mostram um movimento de
+ 00:29:56
+
+transição, que são das práticas
+ 00:29:59
+
+tradicionais para modelos que integram
+ 00:30:01
+
+as ferramentas digitais. E é um caminho
+ 00:30:04
+
+que amplia as possibilidades de alcance
+ 00:30:07
+
+e eficácia dos serviços. Só que é
+ 00:30:09
+
+importante lembrar aqui que ainda
+ 00:30:12
+
+estamos falando de iniciativas que são
+ 00:30:14
+
+pontuais, recentes, algumas que são
+ 00:30:16
+
+estão em fase inicial. E é claro,
+ 00:30:19
+
+lembrando que eu terminei a minha
+ 00:30:22
+
+dissertação o ano passado, como eu disse
+ 00:30:23
+
+no início, não é? Quando a gente tá falando
+ 00:30:26
+
+de digitalização, de tecnologias
+ 00:30:28
+
+digitais, tudo tá mudando muito rápido.
+ 00:30:30
+
+Pode ser que esse ano já tenha novas
+ 00:30:32
+
+iniciativas públicas que estejam muito
+ 00:30:34
+
+mais avançadas, não é, com uma interação
+ 00:30:37
+
+com o público que seja bem mais eficaz
+ 00:30:40
+
+do que quando eu fiz essa pesquisa.
+ 00:30:44
+
+Então, eh, mas assim,
+ 00:30:47
+
+na minha visão, não é, de quando tava
+ 00:30:51
+
+escrevendo ali, não foi possível tirar
+ 00:30:53
+
+conclusões definitivas sobre o impacto
+ 00:30:55
+
+ou a eficácia desse processo de
+ 00:30:58
+
+digitalização. E outro ponto importante
+ 00:31:01
+
+também é que até o momento a política
+ 00:31:04
+
+nacional de até ela não possui uma
+ 00:31:07
+
+regulamentação específica sobre
+ 00:31:10
+
+digitalização. Ou seja, o tema ele tá na
+ 00:31:13
+
+agenda, eh, tá sendo discutido, mas
+ 00:31:16
+
+ainda falta uma formalização e
+ 00:31:19
+
+estratégica, não é, para dar
+ 00:31:22
+
+sustentação institucional a essas ações
+ 00:31:25
+
+que já existem de digitalização.
+ 00:31:29
+
+E aí respondendo, não é, a uma pergunta
+ 00:31:37
+
+inicial que é como a transformação
+ 00:31:41
+
+digital ela pode ampliar o alcance da
+ 00:31:44
+
+assistência técnica. A transformação
+ 00:31:47
+
+digital, ela amplia o alcance da até ao
+ 00:31:50
+
+aproximar os técnicos e os agricultores
+ 00:31:53
+
+por meio de celulares, não é, os
+ 00:31:56
+
+aplicativos, plataformas online,
+ 00:31:57
+
+superando a barreira da distância e do
+ 00:32:01
+
+tempo. Então,
+ 00:32:03
+
+é uma é uma ferramenta, não é? As as
+ 00:32:06
+
+ferramentas digitais elas permitem
+ 00:32:10
+
+oferecer conteúdos em formatos que são
+ 00:32:12
+
+mais acessíveis, como os áudios, como os
+ 00:32:14
+
+vídeos, podem ser mais acessíveis, não é?
+ 00:32:17
+
+Agora é importante
+ 00:32:21
+
+eh
+ 00:32:23
+
+dar um passo além do entusiasmo inicial
+ 00:32:25
+
+com a digitalização, que a gente precisa
+ 00:32:28
+
+refletir um pouquinho sobre o que essa
+ 00:32:31
+
+transição realmente
+ 00:32:33
+
+significa. O que eu observei foi que o
+ 00:32:36
+
+foco das políticas de até digital hoje é
+ 00:32:38
+
+a modernização institucional, não é, com um
+ 00:32:41
+
+esforço,
+ 00:32:44
+
+um esforço significativo para est
+ 00:32:46
+
+integrando as tecnologias de informação
+ 00:32:48
+
+e comunicação, as TIC, aos serviços de
+ 00:32:50
+
+até.
+ 00:32:54
+
+Mas aí também isso nos leva a pensar que
+ 00:32:55
+
+se não houver uma abordagem que seja,
+ 00:32:58
+
+não é, integrada, que leve em conta as
+ 00:33:00
+
+necessidades práticas dos
+ 00:33:02
+
+extensionistas, dos agricultores e
+ 00:33:04
+
+também as condições locais, a
+ 00:33:06
+
+digitalização pode acabar ficando
+ 00:33:08
+
+restrita a melhorar melhorar somente a
+ 00:33:11
+
+comunicação, o que já é importante,
+ 00:33:14
+
+claro, não é, mas não é suficiente para
+ 00:33:16
+
+transformar uma a realidade do campo.
+ 00:33:18
+
+Então
+ 00:33:22
+
+eu acho que assim a TED digital, não é,
+ 00:33:24
+
+deve ser vista não apenas como um meio
+ 00:33:26
+
+de transmitir informações por canais
+ 00:33:29
+
+digitais, mas como uma ferramenta capaz
+ 00:33:32
+
+de se adaptar e responder às múltiplas
+ 00:33:35
+
+realidades do país. E aqui, gente, a
+ 00:33:38
+
+gente precisa lembrar também, não é, que o
+ 00:33:41
+
+Brasil
+ 00:33:42
+
+e o Brasil é um país de dimensões
+ 00:33:44
+
+continentais, que é marcado por enorme
+ 00:33:46
+
+diversidade econômica, social, política.
+ 00:33:49
+
+Então, mesmo da mesmo dentro da
+ 00:33:52
+
+agricultura familiar, não existe uma
+ 00:33:54
+
+única agricultura, mas várias
+ 00:33:58
+
+agriculturas, há comunidades que ainda
+ 00:33:59
+
+não tm energia elétrica, não é? Então,
+ 00:34:02
+
+outras que enfrentam problemas que vão
+ 00:34:04
+
+muito além da conectividade, como o
+ 00:34:06
+
+isolamento físico, o analfabetismo, a
+ 00:34:08
+
+dificuldade de acesso à educação.
+ 00:34:12
+
+E essa dificuldade ela acaba mostrando
+ 00:34:15
+
+que a digitalização ela não pode ser
+ 00:34:17
+
+pensada como uma solução única, não é? ela
+ 00:34:20
+
+precisa considerar o perfil de cada
+ 00:34:23
+
+agricultor, o nível de escolaridade, a
+ 00:34:25
+
+familiaridade com as tecnologias e até o
+ 00:34:28
+
+interesse em adotar essas práticas que
+ 00:34:31
+
+também variam bastante.
+ 00:34:33
+
+E eh a pandemia, não é, do COVID acelerou
+ 00:34:36
+
+essa digitalização, ela trouxe avanço,
+ 00:34:40
+
+mas ela também expôs várias limitações.
+ 00:34:42
+
+Ah, a verdade é que a tecnologia ela tem
+ 00:34:46
+
+dois lados. um que pode reduzir as
+ 00:34:48
+
+desigualdades, mas também pode
+ 00:34:51
+
+ampliá-las. Então, pequenos, os pequenos
+ 00:34:53
+
+produtores, não é, correm o risco de ficar
+ 00:34:56
+
+ainda mais excluídos se não houver
+ 00:34:58
+
+investimentos consistentes em
+ 00:35:01
+
+capacitação e inclusão.
+ 00:35:03
+
+Eh, e outro ponto importante também é
+ 00:35:06
+
+como tornar essa digitalização
+ 00:35:09
+
+realmente atraente para o campo. A gente
+ 00:35:11
+
+sabe que muitos jovens continuam
+ 00:35:14
+
+migrando paraas cidades em busca de
+ 00:35:17
+
+oportunidades. E a tecnologia, por si
+ 00:35:18
+
+só, ela não resolve essa questão, não é?
+ 00:35:21
+
+Para fazer a diferença, ela
+ 00:35:24
+
+precisa estar mais conectada eh a
+ 00:35:28
+
+políticas mais amplas que tornem a vida
+ 00:35:30
+
+no campo mais promissora, mais
+ 00:35:33
+
+sustentável pros jovens e para as
+ 00:35:34
+
+famílias. E também isso significa olhar
+ 00:35:36
+
+com cuidado para os conteúdos digitais
+ 00:35:39
+
+que são produzidos, não é? Isso pensando na
+ 00:35:41
+
+até não basta simplesmente
+ 00:35:45
+
+disponibilizar materiais em textos, em
+ 00:35:48
+
+áudios ou vídeos. É fundamental que
+ 00:35:50
+
+esses conteúdos eles sejam pensados para
+ 00:35:53
+
+serem acessíveis, úteis e realmente
+ 00:35:56
+
+relevantes, não é? considerando as
+ 00:35:59
+
+habilidades de leitura e também de
+ 00:36:01
+
+interpretação dos agricultores,
+ 00:36:03
+
+não dá para simplesmente você enviar uma
+ 00:36:06
+
+um texto dando uma explicação muito
+ 00:36:10
+
+técnica para um agricultor. Então são
+ 00:36:12
+
+coisas que devem ser levadas em
+ 00:36:17
+
+consideração também. E aí no fim das
+ 00:36:19
+
+contas a pergunta central não é apenas
+ 00:36:21
+
+como a digitalização, não é, ela pode
+ 00:36:23
+
+aumentar o alcance da terra. A questão é
+ 00:36:25
+
+como usá-la de forma transformadora
+ 00:36:28
+
+e e a in a resposta, não é, passa por
+ 00:36:32
+
+iniciativas que sejam planejadas para
+ 00:36:36
+
+incluir, capacitar, empoderar, porque a
+ 00:36:38
+
+transformação ela precisa ir além da
+ 00:36:41
+
+tecnologia, ela tem que ser uma
+ 00:36:43
+
+estratégia integrada
+ 00:36:45
+
+que una inclusão digital, políticas de
+ 00:36:48
+
+fomento e acima de tudo impacto real na
+ 00:36:50
+
+vida desse desses agricultores. Então,
+ 00:36:52
+
+eu acho que a minha dissertação ela
+ 00:36:55
+
+permitiu mapear algumas tendências que
+ 00:36:57
+
+são tão muito importantes de até digital
+ 00:37:00
+
+pública e o que se observa é uma clara
+ 00:37:03
+
+aposta na digitalização como uma
+ 00:37:07
+
+estratégia para enfrentar um dos grandes
+ 00:37:09
+
+desafios da extensão rural brasileira
+ 00:37:12
+
+hoje, que é a baixa cobertura desses
+ 00:37:13
+
+serviços.
+ 00:37:16
+
+Eh, tem as iniciativas, não é, do programa
+ 00:37:18
+
+até digital reforçam esse movimento. De
+ 00:37:21
+
+um lado, com investimentos voltados para
+ 00:37:23
+
+melhorar a estrutura digital das
+ 00:37:26
+
+empresas públicas de AT e de outro com a
+ 00:37:28
+
+criação da plataforma até mais digital,
+ 00:37:31
+
+que não só disponibiliza os conteúdos,
+ 00:37:34
+
+não é, eh, e ferramentas que são adaptadas
+ 00:37:36
+
+ao meio digital, mas também oferece
+ 00:37:39
+
+capacitações
+ 00:37:41
+
+para que os extensionistas saibam como
+ 00:37:43
+
+usar esses recursos junto aos
+ 00:37:45
+
+agricultores.
+ 00:37:48
+
+Então, eh, no fim, o, o que eu tentei
+ 00:37:50
+
+fazer com esse trabalho foi contribuir,
+ 00:37:54
+
+trazer à tona questões centrais sobre o
+ 00:37:56
+
+alcance da assistência técnica, sobre a
+ 00:37:59
+
+infraestrutura de conectividade no
+ 00:38:01
+
+Brasil e sobre a inclusão digital, não é,
+ 00:38:03
+
+dentro da até pública.
+ 00:38:05
+
+E por fim, também é abrir um espaço para
+ 00:38:08
+
+um ponto fundamental, que é a
+ 00:38:12
+
+necessidade de pesquisas futuras que
+ 00:38:14
+
+aprofundem os desafios já identificados
+ 00:38:17
+
+e que investiguem também o papel do
+ 00:38:20
+
+setor privado nesse processo.
+ 00:38:22
+
+Então, eh,
+ 00:38:26
+
+passou falando, não é, do papel do setor
+ 00:38:30
+
+privado também, não só do público nesse
+ 00:38:34
+
+processo. Eu queria apresentar também um
+ 00:38:37
+
+pouco do que a gente vem fazendo
+ 00:38:40
+
+enquanto um programa regional de
+ 00:38:42
+
+digitalização.
+ 00:38:45
+
+Então, eh, a gente tem um evento que se
+ 00:38:47
+
+chama Semana da Agricultura Digital,
+ 00:38:52
+
+eh, que é um evento organizado, não é, pelo
+ 00:38:55
+
+pelo programa Digitalização do ICA desde
+ 00:38:58
+
+2022.
+ 00:39:01
+
+Nesse ano ele chega a sua quarta edição
+ 00:39:02
+
+e trata-se de um encontro que acontece
+ 00:39:05
+
+majoritariamente de forma presencial na
+ 00:39:08
+
+sede do Ica lá em São José na Costa
+ 00:39:11
+
+Rica, e que reúne os principais atores
+ 00:39:13
+
+de ecossistema de inovação digital das
+ 00:39:16
+
+Américas. Quando o evento começou em
+ 00:39:19
+
+2022, a primeira edição ela levou, a
+ 00:39:21
+
+gente levou 15tecs,
+ 00:39:24
+
+que são startups, não é, que trabalham com
+ 00:39:27
+
+tecnologias, soluções digitais focadas
+ 00:39:29
+
+na agricultura, na agropecuária. Então,
+ 00:39:32
+
+levamos 15tec selecionadas de vários
+ 00:39:35
+
+países por meio de uma elas foram
+ 00:39:38
+
+selecionadas por meio de um concurso
+ 00:39:41
+
+público. E a partir daí nasceu o foco da
+ 00:39:42
+
+semana, que é conhecer as soluções que
+ 00:39:45
+
+essas startups estavam desenvolvendo,
+ 00:39:48
+
+entender suas necessidades e os desafios
+ 00:39:51
+
+que enfrentam. Então, com o tempo, essa
+ 00:39:54
+
+iniciativa ela cresceu, passou a
+ 00:39:56
+
+envolver também outros atores, não é, com
+ 00:39:58
+
+instituições de pesquisa, como a própria
+ 00:40:00
+
+Embrapa, não é, aqui no Brasil, outras
+ 00:40:03
+
+organizações internacionais, não é,
+ 00:40:06
+
+universidades,
+ 00:40:08
+
+o setor privado e também o setor
+ 00:40:10
+
+público.
+ 00:40:12
+
+E aí, por que que eu tô falando isso?
+ 00:40:15
+
+Eh, a edição de 2025 desse evento, eh, é
+ 00:40:18
+
+um evento de uma semana, não é, de
+ 00:40:22
+
+majoritariamente presencial e ele terá
+ 00:40:25
+
+como foco principal esse ano conectar
+ 00:40:28
+
+soluções digitais aos desafios mais
+ 00:40:32
+
+urgentes da agricultura nas Américas.
+ 00:40:35
+
+Então, a programação ela será organizada
+ 00:40:37
+
+em sessões temáticas voltadas para os
+ 00:40:40
+
+processos agrícolas que já estão
+ 00:40:43
+
+passando por uma transformação digital
+ 00:40:45
+
+ou que podem se beneficiar muito desse
+ 00:40:48
+
+processo. E um desses temas centrais é
+ 00:40:51
+
+justamente a assistência técnica e a
+ 00:40:54
+
+extensão rural. Então, o objetivo, não é,
+ 00:40:56
+
+desse painel, dessa temática, eh, dentro
+ 00:40:59
+
+desse evento, é explorar novos caminhos
+ 00:41:03
+
+para a prestação de serviços de até
+ 00:41:06
+
+apoiados em ferramentas digitais. Então,
+ 00:41:09
+
+nós vamos discutir
+ 00:41:11
+
+eh como essas tecnologias podem
+ 00:41:13
+
+transformar os processos de assistência
+ 00:41:16
+
+e extensão e ao mesmo tempo quais são
+ 00:41:18
+
+quais são as implicações que essa
+ 00:41:21
+
+mudança traz para as instituições que
+ 00:41:24
+
+historicamente
+ 00:41:26
+
+oferecem esse serviço, não é? E o que
+ 00:41:28
+
+queremos, eh,
+ 00:41:30
+
+o que a gente quer com isso, com esse
+ 00:41:33
+
+painel, não é, é criar pontes, mostrar o
+ 00:41:35
+
+que os outros países estão fazendo, na
+ 00:41:37
+
+digitalização da agricultura e e da dos
+ 00:41:39
+
+serviços de até. Nesse caso, o Brasil
+ 00:41:43
+
+também estará presente apresentando a
+ 00:41:46
+
+plataforma Termis Digital, que é um
+ 00:41:48
+
+exemplo de que como o nosso país, não é,
+ 00:41:51
+
+tem avançado nesse tema. E além disso,
+ 00:41:53
+
+nós vamos olhar para o lado do setor
+ 00:41:56
+
+privado. Por isso, levamos algumas
+ 00:41:58
+
+artecs para mostrar como essas empresas
+ 00:42:00
+
+estão trabalhando, quem são os
+ 00:42:03
+
+produtores que elas estão alcançando,
+ 00:42:05
+
+quem são seus clientes, não é? Qual que é o
+ 00:42:07
+
+perfil desse cliente, o perfil desse
+ 00:42:09
+
+agricultor, quais são as dificuldades
+ 00:42:11
+
+desse agricultor eh para acessar os
+ 00:42:13
+
+serviços que essas startups estão
+ 00:42:16
+
+oferecendo e qual o impacto que elas
+ 00:42:19
+
+estão tendo, não é? Quais são os planos pro
+ 00:42:22
+
+futuro.
+ 00:42:24
+
+Então, é realmente uma oportunidade para
+ 00:42:26
+
+fazer uma um mapeamento
+ 00:42:28
+
+de soluções digitais para assistência
+ 00:42:31
+
+técnica. É porque assim, aqui eu deixei,
+ 00:42:33
+
+não é, eh
+ 00:42:36
+
+o a agenda para o o do painel, não é, o dia
+ 00:42:39
+
+que vai ter assistência técnica. Então,
+ 00:42:42
+
+a gente vai ter um keynote, eh, que vai
+ 00:42:45
+
+dar uma uma visão, não é, mais ampla do que
+ 00:42:48
+
+é a digitalização da assistência
+ 00:42:52
+
+técnica. E aí tem uma experiência
+ 00:42:54
+
+pública que é a do Brasil, que é a única
+ 00:42:55
+
+pública assim mais avançada que a gente
+ 00:42:58
+
+encontrou, e depois as privadas que
+ 00:43:01
+
+foram as EGTECs.
+ 00:43:03
+
+Mas para tá eh selecionando essas
+ 00:43:05
+
+startups, a gente abriu uma chamada
+ 00:43:09
+
+pública que foi dividida em temas. a
+ 00:43:11
+
+gente tem seis temas principais, um
+ 00:43:13
+
+deles é assistência técnica.
+ 00:43:15
+
+Então, além das que foram selecionadas,
+ 00:43:19
+
+não é, para participar, a gente já tem
+ 00:43:21
+
+informação sobre as outras que se
+ 00:43:23
+
+candidataram.
+ 00:43:25
+
+Eh, eu ainda não tive tempo, não é, a
+ 00:43:27
+
+equipe, nós não tivemos tempo, não é, para
+ 00:43:29
+
+tá trabalhando com esses dados, mas é
+ 00:43:32
+
+algo que planejamos
+ 00:43:34
+
+eh fazer no futuro após o evento, que
+ 00:43:37
+
+quais são as soluções que estão
+ 00:43:39
+
+disponíveis para os agricultores das
+ 00:43:41
+
+Américas quando pensamos em assistência
+ 00:43:43
+
+técnica. Então, a gente pode ver quais
+ 00:43:46
+
+são o objetivo, não é, de fazer essa
+ 00:43:50
+
+chamada para as startups se
+ 00:43:52
+
+candidatarem. é que a gente consegue
+ 00:43:55
+
+fazer esse rastreio por país. Ah, no
+ 00:43:57
+
+Brasil, as startups brasileiras que se
+ 00:44:00
+
+candidataram, não é, que são da dessa
+ 00:44:03
+
+temática, não é, desenvolvem soluções
+ 00:44:06
+
+digitais para assistência técnica, elas
+ 00:44:08
+
+estão estão trabalhando com esse tipo de
+ 00:44:10
+
+solução. No Chile eles já têm esse tipo
+ 00:44:13
+
+de solução. Então, a ideia foi essa
+ 00:44:16
+
+também, ter essa informação e que a
+ 00:44:19
+
+partir daí a gente consegue fazer
+ 00:44:21
+
+trabalhos com isso. O ano passado a
+ 00:44:23
+
+gente teve uma startup que participou do
+ 00:44:25
+
+evento que eles trabalhavam com
+ 00:44:27
+
+assistência técnica também e eles tinham
+ 00:44:29
+
+uma uma solução que era muito
+ 00:44:32
+
+interessante, não é, que era eles
+ 00:44:33
+
+trabalhavam com só com áudios de
+ 00:44:36
+
+WhatsApp porque eles viam que o
+ 00:44:38
+
+eh era uma solução que nasceu de uma
+ 00:44:43
+
+dificuldade,
+ 00:44:45
+
+um desafio que os agricultores tinham,
+ 00:44:47
+
+que era digitar mesmo o problema deles.
+ 00:44:49
+
+Então, a solução deles, eles recebiam
+ 00:44:52
+
+áudio, era só por áudio. O agricultor
+ 00:44:55
+
+falava: "Hoje
+ 00:44:58
+
+e aconteceu isso e isso na minha
+ 00:45:00
+
+plantação, hoje choveu muito". e eles
+ 00:45:02
+
+pegavam, não é, esses áudios e
+ 00:45:06
+
+transformavam em dados e aí depois
+ 00:45:07
+
+apresentavam esses dados, não é, junto com
+ 00:45:10
+
+os agricultores. Então, surgem soluções
+ 00:45:12
+
+bastante interessantes e que a gente já
+ 00:45:15
+
+consegue tá mapeando essas soluções, não é,
+ 00:45:17
+
+e entender também os desafios que essas
+ 00:45:21
+
+startups, que são as pessoas que
+ 00:45:24
+
+geralmente estão trabalhando ali mais de
+ 00:45:27
+
+perto com os agricultores. E a gente às
+ 00:45:29
+
+vezes pensa que no setor privado eles só
+ 00:45:33
+
+trabalham com os grandes agricultores,
+ 00:45:35
+
+mas às vezes eles também conseguem
+ 00:45:37
+
+alcançar alguns que são pequenos. E a
+ 00:45:38
+
+partir desse evento a gente consegue
+ 00:45:42
+
+também tá mapeando quais são essas
+ 00:45:44
+
+dificuldades para nós, como ICA, que é
+ 00:45:46
+
+um organismo internacional que atende os
+ 00:45:48
+
+países das Américas, não é, os países
+ 00:45:51
+
+membros, ajudando esses países no
+ 00:45:53
+
+fortalecimento, não é, no desenvolvimento
+ 00:45:56
+
+da sua agricultura. a gente pode com
+ 00:45:59
+
+isso ter informação para tá fazendo
+ 00:46:01
+
+police brief,
+ 00:46:02
+
+não é, de est dando recomendação aos
+ 00:46:04
+
+decisores políticos.
+ 00:46:07
+
+E só aproveitando aqui,
+ 00:46:09
+
+eh,
+ 00:46:15
+
+nós também temos essa plataforma que
+ 00:46:17
+
+chama,
+ 00:46:20
+
+ah, só uma coisa,
+ 00:46:22
+
+aqui tem o site, não é, da semana da
+ 00:46:24
+
+Agricultura Digital, que é
+ 00:46:26
+
+semanaad.intint,
+ 00:46:28
+
+int. Caso alguém tenha interesse, não é, de
+ 00:46:31
+
+tá olhando a agenda completa do evento,
+ 00:46:34
+
+se tem
+ 00:46:37
+
+interesse em participar. Esse evento ele
+ 00:46:40
+
+é híbrido, ele vai ser transmitido
+ 00:46:42
+
+também pelos canais do Ica, pelo
+ 00:46:44
+
+YouTube. Então, já fica aí o convite
+ 00:46:46
+
+para vocês participarem. saem realmente
+ 00:46:49
+
+discussões que são bem bacanas, bem
+ 00:46:53
+
+interessantes, não é, muito importantes,
+ 00:46:55
+
+eh, não só do Brasil, claro, não é, mas de
+ 00:46:57
+
+toda a região.
+ 00:47:00
+
+E aqui nós temos essa plataforma que foi
+ 00:47:03
+
+criada também pelo programa
+ 00:47:06
+
+digitalização, que é a plataforma Agtec
+ 00:47:08
+
+Américas, onde você pode encontrar
+ 00:47:11
+
+diversas soluções, não é, diversas
+ 00:47:14
+
+tecnologias que são desenvolvidas
+ 00:47:17
+
+eh pelas startups em diversos países. E
+ 00:47:20
+
+aí você pode buscar eh por categorias,
+ 00:47:23
+
+eh você pode buscar pelo nome, não é, de
+ 00:47:28
+
+uma de uma empresa ou também por
+ 00:47:30
+
+categorias. E aí quando você vai em
+ 00:47:32
+
+categorias tem lá os setores e o
+ 00:47:34
+
+subsetor. E um desses subsetor é
+ 00:47:36
+
+assistência técnica. Então você pode
+ 00:47:39
+
+buscar, não é, fazer esse filtro e vão
+ 00:47:42
+
+aparecer as soluções digitais que são
+ 00:47:44
+
+voltadas para assistência técnica nas
+ 00:47:46
+
+Américas. Então, é bastante
+ 00:47:49
+
+interessante.
+ 00:47:51
+
+Eh, é uma plataforma que está em
+ 00:47:52
+
+construção, então a gente tá sempre
+ 00:47:54
+
+atualizando, não é, porque precisa primeiro
+ 00:47:56
+
+mapear essas tecnologias
+ 00:47:58
+
+antes de
+ 00:48:01
+
+de subir, mas a gente vai tá sempre eh
+ 00:48:03
+
+atualizando. Então, fica aí o convite
+ 00:48:08
+
+também para acessar. E também nessa
+ 00:48:10
+
+plataforma tem um um espaço para casos
+ 00:48:13
+
+de digitalização que vão est eh de fato
+ 00:48:16
+
+apresentando esses processos que estão
+ 00:48:20
+
+em vias de digitalização,
+ 00:48:22
+
+que estão se transformando. E já tem um
+ 00:48:25
+
+caso disponível sobre assistência
+ 00:48:27
+
+técnica, que tá falando sobre eh um caso
+ 00:48:29
+
+privado de assistência técnica, tem ele
+ 00:48:33
+
+em formato de texto, não é, e um podcast
+ 00:48:35
+
+também. só tem uma limitação que tá em
+ 00:48:39
+
+espanhol, mas é bastante interessante
+ 00:48:42
+
+porque essa esse caso que a gente fez
+ 00:48:45
+
+dando foco, não é, a uma a uma startup,
+ 00:48:48
+
+eh, então é um serviço privado, mas
+ 00:48:52
+
+também tem a visão do agricultor que
+ 00:48:54
+
+utiliza esse serviço, o que que esses
+ 00:48:57
+
+agricultores estão pensando,
+ 00:48:58
+
+não é, qual a vantagem que eles vêm de
+ 00:49:01
+
+utilizar
+ 00:49:04
+
+eh as soluções digitais nos serviços
+ 00:49:05
+
+dele. Então, é bastante interessante.
+ 00:49:07
+
+Fica aí o convite para acessar
+ 00:49:09
+
+agtecamorcas.net.
+ 00:49:12
+
+E é isso, gente. Muito obrigada, não é,
+ 00:49:15
+
+pelo espaço. Eh, aqui também tá o meu
+ 00:49:18
+
+e-mail. Eh, se alguém tiver alguma
+ 00:49:21
+
+pergunta, se quiser participar da semana
+ 00:49:23
+
+da agricultura digital ou também saber,
+ 00:49:27
+
+não é, dos outros programas que das outras
+ 00:49:29
+
+iniciativas que a gente tá fomentando
+ 00:49:32
+
+desde o programa de digitalização,
+ 00:49:34
+
+eu estou totalmente à disposição.
+ 00:49:37
+
+>> Muito bom. Parabéns, Alice, pel essa
+ 00:49:42
+
+bela apresentação da Terra Digital.
+ 00:49:46
+
+grandes reflexões aqui sobre a TER
+ 00:49:48
+
+pública, não é, nesse avanço da assistência
+ 00:49:50
+
+TEC, extensão rural digital. Eh, as
+ 00:49:53
+
+reflexões elas elas vêm muito ao
+ 00:49:56
+
+encontro de todas as demandas dos
+ 00:49:58
+
+extensionistas, não é, que você comentou
+ 00:50:00
+
+aí, não é? Eh, uma das grandes reclamações
+ 00:50:02
+
+dos nossos extensionistas é que eles não
+ 00:50:05
+
+têm os materiais, os equipamentos que
+ 00:50:07
+
+possam tá também operacionalizando isso.
+ 00:50:10
+
+Isso é importante, você ter uma
+ 00:50:13
+
+infraestrutura também básica para
+ 00:50:15
+
+conseguir que implemente ações de ATER
+ 00:50:17
+
+digital em seus escritórios no pelos
+ 00:50:20
+
+Brasil inteiro. Isso é super relevante,
+ 00:50:23
+
+é fundamental, é uma demanda muito forte
+ 00:50:26
+
+dos nossos extensionistas também. Deixa
+ 00:50:29
+
+eu falar paraa Alice aqui quem é que tá
+ 00:50:31
+
+presente na live, não é? Nós temos aqui a
+ 00:50:33
+
+Jéssica, não é, doutoranda. Quem é que
+ 00:50:35
+
+obviamente tem mais gente presente, mas
+ 00:50:37
+
+a pessoal que se pronunciou aqui, a
+ 00:50:39
+
+Jéssica, nossa doutorando do PPG em
+ 00:50:42
+
+Ciência, tecnologia e sociedade,
+ 00:50:44
+
+ô Vinícius, hein, Vinícius, nosso nosso
+ 00:50:47
+
+amigo extensionista de D Paraná, dois
+ 00:50:49
+
+vizinhos. Obrigado pela tua presença,
+ 00:50:51
+
+Vinícius. Coisa boa te ver por aqui.
+ 00:50:53
+
+Quem mais temos aqui? professor Gilmar
+ 00:50:56
+
+Lafga da Universidade eh do estado do
+ 00:50:58
+
+Mato Grosso. Muito obrigado, Sor Gilmar,
+ 00:51:01
+
+sempre um prazer recebê-lo. A Leni
+ 00:51:04
+
+também aqui tá presente, deu um bom dia
+ 00:51:06
+
+aqui na live e agradecer todos que estão
+ 00:51:08
+
+aí, que não se pronunciaram, mas estão
+ 00:51:11
+
+aí assistindo também esse momento. Bom,
+ 00:51:12
+
+eh, Alice, eh, você já falou, não é? Na
+ 00:51:16
+
+verdade, as perguntas que eu tinha para
+ 00:51:20
+
+você, você respondeu no final, mas eu
+ 00:51:21
+
+vou reforçar, vou pedir para você ter
+ 00:51:23
+
+dar mais uma fala, não é? Aí você lembra
+ 00:51:26
+
+assim, o que que você acha de o que que
+ 00:51:28
+
+é a terra digital, mas principalmente a
+ 00:51:30
+
+digitalização, ela pode ajudar o nosso
+ 00:51:32
+
+agricultor familiar no futuro na tua
+ 00:51:34
+
+perspectiva, não é? Que que você acha que
+ 00:51:36
+
+pode ajudar? Você comentou dos desafios
+ 00:51:39
+
+também, como fez todo uma análise, não é?
+ 00:51:41
+
+Mas eu queria reforçar esse ponto assim
+ 00:51:43
+
+com você. O que que você imagina que
+ 00:51:45
+
+esse processo aí de digitalização pode
+ 00:51:48
+
+eh melhorar para o nosso trabalho do
+ 00:51:51
+
+agritor familiar no futuro?
+ 00:51:52
+
+Eu
+ 00:51:55
+
+acho que um dos pontos assim,
+ 00:51:57
+
+eh, não sei bem se responde a sua
+ 00:52:01
+
+pergunta, mas muito importante da
+ 00:52:03
+
+digitalização
+ 00:52:06
+
+pro futuro, é manter o jovem no campo. E
+ 00:52:08
+
+eu vejo isso, eh, porque assim, aqui no
+ 00:52:12
+
+Brasil eu não tô trabalhando direto com
+ 00:52:17
+
+um agricultor, familiar ou mesmo com um
+ 00:52:20
+
+extensionista, mas quando a gente pensa
+ 00:52:23
+
+nas startups, que é com quem eu tenho um
+ 00:52:26
+
+contato um pouco mais direto, e pergunta
+ 00:52:28
+
+para elas, não é, como tá sendo esse
+ 00:52:30
+
+trabalho, já tem essa resposta de que às
+ 00:52:33
+
+vezes é um filho de um agricultor que tá
+ 00:52:35
+
+procurando eh o trabalho para tá
+ 00:52:38
+
+modernizando, não é, eh, o, eh, os, os
+ 00:52:42
+
+serviços da dessa dessa família, não é, da
+ 00:52:48
+
+agricultura familiar. Então, eu acho que
+ 00:52:51
+
+a digitalização ela tem esse poder, esse
+ 00:52:54
+
+bem usada de tá mantendo o jovem no
+ 00:52:56
+
+campo e mudar um pouco o perfil que a
+ 00:52:59
+
+gente vê hoje da da agricultura
+ 00:53:01
+
+familiar.
+ 00:53:04
+
+>> Muito bom, não é? Excelente, excelente
+ 00:53:06
+
+reflexão. A questão da juventude oral é
+ 00:53:08
+
+importante, não é? Inclusive é os que mais
+ 00:53:10
+
+mexem. Não quer dizer que os mais
+ 00:53:12
+
+experientes não mexe também, mas é que
+ 00:53:14
+
+eles que têm essa habilidade e podem
+ 00:53:16
+
+propor também novas novas tecnologias.
+ 00:53:18
+
+Zuin, passa a palavra. Ah, Alice, por
+ 00:53:21
+
+favor, depois o Ah,
+ 00:53:23
+
+>> não, só um comentário assim, eu digo
+ 00:53:24
+
+isso também porque a gente vê que o
+ 00:53:26
+
+próprio perfil dos que estão eh
+ 00:53:28
+
+desenvolvendo as soluções digitais são
+ 00:53:31
+
+jovens que vêm eh de famílias que são
+ 00:53:33
+
+produtores rurais.
+ 00:53:37
+
+Então, como que esse ponto é importante,
+ 00:53:39
+
+não é? Porque às vezes você manda o seu
+ 00:53:41
+
+filho pra universidade para estudar e
+ 00:53:42
+
+agora ele está voltando já trazendo
+ 00:53:45
+
+novas ferramentas para serem utilizadas
+ 00:53:47
+
+e também para prestar um serviço no
+ 00:53:48
+
+entorno, não só para ser utilizado ali
+ 00:53:51
+
+dentro da própria eh,
+ 00:53:54
+
+não é, na é dentro da própria fazenda, da
+ 00:53:57
+
+própria produção, digamos assim.
+ 00:54:00
+
+>> É importante, não é? Porque eh você
+ 00:54:04
+
+comentou aí no passado, talvez não sei
+ 00:54:06
+
+se voltava tanto, não é? Parece é uma
+ 00:54:08
+
+tendência, não, não tenho ainda nem umas
+ 00:54:11
+
+pesquisas, mas há uma tendência que hoje
+ 00:54:13
+
+as pessoas estão estudando e estão eh
+ 00:54:15
+
+tem uma tendência de ficar na sua
+ 00:54:18
+
+propriedade, se ela dá condições para
+ 00:54:20
+
+isso, não é, também, não é, às vezes a
+ 00:54:22
+
+propriedade em si não dá condições não
+ 00:54:24
+
+só da infraestrutura, mas também de todo
+ 00:54:26
+
+um aparato da família para que isso
+ 00:54:29
+
+possa acontecer também. Zui tá contigo.
+ 00:54:30
+
+>> Muito bacana Alice apresentação e fez
+ 00:54:36
+
+com que a gente, não é, eh, tivesse vários
+ 00:54:39
+
+questionamentos, não é, a respeito de como
+ 00:54:42
+
+que hoje a TER digital ela tá
+ 00:54:46
+
+ou não está, não é, assim, bem definida,
+ 00:54:51
+
+não é, quando a gente fala de políticas
+ 00:54:55
+
+públicas, não é, você falou um pouquinho no
+ 00:54:57
+
+seu trabalho ali, não é, na sua
+ 00:54:59
+
+apresentação no final. de que falta, não é,
+ 00:55:01
+
+planejamento para uma ter digital, não é,
+ 00:55:03
+
+como política pública, não é, pelo menos
+ 00:55:07
+
+vai ser que eu entendi, posso ter
+ 00:55:09
+
+entendido errado, não é, mas, não é, num plano
+ 00:55:10
+
+nacional e daí regional também e assim
+ 00:55:14
+
+por diante, não é, pelo que a gente vê nos
+ 00:55:16
+
+órgãos hoje de extensão rural no Brasil,
+ 00:55:20
+
+somente alguns órgãos públicos, não é, a
+ 00:55:22
+
+gente observa essa preocupação com a TER
+ 00:55:25
+
+Digital, não é, e
+ 00:55:27
+
+como elaborar esse planejamento, essa
+ 00:55:31
+
+institucionalização dessa prática, não é,
+ 00:55:33
+
+ao senhor ver, não é, como é que como é que
+ 00:55:37
+
+a gente podia tá facilitando essa
+ 00:55:39
+
+eh e quando eu f quando digo a
+ 00:55:42
+
+institucionalização, tô dizendo nas
+ 00:55:44
+
+rotinas de trabalho mesmo, como é que o
+ 00:55:46
+
+extensionista rural, não é, vai tá, o órgão
+ 00:55:47
+
+de extensão rural público, não é, vai estar
+ 00:55:51
+
+auxiliando o seu extensionista a
+ 00:55:53
+
+utilizar essas ferramentas, não é, ali, não é,
+ 00:55:55
+
+e não é só uma questão de conectividade
+ 00:55:58
+
+ter aparelho e assim por diante, não é? não é?
+ 00:55:59
+
+Isso envolve muito mais coisas, não é? E
+ 00:56:01
+
+essas coisas, esses outros elementos que
+ 00:56:03
+
+eu queria ver com você, como é que que
+ 00:56:05
+
+que você acha que falta hoje pra gente
+ 00:56:06
+
+ter no nível nacional, não é? Uma um
+ 00:56:09
+
+planejamento para matéria digital mesmo,
+ 00:56:11
+
+não é? Porque ela já tá acontecendo, isso
+ 00:56:14
+
+você viu na sua pesquisa, ela já tá no
+ 00:56:16
+
+campo e há muito tempo, não é? Muito tempo
+ 00:56:17
+
+já tá lá, não é? Então essa essa é minha
+ 00:56:20
+
+grande questão, não é? Inclusive grande
+ 00:56:23
+
+questão do momento mesmo das minhas
+ 00:56:26
+
+pesquisas são é essa, não é? Uma delas.
+ 00:56:28
+
+Fique à vontade, a palavra é sua.
+ 00:56:30
+
+Ai, perdão.
+ 00:56:41
+
+Essa realmente é é uma é um assim, é uma
+ 00:56:43
+
+questão pouco,
+ 00:56:46
+
+não sei se complicada, não é? Mas talvez o
+ 00:56:49
+
+que falta pra institucionalização dá até
+ 00:56:52
+
+eh hoje assim seria transformar essas
+ 00:56:56
+
+iniciativas que já estão acontecendo,
+ 00:56:59
+
+mas às vezes elas são pontuais, que elas
+ 00:57:02
+
+estão fragmentadas, não fragmentadas que
+ 00:57:04
+
+eu diga, porque tá acontecendo algo
+ 00:57:08
+
+aqui, eh, no norte do país, no sul, eh,
+ 00:57:09
+
+então são coisas diferentes, não é? uma
+ 00:57:14
+
+política que ela seja uma política
+ 00:57:16
+
+pública mais estruturadas que tenha
+ 00:57:18
+
+diretrizes, tenha um financiamento
+ 00:57:20
+
+estável, eh talvez, não sei, mecanismos,
+ 00:57:23
+
+não é, de monitoramento e e avaliação.
+ 00:57:26
+
+Eh, ou seja, talvez não baste ter
+ 00:57:31
+
+projetos isolados, não é, ou experiências
+ 00:57:36
+
+estaduais isoladas. preciso incluir
+ 00:57:39
+
+oficialmente a digitalização na política
+ 00:57:43
+
+nacional de AT, não é, na Pinaté,
+ 00:57:45
+
+garantindo um apoio institucional, a
+ 00:57:48
+
+capacitação contínua dos extensionistas.
+ 00:57:50
+
+Eu acho que isso é muito importante, não é,
+ 00:57:52
+
+para
+ 00:57:54
+
+para ter essa como chegar eh
+ 00:57:56
+
+como é que eu posso dizer, como eh
+ 00:58:02
+
+promover a inclusão digital dos
+ 00:58:04
+
+produtores quando os próprios
+ 00:58:06
+
+extensionistas eles não estão recebendo
+ 00:58:08
+
+esse apoio. É, quando a gente estava no
+ 00:58:12
+
+evento lá em Campinas semana passada, no
+ 00:58:14
+
+dia da agricultura digital, eu tava
+ 00:58:17
+
+conversando com a e com alguém ali da
+ 00:58:18
+
+Embrapa, não é? E aí tava falando disso que
+ 00:58:22
+
+eles têm o ecampo, que é um programa de
+ 00:58:25
+
+formação, mas que tem muita crítica
+ 00:58:28
+
+nesse programa, que é porque os
+ 00:58:30
+
+extensionistas mesmos não eh às vezes
+ 00:58:32
+
+eles não entram, porque eles já sabem,
+ 00:58:35
+
+eles estão trabalhando no campo, eles já
+ 00:58:38
+
+sabem, não é, do o tema que tá sendo, os
+ 00:58:39
+
+temas que estão sendo tratados ali.
+ 00:58:42
+
+Porém, eh, os alunos, os estudantes da
+ 00:58:44
+
+área, eles estão utilizando. Então eu
+ 00:58:49
+
+acho que essa capacitação é muito
+ 00:58:51
+
+importante, mas também, primeiramente é
+ 00:58:53
+
+tá formando, eh, que as próprias
+ 00:58:56
+
+instituições elas estejam capacitadas
+ 00:58:59
+
+para isso, porque a gente sabe que tem
+ 00:59:01
+
+instituição de ATEC que às vezes não tem
+ 00:59:03
+
+dinheiro paraa gasolina, pro
+ 00:59:06
+
+extensionista, ele ir até o agricultor,
+ 00:59:11
+
+não é? E aí a gente tá pensando nessa esse
+ 00:59:15
+
+pessoal que ele tem que estar capacitado
+ 00:59:17
+
+com computador, como internet de
+ 00:59:19
+
+qualidade, que todos os dados eles
+ 00:59:21
+
+estejam numa nuvem. Então assim, eu acho
+ 00:59:23
+
+que o apoio institucional a tem que
+ 00:59:27
+
+chegar primeiro dessa maneira,
+ 00:59:30
+
+capacitando, acho que não é bem
+ 00:59:31
+
+capacitar, não é? Provendo a essas
+ 00:59:33
+
+instituições uma base muito sólida, uma
+ 00:59:36
+
+base tecnológica
+ 00:59:39
+
+bastante sólida, digamos assim. Não sei
+ 00:59:41
+
+se eu respondi muito bem essa pergunta.
+ 00:59:43
+
+>> Respondeu sim. E agora vou fazer uma
+ 00:59:47
+
+pergunta mais tranquila ainda, Alice.
+ 00:59:48
+
+Mais tranquila, não é? Ai, ai,
+ 00:59:51
+
+>> pela sua experiência no ICA, como é que
+ 00:59:54
+
+como é que o ICA, você, não é, pelo pelo
+ 00:59:57
+
+esse olhar do Ica, não é, pelo ver a
+ 01:00:00
+
+agricultura, não é, dessa parte digital
+ 01:00:04
+
+daqui a 10 anos, não é, como é que o
+ 01:00:06
+
+agricultor vai estar utilizando, não é,
+ 01:00:08
+
+para onde que a gente tá caminhando, não é,
+ 01:00:10
+
+essa digitalização dos territórios
+ 01:00:12
+
+rurais, não é, a comunicação digital, não é,
+ 01:00:14
+
+pelo olhar do ICA, não é, pelo que pelos
+ 01:00:17
+
+eventos, pela, não é, pelos documentos que
+ 01:00:19
+
+você tem contato. Eu
+ 01:00:22
+
+acho que daqui a 10 anos os agricultores
+ 01:00:30
+
+vão estar muito mais conectados do que
+ 01:00:33
+
+estão hoje, porque isso é um processo
+ 01:00:35
+
+que a gente vê assim diariamente. Você m
+ 01:00:37
+
+estava falando, não é, que não imaginava
+ 01:00:39
+
+que tantos agricultores utilizassem, por
+ 01:00:42
+
+exemplo, o chatt e mesmo os que não
+ 01:00:45
+
+utilizam, eles já conhecem. Eu só não
+ 01:00:47
+
+sei eh, eu acho que isso é uma
+ 01:00:51
+
+realidade, já tá acontecendo. As
+ 01:00:53
+
+tecnologias digitais, elas vão fazer
+ 01:00:55
+
+muito mais parte da vida dos
+ 01:00:56
+
+agricultores, dos extensionistas, do que
+ 01:00:58
+
+faz hoje. O que eu não sei é se os
+ 01:01:00
+
+países eles estão preparados para
+ 01:01:03
+
+acompanhar essa mudança.
+ 01:01:05
+
+E aqui, eh, e eu digo, preparados para
+ 01:01:10
+
+acompanhar essa mudança? eh, no sentido
+ 01:01:12
+
+de ter uma infraestrutura de tecnologia,
+ 01:01:15
+
+se os próprios eh o o próprio governo tá
+ 01:01:17
+
+mudando, tá sendo, que é o que chama de
+ 01:01:21
+
+governo digital, não é? essas agências,
+ 01:01:23
+
+elas estão mudando para o meio digital.
+ 01:01:26
+
+Eu não sei se vai ser possível
+ 01:01:28
+
+acompanhar
+ 01:01:29
+
+eh de dar entregar essa infraestrutura
+ 01:01:31
+
+que às vezes eh as soluções elas já
+ 01:01:34
+
+existem, elas elas já tão no mercado e a
+ 01:01:37
+
+ideia é que elas alcancem muito mais
+ 01:01:39
+
+gente com o tempo. Agora, o que eu acho
+ 01:01:42
+
+que, eu espero que não, não é, mas eu acho
+ 01:01:44
+
+que o que falta e o que não vai
+ 01:01:47
+
+acontecer daqui a 10 anos é os governos
+ 01:01:49
+
+estarem preparados para tá
+ 01:01:52
+
+eh dar infraestrutura necessária para
+ 01:01:55
+
+que os agricultores eles possam de fato
+ 01:01:58
+
+estar utilizando essa tecnologia, essas
+ 01:02:00
+
+soluções que já existem.
+ 01:02:03
+
+Não, não uma visão muito promissora, não é?
+ 01:02:09
+
+Mas é isso, a tendência, eu acho que é
+ 01:02:12
+
+crescer mesmo. A tendência é crescer, é
+ 01:02:14
+
+ter mais soluções,
+ 01:02:16
+
+>> eh ter mais agricultor conectado.
+ 01:02:18
+
+Eh, mas a gente precisa de
+ 01:02:21
+
+infraestrutura para isso.
+ 01:02:22
+
+>> Muito bom. Eh, concordo, concordo
+ 01:02:25
+
+contigo, Alice. E outra coisa que eu
+ 01:02:27
+
+gostaria de acrescentar, eu acho que a
+ 01:02:29
+
+gente dentro das instituições de ATER,
+ 01:02:31
+
+principalmente no Brasil, nós temos uma
+ 01:02:33
+
+cultura comunicacional, cultura
+ 01:02:36
+
+organizacional também muito
+ 01:02:38
+
+conservadora, não é? nós eh nós já rompemos
+ 01:02:40
+
+muito um pouquinho com a pandemia porque
+ 01:02:43
+
+foi obrigado isso em todas as
+ 01:02:45
+
+instituições, não é? Mas essa cultura
+ 01:02:46
+
+comunicacional conservadora, ela ainda
+ 01:02:49
+
+vai, ela impõe limites à AT digital e
+ 01:02:52
+
+isso acaba travando algumas coisas,
+ 01:02:56
+
+inclusive vai ao ponto de extensionista
+ 01:02:58
+
+desistir, por exemplo, de trabalhar numa
+ 01:03:01
+
+instituição porque não dá flexibilidade
+ 01:03:05
+
+para o que gostaria, não é? Então isso
+ 01:03:08
+
+também vai, não é, de encontro a a ao
+ 01:03:10
+
+avanço das tecnologias de você ter um
+ 01:03:14
+
+Wi-Fi no escritório, você ter um
+ 01:03:16
+
+telefone bom para trabalhar um
+ 01:03:19
+
+computador legal que não trava, não é? São
+ 01:03:21
+
+coisas assim básicas que ajuda, não é,
+ 01:03:23
+
+nesse nesse processo de desenvolvimento,
+ 01:03:26
+
+não é? Eu vejo que isso é fundamental, as
+ 01:03:28
+
+instições também tá preparadas para
+ 01:03:30
+
+mudar, não é, mudar um pouquinho, não é, para
+ 01:03:33
+
+deixar o trabalho que é o trabalho do
+ 01:03:35
+
+dia a dia, não é, para ele ser mais
+ 01:03:37
+
+operacionalizado, que é o que a gente
+ 01:03:39
+
+usa hoje, não é, todo mundo usa essas
+ 01:03:41
+
+ferramentas, não é? Um computador que
+ 01:03:43
+
+trava, não consigo fazer uma live, um
+ 01:03:45
+
+celular que trava, não consigo mandar
+ 01:03:47
+
+uma foto direito, não é? Então são são
+ 01:03:48
+
+coisas que operacionalizam o próprio
+ 01:03:51
+
+trabalho, não é? Isso aí fundamental. Bom,
+ 01:03:53
+
+Alice, dito isto, te passo a palavra
+ 01:03:55
+
+para tu fazer essa reflexão e fazer o
+ 01:03:58
+
+enceramento dessa grande live.
+ 01:04:00
+
+Bom, é isso. Eh, só fazendo um gancho
+ 01:04:03
+
+com o que você falou, se os se os
+ 01:04:06
+
+extensionistas dentro de uma instituição
+ 01:04:08
+
+que tem um preparo, tem todo um sistema
+ 01:04:11
+
+organizacional, eles possuem essas
+ 01:04:14
+
+dificuldades, imaginam os agricultores,
+ 01:04:16
+
+não é? Então, não basta simplesmente
+ 01:04:19
+
+eh falar as tecnologias elas estão aí,
+ 01:04:23
+
+porque o mercado privado ele tá
+ 01:04:27
+
+funcionando, todo dia tem algo novo, as
+ 01:04:28
+
+coisas estão caminhando. Mas como eh eu
+ 01:04:31
+
+acho que a minha reflexão é um chamado,
+ 01:04:34
+
+talvez é o papel do estado para tá
+ 01:04:37
+
+promovendo essa digitalização, que a
+ 01:04:40
+
+gente não consegue fazer isso sozinho, o
+ 01:04:42
+
+agricultor ele não vai conseguir fazer
+ 01:04:45
+
+isso sozinho, sem ter uma base, sem ter
+ 01:04:47
+
+um apoio institucional muito grande, não é?
+ 01:04:49
+
+Então eu acho que isso é muito
+ 01:04:53
+
+importante pra gente conseguir de fato
+ 01:04:54
+
+passar por esse processo de
+ 01:04:57
+
+digitalização.
+ 01:04:58
+
+Eh, sempre pensando nas dificuldades, eu
+ 01:05:00
+
+eh os agricultores eles sempre têm que
+ 01:05:02
+
+ser o objetivo final, não é? As
+ 01:05:04
+
+necessidades deles eh tem que ser o
+ 01:05:06
+
+objetivo final. Então tem que tá sempre
+ 01:05:09
+
+ah, como eu posso dizer? É trabalhando
+ 01:05:14
+
+em cima disso, em dar essa estabilidade
+ 01:05:17
+
+que precisa. Bom, gente, eu eu acho que
+ 01:05:20
+
+é isso da minha parte. Muito obrigada,
+ 01:05:23
+
+não é, pelo convite, pela discussão
+ 01:05:25
+
+e estou eh eu deixei o meu e-mail aí, eu
+ 01:05:29
+
+não sei se foi possível, não é, pegar, mas
+ 01:05:32
+
+estou disponível, caso queiram saber
+ 01:05:34
+
+mais um pouco do nosso trabalho do Iica.
+ 01:05:36
+
+Eu acredito que o ano que vem a gente já
+ 01:05:38
+
+consegue, não é, ter alguma
+ 01:05:41
+
+eh, eu espero, não é, ter algum tipo de
+ 01:05:44
+
+publicação também eh sobre esse assunto,
+ 01:05:47
+
+que, como eu disse, é algo que está é um
+ 01:05:50
+
+dos nossos temas de trabalho e que sim,
+ 01:05:52
+
+acompanhe, não é, eh, nos sites aí, que a
+ 01:05:57
+
+gente tá trabalhando com isso. É muito,
+ 01:06:00
+
+é um tema importante pra gente.
+ 01:06:02
+
+E é isso, eu estou disponível caso
+ 01:06:06
+
+alguém tenha alguma dúvida.
+ 01:06:08
+
+>> Muito obrigado, Alice, pela sua
+ 01:06:10
+
+explanação. Excelente live. Inclusive
+ 01:06:12
+
+que fizemos várias reflexões aqui
+ 01:06:15
+
+enquanto você palestrava. Isso é
+ 01:06:16
+
+importante porque dá um movimento. E
+ 01:06:19
+
+dizer assim, a gente não diz muito, mas
+ 01:06:21
+
+todos os tensionistas que estão aqui
+ 01:06:22
+
+presentes, compartilha essa live, manda
+ 01:06:24
+
+pro coleguinha. Vamos fomentar esse
+ 01:06:26
+
+debate aqui. A gente sempre deixa a live
+ 01:06:28
+
+gravada para que quem não pode assistir
+ 01:06:30
+
+agora pode assistir depois. Esse
+ 01:06:32
+
+movimento ele é importante. De pouquinho
+ 01:06:34
+
+em pouquinho a gente vai construindo uma
+ 01:06:36
+
+grande formação de extensionistas,
+ 01:06:39
+
+formação eh na área e também alinhamento
+ 01:06:41
+
+de planejamento de políticas públicas
+ 01:06:44
+
+frente a esse novo avanço da AT Digital.
+ 01:06:46
+
+Agradecer a todos que estão aqui
+ 01:06:49
+
+presentes, dizer que toda quarta-feira,
+ 01:06:50
+
+9 horas da manhã estamos aqui nesse
+ 01:06:52
+
+mesmo canal, nesse mesmo bate horário,
+ 01:06:54
+
+com um novo especialista na área de
+ 01:06:56
+
+extensão rural. Um abraço e até a
+ 01:06:58
+
+próxima oportunidade.
+ 01:07:00

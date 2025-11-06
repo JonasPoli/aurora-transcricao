@@ -1,0 +1,8 @@
+video_id: bpedpuY2-WA
+video_url: https://www.youtube.com/watch?v=bpedpuY2-WA
+title: Ouça o agradecimento de Costabeber pela condecoração do trabalho com sementes crioulas
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/24/2021

@@ -1,0 +1,8 @@
+video_id: j_NWn-mHusY
+video_url: https://www.youtube.com/watch?v=j_NWn-mHusY
+title: #roça #aterdigital #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2025

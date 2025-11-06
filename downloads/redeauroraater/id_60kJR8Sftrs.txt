@@ -1,0 +1,9 @@
+video_id: 60kJR8Sftrs
+video_url: https://www.youtube.com/watch?v=60kJR8Sftrs
+title: e Campo  plataforma de capacitações on line da Embrapa
+uploader: Rede Aurora
+speaker: Aline Branquinho Silva – EMBRAPA
+Lattes: http://lattes.cnpq.br/5424022961773992
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/21/2024

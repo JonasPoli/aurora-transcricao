@@ -1,0 +1,8 @@
+video_id: w3sFQlZeChU
+video_url: https://www.youtube.com/watch?v=w3sFQlZeChU
+title: #reflexão #deus #fe
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/25/2025

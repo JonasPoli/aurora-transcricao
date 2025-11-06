@@ -1,0 +1,9 @@
+video_id: xfJcsq_ZtNk
+video_url: https://www.youtube.com/watch?v=xfJcsq_ZtNk
+title: Conheça nosso Compartilhamento de Experiências em Extensão Rural 🍂 ☀ agora é presencial
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/28/2022

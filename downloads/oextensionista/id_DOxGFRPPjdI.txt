@@ -1,0 +1,8 @@
+video_id: DOxGFRPPjdI
+video_url: https://www.youtube.com/watch?v=DOxGFRPPjdI
+title: Como escolher as melhores experiências para sistematização na Extensão Rural?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2022

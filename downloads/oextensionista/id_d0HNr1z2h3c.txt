@@ -1,0 +1,8 @@
+video_id: d0HNr1z2h3c
+video_url: https://www.youtube.com/watch?v=d0HNr1z2h3c
+title: #caminhada #bergamota #roça #bandinha
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/20/2025

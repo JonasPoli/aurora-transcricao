@@ -1,0 +1,8 @@
+video_id: MGZSDRVSEP4
+video_url: https://www.youtube.com/watch?v=MGZSDRVSEP4
+title: Extensão rural no Brasil  há luz no final do túnel
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/06/2023

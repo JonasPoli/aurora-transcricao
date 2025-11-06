@@ -1,0 +1,8 @@
+video_id: pCehwIKUId4
+video_url: https://www.youtube.com/watch?v=pCehwIKUId4
+title: História do sistema Sicredi e Sicredi Região Centro RS/MG
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/01/2023

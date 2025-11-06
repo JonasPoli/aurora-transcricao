@@ -1,0 +1,8 @@
+video_id: _JGWmiZ4pHs
+video_url: https://www.youtube.com/watch?v=_JGWmiZ4pHs
+title: Direto ao ponto: O papel do extensionista entre pesquisadores e produtores rurais - Silvia Gomes
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/13/2022

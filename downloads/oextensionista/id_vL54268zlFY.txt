@@ -1,0 +1,8 @@
+video_id: vL54268zlFY
+video_url: https://www.youtube.com/watch?v=vL54268zlFY
+title: #roça #turismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/08/2025

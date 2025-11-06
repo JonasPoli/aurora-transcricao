@@ -1,0 +1,9 @@
+video_id: Uq5629k-rz0
+video_url: https://www.youtube.com/watch?v=Uq5629k-rz0
+title: História e perspectivas futuras da Extensão Rural Social
+uploader: Rede Aurora
+speaker: Luana Lucas Alves – EMATER/RS-ASCAR
+Lattes: http://lattes.cnpq.br/3166012635260526
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/08/2024

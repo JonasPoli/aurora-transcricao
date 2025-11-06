@@ -1,0 +1,8 @@
+video_id: zQWdmmcVJGw
+video_url: https://www.youtube.com/watch?v=zQWdmmcVJGw
+title: Extensionista conectado: o desafio do serviço de ATER na promoção da Inovação e da sustentabilidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2023

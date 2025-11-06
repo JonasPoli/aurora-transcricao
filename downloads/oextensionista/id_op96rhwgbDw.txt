@@ -1,0 +1,8 @@
+video_id: op96rhwgbDw
+video_url: https://www.youtube.com/watch?v=op96rhwgbDw
+title: #roça #deus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/16/2025

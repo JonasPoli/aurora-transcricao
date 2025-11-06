@@ -1,0 +1,8 @@
+video_id: v0yca_XLG0s
+video_url: https://www.youtube.com/watch?v=v0yca_XLG0s
+title: #motivação #roça #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/13/2025

@@ -1,0 +1,8 @@
+video_id: V-dsDsp2a2A
+video_url: https://www.youtube.com/watch?v=V-dsDsp2a2A
+title: #roça #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/18/2025

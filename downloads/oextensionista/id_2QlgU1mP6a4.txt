@@ -1,0 +1,8 @@
+video_id: 2QlgU1mP6a4
+video_url: https://www.youtube.com/watch?v=2QlgU1mP6a4
+title: #roça #turismo #colono #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/08/2025

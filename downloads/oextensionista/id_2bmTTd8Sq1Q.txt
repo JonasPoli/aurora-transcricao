@@ -1,0 +1,9 @@
+video_id: 2bmTTd8Sq1Q
+video_url: https://www.youtube.com/watch?v=2bmTTd8Sq1Q
+title: Plano Diretor da Embrapa 2024-2030 - Panorama atual da Agricultura Brasileira
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/13/2025

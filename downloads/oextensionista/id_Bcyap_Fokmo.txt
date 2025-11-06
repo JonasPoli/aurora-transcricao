@@ -1,0 +1,8 @@
+video_id: Bcyap_Fokmo
+video_url: https://www.youtube.com/watch?v=Bcyap_Fokmo
+title: #turismo #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/17/2025

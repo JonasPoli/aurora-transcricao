@@ -1,0 +1,8 @@
+video_id: Ts2f8bSpG6s
+video_url: https://www.youtube.com/watch?v=Ts2f8bSpG6s
+title: #roça #colono #fe
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2025

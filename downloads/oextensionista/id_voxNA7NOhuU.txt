@@ -1,0 +1,8 @@
+video_id: voxNA7NOhuU
+video_url: https://www.youtube.com/watch?v=voxNA7NOhuU
+title: #roça #riograndedosul #toropi
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/13/2025

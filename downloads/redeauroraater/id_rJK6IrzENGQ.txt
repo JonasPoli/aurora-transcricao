@@ -1,0 +1,9 @@
+video_id: rJK6IrzENGQ
+video_url: https://www.youtube.com/watch?v=rJK6IrzENGQ
+title: Panorama e desafios do ensino de Extensão Rural no Brasil
+uploader: Rede Aurora
+speaker: Laila Mayara Drebes – Universidade Federal do Sul e Sudeste do Pará, Instituto de Ciências Humanas
+Lattes: http://lattes.cnpq.br/0361181931528349
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/12/2023

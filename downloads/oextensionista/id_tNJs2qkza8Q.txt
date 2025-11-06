@@ -1,0 +1,9 @@
+video_id: tNJs2qkza8Q
+video_url: https://www.youtube.com/watch?v=tNJs2qkza8Q
+title: WhatsApp: diálogos e estratégias – Itesp
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9282294947416702
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2022

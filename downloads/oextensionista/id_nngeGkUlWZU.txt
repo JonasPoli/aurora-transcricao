@@ -1,0 +1,8 @@
+video_id: nngeGkUlWZU
+video_url: https://www.youtube.com/watch?v=nngeGkUlWZU
+title: Experiências em Ater Digital: o compartilhar da Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/08/2023

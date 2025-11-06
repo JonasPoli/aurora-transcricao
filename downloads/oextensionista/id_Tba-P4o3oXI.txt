@@ -1,0 +1,8 @@
+video_id: Tba-P4o3oXI
+video_url: https://www.youtube.com/watch?v=Tba-P4o3oXI
+title: Projeto de interesse individual ou de interesse coletivo? #extensãorural #projeto #cooperação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/21/2024

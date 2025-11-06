@@ -1,0 +1,8 @@
+video_id: PwBycP3yhPo
+video_url: https://www.youtube.com/watch?v=PwBycP3yhPo
+title: #motivação #deus #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

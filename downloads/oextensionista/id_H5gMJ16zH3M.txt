@@ -1,0 +1,8 @@
+video_id: H5gMJ16zH3M
+video_url: https://www.youtube.com/watch?v=H5gMJ16zH3M
+title: #roça #banana #gato #cats
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

@@ -1,0 +1,9 @@
+video_id: rsego0ZhKQA
+video_url: https://www.youtube.com/watch?v=rsego0ZhKQA
+title: A Escola Família Agrícola e sua contribuição para o desenvolvimento do Campo
+uploader: O Extensionista
+speaker: Adair Pozzebon – EFASC
+Lattes: http://lattes.cnpq.br/7071413420105540
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/03/2024

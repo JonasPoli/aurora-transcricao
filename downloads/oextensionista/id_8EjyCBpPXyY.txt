@@ -1,0 +1,8 @@
+video_id: 8EjyCBpPXyY
+video_url: https://www.youtube.com/watch?v=8EjyCBpPXyY
+title: Destaque de 4º Dia de Campo – Advanced Farm 360º: 17:29 - 22:29
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/11/2024

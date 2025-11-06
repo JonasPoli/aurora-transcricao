@@ -1,0 +1,8 @@
+video_id: I1HCd_99kB8
+video_url: https://www.youtube.com/watch?v=I1HCd_99kB8
+title: #roça #artesanato
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/31/2025

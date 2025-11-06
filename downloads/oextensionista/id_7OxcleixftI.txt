@@ -1,0 +1,8 @@
+video_id: 7OxcleixftI
+video_url: https://www.youtube.com/watch?v=7OxcleixftI
+title: #motivação #roça #bike #mtb #bikelover
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/05/2025

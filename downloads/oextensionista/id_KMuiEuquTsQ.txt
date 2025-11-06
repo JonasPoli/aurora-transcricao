@@ -1,0 +1,8 @@
+video_id: KMuiEuquTsQ
+video_url: https://www.youtube.com/watch?v=KMuiEuquTsQ
+title: Você já leu um livro esse ano? #livro #extensãorural #ensinosuperior
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/10/2025

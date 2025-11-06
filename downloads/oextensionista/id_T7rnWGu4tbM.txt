@@ -1,0 +1,8 @@
+video_id: T7rnWGu4tbM
+video_url: https://www.youtube.com/watch?v=T7rnWGu4tbM
+title: #roça #figo #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2025

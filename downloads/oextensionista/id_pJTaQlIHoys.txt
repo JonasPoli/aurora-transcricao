@@ -1,0 +1,9 @@
+video_id: pJTaQlIHoys
+video_url: https://www.youtube.com/watch?v=pJTaQlIHoys
+title: Crédito rural para o médio produtor? 🏦 🚜 🐂 conheça o PRONAMP
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/6098921341935837
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/06/2022

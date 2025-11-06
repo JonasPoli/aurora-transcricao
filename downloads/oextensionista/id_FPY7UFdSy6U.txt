@@ -1,0 +1,9 @@
+video_id: FPY7UFdSy6U
+video_url: https://www.youtube.com/watch?v=FPY7UFdSy6U
+title: Extensão universitária e sustentabilidade em rede: a experiência do assentamento rural Itamarati
+uploader: O Extensionista
+speaker: Juliana Carrijo
+Lattes: http://lattes.cnpq.br/8885477152489639
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/12/2025

@@ -1,0 +1,9 @@
+video_id: WgjaBKlc2B8
+video_url: https://www.youtube.com/watch?v=WgjaBKlc2B8
+title: Agricultura digital: adoção e difusão entre produtores rurais
+uploader: O Extensionista
+speaker: Maíra de Souza Regis
+Lattes: http://lattes.cnpq.br/2813923258412718
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2024

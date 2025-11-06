@@ -1,0 +1,8 @@
+video_id: ioSrQ09inGo
+video_url: https://www.youtube.com/watch?v=ioSrQ09inGo
+title: Vivências como metodologia de ensino da extensão rural a aproximação entre estudantes e agricultor
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/13/2023

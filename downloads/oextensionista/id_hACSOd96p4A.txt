@@ -1,0 +1,9 @@
+video_id: hACSOd96p4A
+video_url: https://www.youtube.com/watch?v=hACSOd96p4A
+title: Projeto O Extensionista – fase 2
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/25/2022

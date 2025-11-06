@@ -1,0 +1,4381 @@
+Olá a todos e todas extensionistas ris
+ 00:00:03
+
+agricultores e agricultoras jov Rais
+ 00:00:06
+
+pesquisadores e professores de exão ral
+ 00:00:09
+
+acadêmicos e demais públicos aqui
+ 00:00:12
+
+presentes sejam todos muito bem-vindos
+ 00:00:15
+
+meu nome équin professor de extensão
+ 00:00:17
+
+ural e quem está aqui conosco hoje é o
+ 00:00:20
+
+Professor luí Fernando Zuin da USP nosso
+ 00:00:23
+
+amigo fundador da rede Aurora de
+ 00:00:26
+
+diálogos em digital também está aqui com
+ 00:00:28
+
+nos com o nosso grandioso convidado
+ 00:00:32
+
+especialista em extensão rural de
+ 00:00:34
+
+Moçambique o João o Mateus João mar Ciro
+ 00:00:36
+
+Professor pesquisador e com quase duas
+ 00:00:41
+
+decas de experiência na área de extensão
+ 00:00:44
+
+Rural excelentes profissionais aqui no
+ 00:00:46
+
+Brasil e também em Moçambique então é
+ 00:00:48
+
+nesse dia 5 de Abril que nós estamos no
+ 00:00:51
+
+nosso terceiro evento de do ciclo de
+ 00:00:54
+
+diálogos em ater digital Semeando
+ 00:00:57
+
+propostas compartilhando saberes essa
+ 00:01:00
+
+Live aqui de hoje ela é intitulada o uso
+ 00:01:03
+
+de tecnologias digitais de informação e
+ 00:01:07
+
+comunicação as tics não é na agricultura
+ 00:01:09
+
+familiar em Moçambique desafios e
+ 00:01:12
+
+perspectivas que vai ser ministrada pelo
+ 00:01:15
+
+agrônomo e professor Mateus João marac
+ 00:01:18
+
+Siro essa Live então é uma iniciativa do
+ 00:01:20
+
+portal extensionista e da rede Aurora de
+ 00:01:23
+
+diálogos em até digital na América
+ 00:01:26
+
+Latina e com todos os nossos nossos
+ 00:01:28
+
+apoiadores que vocês podem conferir aqui
+ 00:01:30
+
+na descrição desse vídeo e depois a
+ 00:01:32
+
+gente também vai estar anunciando eles
+ 00:01:34
+
+aqui seja muito bem-vindo Professor Zuin
+ 00:01:36
+
+Professor Mateus é um prazer eh vocês
+ 00:01:39
+
+estarem conosco compartilhando seus
+ 00:01:41
+
+conhecimentos desde já nosso Muito
+ 00:01:43
+
+obrigado prazer é todo nosso Ezequiel
+ 00:01:46
+
+muito bom est aqui com você novamente
+ 00:01:50
+
+nesse ciclo de palestras Hoje a gente
+ 00:01:52
+
+vai aprender muito com Mateus não é a
+ 00:01:54
+
+respeito da África a gente que lê muito
+ 00:01:57
+
+artigo não é sobre Aé digital que chega de
+ 00:01:58
+
+lá é sobre extensão Rural não é digital e
+ 00:02:01
+
+eu tenho certeza que eu tô muito curioso
+ 00:02:06
+
+para saber o que o Mateus vai falar hoje
+ 00:02:08
+
+pra gente Mateus seja muito bem-vindo a
+ 00:02:10
+
+palavra é
+ 00:02:13
+
+sua aí eu enquanto o Mateus se ajusta aí
+ 00:02:14
+
+eu vou eu vou ler aqui o currículo dele
+ 00:02:19
+
+não é para ele se preparar mas é muito
+ 00:02:22
+
+interessante zoin mesmo realmente eh tem
+ 00:02:24
+
+vários artigos sobre extensão ao iat tal
+ 00:02:27
+
+da África isso isso tem me chamado
+ 00:02:30
+
+bastante atenção e li vários inclusive
+ 00:02:32
+
+eh de todos os cantos da África não é bom o
+ 00:02:34
+
+Mateus João maraco ele é agrônomo pela
+ 00:02:38
+
+Faculdade de Ciências agrárias da
+ 00:02:42
+
+Universidade Católica de Moçambique que
+ 00:02:43
+
+é ucm e ele fez o doutorado aqui no
+ 00:02:45
+
+Brasil não é na famosa escola da
+ 00:02:48
+
+Universidade Federal de Viçosa lá lá com
+ 00:02:50
+
+o pessoal extensão Rural foi diretor da
+ 00:02:52
+
+faculdade de ciências agrárias da un ril
+ 00:02:55
+
+20162 também também foi diretor adjunto
+ 00:02:58
+
+pedagógico da Faculdade de Ciências
+ 00:03:01
+
+agrárias e atualmente é o docente da
+ 00:03:03
+
+Faculdade de Ciências agrárias da un
+ 00:03:05
+
+luiu em Moçambique possui mais de 15
+ 00:03:07
+
+anos de experiência em projetos de
+ 00:03:10
+
+extensão rural em Moçambique e agora a
+ 00:03:12
+
+gente vai deixar a palavra então com
+ 00:03:15
+
+Mateus não é para que ele possa estar
+ 00:03:17
+
+compartilhando aí seus conhecimentos
+ 00:03:19
+
+sobre tick aí conosco
+ 00:03:21
+
+Muito obrigado Professor
+ 00:03:29
+
+Ezequiel agradecer também aqui o
+ 00:03:33
+
+professor Zuin pelo convite para estarmos
+ 00:03:35
+
+aqui a dialogar
+ 00:03:38
+
+sobre a essa digitalização da extensão
+ 00:03:40
+
+Rural
+ 00:03:45
+
+eh especificamente falar da
+ 00:03:47
+
+digitalização da extensão rural em
+ 00:03:49
+
+Moçambique tanto é um campo ainda muito
+ 00:03:51
+
+muito
+ 00:03:54
+
+fértil
+ 00:03:55
+
+e acredito que durante durante esse
+ 00:03:57
+
+processo também ah eu vou estou
+ 00:04:00
+
+aprendendo e o meu tema que é o uso de
+ 00:04:03
+
+tecnologias digitais de informação e
+ 00:04:06
+
+comunicação na agricultura familiar em
+ 00:04:08
+
+Moçambique tanto vou olhar para os
+ 00:04:11
+
+desafios e as perspectivas e só para os
+ 00:04:13
+
+que estão nos vendo de da América Latina
+ 00:04:17
+
+provavelmente seja importante mostrar um
+ 00:04:23
+
+pouco que a a o Map de Moçambique para
+ 00:04:26
+
+que tenham alguma
+ 00:04:31
+
+noção
+ 00:04:34
+
+ah de onde é que estamos a falar
+ 00:04:35
+
+examente
+ 00:04:44
+
+Ah não sei se consegue ver aí
+ 00:04:46
+
+já
+ 00:04:52
+
+tanto a
+ 00:04:57
+
+fazer a
+ 00:05:05
+
+su com
+ 00:05:09
+
+África do
+ 00:05:11
+
+Sul
+ 00:05:13
+
+a tanto toda Leste
+ 00:05:15
+
+de MOA tanto essa é uma particularidade
+ 00:05:19
+
+muito importante tanto tanto essa
+ 00:05:23
+
+questão também de isso já H A há várias
+ 00:05:27
+
+possibilidades
+ 00:05:32
+
+H tanto de desenvolvimento a questão com
+ 00:05:33
+
+os outros países do mundo assim eu vou
+ 00:05:37
+
+passar já a interromper essa a a a a
+ 00:05:40
+
+apresentação
+ 00:05:43
+
+ 00:05:45
+
+e não sei se já está interrompida essa
+ 00:05:47
+
+apresentação acredito que sim ah nisso
+ 00:05:50
+
+eu vou tanto olhar aqui para os
+ 00:05:53
+
+elementos
+ 00:05:57
+
+ah a ah os elementos mais importantes e
+ 00:05:58
+
+eh Praticamente todo o um pouco de
+ 00:06:04
+
+percurso de Moçambique Achei que tinha
+ 00:06:07
+
+que fazer aqui um prólogo não é para os
+ 00:06:10
+
+que e a a
+ 00:06:13
+
+a não conheçam Moçambique Ah porque
+ 00:06:15
+
+esses elementos vão ajudar a perceber a
+ 00:06:19
+
+realidade a a a ou a situação atual de
+ 00:06:23
+
+Moçambique Moçambique foi colonizado
+ 00:06:27
+
+pelos portugueses
+ 00:06:29
+
+e para sua libertação passou por um
+ 00:06:31
+
+período de cerca de 10 anos de luta de
+ 00:06:34
+
+libertação colonial e em
+ 00:06:37
+
+1974 foi nomeado governo de transição
+ 00:06:41
+
+este conduziu o processo que culminou
+ 00:06:45
+
+com a proclamação da Independência no
+ 00:06:49
+
+dia 25 de junho de
+ 00:06:52
+
+1975 no entanto um ano depois ou seja em
+ 00:06:55
+
+1976 inicia uma guerra civil a que durou
+ 00:07:00
+
+cerca de 16 anos cujo o acordo Geral de
+ 00:07:04
+
+paz sensação das hostilidades foi
+ 00:07:08
+
+assinado a 4 de outubro de
+ 00:07:11
+
+1992 no período entre
+ 00:07:17
+
+1895 e
+ 00:07:20
+
+1965 o late fundiário ocupou as terras
+ 00:07:22
+
+dos Agricultores familiares para para
+ 00:07:26
+
+produzir canna de Açúcar cisal cobra
+ 00:07:30
+
+Caju algodão e chá tanto a cultura
+ 00:07:34
+
+estavam orientadas para alimentar a
+ 00:07:37
+
+indústria
+ 00:07:40
+
+eh já em
+ 00:07:41
+
+1976 foram criadas as empresas agrárias
+ 00:07:44
+
+estatais isso aconteceu justamente com o
+ 00:07:47
+
+processo da nas das nacionalizações
+ 00:07:51
+
+portanto essas empresas ah passaram a
+ 00:07:54
+
+gerir o late fundiário tanto que era
+ 00:07:58
+
+explorado pelos portugueses Ah e estas
+ 00:08:02
+
+empresas agrárias estatais exerceram as
+ 00:08:05
+
+primeiras atividades relacionadas à
+ 00:08:08
+
+extensão Rural Ah e por conta da guerra
+ 00:08:11
+
+e outros fatores
+ 00:08:15
+
+ah essas empresas vieram a colapsar na
+ 00:08:17
+
+década de 1980 Ah isto posto o governo
+ 00:08:20
+
+Aumentou a atenção pela agricultura
+ 00:08:25
+
+familiar Portanto o que veio a culminar
+ 00:08:28
+
+com a criação dos serviços de extensão
+ 00:08:31
+
+rural em
+ 00:08:35
+
+1987 bom esses serviços por conta do
+ 00:08:38
+
+período de guerra etc Ah não funcionaram
+ 00:08:42
+
+eh Como devia ser portanto vieram a
+ 00:08:45
+
+funcionar
+ 00:08:49
+
+Ah e tendo uma cobertura nacional a
+ 00:08:50
+
+partir do ano 1992 com tanto após a
+ 00:08:54
+
+assinatura do acordo Geral de
+ 00:08:58
+
+paz importa referir que desde a primeira
+ 00:09:01
+
+Constituição da República de Moçambique
+ 00:09:05
+
+a a terra foi considerada Propriedade do
+ 00:09:07
+
+Estado portanto ela não pode ser vendida
+ 00:09:11
+
+alienada e nem hipotecada tanto a nossa
+ 00:09:14
+
+Constituição ainda continua com essa
+ 00:09:17
+
+mesma linha a moambique de forma geral
+ 00:09:21
+
+apresenta 36 milhões de hectares de
+ 00:09:24
+
+terra arável
+ 00:09:27
+
+desses cerca de 10% estão sendo
+ 00:09:29
+
+explorados para atividades
+ 00:09:32
+
+agrícolas no entanto a maior parte da
+ 00:09:35
+
+área usada para atividades agrícolas que
+ 00:09:38
+
+é de cerca de
+ 00:09:40
+
+98% é ocupada por pequenas explorações
+ 00:09:42
+
+agrícolas de cerca de 2 ha portanto Essa
+ 00:09:45
+
+é uma das características
+ 00:09:49
+
+ah do do do setor familiar em Moçambique
+ 00:09:50
+
+tanto as áreas variam entre 0 a 10 ha
+ 00:09:54
+
+mais em média são 10 haar e que a a a
+ 00:09:58
+
+mão de obra praticamente é familiar
+ 00:10:02
+
+poucas vezes ou poucos casos ah os
+ 00:10:06
+
+agricultores familiares chegam a
+ 00:10:09
+
+contratar a mão deobra externa
+ 00:10:11
+
+eh atualmente cerca de 70% da população
+ 00:10:14
+
+economicamente ativa Ah trabalha no
+ 00:10:18
+
+setor Agrário e aqui importa referir que
+ 00:10:21
+
+cerca de 7% ah dos Agricultores têm
+ 00:10:25
+
+acess acesso a serviços de extensão
+ 00:10:28
+
+Rural tanto aqui estou a falar do último
+ 00:10:31
+
+dado ah a divulgado pelo Ministério de
+ 00:10:33
+
+Agricultura e desenvolvimento Rural
+ 00:10:37
+
+nisso é importa referir que em 2005 a
+ 00:10:40
+
+cobertura de extensão Rural foi de cerca
+ 00:10:43
+
+de 15% portanto
+ 00:10:46
+
+ah essa cobertura tanto ainda está muito
+ 00:10:48
+
+abaixo do que ah devia ser essa
+ 00:10:52
+
+realidade pode estar relacionada a
+ 00:10:55
+
+limitações de recursos
+ 00:10:57
+
+financeiros materiais e humanos e da
+ 00:10:59
+
+fraca qualidade das infraestruturas de
+ 00:11:03
+
+estrada tanto há muita literatura que
+ 00:11:06
+
+aborda essa questão e falando em
+ 00:11:08
+
+estradas principalmente na época chuvosa
+ 00:11:12
+
+que a época pico a a
+ 00:11:14
+
+que há mais atividades a a realizar
+ 00:11:17
+
+tanto há muita dificuldade dos técnicos
+ 00:11:22
+
+de extensão Rural se deslocarem às zonas
+ 00:11:25
+
+de ção e acompanhar os
+ 00:11:28
+
+agricultores até 2019 Moçambique contava
+ 00:11:33
+
+com cerca de 2.000 extensionistas tanto
+ 00:11:36
+
+um número abaixo das recomendações da
+ 00:11:40
+
+FAU pois seriam
+ 00:11:43
+
+necessário contratar mais de 16.000
+ 00:11:46
+
+extensionistas para atender os
+ 00:11:49
+
+agricultores familiares portanto aqui
+ 00:11:51
+
+esse número pode ter sofrido alguma
+ 00:11:54
+
+alteração porque ah de 2000 201 para cá
+ 00:11:57
+
+tá sendo implementado um programa que o
+ 00:12:00
+
+sustenta que contratou Ah um número
+ 00:12:02
+
+considerável de técnicos mas assumo eu
+ 00:12:06
+
+que ainda continuamos com um défice para
+ 00:12:09
+
+alcançar a a recomendação da
+ 00:12:13
+
+FAU considerando a importância do setor
+ 00:12:17
+
+Agrário para a produção de comida a
+ 00:12:21
+
+redução da pobreza e a sua contribuição
+ 00:12:24
+
+para a economia tanto para o caso
+ 00:12:27
+
+Moçambique contribuiu com cerca de 23%
+ 00:12:29
+
+do produto interno bruto a exigência de
+ 00:12:33
+
+servício de extensão Rural devidamente
+ 00:12:36
+
+equipados eh torna-se uma a peça
+ 00:12:39
+
+fundamental
+ 00:12:42
+
+a junto aos agricultores para a melhoria
+ 00:12:44
+
+dos meios de vida desses sujeitos p são
+ 00:12:48
+
+a a
+ 00:12:52
+
+agricultores precisam desse
+ 00:12:54
+
+acompanhamento eh
+ 00:12:56
+
+recordando que a extensão Rural não é
+ 00:13:00
+
+uma panaceia para os diversos problemas
+ 00:13:02
+
+das famílias rurais sobretudo nos países
+ 00:13:05
+
+em desenvolvimento como é o caso ah de
+ 00:13:09
+
+Moçambique que apresenta altos níveis de
+ 00:13:12
+
+pobreza e baixa produtividade a título
+ 00:13:14
+
+de exemplo destaca--se a cultura de
+ 00:13:20
+
+milho ah considerada uma das mais
+ 00:13:22
+
+importantes na dieta dos moçambicanos
+ 00:13:24
+
+que apresenta um um rendimento médio de
+ 00:13:27
+
+1.2 Tonel por hectar
+ 00:13:30
+
+Ah assim a extensão Rural pública é
+ 00:13:35
+
+desafiada a desenvolver
+ 00:13:38
+
+Ah e combinar um conjunto de métodos que
+ 00:13:41
+
+proporcione melhorar a sua contribuição
+ 00:13:45
+
+e relevância económica Social e
+ 00:13:48
+
+Ambiental assim como também cultural
+ 00:13:52
+
+porque a olhando por exemplo para o caso
+ 00:13:55
+
+de
+ 00:13:58
+
+tem uma diversidade cultural que e eh a
+ 00:13:59
+
+extensão rular deve prestar a atenção
+ 00:14:03
+
+nesses promenores para garantir tanto a
+ 00:14:06
+
+sua contribuição e permitir que mais
+ 00:14:09
+
+agricultores familiares tenham acesso a
+ 00:14:12
+
+esses
+ 00:14:15
+
+serviços para o alcance de melhores
+ 00:14:17
+
+resultados a extensão Rural Ah deve
+ 00:14:20
+
+considerar a diversidade cultural e
+ 00:14:23
+
+linguística tanto em Moçambique são
+ 00:14:26
+
+faladas cerca de 22 línguas nacionais
+ 00:14:29
+
+portanto isso coloca o cionista numa
+ 00:14:33
+
+situação de desafio pois ele tem que
+ 00:14:35
+
+aprender a língua local Principalmente
+ 00:14:39
+
+se o extensionista sai tanto da sua
+ 00:14:41
+
+província para outra para exercer
+ 00:14:45
+
+atividade de extensão Rural então ele
+ 00:14:47
+
+tem que ser uma pessoa com uma certa
+ 00:14:50
+
+flexibilidade para poder aprender a
+ 00:14:54
+
+língua Ou até mesmo eh eh eh nos
+ 00:14:57
+
+primeiros dias calhar usar um agricultor
+ 00:15:00
+
+para interpretar para garantir que a sua
+ 00:15:04
+
+intervenção tenha os impactos desejados
+ 00:15:07
+
+e é importante também mencionar que 39%
+ 00:15:11
+
+da população é analfabeta portanto
+ 00:15:15
+
+analfabeto é todo cidadão moçambicano
+ 00:15:17
+
+que tenha a idade ah de até 15 anos que
+ 00:15:20
+
+não saiba ler e escrever portanto a essa
+ 00:15:23
+
+percentagem portanto é também
+ 00:15:28
+
+considerável mostrando exatamente a
+ 00:15:29
+
+importância de considerar essas questões
+ 00:15:32
+
+culturais e linguísticas na intervenção
+ 00:15:34
+
+dos extensionistas a fraca consideração
+ 00:15:38
+
+dessas questões pode constituir um
+ 00:15:40
+
+obstáculo para o processo de
+ 00:15:43
+
+compartilhamento de informações e
+ 00:15:45
+
+tecnologias agrárias assim como a tomada
+ 00:15:47
+
+de decisões tanto se o extensionista não
+ 00:15:51
+
+consegue dialogar com um agricultor que
+ 00:15:54
+
+fala uma língua ah Nacional tanto aí a a
+ 00:15:57
+
+o agricultor dificilmente vai conseguir
+ 00:16:02
+
+avançar e tomar as decisões agora vamos
+ 00:16:04
+
+entrar tanto no tópico mais importante
+ 00:16:08
+
+tanto para olharmos a questão da
+ 00:16:12
+
+digitalização a a a no setor de extensão
+ 00:16:15
+
+Rural para a a a criar essa interação
+ 00:16:20
+
+com os agricultores tanto o o fui
+ 00:16:24
+
+olhando para a liter latura alguma
+ 00:16:27
+
+literatura no caso devo frisar isso
+ 00:16:29
+
+alguma literatura Ah o Richardson por
+ 00:16:32
+
+exemplo Ah ele aborda portanto a assim
+ 00:16:36
+
+de forma holística a situação a a a a a
+ 00:16:40
+
+das tecnologias digitais nos países em
+ 00:16:45
+
+desenvolvimento e ele diz que qualquer
+ 00:16:47
+
+intervenção de tecnologias digitais e eh
+ 00:16:50
+
+eh pode ter impactos na melhoria dos
+ 00:16:54
+
+meios de vida dos agricultores
+ 00:16:57
+
+familiares o que pode contribuir para a
+ 00:17:00
+
+redução da pobreza no entanto ele coloca
+ 00:17:03
+
+alguns desafios que é permitir a
+ 00:17:07
+
+inclusão da a diversidade de culturas
+ 00:17:09
+
+idiomas extratos sociais faixas etárias
+ 00:17:13
+
+e considera ser sensível à questão de
+ 00:17:18
+
+gênero tanto aqui é importante mencionar
+ 00:17:23
+
+que a mulher por exemplo ah na cultura
+ 00:17:27
+
+boa parte dos países africanos em
+ 00:17:31
+
+Moçambique a a a mulher é a segunda
+ 00:17:33
+
+pessoa na hierarquia da família e de
+ 00:17:37
+
+certo modo
+ 00:17:41
+
+ah ela não é considerada a prioritária
+ 00:17:42
+
+por exemplo uma situação em que a
+ 00:17:48
+
+família tem apenas um telefone tanto
+ 00:17:49
+
+quem passa usar esse telefone é o marido
+ 00:17:52
+
+então esses elementos devem ser
+ 00:17:55
+
+considerados nesse processo coloca ainda
+ 00:17:57
+
+como o desafio as restrições de
+ 00:18:01
+
+conectividade nas áreas rurais dos
+ 00:18:04
+
+países em desenvolvimento portanto essa
+ 00:18:06
+
+questão é fundamental e é também
+ 00:18:09
+
+referida em muitas outras ah pesquisas
+ 00:18:12
+
+feitas e nos países africanos tem o
+ 00:18:15
+
+tanto uma pesquisa já divulgada em 2021
+ 00:18:20
+
+na Nigéria panto importante aqui
+ 00:18:24
+
+mencionar que essa pesquisa foi eh
+ 00:18:27
+
+realizada numa situação em que ah ah
+ 00:18:30
+
+estávamos no contexto da pandemia E aí
+ 00:18:33
+
+houve uma certa dinâmica para tornar os
+ 00:18:37
+
+serviços de extensão Rural mais próximas
+ 00:18:40
+
+aos agricultores aí tiveram que
+ 00:18:43
+
+estabelecer Ah um novo esquema de
+ 00:18:46
+
+distribuição de fertilizantes a partir
+ 00:18:48
+
+do uso de tecnologias digitais de
+ 00:18:50
+
+informação e comunicação portanto nisso
+ 00:18:53
+
+também ah menciona a a a desafios tanto
+ 00:18:56
+
+a no funcionamento Ah dessa
+ 00:19:01
+
+digitalização da extensão Rural tanto e
+ 00:19:04
+
+considera que a adoção das tecnologias
+ 00:19:07
+
+digitais de informação e comunicação no
+ 00:19:09
+
+setor Agrário tanto aqui chamando
+ 00:19:12
+
+atenção aos agricultores próprios
+ 00:19:15
+
+extensionistas está longe de ser
+ 00:19:17
+
+Universal devido à fraca conectividade e
+ 00:19:19
+
+a natureza das tecnologias implementadas
+ 00:19:22
+
+Para apoiar seu trabalho portanto aqui
+ 00:19:25
+
+os agricultores tanto têm ah tanto a
+ 00:19:28
+
+questão de ter ter acesso ao equipamento
+ 00:19:32
+
+ou aos equipamentos e os extencionista
+ 00:19:36
+
+também H há uma preparação para que eles
+ 00:19:39
+
+possam usar essa ferramenta como o o
+ 00:19:41
+
+instrumento de trabalho Ah para tanto a
+ 00:19:46
+
+divulgar informações e tecnologias aos
+ 00:19:49
+
+agricultores o trabalho realizado por
+ 00:19:53
+
+Xita a em zimbábue Portanto o foi
+ 00:19:55
+
+publicado em 2010 ah menciona Ah que os
+ 00:19:58
+
+agricultores recorrem ao uso de rádio e
+ 00:20:04
+
+televisão Ah para fornecer
+ 00:20:07
+
+H informações agrícolas e o telefone é
+ 00:20:10
+
+usado para a a a a comunicar informações
+ 00:20:15
+
+sobre o mercado e clima tanto o por
+ 00:20:19
+
+exemplo olhando para o os momentos que
+ 00:20:23
+
+estamos a passar ah sobre as alterações
+ 00:20:25
+
+que climáticas os momentos mais eh ah
+ 00:20:28
+
+marcantes na contemporaneidade portanto
+ 00:20:31
+
+é importante panto ter que usar esses eh
+ 00:20:34
+
+mecanismos ah de
+ 00:20:37
+
+digitalização para comunicar os
+ 00:20:41
+
+agricultores sobre a a a alguns
+ 00:20:43
+
+fenômenos Portanto o período por exemplo
+ 00:20:46
+
+que começa a cair as chuvas quando que
+ 00:20:48
+
+eles podem começar a fazer as
+ 00:20:51
+
+sementeiras sem ter que o extensionista
+ 00:20:53
+
+se deslocar para esse espaço também Ah
+ 00:20:56
+
+vai exigir um certo tempo para se
+ 00:20:59
+
+deslocar se formos associar a questão
+ 00:21:01
+
+das vias de acesso ainda a torna um
+ 00:21:04
+
+pouco mais difícil eh no entanto Xita
+ 00:21:08
+
+também menciona como desafios a fraca
+ 00:21:11
+
+conectividade a crise energética e a
+ 00:21:14
+
+escassez de recursos financeiros para
+ 00:21:17
+
+atender a instalações de eh ah
+ 00:21:20
+
+tecnologias digitais de informação e
+ 00:21:25
+
+comunicação e incluindo infraestrutura
+ 00:21:27
+
+de comunicação portanto aqui a questão
+ 00:21:30
+
+da crise energética por exemplo Ah é
+ 00:21:32
+
+importante mencionar que boa parte das
+ 00:21:35
+
+famílias no meio Rural boa parte dos
+ 00:21:38
+
+Agricultores Ah não tem acesso à energia
+ 00:21:40
+
+elétrica e aqui também chama atenção à
+ 00:21:44
+
+própria questão da existência de
+ 00:21:47
+
+infraestruturas ah a a de
+ 00:21:50
+
+telecomunicações tanto as antenas que
+ 00:21:53
+
+garantem que chegue o sinal ah de
+ 00:21:56
+
+comunicação sinal da internet Ah no meio
+ 00:21:59
+
+Rural já o Freeman e mist tanto um
+ 00:22:05
+
+trabalho publicado em 2017 concluiu que
+ 00:22:08
+
+é Moçambique a Estela as tecnologias
+ 00:22:12
+
+digitais de informação e comunicação
+ 00:22:16
+
+mais usada pelos agricultores é o rádio
+ 00:22:18
+
+e o telefone celular valendo lembrar que
+ 00:22:20
+
+o telefone celular predominantemente
+ 00:22:24
+
+usado não é o smartphone ah dificultando
+ 00:22:26
+
+a troca de informações e ou vídeos pelas
+ 00:22:30
+
+redes sociais entre agricultores e
+ 00:22:33
+
+agentes de extensão bom aqui esse é um
+ 00:22:35
+
+aspecto fundamental a considerar Nisso
+ 00:22:38
+
+porque se o processo for mesmo para a
+ 00:22:41
+
+avançarmos com essa questão da
+ 00:22:45
+
+digitalização Ah é importante olhar para
+ 00:22:46
+
+esses desafios e de forma a
+ 00:22:50
+
+pormenorizada
+ 00:22:52
+
+e pensar-se exatamente o que é que pode
+ 00:22:54
+
+ser feito tanto para os agricultores
+ 00:22:57
+
+assim como para os próprios
+ 00:23:00
+
+extensionistas o recurso à tecnologias
+ 00:23:04
+
+digitais Poderia ajudar a aumentar a
+ 00:23:06
+
+possibilidade de compartilhamento de
+ 00:23:09
+
+informações e tecnologias ampliando o
+ 00:23:11
+
+número de agricultores com acesso a
+ 00:23:15
+
+esses serviços sem recorrer à
+ 00:23:17
+
+intervenção presencial se formos
+ 00:23:20
+
+recordar a falei há pouco sobre a a a a
+ 00:23:22
+
+o número reduzido de exens istas que
+ 00:23:26
+
+estão trabalhando ah na extensão em
+ 00:23:29
+
+Moçambique ah tanto se tivesse que se
+ 00:23:31
+
+recorrer tanto a esse processo de
+ 00:23:34
+
+digitalização H Possivelmente mais
+ 00:23:36
+
+agricultores teriam a possibilidade a a
+ 00:23:39
+
+de ter informações Ah se calhar eh na
+ 00:23:43
+
+hora que mais eles precisam troca de eh
+ 00:23:46
+
+vídeos a fotos com os extensionistas
+ 00:23:49
+
+para a e tanto tendo alguma resposta
+ 00:23:53
+
+assumindo que que usando Essas
+ 00:23:57
+
+tecnologias há maior
+ 00:23:59
+
+possibilidade de interação entre o
+ 00:24:02
+
+extensionista e o
+ 00:24:05
+
+agricultor não obstante essa
+ 00:24:08
+
+possibilidade os as estatísticas
+ 00:24:10
+
+moçambicanas apontam que tanto aqui
+ 00:24:14
+
+esses são Dados
+ 00:24:17
+
+ah do último censo tanto foi
+ 00:24:18
+
+2017 são Dados ainda úteis apontam que
+ 00:24:23
+
+26 3.4% da população tem acesso a
+ 00:24:27
+
+tecnologias de informação e comunicação
+ 00:24:32
+
+A exemplo disso cerca de 22% tem acesso
+ 00:24:35
+
+à televisão 35% tem acesso à rádio 88% à
+ 00:24:40
+
+internet 22% tem acesso à energia
+ 00:24:46
+
+elétrica e
+ 00:24:50
+
+26.4 tem telefone celular panto esses
+ 00:24:53
+
+elementos panto são elementos a
+ 00:24:57
+
+considerar apesar de terem passado aqui
+ 00:24:59
+
+alguns anos portanto posso mencionar a
+ 00:25:02
+
+questão da energia elétrica é bem
+ 00:25:05
+
+provável que tenhamos aumentado tenhamos
+ 00:25:08
+
+já saído do dessa dessa taxa de 22%
+ 00:25:10
+
+porque h h projeto de eletrificação
+ 00:25:14
+
+Rural tanto que está tanto fazendo com
+ 00:25:17
+
+que a energia chegue para boa parte dos
+ 00:25:21
+
+moçambicanos e e isso é importante que
+ 00:25:23
+
+aconteça e que essas ações sejam feitas
+ 00:25:27
+
+com uma certa idade Brown aponta
+ 00:25:31
+
+que o principal desafio nas zonas rurais
+ 00:25:36
+
+é o acesso à rádio e televisão por essa
+ 00:25:39
+
+razão pode ser preciso inclusive adaptar
+ 00:25:42
+
+as as estratégias a ao contexto e a
+ 00:25:46
+
+infraestrutura local e por outro lado
+ 00:25:50
+
+devido aos níveis de analfabetismo tanto
+ 00:25:54
+
+também a a mencionei aqui As mensagens
+ 00:25:58
+
+devem ser veiculadas também em línguas
+ 00:26:02
+
+locais portanto aqui é muito importante
+ 00:26:05
+
+olhar para essa questão das línguas
+ 00:26:08
+
+nacionais atendendo e considerando o
+ 00:26:12
+
+número de eh agricultores ou de famílias
+ 00:26:15
+
+que não sabem ler e
+ 00:26:18
+
+escrever ainda
+ 00:26:21
+
+sobreas em 2015 cerca de quase 150 horas
+ 00:26:24
+
+a a nas rádios comunitárias a nível
+ 00:26:29
+
+Nacional foram dedicadas a programas de
+ 00:26:32
+
+agricultura 74 horas na a a a a Rádio
+ 00:26:36
+
+Nacional tanto a rádio Moçambique e a
+ 00:26:41
+
+televisão de Moçambique transmitiu em
+ 00:26:45
+
+28.5 horas a informação tanto
+ 00:26:48
+
+transmitida por essas vias rádio e
+ 00:26:53
+
+televisão até pode ser bem acolhida
+ 00:26:56
+
+pelos agricultores mas pelo fato a a a a
+ 00:26:58
+
+a da rádio e televisão não permitiram
+ 00:27:03
+
+uma interação alguns agricultores podem
+ 00:27:05
+
+recear tomar certas decisões portanto
+ 00:27:08
+
+aqui importa referir que o trabalho
+ 00:27:11
+
+feito o o que mencionei aqui realizado
+ 00:27:13
+
+em zimbábue ele já mostrava que os
+ 00:27:15
+
+agricultores tinham um espaço de
+ 00:27:18
+
+interagir tanto com os extensionistas a
+ 00:27:20
+
+partir das estações da rádio e televisão
+ 00:27:24
+
+ah portanto essa também um um um grande
+ 00:27:26
+
+avanço porque boa parte dos programas
+ 00:27:29
+
+tanto ah o o o o são feitos são
+ 00:27:32
+
+apresentados e não permitem tanto que
+ 00:27:36
+
+haja uma interação com os agricultores e
+ 00:27:39
+
+certos casos até São gravações que vão
+ 00:27:44
+
+sendo ah passadas pela rádio ou ou ou
+ 00:27:47
+
+televisão mas que já não permite ter
+ 00:27:51
+
+essa interação não permite ter o
+ 00:27:54
+
+feedback para portanto perceber um pouco
+ 00:27:56
+
+mais o que é que exatamente é é útil o
+ 00:27:59
+
+que é que é importante para o agricultor
+ 00:28:02
+
+na naquele exato
+ 00:28:05
+
+momento no entanto Uma pesquisa
+ 00:28:08
+
+realizada em 2020 tanto Foi a pesquisa
+ 00:28:11
+
+que eu fiz cá na Província de nça os
+ 00:28:14
+
+extensionistas não mencionaram o uso de
+ 00:28:16
+
+tecnologia digitais de informação e
+ 00:28:19
+
+comunicação no processo de
+ 00:28:21
+
+compartilhamento de informações e e
+ 00:28:23
+
+técnicas e tecnologias agrícolas porém
+ 00:28:26
+
+alguns agricultores informaram ter
+ 00:28:30
+
+recebido alguma informação via rádio
+ 00:28:32
+
+portanto aqui também eh ficou uma
+ 00:28:36
+
+perceção de existir eh um cenário em que
+ 00:28:38
+
+eh os programas transmitidos a por esses
+ 00:28:42
+
+órgãos rádio e e e televisão não são do
+ 00:28:46
+
+domínio tanto dos extensionistas que
+ 00:28:51
+
+estão trabalhando diretamente com os
+ 00:28:53
+
+agricultores porque a a e eu percebi que
+ 00:28:55
+
+era importante que os extensionistas
+ 00:28:59
+
+tivessem o domínio dessas informações
+ 00:29:01
+
+porque H há uma questão muito importante
+ 00:29:04
+
+e que Moçambique tem cerca de 10 regiões
+ 00:29:07
+
+agroecológicas essas regiões vão tanto o
+ 00:29:11
+
+o o tem características diferentes em
+ 00:29:15
+
+termos de solos em termos de níveis de
+ 00:29:17
+
+precipitação de culturas que podem ser
+ 00:29:20
+
+praticadas nessas regiões eh e até de
+ 00:29:23
+
+certas interven que podem ser feitas
+ 00:29:27
+
+então é aqui que o extensionista deveria
+ 00:29:30
+
+ter a noção de que informação está sendo
+ 00:29:33
+
+passada por esses órgãos para quando
+ 00:29:35
+
+eles estiverem em contacto com o
+ 00:29:38
+
+agricultor conseguir atualizar aquela
+ 00:29:41
+
+informação em função da região onde o
+ 00:29:44
+
+agricultor se encontra porque certos
+ 00:29:47
+
+casos vamos lá uma situação de controle
+ 00:29:49
+
+de uma certa praga a uma certa doença ou
+ 00:29:51
+
+até para tratar de assuntos relacionados
+ 00:29:54
+
+a a adubação tanto tem um pouco a ver
+ 00:29:57
+
+com essas questões tanto dos solos os
+ 00:30:01
+
+níveis de precipitação E por aí vai que
+ 00:30:04
+
+é muito importante ter cuidar para esses
+ 00:30:07
+
+elementos o funcionamento de programa de
+ 00:30:10
+
+rádio e televisão abordando conteúdo de
+ 00:30:13
+
+extensão evidencia Ah que o interesse em
+ 00:30:16
+
+melhorar a extensão agrícola pela a
+ 00:30:20
+
+mídia digital é alto portanto isso e eh
+ 00:30:23
+
+a há esse interesse por parte ah de de
+ 00:30:27
+
+dessas organizações pois as abordagens
+ 00:30:32
+
+estabelecidas como o treinamento e
+ 00:30:36
+
+visita a escola na machamba do camponês
+ 00:30:38
+
+camponês a camponês nem sempre alcançam
+ 00:30:41
+
+os resultados desejados em todo em em
+ 00:30:45
+
+termos de aceitação das
+ 00:30:48
+
+tecnologias ou a melhoria dos meios de
+ 00:30:51
+
+vida dos Agricultores panto aqui também
+ 00:30:54
+
+é uma ressalva que que é importante que
+ 00:30:56
+
+ah se formos olhar por exemplo para
+ 00:30:59
+
+abordagem camponês a camponês se O
+ 00:31:01
+
+Camponês O Camponês promotor de extensão
+ 00:31:04
+
+no caso ele tiver que usar essa a
+ 00:31:07
+
+tecnologia digital se comunicar com os
+ 00:31:11
+
+outros agricultores ah de certo modo ISO
+ 00:31:13
+
+também alivia o esforço que ele tem que
+ 00:31:16
+
+ter para ir ver um campo que esteja
+ 00:31:19
+
+infestado por uma praga ah nisso o
+ 00:31:21
+
+agricultor tanto manda as fotografias
+ 00:31:23
+
+para o o o o promotor ou manda um vídeo
+ 00:31:26
+
+curto para o promotor e ele consegue
+ 00:31:30
+
+interagir consegue contribuir e dizer o
+ 00:31:32
+
+que é que tem que ser feito se calhar
+ 00:31:36
+
+seja uma informação que responda
+ 00:31:38
+
+justamente àquele problema que
+ 00:31:41
+
+apresentado comparativamente aos meios
+ 00:31:44
+
+de comunicação de massa tradicionais
+ 00:31:47
+
+tanto rádio televisão e cartazes os
+ 00:31:49
+
+telefones celulares refiro-me que é os
+ 00:31:52
+
+smartphones permitem que os agricultores
+ 00:31:54
+
+se volvam ativamente em troca de
+ 00:31:57
+
+informações mais sofisticados por meio
+ 00:32:00
+
+de comunicação B direcional tanto aqui h
+ 00:32:03
+
+essa questão de troca de vídeo
+ 00:32:07
+
+fotografias algum áudio tanto na
+ 00:32:09
+
+comunicação entre ah o o até entre os
+ 00:32:12
+
+próprios agricultores e agricultores com
+ 00:32:15
+
+os
+ 00:32:18
+
+extensionistas nisso vamos aqui fazer
+ 00:32:20
+
+o um olhar para o futuro O que é que
+ 00:32:24
+
+pode ser feito porque eh eh eh
+ 00:32:27
+
+entende-se que a questão da
+ 00:32:30
+
+digitalização tem inúmeras vantagens ah
+ 00:32:33
+
+ah eu penso que futuramente precisa a
+ 00:32:37
+
+pensar na possibilidade de implementação
+ 00:32:41
+
+de centrais digitais de assessoria
+ 00:32:43
+
+agropecuária as mesmas podem garantir a
+ 00:32:47
+
+consultoria técnica a aos agricultores e
+ 00:32:50
+
+e e produtores de animais facilitando a
+ 00:32:55
+
+portanto a o compartilhamento de
+ 00:32:59
+
+conhecimentos por meio de vídeos
+ 00:33:01
+
+participativos eh sendo importante a
+ 00:33:04
+
+descentralização das centrais aqui é
+ 00:33:08
+
+importante mencionar que
+ 00:33:11
+
+ah Moçambique
+ 00:33:14
+
+eh está dividido
+ 00:33:16
+
+administrativamente em 11 províncias Ah
+ 00:33:19
+
+aqui acredito que era importante ter que
+ 00:33:23
+
+uma a província tivesse a sua Central ah
+ 00:33:26
+
+digital eh em que iria atender essas
+ 00:33:30
+
+questões linguísticas que já mencionei
+ 00:33:34
+
+as questões Ah agroecológicas porque eh
+ 00:33:37
+
+ah tendo uma central por exemplo eh na
+ 00:33:41
+
+cidade de lixing para responder os
+ 00:33:44
+
+problemas da Província de niassa a
+ 00:33:47
+
+questão linguística já ficaria garantida
+ 00:33:49
+
+por três técnicos tanto que iriam a a
+ 00:33:51
+
+falar nas línguas mais falaras aqui que
+ 00:33:55
+
+é a a a nianja a io e e Maua portanto
+ 00:33:58
+
+esses técnicos teriam algum tempo para
+ 00:34:03
+
+dedicar e lidar com os
+ 00:34:06
+
+agricultores tanto que falam uma certa
+ 00:34:10
+
+língua e questões das regiões
+ 00:34:12
+
+agroecológicas aí também já tem a
+ 00:34:16
+
+questão de culturas que são mais
+ 00:34:18
+
+praticadas numa certa região então o
+ 00:34:22
+
+técnico teria maior capacidade de
+ 00:34:24
+
+responder tendo em conta a realidade a a
+ 00:34:27
+
+a da
+ 00:34:32
+
+situação o aprimoramento de uso de
+ 00:34:33
+
+tecnologia digital de informação e
+ 00:34:37
+
+comunicação pelos extensionistas tanto
+ 00:34:39
+
+os extensionistas no meu entender deviam
+ 00:34:42
+
+ou devem ser preparados também para
+ 00:34:45
+
+entrar nesse campo de uso de tecnologias
+ 00:34:49
+
+digitais de informação compartilhando
+ 00:34:52
+
+saberes capazes de melhorar os os meios
+ 00:34:55
+
+de vida dos Agricultores familiares
+ 00:34:58
+
+aumentando o uso de aplicativos
+ 00:35:01
+
+interativos e que atendam a audiências
+ 00:35:03
+
+não alfabetizadas às mulheres e grupos
+ 00:35:08
+
+vulneráveis sobretudo nas zonas rurais
+ 00:35:13
+
+portanto aqui a questão da mulher esses
+ 00:35:16
+
+grupos vulneráveis a questão a da língua
+ 00:35:19
+
+Ou ou dos Agricultores que são
+ 00:35:23
+
+analfabetos é importante ter eh eh eh eh
+ 00:35:26
+
+eh em conta porque são pessoas
+ 00:35:29
+
+importantes nesse processo produtivo e e
+ 00:35:32
+
+e ter que envolver esses nessas
+ 00:35:37
+
+tecnologias a dialogar nas suas línguas
+ 00:35:39
+
+isso ou vai ajudar muito para que eles
+ 00:35:42
+
+possam encontrar respostas aos seus
+ 00:35:45
+
+problemas e nisso os extensionistas
+ 00:35:48
+
+seriam por exemplo a a a a treinados em
+ 00:35:50
+
+uso de drones para o monitoramento e e e
+ 00:35:55
+
+a com precisão por exemplo das questões
+ 00:35:59
+
+ah de nutrição das culturas Portanto tem
+ 00:36:01
+
+um campo Ah no distrito
+ 00:36:04
+
+ah X então Ah faz uma articulação a
+ 00:36:07
+
+busca toda a informação usando os drones
+ 00:36:12
+
+tanto aí consegue perceber por exemplo
+ 00:36:15
+
+buscar outras informações como o nível
+ 00:36:17
+
+de ataque de pragas as densidad de
+ 00:36:20
+
+cementera de culturas e as de irrigação
+ 00:36:24
+
+portanto essa informação toda seria
+ 00:36:28
+
+possível buscar Ah por um pelo Drone sem
+ 00:36:30
+
+precisar que fazer Ah muito esforço mas
+ 00:36:33
+
+claro ah Temos vários desafios como
+ 00:36:36
+
+mencionei e que precisam ser Ah
+ 00:36:40
+
+superados e e a e relativamente às
+ 00:36:43
+
+informações por exemplo a serem passadas
+ 00:36:47
+
+nas centrais digitais podia por exemplo
+ 00:36:49
+
+a ter em considerações a as questões
+ 00:36:51
+
+climáticas Portanto o o que pelo menos
+ 00:36:55
+
+tem estado a sofrer nos últimos anos
+ 00:36:58
+
+cheias a ciclones etc então Eh são
+ 00:37:01
+
+também Dados importantes tanto que vão
+ 00:37:05
+
+ajudar até para a a permitir que as
+ 00:37:07
+
+famílias
+ 00:37:10
+
+ah ah se se se a desloquem das zonas de
+ 00:37:11
+
+risco tanto se vai cair muita chuva
+ 00:37:16
+
+tanto aí ah devem ser tomadas essas
+ 00:37:18
+
+questões tanto climáticas tanto a a
+ 00:37:22
+
+divulgar informações sobre a época de de
+ 00:37:25
+
+sementeira tanto h h tanto há meses ou
+ 00:37:27
+
+anos em que por exemplo a a precipitação
+ 00:37:31
+
+cai um pouco mais cedo cair mais tarde
+ 00:37:34
+
+então ter que receber essa informação
+ 00:37:37
+
+esse monitoramento a partir do
+ 00:37:39
+
+extensionista ah mesmo que esteja a usar
+ 00:37:41
+
+a a a a digitalização a comunicar com os
+ 00:37:44
+
+agricultores a partir da Central A a
+ 00:37:47
+
+digital isso ajudaria bastante o a
+ 00:37:50
+
+questão do maneo de pragas e doenças
+ 00:37:53
+
+portanto as informações de mercado
+ 00:37:55
+
+também são muito importantes o
+ 00:37:58
+
+agricultor saber onde é que pode
+ 00:38:01
+
+adquirir os insumos Ah quando é que ele
+ 00:38:03
+
+pode vender aonde é que pode vender o
+ 00:38:06
+
+seu produto e aqui preço isso é
+ 00:38:09
+
+fundamental porque em alguns casos os
+ 00:38:13
+
+agricultores chegam a comercializar a
+ 00:38:15
+
+preços muito mais baixos que os preços
+ 00:38:18
+
+recomendados e para as
+ 00:38:22
+
+instituições do governo portanto deviam
+ 00:38:23
+
+ou devem ah investir um pouco mais na
+ 00:38:27
+
+maioria das estradas panto para garantir
+ 00:38:30
+
+essa comunicação entre o meio Rural e
+ 00:38:33
+
+urbano tanto a zona de consumo e a zona
+ 00:38:35
+
+de produção posso assim eh eh chamar
+ 00:38:37
+
+portanto chega o momento em que os eh os
+ 00:38:41
+
+produtos portanto devem chegar ao
+ 00:38:43
+
+agricultor os insumos no caso mas ah no
+ 00:38:46
+
+final eh no período da colheita os
+ 00:38:49
+
+produtos devem ser escoados da zona de
+ 00:38:52
+
+produção para as cidades onde tem maior
+ 00:38:54
+
+parte de consumidores eh também a
+ 00:38:57
+
+possibilidade de montagem de mais
+ 00:39:00
+
+antenas de telefonia móvel e de
+ 00:39:02
+
+televisão portanto para garantir que ah
+ 00:39:05
+
+mais agricultores tenham acesso a a à à
+ 00:39:08
+
+internet tenham mais acesso à
+ 00:39:12
+
+possibilidade até de se comunicar usando
+ 00:39:15
+
+a tecnologia 4G pelo menos ah nas zonas
+ 00:39:17
+
+rurais porque dissemos aqui que à medida
+ 00:39:21
+
+que saímos da cidade para a zona Rural a
+ 00:39:25
+
+qualidade da internet vai baixando então
+ 00:39:28
+
+ter que investir nisso criar as
+ 00:39:31
+
+condições a que funcione lá tecnologia
+ 00:39:33
+
+mais avançada Ah para garantir essa
+ 00:39:36
+
+comunicação garantir que o o o o
+ 00:39:39
+
+agricultor possa portanto Ah fazer os
+ 00:39:42
+
+seus áudios possa mandar as suas
+ 00:39:46
+
+fotografias ao técnico e buscar a melhor
+ 00:39:48
+
+resposta Ah isso também é fundamental a
+ 00:39:51
+
+questão da energia elétrica claro que
+ 00:39:54
+
+está sendo feito algum trabalho nisso
+ 00:39:56
+
+mas é importante que se faça um pouco
+ 00:39:58
+
+mais para garantir que mais moçambicanos
+ 00:40:00
+
+tenham acesso à energia a nem que seja
+ 00:40:02
+
+que recorrer a outras fontes
+ 00:40:05
+
+alternativas ah de energia elétrica para
+ 00:40:07
+
+garantir que mais moçambicanos nas zonas
+ 00:40:10
+
+rurais ah portanto os agricultores
+ 00:40:12
+
+tenham acesso à energia elétrica para
+ 00:40:15
+
+garantir o funcionamento dessas
+ 00:40:19
+
+tecnologias digitais E permitir que o
+ 00:40:21
+
+maior número de agricultores familiares
+ 00:40:25
+
+tanto ah tenham acesso a a a a esses
+ 00:40:27
+
+equipamentos
+ 00:40:33
+
+eh eu penso que é um pouco disso que eu
+ 00:40:34
+
+tinha pensado aqui falar ah nessa minha
+ 00:40:37
+
+apresentação que ah praticamente mostra
+ 00:40:40
+
+os maiores desafios e o que pode fazer
+ 00:40:43
+
+futuramente mas eu considero essa ser
+ 00:40:47
+
+tanto uma área ainda muito fértil para a
+ 00:40:50
+
+a a situação de Moçambique e espaço para
+ 00:40:54
+
+se pensar o que que exatamente pode-se
+ 00:40:58
+
+fazer para garantir que mais
+ 00:41:01
+
+moçambicanos possam entrar para essa a
+ 00:41:03
+
+tecnologia portanto eu tenho de
+ 00:41:07
+
+agradecer aqui a professor Z mais uma
+ 00:41:08
+
+vez a todas e todos que estão acompanhar
+ 00:41:10
+
+essa apresentação e muito
+ 00:41:14
+
+obrigado muito bem muito bem muito
+ 00:41:19
+
+obrigado pela explanação Professor
+ 00:41:21
+
+Mateus a gente já tem algumas perguntas
+ 00:41:23
+
+aqui depois
+ 00:41:26
+
+mas eu acho que o que surpreende aqui é
+ 00:41:28
+
+é a bastante dificuldade que você tem
+ 00:41:31
+
+tanto para aplicar a assistência técnica
+ 00:41:35
+
+presencial quanto imagino a virtual não é
+ 00:41:38
+
+Eu acho que me chamou muita atenção aqui
+ 00:41:42
+
+é para estimular o nosso debate não é que
+ 00:41:44
+
+39% é analfabeto não é da população não é eu
+ 00:41:47
+
+anotei aqui e aí não é as grandes
+ 00:41:51
+
+dificuldades de você já fazer esse
+ 00:41:54
+
+extensão Rural ainda fazer a ter digital
+ 00:41:57
+
+e ainda mais para um público não é que tem
+ 00:42:00
+
+dificuldades de de compreensão tem que
+ 00:42:02
+
+ter um linguajar simples não é e acessível
+ 00:42:05
+
+não é então esse aí é um acho que é um os
+ 00:42:07
+
+dados assim de Moçambique nos nos
+ 00:42:10
+
+alertam ainda pra necessidade de
+ 00:42:12
+
+fortalecer ainda mais a extensão Rural
+ 00:42:14
+
+que já está precarizado não é E aí como
+ 00:42:17
+
+trabalhar então qualquer ação que a
+ 00:42:21
+
+gente fizer no Rural seja no Brasil ou
+ 00:42:22
+
+em Moçambique ela é extremamente
+ 00:42:25
+
+necessária não é zuin O que que você pode
+ 00:42:28
+
+nos comentar sobre isso antes de eu
+ 00:42:32
+
+passar aqui para as nossas perguntas dos
+ 00:42:34
+
+nossos convidados Nossa eu achei a
+ 00:42:36
+
+palestra maravilhosa eu aprendi muito
+ 00:42:39
+
+com Mateus não é E essa essa questão do do
+ 00:42:42
+
+analfabetismo nos territórios rurais não é
+ 00:42:49
+
+a gente tem pesquisas da aqui no Brasil
+ 00:42:52
+
+da Tic domicílios não é Essa útima que saiu
+ 00:42:54
+
+diz que mais de 70% não é das pessoas
+ 00:42:57
+
+analfabetas elas mandam 76% não é as
+ 00:43:01
+
+pessoas analfabetas elas mandam eh se
+ 00:43:05
+
+comunicam não é via aplicativos de mensagem
+ 00:43:08
+
+eletrônica não é provavelmente WhatsApp e o
+ 00:43:11
+
+telegram então
+ 00:43:13
+
+Eh é Um Desafio muito grande o que eu o
+ 00:43:16
+
+que eu pensei o que pensando agora o que
+ 00:43:19
+
+Mateus falou não é nessa uma hora eh eu
+ 00:43:23
+
+diria que a gente tem dois grandes
+ 00:43:28
+
+desafios não é uma é conectividade e a
+ 00:43:29
+
+outra é a metodologia de at digital n
+ 00:43:32
+
+são duas coisas claro que elas estão
+ 00:43:36
+
+interligadas não é uma
+ 00:43:37
+
+não não vai acontecer sem a outra e o
+ 00:43:40
+
+Mateus na parte da metodologia da ter
+ 00:43:43
+
+digital não é da ter não é no utilizando esses
+ 00:43:46
+
+da esses caminhos da comunicação não é
+ 00:43:50
+
+digital ele ele nos mostra eh nos dá um
+ 00:43:54
+
+exemplo nos dá uma possibilidade de
+ 00:43:58
+
+futuro não é com essas com esses esses
+ 00:44:00
+
+polos que ele falou eu achei muito
+ 00:44:05
+
+interessante isso não é Achei muito bacana
+ 00:44:07
+
+ele ter ele ter feito esse exercício
+ 00:44:11
+
+não é é isso é é interessante Z porque tipo
+ 00:44:16
+
+num determinado momento ele falou ali não é
+ 00:44:20
+
+que tipo o uso de celular e não é o
+ 00:44:23
+
+Smart fone não é então a gente não é é o
+ 00:44:26
+
+celular de segunda geração é aquele que
+ 00:44:30
+
+só faz a ligação não que você não possa
+ 00:44:33
+
+receber chamada de voz não que você não
+ 00:44:35
+
+possa receber eh mensagens de texto Mas
+ 00:44:37
+
+você mas demora muito para você baixar
+ 00:44:41
+
+nessas mensagens e E além disso
+ 00:44:44
+
+Provavelmente o custo deve ser maior não é
+ 00:44:48
+
+nos planos de dado não é dessa tecnologia
+ 00:44:50
+
+3G não é ali o e que viabiliza esse essa
+ 00:44:53
+
+esse fluxo de informações que a gente
+ 00:44:59
+
+tem num Smartphone e numa 4G Pelo menos
+ 00:45:03
+
+é eu fiquei eu fiquei bastante impactado
+ 00:45:06
+
+eu fui anotando aqui os dados que o
+ 00:45:08
+
+professor Mateus colocou não é Eh 22% tem
+ 00:45:10
+
+acesso à TV
+ 00:45:14
+
+35% Rádio 8 por 88% internet não é claro
+ 00:45:16
+
+que eu peguei alguns asos que ele falou
+ 00:45:21
+
+e 22% de energia elétrica Aí tu já
+ 00:45:22
+
+imagina a dificuldade não é você não tem
+ 00:45:25
+
+acesso à energia elétrica já para por
+ 00:45:27
+
+ali não é
+ 00:45:29
+
+Mateus é delicada a
+ 00:45:34
+
+situação mas enfim eu vou eu vou
+ 00:45:36
+
+comentar aqui eh alguns comentários do
+ 00:45:39
+
+presentes tem algumas perguntas também
+ 00:45:42
+
+nós temos aqui o pessoal de Diamantina
+ 00:45:44
+
+aqui até alguns que eu consigo localizar
+ 00:45:46
+
+aqui por favor
+ 00:45:50
+
+a internet do professor Mateus tá um
+ 00:45:59
+
+pouco tá um pouco com dificuldades não é
+ 00:46:01
+
+mas logo logo al Ret toma aí então aqui
+ 00:46:05
+
+a gente tem o pessoal de Santa Catarina
+ 00:46:07
+
+pessoal da ipag pessoal de Santa Maria
+ 00:46:09
+
+tá presente na Live também temos aqui
+ 00:46:11
+
+pessoal de Bom Princípio daat Grande do
+ 00:46:13
+
+Sul obrigado pela presença não é E temos o
+ 00:46:16
+
+o pessoal de Brasília também tem tem
+ 00:46:20
+
+gente até de Goiás aqui também muito bom
+ 00:46:24
+
+obrigado pela presença Aí temos alguns
+ 00:46:28
+
+questionamentos aqui eu vou colocar um
+ 00:46:30
+
+aqui da da inê aqui um comentário
+ 00:46:32
+
+enquanto ela estabelece a conexão a inê
+ 00:46:36
+
+comenta o seguinte além dasas
+ 00:46:39
+
+dificuldades de conexão rondos a
+ 00:46:41
+
+possibilidade de terceirização dos
+ 00:46:44
+
+serviços públicos em alguns estados
+ 00:46:46
+
+Então os desafios são enormes no caso
+ 00:46:48
+
+ela se refere ao Brasil nesse momento não é
+ 00:46:52
+
+Então imagina aí não é Toda essa
+ 00:46:56
+
+dificuldade de extensão oral vamos ver
+ 00:46:58
+
+se se a gente consegue esse diálogo
+ 00:47:01
+
+professor e Mateus Se ele tá nos
+ 00:47:03
+
+escutando daí eu vou eu vou fazer
+ 00:47:05
+
+algumas perguntas talvez em bloco não é o o
+ 00:47:07
+
+Renato não é nosso grande amigo Renato ele
+ 00:47:10
+
+fala o seguinte gostaria de saber do
+ 00:47:13
+
+professor Mateus Se aplicativos de troca
+ 00:47:17
+
+de mensagens como WhatsApp tem sido
+ 00:47:21
+
+empregados nas ações de extensão Rural
+ 00:47:23
+
+logicamente no Moçambique não é então se
+ 00:47:26
+
+existe o uso de aplicativo do WhatsApp
+ 00:47:29
+
+em Moçambique na área rural
+ 00:47:32
+
+principalmente aqui talvez seja o foco
+ 00:47:34
+
+eu vou colocar essa daí o Mateus depois
+ 00:47:37
+
+vai dar um delay o Mateus vai tentar
+ 00:47:39
+
+comentar o Cléber nosso doutorando em
+ 00:47:41
+
+extensão Rural da UFSM ele a família
+ 00:47:44
+
+dele é de Goiás não é Ele fala o seguinte
+ 00:47:48
+
+não é é um tema bastante pertinente e pelo
+ 00:47:51
+
+Brasil tem passado recentemente um
+ 00:47:55
+
+leilão do 5g para acessar a internet
+ 00:47:57
+
+móvel entretanto não é no meio ural há
+ 00:48:00
+
+famílias que não consegu acessar o 3G
+ 00:48:03
+
+ainda não é Isso é uma consideração uma
+ 00:48:05
+
+constatação aqui no Brasil não é Lembrando
+ 00:48:07
+
+que o professor Mateus fez o doutorado
+ 00:48:10
+
+dele aqui no Brasil
+ 00:48:11
+
+também o Sérgio o Sérgio comenta o
+ 00:48:13
+
+seguinte Professor Existe alguma
+ 00:48:18
+
+experiência no uso de tecnologias
+ 00:48:20
+
+digitais na
+ 00:48:22
+
+previsão estimativa de produtividade
+ 00:48:24
+
+produção agrícola em Moçambique então
+ 00:48:28
+
+Sérgio tem esse interesse de ver se
+ 00:48:31
+
+existe algum aplicativo alguma
+ 00:48:32
+
+tecnologia que faça essa essa análise aí
+ 00:48:34
+
+das questões de produção em Moçambique e
+ 00:48:38
+
+por último fazer em bloco não é daí o
+ 00:48:41
+
+professor Mateus pode também estar
+ 00:48:43
+
+respondendo todos em conjunto a Beatriz
+ 00:48:45
+
+não é mestre em seus Rais pela ufvjm está
+ 00:48:48
+
+em Diamantina Nossa colaboradora do
+ 00:48:51
+
+portal o kéber também nossa colaboradora
+ 00:48:53
+
+está aí eh conduzindo lives também eh
+ 00:48:56
+
+parabenizo ao professor Mateus Pela
+ 00:49:00
+
+explanação e aproveito a oportunidade
+ 00:49:02
+
+para
+ 00:49:04
+
+perguntar Quais foram os principais
+ 00:49:05
+
+desafios para a implementação da terra
+ 00:49:09
+
+digital e como foram essas ações na
+ 00:49:12
+
+pandemia principalmente não é em Moçambique
+ 00:49:14
+
+na época da pandemia o que que Como se
+ 00:49:17
+
+aconteceu o contato não é com os
+ 00:49:21
+
+agricultores nesse momento se teve
+ 00:49:23
+
+contato Tato não é porque a gente vê Muitas
+ 00:49:26
+
+dificuldades aqui não é como foi eh quais
+ 00:49:29
+
+as dificuldades acho que isso é
+ 00:49:32
+
+importante vou deixar agora para ver se
+ 00:49:33
+
+o professor Mateus consegue conversar
+ 00:49:36
+
+conosco
+ 00:49:38
+
+agora muito obrigado
+ 00:49:49
+
+P aqui colocadas ah
+ 00:49:53
+
+bom o vou responder à questão do tanto o
+ 00:49:56
+
+o o o o uso de WhatsApp não é o uso de
+ 00:50:02
+
+WhatsApp ainda na
+ 00:50:07
+
+a
+ 00:50:10
+
+a que é dominante no processo de a
+ 00:50:12
+
+partilha de informações e tecnologia na
+ 00:50:17
+
+extensão Rural tanto que ah mencionei
+ 00:50:20
+
+aqui que os técnicos de extensão Rural
+ 00:50:24
+
+que participaram Ou foram informantes na
+ 00:50:29
+
+minha pesquisa Ah eles não foram capazes
+ 00:50:31
+
+de dizer que eles ah têm optado por essa
+ 00:50:34
+
+via para ah a a atender os seus
+ 00:50:37
+
+agricultores e e uma o o quer dizer aqui
+ 00:50:42
+
+também é importante mencionar que eu fiz
+ 00:50:45
+
+o levantamento dos dados da minha
+ 00:50:47
+
+pesquisa Justamente na época da pandemia
+ 00:50:51
+
+então a aí se calhar junto gostaria a
+ 00:50:54
+
+questão do
+ 00:50:57
+
+Renato a questão da Beatriz e dizer que
+ 00:50:59
+
+ainda não é uma prática não é que mesmo
+ 00:51:03
+
+durante a pandemia não foi muito
+ 00:51:07
+
+possível usar a a a a o WhatsApp para
+ 00:51:10
+
+dialogar com os
+ 00:51:15
+
+ah agricultores portanto ah a questão
+ 00:51:18
+
+que me referi de uso de telefones que
+ 00:51:23
+
+não são smartphones aí acaba também
+ 00:51:27
+
+influenciando o número de agricultores
+ 00:51:30
+
+que usam tanto o o smartphone Ah bom não
+ 00:51:33
+
+tenho números aqui exatos Ah porque a
+ 00:51:39
+
+estatística não mostrou exatamente essa
+ 00:51:42
+
+informação mas acredito que seja muito
+ 00:51:44
+
+baixo e que esses agricultores
+ 00:51:48
+
+provavelmente sejam agricultores que
+ 00:51:50
+
+sejam mais próximos à zonas urbanas ou
+ 00:51:52
+
+que sejam os agricultores que ah
+ 00:51:57
+
+conseguem prosperar noos seus processos
+ 00:52:00
+
+produtivos ao meu colega Jane portanto
+ 00:52:03
+
+dizer que o uso de ticks digitais ah em
+ 00:52:07
+
+Moçambique Ah ainda
+ 00:52:11
+
+ah está é incipiente ainda não é uma
+ 00:52:14
+
+prática porque até certo ponto ah a qu
+ 00:52:19
+
+me referir a ao não é ah ah que
+ 00:52:24
+
+praticamente não é uma prática dos
+ 00:52:31
+
+extensionistas e eu estou a falar isso
+ 00:52:33
+
+ah justamente olhando para os resultados
+ 00:52:35
+
+que eu consegui buscar pode-se dar o
+ 00:52:38
+
+caso eh de outros extensionistas em
+ 00:52:40
+
+outras províncias não é estarem a usar
+ 00:52:44
+
+essa prática mas acredito eu que o
+ 00:52:48
+
+número seja muito reduzido de agric ores
+ 00:52:52
+
+Ah e extensionistas que estão dialogando
+ 00:52:56
+
+usando essas plataformas digitais
+ 00:53:00
+
+a a questão do 5g que comenta o Cleb
+ 00:53:05
+
+praticamente para causa de Moçambique
+ 00:53:09
+
+nós amos a a a com 4G e e e quando
+ 00:53:11
+
+deslocamos ao meio Rural a qualidade
+ 00:53:18
+
+fica muito baixa ainda que não
+ 00:53:21
+
+conseguimos a essa tecnologia ass 4G
+ 00:53:23
+
+Ah eu penso que é isso nesse a a grupo
+ 00:53:28
+
+de questões que
+ 00:53:32
+
+colocou muito bem muito bem É a gente eh
+ 00:53:35
+
+eu fic eu fiquei assim bem chocado
+ 00:53:39
+
+Mateus com com os dados não é porque se a
+ 00:53:41
+
+gente não tem internet n não tem bom se
+ 00:53:45
+
+a gente não tem energia elétrica não é
+ 00:53:47
+
+primeiro ponto não temos energia
+ 00:53:50
+
+elétrica tudo após complica não é as
+ 00:53:52
+
+pessoas têm dificuldades e questões
+ 00:53:56
+
+básicas não é Como armazenar o alimento não é
+ 00:53:58
+
+é algo de sobrevivência não é imagina eh eu
+ 00:54:02
+
+acho que se a gente for olhar na escala
+ 00:54:06
+
+de maslov não é A Hierarquia das
+ 00:54:08
+
+necessidades humanas que é muito usado
+ 00:54:10
+
+na nas áreas de administração e
+ 00:54:12
+
+Psicologia não é as pessoas estão
+ 00:54:14
+
+preocupadas em manter seu alimento
+ 00:54:16
+
+conseguir comer conseguir beber para
+ 00:54:18
+
+depois ainda pensar talvez em algo assim
+ 00:54:21
+
+mais estruturado de conhecimento voltado
+ 00:54:24
+
+agricultura Então eu acho que Moçambique
+ 00:54:27
+
+Tem muito ainda a ser trabalhado e acho
+ 00:54:29
+
+que as políticas públicas elas são cada
+ 00:54:32
+
+vez mais necessárias principalmente
+ 00:54:34
+
+Moçambique se Brasil já existe toda essa
+ 00:54:36
+
+esse problema imagina para Moçambique não é
+ 00:54:39
+
+nessa diversidade nessas dificuldades
+ 00:54:42
+
+que se tem não é e eu fico me pensando
+ 00:54:45
+
+agora vou fazer uma pergunta ao Mateus
+ 00:54:48
+
+ver se ele consegue
+ 00:54:50
+
+mas todas essas dificuldades de
+ 00:54:53
+
+precarização da extensão oral
+ 00:54:55
+
+eh O que que é mais presente assim
+ 00:54:58
+
+quando se trabalha com os com as
+ 00:55:01
+
+famílias Rais eh São Sei lá são
+ 00:55:03
+
+treinamentos presenciais são encontros
+ 00:55:06
+
+eh Quais as ações que assim paliativas
+ 00:55:09
+
+não é que os exencion conseguem fazer ou eh
+ 00:55:13
+
+existe acesso a crédito não sei qual o
+ 00:55:16
+
+que que é mais comum eh do extensionista
+ 00:55:18
+
+conseguir praticar Com todas essas
+ 00:55:21
+
+dificuldades que existem não é porque a
+ 00:55:23
+
+gente viu aí que bante Quim dessa
+ 00:55:25
+
+tua Ah sim
+ 00:55:33
+
+professor na verdade
+ 00:55:36
+
+Ah o os agricultores têm beneficiado de
+ 00:55:38
+
+treinament com os
+ 00:55:43
+
+agricultores digo com os extensionistas
+ 00:55:47
+
+Ah
+ 00:55:50
+
+e tem também uma prática que é usada de
+ 00:55:52
+
+a montagem de práticas de demonstração
+ 00:55:57
+
+ah panto E essas esses campos para a a a
+ 00:56:01
+
+unidad de demonstração de resultados
+ 00:56:06
+
+também é uma das práticas muito usad
+ 00:56:08
+
+pelos existas e na questão do
+ 00:56:10
+
+treinamento em o o o os agricultores
+ 00:56:14
+
+tanto podem também visitar a a a
+ 00:56:19
+
+unidades experimentais a ou também ah
+ 00:56:24
+
+parcelas de outros agricultores E aí vão
+ 00:56:28
+
+trocando experiências tanto das práticas
+ 00:56:32
+
+que uns agricultores já vem
+ 00:56:36
+
+a adotando e implementando que estejam a
+ 00:56:39
+
+dar resultados há há há um intercâmbio
+ 00:56:43
+
+forte não é Ah mas de algum modo acaba
+ 00:56:48
+
+sendo influenciado por alguns fatores
+ 00:56:52
+
+que mencionei aqui mas oos os
+ 00:56:54
+
+agricultores têm recebido treinamentos
+ 00:56:56
+
+têm participado em dias de campo em que
+ 00:56:59
+
+vão fazendo as dees de Campos que foram
+ 00:57:03
+
+preparados usando as tecnologias e por
+ 00:57:06
+
+aí E tem sido coisa muito muito útil que
+ 00:57:09
+
+ajuda a os agricultores tomarem certas
+ 00:57:12
+
+decisões porque eles vão observando o
+ 00:57:16
+
+que que exatamente os outros
+ 00:57:18
+
+agricultores fazem e a outra também
+ 00:57:21
+
+quando se usa
+ 00:57:25
+
+a metodologia camponês a camponês
+ 00:57:27
+
+portanto eh é um pouco disso que eles
+ 00:57:29
+
+vão trocando algumas experiências
+ 00:57:31
+
+justamente ah dentro ah de uma
+ 00:57:34
+
+ah de uma área administrativa em que
+ 00:57:38
+
+cada um vai trazendo as suas
+ 00:57:43
+
+experiências e o o agricultor que é
+ 00:57:46
+
+promotor de extensão ele participa em
+ 00:57:49
+
+treinamentos comos extensionistas e vai
+ 00:57:52
+
+a ajudando os outros
+ 00:57:55
+
+agricultores entendo eh penso é a
+ 00:57:59
+
+dificuldade é enorme não é mas eu acho que
+ 00:58:03
+
+esses aprendizados colaborativos entre
+ 00:58:05
+
+eles podem amenizar a questão mas não
+ 00:58:08
+
+vai e resolver não é porque precisa de
+ 00:58:11
+
+muitas ações Eu realmente estou
+ 00:58:14
+
+impactado impactado com com essa
+ 00:58:16
+
+experiência de Moçambique não é porque há
+ 00:58:19
+
+muitos desafios aí
+ 00:58:21
+
+eh presentes e muito a se fazer pela
+ 00:58:23
+
+extensão oral em Moçambique não é Imagino
+ 00:58:26
+
+que que isso tenha bastante e assim uma
+ 00:58:28
+
+uma curiosidade agora sim e como é a
+ 00:58:32
+
+atuação das Universidades assim que você
+ 00:58:35
+
+está ligado eh em projetos de extensão
+ 00:58:38
+
+assim eh Vocês conseguem realizar existe
+ 00:58:42
+
+esse acesso às Comunidades eh a gente
+ 00:58:45
+
+tem a experiência do Brasil Mas como que
+ 00:58:48
+
+é em Moçambique dos projetos que
+ 00:58:50
+
+acontecem na universidade se é que
+ 00:58:52
+
+existe se tem recursos para isso Conta
+ 00:58:54
+
+para nós um pouco da sua experiência
+ 00:58:57
+
+também de como a universidade atua ou
+ 00:58:58
+
+não consegue atuar qual quais são os os
+ 00:59:01
+
+pontos fortes e os pontos a melhorar
+ 00:59:04
+
+nesse
+ 00:59:07
+
+sentido ah muito obrigado ezequel bom ah
+ 00:59:11
+
+as Universidades têm estado a fazer o
+ 00:59:15
+
+seu papel tanto de investigar
+ 00:59:17
+
+e tornar essas os resultados de
+ 00:59:23
+
+investigação ú para as comunidades
+ 00:59:26
+
+Ah eu posso dizer que
+ 00:59:30
+
+ah essa ação é é uma prioridade para
+ 00:59:33
+
+todas as Universidades a nível nacional
+ 00:59:37
+
+e agora Olhando justamente para a minha
+ 00:59:41
+
+universidade Universidade de lúrio Ah
+ 00:59:44
+
+nós temos um programa que nós trabalhar
+ 00:59:47
+
+os agricultores familiares Ah que nós
+ 00:59:51
+
+chamamos un estudante uma família ah é
+ 00:59:55
+
+um programa que bom ah ele tem ou Teve
+ 01:00:00
+
+bons resultados porque o o o estudante
+ 01:00:05
+
+neste caso o nosso aluno ah convive ah
+ 01:00:10
+
+com os agricultores convive com as
+ 01:00:14
+
+famílias por um período
+ 01:00:17
+
+ah de uma semana duas semanas Ah para
+ 01:00:20
+
+acompanhar o as atividades que a família
+ 01:00:26
+
+faz E aí vai dando aconselhamentos panto
+ 01:00:30
+
+Essas atividades acontecem
+ 01:00:34
+
+ah durante o ano tanto uma vez em cada
+ 01:00:39
+
+semestre e aí
+ 01:00:43
+
+Ah o estudante volta à universidade e
+ 01:00:45
+
+ele vai tentar buscar mais informações
+ 01:00:49
+
+não é Ah para responder justamente as
+ 01:00:52
+
+preocupações da da família e tem estado
+ 01:00:57
+
+a funcionar bastante
+ 01:01:01
+
+ah inclusive eh Fiz um trabalho ou seja
+ 01:01:03
+
+supervisionei um trabalho de uma
+ 01:01:08
+
+estudante que
+ 01:01:10
+
+ah um pouco a fundo para perceber isso
+ 01:01:11
+
+e foi possível notar que o o
+ 01:01:14
+
+o teve seus resultados algumas famílias
+ 01:01:19
+
+relataram a a mostrando exatamente os
+ 01:01:24
+
+ganhos conseguiram ter a a com a
+ 01:01:27
+
+intervenção de estudantes naquele
+ 01:01:30
+
+programa Ah um estudante uma
+ 01:01:33
+
+família muito interessante eu acho que
+ 01:01:40
+
+essa troca de troca de experiências não é
+ 01:01:42
+
+Isso também fortalece muito a formação
+ 01:01:46
+
+do Estudante não é como você falou não é eles
+ 01:01:47
+
+vêm com novas demandas para também
+ 01:01:50
+
+tentar suprir essas necessidades e isso
+ 01:01:52
+
+também causa eh aquele Impacto social não é
+ 01:01:56
+
+que impacto na formação do Estudante
+ 01:01:59
+
+isso é sensacional não é Eu acho que não
+ 01:02:01
+
+tem metodologia que que seja melhor do
+ 01:02:04
+
+que essa não é pro pro estudante ter o seu
+ 01:02:07
+
+próprio aprendizado e também se impactar
+ 01:02:09
+
+e impactar as famílias Rais isso é muito
+ 01:02:13
+
+legal temos aqui aqui alguns
+ 01:02:16
+
+comentários Mateus eh O Cléber
+ 01:02:18
+
+parabenizando aí os palestrantes pelas
+ 01:02:21
+
+Exposições não é ele tamb o nosso Cléber
+ 01:02:23
+
+colaborador aqui do portal também ele
+ 01:02:26
+
+ele agradece aí P essa troca de
+ 01:02:29
+
+experiência entre Brasil e Moçambique
+ 01:02:31
+
+Obrigado Cléber parceirão aí Cléber é
+ 01:02:33
+
+doutorando em extensão oral ele ele é
+ 01:02:36
+
+doutorando e a família dele mora em
+ 01:02:38
+
+Goiás não é então pertinho de minas aí onde
+ 01:02:41
+
+o onde o professor Mateus fez o seu
+ 01:02:43
+
+doutorado a inê não é Inês comenta aqui ó
+ 01:02:46
+
+no Brasil essas ações de formação e
+ 01:02:50
+
+extensão podem ser realizadas a através
+ 01:02:53
+
+da curricularização agora obrigatória
+ 01:02:56
+
+nas universidades na Universidade
+ 01:02:59
+
+Federal da Fronteira Sul Estamos indo
+ 01:03:02
+
+nessa direção Esse é o grande desafio não é
+ 01:03:04
+
+Depois eu vou passar a palavra pro
+ 01:03:08
+
+Mateus Se ele quiser comentar mas esse é
+ 01:03:09
+
+o grande desafio agora que a gente tá
+ 01:03:11
+
+enfrentando como a gente coloca nossos
+ 01:03:14
+
+alunos de diferentes realidades
+ 01:03:16
+
+eh com a prática com para que eles sejam
+ 01:03:18
+
+impactados e impactem a realidade social
+ 01:03:22
+
+não é e acho que é uma questão muito
+ 01:03:24
+
+premente aí e que cada Universidade vai
+ 01:03:26
+
+trabalhar de alguma forma não é Tem vários
+ 01:03:29
+
+desafios não é primeiro deles é bom como
+ 01:03:31
+
+fazer a curricularização para alunos que
+ 01:03:34
+
+trabalham durante o dia e estudam à
+ 01:03:36
+
+noite também tem essa questão muito
+ 01:03:38
+
+preminente não é Eh como a gente faz leva
+ 01:03:40
+
+os nossos nossos alunos nas comunidades
+ 01:03:43
+
+noturnas Quais são as estratégias
+ 01:03:45
+
+adotadas Eu acho que isso aqui vai ser
+ 01:03:48
+
+um grande tema de debate no futuro aqui
+ 01:03:49
+
+no Brasil e como está sendo implementada
+ 01:03:52
+
+essa curricular
+ 01:03:54
+
+e como isso sendo impactado mas sem
+ 01:03:56
+
+dúvida que o Mateus comentou é um
+ 01:03:58
+
+processo de curricularização não é da
+ 01:04:01
+
+extensão dentro não é em Moçambique porque
+ 01:04:03
+
+eles já estão aí atuando nesse sentido
+ 01:04:05
+
+deixar aí pro Mateus comentar um pouco
+ 01:04:09
+
+mais acho que a gente ficou mais curioso
+ 01:04:10
+
+agora que que mais ações a gente você
+ 01:04:13
+
+pode nos contar aí sobre essa ação da
+ 01:04:15
+
+Universidade na extensão
+ 01:04:17
+
+Mateus ah bom
+ 01:04:21
+
+Ah se calhar Faria alguma ou seja algum
+ 01:04:25
+
+comentário um pouco antes de eu entrar
+ 01:04:30
+
+para para esse último aspecto ah a
+ 01:04:32
+
+quando o Ezequiel comentou sobre a
+ 01:04:36
+
+eletrificação Ah deve ter notado que Eu
+ 01:04:40
+
+mencionei a questão de possibilidade de
+ 01:04:45
+
+ah a a ter que criar outras fontes
+ 01:04:49
+
+ou de energia Ah que seja mais
+ 01:04:54
+
+sustentável Ah que seja mais aplicáveis
+ 01:04:58
+
+para as zonas rurais eh Então seria uma
+ 01:05:01
+
+melhor alternativa tanto agora essa
+ 01:05:07
+
+questão de a a colaboração com
+ 01:05:10
+
+a entre a a universidade e as famílias
+ 01:05:14
+
+Ah é muito útil como também já dizia o
+ 01:05:20
+
+professor Ezequiel que o o o aluno vai
+ 01:05:24
+
+buscando apresado não é ah o aluno Ah fica
+ 01:05:27
+
+tanto o entusiasmado engajado para
+ 01:05:32
+
+buscar a resposta das demandas ah das
+ 01:05:36
+
+famílias por onde ele tem estado a
+ 01:05:39
+
+passar não é e também tem uma
+ 01:05:42
+
+articulação tanto no âmbito desse
+ 01:05:46
+
+programa para além de famílias também
+ 01:05:49
+
+Ah há momentos que trabalhamos ah em
+ 01:05:52
+
+parceria com as instituições em que
+ 01:05:56
+
+vamos fazendo algumas intervenções para
+ 01:05:58
+
+responder tanto a algumas preocupações
+ 01:06:01
+
+tanto que ah a A em função dos cursos
+ 01:06:05
+
+que nós vamos oferecendo Então as
+ 01:06:10
+
+instituições vem a nós e nós vamos fazer
+ 01:06:12
+
+as nossas intervenções respondendo às
+ 01:06:16
+
+demandas que esses ah essas instituições
+ 01:06:18
+
+têm não é a junto com os nossos já
+ 01:06:22
+
+alunos tá aí os alunos vão construindo
+ 01:06:26
+
+conhecimento vão adquirindo experiências
+ 01:06:28
+
+para intervir a aquilo que é o
+ 01:06:31
+
+funcionamento ah de uma organização
+ 01:06:34
+
+tanto para
+ 01:06:37
+
+responder agricultores que eh é é
+ 01:06:40
+
+fundamental ter que o aluno desenvolver
+ 01:06:44
+
+essas
+ 01:06:46
+
+habilidades Ah eu acho que
+ 01:06:48
+
+ah estamos a terminar ou não não sei mas
+ 01:06:51
+
+eu quero agradecer bastante a esse
+ 01:06:54
+
+convite não é ter que fazermos aqui esse
+ 01:06:57
+
+diálogo tanto é um diálogo que também
+ 01:07:00
+
+vai ajudar para nós irmos forma
+ 01:07:02
+
+diferente ah irmos pensando ganhando
+ 01:07:06
+
+algumas experiências Ah porque só
+ 01:07:09
+
+conseguir ouvir aqui ah com alguns
+ 01:07:13
+
+participantes aqui na palestra isso
+ 01:07:15
+
+também já tanto desperta um pouco como é
+ 01:07:18
+
+que nós podemos também pensar a a a
+ 01:07:20
+
+dentro dases que nós temos como
+ 01:07:23
+
+universidade e
+ 01:07:26
+
+avançar muito bom Mateus antes de
+ 01:07:31
+
+encerar antes de eu chamar o professor
+ 01:07:34
+
+Zuin de volta aqui e encerar eu queria
+ 01:07:36
+
+que você comentasse eh ah da sua tese de
+ 01:07:39
+
+doutorado o título da sua tese de
+ 01:07:43
+
+doutorado falar um pouquinho do que que
+ 01:07:44
+
+se trata e convidar o pessoal também
+ 01:07:47
+
+para ler onde é que ela se ela se ela
+ 01:07:49
+
+pode se encontrar já disponível ou ou
+ 01:07:51
+
+futuramente ela estiver disponível você
+ 01:07:53
+
+comentar aí o que que você estudou
+ 01:07:55
+
+brevemente sobre o doutorado se tem
+ 01:07:57
+
+relação com essa Live ou não e para o
+ 01:07:59
+
+pessoal tá sabendo que você fez um
+ 01:08:02
+
+doutorado na Universidade Federal de
+ 01:08:04
+
+Viçosa não é E que você fez uma pesquisa aí
+ 01:08:06
+
+e que poderia falar rapidamente sobre
+ 01:08:09
+
+sua tese pro pessoal talvez eh se
+ 01:08:11
+
+aprofundar nesse assunto que você tem
+ 01:08:14
+
+trabalhado aqui conosco
+ 01:08:17
+
+hoje ah muito obrigado profor Ezequiel
+ 01:08:18
+
+eh de fato passei uma temporada não é no no
+ 01:08:23
+
+Brasil ah infelizmente coincidiu com a
+ 01:08:28
+
+pandemia mas pronto Foi um momento Ah
+ 01:08:31
+
+muito útil ah para mim ter
+ 01:08:35
+
+eh passado pela Universidade Federal de
+ 01:08:38
+
+vosa eu aprendi bastante e também
+ 01:08:41
+
+conheci lá gente muito boa portanto
+ 01:08:45
+
+temos aqui ah na nossa palestra o Renato
+ 01:08:47
+
+que foi ah o meu colega lá ah
+ 01:08:51
+
+mas na verdade foi ah muito importante
+ 01:08:55
+
+ah fazendo a ligação com a minha
+ 01:09:00
+
+pesquisa
+ 01:09:03
+
+Ah tem tem tem um elemento fundamental
+ 01:09:04
+
+que é
+ 01:09:08
+
+ah o o próprio processo em que as
+ 01:09:09
+
+informações as tecnologias são tanto
+ 01:09:14
+
+levadas aos agricultores ah essa foi uma
+ 01:09:18
+
+questão fundamental porque eu ah fui
+ 01:09:22
+
+fazendo uma uma leitura do ah fui panto
+ 01:09:24
+
+dialogando um pouco mais com essa
+ 01:09:28
+
+questão da extensão ah percebendo o
+ 01:09:30
+
+papel e a dinâmica da extensão rural na
+ 01:09:32
+
+agricultura familiar na Província de
+ 01:09:35
+
+nias tanto foi foi um grande eh desafio
+ 01:09:36
+
+e também perceber que a o o próprio
+ 01:09:40
+
+processo tanto de a a a a
+ 01:09:44
+
+transmitir a troca de experiência entre
+ 01:09:49
+
+o extensionista e o agricultor é
+ 01:09:52
+
+fondamental que seja um processo Ah mais
+ 01:09:55
+
+dialógico que permita que o agricultor
+ 01:09:58
+
+ah seja um sujeito ativo nesse processo
+ 01:10:01
+
+não é
+ 01:10:05
+
+ah que todos os processos que envolvem a
+ 01:10:06
+
+tomar decisão ah tenham tanto a
+ 01:10:08
+
+participação do Agricultor e também a
+ 01:10:12
+
+possibilidade de ter que pegar ah tanto
+ 01:10:16
+
+naquelas tecnologias que são mais do
+ 01:10:18
+
+domínio dos Agricultores tanto e e a
+ 01:10:21
+
+primorar Essas tecnologias e colocar à
+ 01:10:25
+
+disposição dos Agricultores sem precisar
+ 01:10:28
+
+tanto de a a a a a tecnologias que
+ 01:10:32
+
+exijam altos investimentos e que se
+ 01:10:37
+
+calhar pelas características dos
+ 01:10:40
+
+Agricultores não sejam aceites não é
+ 01:10:43
+
+Então esse é um exercício bastante
+ 01:10:47
+
+importante nesse processo Então eu fui
+ 01:10:49
+
+percebendo um pouco eh eh eh essa
+ 01:10:52
+
+questão estão eh que eu acho que é
+ 01:10:54
+
+fundamental na atuação dos
+ 01:10:57
+
+extensionistas ter que olhar justamente
+ 01:11:00
+
+com quem que está a dialogar e como é
+ 01:11:03
+
+que pode tornar a esse agricultor ah
+ 01:11:06
+
+dentro daquilo que Ele desejava que
+ 01:11:10
+
+fosse mas também ter que olhar o que é
+ 01:11:13
+
+que o agricultor efetivamente é capaz de
+ 01:11:16
+
+de fazer portanto eh é Um Desafio muito
+ 01:11:20
+
+grande é Um Desafio muito grande porque
+ 01:11:22
+
+a a a a questão da difusão de inovações
+ 01:11:25
+
+algum momento ah consumiu muito a nossa
+ 01:11:29
+
+maneira de fazer a extensão mas ah na
+ 01:11:32
+
+contemporanidade dá necessidade de
+ 01:11:36
+
+pensar porque o agricultor é um sujeito
+ 01:11:38
+
+com a o seu curso de vida experiências e
+ 01:11:41
+
+vivências etc então há necessidade ter
+ 01:11:45
+
+que trazer isso e considerar nesse
+ 01:11:48
+
+processo tanto que na minha apresentação
+ 01:11:51
+
+aqui também falei da questão linguística
+ 01:11:53
+
+etc etc as questões culturais então é
+ 01:11:55
+
+preciso buscar esses elementos e e e e e
+ 01:11:59
+
+e para garantir que tanto a intervenção
+ 01:12:02
+
+do técnico não seja apenas para a a a a
+ 01:12:05
+
+fazer perceber que ele está lá mas que
+ 01:12:10
+
+tenham impactos esse que é ah o ponto
+ 01:12:13
+
+fundamental ah portanto que eu consegui
+ 01:12:17
+
+eh perceber a com a minha pesquisa
+ 01:12:20
+
+muito bom Mateus eu sou assim um eu me
+ 01:12:26
+
+inspiro Eu gosto muito de escutar outras
+ 01:12:29
+
+experiências eu vou lembrar o Mateus nós
+ 01:12:32
+
+temos um aluno programa de pós-graduação
+ 01:12:34
+
+da ufvjm é Diamantina Minas Gerais que é
+ 01:12:37
+
+o Nelson o Nelson vai defender a tese
+ 01:12:41
+
+dele e sobre Angola tá ele vai falar
+ 01:12:43
+
+sobre Angola agora dia 28 de Abril a
+ 01:12:47
+
+dissertação dele de mestrado e ele é um
+ 01:12:50
+
+angolano que veio ao Brasil e eu tenho
+ 01:12:52
+
+aprendido muito com o Nelson também e
+ 01:12:55
+
+ele fala muito
+ 01:12:57
+
+eh fala muito a questão de que eh naola
+ 01:12:58
+
+agricultura é feita por mulheres e isso
+ 01:13:03
+
+me chama muita atenção e ele vai falar
+ 01:13:06
+
+assim que os homens vão trabalhar na
+ 01:13:08
+
+construção civil então assim eu disse
+ 01:13:09
+
+caramba mas e aí ele fala que tem muito
+ 01:13:12
+
+a ser feito porque não é as mulheres têm
+ 01:13:15
+
+que cuidar das crianças e tal e fazem a
+ 01:13:17
+
+agricultura não é ali pr pra alimentação não é
+ 01:13:19
+
+da das da fam família não é Eu acho essas
+ 01:13:23
+
+experiências maravilhosas não é claro com
+ 01:13:26
+
+muitos desafios logicamente para a
+ 01:13:29
+
+atuação no nosso campo Muito obrigado
+ 01:13:32
+
+pela tua presença Mateus A Gente
+ 01:13:34
+
+agradece muito vou passar a palavra pro
+ 01:13:36
+
+pro zuin Se o Mateus também quiser fazer
+ 01:13:38
+
+uma nova consideração e E aí daí a gente
+ 01:13:40
+
+encera esse momento que assim é
+ 01:13:43
+
+aprendizado assim que se leva pra vida e
+ 01:13:45
+
+para o nosso trabalho Ah muito
+ 01:13:48
+
+sim bom eu queria só agradecer a
+ 01:13:53
+
+presença do Mateus aqui não é esse
+ 01:13:56
+
+compartilhamento dessa experiência dessa
+ 01:13:58
+
+vivência dele eh nos mostrando eh a ater
+ 01:14:00
+
+os serviços de ater em Moçambique é
+ 01:14:05
+
+muito bacana gostei muito e agradeço
+ 01:14:08
+
+Mateus e digo que essa conversa não vai
+ 01:14:11
+
+parar por aqui não a gente vai continuar
+ 01:14:14
+
+conversando tá que nos interessa muito
+ 01:14:17
+
+tá fazendo parcerias aí com pesquisa com
+ 01:14:19
+
+extensão com o Moçambique fque com você
+ 01:14:22
+
+tá Um abraço e tenha um bom dia
+ 01:14:25
+
+Mateus e é isso gente eh então assim
+ 01:14:31
+
+para encerar nosso momento aqui eh No
+ 01:14:34
+
+próximo dia 19 anota aí 19 quarta-feira
+ 01:14:37
+
+às 9 horas nesse mesmo canal nesse mesmo
+ 01:14:42
+
+local nós vamos continuar então com a o
+ 01:14:45
+
+nosso Cico de palestr de diálogos em até
+ 01:14:48
+
+digital Semeando propostas
+ 01:14:51
+
+compartilhando dos saberes a nossa
+ 01:14:54
+
+convidada de hoje desse dia do dia 19 é
+ 01:14:56
+
+a Juliana Vaz e ela vai trabalhar sobre
+ 01:14:59
+
+a questão da modernização do programa
+ 01:15:02
+
+nacional de educação sanitária em defesa
+ 01:15:05
+
+agropecuária famoso proeza tá então
+ 01:15:08
+
+estão todos convidados para dia 19 na
+ 01:15:11
+
+quarta-feira às 9 horas da manhã
+ 01:15:14
+
+estaremos aqui continuando esse ciclo
+ 01:15:16
+
+que vai até o final do ano não é Zuin a
+ 01:15:19
+
+gente não para muito e tem novidade por
+ 01:15:21
+
+aí ainda muito obrigado OB Mateus e até
+ 01:15:23
+
+uma próxima oportunidade
+ 01:15:26

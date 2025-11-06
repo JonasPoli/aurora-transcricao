@@ -1,0 +1,8 @@
+video_id: JtP7MvX6uLw
+video_url: https://www.youtube.com/watch?v=JtP7MvX6uLw
+title: #roça #amem #caminhoparaumavidamelhor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2025

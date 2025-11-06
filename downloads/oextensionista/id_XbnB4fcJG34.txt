@@ -1,0 +1,8 @@
+video_id: XbnB4fcJG34
+video_url: https://www.youtube.com/watch?v=XbnB4fcJG34
+title: Viticultura e Fruticultura no Bioma Pampa - confira os detalhes do evento!
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2024

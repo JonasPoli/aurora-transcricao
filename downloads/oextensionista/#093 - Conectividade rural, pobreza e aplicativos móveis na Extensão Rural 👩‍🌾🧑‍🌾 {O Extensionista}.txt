@@ -1,0 +1,809 @@
+o ciclo de palestras pesquisa em prosa
+ 00:00:00
+
+tem como objetivo principal ampliar o
+ 00:00:02
+
+alcance da divulgação Científica de
+ 00:00:05
+
+artigos dissertações e teses
+ 00:00:08
+
+relacionadas à área da extensão Rural é
+ 00:00:11
+
+muito bacana est aqui hoje nosse ciclo
+ 00:00:13
+
+não é esse novo ciclo de palestras pesquisa
+ 00:00:16
+
+em prosa onde que a gente vai explorar o
+ 00:00:18
+
+que tá acontecendo de mais recente na
+ 00:00:21
+
+pesquisa da extensão Rural um prazer
+ 00:00:23
+
+muito grande estar aqui com a gente e é
+ 00:00:25
+
+um prazer também ter a Paloma com
+ 00:00:27
+
+meu nome é palum Reis Lucas eu sou da
+ 00:00:30
+
+área de I da embraga energia e eu
+ 00:00:32
+
+trabalho com a parte engenheria de
+ 00:00:36
+
+softer um governança de projetos em
+ 00:00:37
+
+2050 ela vai ultrapassar 9 bilhões de
+ 00:00:41
+
+habitantes de acordo com a ONU é 9,7
+ 00:00:44
+
+bilhões de habitantes E aí o que que
+ 00:00:47
+
+isso traz pra gente
+ 00:00:48
+
+eh você tem mais gente no mundo você tem
+ 00:00:49
+
+que alimentar essas pessoas Então traz
+ 00:00:52
+
+um problema de segurança alimentar só
+ 00:00:54
+
+que a Terra arável no mundo ela é
+ 00:00:56
+
+limitada então eh uma solução para isso
+ 00:00:58
+
+seria aumentar a produtividade das
+ 00:01:01
+
+terras já já utilizadas hoje e para
+ 00:01:04
+
+aumentar a produtividade eu tem que
+ 00:01:06
+
+mudar essa produção na mesma quantidade
+ 00:01:08
+
+de terra não é E tem várias tecnologias que
+ 00:01:10
+
+ajudam a aumentar essa produtividade
+ 00:01:12
+
+entre elas é a agricultura digital que é
+ 00:01:14
+
+o uso da tecnologia da informação e
+ 00:01:16
+
+comunicação no campo não é é mais de 90%
+ 00:01:17
+
+das propriedades agrícolas do mundo elas
+ 00:01:20
+
+estão na mão de agricultores familiares
+ 00:01:23
+
+e eles representam mais ou menos 75% das
+ 00:01:25
+
+terras agrícolas então a maioria das
+ 00:01:27
+
+terras elas estão com agricultores
+ 00:01:30
+
+familiares e o grande agricultor ele já
+ 00:01:31
+
+tem acesso à tecnologias eles já estão
+ 00:01:34
+
+mais próximos de uma produtividade eh
+ 00:01:36
+
+máxima que ele consiga ter e o
+ 00:01:39
+
+agricultor familiar às vezes ele não tem
+ 00:01:41
+
+tanto acesso por algumas restrições
+ 00:01:43
+
+econômicas H Essas tecnologias então Eh
+ 00:01:44
+
+para aumentar a produtividade deles a
+ 00:01:48
+
+gente tem que ter um trabalho de dar
+ 00:01:50
+
+acesso a eles a tecnologia e eh isso
+ 00:01:52
+
+favorece a o mundo inteiro não é e a
+ 00:01:55
+
+Agricultura digital o que que é não é nesse
+ 00:01:57
+
+trabalho utilizei a agricultura digital
+ 00:02:00
+
+como se fosse envolvendo o
+ 00:02:02
+
+desenvolvimento adoção e interação de
+ 00:02:03
+
+tecnologias digitais no setor agrícola
+ 00:02:04
+
+então onde é a a tecnologia da
+ 00:02:07
+
+informação e comunicação interage com a
+ 00:02:08
+
+agricultura eh eu tô considerando que é
+ 00:02:10
+
+agricultura digital e aí o Distrito
+ 00:02:13
+
+Federal ele é melhor situação de
+ 00:02:15
+
+conectividade do Brasil aqui esses dados
+ 00:02:16
+
+ainda são de 2017 Mas você vê que a o
+ 00:02:19
+
+Distrito Federal Tem muito mais
+ 00:02:22
+
+propriedade rural com conectividade do
+ 00:02:24
+
+que outros estados Então quais os
+ 00:02:26
+
+fatores que acessa a agricultor familiar
+ 00:02:27
+
+nos de aplicativos móveis a gente já
+ 00:02:29
+
+tinha visto de eletricidade a
+ 00:02:31
+
+conectividade e telefones móveis a gente
+ 00:02:33
+
+viu depois da revisão de literatura a
+ 00:02:35
+
+capacidade de leitura que é é um
+ 00:02:37
+
+problema mas assim não é exatamente eh o
+ 00:02:39
+
+analfabetismo mas é como visualizar e
+ 00:02:42
+
+como ler informações numa tela tão
+ 00:02:45
+
+pequena em celulares antigos e que agora
+ 00:02:47
+
+a gente observa as pessoas porque a
+ 00:02:50
+
+gente observa muito a tecnologia e não
+ 00:02:52
+
+não vê a tecnologia voltada paraas
+ 00:02:54
+
+pessoas tem um um interesse agora de
+ 00:02:55
+
+primeiro perguntar para para quem é o
+ 00:02:58
+
+interessado para depois eu desenvolver
+ 00:03:00
+
+uma tecnologia e a população Alvo do meu
+ 00:03:02
+
+estudo aqui a gente eu peguei Qual é
+ 00:03:04
+
+matéria esses dados eh tem 2.700
+ 00:03:07
+
+estabelecimentos de Agricultura Familiar
+ 00:03:10
+
+no DF cadastrada e eles representam de
+ 00:03:11
+
+acordo com os dados 52% do dos
+ 00:03:13
+
+agricultores do DF e com relação à
+ 00:03:16
+
+eletrificação rural no distrito federal
+ 00:03:18
+
+todos os agricultores entrevistados eles
+ 00:03:21
+
+possuíam energia elétrica só que a
+ 00:03:23
+
+qualidade da energia elétrica Não não é
+ 00:03:26
+
+tão satis ória Então ninguém falou que
+ 00:03:28
+
+tinha energia Sempre disponível todos os
+ 00:03:31
+
+os entrevistados possuíam internet 79
+ 00:03:33
+
+possuíam wi-fi que é muito legal também
+ 00:03:37
+
+todos possuí smartphones que tinham a
+ 00:03:40
+
+tecnologia mínimo 4G mas na hora que eu
+ 00:03:42
+
+fui fazer entrevista eles não estavam
+ 00:03:45
+
+com acesso à internet lá na propriedade
+ 00:03:47
+
+deles então eles todos eles têm acesso à
+ 00:03:49
+
+internet mas quando precisa eles dentro
+ 00:03:51
+
+de casa na propriedade 44% não estavam
+ 00:03:53
+
+com acesso à internet móvel e quase
+ 00:03:56
+
+metade deles 48% também ficam sem
+ 00:03:58
+
+internet por problema de pagamento é um
+ 00:04:00
+
+valor muito alto o valor do da internet
+ 00:04:02
+
+no campo geralmente ele é mais alto do
+ 00:04:05
+
+que na cidade para uma população que não
+ 00:04:07
+
+tem uma renda tão alta é muito
+ 00:04:10
+
+complicado pagar essa conta todo mês
+ 00:04:12
+
+então 48% ficam sem internet de vez em
+ 00:04:14
+
+quando e aí a gente foi pesquisar também
+ 00:04:18
+
+a velocidade na internet porque para
+ 00:04:20
+
+desenvolver aplicativo a gente sabe que
+ 00:04:22
+
+dependendo da velocidade o aplicativo
+ 00:04:24
+
+ele não vai funcionar ele não vai rodar
+ 00:04:26
+
+eu não vou conseguir ver um vídeo então
+ 00:04:27
+
+eu fiz primeiro um estudo para saber o
+ 00:04:29
+
+que seria
+ 00:04:31
+
+eh uma velocidade aceitável para acessar
+ 00:04:32
+
+o vídeo para ver foto para acessar
+ 00:04:35
+
+aplicativos e a gente viu que 1 mbit 21
+ 00:04:37
+
+MB por segundo era adequado para isso
+ 00:04:40
+
+era um uso confortável só que 20% dos
+ 00:04:43
+
+Agricultores que a gente entrevistou
+ 00:04:46
+
+tinham velocidades maiores do que 20 MB
+ 00:04:47
+
+por segundo metade não alcançava 3,7 que
+ 00:04:49
+
+é muito pouco via 4G e 8,65 via wi-fi eh
+ 00:04:52
+
+97% utilizava o Android o c celular mais
+ 00:04:56
+
+comum é da Samsung seg de Motorola e
+ 00:05:00
+
+xiaomi E aí a gente viu a capacidade de
+ 00:05:02
+
+armazenamento de 32 GB de armazenamento
+ 00:05:04
+
+é uma capacidade que ela é muito baixa
+ 00:05:07
+
+também é 32 GB tá com 58% dos dos
+ 00:05:09
+
+entrevistados quando você tem é uma
+ 00:05:13
+
+capacidade muito baixa de armazenamento
+ 00:05:16
+
+se eu disponibilizo um novo aplicativo
+ 00:05:17
+
+ou um vídeo para ele baixar mas muitas
+ 00:05:19
+
+das vezes ele tem que desinstalar outro
+ 00:05:23
+
+aplicativo para ele para conseguir
+ 00:05:24
+
+instalar o seu só que quando ele tem
+ 00:05:26
+
+aplicativos básicos que são muito muito
+ 00:05:27
+
+mais úteis para eles como um WhatsApp um
+ 00:05:30
+
+aplicativo de banco ele não vai eh tirar
+ 00:05:32
+
+esses aplicativos para instalar um
+ 00:05:35
+
+aplicativo móvel não é de agricultura mesmo
+ 00:05:36
+
+sendo voltado para ele então isso é um
+ 00:05:40
+
+um um problema para agricultor ele não
+ 00:05:42
+
+ter espaço de armazenamento no celular
+ 00:05:44
+
+dele 81% dizem que leem de forma
+ 00:05:45
+
+satisfatória o aplicativo móvel leem de
+ 00:05:47
+
+forma satisfatória o que o conteúdo que
+ 00:05:50
+
+aparece no celular não é só que 18%
+ 00:05:53
+
+disseram que tinham problemas para
+ 00:05:55
+
+leitura e não são problemas como o
+ 00:05:56
+
+analfabetismo a gente encontrou uma
+ 00:05:59
+
+pessoa que tinha dificuldade de leitura
+ 00:06:01
+
+mesmo mas as outras elas Falavam do
+ 00:06:03
+
+problema do tamanho da letra que era
+ 00:06:05
+
+muito pequeno era muito difícil você ler
+ 00:06:07
+
+em celulares às vezes muito pequenos
+ 00:06:09
+
+então tem Smartphone muito pequeno que é
+ 00:06:11
+
+muito conteúdo para ele ficar lendo em
+ 00:06:13
+
+uma telinha pequena de todos os
+ 00:06:14
+
+agricultores 11% disseram que utilizam
+ 00:06:16
+
+aplicativos de agricultura 34% falaram
+ 00:06:18
+
+que conhecem os aplicativos de
+ 00:06:20
+
+agricultura mas alguns não utilizam
+ 00:06:22
+
+esses aplic esses aplicativos que el
+ 00:06:24
+
+conhece que ele sabe que o aplicativo
+ 00:06:25
+
+existe mas ele acha que não é útil para
+ 00:06:27
+
+ele ou às vezes vees Não não é útil
+ 00:06:28
+
+mesmo não é para não é voltado para
+ 00:06:30
+
+agricultor familiar mas ele sabe que tá
+ 00:06:32
+
+lá e ele fala do alto valor de
+ 00:06:33
+
+investimento para aquisição de
+ 00:06:35
+
+aplicativos sobre o conhecimento e
+ 00:06:37
+
+treinamento não é 53% falaram que tem
+ 00:06:38
+
+conhecimento baixo ou muito baixo sobre
+ 00:06:41
+
+as tecnologias utilizadas eles sabem
+ 00:06:42
+
+utilizar Mas ainda dá para evoluir muito
+ 00:06:44
+
+nesse uso de aplicativos e e
+ 00:06:47
+
+69% apontaram falta de conhecimento nas
+ 00:06:50
+
+tecnologias mais apropriadas para uso na
+ 00:06:53
+
+na propriedade então a gente falou assim
+ 00:06:55
+
+dos aplicativos que você já utiliza
+ 00:06:57
+
+quais os problemas que você tem
+ 00:06:58
+
+encontrado e eles falaram de aplicativos
+ 00:07:00
+
+que não funcionam offline 79 É muita
+ 00:07:02
+
+gente falando que os aplicativos eles
+ 00:07:05
+
+conseguem acessar quando estão com
+ 00:07:07
+
+internet a gente observou que na hora da
+ 00:07:09
+
+pesquisa metade não tava com internet
+ 00:07:11
+
+então eles não conseguem Acessar o
+ 00:07:12
+
+aplicativo quando eles precisam que é na
+ 00:07:15
+
+própria casa no campo eh o aplicativo
+ 00:07:18
+
+ocupa muito espaço no smartphone e eu
+ 00:07:20
+
+tenho que optar por outros mais
+ 00:07:22
+
+essenciais 72 que é aquele caso que eu
+ 00:07:23
+
+falei não é ele vai ter que desinstalar um
+ 00:07:26
+
+aplicativo para instalar o outro outro
+ 00:07:27
+
+aplicativo então eles têm uma
+ 00:07:29
+
+necessidade grande de aplicativos de
+ 00:07:31
+
+compra e venda de insumos produtos de
+ 00:07:33
+
+produção então a gente viu que o
+ 00:07:35
+
+smartphone ele já é bem utilizado no
+ 00:07:37
+
+campo os agricultores às vezes T
+ 00:07:39
+
+celulares antigos Mas eles já TM todos
+ 00:07:41
+
+tinham smartphone eh todos possuíam
+ 00:07:43
+
+internet acesso à internet energia às
+ 00:07:45
+
+vezes não na qualidade aceitável sim mas
+ 00:07:47
+
+eles possuíam e a gente viu as
+ 00:07:50
+
+preferências deles de vídeo áudio
+ 00:07:51
+
+imagens eh que Eles escolheram como os
+ 00:07:53
+
+mídias que eles gostavam de consumir
+ 00:07:55
+
+realmente eu tô pesquisando mostram
+ 00:07:58
+
+problemas claros e evidentes do que
+ 00:08:00
+
+realmente acontece com a nossa
+ 00:08:03
+
+Agricultura Familiar e isso aqui a gente
+ 00:08:05
+
+vê na lá em Distrito Federal vem em
+ 00:08:07
+
+Arroio do Tig lá em casa nossa
+ 00:08:10
+
+propriedade não é Eh coisas assim que dá
+ 00:08:11
+
+para generalizar Talvez para todo mundo
+ 00:08:14
+
+não é o principal problema que a gente
+ 00:08:17
+
+achou foi o o problema de ter uma renda
+ 00:08:18
+
+que conseguisse ter acesso a tecnologias
+ 00:08:21
+
+que às vezes não aparentam ser tão caras
+ 00:08:25
+
+Mas dependendo do público é muito caro
+ 00:08:27
+
+então nessa questão de conectividade
+ 00:08:29
+
+também é interessante porque a gente às
+ 00:08:31
+
+vezes vê não tem conectividade na terra
+ 00:08:33
+
+ele tá conectando mas alguns
+ 00:08:35
+
+agricultores falam não eu conecto mas eu
+ 00:08:37
+
+tenho que ir lá no canto da minha
+ 00:08:38
+
+propriedade soir o morro e esperar que
+ 00:08:40
+
+não passe um vento que se passar um
+ 00:08:42
+
+vento também pode ser que não tenha uma
+ 00:08:43
+
+conexão então não é uma conexão que ele
+ 00:08:45
+
+tem na propriedade inteira às vezes ele
+ 00:08:46
+
+tem num canto da casa às vezes ele tem
+ 00:08:49
+
+do outro lado mas se ele tiver uma
+ 00:08:50
+
+dúvida e ele tá a ao uma distância
+ 00:08:52
+
+grande de casa ele teria que voltar para
+ 00:08:54
+
+dentro de casa para ele poder acessar não é
+ 00:08:56
+
+que dá para sentir é o seguinte Apesar
+ 00:08:58
+
+de todas as dificuldades de aparelho de
+ 00:08:59
+
+conectividade de preço de acesso não é os
+ 00:09:02
+
+vários tipos de acesso ali Eles
+ 00:09:06
+
+continuam querendo utilizar essa
+ 00:09:08
+
+tecnologia pode nos dizer sobre o
+ 00:09:09
+
+fechamento pra gente serar essa esse
+ 00:09:12
+
+nosso grande essa grande manhã que foi
+ 00:09:14
+
+muito produtiva e muito bacana espero
+ 00:09:16
+
+que essa pesquisa ela consiga evoluir
+ 00:09:18
+
+que as pessoas que estejam vendo
+ 00:09:21
+
+procurem evoluir essa pesquisa para
+ 00:09:23
+
+conseguir eh formas de os de de de
+ 00:09:26
+
+desenvolver assim Centralizado no
+ 00:09:30
+
+usuário mesmo não é Na hora que eu
+ 00:09:32
+
+desenvolver um um produto eu consiga
+ 00:09:33
+
+desenvolver pensando no que Ele tem
+ 00:09:36
+
+acesso no que que ele pode ter e nas
+ 00:09:38
+
+dificuldades mesmo que não é tão simples
+ 00:09:39
+
+é o financeiro também não é tão tão
+ 00:09:41
+
+legal assim e o governo consiga eh
+ 00:09:44
+
+desenvolver políticas públicas que
+ 00:09:47
+
+auxiliem esse grupo não é então é isso
+ 00:09:48
+
+gente Obrigado aí à presença de todo
+ 00:09:50
+
+mundo e até uma próxima oportunidade
+ 00:09:52

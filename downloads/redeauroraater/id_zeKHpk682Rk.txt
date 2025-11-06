@@ -1,0 +1,8 @@
+video_id: zeKHpk682Rk
+video_url: https://www.youtube.com/watch?v=zeKHpk682Rk
+title: Tecnologias digitais na produção rural  #extensãorural #redeaurora #extensionistarural #tecnologia
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2023

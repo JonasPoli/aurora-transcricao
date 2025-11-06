@@ -1,0 +1,8 @@
+video_id: Kt_zYYp9pUU
+video_url: https://www.youtube.com/watch?v=Kt_zYYp9pUU
+title: Como os extensionistas rurais se comunicaram com os agricultores durante a pandemia?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/07/2022

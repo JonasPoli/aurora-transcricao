@@ -1,0 +1,9 @@
+video_id: dg_wToZTEns
+video_url: https://www.youtube.com/watch?v=dg_wToZTEns
+title: Extensão Rural: abordagens metodológicas e perspectivas de atuação profissional
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/7754105567138364
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/01/2021

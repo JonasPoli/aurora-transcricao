@@ -1,0 +1,8 @@
+video_id: VEFyHWW-Cnk
+video_url: https://www.youtube.com/watch?v=VEFyHWW-Cnk
+title: Os desafios da aplicação após a análise de foliar #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2025

@@ -1,0 +1,8 @@
+video_id: -UFXatt6X6Y
+video_url: https://www.youtube.com/watch?v=-UFXatt6X6Y
+title: Sobre a romantização da Agricultura Familiar #roça #agro #colono #colonia #humildade #trabalhoduro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2023

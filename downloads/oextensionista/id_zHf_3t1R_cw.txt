@@ -1,0 +1,8 @@
+video_id: zHf_3t1R_cw
+video_url: https://www.youtube.com/watch?v=zHf_3t1R_cw
+title: #roça #pessoas
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

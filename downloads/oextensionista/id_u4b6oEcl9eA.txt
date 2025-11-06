@@ -1,0 +1,8 @@
+video_id: u4b6oEcl9eA
+video_url: https://www.youtube.com/watch?v=u4b6oEcl9eA
+title: #madeira #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/03/2025

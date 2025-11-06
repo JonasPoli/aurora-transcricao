@@ -1,0 +1,8 @@
+video_id: wf0HsgIOrII
+video_url: https://www.youtube.com/watch?v=wf0HsgIOrII
+title: O papel da extensão rural na construção de políticas públicas voltadas à agricultura familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2023

@@ -1,0 +1,9 @@
+video_id: tjCtdJCjyYI
+video_url: https://www.youtube.com/watch?v=tjCtdJCjyYI
+title: Plataforma Ater+ Digital conteúdos e ferramentas para extensionistas e agricultores
+uploader: Rede Aurora
+speaker: Rodrigo Montalvão Ferraz
+Lattes: http://lattes.cnpq.br/2069378221576688
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/25/2024

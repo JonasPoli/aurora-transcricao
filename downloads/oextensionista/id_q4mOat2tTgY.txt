@@ -1,0 +1,8 @@
+video_id: q4mOat2tTgY
+video_url: https://www.youtube.com/watch?v=q4mOat2tTgY
+title: #caminhoparaumavidamelhor #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

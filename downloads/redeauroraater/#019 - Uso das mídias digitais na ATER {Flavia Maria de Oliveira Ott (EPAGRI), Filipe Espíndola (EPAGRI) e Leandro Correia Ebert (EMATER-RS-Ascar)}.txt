@@ -1,0 +1,10274 @@
+Olá a todos e todas, extensionistas
+ 00:00:01
+
+RAIS, agricultores e agricultoras,
+ 00:00:03
+
+jovens RAIS, pesquisadores, professores
+ 00:00:05
+
+de extensão rural, acadêmicos e demais
+ 00:00:08
+
+públicos aqui presentes. Sejam todos
+ 00:00:10
+
+muito bem-vindos. Meu nome é Zquedim,
+ 00:00:12
+
+professor de extensão rural. Quem está
+ 00:00:14
+
+aqui hoje conosco é o professor Luiz
+ 00:00:16
+
+Fernando Soares Ruim da USP, o fundador
+ 00:00:18
+
+da rede aurora e juntamente com o nosso
+ 00:00:20
+
+grande trio de convidados aqui que vai
+ 00:00:23
+
+arrebentar, vai dar show nessa live. A
+ 00:00:25
+
+Flávia Maria de Oliveira Oto da Ipagria,
+ 00:00:27
+
+fundadora do Zap Rural, o Felipe Espino
+ 00:00:30
+
+da Ipagria, fundador do Zap Rural. E o
+ 00:00:33
+
+Leandro Correia Ebert da Imaté do estado
+ 00:00:35
+
+do Rio Grande do Sul, nosso grande
+ 00:00:37
+
+engenheiro agrônão rural no canal Apast
+ 00:00:38
+
+mais. todos aqui excelentes
+ 00:00:41
+
+profissionais na área de extensão rural
+ 00:00:43
+
+no Brasil e no mundo. E é nesse dia 22,
+ 00:00:45
+
+21 de maio e estamos aqui em mais um
+ 00:00:48
+
+evento do ciclo de diálogos em até
+ 00:00:51
+
+digital, eh, semeando propostas e
+ 00:00:53
+
+compartilhando saberes. Nossos eventos
+ 00:00:56
+
+buscam identificar e propor caminhos
+ 00:00:58
+
+metodológicos para os atuais elementos e
+ 00:01:00
+
+condicionantes que determinam os
+ 00:01:03
+
+processos de transferência e
+ 00:01:05
+
+compartilhamento de novas tecnologias
+ 00:01:07
+
+rurais nos territórios rurais da América
+ 00:01:09
+
+Latina, da África e alguns países como
+ 00:01:11
+
+Portugal, Espanha e Luxemburgo. E a
+ 00:01:13
+
+palestra de hoje é intitulada O uso das
+ 00:01:15
+
+mídias digitais na ATER. E nossos
+ 00:01:18
+
+convidados de hoje é Flávia Felipe
+ 00:01:21
+
+Leandro. E essa live é uma iniciativa do
+ 00:01:23
+
+portal Extensionista e da Rede Aurora de
+ 00:01:25
+
+Diálogos em Até Digital na América
+ 00:01:28
+
+Latina e com todos os apoiadores que
+ 00:01:29
+
+vocês podem conferir aqui na descrição
+ 00:01:31
+
+desse vídeo. Sejam muito bem-vindos,
+ 00:01:34
+
+professor Zuin, toda a turma aqui que
+ 00:01:36
+
+está aqui presente. É um prazer vocês
+ 00:01:38
+
+estarem compartilhando conosco seus
+ 00:01:39
+
+conhecimentos. Desde já o nosso muito
+ 00:01:41
+
+obrigado e já de antemão passo a palavra
+ 00:01:43
+
+ao professor Zuin. Bom dia a todos e a
+ 00:01:45
+
+todas. Hoje é um dia muito especial, não é,
+ 00:01:48
+
+reunindo esses três grandes amigos do
+ 00:01:50
+
+canal. não é, o extensionista e também da
+ 00:01:52
+
+Rede Aurora. Tenho certeza que a gente
+ 00:01:54
+
+vai aprender muito com o Felipe, com a
+ 00:01:56
+
+Flávia e com o Leandro. Felipe, Flávio e
+ 00:01:58
+
+Leandro, sejam muito bem-vindos. A
+ 00:02:00
+
+palavra é de vocês, tá? Fique à vontade.
+ 00:02:02
+
+Que alegria essa energia maravilhosa
+ 00:02:09
+
+para iniciar nosso dia. Muito obrigado,
+ 00:02:13
+
+professor Ezequiel. Muito obrigado,
+ 00:02:16
+
+professor Zuin. Bom dia, Felipe. Bom
+ 00:02:17
+
+dia, Leandro. muito obrigado por nos
+ 00:02:20
+
+proporcionar esse momento, esse encontro
+ 00:02:22
+
+e poder discutir aqui as ações que a
+ 00:02:24
+
+gente vem compartilhando há um tempo.
+ 00:02:26
+
+Muito obrigada. Então, bom dia a todos
+ 00:02:29
+
+presentes na live e aqui na sala, não é?
+ 00:02:32
+
+Também agradeço a oportunidade de est
+ 00:02:35
+
+compartilhando esses conhecimentos aí
+ 00:02:38
+
+com todos. Muito bom dia.
+ 00:02:40
+
+Então, saúdo a todos. Isso é uma
+ 00:02:43
+
+satisfação estar presente aqui, tá
+ 00:02:45
+
+reunido nessa sala virtual com essas
+ 00:02:47
+
+pessoas que as redes sociais nos uniu,
+ 00:02:50
+
+não é? A gente se talvez se não fosse essa
+ 00:02:52
+
+empreitada aí a gente não estaria aqui
+ 00:02:56
+
+junto, não só pelo trabalho que a gente
+ 00:02:57
+
+fez nisso, mas porque a gente se
+ 00:02:59
+
+conheceu virtual, não é? Eu o o Ezequiel eu
+ 00:03:01
+
+já tive aqui agora, eu tô pertinho, não é?
+ 00:03:05
+
+Júlio de Castilhos, há uma hora ali da
+ 00:03:07
+
+UFSM, então já tive lá em sala de aula
+ 00:03:09
+
+com ele, mas antes já a gente já trocava
+ 00:03:11
+
+figurinha aí quando eu tava um pouco
+ 00:03:13
+
+mais longe lá em Serafina Correia, já
+ 00:03:15
+
+tinha participado aqui da Rede Aurora e
+ 00:03:16
+
+o Felipe, a Flávia que também pelas
+ 00:03:19
+
+nossas iniciativas de ATER digital, a
+ 00:03:21
+
+gente acabou se unindo aí com esse
+ 00:03:24
+
+propósito e que legal tá reunido aqui,
+ 00:03:25
+
+ainda que virtualmente no nosso estilo,
+ 00:03:28
+
+não é? A gente tá aqui reunidos hoje para
+ 00:03:30
+
+discutir esse negócio que que a gente
+ 00:03:34
+
+tem defendido e tem mais do que
+ 00:03:37
+
+defendido ou ou que a gente saiba muito,
+ 00:03:39
+
+mas que a gente meteu a cara e fez e já
+ 00:03:42
+
+temos uma caminhada aí para compartilhar
+ 00:03:46
+
+com o pessoal.
+ 00:03:48
+
+Muito bom. Essa live aqui vai ficar
+ 00:03:50
+
+histórica, não é? juntar toda essa turma
+ 00:03:51
+
+aqui. Isso aqui vai ficar pra
+ 00:03:53
+
+eternidade. E já vou passar então deemão
+ 00:03:55
+
+a palavra o Felipe e a Flávia que vão
+ 00:03:58
+
+fazer a primeira primeira primeiro show
+ 00:03:59
+
+do dia. Vai ser as dois aí depois a
+ 00:04:01
+
+gente passa pro Leandro fazer o show
+ 00:04:04
+
+finalo final e aí o nosso debate no
+ 00:04:06
+
+final. Felipe tá contigo. Felipe Flávio
+ 00:04:09
+
+tá com vocês aí. A gente vai deixar
+ 00:04:11
+
+vocês
+ 00:04:13
+
+aqui. Flávia.
+ 00:04:15
+
+Então, a proposta é a gente trazer de
+ 00:04:18
+
+uma forma rápida e contextualizada um
+ 00:04:20
+
+pouco dessa nossa caminhada na Terital e
+ 00:04:23
+
+a maneira que a gente entendeu que é a
+ 00:04:27
+
+proporção mais ideal pro nosso cenário,
+ 00:04:29
+
+pra nossa, pro nosso método de trabalho,
+ 00:04:32
+
+que é o mater digital simples. Então, eu
+ 00:04:34
+
+trabalho como extensionista social na
+ 00:04:38
+
+região extremoeste de Santa Catarina e o
+ 00:04:39
+
+Felipe trabalha então na região do
+ 00:04:42
+
+litoral como extensionista rural e a
+ 00:04:44
+
+gente tem feito essa caminhada
+ 00:04:47
+
+compartilhada aí já tem alguns anos
+ 00:04:48
+
+dentro da nossa
+ 00:04:50
+
+instituição. Você passa, Felipe? Passo.
+ 00:04:52
+
+Eh, a nossa fala inicial, eh, antes de
+ 00:04:56
+
+dar algum tipo de conceito, não é? Eh, já é
+ 00:05:00
+
+o primeiro conceito, na verdade, não é?
+ 00:05:03
+
+Essa ideia da até digital simples, não é? E
+ 00:05:04
+
+a gente vem defendendo que a TER digital
+ 00:05:07
+
+ela começa até antes da
+ 00:05:09
+
+pandemia. Eh, aqui eu tenho uma uma
+ 00:05:11
+
+imagem onde a gente tá eu estou com um
+ 00:05:14
+
+agricultor fazendo uma interpretação da
+ 00:05:17
+
+análise de solo na frente de um
+ 00:05:19
+
+computador. Então aqui eu tenho um
+ 00:05:20
+
+elemento presencial, mas também tem um
+ 00:05:22
+
+elemento digital. E aqui eu digo, tem
+ 00:05:24
+
+até digital aqui. Nesse momento a gente
+ 00:05:26
+
+poderia estar fazendo o lançamento do
+ 00:05:29
+
+próprio atendimento, poderia est olhando
+ 00:05:30
+
+o Google Earth. E é sempre uma alegria o
+ 00:05:33
+
+agricultor olhar a propriedade numa
+ 00:05:35
+
+imagem de satélite e identificar a casa,
+ 00:05:37
+
+os elementos da sua
+ 00:05:43
+
+propriedade. Mas eh nem tudo a gente
+ 00:05:45
+
+consegue fazer nesse meio digital. Ainda
+ 00:05:47
+
+temos a necessidade de fazer oficinas.
+ 00:05:50
+
+Eh, aqui eu tenho uma imagem eh fazendo
+ 00:05:52
+
+uma oficina com um grupo de agricultores
+ 00:05:55
+
+em Pedras Grandes, construindo aqui era
+ 00:05:57
+
+uma era uma lavoura de fumo e a gente
+ 00:06:01
+
+tava refazendo o a área toda em curva de
+ 00:06:03
+
+nível, não é? Então, usando um pé de
+ 00:06:07
+
+galinha com nível de bolha ali no
+ 00:06:08
+
+centro, uma ferramenta lá dos primórdios
+ 00:06:11
+
+da nossa até no Brasil, não é?
+ 00:06:14
+
+As visitas também continuam presentes. A
+ 00:06:18
+
+gente tá lá presente no campo
+ 00:06:20
+
+conversando com o agricultor. Só que
+ 00:06:21
+
+essa visita evolui porque em muitos
+ 00:06:23
+
+momentos durante essa visita a gente
+ 00:06:24
+
+precisa puxar um celular para
+ 00:06:27
+
+complementar a informação, uma um
+ 00:06:29
+
+questionamento do agricultor com um
+ 00:06:32
+
+vídeo, com uma tabela que a gente hoje
+ 00:06:34
+
+carrega na mão, não é, um equipamento
+ 00:06:36
+
+tecnológico com acesso à internet, com
+ 00:06:39
+
+acesso a arquivos que já estão ali na
+ 00:06:42
+
+nossa memória, não é, do equipamento. Então
+ 00:06:43
+
+isso dinamiza muito o nosso trabalho.
+ 00:06:46
+
+Isso qualquer extensionista em maior ou
+ 00:06:48
+
+menor eh eh importância na na durante o
+ 00:06:51
+
+seu dia a dia, tá usando, não é? Eh,
+ 00:06:56
+
+Flávia, aqui tu tem três exemplos que a
+ 00:06:59
+
+gente tinha incluído, não é? da Joana, do
+ 00:07:00
+
+Edes e da Rosa. A gente tem muita vida
+ 00:07:03
+
+nessa apresentação, nessas apresentações
+ 00:07:05
+
+e a gente mais ou menos dimensionou para
+ 00:07:08
+
+não estourar o tempo. Mas eu disse pro
+ 00:07:09
+
+Felipe que era tão importante quanto a
+ 00:07:11
+
+gente falar dos métodos que a gente faz
+ 00:07:13
+
+da extensão, trazer essa troca que a
+ 00:07:16
+
+gente tem tecnológica também com os
+ 00:07:18
+
+nossos agricultores. Uma vez que a gente
+ 00:07:20
+
+usa tecnologia para mediar o
+ 00:07:23
+
+conhecimento, quando a gente vai numa
+ 00:07:25
+
+visita, numa oficina, quando a gente
+ 00:07:27
+
+utiliza para se comunicar com eles, eles
+ 00:07:28
+
+também estão fazendo isso com a gente. E
+ 00:07:30
+
+aqui nós temos três exemplos. Por
+ 00:07:33
+
+exemplo, a Joana é uma agricultora
+ 00:07:34
+
+familiar, eh produtora orgânica de
+ 00:07:36
+
+alimentos e ela faz a guarda da semente
+ 00:07:38
+
+do tomate todos os anos, como ela
+ 00:07:41
+
+faz com as outras sementes que ela tem
+ 00:07:44
+
+na propriedade dela, não é? E aí quando a
+ 00:07:45
+
+gente incentiva eles a usar a
+ 00:07:48
+
+tecnologia, seja para pesquisa, para
+ 00:07:50
+
+envio de comunicação ou para se
+ 00:07:52
+
+comunicar com a gente mesmo enquanto
+ 00:07:54
+
+extensionista, ela entendeu que ela
+ 00:07:55
+
+poderia, por autonomia, por
+ 00:07:57
+
+protagonismo, fazer um vídeo ensinando
+ 00:07:59
+
+outras agricultoras a fazer a guarda. E
+ 00:08:01
+
+aí a gente usa esse material dela como
+ 00:08:04
+
+aprendizagem, como material de ensino
+ 00:08:07
+
+para que outras pessoas se apropriem
+ 00:08:10
+
+desse conhecimento que ela desenvolve na
+ 00:08:12
+
+propriedade dela. assim foi com o seu
+ 00:08:15
+
+Edésio para plantar o chuchu. Qual é a
+ 00:08:16
+
+melhor escolha? Ele faz esse plantil e
+ 00:08:18
+
+ele explica de uma maneira autônoma
+ 00:08:21
+
+também como é que seria a melhor forma.
+ 00:08:23
+
+Do mesmo jeito que a Rosa maneja o pomar
+ 00:08:26
+
+doméstico dela na no manejo mesmo de
+ 00:08:30
+
+sanidade, de fitosanidade, faz uma fala
+ 00:08:33
+
+contextualizando a melhor forma de fazer
+ 00:08:35
+
+uma poda, de fazer um manejo, de fazer
+ 00:08:37
+
+um cuidado fúgico, que são os cotidianos
+ 00:08:39
+
+que eles têm na agricultura familiar. E
+ 00:08:43
+
+aí quando a gente consegue promover esse
+ 00:08:46
+
+esse desejo, a gente compreende que eles
+ 00:08:48
+
+entenderam a necessidade da tecnologia e
+ 00:08:51
+
+muito mais do que isso, eles entenderam
+ 00:08:55
+
+a forma simples que é, porque eles só
+ 00:08:56
+
+precisam do celular para fazer uma
+ 00:08:59
+
+gravação. A Joana faz com o auxílio do
+ 00:09:01
+
+filho, por exemplo, seu Edésio também,
+ 00:09:04
+
+mas a Rosa faz por conta. Então eles
+ 00:09:06
+
+entender esse protagonismo pra gente é
+ 00:09:09
+
+um salto grandioso tecnológico dentro da
+ 00:09:10
+
+extensão. Entender que é algo natural
+ 00:09:13
+
+assim, não é? Eh, esse vídeo da Rosa, ele
+ 00:09:15
+
+ele se remete a um a aquele mesmo evento
+ 00:09:18
+
+que aparece eu com Qryde num numa numa
+ 00:09:21
+
+apresentação a campo, não é? Naquele dia a
+ 00:09:26
+
+gente falou sobre pode, a gente podou
+ 00:09:28
+
+essa esse pé de laranja de vergamota aí
+ 00:09:29
+
+e e a eu tinha acabado de sair da visita
+ 00:09:32
+
+da casa da Rosa e ela esqueceu de me
+ 00:09:35
+
+mostrar essa essa planta. A gente foi
+ 00:09:37
+
+tava discutindo o mercado, onde é que
+ 00:09:39
+
+ela ia vender, como é que ia trabalhar.
+ 00:09:42
+
+E assim que eu chego no escritório, eu
+ 00:09:44
+
+recebo esse esse material. Ela, pô,
+ 00:09:46
+
+esqueci desse detalhe aqui. E ficou tão
+ 00:09:48
+
+bom que eu já editei para ser um zap
+ 00:09:50
+
+rural, assim. Então, essa construção,
+ 00:09:54
+
+essa esse tipo de utilização das mídias
+ 00:09:56
+
+digitais por parte dos agricultores
+ 00:09:58
+
+também é algo natural hoje. Gravar uma
+ 00:10:00
+
+doença, um problema, uma um detalhe da
+ 00:10:03
+
+lavoura, tirar uma dúvida, não é? Eles
+ 00:10:07
+
+fala: "Vai, faz um videozinho, faz uma
+ 00:10:09
+
+foto e encaminha pra gente." E a gente
+ 00:10:11
+
+tem, tá aqui o tá aqui o evento, ó. Eu,
+ 00:10:13
+
+só para complementar, Felipe, para além
+ 00:10:15
+
+desses exemplos, a gente teria feedbacks
+ 00:10:17
+
+importantes, como foi o caso da da
+ 00:10:19
+
+necessidade que a gente teve de falar da
+ 00:10:21
+
+dengue, que a gente teve a necessidade
+ 00:10:23
+
+de falar leptospirose e o agricultor dá
+ 00:10:25
+
+o feedback dizendo que em decorrência de
+ 00:10:27
+
+um vídeo que ele recebeu trazendo as
+ 00:10:30
+
+características da doença leptospirose,
+ 00:10:32
+
+ele procurou o socorro médico para
+ 00:10:34
+
+diagnosticar que realmente ele tava
+ 00:10:36
+
+infectado com a doença. Teve a situação
+ 00:10:38
+
+da dengue que a gente ensinou a fazer um
+ 00:10:41
+
+repelente paliativamente, não é, de
+ 00:10:43
+
+controle do mosquito com citronela e o
+ 00:10:45
+
+agricultor traz e distribui citronela
+ 00:10:49
+
+pros outros amigos para ele poder fazer,
+ 00:10:51
+
+então, eh, poder fazer o repelente.
+ 00:10:52
+
+Então, com com isso, a gente entende que
+ 00:10:55
+
+a gente tá chegando nos territórios que
+ 00:10:56
+
+a gente precisa de uma maneira simples,
+ 00:10:58
+
+onde a multiplicação dos saberes ela tá
+ 00:11:01
+
+acontecendo porque ela tá sendo mediada
+ 00:11:03
+
+pela tecnologia. O que talvez a extensão
+ 00:11:05
+
+numa visita que a gente não consiga
+ 00:11:08
+
+visitar 100, 1300 famílias, por exemplo,
+ 00:11:10
+
+como eu tenho no meu município durante o
+ 00:11:13
+
+ano, mas eu consigo chegar parcialmente
+ 00:11:15
+
+ou grandiosamente em grandes em grandes
+ 00:11:17
+
+números de famílias rurais, mas mediado
+ 00:11:20
+
+pela tecnologia.
+ 00:11:23
+
+Aqui um outro exemplo que a gente vem
+ 00:11:26
+
+trabalhando aqui já foi do evento do ano
+ 00:11:29
+
+passado até que o resultado é esse vídeo
+ 00:11:31
+
+da Rosa, não é? um dos resultados desse
+ 00:11:32
+
+vida rosa, porque esse evento sobre
+ 00:11:34
+
+poda, até um parêntese, não é? Eu terminei
+ 00:11:36
+
+o evento, chego em casa e continuo
+ 00:11:39
+
+recebendo um monte de material. O
+ 00:11:41
+
+pessoal saiu do evento, chegou em casa e
+ 00:11:42
+
+saiu podando tudo, gravando e mandando
+ 00:11:44
+
+mensagem para mim para mostrar que tava
+ 00:11:46
+
+trabalhando aproveitando o conhecimento
+ 00:11:48
+
+que tinha adquirido naquele evento. Aqui
+ 00:11:50
+
+nesse QR code dentro de um álbum
+ 00:11:52
+
+seriado, existe muitas possibilidades.
+ 00:11:54
+
+Ultimamente eu tenho trabalhado com esse
+ 00:11:57
+
+Qcode levando para informações em vídeo,
+ 00:12:00
+
+não é, postado em grupo, em canais de
+ 00:12:03
+
+WhatsApp, que quando eu tenho um canal
+ 00:12:06
+
+no WhatsApp, a pessoa entra, consegue
+ 00:12:07
+
+ter acesso aos materiais que já foram
+ 00:12:09
+
+previamente postados lá. Então eu eu
+ 00:12:11
+
+tive num evento última último evento que
+ 00:12:14
+
+a gente usou essa tecnologia foi eh um
+ 00:12:16
+
+dia de campo de pecuária de corte. Eu
+ 00:12:19
+
+tinha 20 minutos para fazer uma fala
+ 00:12:21
+
+sobre silagem de milho. Eu fiz a minha
+ 00:12:23
+
+fala e juntei todos os zap, dei uns oito
+ 00:12:26
+
+zap rural que tinha alguma coisa
+ 00:12:28
+
+relacionada àquela àquela minha fala.
+ 00:12:30
+
+Eh, quando a pessoa eh ouvia aquele
+ 00:12:34
+
+QRcode, ela era direcionada à aquele
+ 00:12:38
+
+canal, ela se inscrevia e tinha acesso,
+ 00:12:40
+
+então, a um conteúdo mais aprofundado,
+ 00:12:41
+
+se tivesse interesse depois. Assim, para
+ 00:12:44
+
+mim enriqueceu um pouco mais, não é? deu a
+ 00:12:46
+
+possibilidade do sujeito eh continuar
+ 00:12:48
+
+dentro daquele dia de campo
+ 00:12:52
+
+posteriormente ao evento. Aqui uma
+ 00:12:53
+
+reunião híbrida que também foi um evento
+ 00:12:55
+
+assim fantástico, não é? Eh, a gente ia
+ 00:12:57
+
+fazer uma reunião para discutir alguma
+ 00:13:01
+
+coisa sobre jardinamento, sobre eh
+ 00:13:03
+
+jardins receptivos, não é? E uma das
+ 00:13:05
+
+mulheres que ia participar da reunião
+ 00:13:08
+
+alegou que não poderia participar por
+ 00:13:10
+
+questões de saúde, tava meio resfriada e
+ 00:13:13
+
+tinha preocupações de contaminar a
+ 00:13:15
+
+galera toda. Então eu fiz a proposta
+ 00:13:17
+
+dela participar via eh Google Meet. Eu
+ 00:13:19
+
+botei um o meet ali num tripezinho e até
+ 00:13:23
+
+me surpreendi porque a impressão que eu
+ 00:13:27
+
+tirei ter tinha anteriormente a esse
+ 00:13:30
+
+evento era que essa senhora que
+ 00:13:32
+
+participou de forma online, ela iria não
+ 00:13:34
+
+ia aproveitar tão bem o evento. Claro,
+ 00:13:39
+
+ela não aproveitou os alimentos, não é? Ela
+ 00:13:40
+
+não tomou o cafezinho, mas toda vez que
+ 00:13:42
+
+ela falava, todo mundo se calava e
+ 00:13:45
+
+prestava atenção no que ela tava
+ 00:13:47
+
+dizendo. Ela ela tinha uma importância
+ 00:13:48
+
+muito maior para quem tava ali do que
+ 00:13:51
+
+quem tava ali realmente às vezes. Porque
+ 00:13:52
+
+quando tá a gente tá num bate-papo
+ 00:13:54
+
+desse, um fala, o outro atropela um
+ 00:13:56
+
+pouco a conversa. Isso não acontecia com
+ 00:13:58
+
+ela. Quando ela falava, todo mundo se
+ 00:14:01
+
+calava, ouvia ela falar e depois tomava
+ 00:14:02
+
+a palavra de volta. Então, quantas
+ 00:14:04
+
+possibilidades tem essas reuniões e
+ 00:14:07
+
+eventos híbridos, não é? trazer um
+ 00:14:09
+
+palestrante que tá longe para fazer uma
+ 00:14:11
+
+fala. A gente tá articulando agora
+ 00:14:14
+
+alguma coisa sobre eh orientações para
+ 00:14:16
+
+para aposentadoria, não é, de das de
+ 00:14:19
+
+mulheres rurais. E a possibilidade que
+ 00:14:22
+
+eu vejo hoje para não para encarar o
+ 00:14:24
+
+custo é trazer o palestrante desse
+ 00:14:26
+
+formato online. E e no contemporâneo,
+ 00:14:28
+
+no, não é, nessa terra contemporânea, como
+ 00:14:31
+
+costuma dizer o o Zuin, tudo já tá nesse
+ 00:14:34
+
+formato digital, inclusive os convites
+ 00:14:37
+
+que antes a gente tinha que ir de
+ 00:14:40
+
+propriedade em propriedade fazer um
+ 00:14:41
+
+convite para participar de um encontro e
+ 00:14:43
+
+hoje a gente se utiliza dessas artes e
+ 00:14:45
+
+essa imagem do agricultor do campo com o
+ 00:14:47
+
+celular, eh, ela ela é constante hoje em
+ 00:14:50
+
+em muitos momentos, não é, Flávia, sobre as
+ 00:14:55
+
+artes e a a gente entendeu que dentro da
+ 00:14:57
+
+maneira de comunicar, além de ser uma
+ 00:15:02
+
+forma mais simples, a gente também tinha
+ 00:15:04
+
+que ter um atrativo, algo que
+ 00:15:06
+
+diferenciasse. Então, antes do que a
+ 00:15:08
+
+gente fazia um convite num papel
+ 00:15:10
+
+impresso e saía distribuindo as casas,
+ 00:15:12
+
+que era comum, não é, naquela comunidade ou
+ 00:15:14
+
+entregar na a gente se utilizava de
+ 00:15:17
+
+diferentes recursos, por exemplo, para
+ 00:15:19
+
+mim era comum levar nas igrejas e aí se
+ 00:15:21
+
+lia lá nos informes da comunidade, não é,
+ 00:15:24
+
+com o WhatsApp ele acaba eh me
+ 00:15:26
+
+permitindo que quem não vai na na missa
+ 00:15:29
+
+também receba informação. Então, a gente
+ 00:15:31
+
+começou a entender que uma arte com
+ 00:15:34
+
+destaque para aqueles tópicos e para
+ 00:15:37
+
+aquela informação que precisava ser
+ 00:15:39
+
+comunicada era tão importante quanto o
+ 00:15:41
+
+evento. E aí a gente começou a
+ 00:15:44
+
+desenvolver essas eh estratégias. Por
+ 00:15:46
+
+exemplo, no na tela ali tem um convite
+ 00:15:48
+
+eh horizontal onde eh ele é padronizado,
+ 00:15:52
+
+institucionalmente padronizado. Só que
+ 00:15:56
+
+se eu tenho esse convite hoje para
+ 00:15:58
+
+manejo de de pomar doméstico, semana que
+ 00:16:01
+
+vem pra pecuária de leite, na outra pra
+ 00:16:04
+
+produção de morango, ele vai ser sempre
+ 00:16:06
+
+o mesmo padrão que muda o texto. E aí a
+ 00:16:09
+
+gente entendeu que para uma visualização
+ 00:16:12
+
+rápida no WhatsApp, a gente precisava
+ 00:16:14
+
+trabalhar com elementos que
+ 00:16:16
+
+diferenciasse. Por quê? Se o Felipe
+ 00:16:17
+
+recebe um convite uma semana atrás
+ 00:16:19
+
+fazendo de manejo de pomar e semana que
+ 00:16:22
+
+vem ele recebe o de pecuário de leite,
+ 00:16:25
+
+se ele não lê, ele não vai saber que são
+ 00:16:27
+
+eventos diferentes. Mas se eu faço uma
+ 00:16:28
+
+arte como essa do dia de campo de
+ 00:16:31
+
+pecuária de corte, onde eu meto a
+ 00:16:33
+
+pecuária ali, não é, o destaco em letras
+ 00:16:35
+
+maiores o que é o evento que é dia de
+ 00:16:39
+
+campo em pecuária de corte e que ele vai
+ 00:16:42
+
+ser no dia 5. E eu destaco ainda que o
+ 00:16:44
+
+dia 5 é um sábado, porque mentalmente eu
+ 00:16:47
+
+já procuro aqui, não é, se eu tô organizado
+ 00:16:49
+
+pr dia 5, não sei que dia é 5, mas se eu
+ 00:16:51
+
+disser que dia 5 é o sábado, eu já
+ 00:16:54
+
+consigo saber se eu tenho algum outro
+ 00:16:57
+
+compromisso da minha comunidade, um
+ 00:16:59
+
+outro compromisso da minha família. E
+ 00:17:00
+
+isso já vai me trazendo as informações
+ 00:17:02
+
+que eu preciso e me estimulando a
+ 00:17:04
+
+participar. E eu preciso dar outras
+ 00:17:05
+
+informações, por exemplo, que é na
+ 00:17:07
+
+propriedade do seu Didi, se eu sou
+ 00:17:09
+
+daquela comunidade, vou saber onde é que
+ 00:17:11
+
+é. E se eu ainda ficar com dúvida sobre
+ 00:17:13
+
+se eu tenho que levar algum alimento
+ 00:17:16
+
+para partilhar, o que não tiver escrito
+ 00:17:17
+
+ali, eu tenho que ter um telefone para
+ 00:17:19
+
+contactar e que a gente tem ou um
+ 00:17:21
+
+contato, não é? E a gente tem priorizado
+ 00:17:23
+
+pelo WhatsApp do escritório para que a
+ 00:17:25
+
+pessoa possa entrar em contato de forma
+ 00:17:28
+
+rápida e simples. Então, as artes pra
+ 00:17:29
+
+gente, a forma de comunicar de forma não
+ 00:17:33
+
+verbal, comunicar de forma escrita
+ 00:17:36
+
+também tanto quanto a preparação do
+ 00:17:38
+
+evento. E aí a gente tem utilizado isso
+ 00:17:40
+
+num formato A4 enviado via WhatsApp e
+ 00:17:44
+
+ainda se é um grupo eh específico, a
+ 00:17:48
+
+gente ainda manda um áudio para
+ 00:17:51
+
+familiarizar ele, para trazer ele mais
+ 00:17:54
+
+para perto, porque ele tem um contato
+ 00:17:56
+
+com com o extensionista, não é? O
+ 00:17:58
+
+agricultor ele tem um contato comigo e
+ 00:17:59
+
+uma vez que eu convido, ele tem o
+ 00:18:01
+
+compromisso de responder que não pode ou
+ 00:18:03
+
+se vai, fazer a pré-inscrição pra gente
+ 00:18:05
+
+também se planejar. Então, utilizar a
+ 00:18:08
+
+tecnologia para fazer o convite,
+ 00:18:10
+
+mobilizar público, ele tem nos dado
+ 00:18:12
+
+economia, eficiência, ele tem sido
+ 00:18:14
+
+efetivo, normalmente ele chega, não é, e
+ 00:18:17
+
+comunica da maneira que a gente de fato
+ 00:18:20
+
+gostaria que ele recebesse a
+ 00:18:23
+
+comunicação.
+ 00:18:24
+
+Eh, algumas coisas interessantes assim,
+ 00:18:26
+
+ó, quando eu falo de dia ali nessa
+ 00:18:28
+
+informalidade, o apelido é
+ 00:18:30
+
+importantíssimo ao invés do nome. Se
+ 00:18:31
+
+alguém chegasse lá no na comunidade do
+ 00:18:33
+
+Bom Retiro em Paulo Lopes, perguntasse
+ 00:18:36
+
+pelo pela propriedade do Maurílio,
+ 00:18:37
+
+ninguém saberia quem era o Maurílio, mas
+ 00:18:39
+
+se perguntar pelo Didi, todo mundo
+ 00:18:41
+
+aponta a a direção, não é? E se a
+ 00:18:42
+
+dificuldade, se tiver dificuldade ou
+ 00:18:47
+
+urgência de fazer um convite, talvez
+ 00:18:49
+
+aquele segundo convite ali mais fininho,
+ 00:18:51
+
+ele é para mim, ele é mais eficiente que
+ 00:18:54
+
+o de cima, onde eu tenho um texto muito
+ 00:18:56
+
+formal, não é? E o de baixo só tem um
+ 00:18:58
+
+título, dato, horário, local e o tema,
+ 00:19:01
+
+não é? muito mais objetivo. E o que eu
+ 00:19:03
+
+gosto de trabalhar com as artes sempre é
+ 00:19:07
+
+a arte nesse A4, como falou a Flávia,
+ 00:19:09
+
+assim eu reforço a história do A4, que
+ 00:19:11
+
+eu teni um bocado de tempo em usar um
+ 00:19:13
+
+formato diferente. O A4 ele permite que
+ 00:19:15
+
+a informação seja visualizada via
+ 00:19:18
+
+WhatsApp sem nem mesmo abrir o
+ 00:19:20
+
+documento. Quando ele abre, ele expande.
+ 00:19:22
+
+Mas mesmo eh antes de abrir, a pessoa já
+ 00:19:24
+
+tem acesso à informação.
+ 00:19:26
+
+mando ele sempre com um texto, eh, com
+ 00:19:28
+
+informações, eh, relevantes nesse texto,
+ 00:19:32
+
+como, por exemplo, a localização, um
+ 00:19:35
+
+link de localização via Google, Google
+ 00:19:37
+
+Maps, não é, que não cabe dentro de um
+ 00:19:40
+
+arquivo de imagem, porque se eu usar um
+ 00:19:42
+
+arquivo de imagem eu eh eu só se fosse
+ 00:19:45
+
+PDF. PDF tem uma barreira ali que impede
+ 00:19:48
+
+e eu gosto de mandar no grupo e gosto de
+ 00:19:51
+
+mandar no individual paraas pessoas
+ 00:19:53
+
+chave naquela atividade com aquele
+ 00:19:55
+
+áudio, dando aquele toque pessoal, não é,
+ 00:19:57
+
+quebrando a frieza do do digital. Vamos
+ 00:20:00
+
+em frente
+ 00:20:03
+
+aqui. A linguagem simples é fundamental.
+ 00:20:03
+
+Ninguém vai dar uma aula aqui, mas a
+ 00:20:07
+
+gente entende que hoje que ela é é uma
+ 00:20:08
+
+causa social, uma técnica de
+ 00:20:11
+
+comunicação. O Leandro e todo
+ 00:20:12
+
+extensionista aí gosta de dizer que
+ 00:20:15
+
+falar também do que que seria a
+ 00:20:17
+
+linguagem extensionista, mas eu digo que
+ 00:20:20
+
+vai além dessa linguagem extensionista,
+ 00:20:22
+
+porque linguagem extension eh eh
+ 00:20:24
+
+linguagem simples, ela já tem todo um
+ 00:20:27
+
+respaldo eh de
+ 00:20:30
+
+orientações eh eh documentos. Hoje ela
+ 00:20:32
+
+tem uma, como é que é o nome? Flávia tem
+ 00:20:36
+
+uma até e nacionalmente já APN. Ela é
+ 00:20:37
+
+uma ela tem regras, não é? É uma norma
+ 00:20:41
+
+norma técnica de comunicar-se, não é?
+ 00:20:45
+
+Então, a a além de apesar de eu não dar
+ 00:20:48
+
+uma aula sobre linguagem simples, aqui,
+ 00:20:50
+
+fica a dica que se vocês procurarem isso
+ 00:20:51
+
+em documentos, em PDF, na principalmente
+ 00:20:54
+
+órgãos ligados à justiça, tem muita
+ 00:20:57
+
+informação. Eh, YouTube, no canal da
+ 00:21:00
+
+Eloía Fisher, tem muita informação.
+ 00:21:04
+
+Então, assim, ó, vale a pena a gente eh
+ 00:21:07
+
+estudar um pouquinho isso de forma mais
+ 00:21:10
+
+teórica, que dá um embasamento muito bom
+ 00:21:12
+
+e a gente melhora muito a nossa
+ 00:21:14
+
+linguagem.
+ 00:21:16
+
+E falando em linguagem simples, não é, aqui
+ 00:21:17
+
+eu represento um momento da criação do
+ 00:21:20
+
+nascimento do projeto do Zap Rural, que
+ 00:21:23
+
+foi na palestra eh no canal da Fazer no
+ 00:21:26
+
+dia 22/03/2022.
+ 00:21:30
+
+Então, já estamos fazendo aí três anos,
+ 00:21:32
+
+não é, onde o Zuin na sua fala deu uma
+ 00:21:34
+
+receitinha para nós. Ele na fala dele,
+ 00:21:37
+
+falando do que dos estudos que foram
+ 00:21:40
+
+feitos, pesquisa com agricultor, com
+ 00:21:42
+
+extensionista, ele disse de certa
+ 00:21:44
+
+maneira que eh o agricultor tava cansado
+ 00:21:46
+
+das lives de vídeos longos, não é, que
+ 00:21:49
+
+queria que tinha uma uma tendência a ter
+ 00:21:52
+
+vídeos mais curtos numa linguagem
+ 00:21:54
+
+simples, os inícios sempre diferente,
+ 00:21:56
+
+assim como a gente criticou o convite, a
+ 00:21:59
+
+arte ser sempre igual. O vídeo também,
+ 00:22:00
+
+se eu sempre começo com a vinheta, o que
+ 00:22:02
+
+acontece é que o agritor acha que é o
+ 00:22:05
+
+mesmo vídeo. Se eu já vi e aí vai de
+ 00:22:07
+
+arrasta para cima, não é? Então ter inícios
+ 00:22:08
+
+diferente é importante. E se for para
+ 00:22:12
+
+ter vinhetas, essas vinhetas têm que ser
+ 00:22:14
+
+curtíssimas. O nosso modelo Zap rural,
+ 00:22:16
+
+ele tem uma vinheta inicial de 3
+ 00:22:18
+
+segundos e uma assinatura final dizendo
+ 00:22:20
+
+que quem tá produzindo, tal. Tá lá no
+ 00:22:24
+
+final. E a nossa também é curta, tem 17
+ 00:22:26
+
+segundos. E hoje a gente tá até numa
+ 00:22:29
+
+luta assim interna do que que faz para
+ 00:22:30
+
+compor, que eu tenho trabalhado até o
+ 00:22:33
+
+zap rural num formato diferente
+ 00:22:35
+
+ultimamente, colocando só a vinheta
+ 00:22:36
+
+curta no final, eh, quebrando até o
+ 00:22:38
+
+aquela ideia de ter um uma cabeça
+ 00:22:41
+
+dizendo que que qual é o conteúdo, já
+ 00:22:43
+
+começo, já caio lutando, não é, no vídeo.
+ 00:22:45
+
+Então o Zuin fez essa provocação no dia
+ 00:22:48
+
+22. No dia 29, 7 dias depois a gente já
+ 00:22:51
+
+saiu com o primeiro zap. Mas antes de
+ 00:22:55
+
+chegar no primeiro zap, a gente teve um
+ 00:22:57
+
+momento de discursão, principalmente eu
+ 00:22:59
+
+internamente, que eu já vinha com um
+ 00:23:02
+
+canal no YouTube desde 2018, trabalhando
+ 00:23:03
+
+vídeos num formato que hoje eu chamo
+ 00:23:07
+
+nessa nessa ideia do herói, não é? Por que
+ 00:23:09
+
+que eu digo que é o herói? Era eu, era
+ 00:23:12
+
+minha cara, era o Felipe, extensionista
+ 00:23:13
+
+da Epagre, tal, tal, tal, t tal, me
+ 00:23:15
+
+apresentava sempre em todo vídeo. De
+ 00:23:17
+
+repente eu venho com essa proposta de
+ 00:23:19
+
+fazer um vídeos curtos, mas eu também
+ 00:23:22
+
+faz, acabei aproveitando uma
+ 00:23:25
+
+oportunidade de fazer uma quebra de
+ 00:23:26
+
+paradigma, de tirar do herói pra marca,
+ 00:23:28
+
+não é? E naquele momento a gente
+ 00:23:31
+
+desenvolveu essa marca do Zap Rural. E
+ 00:23:32
+
+essa marca agrega eu, a Flávia, a
+ 00:23:34
+
+Anelise que faz revisão de texto com a
+ 00:23:37
+
+gente, a Tânia que trabalha com a Flávia
+ 00:23:39
+
+e que às vezes pega um lápis de cor e
+ 00:23:43
+
+vai pintar um desenho pra gente lá, não é?
+ 00:23:44
+
+não é, vai fazer uma um uma ilustração e
+ 00:23:46
+
+tantos outros colaboradores eh tanto da
+ 00:23:49
+
+extensão, da pesquisa dentro e fora da
+ 00:23:52
+
+Epagre, não é, que a gente acaba se
+ 00:23:55
+
+considerando uma grande equipe aí no no
+ 00:23:57
+
+mundo produzindo
+ 00:23:59
+
+material. Então aqui essa quebra, não é? E
+ 00:24:01
+
+aqui essa essa essa tela eu costumo
+ 00:24:03
+
+falar muito para
+ 00:24:06
+
+pras pros nossos agricultores que têm
+ 00:24:08
+
+empreendimentos na hora de definir como
+ 00:24:11
+
+é que vai ser a divulgação, não é? temos
+ 00:24:13
+
+que apostar na marca ou no na pessoa,
+ 00:24:14
+
+não é? E a gente optou pela marca e hoje eu
+ 00:24:17
+
+diria assim os de tudo que eu falei de
+ 00:24:22
+
+até digital simples, o que a gente mais
+ 00:24:24
+
+faz realmente é a lida nos grupos de
+ 00:24:26
+
+WhatsApp, é as artes. O zap rural hoje
+ 00:24:28
+
+eu tenho encado, ele é o nosso farol,
+ 00:24:31
+
+não é? Ele dá visibilidade para todo esse
+ 00:24:32
+
+trabalho, para todos os outros
+ 00:24:35
+
+trabalhos, não é? Mas ele para mim é um
+ 00:24:37
+
+farol. Se não fosse pelo ZP rural, a
+ 00:24:39
+
+gente talvez não estaria aqui hoje
+ 00:24:41
+
+fazendo uma fala sobre o uso de grupos
+ 00:24:42
+
+de WhatsApp na na terra, não é? E dentro do
+ 00:24:45
+
+zap rural a gente vem adotando algumas
+ 00:24:49
+
+técnicas como essa da gravação de áudio,
+ 00:24:52
+
+não é, Flávia? Como é que tu tem feita,
+ 00:24:54
+
+Flávia, que é a nossa voz principal aí?
+ 00:24:56
+
+Então, dentro das necessidades de de se
+ 00:24:59
+
+comunicar com os nossos públicos, a
+ 00:25:02
+
+gente entendeu que tinha que criar um
+ 00:25:03
+
+método, não é? Nenhum dos dois eh viemos do
+ 00:25:05
+
+jornalismo ou da comunicação, mas a
+ 00:25:08
+
+gente é extensionista. Então, o
+ 00:25:10
+
+extensionista se comunica e a gente foi
+ 00:25:12
+
+adaptando condições. O que que a gente
+ 00:25:15
+
+tinha? Um celular, um fone de ouvido e
+ 00:25:17
+
+uma boa vontade de produzir esse
+ 00:25:20
+
+material. Então, o que que a gente
+ 00:25:22
+
+desenvolveu? Não tinha um estúdio, a
+ 00:25:24
+
+gente trouxe o carro. O carro foi uma
+ 00:25:26
+
+ferramenta que trouxe pra gente a
+ 00:25:29
+
+possibilidade, inclusive, de errar um
+ 00:25:30
+
+texto ou de inserir uma nova informação.
+ 00:25:32
+
+Eu gravando dentro do carro, eu poderia
+ 00:25:36
+
+gravar às 8 da manhã, às 3 da tarde, o
+ 00:25:39
+
+Felipe me dizer, faltou uma informação
+ 00:25:42
+
+que o pesquisador que leu, ouviu o
+ 00:25:44
+
+material entende que é primordial. E aí
+ 00:25:46
+
+fazer todo o trabalho só inserir aquela
+ 00:25:49
+
+frase porque eu volto para dentro do
+ 00:25:51
+
+carro às 3 da tarde, não é, no mesmo
+ 00:25:52
+
+ambiente e faço inserção daquela frase.
+ 00:25:55
+
+E a partir daí a gente conseguiu
+ 00:25:57
+
+qualificar inclusive a a a melhoria, não é,
+ 00:25:59
+
+porque a gente não tem equipamentos
+ 00:26:02
+
+maiores que um celular e um fone de
+ 00:26:04
+
+ouvido e melhorar a condição de áudio,
+ 00:26:06
+
+da qualidade do áudio. E a gente
+ 00:26:10
+
+aprimorou a técnica que pesquisando a
+ 00:26:12
+
+gente entendeu que no banco de trás é
+ 00:26:14
+
+melhor do que do banco da frente por
+ 00:26:16
+
+causa do espaço da da forma de
+ 00:26:17
+
+reverberar a voz dentro desse ambiente,
+ 00:26:20
+
+por causa do para-brisa. E assim a gente
+ 00:26:22
+
+foi adaptando os métodos de produção.
+ 00:26:24
+
+Então o que que eu faço hoje, não é? É
+ 00:26:27
+
+feito o que nós fizemos hoje, é redigido
+ 00:26:28
+
+o texto, corrigido, adaptado, validado
+ 00:26:31
+
+por quem tá contribuindo com essa
+ 00:26:34
+
+produção. Felipe vê isso, Anelise,
+ 00:26:36
+
+repassa, eu normalmente faço a gravação
+ 00:26:40
+
+e o Felipe faz todo o processo de de
+ 00:26:43
+
+edição ilustrando com imagens que
+ 00:26:45
+
+representem aquela informação.
+ 00:26:48
+
+E falando em imagens, essas imagens vão
+ 00:26:51
+
+vir dos mais diversos locais, não é? Muitas
+ 00:26:54
+
+a gente pega do canal da Ipagre, do das
+ 00:26:57
+
+gravações anteriores que eu tenho eh na
+ 00:26:59
+
+extensão ou vou fazer algum uma gravação
+ 00:27:02
+
+e chegamos ao ponto até como esse
+ 00:27:05
+
+exemplo aqui do foi esse aqui foi o
+ 00:27:06
+
+vídeo do Rotatino, onde a gente faz um
+ 00:27:08
+
+praticamente um desenho animado, não é? A
+ 00:27:11
+
+gente desenha faz toda uma ilustração e
+ 00:27:12
+
+depois anima. aqui, eh, há alguns anos
+ 00:27:16
+
+atrás, eu achava inimaginável eu fazer
+ 00:27:19
+
+um desenho animado de uma vaquinha, por
+ 00:27:21
+
+mais tosca que seja, pastando, passando
+ 00:27:24
+
+a língua para fora, eu pasto sendo
+ 00:27:27
+
+consumido, ficando para trás, eh, ela
+ 00:27:28
+
+fazendo volta, não é? Então, assim, a gente
+ 00:27:31
+
+vai desenhando isso e só para matar a
+ 00:27:33
+
+curiosidade da galera, isso aí tem é um
+ 00:27:37
+
+mix de desenhos feito à mão, não é? pintado
+ 00:27:39
+
+até por a gente, pelas crianças nossas.
+ 00:27:43
+
+E dentro do PowerPoint a gente vai
+ 00:27:46
+
+mixando tudo e criando a movimentação
+ 00:27:48
+
+dentro de PowerPoint e editor de vídeo,
+ 00:27:50
+
+não é? É, é coisa assim que era
+ 00:27:53
+
+inimaginável algum tempo atrás fazer,
+ 00:27:56
+
+não é? Eh, um conceito que eu acho
+ 00:27:58
+
+importantíssimo a gente passar é essa
+ 00:28:00
+
+história de barreiras de entrada, não é? Eu
+ 00:28:03
+
+gosto de dizer eh, introduzir esse
+ 00:28:05
+
+assunto falando de uma entrevista na
+ 00:28:07
+
+rádio que eu escutei na década de 90.
+ 00:28:09
+
+Nessa entrevista o radialista
+ 00:28:12
+
+conversando com um
+ 00:28:14
+
+entrevistado, eh, e o entrevistado dizia
+ 00:28:16
+
+que, eh, qualquer coisa na na na vitrine
+ 00:28:19
+
+de uma loja, na fachada de uma loja,
+ 00:28:23
+
+poderia ser uma barreira de entrada que
+ 00:28:25
+
+iria impedir uma venda. Qualquer coisa
+ 00:28:27
+
+era um degrau pro sujeito subir, eh, uma
+ 00:28:29
+
+porta fechada escrito entre ar
+ 00:28:33
+
+condicionado, o sujeito entende aquilo,
+ 00:28:35
+
+talvez de forma inconsciente e não entra
+ 00:28:38
+
+naquela loja porque tem uma barreira
+ 00:28:41
+
+ali, uma pilha de de produtos amostra
+ 00:28:42
+
+ali, não é, num balaio e a galera acaba não
+ 00:28:46
+
+entrando porque tem uma barreira ali ou
+ 00:28:49
+
+um vendedor de braço cruzado na frente
+ 00:28:50
+
+dizendo eh se eh que deseja alguma coisa
+ 00:28:52
+
+e a gente já se escapa, não é? E quando eu
+ 00:28:55
+
+vejo mais recentemente, principalmente
+ 00:28:58
+
+em shoppings, não é, a tendência das lojas
+ 00:29:00
+
+começou pela Samsung. Hoje eu vejo que
+ 00:29:04
+
+isso tá abrindo para tudo. Eu não vejo
+ 00:29:06
+
+mais um pilar na frente das lojas, não
+ 00:29:08
+
+vejo mais um degrau. Quando a gente vê,
+ 00:29:10
+
+tá lá dentro, percebam que tem essas
+ 00:29:12
+
+mesas com os com os celulares amostram.
+ 00:29:14
+
+Não tô nem um vidro, numa vitrine pra
+ 00:29:17
+
+gente não, eles estão ali pra gente
+ 00:29:19
+
+mexer e fulsar, ver se funciona, ver se
+ 00:29:20
+
+agrada, não é? Então assim, tira tudo
+ 00:29:22
+
+quanto é barreira. Talvez eles ainda não
+ 00:29:25
+
+entenderam que o o vendedor tem que
+ 00:29:27
+
+deixar a gente se acomodar melhor dentro
+ 00:29:29
+
+da loja para depois fazer o ataque, não é?
+ 00:29:30
+
+Muitas vezes eles já atacam muito
+ 00:29:33
+
+rapidamente, a gente perde e sai fora,
+ 00:29:34
+
+não é? Mas eh eu falo isso tudo porque
+ 00:29:37
+
+dentro dos nossos equipamentos celular,
+ 00:29:40
+
+a gente também tem barreiras. Um celular
+ 00:29:43
+
+médio brasileiro vai ter 64 GB, às vezes
+ 00:29:45
+
+até 32 GB de memória. E para mim
+ 00:29:49
+
+instalar o aplicativo da Emater, da
+ 00:29:51
+
+Epagre, da instituição que a gente tá
+ 00:29:55
+
+trabalhando, o agricultor vai ter que
+ 00:29:57
+
+desinstalar o aplicativo do banco. Vai
+ 00:29:59
+
+acontecer isso? Não, a gente tem que tá
+ 00:30:02
+
+presente naquilo que já tá dentro do
+ 00:30:05
+
+celular do agricultor. E aí, olhando
+ 00:30:07
+
+essa pesquisa, onde a gente vê que o
+ 00:30:10
+
+WhatsApp é o aplicativo mais utilizado
+ 00:30:13
+
+do no dia a dia do brasileiro e que o
+ 00:30:15
+
+Instagram é o aplicativo que a gente
+ 00:30:18
+
+mais fica tempo, a gente percebe que é
+ 00:30:20
+
+ali que a gente deveria estar mirando, a
+ 00:30:23
+
+gente devia tá, a gente deveria estar
+ 00:30:24
+
+presente nas mídias digitais que o
+ 00:30:26
+
+agricultor já tá, já tá tá tá presente
+ 00:30:28
+
+ali. Aí, dependendo do da do trabalho,
+ 00:30:30
+
+acho que o o na fala do do Leandro, ele
+ 00:30:33
+
+vai falar de alguns detalh detalhes de
+ 00:30:36
+
+localidade para localidade, não é, de
+ 00:30:39
+
+região para região, mas eh eu diria que
+ 00:30:40
+
+para mim hoje o WhatsApp é a principal
+ 00:30:44
+
+ferramenta de comunicação do
+ 00:30:45
+
+extensorista, até porque a gente acaba
+ 00:30:48
+
+evitando conflitos com a instituição,
+ 00:30:50
+
+não é, que que tem o Instagram oficial e
+ 00:30:53
+
+tal, mas a gente também usa muito o
+ 00:30:55
+
+Instagram, o Facebook particular nosso,
+ 00:30:57
+
+não é, no no no nosso nome.
+ 00:31:00
+
+E dependendo do formato que a gente vem
+ 00:31:03
+
+trabalhando, se é para fazer isso paraa
+ 00:31:06
+
+instituição, por exemplo, tem que tá
+ 00:31:07
+
+presente em todas essas mídias digitais,
+ 00:31:09
+
+porque esse mundo aqui ele não é
+ 00:31:11
+
+estável, não é? Hoje o Instagram tá na
+ 00:31:14
+
+frente, daqui a pouco é o WhatsApp, é o
+ 00:31:17
+
+Facebook volta, dá uma reforçada, o
+ 00:31:20
+
+TikTok ultrapassa tudo, todas as outras.
+ 00:31:22
+
+Então, nós temos que estar presente em
+ 00:31:25
+
+tudo porque é dinâmico, inclusive por
+ 00:31:27
+
+faixa etária. Ah, a Flávia essa semana
+ 00:31:29
+
+teve uma surpresa aí, eh, que ela escuta
+ 00:31:32
+
+que o Facebook tá bombando lá no
+ 00:31:35
+
+agricultor dela, não é, que ele enviou que
+ 00:31:38
+
+era a melhor mídia dele, foi o Facebook,
+ 00:31:41
+
+que ele não dava crédito, não é? E dentro
+ 00:31:42
+
+dessas todas, falando do
+ 00:31:46
+
+WhatsApp, eh, temos maneiras diferentes
+ 00:31:48
+
+de trabalhar com ele. A gente, eu
+ 00:31:51
+
+entendo já que é a principal ferramenta,
+ 00:31:52
+
+dá para trabalhar nele como comunidade.
+ 00:31:53
+
+Comunidade são grupos de grupos, não é?
+ 00:31:56
+
+como se fosse um grupo composto por
+ 00:32:00
+
+grupos, mas é complexo de trabalhar, dá
+ 00:32:01
+
+para dá para estudar, dá para para
+ 00:32:03
+
+entender, mas é mais complexo. O canal
+ 00:32:05
+
+seria maravilhoso. Ele ele é muito
+ 00:32:08
+
+parecido como hoje funciona o grupo no
+ 00:32:09
+
+Telegram, só que o canal ele tem uma e
+ 00:32:12
+
+ele, qual é a vantagem dele? Quando eu
+ 00:32:16
+
+entro nele, eu já eu tenho acesso a
+ 00:32:17
+
+todas as informações que foram postadas
+ 00:32:19
+
+anteriormente. Isso é importante se eu
+ 00:32:20
+
+quiser fazer um um repositório de
+ 00:32:22
+
+conteúdos, não é?
+ 00:32:24
+
+Mas o canal tem uma dificuldade, ele não
+ 00:32:26
+
+fica na mesma na mesma tela, na tela
+ 00:32:28
+
+inicial do do WhatsApp. Eu preciso
+ 00:32:30
+
+acessar um submenu. Então isso é uma
+ 00:32:33
+
+barreira de entrada pesada e eu sinto
+ 00:32:35
+
+que tudo que é postado no canal não tem
+ 00:32:38
+
+a mesma visualização do que é colocado,
+ 00:32:41
+
+por exemplo, num grupo de WhatsApp.
+ 00:32:42
+
+Então hoje eu entendo que os grupos são
+ 00:32:44
+
+nosso principal veículo de comunicação,
+ 00:32:47
+
+grupos de WhatsApp. E aí nós temos que
+ 00:32:49
+
+estabelecer regras de
+ 00:32:51
+
+funcionamento e tem tipos de grupos, não é?
+ 00:32:53
+
+Eh, aqui, Flávia, quiser assumir aqui,
+ 00:32:57
+
+a gente compartilhando, não é, a gente vai
+ 00:33:01
+
+falando mais dentro da do trabalho. A
+ 00:33:03
+
+gente tem entendido que os grupos
+ 00:33:06
+
+gerais, como é o caso da primeira tela,
+ 00:33:07
+
+são grupos maiores dentro de de uma
+ 00:33:10
+
+Secretaria de Agricultura, que é comum
+ 00:33:12
+
+colocar os agricultores. No meu caso
+ 00:33:15
+
+aqui no meu município de descanso, a
+ 00:33:17
+
+gente tem um grupo da Secretaria de
+ 00:33:19
+
+Agricultura, da defesa Sanitária da
+ 00:33:20
+
+SIDASC, do Icasa, do Sindicato de
+ 00:33:23
+
+Agricultor Familiar, da EPAGRE. Então,
+ 00:33:25
+
+todas as informações que a gente precisa
+ 00:33:28
+
+comunicar pro mesmo público, que são os
+ 00:33:30
+
+agricultores familiares, a gente põe
+ 00:33:32
+
+nesse grupo, mas ele não é de discussão,
+ 00:33:33
+
+ele é fechado, porque tem a maioria dos
+ 00:33:36
+
+agricultores do município estão ali.
+ 00:33:38
+
+Então, organizar esses 600, 700 pessoas
+ 00:33:40
+
+ali numa discussão é muito difícil.
+ 00:33:43
+
+Então a regra é que a gente comunica e
+ 00:33:46
+
+na necessidade eles entram em contato
+ 00:33:49
+
+individualmente com quem tá comunicando,
+ 00:33:50
+
+como é na Ipagre do Polo lá do Felipe,
+ 00:33:53
+
+porque é a forma de organizar, mas eu
+ 00:33:55
+
+trabalho com grupos específicos, de
+ 00:33:58
+
+cursos específicos. Por exemplo, eu
+ 00:34:00
+
+tenho um curso de mulheres e cada ano é
+ 00:34:02
+
+um um curso regional, então cada ano vai
+ 00:34:05
+
+três a quatro mulheres do meu município
+ 00:34:08
+
+participar, que se chama florescer. E aí
+ 00:34:10
+
+com essas quatro mulheres, o nosso grupo
+ 00:34:13
+
+ele é ativo de discussão, é o espaço de
+ 00:34:16
+
+fala delas, de interação, de
+ 00:34:18
+
+compartilhares, mas são só quatro
+ 00:34:20
+
+mulheres mais a equipe que tá
+ 00:34:22
+
+trabalhando nesse curso. Assim é com os
+ 00:34:25
+
+cursos de pecuária lá, os jardins
+ 00:34:27
+
+receptivos. Então, grupos menores, a
+ 00:34:29
+
+gente regra algumas orientações de
+ 00:34:31
+
+comunicação, mas deixa aberto para se
+ 00:34:35
+
+comunicar. Então, dentro dessa
+ 00:34:37
+
+perspectiva de grupo, a gente tem tido
+ 00:34:39
+
+essas características de grupos
+ 00:34:40
+
+fechados, grupos abertos, quando o
+ 00:34:42
+
+público é
+ 00:34:44
+
+menor. Eh, e os voltando ao WhatsApp,
+ 00:34:47
+
+ele foi desenhado, o zap rural, não é, ele
+ 00:34:50
+
+foi desenhado para ser postado no
+ 00:34:52
+
+WhatsApp, para ser postado no WhatsApp
+ 00:34:55
+
+dos nossos municípios. E a gente entende
+ 00:34:57
+
+que tendo dentro do WhatsApp, a gente
+ 00:35:01
+
+tem alguns prejuízos. Eu não tenho como
+ 00:35:03
+
+contabilizar quantas pessoas realmente
+ 00:35:05
+
+visualizaram, assistiram cada vídeo. Eh,
+ 00:35:08
+
+não temos essa essas essas estatísticas
+ 00:35:10
+
+relativas a cada
+ 00:35:13
+
+material, mas eu entendo que o alcance é
+ 00:35:14
+
+gigantesco. a gente já viu vários
+ 00:35:17
+
+relatos até mesmo aqui em outras falas
+ 00:35:18
+
+nesse canal de pessoas que chegam numa
+ 00:35:20
+
+comunidade na na propriedade e encontram
+ 00:35:23
+
+o zap rural sendo demonstrado como um
+ 00:35:25
+
+treinamento por por outra pessoa, não é,
+ 00:35:27
+
+dentro da propriedade, sem mesmo que
+ 00:35:30
+
+assim a gente se reencontra, não é, que é o
+ 00:35:32
+
+caso quando eu recebo um eu vejo o meu o
+ 00:35:34
+
+zap rural circulando nos grupos de
+ 00:35:37
+
+outras de de outros grupos que eu
+ 00:35:40
+
+participo, não é? Quer dizer, a gente manda
+ 00:35:42
+
+no mundo e ele vai recirculando e acaba
+ 00:35:45
+
+voltando pra gente. Então, um bom sinal.
+ 00:35:47
+
+Só que determinado momento a gente
+ 00:35:49
+
+entendeu que era difícil era ter um
+ 00:35:50
+
+repositório. Tentamos via Google Drive,
+ 00:35:53
+
+via Google Sites, mas entendemos que o
+ 00:35:56
+
+melhor foi aproveitar o próprio canal no
+ 00:36:00
+
+YouTube que eu já tinha e a gente então
+ 00:36:02
+
+começamos a subir no YouTube. E lá no
+ 00:36:05
+
+YouTube, apesar de tá o vídeo lá
+ 00:36:07
+
+postado, ele tem na
+ 00:36:09
+
+descrição um link que permite que eu
+ 00:36:10
+
+baixe e volte ele pro WhatsApp para
+ 00:36:13
+
+compartilhar. E aí, por incentivo do
+ 00:36:15
+
+Ezequiel, do professor Suim,
+ 00:36:17
+
+principalmente, a gente começou a postar
+ 00:36:19
+
+também no Instagram e no TikTok, não
+ 00:36:21
+
+tomo no Facebook, mas a gente
+ 00:36:25
+
+tá tiando esse esse universo, não é? Mas o
+ 00:36:27
+
+princípio foco dele é o WhatsApp. E para
+ 00:36:30
+
+não perder a oportunidade, não fazer uma
+ 00:36:33
+
+certa crítica assim, tá? Eu falei até
+ 00:36:36
+
+agora de AT Digital Simples, mas também
+ 00:36:37
+
+tem uma AT digital complexa. A minha
+ 00:36:39
+
+crítica assim, ó. Eu entendo que é
+ 00:36:41
+
+importante as instituições terem site,
+ 00:36:43
+
+ter, desenvolver aplicativos,
+ 00:36:45
+
+desenvolverem os hubs, produzirem
+ 00:36:47
+
+vídeos, não é, as lives, tudo isso é
+ 00:36:49
+
+importante. Mas não é essa ter que tá lá
+ 00:36:51
+
+no dia a dia do escritório, mas eu vejo
+ 00:36:54
+
+assim, a gente a gente se desgasta e
+ 00:36:57
+
+gasta muito recurso financeiro, recurso
+ 00:36:59
+
+pessoal, não é, eh nessas atividades que eu
+ 00:37:02
+
+tô chamando de terra digital complexa e
+ 00:37:05
+
+que não chega no nosso agricultor, elas
+ 00:37:07
+
+são importantes. As instituições não
+ 00:37:09
+
+podem deixar de ter isso, mas eu acho
+ 00:37:11
+
+que a gente deveria ter um esforço maior
+ 00:37:13
+
+em cima daquela daquilo que eu chamei de
+ 00:37:15
+
+até digital simples, capacitando os
+ 00:37:16
+
+nossos extensionistas a produzir um
+ 00:37:19
+
+videozinho simples, a fazer uma arte
+ 00:37:21
+
+bonita para um convite, a se comunicar
+ 00:37:24
+
+em linguagens simples nesse meio
+ 00:37:27
+
+digital. Então
+ 00:37:29
+
+assim, é importante toda essa terra
+ 00:37:30
+
+digital complexa, mas não podemos deixar
+ 00:37:33
+
+de lado e temos que focar mais na terra
+ 00:37:35
+
+digital simples que tá lá na ponta.
+ 00:37:37
+
+A Flávia, essa aqui é uma releitura aí
+ 00:37:40
+
+de um de uma tela do Zuin, não é? O
+ 00:37:43
+
+professor Zuin faz a gente pensar acerca
+ 00:37:45
+
+de estudo, porque quando a gente sugere
+ 00:37:48
+
+a TER Digital Simples, a gente precisa
+ 00:37:51
+
+entender com quem que a gente está se
+ 00:37:54
+
+comunicando, qual que é nosso principal
+ 00:37:56
+
+público. Enquanto extensionistas, o
+ 00:37:58
+
+nosso principal público são os nossos
+ 00:38:00
+
+agricultores, as famílias agricultoras,
+ 00:38:01
+
+não é, da menor a maior idade e em
+ 00:38:03
+
+diferentes territórios. o mais acessível
+ 00:38:06
+
+e um menos acessível, não é? Então, essas
+ 00:38:09
+
+questões elas têm que estar presentes
+ 00:38:13
+
+quando a gente faz a comunicação. Esse
+ 00:38:15
+
+agricultor ele vai receber essa
+ 00:38:17
+
+informação, vai chegar até ele? Como é
+ 00:38:20
+
+que vai chegar até ele? Que meio que eu
+ 00:38:21
+
+tô utilizando? Vai ser só pelo WhatsApp?
+ 00:38:23
+
+Eu vou ter que fazer um outro esforço?
+ 00:38:26
+
+Ele tem familiaridade com a tecnologia?
+ 00:38:28
+
+Será que ele tem interesse nisso que eu
+ 00:38:30
+
+tô produzindo? Será que é importante ele
+ 00:38:32
+
+receber? Será que ele vai ver essas
+ 00:38:34
+
+mensagens? A forma que eu tô
+ 00:38:37
+
+comunicando, será que ele consegue ler?
+ 00:38:38
+
+Será que ele sabe ler? Vai ter que só
+ 00:38:40
+
+ouvir? Então, a maneira que isso chega.
+ 00:38:42
+
+E aí depois que ele tem interesse, ele
+ 00:38:45
+
+vai conseguir ler, ele vai conseguir
+ 00:38:47
+
+baixar, ele tem tecnologia lá suficiente
+ 00:38:48
+
+para conseguir fazer um download de um
+ 00:38:51
+
+vídeo? Qual é a forma mais fácil para
+ 00:38:52
+
+ele acessar esse material? É só quando
+ 00:38:55
+
+ele vem pra cidade que ele vai poder
+ 00:38:57
+
+ver. Então, depois de de tudo isso, ele
+ 00:38:59
+
+vai conseguir ter a percepção de
+ 00:39:02
+
+refletir, ele se sente inserido, ele se
+ 00:39:03
+
+vê naquele cenário onde a gente cria,
+ 00:39:06
+
+consegue implementar, vai compartilhar,
+ 00:39:08
+
+vai repassar esse conhecimento. Então,
+ 00:39:11
+
+todos esses elementos de análise que o
+ 00:39:13
+
+professor Zuin traz grandiosamente nos
+ 00:39:15
+
+seus materiais de pesquisa, para nós é
+ 00:39:17
+
+fomento de produção de conteúdo. Então
+ 00:39:20
+
+nós também temos que nos apropriar de
+ 00:39:23
+
+técnicas que balizem os resultados
+ 00:39:26
+
+dessas perguntas. Será que a gente tá
+ 00:39:29
+
+conseguindo ser efetivo naquilo que a
+ 00:39:31
+
+gente tá se propondo fazer com o público
+ 00:39:34
+
+que a gente tá tentando atingir? Então
+ 00:39:35
+
+são questões que ficam aqui como
+ 00:39:38
+
+sugestões para todos os extensionistas
+ 00:39:40
+
+utilizar no seu dia a dia. Não importa
+ 00:39:42
+
+se vai ser do jeito que a gente tá
+ 00:39:44
+
+fazendo, mas entender se a gente tá
+ 00:39:46
+
+realmente se comunicando com o público
+ 00:39:48
+
+que a gente se propõe a fazer.
+ 00:39:50
+
+E para concluir, a gente sempre pensa
+ 00:39:54
+
+assim, tá? Mas o nosso extensionista,
+ 00:39:57
+
+como a gente já acabou de dizer, não é? ele
+ 00:39:58
+
+tem dificuldade, o extensionista médio
+ 00:39:59
+
+hoje, de dificuldade muitas vezes de
+ 00:40:02
+
+produzir uma arte, de produzir um um
+ 00:40:03
+
+áudio eh com qualidade. Então, a gente
+ 00:40:06
+
+tem uma proposta e isso tá disponível no
+ 00:40:09
+
+canal Zaprural, @zapural, duas playlists
+ 00:40:12
+
+hoje, não é? Uma mais eh com vídeos mais
+ 00:40:16
+
+longos, é é a anterior, a primeira
+ 00:40:19
+
+playlist nesse sentido, que é o Sabar
+ 00:40:21
+
+Compartilha. Ali não tá 100% pleno e
+ 00:40:24
+
+completo, mas tem muito material. eh,
+ 00:40:27
+
+ensinando a fazer algumas dessas ações
+ 00:40:29
+
+que a gente vem fazendo no mundo
+ 00:40:31
+
+digital. E tem o AT Terre Digital também
+ 00:40:32
+
+dentro do canal Zap Rural, é outra
+ 00:40:36
+
+playlist, ela são vídeos mais curtos e
+ 00:40:38
+
+mais com assim de 30 segundos, mas
+ 00:40:41
+
+passando alguma mensagem importante
+ 00:40:43
+
+nessa área. E para finalizar,
+ 00:40:45
+
+não é, eh, eu acho que isso também tá na
+ 00:40:49
+
+fala do próprio Leandro. Esse trado que
+ 00:40:51
+
+eu trago, esse trado ele é ele ele foi é
+ 00:40:53
+
+um trado que já me acompanha desde o de
+ 00:40:57
+
+2018 eu constru eu eu construí ele. Eh,
+ 00:41:00
+
+ele tem aqui na ponta um parafuso que
+ 00:41:03
+
+permite que eu encaixe uma câmera, não é?
+ 00:41:06
+
+Então assim, por que que eu tô trazendo
+ 00:41:09
+
+esse trado aqui? Aqui eu consigo botar o
+ 00:41:11
+
+meu celular aqui na na ponta do trado,
+ 00:41:13
+
+não é? No começo eu não tinha condições de
+ 00:41:15
+
+ter um, não tinha um,
+ 00:41:17
+
+um, um tripé, então eu adaptei no trado,
+ 00:41:19
+
+fincava o trado num barranquinho, no
+ 00:41:23
+
+chão, entrevistava o agricultor
+ 00:41:24
+
+utilizando o trado como tripé. E esse e
+ 00:41:26
+
+querendo dizer assim que esse essa
+ 00:41:29
+
+ferramenta aqui que é o que foi o início
+ 00:41:32
+
+para dizer pro nosso extensionista que
+ 00:41:35
+
+tem que começar, não é? Se tem interesse de
+ 00:41:37
+
+produzir algum material digital,
+ 00:41:40
+
+produzir um vídeo, começa, começa com o
+ 00:41:41
+
+que tem, nem que seja pedindo pro
+ 00:41:43
+
+agricultor soldar um parafuso na cabeça
+ 00:41:45
+
+do trado que vai funcionar. E esse trado
+ 00:41:47
+
+tá ali agora eternizado na imagem ao
+ 00:41:50
+
+lado, que foi um prêmio da Embrapa na
+ 00:41:52
+
+produção de um vídeo, não é? E o trado por
+ 00:41:55
+
+uma casa apareceu no vídeo e esse aqui
+ 00:41:57
+
+foi o o a premiação foi essa arte e tá
+ 00:42:00
+
+lá ultrado e com um parafuso ali
+ 00:42:03
+
+aparente, não é? Então ele ficou eternizado
+ 00:42:06
+
+aí. Fica então essa dica que se tem
+ 00:42:07
+
+interesse tem que começar nem que seja
+ 00:42:10
+
+errando, não é?
+ 00:42:12
+
+É isso. Eu acho que que a gente traz
+ 00:42:16
+
+aqui elementos que fomentem. Nós somos
+ 00:42:19
+
+muito
+ 00:42:21
+
+entusiasmados com a maneira que a gente
+ 00:42:22
+
+se relaciona com a informação e a
+ 00:42:24
+
+tecnologia e não sabemos se isso tá 100%
+ 00:42:27
+
+certo ou a maneira que a gente faz é a
+ 00:42:30
+
+mais correta, mas ela foi a possível. E
+ 00:42:32
+
+tem uma entrega verdadeira aqui nossa da
+ 00:42:36
+
+constância, do aprimoramento e da busca
+ 00:42:38
+
+por soluções cada vez mais efetivas e
+ 00:42:42
+
+também mais simples para todo mundo.
+ 00:42:44
+
+Então, muito obrigada, Ezequiel, pela
+ 00:42:47
+
+oportunidade, não é? E ficamos à disposição
+ 00:42:49
+
+aqui. Muito bom o uso das tecnologias
+ 00:42:51
+
+sociais até para filmar vídeo. Eu adorei
+ 00:42:55
+
+essa essa turma é sensacional. Muito
+ 00:42:57
+
+obrigado pela excelente explanação que
+ 00:43:00
+
+vai ficar aqui eternizada no canal. E aí
+ 00:43:03
+
+a gente vai passar agora pro pro nosso
+ 00:43:05
+
+próximo extensionista. E aí com o
+ 00:43:08
+
+Leandro e depois a gente faz um debate
+ 00:43:10
+
+no final. Já parabenizar o Felipe a
+ 00:43:12
+
+Flávia aí. Obrigado aí pela sua grande
+ 00:43:13
+
+aula sobre a terra digital aí para todo
+ 00:43:16
+
+mundo aí certamente vai incorporar muito
+ 00:43:18
+
+aos nossos extensionistas. Vamos chamar
+ 00:43:20
+
+o Leandro aqui, depois a gente volta
+ 00:43:22
+
+tudo final. Aí o Leandro fique à vontade
+ 00:43:24
+
+para se apresentar também e fazer a sua
+ 00:43:27
+
+explanação aí. É muito importante com a
+ 00:43:30
+
+baita história também aí na terra
+ 00:43:33
+
+digital. Aí meus parabéns já desde já e
+ 00:43:35
+
+a palavra tá contigo, Leandro. Eu ia
+ 00:43:37
+
+comentar ali, eu comentei no chat
+ 00:43:39
+
+privado, agora vou comentar em público
+ 00:43:40
+
+aqui que o trado do Felipe não perdeu a
+ 00:43:42
+
+função de coletar solo, não é? A terra
+ 00:43:44
+
+digital ela complementa, ela soma. Ela
+ 00:43:46
+
+ele ganhou mais uma função. Tanto que na
+ 00:43:49
+
+foto ele tá coletando solo. Ele ainda
+ 00:43:51
+
+tem a função, só ganhou mais uma.
+ 00:43:52
+
+Bueno, então, após essa apresentação do
+ 00:43:55
+
+Felipe da Flávia, falando sobre os
+ 00:43:59
+
+métodos e tal, eh, eu quis trazer um
+ 00:44:01
+
+pouco de prática de quem tá fazendo ou
+ 00:44:05
+
+tentando fazer eh a terra digital,
+ 00:44:09
+
+tentando integrar essas soluções. Eu
+ 00:44:13
+
+tenho uma visão sobre isso muito clara,
+ 00:44:15
+
+que eu já participei aqui também do do
+ 00:44:18
+
+da Rede Europa com extensionista aqui no
+ 00:44:20
+
+canal com uma apresentação sobre eh até
+ 00:44:22
+
+além do digital, que tem a ver com isso
+ 00:44:26
+
+que eu acabei de falar do trado ali, não é?
+ 00:44:28
+
+que o digital, como o Felipe apresentou
+ 00:44:30
+
+e a Flávia ali, ele não substitui o
+ 00:44:32
+
+presencial, o físico, ele pode ser uma
+ 00:44:35
+
+ferramenta para potencializar o nosso
+ 00:44:38
+
+trabalho. Aquele atendimento, naquela
+ 00:44:40
+
+análise de solo que ele tava fazendo lá
+ 00:44:42
+
+na oficina com QR Code. Ã, a gente
+ 00:44:44
+
+insere e eu tenho alguns colegas que
+ 00:44:48
+
+falam inclusive que todo extensionista
+ 00:44:51
+
+faz a ter digital, seja pelo WhatsApp,
+ 00:44:53
+
+aqui na minha equipe aqui, os colegas
+ 00:44:56
+
+estão ali quando vê, tá? respondendo um
+ 00:44:58
+
+monte de agricultor no WhatsApp que
+ 00:45:00
+
+liga, que tira dúvida internamente
+ 00:45:01
+
+também, não é? Então a gente usa, a gente
+ 00:45:04
+
+usa, todo extensionista usa, só que isso
+ 00:45:08
+
+às vezes não tá
+ 00:45:10
+
+organizado e não tá
+ 00:45:11
+
+institucionalizado, mas além de usar as
+ 00:45:14
+
+as a as ferramentas digitais que a gente
+ 00:45:17
+
+tem, eu quero dar um enfoque aqui na
+ 00:45:20
+
+criação de conteúdo, tá? que o Felipe
+ 00:45:23
+
+também entrou, Felipe a Flávio ali
+ 00:45:26
+
+entrou, entraram porque eles têm o zap
+ 00:45:28
+
+rural, que é um produto, é um produto
+ 00:45:30
+
+digital que tem cara, que tem
+ 00:45:32
+
+identidade. E eu nessa minha trajetória
+ 00:45:34
+
+aí eu também fui criando produtos, eu
+ 00:45:36
+
+fui me adaptando à linguagem, a formas
+ 00:45:40
+
+para tentar atender os diferentes
+ 00:45:44
+
+públicos que eu tava atendendo. Então, a
+ 00:45:47
+
+minha história é um pouco diferente. H
+ 00:45:49
+
+vocês vão ver por eu vou contar para
+ 00:45:52
+
+vocês aí.
+ 00:45:54
+
+Por que que ela é um pouco diferente? O
+ 00:45:55
+
+que que a gente bolou no caminho para
+ 00:45:57
+
+chegar no Apastto Mais, que é o que tá
+ 00:45:59
+
+no meu nome aqui no convite, não é, no
+ 00:46:02
+
+canal a
+ 00:46:04
+
+Past, que é o que é o meu principal
+ 00:46:05
+
+produto digital hoje, não é? E tudo isso
+ 00:46:09
+
+tem uma justificativa não só de alcance
+ 00:46:11
+
+lá nas redes sociais e tal, na verdade
+ 00:46:14
+
+nem só, isso aí é um plus. O grande
+ 00:46:17
+
+objetivo nosso é o trabalho lá do
+ 00:46:20
+
+município, não é? O Felipe falou: "O zap
+ 00:46:23
+
+rural foi criado para ele mandar para
+ 00:46:25
+
+ele e a Flávia mandar nos grupos dos
+ 00:46:27
+
+seus municípios lá". Isso ganhou o
+ 00:46:28
+
+mundo, não é? Ganhou o Brasil, ganhou o
+ 00:46:30
+
+mundo, todo mundo recebe. Eu
+ 00:46:32
+
+recompartilho aqui, vários
+ 00:46:34
+
+recompartilham, eu recebo os de outros,
+ 00:46:36
+
+de terceiros, os vídeos do Zap Rural.
+ 00:46:39
+
+E a mesma coisa começou a acontecer com
+ 00:46:42
+
+o material que eu crio e jogo e jogo nas
+ 00:46:44
+
+redes. Então a a minha a minha história
+ 00:46:48
+
+como extensionista, ela começou em 2014.
+ 00:46:51
+
+Ela começou quando eu enguecei na
+ 00:46:55
+
+Ematera em 2014 e eu jovem recém
+ 00:46:58
+
+formada, me formei em 2014, me formei em
+ 00:47:01
+
+julho, final de julho, duas semanas
+ 00:47:03
+
+depois, início de agosto, eu assumi na
+ 00:47:06
+
+Emater, fiz um treinamento inicial, dois
+ 00:47:08
+
+meses depois eu fiz a minha primeira
+ 00:47:11
+
+reunião com produtores aqui. E o esse
+ 00:47:12
+
+senhor aqui, o senhor Edson Bassani, era
+ 00:47:16
+
+meu supervisor na época.
+ 00:47:17
+
+Ele se aposentou, tinha 38 anos de
+ 00:47:20
+
+extensão rural e como não tinha cancha
+ 00:47:21
+
+para tá na frente dos agricultores ali
+ 00:47:24
+
+coordenar e eu não tinha visto na
+ 00:47:27
+
+prática isso acontecer só em
+ 00:47:28
+
+treinamento. E ele trabalhou lá nesse
+ 00:47:30
+
+município, eu tive essa sorte também,
+ 00:47:32
+
+conhecia esses produtores, entendia do
+ 00:47:34
+
+assunto que era leite e coordenou essa
+ 00:47:36
+
+reunião para mim. Uma parte, depois eu
+ 00:47:39
+
+dei sequência numa outra parte. Eu vi
+ 00:47:41
+
+ele fazer uma hora, depois eu fiz outra
+ 00:47:42
+
+hora. E eu tava ali atentamente no
+ 00:47:44
+
+notebook ali mexendo na no que tava
+ 00:47:46
+
+sendo projetado ali dele, ó. E eu muito
+ 00:47:49
+
+atento, aprendendo com um extensionista
+ 00:47:52
+
+que com 38 anos de extensão rural
+ 00:47:54
+
+natural da região lá. Isso aqui é
+ 00:47:57
+
+Fagundes Varela, região de Viranópolis,
+ 00:47:58
+
+Serra Gaúcha, perto de Bento Gonçalves.
+ 00:48:00
+
+E o pessoal fala no dialeto Taliã, eles
+ 00:48:02
+
+misturam português com Taliã, com
+ 00:48:05
+
+sotaque bem carregado, bem forte. E eu
+ 00:48:06
+
+não entendia nada disso, que eu não sou
+ 00:48:09
+
+dessa região. E ele fala, ali é nativo
+ 00:48:10
+
+de lá, ele fala essa língua, esse
+ 00:48:13
+
+idioma, essa dialeto, na verdade.
+ 00:48:15
+
+E aí eu fiquei observando ele, eu fiquei
+ 00:48:18
+
+maravilhado com aquilo. Eu botei essa
+ 00:48:21
+
+foto aqui proposital. Eu fiquei
+ 00:48:23
+
+maravilhado porque há um mês mais ou
+ 00:48:24
+
+menos eu tava apresentando o relatório
+ 00:48:27
+
+do estágio, eu tava apresentando TCC
+ 00:48:29
+
+paraa empresa que patrocinou a máquina
+ 00:48:32
+
+que eu avaliei e tal, com uma linguagem
+ 00:48:35
+
+toda acadêmica, toda formal, para uma
+ 00:48:38
+
+banca de doutores, de pesquisadores, não é,
+ 00:48:40
+
+cuidando muito bem a linguagem.
+ 00:48:43
+
+E aí, de repente eu chego lá no campo e
+ 00:48:47
+
+eu vejo ele falando que que a vaca ela
+ 00:48:49
+
+ela come fibra dura e vai
+ 00:48:54
+
+remoer. E para quem vinha numa linguagem
+ 00:48:58
+
+totalmente acadêmica, não é? Meu Deus do
+ 00:49:00
+
+céu, olha só que impressionante. Eu
+ 00:49:03
+
+fiquei impressionado, fiquei maravilhado
+ 00:49:04
+
+na capacidade de comunicar isso pro
+ 00:49:07
+
+público. E eu estudei isso na faculdade,
+ 00:49:10
+
+professor Ezequiel, professor Zuin, aí
+ 00:49:13
+
+são professores de de extensão rural. E
+ 00:49:14
+
+a gente fala em
+ 00:49:17
+
+em eh linguagem extensionista, é um
+ 00:49:19
+
+termo que eu ouvi muito, eu ainda ouço,
+ 00:49:23
+
+linguagem extensionista. Eu fiquei
+ 00:49:25
+
+maravilhado com isso. Nossa, eu preciso
+ 00:49:26
+
+aprender a me comunicar dessa forma. E
+ 00:49:28
+
+não foi fácil, mas me espelhando nesse
+ 00:49:30
+
+pessoal
+ 00:49:33
+
+aí antigo, com 38 anos de de extensão
+ 00:49:34
+
+rural, como era o caso desse aí, alguns
+ 00:49:37
+
+de 40, eu fui aprendendo com eles e hoje
+ 00:49:39
+
+eu uso uma uma linguagem extensionista
+ 00:49:41
+
+que evoluiu ao longo de anos e anos de
+ 00:49:44
+
+extensionista se comunicando no campo
+ 00:49:47
+
+com
+ 00:49:48
+
+agricultores. E eu uso isso para me
+ 00:49:50
+
+comunicar no YouTube, no Instagram, no
+ 00:49:52
+
+TikTok com o pessoal. Então, mais uma
+ 00:49:54
+
+vez, não é que as coisas estão, é uma
+ 00:49:56
+
+evolução, não é? Não é que as coisas estão
+ 00:49:59
+
+excluindo aquele conhecimento, tudo
+ 00:50:01
+
+aquilo que foi gerado na extensão rural.
+ 00:50:03
+
+É uma extensão, não é? Esse senhor aqui, o
+ 00:50:05
+
+Bacan, logo ele se aposentou e eu
+ 00:50:08
+
+acredito que ele não tem nenhum material
+ 00:50:10
+
+falando no YouTube e tal. Tinha programa
+ 00:50:12
+
+de rádio na época ou em redes sociais,
+ 00:50:15
+
+não deve estar nas redes sociais. Nunca
+ 00:50:17
+
+mais encontrei ele. Se alguém conhece
+ 00:50:19
+
+ele aí, mandei um abraço. Eu frequentava
+ 00:50:21
+
+a casa
+ 00:50:23
+
+dele. Mas ele dominava a linguagem
+ 00:50:24
+
+extensionista, não é, como tantos outros
+ 00:50:27
+
+colegas experientes aí que estão nos
+ 00:50:29
+
+assistindo ou que estão no campo
+ 00:50:30
+
+dominam. O que a gente procurou fazer
+ 00:50:32
+
+agora é trazer isso pro ambiente
+ 00:50:34
+
+digital, não é, com obviamente com
+ 00:50:38
+
+adaptações. Então, 2014 eu ingressei e
+ 00:50:41
+
+esse primeiro projeto que eu tava
+ 00:50:44
+
+trabalhando ali, ó, que aqueles
+ 00:50:46
+
+produtores lá, eles faziam parte de um
+ 00:50:47
+
+projeto que era um contrato com o MDA na
+ 00:50:50
+
+época, que era uma chamada pública do
+ 00:50:52
+
+leite, que era para pequenos
+ 00:50:54
+
+agricultores, pequenos produtores de
+ 00:50:55
+
+leite. Aliás, não é nem pequenos
+ 00:50:57
+
+produtores de leite. tem um colega
+ 00:51:00
+
+também extensionista eh região de
+ 00:51:02
+
+Ereixim, o Sangalete, que fala que são
+ 00:51:04
+
+eh grandes produtores com pequenas
+ 00:51:08
+
+propriedades. Ele falou isso uma vez
+ 00:51:10
+
+numa capacitação, nunca me esqueci. De
+ 00:51:12
+
+fato, são grandes produtores em suas
+ 00:51:15
+
+pequenas propriedades. Tá vendo?
+ 00:51:16
+
+Linguagem de
+ 00:51:18
+
+extensionista. E esses grandes
+ 00:51:20
+
+produtores de pequenas propriedades que
+ 00:51:22
+
+faziam parte da chamada do leite, que a
+ 00:51:24
+
+gente começou um trabalho que deu um
+ 00:51:25
+
+impacto, deu um resultado gigantesco com
+ 00:51:27
+
+metodologias de lá.
+ 00:51:29
+
+eh técnicas de de manejo, de
+ 00:51:31
+
+alimentação, de manejo de rebanho, de
+ 00:51:33
+
+produção de pastagens. Eu não vou não
+ 00:51:36
+
+vou entrar com detalhes nisso, não é? E e
+ 00:51:38
+
+foi com esse grupo de produtores que a
+ 00:51:42
+
+gente trabalhava. Quando acabou esse
+ 00:51:44
+
+contrato, nós tínhamos um programa de
+ 00:51:45
+
+gestão sustentável daor familiar, que
+ 00:51:47
+
+entraram a outras famílias, a gente
+ 00:51:50
+
+começou a fazer
+ 00:51:51
+
+gerenciamento e que eu eu me dei por
+ 00:51:53
+
+conta que a gente tava começando a se
+ 00:51:57
+
+comunicar por WhatsApp e começando mesmo
+ 00:52:01
+
+porque nem eu não tinha celular com
+ 00:52:03
+
+WhatsApp e os produtores também não. E
+ 00:52:04
+
+aí eu vi que esse esse guri aqui, o
+ 00:52:07
+
+Felipe, ele já tinha um celularzinho com
+ 00:52:10
+
+WhatsApp, daí era um iPhone antigo. E aí
+ 00:52:12
+
+ele me mandava mensagem, me mandava foto
+ 00:52:15
+
+da vaca, foto do pasto, o pessoal me
+ 00:52:17
+
+mandava as coisas. Aí tinham três
+ 00:52:19
+
+propriedades que eu fazia gerenciamento
+ 00:52:21
+
+mensal com uma planilha, uma planilha
+ 00:52:23
+
+nossa da Imatéria antiga, muito boa, e
+ 00:52:25
+
+que eu ia deixava as fichas lá, deixava
+ 00:52:29
+
+12 fichas com o produtor. Aí todo mês
+ 00:52:32
+
+ele anotava movimentação de rebanho, uso
+ 00:52:34
+
+de ração, blá blá blá, tal, tal, tal,
+ 00:52:36
+
+despesas. Aí eu passava lá com o carro
+ 00:52:38
+
+da Imatério, pegava essa ficha, levava
+ 00:52:40
+
+pro escritório, digitava na planilha,
+ 00:52:42
+
+gerava o relatório, imprimia, voltava lá
+ 00:52:44
+
+pra propriedade, levava o relatório,
+ 00:52:46
+
+explicava o relatório para ele. Todos os
+ 00:52:48
+
+meses, quando ele recebia a nota fiscal
+ 00:52:49
+
+do leito, dia 15, a gente fazia isso. E
+ 00:52:51
+
+aí uma vez eu tava atropelado lá com
+ 00:52:53
+
+proagro e coisa para fazer e daí eu
+ 00:52:55
+
+falei para um deles que era o nego, ele
+ 00:52:58
+
+não tá aqui nessa foto. Sempre conto
+ 00:52:59
+
+essa história do nego. Nego, tira uma
+ 00:53:02
+
+foto do Tira uma foto do do da tua
+ 00:53:04
+
+ficha. Chega uma foto lá da Folha, tá? E
+ 00:53:07
+
+me manda no Whats. E ele fez isso. Ele
+ 00:53:10
+
+tirou uma foto e me mandou meio ruim lá,
+ 00:53:14
+
+foto meio tremida, celular ruim, câmera
+ 00:53:16
+
+VGA e me mandou. E aí eu sem tempo, eu
+ 00:53:18
+
+olhei pra Nádia, que era minha
+ 00:53:21
+
+assistente administrativa na época lá,
+ 00:53:22
+
+saudade dela também, se aposentou já.
+ 00:53:24
+
+Falei: "Naddia, digita isso aqui na na
+ 00:53:26
+
+planilha para mim". E a Nadia
+ 00:53:29
+
+digitou o que vinha na na na foto. Daí
+ 00:53:31
+
+eu peguei o
+ 00:53:35
+
+relatório, eh, fui lá no Whats Web,
+ 00:53:37
+
+tirei um print, não é? Copiei, mandei no
+ 00:53:40
+
+Whats e mandei um áudio explicando.
+ 00:53:43
+
+Olha, nego, esse mês, blá blá blá blá
+ 00:53:45
+
+blá. E aí eu popei duas visitas à toa só
+ 00:53:48
+
+para isso, porque os indicadores estavam
+ 00:53:51
+
+todos dentro do que a gente imaginava
+ 00:53:52
+
+que iria est. que a gente vem
+ 00:53:55
+
+acompanhando essa
+ 00:53:56
+
+propriedade. Quando eu vi que eu podia
+ 00:53:58
+
+fazer isso, que veio a ideia, bom, vamos
+ 00:54:00
+
+fazer um formulário online com as
+ 00:54:01
+
+principais informações que eu tenho que
+ 00:54:03
+
+criar. E aí eu criei um formulário
+ 00:54:05
+
+online, criei uma planilha que eu que eu
+ 00:54:07
+
+tenho um passo muito simples ali que eu
+ 00:54:09
+
+copio e
+ 00:54:11
+
+coloi esse relatório e propus para todos
+ 00:54:12
+
+eles. Então eu tinha 13 famílias nessa
+ 00:54:15
+
+época que eu fazia esse gerenciamento
+ 00:54:17
+
+mensal de indicadores zootécnicos da
+ 00:54:19
+
+produção de leite, zotécnicos de
+ 00:54:22
+
+qualidade do leite econômicos. E esse
+ 00:54:24
+
+era um projeto que a gente já tinha, mas
+ 00:54:26
+
+que não tinha o grupo do WhatsApp.
+ 00:54:28
+
+E aí a gente criou o grupo para usamos
+ 00:54:31
+
+essa ferramenta. Eu falei, vamos usar
+ 00:54:33
+
+uma ferramenta de gerenciamento e vamos
+ 00:54:35
+
+fazer troca de experiência entre nós,
+ 00:54:37
+
+porque o pessoal se conhece. vão fazer
+ 00:54:39
+
+reuniões nas propriedades e vamos usar
+ 00:54:40
+
+também o WhatsApp para isso. Daí o
+ 00:54:44
+
+pessoal começou, ia lá na propriedade,
+ 00:54:46
+
+tirava uma foto do pasto, olha aqui, não
+ 00:54:48
+
+sei o que esse produto, olha só como é
+ 00:54:50
+
+que tá o passo que a gente tá testando
+ 00:54:52
+
+aqui. E eles mesmo abasteciam, o grupo
+ 00:54:53
+
+interagiu. E aí começou um trabalho com
+ 00:54:56
+
+ferramentas digitais que ganhou força,
+ 00:54:58
+
+tá? Eu tive em vários eventos a Ivânia
+ 00:55:01
+
+Abinda, que é um case, a esposa do seu
+ 00:55:04
+
+José Binda, ela teve comigo palestrando
+ 00:55:06
+
+num evento por 800 pessoas. E ela conta
+ 00:55:08
+
+que ela não tinha celular, não sabia
+ 00:55:10
+
+mexer. Aí o filho dela comprou um
+ 00:55:12
+
+celular com smart, um celular com
+ 00:55:15
+
+WhatsApp para ela, para ela poder
+ 00:55:17
+
+participar do grupo. E aí teve que
+ 00:55:18
+
+ensinar ela a mexer. E aí todo mês ela
+ 00:55:20
+
+ia lá e quando tinha que enviar os
+ 00:55:22
+
+dados, ela enviava em mensagem para nós
+ 00:55:25
+
+errado, até ela aprender a trabalhar com
+ 00:55:27
+
+isso, não é? Uma senhora já. Então a gente
+ 00:55:30
+
+de forma ainda meio rudimentar, não é?
+ 00:55:35
+
+usando o WhatsApp, começando em 2016,
+ 00:55:37
+
+primeiras ferramentas digitais, ali foi
+ 00:55:40
+
+o início de tudo, de todo esse processo
+ 00:55:42
+
+de usar ali não tinham conteúdos
+ 00:55:45
+
+digitais ainda, na verdade tinha, mas
+ 00:55:47
+
+era direto no Whats. Eu mandava áudio,
+ 00:55:49
+
+eu mandava vídeo que eu gravava na
+ 00:55:51
+
+propriedade, eles mesmo abasteciam e
+ 00:55:52
+
+mandavam ali a gente interagia só entre
+ 00:55:55
+
+nós ali no grupo. E nessa época aqui
+ 00:55:57
+
+também eu vi que esse pessoal tudo tava
+ 00:55:59
+
+no Facebook. Não botei aqui na uma foto,
+ 00:56:02
+
+podia ter colocado. Esse pessoal tudo
+ 00:56:04
+
+tava no Facebook participando deuns
+ 00:56:06
+
+grupos e discutindo sobre leite e daí eu
+ 00:56:08
+
+postava notícia nossa e daí eles às
+ 00:56:10
+
+vezes discutiam, ah, porque nós aqui
+ 00:56:13
+
+estamos plantando pasto e não sei o quê,
+ 00:56:14
+
+um trabalho e tal, tal, tal. Daí eu
+ 00:56:16
+
+peguei e criei um grupo Bovino Cultura
+ 00:56:18
+
+Delite, criei um grupo nessa época lá no
+ 00:56:20
+
+Facebook. Hoje ele tem mais de 20.000
+ 00:56:22
+
+participantes, aberto grupo aberto não,
+ 00:56:24
+
+ele é fechado, eu tenho que autorizar e
+ 00:56:26
+
+eu monitoro as postagens, enfim,
+ 00:56:28
+
+comercial e tal. um grupo que foi muito
+ 00:56:29
+
+movimentado nessa época aí e eles
+ 00:56:31
+
+participavam, não é, participavam,
+ 00:56:33
+
+interagiam com o Brasil inteiro ali
+ 00:56:35
+
+nesse
+ 00:56:37
+
+grupo. Em 2018,
+ 00:56:38
+
+eh 2018, na verdade aqui é 2019.
+ 00:56:42
+
+2019 eu migrei, eu saí do município de
+ 00:56:46
+
+Fagundes Varela com esse trabalho ali
+ 00:56:49
+
+com o grupo, eu fazia visitas, usava o
+ 00:56:52
+
+WhatsApp pro gerenciamento, as reuniões
+ 00:56:54
+
+e o grupo tava tava fluindo. E não só
+ 00:56:57
+
+tava fluindo, como ele andava muito
+ 00:56:59
+
+rápido, porque esse pessoal tava
+ 00:57:01
+
+capacitado das trocas de experiência,
+ 00:57:02
+
+das reuniões e as visitas eram muito
+ 00:57:04
+
+rápidas. Eu resolvia muita coisa. Às
+ 00:57:06
+
+vezes eu ia na propriedade deles, eles
+ 00:57:08
+
+não tavam, eu ia lá, olhava as coisas
+ 00:57:10
+
+que eu tinha que olhar e mandava um
+ 00:57:11
+
+whats, umas fotos, mandava um áudio.
+ 00:57:13
+
+Olha aqui, ó, eh, Leinor, que é um
+ 00:57:15
+
+deles, Leinor, o teu Tiifton ali tá
+ 00:57:17
+
+assim, assim, assim. Eu acho que nós
+ 00:57:19
+
+vamos ter que mexer, vamos ter que tá
+ 00:57:20
+
+tal tal, abrir o piquete, talvez vamos
+ 00:57:22
+
+mexer na silagem lá no coxo. Ele nem
+ 00:57:23
+
+tava na propriedade, eu entrava uma vez
+ 00:57:26
+
+eu entrei, deixei uma uma porta aberta
+ 00:57:28
+
+lá, tinha duas vacas que saíram, foram
+ 00:57:30
+
+pros canzi. Daí ele me falou: "Foi tu
+ 00:57:31
+
+que teve aqui?" Eu: "Foi". direto deixou
+ 00:57:33
+
+aberto. Nunca mais deixei aberto, mas
+ 00:57:36
+
+aquela vez eu deixei do Leinor, não me
+ 00:57:38
+
+esqueço dessa. Então eu vim dessa
+ 00:57:40
+
+história, dessa experiência lá em
+ 00:57:42
+
+Fagundas Varela, um pequeno município de
+ 00:57:44
+
+2700 habitantes que falava Talihã e tal.
+ 00:57:45
+
+E fui para Segerafina Correia, um
+ 00:57:49
+
+município um pouco maior de 17, 18.000
+ 00:57:50
+
+habitantes, ainda pequeno, não é? Também em
+ 00:57:53
+
+Serra Gaúcha, capital nacional do
+ 00:57:55
+
+Taliano. Eu já tava mais habituado. E eu
+ 00:57:57
+
+pensei a o mesmo público italiano, não é?
+ 00:57:59
+
+descendente de italianos, trabalham com
+ 00:58:01
+
+leite, uma bacia leiteira forte. Eu vou
+ 00:58:03
+
+começar com um trabalho similar ao que
+ 00:58:05
+
+eu tinha lá. E aí eu comecei, eu formei
+ 00:58:07
+
+um grupo, o GT Leite, formei um grupo
+ 00:58:09
+
+lá, eu comecei a trabalhar com o colega
+ 00:58:13
+
+agrônomo, Eliaser, que como eu gosta de
+ 00:58:15
+
+tecnologias e manja de fazer algumas
+ 00:58:17
+
+coisas, nós fizemos um aplicativo do GTE
+ 00:58:19
+
+automatizado, já eles tinham um botão
+ 00:58:22
+
+aqui, enviar dados e visualizar
+ 00:58:24
+
+relatórios, já saiu
+ 00:58:25
+
+relatórios, não é? E a e a gente começou
+ 00:58:27
+
+com isso. Primeiro a gente fez um grande
+ 00:58:30
+
+encontro lá para identificar, convidar o
+ 00:58:31
+
+pessoal, apresentar proposta,
+ 00:58:34
+
+identificar as dificuldades deles e tal.
+ 00:58:35
+
+E aí começamos esse
+ 00:58:38
+
+trabalho. Então nós começamos a
+ 00:58:40
+
+reorganizar e inicialmente numa proposta
+ 00:58:41
+
+similar ao que a gente fazia lá em
+ 00:58:43
+
+Fagundes Varela, mas para atender as
+ 00:58:46
+
+demandas deles, a as necessidades que
+ 00:58:48
+
+eles tinham lá, as dificuldades que eles
+ 00:58:50
+
+tinham em leite, que é o meu carro
+ 00:58:52
+
+chefe, tá? aos municípios que eu
+ 00:58:54
+
+trabalhei, carro chefe eleite, hoje eu
+ 00:58:55
+
+também tô com carro chefe leite. com
+ 00:58:56
+
+essa experiência de do do com essa
+ 00:59:00
+
+experiência ali com o grupo do Facebook,
+ 00:59:04
+
+com o aplicativo, com os grupos de
+ 00:59:07
+
+WhatsApp e tal.
+ 00:59:08
+
+H, e essa tentativa inicial ali de fazer
+ 00:59:10
+
+um projeto similar ao que eu já tinha
+ 00:59:13
+
+pel aquele grupo lá que interagia entre
+ 00:59:15
+
+si, eu tive que dar uns passos para
+ 00:59:17
+
+trás, porque eu vi que em Serafina
+ 00:59:19
+
+Correia já não tinha aquela dinâmica do
+ 00:59:22
+
+município anterior. O pessoal não
+ 00:59:24
+
+compartilhava entre si, porque muitos
+ 00:59:27
+
+não se conheciam, não às vezes não iam
+ 00:59:29
+
+em determinadas comunidades quando a
+ 00:59:32
+
+gente fazia esses encontros, essas
+ 00:59:34
+
+trocas de experiência e tal. Então eles
+ 00:59:35
+
+tinham um estilo um pouco diferente de
+ 00:59:37
+
+de trabalhar, não é? E eles se se
+ 00:59:39
+
+informavam muito pelo jornal local, pela
+ 00:59:42
+
+rádio, eh por mídias sociais, eles
+ 00:59:44
+
+estavam em Instagram, não é? Eles estavam
+ 00:59:47
+
+eles olhavam
+ 00:59:49
+
+YouTube e aí eu tive que dar e eles
+ 00:59:51
+
+queriam mais um trabalho de
+ 00:59:53
+
+acompanhamento individual do que grupal,
+ 00:59:54
+
+como era lá em Fagundes Varela. Aí nós
+ 00:59:56
+
+formamos com a equipe lá esse projeto
+ 00:59:59
+
+Elite a Pasto. Essa foi a primeira arte
+ 01:00:01
+
+lá do projeto Elite Apasto. O projeto
+ 01:00:03
+
+Elite Apasta, ele surgiu por uma demanda
+ 01:00:06
+
+de produtores que trabalhavam com pasto,
+ 01:00:08
+
+que não eram todos lá, mas que queriam
+ 01:00:09
+
+trabalho específico com pasto, que daí a
+ 01:00:11
+
+gente começou a trabalhar de uma forma
+ 01:00:13
+
+diferente. Era um projeto individual. Eu
+ 01:00:15
+
+abri 12 vagas, 12 famílias, e a gente
+ 01:00:18
+
+tinha os grupos do WhatsApp e tal, mas
+ 01:00:21
+
+era mais nós gerando conteúdos para
+ 01:00:22
+
+mandar para eles e não mais essa troca
+ 01:00:24
+
+de experiência. Daí que começou a a
+ 01:00:27
+
+ideia de nós como emater gerar conteúdo
+ 01:00:30
+
+e mandar para eles. A gente começou a
+ 01:00:32
+
+fazer
+ 01:00:34
+
+isso primeiro. Eh nós a nós tínhamos um
+ 01:00:35
+
+um programa de rádio semanal lá na
+ 01:00:40
+
+rádio. E aí eu falei com a um jornal
+ 01:00:42
+
+local semanal. Nós abrimos uma coluna no
+ 01:00:45
+
+jornal toda semana escrita, que eles
+ 01:00:47
+
+liam esse jornal importante lá na época.
+ 01:00:50
+
+E eles tinham duas redes sociais aqui,
+ 01:00:53
+
+que era o Jornal Informe Regional no no
+ 01:00:55
+
+Facebook, que era muito ativo, e o
+ 01:00:58
+
+gauchinho.com, que era um projeto de
+ 01:00:59
+
+site, de portal deles e tal. E aí nós
+ 01:01:01
+
+fizemos uma parceria de gerar um
+ 01:01:03
+
+conteúdo em vídeo por semana e um
+ 01:01:05
+
+conteúdo escrito por semana, além do
+ 01:01:07
+
+rádio que a gente já girava toda semana
+ 01:01:09
+
+e funcionava muito bem, mais massivos,
+ 01:01:12
+
+não é? E obviamente nós mandávamos isso no
+ 01:01:14
+
+nos grupos do WhatsApp que a gente
+ 01:01:17
+
+tinha. E além disso, nós começamos a
+ 01:01:18
+
+gerar conteúdos, eu, a colega da área
+ 01:01:21
+
+social também, que a gente não tinha
+ 01:01:24
+
+onde hospedar e a gente botava no
+ 01:01:26
+
+YouTube, botava em não listado, porque a
+ 01:01:27
+
+gente não queria que fosse público, e
+ 01:01:29
+
+mandava nos grupos, não queria, não
+ 01:01:31
+
+tinha autorização e mandava nos grupos.
+ 01:01:33
+
+Isso começou a funcionar. Começou a
+ 01:01:36
+
+funcionar. Depois de 2020 veio uma
+ 01:01:38
+
+pandemia do COVID. Daí foi aquele salto
+ 01:01:41
+
+que todo mundo que estuda TER Digital
+ 01:01:44
+
+sabe, começaram lives e reuniões online
+ 01:01:46
+
+e tal e nós agimos muito rápido lá por
+ 01:01:49
+
+dois motivos. Primeiro porque eu já
+ 01:01:51
+
+tinha familiaridade com isso, eu
+ 01:01:54
+
+consegui ter uma uma resposta rápida e a
+ 01:01:55
+
+primeira coisa que eu fiz foi criar a
+ 01:01:58
+
+feira online da agricultura familiar.
+ 01:02:00
+
+Eu, eh, pelo que eu lembro, Sebrai
+ 01:02:02
+
+noticiou, um monte de gente entrou em
+ 01:02:05
+
+contato, depois outros municípios
+ 01:02:07
+
+começaram a fazer, depois a Emater fez
+ 01:02:08
+
+uma feira virtual da agricultura
+ 01:02:10
+
+familiar, uma das primeiras, senão a
+ 01:02:12
+
+primeira do Rio Grande do Sul foi a
+ 01:02:15
+
+nossa que foi ainda em março. E eu criei
+ 01:02:17
+
+um Google Sites ali, eu falei com os
+ 01:02:20
+
+nossos ferantes, nossas agroindústrias,
+ 01:02:22
+
+eles criaram cestas de produtos. Eu
+ 01:02:24
+
+criei botões ali que lincavam no
+ 01:02:27
+
+WhatsApp do Ferante e da Agendústria já
+ 01:02:28
+
+pedindo, quero essa sexta no botão lá,
+ 01:02:31
+
+quero a sexta um, dois. Daí eles
+ 01:02:34
+
+negociavam a entrega. eh criei com
+ 01:02:36
+
+Google Sites que integrava
+ 01:02:38
+
+para smartphone e aí eu criei um
+ 01:02:41
+
+aplicativo, um Appview, questão técnica,
+ 01:02:43
+
+mas um aplicativo que abria a página e
+ 01:02:46
+
+tu podia fazer os pedidos, não é? Depois a
+ 01:02:48
+
+prefeitura incorporou isso no no site da
+ 01:02:51
+
+prefeitura. Então foi um projeto
+ 01:02:54
+
+parceria lá com a prefeitura que
+ 01:02:56
+
+organizava a feira e tal. H, deu um
+ 01:02:58
+
+impacto muito grande, especialmente para
+ 01:03:00
+
+esses feantes, não é, que toda semana eles
+ 01:03:02
+
+tinham a feira, a verenda escolar também
+ 01:03:04
+
+e pararam de ter. Depois essa foi uma
+ 01:03:07
+
+iniciativa grande, não é? E esse pessoal do
+ 01:03:08
+
+GT Leite, eles já estavam preparados
+ 01:03:11
+
+porque a gente já tinha o grupo do
+ 01:03:13
+
+Whats, a gente já interagia vias, eu já
+ 01:03:14
+
+girava conteúdo e mandava para eles.
+ 01:03:16
+
+Então nós demos um um pulo aqui para
+ 01:03:18
+
+aquelas encontros, aquelas reuniões,
+ 01:03:21
+
+aquelas capacitações. Nós começamos a
+ 01:03:23
+
+fazer online também por
+ 01:03:24
+
+videoconferência, não é? E ali que eu
+ 01:03:26
+
+decidi fazer logo depois, ó, um
+ 01:03:29
+
+Instagram, porque eu vi que eles usavam
+ 01:03:32
+
+o Instagram, eles se informavam por
+ 01:03:34
+
+Instagram. E há uma coisa que a gente tá
+ 01:03:36
+
+estimulando aqui a eh que nem o Felipe
+ 01:03:38
+
+falou que tem conteúdos lá no canal do
+ 01:03:41
+
+Zap Rural ensinando a fazer e tal. Eh,
+ 01:03:43
+
+por que que a gente tá falando para que
+ 01:03:46
+
+tem conteúdo para fazer, que tem que
+ 01:03:47
+
+começar que com o tro com improviso?
+ 01:03:49
+
+Porque eu vi que o pessoal às vezes
+ 01:03:53
+
+estava comentando de produtos, de
+ 01:03:55
+
+coisas, de técnicas, tecnologias que eu
+ 01:03:56
+
+nunca tinha ouvido falar e que me
+ 01:03:59
+
+pareciam que era bobagem, bobagem,
+ 01:04:01
+
+besteira mesmo. Coisa que eles viram
+ 01:04:04
+
+falar lá,
+ 01:04:07
+
+mirabolante, coisa, até papo de
+ 01:04:08
+
+vendedor, de de internet e eu nem sabia
+ 01:04:10
+
+onde é que isso tava. Daí começaram a me
+ 01:04:13
+
+mostrar, me mandar link de de Instagram,
+ 01:04:15
+
+de vídeo no Instagram, do influencer
+ 01:04:18
+
+falando disso, daquilo. E daí eu pensei,
+ 01:04:20
+
+bom, se eles estão consumindo conteúdo
+ 01:04:22
+
+técnico de péssima qualidade no
+ 01:04:24
+
+Instagram, eu vou entrar no Instagram e
+ 01:04:26
+
+vou postar
+ 01:04:28
+
+conteúdo para eles verem, já que eles
+ 01:04:29
+
+querem olhar lá, eu vou estar lá também.
+ 01:04:32
+
+E eu fiz isso, comecei a entrei lá meio
+ 01:04:35
+
+inicialmente com um estilo meio Facebook
+ 01:04:38
+
+de postar o que a gente estava fazendo e
+ 01:04:40
+
+tal, depois gerando conteúdo, não é? E aí a
+ 01:04:42
+
+gente fez fez o o grupo Elite Ato, ele
+ 01:04:45
+
+evoluiu também. A gente começou um
+ 01:04:49
+
+trabalho de qualificação deles, de
+ 01:04:51
+
+acompanhamento e
+ 01:04:53
+
+tal. E no meio do caminho, quando a
+ 01:04:55
+
+gente começou a fazer essas reuniões, eu
+ 01:04:57
+
+vi que o pessoal ele, essas reuniões,
+ 01:04:59
+
+elas demoravam 1 hora, 1 hora e meia. E
+ 01:05:01
+
+aí que o mesmo fator que incentivou o o
+ 01:05:04
+
+zap rural ali de materiais mais curtos,
+ 01:05:07
+
+a minha leitura ela foi um pouco
+ 01:05:10
+
+diferente. O pessoal aprendeu que eu
+ 01:05:11
+
+gravava essas reuniões e no início a
+ 01:05:14
+
+gente tinha uma participação grande
+ 01:05:16
+
+online, ó, de dos produtores. Depois que
+ 01:05:17
+
+eles descobriram que eu gravava, botava
+ 01:05:20
+
+no YouTube não listado e mandava para
+ 01:05:21
+
+eles, eles preferiam não participar na
+ 01:05:23
+
+hora, iam trabalhar, fazer outras
+ 01:05:26
+
+coisas. Depois eles me pediam o link, eu
+ 01:05:28
+
+mandava no grupo e eles iam assistindo
+ 01:05:30
+
+15, 20 minutos por
+ 01:05:33
+
+dia. Então em uma semana eles assistiam
+ 01:05:35
+
+aquela 1 hora, 1 hora e meia de reunião
+ 01:05:37
+
+que eu que eu tinha feito. E aí eu vi,
+ 01:05:39
+
+bom, se eles vão participar
+ 01:05:42
+
+gravado, eles não vão participar ao
+ 01:05:44
+
+vivo, vão olhar gravado e vão olhar 15,
+ 01:05:46
+
+20 minutos. Eu vou fazer 15, 20 minutos
+ 01:05:48
+
+por semana. E como é gravado e é online,
+ 01:05:50
+
+não precisa nem ser eu. Já que eu vou
+ 01:05:53
+
+falar de silagem ali, de silagem de
+ 01:05:54
+
+inverno, eu posso convidar a Marion
+ 01:05:57
+
+Carbonari, que é uma uma referência em
+ 01:05:59
+
+forragem conservada, que é do Paraná,
+ 01:06:02
+
+trabalha com consultoria lá e que eles
+ 01:06:04
+
+já seguiam no Instagram.
+ 01:06:06
+
+Daí e ela vai vai responder as minhas
+ 01:06:08
+
+perguntas com base no que eu levantei de
+ 01:06:11
+
+campo de demanda deles. Daí eu criei
+ 01:06:13
+
+conversa com extensionista, parceria com
+ 01:06:15
+
+a prefeitura, com a rádio Rosário,
+ 01:06:17
+
+rodava o áudio no na rádio toda
+ 01:06:19
+
+sexta-feira e na quarta ia o vídeo toda
+ 01:06:21
+
+semana. Inicialmente era
+ 01:06:25
+
+diário na pandemia, depois uma um por
+ 01:06:26
+
+semana no no YouTube, Facebook da
+ 01:06:30
+
+prefeitura. Depois eu passei para mês e
+ 01:06:34
+
+depois eu parei. Deve ter uns 40
+ 01:06:36
+
+episódios. Com essa experiência nossa, a
+ 01:06:38
+
+gente começou a dar apoio regional paraa
+ 01:06:42
+
+Emater também. Nós criamos uma, nós
+ 01:06:43
+
+fazíamos a cada dois anos um dia de
+ 01:06:46
+
+campo regional em leite. Não deu para
+ 01:06:47
+
+fazer. Nós fizemos uma semana online do
+ 01:06:49
+
+leite na Serra
+ 01:06:51
+
+Gaúcha. Nós eh criamos o primeiro curso
+ 01:06:53
+
+de gestão de agroindústria IAD do Centro
+ 01:06:57
+
+de Treinamentos Fazenda Souos. aqui são
+ 01:06:59
+
+alguns instrutores. Eh, um curso que a
+ 01:07:01
+
+gente dava ele presencial, a gente
+ 01:07:04
+
+adaptou ele pro online, via YouTube com
+ 01:07:06
+
+transmissão. Aí depois desse curso aqui
+ 01:07:08
+
+que foi emergencial, que a gente criou
+ 01:07:10
+
+as pressas ali, aproveitando a minha
+ 01:07:12
+
+experiência com esses outros eventos, a
+ 01:07:13
+
+gente criou um curso na plataforma
+ 01:07:16
+
+Moodle da Imatéria, eu participei dessa
+ 01:07:19
+
+comissão, os colegas também e tal. E aí
+ 01:07:20
+
+a gente já deu, foi, foi, a coisa foi
+ 01:07:23
+
+profissionalizada, a gente já tinha
+ 01:07:25
+
+produtos, o conversa que o extensionista
+ 01:07:27
+
+tava no meu Instagram e tava na, eu
+ 01:07:29
+
+divulgava no meu Instagram e tava nas
+ 01:07:31
+
+redes sociais. Então em 2021, com a
+ 01:07:33
+
+nossa equipe, a gente resolveu mais uma
+ 01:07:35
+
+vez ampliar isso para outras ações do
+ 01:07:37
+
+município. Além do leite lá, que eu
+ 01:07:40
+
+tinha mais familiaridade, que eu já
+ 01:07:42
+
+tinha os agricultores preparados, a
+ 01:07:43
+
+gente criou outros projetos. Então a
+ 01:07:46
+
+gente fez capacitação dos produtores de
+ 01:07:48
+
+morango com que tinha um grupo do
+ 01:07:49
+
+WhatsApp do município, eram oito
+ 01:07:51
+
+produtores, agroindústria, futicultura,
+ 01:07:53
+
+o pessoal do MIP Soja, a gente pegou e
+ 01:07:56
+
+criou um aplicativo, Eliasera aqui que
+ 01:07:58
+
+trabalhou, criou um aplicativo porque o
+ 01:08:00
+
+nosso projeto que começou com 2, 3, qu
+ 01:08:02
+
+produtores, estava com 15 produtores de
+ 01:08:04
+
+soja que faziam monitoramento de pragas.
+ 01:08:06
+
+E aí tu tem que contar os bichinhos lá e
+ 01:08:09
+
+depois tem que avaliar o nível de dano
+ 01:08:11
+
+econômico conforme a fase. E a gente
+ 01:08:13
+
+criou ele, eu ajudei ele a criar a parte
+ 01:08:15
+
+a parte de informática foi ele, mas o
+ 01:08:18
+
+conceito eu ajudei, não é?
+ 01:08:20
+
+A gente criou aqui a a ferramenta para
+ 01:08:22
+
+eles registrarem a batida de pano e já
+ 01:08:24
+
+dar alertas ali, tudo OK, continue
+ 01:08:26
+
+alerta, entro contrato comater vermelho
+ 01:08:29
+
+imediatamente que precisa de uma ação. E
+ 01:08:32
+
+aí nós criamos um
+ 01:08:34
+
+projeto pensado na pandemia 2021 que
+ 01:08:36
+
+voltou pensado em quem tava online e não
+ 01:08:39
+
+tinha coisa para eles não participavam
+ 01:08:45
+
+muito das outras que eram os jovens. E a
+ 01:08:47
+
+gente formou um projeto que foi chamado
+ 01:08:49
+
+de jovens do Agro. Quem deu esse nome
+ 01:08:51
+
+foram os jovens e a e foi um trabalho
+ 01:08:53
+
+que a primeira fase e a terceira foi
+ 01:08:56
+
+toda online. Primeira fase, a colega da
+ 01:08:58
+
+área social que
+ 01:09:01
+
+coordenou, entrou em contato com todos
+ 01:09:03
+
+os grupos de mães, de mulheres das
+ 01:09:05
+
+comunidades e pegou contato de WhatsApp
+ 01:09:07
+
+das jovens de 14 a 24 anos. Aí nós
+ 01:09:09
+
+fizemos um formulário, fizemos uma
+ 01:09:12
+
+pesquisa, uma radiografia, analisamos os
+ 01:09:13
+
+dados, fizemos uma live dos jovens do
+ 01:09:15
+
+apresentando isso. Depois isso gerou um
+ 01:09:18
+
+TCC da UGRs, de uma estudante da UGRs,
+ 01:09:19
+
+eh, que entrevistou esses jovens um ano
+ 01:09:24
+
+após, já mostrando evolução. A gente
+ 01:09:27
+
+trouxe esses jovens a discutir o agro,
+ 01:09:29
+
+discutiu eles, eles deram esse nome do
+ 01:09:31
+
+agro, discuti o rural, discutiu as
+ 01:09:33
+
+propriedades, participar mais. E aí
+ 01:09:36
+
+daqui eles foram para cá, pro grupo de
+ 01:09:37
+
+morango, pro grupo do leite, pro grupo
+ 01:09:40
+
+da soja, paraa água indústria, pros
+ 01:09:41
+
+grupos de fruticultura, que tinham
+ 01:09:44
+
+parte. A segunda fase foi presencial, a
+ 01:09:46
+
+gente fez visitas, excursões técnicas ou
+ 01:09:48
+
+propriedades diferentes com turismo
+ 01:09:50
+
+rural, com futicultura, com um monte de
+ 01:09:52
+
+coisa. Nessa época aqui eu criei um
+ 01:09:54
+
+TikTok e eu não tava no TikTok, mas eu
+ 01:09:57
+
+via que eu mandava esses conteúdos do
+ 01:10:00
+
+Instagram que eu mandava pros outros e
+ 01:10:01
+
+eles não viam. Daí eu ia visitar,
+ 01:10:03
+
+conversava com eles, eles não tinham
+ 01:10:06
+
+visto e tal porque não tinham conta no
+ 01:10:07
+
+Instagram, não acessava, não tinham
+ 01:10:09
+
+hábito. E aí eu criei um TikTok, passei
+ 01:10:11
+
+a postar os conteúdos do Instagram, os
+ 01:10:13
+
+vídeos lá também no TikTok para mandar
+ 01:10:15
+
+pros jovens, não é, para poder acessar
+ 01:10:18
+
+esses jovens. Então, vejam que as coisas
+ 01:10:20
+
+vão se adequando conforme o público. A
+ 01:10:21
+
+terceira fase, além de visitar
+ 01:10:24
+
+experiências de outros municípios, a
+ 01:10:26
+
+gente fez a parceria com a rádio, a
+ 01:10:27
+
+rádio nos convidou e a gente gravou
+ 01:10:28
+
+histórias de sucessão familiar no
+ 01:10:31
+
+município pro YouTube e pro pra rádio
+ 01:10:34
+
+também. Então, foi vídeo paraa rádio,
+ 01:10:37
+
+foi a o áudio, foi a conversa lá, a
+ 01:10:39
+
+entrevista nossa com eles, os
+ 01:10:41
+
+depoimentos pra rádio, não é? Então,
+ 01:10:42
+
+aplicativo que o grupo e live de campo,
+ 01:10:45
+
+não é? a gente ia fazer um dia de campo,
+ 01:10:48
+
+foi cancelada as ações por causa do
+ 01:10:50
+
+COVID coletivas, a gente gravou
+ 01:10:51
+
+asaitações, fizemos uma live de campo,
+ 01:10:54
+
+eh, que seria o dia de campo com a
+ 01:10:57
+
+transmissão do conteúdo. Então, ali o
+ 01:10:59
+
+negócio tava um pouco mais profissional,
+ 01:11:01
+
+não é? E ó, depois de 2021, 22, 23, a gente
+ 01:11:03
+
+continuou, eu investir mais no
+ 01:11:07
+
+Instagram, no TikTok ali. Eu fiz o
+ 01:11:09
+
+projeto que o Ezequiel gosta muito,
+ 01:11:12
+
+sempre cita ele quando quando a gente
+ 01:11:14
+
+faz alguma menção, que é o 90 segundos
+ 01:11:16
+
+de ciência. Nessa lógica de ter um
+ 01:11:18
+
+conteúdo de curto, não é? Eu parei com
+ 01:11:20
+
+conversa com o extensionista, que era 20
+ 01:11:22
+
+minutos, e criei o 90 segundos de
+ 01:11:24
+
+ciência, que eu pegava um artigo
+ 01:11:26
+
+científico eh importante que
+ 01:11:28
+
+fundamentava ações que eu tava agindo lá
+ 01:11:30
+
+no campo com os produtores. Em 90
+ 01:11:32
+
+segundos, em linguagem simples, em
+ 01:11:34
+
+linguagem extensionista, eu traduzi
+ 01:11:36
+
+aquilo ali paraa prática, para para
+ 01:11:38
+
+implicação prática, explicando a
+ 01:11:41
+
+fundamentação científica com com a
+ 01:11:43
+
+aplicação prática daquilo no dia a dia
+ 01:11:45
+
+do produtor, como é que a gente aplica
+ 01:11:47
+
+aquilo ali, não é? foi uns 40 episódios que
+ 01:11:48
+
+eu tenho, me deu um trabalho grande
+ 01:11:52
+
+fazer isso. E aí
+ 01:11:54
+
+2024 eu comecei meu trabalho em outra
+ 01:11:56
+
+região. Eu saí lá da Serra Gaúcha, onde
+ 01:12:02
+
+eu tava, e comecei aqui em Júlio de
+ 01:12:05
+
+Castilho. Isso foi uma decisão pessoal,
+ 01:12:09
+
+não é? Eu gostava muito de trabalhar lá na
+ 01:12:11
+
+região, mas por questões familiares aqui
+ 01:12:12
+
+eu decidi vir mais próximo da família da
+ 01:12:14
+
+minha filha pequena e tal. E quando eu
+ 01:12:17
+
+cheguei aqui já com essa experiência
+ 01:12:19
+
+toda, eu fui mais ágil, não é? Eu fui
+ 01:12:21
+
+mais aprendi com um erro que eu tive lá
+ 01:12:24
+
+em Serafina, que eu tentei aplicar o
+ 01:12:27
+
+mesmo metodologia de fagundesarela e não
+ 01:12:29
+
+deu certo. Não deu tão certo. Depois,
+ 01:12:31
+
+depois eu fui adaptar, isso foi uma
+ 01:12:34
+
+resposta meio tardia minha, não é? Eu fui
+ 01:12:36
+
+reativo, não fui proativo. Eu comecei
+ 01:12:39
+
+propondo uma coisa que não era
+ 01:12:41
+
+exatamente adequada ao que eles a ao que
+ 01:12:42
+
+encaixava no no nas expectativas deles.
+ 01:12:46
+
+Depois eu reagi e adequei, criei o
+ 01:12:48
+
+projeto Elite a pasta. Quando eu cheguei
+ 01:12:50
+
+aqui, eu pensei: "Não, primeiro não vou
+ 01:12:52
+
+cometer o mesmo erro. Primeiro eu vou
+ 01:12:53
+
+visitar os produtores." Então eu e os
+ 01:12:55
+
+colegas aqui, eles foram me apresentar,
+ 01:12:57
+
+não é? foram me levaram a visitar os
+ 01:12:59
+
+produtores. Nós visitamos 60% dos
+ 01:13:01
+
+produtores de leite em poucos meses. E
+ 01:13:03
+
+eu já gerei um formulário lá que numa
+ 01:13:05
+
+caminhada de 20 minutos eu pegava as
+ 01:13:08
+
+informações da propriedade, andava na
+ 01:13:10
+
+propriedade com com o celular, pegava
+ 01:13:13
+
+uma coordenada porque eu não sabia onde
+ 01:13:16
+
+era, pegava foto, daí eu ia registrando.
+ 01:13:17
+
+Vende leite para quem? Ah, deixa eu ver
+ 01:13:21
+
+tuas vacas. As a são que usada, não é,
+ 01:13:23
+
+Jorando. Aí, quantos hectares você tem
+ 01:13:25
+
+desse de de passo aqui de ave? Ah, já
+ 01:13:28
+
+plantei cinco, vou plantar mais dois. 7
+ 01:13:31
+
+haar. Eu ia marcando tudo num formulário
+ 01:13:33
+
+que depois gerava um relatório. Depois
+ 01:13:35
+
+eu mandava esse relatório no Whats áudio
+ 01:13:37
+
+explicando e aí eu, cada visita eu ia
+ 01:13:40
+
+convidando esse pessoal para integrar um
+ 01:13:43
+
+grupo técnico do Leite, um GT Leite. É
+ 01:13:44
+
+um grupo técnico para eu mandar
+ 01:13:47
+
+informações para eles
+ 01:13:48
+
+inicialmente, eh, para nós manter um
+ 01:13:51
+
+canal de comunicação, convite para
+ 01:13:53
+
+evento, aviso, declaração de rebanho,
+ 01:13:54
+
+essas coisas tod, não é? E aí o meu meu
+ 01:13:57
+
+objetivo primeiro era visitar todo mundo
+ 01:14:01
+
+e depois propor um trabalho. Porém não
+ 01:14:03
+
+deu. Veio aquela chuva intensa em maio
+ 01:14:05
+
+aqui que deu alaramento e coisa e o
+ 01:14:08
+
+pessoal tava precisando de assistência
+ 01:14:10
+
+técnica. Daí eu lembro que eu fiz um
+ 01:14:12
+
+boletim PDF, eu escrevi para eu me
+ 01:14:14
+
+organizar de ó, como recuperar as a as
+ 01:14:17
+
+pastagens após as chuvas intensas. Eu
+ 01:14:21
+
+escrevi um boletim técnicos, foi para
+ 01:14:23
+
+mim e para mandar para uns colegas
+ 01:14:26
+
+técnicos que que eu tinha conversado no
+ 01:14:27
+
+telefone, no whats e eles me pediram ã
+ 01:14:29
+
+umas dicas, eu meio que me atrapalhei,
+ 01:14:33
+
+daí eu gosto de escrever, não é? Então eu
+ 01:14:35
+
+me organizei e
+ 01:14:37
+
+escrevi. E aí eu peguei e tentei
+ 01:14:39
+
+escrever numa linguagem simples e mandei
+ 01:14:42
+
+esse PDF no grupo do de WhatsApp do GT
+ 01:14:44
+
+Leate aqui. Depois eu fui visitar o
+ 01:14:47
+
+pessoal para dar essas recomendações
+ 01:14:49
+
+porque eu imaginei que eles não iam ler
+ 01:14:51
+
+o PDF. Eu mandei e-mail sem pretensão.
+ 01:14:52
+
+Curiosamente, todos que eu visitei leram
+ 01:14:55
+
+e já tavam aplicando as coisas que eu
+ 01:14:57
+
+recomendei e tinham algumas dúvidas além
+ 01:14:59
+
+daquilo que eu recomendei, inclusive
+ 01:15:01
+
+específicas. E daí eu achei, nossa, que
+ 01:15:03
+
+interessante esse pessoal ler boletim
+ 01:15:05
+
+técnico no e eu mando digital. Alguns
+ 01:15:09
+
+imprimiram, alguns imprimiram, pediram
+ 01:15:11
+
+pro filho imprimir e tal para ler o
+ 01:15:14
+
+boletim técnico. Esse pessoal quer
+ 01:15:16
+
+informação técnica e quer com mais
+ 01:15:18
+
+profundidade, que o boletim técnico é
+ 01:15:20
+
+mais profundo. Eu tenho um eu escrevo
+ 01:15:22
+
+artigos também pro Milk Point. Daí eu
+ 01:15:26
+
+escrevi uns artigos, mandei para eles
+ 01:15:28
+
+uns artigos que eles leem também com
+ 01:15:30
+
+profundidade, não é? Essa isso tudo também
+ 01:15:32
+
+um efeito que eu não falei até aqui, não é?
+ 01:15:35
+
+Do Milk Point. no Instagram, não só a
+ 01:15:37
+
+influência que eles vê do santo de casa.
+ 01:15:39
+
+Nós extensionistas municipais temos esse
+ 01:15:41
+
+problema. O cara entra lá no Instagram,
+ 01:15:43
+
+no YouTube, vê um cara lá do do do Ele
+ 01:15:45
+
+tá aqui no Rio Grande do Sul, vê um cara
+ 01:15:48
+
+lá de Minas falando e ele respeita. Bau,
+ 01:15:50
+
+ó o cara lá em Minas, não é, falando ali
+ 01:15:53
+
+que o pasto, isso, isso e aquilo. E aí o
+ 01:15:55
+
+cara tá lá em Minas, ele entra lá e vê
+ 01:15:57
+
+eu falando aqui do Sul. Olha só o cara
+ 01:15:59
+
+lá do Sul, não é, falando e tal. E o e o
+ 01:16:01
+
+cara que tá lá na cidade do cara lá de
+ 01:16:04
+
+Minas, talvez não valorize esse cara. E
+ 01:16:06
+
+o cara que tá aqui na minha cidade,
+ 01:16:08
+
+talvez não me valoriza tanto. Mas a
+ 01:16:09
+
+gente tira um pouco isso. Quando o cara
+ 01:16:11
+
+vai pesquisar na internet, ele vai
+ 01:16:13
+
+seguir um um criador de conteúdo no
+ 01:16:15
+
+Instagram, no TikTok ou vai pesquisar no
+ 01:16:18
+
+YouTube sobre um conteúdo e ele vê o
+ 01:16:19
+
+cara que tá aqui. Essa semana, semana
+ 01:16:23
+
+passada, eu comecei um trabalho com uma
+ 01:16:25
+
+propriedade que trabalha com gado de
+ 01:16:28
+
+corte e o cara me conheceu agora. Eu já
+ 01:16:30
+
+tava aqui, ele me conheceu vendo vídeo
+ 01:16:33
+
+meu no YouTube. Daí quando ele viu que
+ 01:16:35
+
+eu era de Júlio de Castilhos, ele me
+ 01:16:38
+
+achou no Instagram que ele viu no
+ 01:16:39
+
+YouTube e me chamou. Não, tu é de Júlio
+ 01:16:41
+
+de Castilhos, da consultoria. Eu falei:
+ 01:16:43
+
+"Não, eu trabalho na Ematerra, não é? Júlio
+ 01:16:45
+
+de Castilhos. Tá, tu pode me fazer uma
+ 01:16:47
+
+visita?" Claro, posso. Marquei, fui lá,
+ 01:16:48
+
+estamos começando um trabalho. Então o
+ 01:16:50
+
+cara procura no YouTube e acha coisas de
+ 01:16:52
+
+fora quando a gente tá aqui. E às vezes
+ 01:16:54
+
+se o cara tá aqui, o pessoal não nos vê
+ 01:16:56
+
+e não nos valoriza. Então isso tira um
+ 01:16:58
+
+pouco a lógica do santo de casa, porque
+ 01:17:00
+
+a gente deixa um pouco de ser só santo
+ 01:17:02
+
+de casa, não é? Porque a gente também é
+ 01:17:05
+
+santo de fora, daí que o pessoal de fora
+ 01:17:06
+
+também nos vê. Então eu criava esses
+ 01:17:08
+
+conteúdos, mando para eles. Alguns
+ 01:17:11
+
+boletins são, eu mando exclusivo,
+ 01:17:13
+
+específicos e alguns são, são mais
+ 01:17:15
+
+gerais.
+ 01:17:17
+
+não é? E aí eu eu vendo esse pessoal de
+ 01:17:19
+
+mais interesse, eu aproveitei aquela
+ 01:17:22
+
+experiência do projeto Elite Apasto de
+ 01:17:24
+
+aplicação de conhecimentos científicos
+ 01:17:26
+
+avançados, novas tecnologias que a gente
+ 01:17:28
+
+começou a testar, validar aqui também. E
+ 01:17:30
+
+nós criamos um projeto Elite Ato para
+ 01:17:32
+
+cá, mas ele já é adaptado, ele já tem
+ 01:17:34
+
+uma linguagem diferente, já tem uma
+ 01:17:36
+
+lógica diferente, que a gente
+ 01:17:37
+
+transformou um trabalho em rede. Por que
+ 01:17:38
+
+em rede? Pela organização social. Só que
+ 01:17:41
+
+assim como no primeiro município lá é
+ 01:17:43
+
+como se tudo fosse uma grande
+ 01:17:45
+
+comunidade, 2700 habitantes, no segundo
+ 01:17:46
+
+eles não, eles têm comunidades pequenas,
+ 01:17:49
+
+fechadas e e às vezes não se conheciam e
+ 01:17:51
+
+tal e não não integravam tanto. Aqui
+ 01:17:54
+
+eles têm uma uma organização comunitária
+ 01:17:57
+
+forte, porque tem alguns assentamentos,
+ 01:17:59
+
+a maior parte desses projetores estão em
+ 01:18:01
+
+assentamentos e o assentamento tem uma
+ 01:18:02
+
+organização própria. Então a gente criou
+ 01:18:04
+
+grupos, grupos que fazem parte da rede.
+ 01:18:07
+
+Então eu tenho um grupo de um
+ 01:18:11
+
+assentamento, um grupo de outro
+ 01:18:13
+
+assentamento, um grupo fora do
+ 01:18:14
+
+assentamento. Eu quero criar mais um ou
+ 01:18:15
+
+dois grupos esse ano ainda. Se eu
+ 01:18:16
+
+conseguir que faltou visitar, visitei
+ 01:18:18
+
+60%.
+ 01:18:20
+
+Ã, então a gente criou esses grupos que
+ 01:18:22
+
+tão que fazem parte da rede. Então a
+ 01:18:24
+
+gente tem ações que envolvem toda a rede
+ 01:18:26
+
+e tem ações que são específicas com cada
+ 01:18:29
+
+grupo, até porque as demandas são
+ 01:18:30
+
+específicas. Eu tenho um grupo de
+ 01:18:32
+
+WhatsApp para cada e tem uma comunidade
+ 01:18:33
+
+que une os três grupos, não é, que a gente
+ 01:18:35
+
+interage e gera essas informações, faz
+ 01:18:38
+
+oficinas, faz DMs e usa a ferramenta
+ 01:18:40
+
+digital ã ao mesmo tempo. Mas eu queria
+ 01:18:43
+
+falar também para vocês aqui que o o
+ 01:18:46
+
+boletim técnico ele me mostrou que o
+ 01:18:48
+
+pessoal queria um conteúdo mais
+ 01:18:50
+
+aprofundado. E aí eu eu continuo criando
+ 01:18:52
+
+conteúdos pro Instagram e tal e eu
+ 01:18:55
+
+mandava para eles de uma demanda deles
+ 01:18:58
+
+lá que eu vi, eu mandava para eles no
+ 01:19:00
+
+Instagram. E aí quando eu ia visitar
+ 01:19:02
+
+eles, eu via que eles não, muitos deles
+ 01:19:04
+
+não olhavam, não viram, não viram no
+ 01:19:06
+
+Instagram, alguns me reclamaram, não
+ 01:19:08
+
+tenho conta, tenho que fazer login e
+ 01:19:10
+
+tal. E daí eu vi que eles usavam
+ 01:19:12
+
+Facebook. Aí eu fiz um teste, comecei,
+ 01:19:14
+
+voltei a postar no Facebook, mandava
+ 01:19:16
+
+para eles e tal. E eu vi que também não
+ 01:19:18
+
+funcionava, alguns não usavam.
+ 01:19:20
+
+Então eu tive a ideia fazer, já que eu
+ 01:19:23
+
+não tava entendendo, eu fiz uma enquete
+ 01:19:26
+
+no WhatsApp, no no grupo do WhatsApp lá
+ 01:19:28
+
+do uma enquete, não é? Eu botei lá qual
+ 01:19:30
+
+qual rede social você mais utiliza? Daí
+ 01:19:33
+
+eu botei lá, podia marcar mais de uma.
+ 01:19:35
+
+Instagram, Facebook,
+ 01:19:38
+
+TikTok, eh, YouTube, eh, não, não botei
+ 01:19:41
+
+YouTube, Instagram, TikTok, não sei o
+ 01:19:45
+
+quê, e botei não uso nenhuma e botei
+ 01:19:47
+
+ainda, prefiro não usar nenhuma e podia
+ 01:19:50
+
+marcar mais de uma. Então, tem gente que
+ 01:19:52
+
+marcou, eu uso Instagram, mas prefiro
+ 01:19:54
+
+não usar nenhuma. Eu uso Facebook, mas
+ 01:19:55
+
+prefiro não usar nenhuma. Esse prefiro
+ 01:19:58
+
+não usar junto com os que não usam, deu
+ 01:20:00
+
+mais que 50% dos produtores, uns 40
+ 01:20:03
+
+produtores que tão nesse grupo. E aí
+ 01:20:07
+
+isso me chamou atenção. Se esse pessoal
+ 01:20:10
+
+não usa Instagram, TikTok, Facebook, não
+ 01:20:12
+
+adianta eu postar conteúdo lá que eles
+ 01:20:15
+
+não vão ver. E aí eu tive um
+ 01:20:16
+
+start de eu o final do ano passado,
+ 01:20:19
+
+dezembro de 2024, que eu já tinha
+ 01:20:23
+
+mandado os boletins e tal, eu fiz um
+ 01:20:25
+
+vídeo eh porque eu não consegui fazer
+ 01:20:27
+
+uma reunião de final de ano de avaliação
+ 01:20:30
+
+com eles, porque já tinha feito uma
+ 01:20:32
+
+jornada técnica com várias reuniões e
+ 01:20:33
+
+tal, não ia reunir eles de novo. Então
+ 01:20:36
+
+eu fiz um vídeo pro YouTube, gravei eu
+ 01:20:38
+
+assim apresentando, olha pessoal,
+ 01:20:40
+
+cheguei aqui em abril desse ano, visitei
+ 01:20:43
+
+vários de vocês e logo veio aquelas
+ 01:20:45
+
+chuvas intensas, a gente começou um
+ 01:20:47
+
+trabalho, fiz um resgate do trabalho do
+ 01:20:48
+
+ano e a gente fez isso e isso, aquilo e
+ 01:20:50
+
+deu isso e isso de resultado, tal, tal,
+ 01:20:52
+
+tal, e agora pro ano que vem a gente tá
+ 01:20:54
+
+planejando isso, isso e isso, então
+ 01:20:56
+
+contem conosco, tal, tal, tal. e mandei
+ 01:20:58
+
+ele não listado, ele tá lá lá no YouTube
+ 01:21:01
+
+ainda não listado. E eu não mandei para
+ 01:21:03
+
+todo mundo, eu mandei só pros pros
+ 01:21:05
+
+grupos de produtores aqui. E tanto que o
+ 01:21:07
+
+título dele para ti, produtor de leite
+ 01:21:09
+
+de Júlio de
+ 01:21:11
+
+Castilhos. E aí o para minha surpresa,
+ 01:21:12
+
+esse vídeo deu 70 e poucas
+ 01:21:15
+
+visualizações. Ou seja, todos esses
+ 01:21:17
+
+produtores viram esse vídeo,
+ 01:21:20
+
+praticamente todos. E eu conversei com
+ 01:21:22
+
+eles e confirmo, praticamente todos. E
+ 01:21:24
+
+às vezes mais de uma vez, porque tu
+ 01:21:26
+
+começou a olhar, viu que tinha 10
+ 01:21:27
+
+minutos, não terminou, depois olhou de
+ 01:21:29
+
+novo, por isso que deu 72 visualizações,
+ 01:21:30
+
+mais do que o número de produtores, não é?
+ 01:21:32
+
+Eu vi, tá aí. YouTube funciona?
+ 01:21:35
+
+YouTube funciona. Eu fiz mais dois
+ 01:21:38
+
+testes. Eu peguei depoimentos que eu
+ 01:21:40
+
+tenho do projeto Elite Passo lá de
+ 01:21:43
+
+Serafina Correia de Produtores, fiz uma
+ 01:21:44
+
+coletânia, um corte corte dele, juntei,
+ 01:21:47
+
+botei no YouTube e mandei. Daí isso eu
+ 01:21:50
+
+deixei em aberto, eles viram, funcionou
+ 01:21:51
+
+e começou a dar impacto também no
+ 01:21:55
+
+YouTube. Daí eu tive a ideia, quer
+ 01:21:56
+
+saber? Vou vou me dedicar agora menos ao
+ 01:21:59
+
+Instagram e tal. E já que o que funciona
+ 01:22:02
+
+aqui com meus produtores é YouTube, eu
+ 01:22:05
+
+vou criar o canal no
+ 01:22:07
+
+YouTube. Aí começou um
+ 01:22:09
+
+trabalho de criar um canal no YouTube
+ 01:22:13
+
+para qualificar o nosso trabalho aqui de
+ 01:22:15
+
+campo com os produtores de eleito aqui
+ 01:22:17
+
+do
+ 01:22:19
+
+município. E aí eu fiz isso, resolvi
+ 01:22:20
+
+fazer isso de forma profissional. Por
+ 01:22:23
+
+quê? Porque eles entram lá no YouTube,
+ 01:22:24
+
+clicam lá, pesquisam sobre ração para
+ 01:22:27
+
+vacas de leite e o primeiro vídeo que
+ 01:22:30
+
+vem é um vídeo de ração 25%. de um cara
+ 01:22:31
+
+que vende curso e ensina da ração 25%.
+ 01:22:34
+
+Esse cara tem milhões de seguidores e e
+ 01:22:37
+
+ração 25% padrão é padrão. Eu fiz o meu
+ 01:22:40
+
+vídeo aqui, ó. Ração 25%, coisa de
+ 01:22:43
+
+amador, tá? Por quê? Porque eu quero ter
+ 01:22:46
+
+impacto, eu quero ter engajamento, eu
+ 01:22:48
+
+quero que o pessoal clique no meu vídeo,
+ 01:22:50
+
+quero que o pessoal assista um conteúdo
+ 01:22:52
+
+técnico qualificado, porque tá cheio de
+ 01:22:54
+
+bobagem, tá cheio de picareta na
+ 01:22:56
+
+internet, no YouTube, se aproveitando
+ 01:22:58
+
+que a gente não ocupa esse espaço.
+ 01:23:01
+
+Então, vamos ocupar esse espaço e aí eu
+ 01:23:03
+
+vou, se for para fazer, eu vou fazer
+ 01:23:06
+
+direito com essa experiência que eu
+ 01:23:08
+
+tenho, eu vou fazer direito. Então, eu
+ 01:23:09
+
+estudei, eu assisti, assisti lives,
+ 01:23:10
+
+assisti conteúdos ali do pessoal
+ 01:23:13
+
+ensinando como é que tu faz um canal no
+ 01:23:15
+
+YouTube. Aí eu criei a minha marca aqui,
+ 01:23:17
+
+a pasto mais, que já passa a mensagem,
+ 01:23:19
+
+não é? E comecei a trabalhar com essas
+ 01:23:23
+
+miniaturas, essas tambs aqui chamativas,
+ 01:23:24
+
+títulos chamativos, roteiros chamativos.
+ 01:23:27
+
+E aí em vídeos de 8 a 15 minutos eu
+ 01:23:29
+
+passo uma
+ 01:23:32
+
+mensagem técnica qualificada, muito
+ 01:23:33
+
+melhor, eu diria, do que aqueles vídeos
+ 01:23:36
+
+que eu fazia de um 2 minutos, porque eu
+ 01:23:38
+
+consigo explorar mais o conteúdo e eu
+ 01:23:41
+
+crio mais vínculo com o pessoal. Eles
+ 01:23:43
+
+conseguem realmente aplicar. Ontem vem
+ 01:23:44
+
+um agrônomo do Senado da Paraíba me
+ 01:23:47
+
+dando parabéns, que eu tô revolucionando
+ 01:23:49
+
+a pecuária de leite, que ele não
+ 01:23:51
+
+imaginou depois de 37 anos de atuação,
+ 01:23:52
+
+ele não imaginou que com a o jeito que
+ 01:23:55
+
+as coisas estavam indo no leite pudesse
+ 01:23:57
+
+ter um uma umas umas técnicas tão tão
+ 01:23:59
+
+apropriadas para pequenos produtores que
+ 01:24:03
+
+rentabilizem leite pro pequeno ali. Aí
+ 01:24:06
+
+acreditava que os pequenos iam morrer no
+ 01:24:08
+
+caminho. E o que eu tô trazendo ali são
+ 01:24:10
+
+coisas que rentabilizam, não é? Lá da
+ 01:24:12
+
+Paraíba, um supervisor do Cenári lá da
+ 01:24:15
+
+TEG, um outro produtor do Mato
+ 01:24:18
+
+Grosso divisa com Rondônia, eh, vem me
+ 01:24:21
+
+perguntar, confirmar alturas ali de
+ 01:24:26
+
+algumas pastagens, manejos e tal, que
+ 01:24:28
+
+ele vai aplicar na propriedade leiteira
+ 01:24:30
+
+lá na divisa e depois ele volta. E assim
+ 01:24:32
+
+eu recebo vários e vários eh vários
+ 01:24:34
+
+feedbacks, várias dúvidas e tal, mas que
+ 01:24:37
+
+porque eu consegui dar o caminho melhor
+ 01:24:41
+
+pro pessoal aplicar as coisas do que num
+ 01:24:43
+
+vídeo mais curto, sabe? Nesses conteúdos
+ 01:24:45
+
+aqui. O pessoal assiste, ele me fala:
+ 01:24:48
+
+"Vá assistiu esse vídeo?" Já assisti
+ 01:24:49
+
+três vezes. Os caras assistem, pegam uma
+ 01:24:51
+
+caneta, um papel, anotam e não e não é
+ 01:24:53
+
+uma aula de 1 hora, 2 horas, é um vídeo
+ 01:24:56
+
+de 10, 15 minutos. 8 10 15 minutos.
+ 01:24:58
+
+Então, eu tenho vídeos aí, ó, em um,
+ 01:25:02
+
+dois dias ele vai para 1000, 2000
+ 01:25:05
+
+visualizações. Eh, tem vídeos de 5, 6,
+ 01:25:07
+
+8, 10.000 visualizações, mais de 10.000
+ 01:25:10
+
+1000 visualizações, não é, em em uma semana
+ 01:25:13
+
+que eu tô conseguindo ter impacto.
+ 01:25:16
+
+Então, de novo, eu já não sou mais o
+ 01:25:19
+
+santo de casa, o pessoal daqui sabe que
+ 01:25:21
+
+esse pessoal tá vendo que tem impacto
+ 01:25:23
+
+aquilo que eu tô falando fora. Então,
+ 01:25:25
+
+eles já passam a me olhar um pouco
+ 01:25:27
+
+diferente do que eu tô falando. Eles
+ 01:25:29
+
+começam a aplicar, começam a ter
+ 01:25:31
+
+resultados, eles viram esses, eles
+ 01:25:33
+
+começam a se tornar esses cases ali
+ 01:25:34
+
+também. E eu combinei com eles, olha,
+ 01:25:37
+
+então vamos fazer o seguinte, já que
+ 01:25:39
+
+vocês marcaram que vocês preferem, que
+ 01:25:41
+
+vocês não preferem rede social nenhuma,
+ 01:25:43
+
+eu vou criar um vídeo por semana pro
+ 01:25:46
+
+YouTube de 8 a 15 minutos e 10 minutos.
+ 01:25:48
+
+que eu falei para
+ 01:25:50
+
+eles, o o YouTube não tem barreira de
+ 01:25:52
+
+entrada, como o Felipe falou, tu não
+ 01:25:55
+
+precisa instalar aplicativo no teu
+ 01:25:57
+
+celular, criar conta, tu clica ali,
+ 01:25:58
+
+qualquer celular, seja Android ou ou
+ 01:26:00
+
+iOS, ele abre o YouTube, ele abre o
+ 01:26:03
+
+vídeo, só tu pular o anúncio lá e tu e
+ 01:26:06
+
+tu assiste o meu vídeo. Daí eu combinei
+ 01:26:10
+
+já que vocês não estavam olhando, porque
+ 01:26:11
+
+não tava construindo conhecimento com as
+ 01:26:13
+
+minhas postagens antes, não é, que eles não
+ 01:26:15
+
+olhavam. Daí eu falei, agora vamos
+ 01:26:16
+
+combinar o seguinte. Uma vez por semana
+ 01:26:18
+
+eu vou postar um vídeo e vocês tiram 10
+ 01:26:20
+
+minutos algum dia da semana. Pode ser
+ 01:26:22
+
+sábado, pode ser de noite, pode ser de
+ 01:26:24
+
+manhã, pode ser depois do almoço, algum
+ 01:26:26
+
+dia da semana, tira lá 10 minutos para
+ 01:26:28
+
+assistir o vídeo. Combinei isso com eles
+ 01:26:30
+
+e a gente tem feito assim. E alguns
+ 01:26:32
+
+vídeos eu sei que vai dar mais impacto e
+ 01:26:34
+
+alguns eu sei que não vai. Por exemplo,
+ 01:26:36
+
+esse vídeo aqui com o Pedro Albuquer
+ 01:26:38
+
+professor da UGRs, que vem do conversa
+ 01:26:39
+
+com o extensionista, eu resgatei, a
+ 01:26:41
+
+gente fala de integração lavora pecuária
+ 01:26:43
+
+com aveias vem no inverno, com paste de
+ 01:26:45
+
+inverno e soja no verão. É uma realidade
+ 01:26:47
+
+nossa aqui do sul. Então eu não tenho um
+ 01:26:50
+
+impacto tão grande pro pessoal lá de
+ 01:26:52
+
+cima da Paraíba, que nem eu falei que me
+ 01:26:54
+
+segue, mas é importante paraos meus
+ 01:26:55
+
+produtores aqui de Júlio de Castilhos.
+ 01:26:57
+
+Então eu postei lá, eu fiz todo o
+ 01:26:59
+
+trabalho bem feito, não é?
+ 01:27:01
+
+nos moldos que eu tenho feito demais
+ 01:27:05
+
+para acessar o meu público daqui, mesmo
+ 01:27:06
+
+sabendo que não vai ter o impacto fora
+ 01:27:08
+
+que tem, não é? E isso se soma também a
+ 01:27:10
+
+nossa causa como extensionista de levar,
+ 01:27:12
+
+sabe, de tanta bobagem que tem por aí o
+ 01:27:16
+
+produtor de eleites. Resumindo para
+ 01:27:20
+
+vocês, em em 8 anos, 60% dos produtores
+ 01:27:22
+
+de leite do Rio Grande do Sul
+ 01:27:25
+
+abandonaram a atividade leiteira e 90%
+ 01:27:26
+
+desses produtores são a base de pasto.
+ 01:27:30
+
+Então, a o setor ele tá excluindo
+ 01:27:32
+
+pequenos produtores e e e especialmente
+ 01:27:34
+
+os que trabalhavam o sistema base de
+ 01:27:38
+
+pasto, a moda antiga do sistema de
+ 01:27:40
+
+produção de leite. E as soluções que
+ 01:27:42
+
+esses produtores têm são ou confina,
+ 01:27:43
+
+intensifica, bota 60 vacas, bota canzil,
+ 01:27:47
+
+bota um composto de bar, bota um um
+ 01:27:50
+
+pavilhão, um galpão, um barracão,
+ 01:27:51
+
+dependendo da região que tu tá, bota 60,
+ 01:27:54
+
+bota um robô e confina. Ou tu desiste
+ 01:27:57
+
+porque pasto é coisa do passado. Esse
+ 01:27:59
+
+daí tem uma outra linha que fala: "Não,
+ 01:28:02
+
+tu vai trabalhar com pasto, mas tu tem
+ 01:28:03
+
+que fazer um monte de piqueto e ureia e
+ 01:28:05
+
+não sei o quê e roçar". Eu tenho um
+ 01:28:08
+
+vídeo lá no meu canal que é roçar pasta
+ 01:28:10
+
+é burrice. Esse tem 11.000 1000
+ 01:28:12
+
+visualizações. Que porque e aí eu não
+ 01:28:15
+
+vou explicar por, quem quiser saber
+ 01:28:17
+
+acessa lá
+ 01:28:19
+
+depois, mas são tecnologias que que
+ 01:28:20
+
+complicam a mão de obra dos produtores
+ 01:28:24
+
+tá saturada e os caras dão mais mão de
+ 01:28:26
+
+obra. Então o cara não não não vê não vê
+ 01:28:28
+
+um caminho para ele, não é? Porque ou ele
+ 01:28:32
+
+confina que tem que fazer um
+ 01:28:34
+
+investimento de 300.000, de 500.000, de
+ 01:28:35
+
+1 milhão, ou ele ou ele vai a mão de
+ 01:28:36
+
+obra dele para fazer três, seis mudanças
+ 01:28:39
+
+de de faixa por dia de pastejo e ureia e
+ 01:28:41
+
+fica roçando para padronizar o pasto ou
+ 01:28:45
+
+ele e ainda assim dizem que é baixa
+ 01:28:49
+
+produtividade, mas baixa o custo e tal,
+ 01:28:51
+
+ou ele desiste e aí a maioria vai
+ 01:28:53
+
+empurrando com a barriga até onde dá. E
+ 01:28:55
+
+isso é uma crise, tá? Isso é uma crise
+ 01:28:57
+
+social que a gente tem, porque leite é
+ 01:28:59
+
+agricultura familiar. Essas pessoas
+ 01:29:01
+
+abandonando o leite, elas não acham
+ 01:29:02
+
+outra oportunidade. A gente tem aqui na
+ 01:29:04
+
+nessa região que é muito
+ 01:29:06
+
+soja, nos últimos cinco anos a gente
+ 01:29:08
+
+teve umas eh uma safra e meia boa. Ã o
+ 01:29:10
+
+resto foram safras de verão ruins. Então
+ 01:29:15
+
+muita gente que abandonou o leite porque
+ 01:29:17
+
+a soja tava com preço bom, produzindo
+ 01:29:19
+
+bem, tá voltando pro tá voltando pro
+ 01:29:21
+
+leite agora, voltando pra pecuária de
+ 01:29:24
+
+corte até grandes produtores.
+ 01:29:27
+
+Então, então isso é uma crise social,
+ 01:29:29
+
+porque esse pessoal precisa de renda e o
+ 01:29:32
+
+leito era uma atividade que gerava renda
+ 01:29:34
+
+todo mês pra família, que sustentava a
+ 01:29:36
+
+família e eles estão sendo excluídos da
+ 01:29:37
+
+atividade. Então isso se torna uma causa
+ 01:29:39
+
+nossa como extensionista e é isso que
+ 01:29:41
+
+motiva a tá lá no no YouTube, no canal
+ 01:29:44
+
+Atoco e Mais vídeos de falando soluções,
+ 01:29:47
+
+como o colega lá do da Paraíba falou,
+ 01:29:50
+
+que podem revolucionar, que podem trazer
+ 01:29:53
+
+soluções que ninguém fala. Por que que
+ 01:29:55
+
+ninguém fala? Porque ninguém que tá lá é
+ 01:29:57
+
+independente. As pessoas em geral que
+ 01:29:59
+
+tão lá, elas vendem produto, elas vendem
+ 01:30:01
+
+o seu o seu a elas vendem o seu serviço,
+ 01:30:04
+
+a sua consultoria, elas estão vinculadas
+ 01:30:07
+
+a empresas que elas representam e
+ 01:30:10
+
+obviamente elas vão a defender aquela
+ 01:30:11
+
+lógica, aquele aquele produto, não é,
+ 01:30:13
+
+daquela empresa. a nós, extensão rural
+ 01:30:16
+
+pública, eh, pesquisa pública,
+ 01:30:19
+
+universidades como a
+ 01:30:22
+
+Embrapa, eh, elas têm elas são
+ 01:30:24
+
+independentes, defendem o, a gente tá, o
+ 01:30:27
+
+nosso vínculo é com com nós somos
+ 01:30:30
+
+públicos, não é? Então, ninguém tá lá para
+ 01:30:31
+
+trazer isso, não é? E eu e a minha defesa é
+ 01:30:34
+
+que a gente precisa ocupar esses
+ 01:30:36
+
+espaços. Isso, isso é uma nova
+ 01:30:38
+
+realidade. As pessoas estão lá, os
+ 01:30:40
+
+agricultores estão lá, os win tem dados
+ 01:30:42
+
+disso, o pessoal tem pesquisas disso aí,
+ 01:30:45
+
+eles estão lá, eles estão usando e se a
+ 01:30:48
+
+gente não ocupar esses espaços, a gente
+ 01:30:50
+
+deixa ele, essa bola quicando para
+ 01:30:52
+
+outros ocuparem. Para finalizar a minha
+ 01:30:53
+
+fala, eu quero mostrar segundos aqui
+ 01:30:55
+
+do antes e um depois. Manejo rotativo
+ 01:31:00
+
+pode ser uma boa ideia facilitar o
+ 01:31:02
+
+manejo, mas dividir em vários piquetes
+ 01:31:05
+
+por dia é uma grande armadilha que pode
+ 01:31:07
+
+só atrapalhar e limitar teus resultados.
+ 01:31:10
+
+Há 10 anos, quando eu tava começando a
+ 01:31:12
+
+trabalhar com produtores no campo, eu
+ 01:31:14
+
+também recomendava isso, fazer vários
+ 01:31:16
+
+piquetes por dia, tá? Pera
+ 01:31:17
+
+aí, eu vou passar esse vídeo aqui para
+ 01:31:20
+
+vocês, ó.
+ 01:31:23
+
+Vou passar um trecho só, não vou passar
+ 01:31:24
+
+tudo, mas
+ 01:31:26
+
+que
+ 01:31:28
+
+que Deixa eu dar
+ 01:31:30
+
+o Olá, eu sou Leandro Herbert,
+ 01:31:33
+
+engenheiro agrônomo da Emater de
+ 01:31:36
+
+Serafina Correia. Nós estamos aqui na
+ 01:31:37
+
+nossa unidade de pastagens e durante a
+ 01:31:40
+
+feira nós tivemos mostrando algumas
+ 01:31:43
+
+soluções, algumas tecnologias, algumas
+ 01:31:44
+
+técnicas para que os produtores possam
+ 01:31:47
+
+melhorar os resultados que obtém com
+ 01:31:48
+
+pastagens na região. Uma das soluções
+ 01:31:50
+
+que nós mostramos foi
+ 01:31:53
+
+relação em 2019.
+ 01:32:02
+
+E agora eu quero passar para vocês
+ 01:32:06
+
+o aqui, ó, como é que tá o canal hoje
+ 01:32:09
+
+para vocês verem a diferença da da do da
+ 01:32:12
+
+criação. Manejo rotativo pode ser uma
+ 01:32:15
+
+boa ideia facilitar o manejo, mas
+ 01:32:17
+
+dividir em vários piquetes por dia é uma
+ 01:32:20
+
+grande armadilha que pode só atrapalhar
+ 01:32:23
+
+e limitar teus resultados. Há 10 anos,
+ 01:32:25
+
+quando eu tava começando a trabalhar com
+ 01:32:27
+
+produtores no campo, eu também
+ 01:32:29
+
+recomendava isso, fazer vários piquetes
+ 01:32:30
+
+por dia. E de certa forma nós até
+ 01:32:32
+
+tivemos resultados interessantes. Eu não
+ 01:32:34
+
+quero não quero não quero falar do
+ 01:32:36
+
+conteúdo do vídeo em si aqui, mas eu
+ 01:32:40
+
+queria chamar a atenção para vocês aqui,
+ 01:32:42
+
+ó, da evolução da qualidade da criação
+ 01:32:43
+
+do conteúdo. Eu tava de forma muito
+ 01:32:46
+
+rudimentar aqui, ó, tentando fazer, não é?
+ 01:32:48
+
+A gente tinha alguns, a gente gravava em
+ 01:32:51
+
+estúdio lá, eles nos filmavam e eu
+ 01:32:53
+
+apresentava e eu começava também, que
+ 01:32:55
+
+nem o Felipe falou: "Olá, eu sou
+ 01:32:57
+
+Leandro". Blá blá blá e tal. Aí eu
+ 01:32:59
+
+tentava falar como se eu tivesse na
+ 01:33:02
+
+reunião com produtores. Eu falei isso
+ 01:33:03
+
+que eu tô falando várias vezes pros
+ 01:33:05
+
+produtores ali, tentei mostrar, não é? E já
+ 01:33:06
+
+tentando qualificar um pouco. Nessa
+ 01:33:09
+
+época ali eu a gente a gente gravava
+ 01:33:11
+
+primeiro com o celular, sem microfone,
+ 01:33:15
+
+não é? Aí depois, como eu não peguei,
+ 01:33:16
+
+improvisei, peguei um fone de ouvido,
+ 01:33:19
+
+assim como o assim como o Felipe fez o
+ 01:33:20
+
+tripé dele lá, eu peguei uma um fone com
+ 01:33:24
+
+microfone assim, ó, da esses aqui, não é,
+ 01:33:28
+
+que a gente usa o pequeno, esse pretinho
+ 01:33:31
+
+aqui, ó, que tinha um microfonezinho
+ 01:33:32
+
+bom. Cortamos ali o fone, deixamos só o
+ 01:33:34
+
+microfone. Aí nós colocamos um tecidinho
+ 01:33:37
+
+aqui, ó, para abafar um pouco o vento e
+ 01:33:40
+
+aí eu colocava no gravava com o celular
+ 01:33:43
+
+no bolso aqui, que esse microfonezinho
+ 01:33:45
+
+com o outro celular gravava o áudio e
+ 01:33:48
+
+depois eu sincronizava.
+ 01:33:49
+
+Então a gente começou a qualificar,
+ 01:33:51
+
+sabe, sem recurso, improvisando ali. Já
+ 01:33:53
+
+tem um áudio, então, um pouquinho
+ 01:33:55
+
+melhor, mas ainda sem capa, sem
+ 01:33:56
+
+apresentação, sem chamada, sem aqueles
+ 01:33:59
+
+segundos iniciais de gancho inicial, não é,
+ 01:34:01
+
+que são técnicas que tem e tal, que o
+ 01:34:04
+
+pessoal usa, o pessoal usa e vende, tem
+ 01:34:06
+
+milhões, milhares de acessos e nós ali
+ 01:34:08
+
+modestamente, não é, de forma muito
+ 01:34:11
+
+modesta.
+ 01:34:13
+
+Então isso evoluiu, não é? E hoje, hoje eu
+ 01:34:15
+
+tenho um microfone, ó. Hoje eu tenho um
+ 01:34:18
+
+microfone sem fio, que não é grande
+ 01:34:19
+
+coisa. O Felipe tem um de rico, não é? Eu
+ 01:34:21
+
+não tenho. Eu tenho esse daqui que eu
+ 01:34:24
+
+comprei na na Shopee por 20 e poucos
+ 01:34:25
+
+pila da China, que tem um abafadorzinho
+ 01:34:28
+
+de vento aqui, ó, para eu gravar
+ 01:34:30
+
+externo. Alguns eu gravo externo, não é?
+ 01:34:31
+
+Mas já de lapela, daí eu posso gravar no
+ 01:34:33
+
+mesmo celular.
+ 01:34:35
+
+Ã, já consigo, já sei editar um
+ 01:34:37
+
+pouquinho melhor, não é? Já sei fazer um
+ 01:34:39
+
+roteiro um pouco melhor. Então assim,
+ 01:34:41
+
+olha aqui, mais piquetes por dia,
+ 01:34:44
+
+melhor. Entenda e não complique teu
+ 01:34:45
+
+pastejo rotacionado. Pastejo rotacionado
+ 01:34:48
+
+nem é um termo técnico. Pastejo
+ 01:34:51
+
+rotacionado tá errado. Tecnicamente
+ 01:34:53
+
+seria pastejo rotativo ou pastoreio
+ 01:34:55
+
+rotativo seria o termo ainda mais
+ 01:34:58
+
+adequado. Mas e por que que eu usei
+ 01:34:59
+
+rotacionado? Porque o pessoal pesquisa
+ 01:35:01
+
+no YouTube pro rotacionado, o pessoal
+ 01:35:03
+
+não pesquisa pro
+ 01:35:05
+
+rotativo. Então, hã, a gente precisa se
+ 01:35:07
+
+adequar à linguagem do do povo, não é? Eh,
+ 01:35:11
+
+recentemente eu tive conversando com uma
+ 01:35:15
+
+professora que ela teve uma iniciativa
+ 01:35:17
+
+nas redes sociais, eu vou contar a
+ 01:35:20
+
+história sem dizer o nome dela, e quando
+ 01:35:21
+
+ela tava fazendo o doutorado e ela
+ 01:35:24
+
+pediu, eh, ela pediu, pediram para ela
+ 01:35:26
+
+parar de postar nas redes sociais. E aí
+ 01:35:29
+
+eu perguntei para ela, por que que
+ 01:35:32
+
+pediram? E ela porque de acordo com
+ 01:35:33
+
+eles, eu tava me comunicando de uma
+ 01:35:35
+
+forma não condicente, não equivalente,
+ 01:35:38
+
+que a forma que os nossos pares se
+ 01:35:40
+
+comunicam, não é? no caso dela fazendo
+ 01:35:42
+
+doutorado que outros pesquisadores
+ 01:35:45
+
+comunicam, porque ela tava justamente
+ 01:35:46
+
+tentando comunicar numa linguagem
+ 01:35:48
+
+simples, numa linguagem extensionista,
+ 01:35:50
+
+que nem eu falei que tu fala que em vez
+ 01:35:53
+
+do processo de ruminação com fibra eh
+ 01:35:55
+
+física
+ 01:35:59
+
+efetiva, eh efetividade da ela, tu fala
+ 01:36:01
+
+lá que a vaca fica remoendo essa fibra
+ 01:36:05
+
+dura por muito tempo, sabe? é um é uma
+ 01:36:07
+
+forma de falar que a fibra de baixa
+ 01:36:09
+
+digestibilidade com alto conteúdo de
+ 01:36:13
+
+ligina tem uma velocidade de passagem
+ 01:36:15
+
+rominal muito lenta e o processo de
+ 01:36:18
+
+rominação ã se desacelera, tá? Isso é
+ 01:36:20
+
+uma, então ela ela buscava falar isso e
+ 01:36:25
+
+pediram para ela várias vezes, até que
+ 01:36:28
+
+ela realmente parou, enquanto ela tava
+ 01:36:29
+
+fazendo doutorado, ela parou de de
+ 01:36:31
+
+comunicar nas redes
+ 01:36:33
+
+sociais eh por por pressão do dos pares
+ 01:36:36
+
+que achavam que a que a linguagem era
+ 01:36:39
+
+inadequada para alguém que tava na
+ 01:36:41
+
+titulação de doutorado. Então, vejam que
+ 01:36:43
+
+a gente tem barreiras, a gente tem
+ 01:36:47
+
+grandes barreiras, mas a minha defesa
+ 01:36:48
+
+aqui é que a gente precisa ocupar esses
+ 01:36:51
+
+espaços, porque se a gente não ocupa eh
+ 01:36:53
+
+alguém vai ocupar e isso chega no campo
+ 01:36:56
+
+e diferencia ainda mais, distancia ainda
+ 01:36:59
+
+mais o conteú o que o o que é aplicado
+ 01:37:02
+
+no campo, a informação que chega no
+ 01:37:06
+
+campo do conhecimento técnico e
+ 01:37:08
+
+científico. E aí a gente tem esses esses
+ 01:37:10
+
+problemas, como eu contei no leite aí
+ 01:37:13
+
+que a gente tem por falta de informação
+ 01:37:15
+
+adequada chegando pro pessoal. a gente
+ 01:37:17
+
+tem um que uma forma de combater essas
+ 01:37:19
+
+essas
+ 01:37:22
+
+desinformações é nós ocuparmos esses
+ 01:37:23
+
+espaços e levar essas
+ 01:37:26
+
+informações. Sigam lá a pasta imagem no
+ 01:37:29
+
+YouTube
+ 01:37:32
+
+@leanduebbertonia, no Instagram, no
+ 01:37:33
+
+TikTok, no Facebook e podem me chamar lá
+ 01:37:35
+
+falar comigo se tiverem alguma dúvida.
+ 01:37:40
+
+Eu vou deixar mais uma indicação aqui
+ 01:37:41
+
+que eu prometi pro Ezequiel que quem
+ 01:37:44
+
+quiser saber sobre esse trabalho lá do
+ 01:37:46
+
+do GT, do Eliquo, do aplicativo, eu tive
+ 01:37:49
+
+no numa live aqui contando mais sobre
+ 01:37:53
+
+isso e tá no livro, não é? tá no diálogos
+ 01:37:55
+
+da extensão rural, nesse link aqui. Eu
+ 01:37:57
+
+eu vou pedir pro Ezequiel mandar ali no
+ 01:38:00
+
+no chat ali que vocês podem baixar,
+ 01:38:05
+
+acessar em que no capítulo dois lá tem
+ 01:38:08
+
+um tem o texto, não é, dessa minha
+ 01:38:10
+
+apresentação do aqui, ó, do ATER, além
+ 01:38:12
+
+do digital, explorando ferramentas
+ 01:38:16
+
+digitais para potencializar a extensão
+ 01:38:18
+
+rural. lá eu falo do vínculo do trabalho
+ 01:38:19
+
+de campo com o rural, com as técnicas,
+ 01:38:23
+
+com resultados e e com a como que a
+ 01:38:25
+
+gente usou cada técnica, essa evolução e
+ 01:38:28
+
+tudo. Vocês podem acessar aí o o livro.
+ 01:38:30
+
+Bueno, pessoal, com isso, obrigado pela
+ 01:38:34
+
+espaço, pela oportunidade de estar aqui
+ 01:38:37
+
+e vamos pro nosso nossa conversa.
+ 01:38:39
+
+Muito bom, muito bom. Parabéns, Leandro.
+ 01:38:44
+
+Leandro, sensacional. Eu sempre gosto
+ 01:38:47
+
+muito do Leandro e porque eu falo dos 90
+ 01:38:50
+
+segundos consciência, porque é uma alma
+ 01:38:53
+
+extensionista, não é? O Leandro tem um tem
+ 01:38:56
+
+um perfil muito de pesquisador e e ele
+ 01:38:58
+
+conseguiu compreender como que o que que
+ 01:39:01
+
+é a extensão orural mesmo, que é
+ 01:39:03
+
+simplificar esse conteúdo científico,
+ 01:39:05
+
+não é, para chegar na linguagem do
+ 01:39:08
+
+agricultor. Por isso eu sempre falei
+ 01:39:09
+
+muito 90 segundos com ciência, porque me
+ 01:39:11
+
+chamou muita atenção e é o que é preciso
+ 01:39:14
+
+fazer mais, não é, no nosso ambiente
+ 01:39:17
+
+acadêmico para chegar mais à linguagem
+ 01:39:20
+
+do agricultor. Independente de da de
+ 01:39:22
+
+certas terminologias, das preciosidades
+ 01:39:25
+
+acadêmicas, nosso agricultor ele precisa
+ 01:39:28
+
+eh da operacionalidade do conceito e
+ 01:39:30
+
+como que ele vai aplicar isso na
+ 01:39:33
+
+prática, não é? Então isso para nós hoje na
+ 01:39:34
+
+extensão rural é muito valioso, gente.
+ 01:39:37
+
+Então vamos vamos aqui comentar um
+ 01:39:39
+
+pouquinho, depois a gente faz uma rodada
+ 01:39:41
+
+de perguntas e comentários. É bom que
+ 01:39:43
+
+extensionista não tem prosa pro dia
+ 01:39:45
+
+inteiro, como diz o mineiro, não é? Então,
+ 01:39:47
+
+se eu fizer uma pergunta aqui, a gente
+ 01:39:49
+
+vai até a
+ 01:39:51
+
+noite. Agradecer o pessoal aqui da Tec
+ 01:39:52
+
+Futicultura presente aqui. Eu convidei o
+ 01:39:55
+
+pessoal da Extensão Rural da Futicultura
+ 01:39:58
+
+EAD que nós temos aqui, tá presente a
+ 01:40:00
+
+Soraia, o pessoal da Embrapa aí na
+ 01:40:02
+
+figura do seu Luciano, presente também a
+ 01:40:04
+
+Jéssica do pessoal aí da do PPG CTS
+ 01:40:07
+
+dacar presente também aqui, não é? Então,
+ 01:40:11
+
+não tô colocando os comentários, mas
+ 01:40:14
+
+enfim, mais pessoal aqui da Mas o mais o
+ 01:40:16
+
+pessoal aqui da além da Embrapa ali, o
+ 01:40:19
+
+pessoal da educação no campo do do da
+ 01:40:22
+
+IAD da UFCM Polo 3 de Maio presente
+ 01:40:25
+
+também. Muita gente presente aqui, tem
+ 01:40:28
+
+mais pessoal da fruticultura, tem a
+ 01:40:31
+
+galera aqui da Embrapa, sede Distrito
+ 01:40:32
+
+Federal também na figura do Webert,
+ 01:40:34
+
+galera acompanhando bastante aí na na
+ 01:40:36
+
+nas nossas redes. Enfim, vamos ver aqui,
+ 01:40:39
+
+vamos fazer a primeira aqui, ó, da
+ 01:40:42
+
+Jéssica, muito interessante aqui. É, aí
+ 01:40:44
+
+foi quando o Felipe e a Flávia estavam
+ 01:40:47
+
+como falando, não é? E a Jéssica pergunta o
+ 01:40:49
+
+seguinte: "Gostaria de saber se a Flávia
+ 01:40:52
+
+e Felipe consideram o trabalho do zap
+ 01:40:54
+
+rural como divulgação científica." E
+ 01:40:57
+
+depois eu já até passar pro Leandro
+ 01:40:59
+
+também essa mesma pergunta, porque eu
+ 01:41:01
+
+acho que vale pros três, não é? E fique à
+ 01:41:02
+
+vontade aí.
+ 01:41:05
+
+Sim, eu considero como divulgação
+ 01:41:07
+
+científica, nem sempre a gente consegue
+ 01:41:09
+
+acertar, mas a luta é para ter tudo o
+ 01:41:11
+
+respaldo científico em todo o material
+ 01:41:14
+
+que a gente tem, não é? eh sempre
+ 01:41:15
+
+buscando ou um material prévio das
+ 01:41:18
+
+instituições como Embrapa, Próepagre,
+ 01:41:22
+
+livros ou pesquisadores da instituição,
+ 01:41:25
+
+conhecimento adquirido durante toda a
+ 01:41:30
+
+nossa jornada, não é? Então, a gente tá
+ 01:41:31
+
+sempre buscando eh fazer essa
+ 01:41:33
+
+comunicação, essa divulgação de de
+ 01:41:35
+
+conhecimento científico. Realmente, eu
+ 01:41:39
+
+acho que esse é o papel do Zap rural.
+ 01:41:41
+
+A cientificidade também tá no
+ 01:41:45
+
+conhecimento do agricultor, não é? para mim
+ 01:41:47
+
+é o maior pesquisador cientista aí do do
+ 01:41:50
+
+mundo. Então, quando a gente também
+ 01:41:53
+
+recebe esse arcabolso de observação,
+ 01:41:55
+
+mesmo que conhecimento empírico, mas das
+ 01:41:59
+
+repetidas práticas e técnicas, a gente
+ 01:42:01
+
+também se relaciona com o que tem
+ 01:42:03
+
+validado pela ciência, pelas pesquisas.
+ 01:42:06
+
+Então, não tem não temos dúvidas, não é,
+ 01:42:09
+
+Jéssica, em responder que sim, é uma
+ 01:42:12
+
+divulgação científica. Sim.
+ 01:42:14
+
+Muito bom. Passar pro Leandro aí.
+ 01:42:17
+
+É, eu tenho isso como uma causa, não é? Meu
+ 01:42:20
+
+trabalho de extensão rural, ele é muito
+ 01:42:23
+
+fortemente pautado pela ciência, não é? Eu
+ 01:42:24
+
+eu acho que isso que a Flávia falou é
+ 01:42:29
+
+verdade, não é? Os produtores eles testam,
+ 01:42:31
+
+eles avariam muitas coisas, eles não
+ 01:42:33
+
+sabem explicar o que eles fazem, mas
+ 01:42:35
+
+eles fazem, não é? Eu trabalho, eu eu sou
+ 01:42:37
+
+mais especialista do que o Zap rural,
+ 01:42:39
+
+não é? Eu trabalho específico em em
+ 01:42:41
+
+bovinocultura, eh, pecuária em geral,
+ 01:42:45
+
+corte, ovinos também, mas um enfoque
+ 01:42:49
+
+grande em leite, então eu sou mais
+ 01:42:52
+
+especializado nisso. Então, é mais, o
+ 01:42:54
+
+meu desafio é mais simples do que o do
+ 01:42:56
+
+que o do zap, que uma hora tá falando de
+ 01:42:58
+
+maracujá, não é, outra hora tá falando de
+ 01:43:00
+
+pasto
+ 01:43:02
+
+também. Então é é um desafio um pouco
+ 01:43:04
+
+maior, não é? tem por isso que eles
+ 01:43:07
+
+precisam de uma rede de contatos muito
+ 01:43:08
+
+forte e eu tenho a minha rede de
+ 01:43:09
+
+contatos com pesquisadores que linhas
+ 01:43:11
+
+que eu sigo e tal. E eu acho que de um
+ 01:43:14
+
+lado tem essa essa coisa do agricultor
+ 01:43:17
+
+fazer e não não saber explicar ou às
+ 01:43:20
+
+vezes ele não sabe explicar, mas tá
+ 01:43:23
+
+explicado. Tu vai ver lá o que ele faz.
+ 01:43:24
+
+Por exemplo, na minha área eu trabalho
+ 01:43:26
+
+com ecologia do pastejo. Ecologia do
+ 01:43:28
+
+pastejo é um ele parte da ótica do da
+ 01:43:29
+
+observação do comportamento animal.
+ 01:43:32
+
+Esses dias eu fui na propriedade ali de
+ 01:43:34
+
+um gaúcho que trabalha desde os 12 anos
+ 01:43:36
+
+cuidando de gado. E quando eu explicava
+ 01:43:38
+
+para ele, ele só não tinha organizado na
+ 01:43:41
+
+cabeça dele que eu tava explicando, mas
+ 01:43:44
+
+ele sabia de tudo que eu tava falando.
+ 01:43:45
+
+40 anos observando o gado past, ele não
+ 01:43:47
+
+vai saber como é que é o comportamento
+ 01:43:50
+
+do pastejo, como é que o bicho pasta, se
+ 01:43:51
+
+é um gaúcho que tá tomando mate lá e
+ 01:43:54
+
+orido pastar a cavalo em cima do cavalo,
+ 01:43:56
+
+levando, conduzindo, ele sabe, ele só
+ 01:43:59
+
+não organizou. E aí eu consegui
+ 01:44:02
+
+organizar aquilo e trazer soluções lá
+ 01:44:03
+
+científicas, com base científica de
+ 01:44:06
+
+estudo para organizar aquilo. Então é
+ 01:44:08
+
+uma linha minha, eu defendo isso, que a
+ 01:44:11
+
+a extensão rural precisa conectar o
+ 01:44:14
+
+conhecimento científico à prática.
+ 01:44:17
+
+onde ã eh, e eu defendo isso fortemente,
+ 01:44:21
+
+porque às vezes a gente a às vezes
+ 01:44:25
+
+existe uma barreira entre os dois lados.
+ 01:44:29
+
+Às vezes tem na extensão rural tem quem
+ 01:44:32
+
+entenda que a ciência é muito
+ 01:44:36
+
+positivista, que ela que nem tudo pode
+ 01:44:38
+
+ser explicado pela ciência e eh
+ 01:44:40
+
+metodologia científica e que tem outras
+ 01:44:43
+
+coisas e tal. E tem também o outro, o
+ 01:44:45
+
+lado do do do pesquisador que, nem eu
+ 01:44:47
+
+falei ali que acha ruim que eu fale que
+ 01:44:51
+
+que a vaca tá remoendo fibra dura, não é?
+ 01:44:52
+
+Porque é pela linguagem que eu tô usando
+ 01:44:57
+
+e tal. Então eu acho que a gente precisa
+ 01:44:58
+
+aproximar os dois lados. Eu tenho essa
+ 01:45:00
+
+visão, eu luto por
+ 01:45:02
+
+isso, eu acho que tem barreiras grandes
+ 01:45:04
+
+nisso e eu considero esse um desafio,
+ 01:45:06
+
+uma uma luta que a gente tem inclusive
+ 01:45:10
+
+para vencer esses esses picareta que tão
+ 01:45:12
+
+aí, sabe? Se a gente não se comunicar e
+ 01:45:15
+
+não levar isso lá pro pro pessoal, se a
+ 01:45:17
+
+gente não consegue gerar um consenso,
+ 01:45:19
+
+gerar informações com credibilidade para
+ 01:45:21
+
+levar isso lá pro campo, alguém tá
+ 01:45:23
+
+ocupando esse espaço. Eu falo mais uma
+ 01:45:26
+
+vez.
+ 01:45:28
+
+Muito bom. Muito bom. É, vou chegar
+ 01:45:30
+
+aqui, tem mais alguns uns elogios. O
+ 01:45:32
+
+Luciano fez o elogio na época da da a
+ 01:45:34
+
+hora que o pessoal da Flávio e o Felipe
+ 01:45:37
+
+estavam falando, não é? Parabéns aos dois.
+ 01:45:39
+
+O relato de experiência de vocês não tem
+ 01:45:41
+
+preço e ainda estimula outros
+ 01:45:43
+
+profissionais em termos de criatividade.
+ 01:45:45
+
+Aí o Luciano depois também faz um
+ 01:45:47
+
+comentário pro Leandro parabenizando.
+ 01:45:49
+
+Excelente trabalho. Temos aqui também,
+ 01:45:51
+
+olha pessoal, olha que interessante
+ 01:45:53
+
+pessoal da Universidade de Córdoba
+ 01:45:55
+
+assistindo vocês. Olha que chique. É o
+ 01:45:57
+
+zap ral do Brasil para o mundo, não é? De
+ 01:46:00
+
+Santa Catarina para o Brasil e para o
+ 01:46:02
+
+mundo. Ó essa ponte, essa conexão aqui.
+ 01:46:04
+
+Eu vou fazer uma pergunta, depois vou
+ 01:46:07
+
+passar pro Zoom. Essa aqui eu sei que
+ 01:46:09
+
+vocês já falaram, mas é, nós precisamos,
+ 01:46:12
+
+enquanto extensionista, dizer o óbvio.
+ 01:46:15
+
+Sempre falo que dar aula também é dizer
+ 01:46:17
+
+o óbvio, não é? Eh, e a e a primeira
+ 01:46:19
+
+pergunta é a seguinte, não é? Vocês já
+ 01:46:21
+
+falaram algumas pinceladas, mas assim,
+ 01:46:24
+
+precisa reforçar. Eh, muitas vezes as
+ 01:46:27
+
+pessoas elas, ah, eu não vou começar a
+ 01:46:30
+
+fazer um audiovisual, não vou começar a
+ 01:46:32
+
+fazer qualquer trabalho, é porque eu não
+ 01:46:34
+
+tenho melhor material, porque isso,
+ 01:46:36
+
+porque aquilo, pá, pá, pá. E eu queria
+ 01:46:38
+
+dizer assim, eu quero que vocês nos
+ 01:46:41
+
+contem quais, quais foram as maiores
+ 01:46:42
+
+dificuldades no começo, não é? A Flávia
+ 01:46:44
+
+mostrou a questão lá de gravar dentro do
+ 01:46:46
+
+carro. Eu já brinco para ela, sempre
+ 01:46:49
+
+falo, toda vez vão falar, eu não tenho
+ 01:46:51
+
+caro, como é que faz? Ela me manda ir no
+ 01:46:53
+
+guarda-roupa, não é? Não, não vai rolar.
+ 01:46:54
+
+Mas enfim, eu quero que vocês comentem
+ 01:46:57
+
+assim quais foram as principais
+ 01:46:59
+
+dificuldades para também mostrar como
+ 01:47:00
+
+que vocês conseguiram ao tempo, não é? tá,
+ 01:47:02
+
+tá melhorando e hoje vocês entregando
+ 01:47:05
+
+esse conteúdo aí de qualidade.
+ 01:47:07
+
+Eu eu entendo, Ezequiel, de uma forma
+ 01:47:11
+
+prática, assim, que a gente iniciou esse
+ 01:47:13
+
+trabalho na necessidade e aí era
+ 01:47:16
+
+escassez. Nós tínhamos, foi na pandemia
+ 01:47:19
+
+que a gente se lançou a a produzir
+ 01:47:22
+
+conteúdos digitais em maior número. A
+ 01:47:24
+
+gente já fazia com o que tinha, o
+ 01:47:26
+
+conhecimento que tinha mais na escassez
+ 01:47:28
+
+a gente se reinventou para poder
+ 01:47:30
+
+atender. Com a facilidade depois passado
+ 01:47:33
+
+a dificuldade da escassez, a gente já
+ 01:47:36
+
+tava lançado. E aí os principais
+ 01:47:38
+
+desafios eu acho que é essa montar essa
+ 01:47:41
+
+parceria com os demais. Por isso que a
+ 01:47:43
+
+gente entendeu que o sabiar compartilha
+ 01:47:45
+
+era uma possibilidade de um letramento
+ 01:47:47
+
+digital. tanto para quem recebia
+ 01:47:49
+
+informação quanto para quem produzia
+ 01:47:51
+
+conteúdo. Às vezes a pessoa, como traz o
+ 01:47:54
+
+Felipe na referência ali da marque do
+ 01:47:56
+
+herói, nem sempre você tem que ser a
+ 01:47:58
+
+pessoa, você precisa fazer chegar essa
+ 01:48:00
+
+informação. Então, as dificuldades é
+ 01:48:03
+
+essa adaptação com o teu entorno, tanto
+ 01:48:06
+
+com quem recebe o teu conhecimento, de
+ 01:48:08
+
+que maneira que questões que o professor
+ 01:48:11
+
+Zvin traz sempre no debate, como é que
+ 01:48:13
+
+eu vou fazer chegar e qual é a melhor
+ 01:48:15
+
+qualificação para isso, não é? E se eu tô
+ 01:48:17
+
+produzindo, como é que eu faço chegar da
+ 01:48:19
+
+melhor maneira? E os desafios eles são
+ 01:48:21
+
+nesse, não é a ferramenta em si. Se você
+ 01:48:24
+
+tem hoje uma tecnologia conectada à rede
+ 01:48:27
+
+de internet, um minimamente um celular
+ 01:48:30
+
+que consiga processar uma imagem e
+ 01:48:32
+
+consiga emitir um som, você já tem um
+ 01:48:35
+
+arcabço para fazer uma live, não é? Então
+ 01:48:37
+
+eu acho que os principais desafios é
+ 01:48:41
+
+trabalhar com as parcerias e a
+ 01:48:43
+
+compreensão dessa utilização das
+ 01:48:45
+
+ferramentas. Eu não sei se o talvez eu
+ 01:48:47
+
+tenha sido simplista demais, porque a
+ 01:48:49
+
+gente teve diferentes desafios, mas na
+ 01:48:52
+
+necessidade de fazê-lo, a gente foi
+ 01:48:55
+
+incorporando no cotidiano e ele acabou
+ 01:48:56
+
+se se caindo por terra as maiores
+ 01:48:59
+
+dificuldades de tecnologia, de
+ 01:49:01
+
+interrelações. Eu acho que o principal é
+ 01:49:04
+
+esse letramento
+ 01:49:06
+
+digital, Felipe. É, foi muito na base da
+ 01:49:08
+
+enjambração, não é? Eh, na época da
+ 01:49:11
+
+pandemia eu usava caixas de verdura com
+ 01:49:14
+
+TNT e lâmpadas dentro para fazer o
+ 01:49:17
+
+cromaquin tem uma boa iluminação e
+ 01:49:21
+
+permiti fazer um croma aqui. Hoje eu tô
+ 01:49:22
+
+com duas lâmpadas aqui, uma de cada
+ 01:49:24
+
+lado, lâmpadas de plástico aí, tipo
+ 01:49:26
+
+naquele aquelas tubulares compridas que
+ 01:49:29
+
+faz uma iluminação muito boa mesmo sem
+ 01:49:31
+
+ter janela, mas é são lâmpadas, não é?
+ 01:49:33
+
+lâmpadas até certo ponto baratas aí,
+ 01:49:35
+
+coisa de R$ 20 uma lâmpada dessa aí e
+ 01:49:37
+
+consegue uma iluminação muito boa. Se
+ 01:49:40
+
+fosse comprar uma lâmpada com a
+ 01:49:42
+
+temperatura de cor adequada,
+ 01:49:46
+
+com aí a gente tá falando na ordem de R$
+ 01:49:48
+
+500 cada uma. Eh, eh, câmera, muitas
+ 01:49:51
+
+vezes o próprio celular, não é? E essas
+ 01:49:55
+
+essas tecnologias vão ajudando. Na época
+ 01:49:58
+
+da da ainda da da lives, eu peguei um
+ 01:49:59
+
+controle de videogame que se instal que
+ 01:50:03
+
+tinha conexão com o
+ 01:50:06
+
+o
+ 01:50:08
+
+computador e ele vi USB, não é? E e com
+ 01:50:10
+
+aquele controle eu conseguia manejar as
+ 01:50:13
+
+as telas, não é? É isso que o Ezequiel tá
+ 01:50:16
+
+fazendo aqui. Vi, eu uso a observação, eu usava
+ 01:50:17
+
+um controle remoto de videogame
+ 01:50:20
+
+adaptado, falava, pirava com aquilo. Mas
+ 01:50:22
+
+assim, a enjambração era uma maneira de
+ 01:50:24
+
+agilizar o processo, que a gente mais ou
+ 01:50:26
+
+menos codificava o a função de cada
+ 01:50:29
+
+botão daquele e apertava e e mudava de
+ 01:50:31
+
+cena de forma muito ágil.
+ 01:50:33
+
+Eh, a mesma coisa que o Leandro tava
+ 01:50:37
+
+falando ali dos microfones. Cheguei a
+ 01:50:39
+
+usar eh fone de ouvido cortado como como
+ 01:50:41
+
+latela, não é, que tem um efeito muito bom.
+ 01:50:44
+
+A grande dificuldade sempre foi essa do
+ 01:50:48
+
+vento, não é, de ter fazer a proteção, mas
+ 01:50:49
+
+também a gente sempre vai procurando
+ 01:50:52
+
+alternativas e e
+ 01:50:54
+
+adaptações. E toma aí até hoje, não é? Eu
+ 01:50:57
+
+acho que hoje até percebemos lá no o no
+ 01:50:59
+
+na no evento em Santa Maria, conseguiu
+ 01:51:02
+
+fazer a transmissão só com celular,
+ 01:51:06
+
+coisa que um tempo atrás tava não tinha
+ 01:51:08
+
+essas condições. Então a própria
+ 01:51:10
+
+tecnologia vai facilitando pra gente. É
+ 01:51:11
+
+que hoje o Felipe tem aquele microfone
+ 01:51:15
+
+chique, não é, Ezequiel?
+ 01:51:16
+
+Ah, sim. Não é agora. Agora funcionaria.
+ 01:51:18
+
+Esse ali não conta, não é? Ele é que é por
+ 01:51:21
+
+isso que eu falei da evolução, não é? A
+ 01:51:24
+
+gente vai começando, depois você vai
+ 01:51:26
+
+aprimorando. Primeiro tu começa, não é,
+ 01:51:28
+
+Leandro? Palavra tá contigo
+ 01:51:30
+
+também. Vai lá, Leandro. Vou deixar
+ 01:51:38
+
+concl. Conclu, Felipe. Conclui. Te
+ 01:51:40
+
+cortei aí. Não, concluído. Concluído.
+ 01:51:41
+
+Não, eu quero dizer que na linha do que
+ 01:51:45
+
+eles falaram, eh, primeira coisa, a
+ 01:51:47
+
+gente já tem na extensão, a gente tem a
+ 01:51:49
+
+linguagem extensionista. Por que que eu
+ 01:51:52
+
+dei o exemplo do meu colega Bassani lá
+ 01:51:54
+
+com 38 anos de extensão e eu me inspirei
+ 01:51:56
+
+nele lá para aprender a falar com
+ 01:51:58
+
+produtor em linguagem extensionista? E
+ 01:52:00
+
+eu falei, ele talvez ele nunca criou um
+ 01:52:02
+
+conteúdo digital, ele era contra. Ele
+ 01:52:04
+
+achava que a gente, ele é da época que
+ 01:52:06
+
+tu fazia planejamento porrageiro com
+ 01:52:08
+
+folha, com papel, tu ia lá na
+ 01:52:11
+
+propriedade, e ficava fazendo conta,
+ 01:52:12
+
+matéria seca e tal, com papel, não era
+ 01:52:14
+
+nem computador. Quando começou os
+ 01:52:16
+
+sistemas, não é, matéria e tal, ele achava
+ 01:52:18
+
+ruim porque o extensionista passava
+ 01:52:20
+
+muito tempo na frente do computador e
+ 01:52:21
+
+pouco no campo. Eu lembro que ele
+ 01:52:23
+
+defendia isso, ele é dessa
+ 01:52:24
+
+época. E aí, ã, mas um cara que domina a
+ 01:52:26
+
+linguagem extensionista, que se eu
+ 01:52:30
+
+filmasse ele falando numa reunião com
+ 01:52:31
+
+produtores, com microfonezinho de
+ 01:52:33
+
+lapela, não é? e colocasse no meu canal no
+ 01:52:35
+
+YouTube, seria sensacional o cara com
+ 01:52:37
+
+domínio de linguagem, com habilidade de
+ 01:52:40
+
+fala, não é, com com dicção boa, com
+ 01:52:43
+
+consegue articular, consegue ter empatia
+ 01:52:46
+
+no momento que ele tá falando para ver
+ 01:52:49
+
+se o pessoal tá falando e tal. Por quê?
+ 01:52:51
+
+Porque, poxa vida, tantos anos falando
+ 01:52:53
+
+com produtores, tu aprende essas coisas,
+ 01:52:55
+
+não é? E a e aí sorte minha de de conviver
+ 01:52:57
+
+com esses extensionistas mais
+ 01:53:00
+
+experientes que eu, que pude me espelhar
+ 01:53:02
+
+neles e aprender isso. O que eu fiz foi,
+ 01:53:03
+
+eu trago isso hoje pras redes sociais,
+ 01:53:06
+
+eu trago isso hoje pro meu canal no
+ 01:53:08
+
+YouTube, não é? Eu aprendi isso e eu levei
+ 01:53:09
+
+isso pro meu canal no YouTube. Então, o
+ 01:53:11
+
+principal a gente tem, só que tem uma
+ 01:53:13
+
+coisa que nos trava como extensionistas,
+ 01:53:14
+
+que é quando dá play na câmera. O cara
+ 01:53:18
+
+tem toda desenvoltura, toda a
+ 01:53:21
+
+habilidade. Se eu filmasse uma
+ 01:53:23
+
+apresentação dele lá sem ele saber,
+ 01:53:24
+
+ficaria um espetáculo. Agora, se eu
+ 01:53:26
+
+botar um microfone na frente dele, ligar
+ 01:53:28
+
+uma câmera e dizer: "Fala agora". Olá,
+ 01:53:30
+
+eu sou o Leandro Ebert e eu
+ 01:53:34
+
+extensionista aqui da Imater de Júrio de
+ 01:53:37
+
+Castilhos. Tu tu trava, tu vai dar
+ 01:53:41
+
+entrevista e tal, uma câmera, tu tu fica
+ 01:53:43
+
+apavorado e tu trava. E essa é uma
+ 01:53:45
+
+barreira que a gente tem. E eu tenho uma
+ 01:53:48
+
+experiência com isso. Eu tenho uma
+ 01:53:50
+
+experiência com isso. Eu posso falar
+ 01:53:51
+
+disso porque eu antes de ser
+ 01:53:53
+
+extensionista eu era eu eu participava
+ 01:53:55
+
+de invernadas artísticas gaúchas. Então
+ 01:53:58
+
+eu fui músico, eu toquei, eu cantei, eu
+ 01:54:01
+
+apresentava grupos de dança. Então eu já
+ 01:54:02
+
+falava em microfone, eu tinha essas
+ 01:54:04
+
+habilidades. E eu era declamador de
+ 01:54:06
+
+poesias. E como declamador de poesias,
+ 01:54:08
+
+eu tive uma fase que eu fui professor de
+ 01:54:11
+
+declamação de crianças e jovens.
+ 01:54:14
+
+E a primeira coisa que eu fazia, que eu
+ 01:54:17
+
+vi, é que eu levava uns poeminha lá pras
+ 01:54:21
+
+crianças declamar para elas decorarem. E
+ 01:54:23
+
+daí elas decoravam e falavam comigo.
+ 01:54:26
+
+Quando eu botava elas no palco. Eu tinha
+ 01:54:28
+
+um grupo, não me lembro, 10, 20 jovens
+ 01:54:30
+
+que eu tocava pro CTG e dava aula de
+ 01:54:32
+
+declamação, trabalho voluntário meu. E
+ 01:54:34
+
+aí ele subiu no palco para falar
+ 01:54:37
+
+e mata chimarrão que eu não sei o quê.
+ 01:54:41
+
+começava a falar assim mecanizado, sabe?
+ 01:54:45
+
+porque tavam no palco e quando eles
+ 01:54:47
+
+estavam lá embaixo comigo ali decorando,
+ 01:54:49
+
+eles falavam direitinho e e aí eu e aí
+ 01:54:51
+
+eu vi que o problema era o palco. Daí eu
+ 01:54:55
+
+comecei a fazer o seguinte, eu eu
+ 01:54:57
+
+montava um pedestal e um microfone, eu
+ 01:54:59
+
+levava o meu violão, amplificava na
+ 01:55:01
+
+caixa de som e todo o ensaio nosso era
+ 01:55:03
+
+uma apresentação no palco no microfone
+ 01:55:06
+
+para eles perderem medo do microfone.
+ 01:55:08
+
+Perderem medo do palco. E aí essas
+ 01:55:11
+
+crianças elas voaram, elas voaram, foram
+ 01:55:14
+
+campeão de tudo que é rodeio, de
+ 01:55:18
+
+declamação. Teve campeão do estado de
+ 01:55:20
+
+Santa Catarina, eu tava em Santa
+ 01:55:22
+
+Catarina na época, eh, que aprendeu
+ 01:55:23
+
+comigo lá no início, perdendo esse medo
+ 01:55:26
+
+do microfone. E eles confiavam em mim,
+ 01:55:28
+
+então eles chegavam no palco e eu ele,
+ 01:55:30
+
+porque às vezes o cara chegava no palco,
+ 01:55:32
+
+tô me estendendo aí, mas eu só vou
+ 01:55:34
+
+contar isso aí, chegava no palco
+ 01:55:36
+
+pedestal, não é? Ele tava assim, daí o
+ 01:55:37
+
+gurizinho chegava lá pequenininho aqui,
+ 01:55:40
+
+ó.
+ 01:55:42
+
+E aí o microfone ficava lá em cima e o
+ 01:55:43
+
+cara falando aqui embaixo. Isso eu via
+ 01:55:45
+
+nos rodeios e tal, quando o pessoal ia
+ 01:55:47
+
+declamar, cadê a câmera? Tá aqui, ó.
+ 01:55:49
+
+Tava aqui embaixo, não tava alcançando
+ 01:55:51
+
+lá o microfone. Daí eu ensinei eles a
+ 01:55:53
+
+regular o a altura do microfone. Então
+ 01:55:55
+
+eles chegavam lá pá pá com toda a
+ 01:55:57
+
+segurança. Alô alô som dois. Tinha gente
+ 01:56:00
+
+que nem falava alô som e saía blá blá
+ 01:56:03
+
+blá. Saía declamando, tudo errado. Então
+ 01:56:05
+
+isso o pessoal pegou segurança de falar.
+ 01:56:07
+
+E isso tem a ver com aquilo que a gente
+ 01:56:09
+
+falou ali no início de tu começar,
+ 01:56:11
+
+talvez a primeira vez que tu vai falar
+ 01:56:14
+
+como eu ali nem era minha primeira vez
+ 01:56:15
+
+aquele vídeo que eu mostrei, eu comecei:
+ 01:56:18
+
+"Olá, eu sou o engenheiro agrônomo,
+ 01:56:19
+
+Leandro Herbert, ah, e hoje eu tô aqui."
+ 01:56:21
+
+Aí eu não olhava muito pra câmera, não é?
+ 01:56:24
+
+Meio com vergonha, é, para mostrar aqui
+ 01:56:26
+
+as suas pastagens e não sei o quê, sabe?
+ 01:56:28
+
+Ã, mas eu evoluí. Hoje eu falo olhando
+ 01:56:31
+
+pra câmera, eu falo com veemência, com
+ 01:56:33
+
+segurança. Às vezes eu me revolto que eu
+ 01:56:36
+
+me revolteio ali e tal. Isso é natural.
+ 01:56:38
+
+É assim que eu sou e como eu sou na
+ 01:56:42
+
+frente da câmera. Então a gente precisa
+ 01:56:43
+
+perder esse medo. É o primeiro ponto. Tu
+ 01:56:45
+
+só perde o medo fazendo. Você começar a
+ 01:56:48
+
+fazer os primeiros vídeos e tal e
+ 01:56:50
+
+mandar. Não, não tenha vergonha, não é? Se
+ 01:56:51
+
+tu conseguir transformar isso em
+ 01:56:54
+
+natural, melhor. Daí tem um segundo
+ 01:56:56
+
+passo, tá? da o primeiro é esse. Se tu
+ 01:56:58
+
+tem um celular que filma, se tu tem um
+ 01:57:01
+
+um fone que tem um microfone, pode botar
+ 01:57:03
+
+ele aqui, ó, no ouvido aqui, ó, que
+ 01:57:06
+
+casta e tal, ou grava sem o fone
+ 01:57:07
+
+inicialmente, não é? Mas aí tu tem que ter
+ 01:57:10
+
+eh capricho. Tu olha aquele teu vídeo e
+ 01:57:13
+
+tu vê, bá, quem sabe no próximo eu vou
+ 01:57:17
+
+ali. Ficou mal iluminado, ficou mal
+ 01:57:20
+
+enquadrado. Eu fiquei pro canto lá e
+ 01:57:22
+
+baixinho assim. No próximo eu vou
+ 01:57:24
+
+enquadrar um pouco melhor. Eh, o áudio
+ 01:57:25
+
+ficou ruim, tinha muito vento. No
+ 01:57:27
+
+próximo eu vou do lado de uma parede do
+ 01:57:28
+
+galpão que daí o vento não pega. Eh, bá,
+ 01:57:30
+
+quem sabe eu e assim vai. Assim tu vai
+ 01:57:33
+
+melhorando. Ficou pouco iluminado. Vou
+ 01:57:36
+
+abrir aquela janela. Eu tô com a janela
+ 01:57:37
+
+aberta aqui, ó, que dá a minha
+ 01:57:39
+
+iluminação lateral que o Felipe botou
+ 01:57:40
+
+umas luzes lá. Tô usando uma janela aqui
+ 01:57:43
+
+numa sala que na M tem essa janela boa
+ 01:57:45
+
+aqui que me ilumina de lado aqui que é
+ 01:57:47
+
+uma iluminação muito boa. Então com
+ 01:57:48
+
+capricho tu vai aprendendo e vai
+ 01:57:51
+
+melhorando o teu conteúdo até poxa, eu
+ 01:57:53
+
+comecei, eu nem comecei em 2014, comecei
+ 01:57:56
+
+na matéria em 2014. Eu tava lembrando
+ 01:57:58
+
+ontem com o Ezequiel que tem um vídeo
+ 01:58:00
+
+meu de 2013 ainda na faculdade de
+ 01:58:02
+
+agronomia que eu tô lá mostrando o
+ 01:58:04
+
+software rural pro como uma disciplina
+ 01:58:06
+
+de ensino aprendizagem mediada por
+ 01:58:08
+
+tecnologias. Ele tá lá no YouTube. Ah, e
+ 01:58:10
+
+aí a gente vai melhorando. Então, tu tem
+ 01:58:14
+
+que primeiro perder o medo, depois tem
+ 01:58:16
+
+que ter esse capricho. E esse capricho,
+ 01:58:18
+
+ele tem que tá junto do, eu gosto desse
+ 01:58:20
+
+exemplo que é o professor Cloves de
+ 01:58:23
+
+Barros Filho, é o filósofo, aquele vídeo
+ 01:58:25
+
+que viralizou dele, que ele fala que tu
+ 01:58:28
+
+tem que ter bri, sabe? Tu como assim tu
+ 01:58:30
+
+não entendeu? Como assim tu leu e tu não
+ 01:58:34
+
+entendeu? Tu é, tu não é burro, tu tem
+ 01:58:37
+
+duas pernas, tu tem dois ouvidos, tu tem
+ 01:58:40
+
+um cérebro que funciona. Como tu não
+ 01:58:42
+
+conseguiu entender? Tu tem que entender.
+ 01:58:44
+
+E cada vez que eu passo uma dificuldade
+ 01:58:46
+
+disso, eu lembro do Mário Sérgio, mas tu
+ 01:58:48
+
+tem que ter bri por quê? Ah, eu falei e
+ 01:58:50
+
+ficou enrolado e ficou com vento. Mas
+ 01:58:53
+
+como é que os caras consegue lá botar no
+ 01:58:56
+
+YouTube vídeo falando bobagem e atender
+ 01:58:58
+
+e alcançar milhões de pessoas falando
+ 01:59:01
+
+bobagem? E eu que tenho conhecimento
+ 01:59:03
+
+técnico que falo com os produtores aqui
+ 01:59:05
+
+no interior, na comunidade, na visita,
+ 01:59:07
+
+no escritório, não consigo. Caramba, por
+ 01:59:09
+
+eu sou mais burro que eles? Eu não sou,
+ 01:59:13
+
+eu trabalho com os agricultores aqui
+ 01:59:15
+
+direto. Eu dou orientação o tempo todo.
+ 01:59:17
+
+Por que que eu consigo dizer pro
+ 01:59:19
+
+agricultor e não consigo dizer pra
+ 01:59:20
+
+câmera que é o agricultor que vai olhar,
+ 01:59:22
+
+não é? Tu tem que ter bri. Então, quando
+ 01:59:24
+
+tiver bril, tu vai tentar melhorar. Tu
+ 01:59:26
+
+vai olhar lá, olha, bá, ficou ruim o
+ 01:59:28
+
+áudio nesse. No próximo eu vou dar um
+ 01:59:30
+
+jeito. Daí se eu tiver que cortar e
+ 01:59:31
+
+fazer um microfone e botar um feltro,
+ 01:59:34
+
+botei um feltro aqui, ó, pro vento.
+ 01:59:36
+
+Ficou meio abafadinho, mas ajudou, não é? E
+ 01:59:38
+
+tiver que improvisar um parafuso no no
+ 01:59:41
+
+no trado, sabe? Tu vai criar porque tu
+ 01:59:45
+
+tem bril, tu tem vontade de resolver
+ 01:59:47
+
+aquilo ali, sabe? Fiquei segurando no
+ 01:59:49
+
+pau de selfie, a câmera ficou tremida,
+ 01:59:51
+
+então se eu botar um tripé, mas eu não
+ 01:59:53
+
+tenho, não é? E criei o negócio, sabe? tu
+ 01:59:55
+
+tiver vontade, tu vai melhorando. Então,
+ 01:59:57
+
+começa por aí, começa primeiro, perde o
+ 01:59:59
+
+medo, depois tu vai melhorando. Mas tem
+ 02:00:02
+
+que buscar, gente. O YouTube tá cheio de
+ 02:00:04
+
+coisa. O Zap Rural já falou ali, eles
+ 02:00:07
+
+têm no canal deles, eles tem um monte de
+ 02:00:09
+
+aula explicando como gravar um áudio com
+ 02:00:11
+
+qualidade,
+ 02:00:14
+
+ão, vídeo. Tem aula de edição, não é,
+ 02:00:16
+
+Felipe? Tem material lá falando do
+ 02:00:18
+
+software de edição. Eu não sei editar,
+ 02:00:20
+
+eu errei ali, vou ter que gravar tudo de
+ 02:00:22
+
+novo. Não, corta, corta aquele erro e
+ 02:00:24
+
+segue o baile, não é? Então tu um mínimo a
+ 02:00:26
+
+edição ali, tu consegue, sabe? Mas tem
+ 02:00:29
+
+que ter esse bril de melhorar, não é? E por
+ 02:00:31
+
+que que eu vou fazer isso? Se eu não
+ 02:00:33
+
+ganho para isso, não é? Isso é uma pergunta
+ 02:00:34
+
+que me fazem. Leandro, tu não ganha para
+ 02:00:36
+
+isso. Teu trabalho é no escritório
+ 02:00:38
+
+municipal. Eu faço isso. Vocês viram por
+ 02:00:39
+
+quê? Porque trabalhando com os
+ 02:00:42
+
+agricultores ali, quando eu fiz um
+ 02:00:43
+
+boletim técnico, eu cheguei em 30 e
+ 02:00:45
+
+poucos produtores mandando um PDF de um
+ 02:00:48
+
+boletim técnico. Aí depois eu mandei um
+ 02:00:50
+
+áudio explicando. Eu cheguei nesses
+ 02:00:52
+
+produtores. Quando eu fui visitar, eles
+ 02:00:54
+
+já estavam fazendo. Se eu fosse visitar
+ 02:00:55
+
+30 e poucos produtores para passar
+ 02:00:58
+
+aquela recomendação, eu ia levar o quê?
+ 02:00:59
+
+Uma semana, 15 dias, só fazendo isso. Em
+ 02:01:03
+
+15 dias eles já deviam ter feito as
+ 02:01:06
+
+coisas, eram imediatas. Então eu ia
+ 02:01:08
+
+perder o time. E aí quando eu criei um
+ 02:01:10
+
+conteúdo digital e mandei para eles, eu
+ 02:01:12
+
+acelerei esse processo, tá? Eu acelerei
+ 02:01:15
+
+esse processo. Então é uma ferramenta
+ 02:01:18
+
+que potencializa o teu trabalho de
+ 02:01:20
+
+campo. É por isso que tu tem que criar
+ 02:01:22
+
+conteúdo. Não que todos os
+ 02:01:24
+
+intencionistas vão criar conteúdos.
+ 02:01:26
+
+Alguns não não tem vergonha, não tem
+ 02:01:27
+
+essa habilidade, mas quem tem essa essa
+ 02:01:29
+
+quem tem essa vontade, quem acha que
+ 02:01:32
+
+conseguiria, começa começa depois nos
+ 02:01:34
+
+chama, olha os materiais lá, quer quer
+ 02:01:37
+
+trocar uma figurinha com a gente aí
+ 02:01:40
+
+chama.
+ 02:01:41
+
+Muito bom, muito bom. Vou passar pro Zi
+ 02:01:43
+
+que ele daqui, ele disse que daqui já
+ 02:01:46
+
+tem que fazer um almoço dele daqui um
+ 02:01:48
+
+pouco, não é? Mas azar é dele. Ninguém
+ 02:01:49
+
+mandou com chamar a gente para cá. Te
+ 02:01:51
+
+vira. Vai lá, pessoal. Life maravilhosa,
+ 02:01:53
+
+não é? Como Ezequiel falou na divulgação
+ 02:01:57
+
+dessa live, é uma live histórica. Bom, e
+ 02:02:00
+
+sendo uma live histórica, claro que a
+ 02:02:03
+
+gente vai fazer essa live, um capítulo
+ 02:02:05
+
+de livro ou talvez até um livro só, não é?
+ 02:02:07
+
+Essa live acho que dá um livro só ali,
+ 02:02:10
+
+não é? Então vocês estão de parabéns. Eu só
+ 02:02:12
+
+queria comentar duas coisinhas que me
+ 02:02:14
+
+chamaram atenção no que mais me chamaram
+ 02:02:17
+
+atenção durante a live, não é? Uma foi o
+ 02:02:20
+
+trado com o celular. Eu acho que é uma
+ 02:02:22
+
+foto poderosíssima, não é? O trdo se tem
+ 02:02:25
+
+uma foto e o celular, o trado, o celular
+ 02:02:29
+
+em cima. É poderosíssima essa foto. E a
+ 02:02:32
+
+segunda coisa foi o que o Leandro falou
+ 02:02:35
+
+da questão de a gente enviar pros
+ 02:02:37
+
+produtores rurais um material
+ 02:02:40
+
+mais eh complexo, um material mais eh
+ 02:02:43
+
+detalhado sobre a prática, não é? Isso isso
+ 02:02:47
+
+me chamou muito atenção, não é? E eu
+ 02:02:50
+
+gostaria muito depois, não é?
+ 02:02:52
+
+tentar desenvolver essa ideia também,
+ 02:02:54
+
+não é? Ele deu uns indicativos muito
+ 02:02:56
+
+interessantes ali, não é? Você tem que
+ 02:02:59
+
+combinar com eles, não é? Você tem que
+ 02:03:00
+
+sentir essa demanda, não é? Então eu achei
+ 02:03:02
+
+muito legal porque a gente tem aquela
+ 02:03:05
+
+ideia de que trabalhar com o curto,
+ 02:03:06
+
+curto, curto, curto, curto, não é? Mas o
+ 02:03:08
+
+Leandro não, ele falou: "Não, tem lugar
+ 02:03:10
+
+por longo também, só que tem que saber
+ 02:03:11
+
+fazer isso, não é?" Então o Leandro tá de
+ 02:03:13
+
+parabéns nesse sentido, tá? Pessoal,
+ 02:03:15
+
+vocês estão de parabéns. O trabalho de
+ 02:03:18
+
+vocês são maravilhosos, entendeu? vocês
+ 02:03:19
+
+hoje são os dois, os três que estão aqui
+ 02:03:22
+
+com a gente, os dois programas são a
+ 02:03:24
+
+ponta de lança do do que há de mais
+ 02:03:26
+
+moderno hoje na educação, nos
+ 02:03:29
+
+territórios rurais via eh comunicação
+ 02:03:32
+
+digital, entendeu? Isso não tenho dúvida
+ 02:03:35
+
+nenhuma, sabe? Vocês estão de parabéns,
+ 02:03:36
+
+tá? Palavra com vocês, não é? Como o
+ 02:03:39
+
+Ezequiel falou, eu tenho que fazer o
+ 02:03:41
+
+almoço daqui a pouco.
+ 02:03:42
+
+Então, uma palavra final para cada um de
+ 02:03:44
+
+vocês, já que o Zuin tem que fazer o
+ 02:03:47
+
+almoço, não é? Acabou com a nossa
+ 02:03:48
+
+brincadeira aqui. Então vamos lá.
+ 02:03:50
+
+Palavra final. Até pra live. Nós estamos
+ 02:03:52
+
+brincando, obviamente, até pra live não
+ 02:03:54
+
+ficar muito muito gigante também.
+ 02:03:55
+
+Obrigada para encurtar que tá todo mundo
+ 02:03:58
+
+precisando fazer o almoço. Eh, sempre
+ 02:04:01
+
+maravilhoso estar com vocês. Vocês são a
+ 02:04:04
+
+inspiração pra gente, não é? Professor Zuin
+ 02:04:07
+
+é o nosso mestre que nos ensina todos os
+ 02:04:10
+
+dias, que nos acolhe. E e eu acho que o
+ 02:04:13
+
+desenvolver disso é essa coletividade,
+ 02:04:16
+
+esse partilhar, esse compartilhar com
+ 02:04:19
+
+todas as frentes. O Ezequiel é o nosso
+ 02:04:21
+
+impulsionador das
+ 02:04:24
+
+multiplataformas. Então é muito bom
+ 02:04:26
+
+estar em casa. Nós somos uma
+ 02:04:28
+
+coletividade múltipla aqui. Eu acho que
+ 02:04:31
+
+se soma o conhecimento e estamos aqui
+ 02:04:33
+
+para aprender mais e conseguir
+ 02:04:36
+
+compartilhar com mais pessoas para que
+ 02:04:38
+
+não tenham medo e venham, não é, para esse
+ 02:04:40
+
+caminho e se utilizem das ferramentas
+ 02:04:43
+
+que já existem, dos trados que estão aí
+ 02:04:45
+
+na carroceria do carro que vai pra
+ 02:04:47
+
+visita, não é? Não perder a oportunidade de
+ 02:04:50
+
+utilizar as ferramentas que já tem.
+ 02:04:53
+
+Muito obrigada pela oportunidade e a
+ 02:04:55
+
+gente segue à disposição.
+ 02:04:57
+
+Só reforçar assim, não é, que esses
+ 02:05:00
+
+encontros são importantes. Eh, nesses
+ 02:05:02
+
+encontros a gente acaba se conhecendo,
+ 02:05:04
+
+desenvolvendo novos projetos. Eh, alguns
+ 02:05:06
+
+materiais. Tô produzindo hoje, eu e a
+ 02:05:09
+
+Flávia produzindo hoje em parceria com o
+ 02:05:11
+
+Leendo, principalmente na área de
+ 02:05:14
+
+pastagem com Votatino, materiais mais
+ 02:05:16
+
+longos, mais complexos já saíram nessa
+ 02:05:18
+
+nesse sentido, não é? Então é muito
+ 02:05:20
+
+importante esses encontros que não
+ 02:05:22
+
+acontece só aqui ao vivo, acontece muito
+ 02:05:24
+
+mais nos bastidores, não é? Então agradeço
+ 02:05:26
+
+mais uma vez a oportunidade e até a
+ 02:05:29
+
+próxima.
+ 02:05:31
+
+Muito bem. Então eu quero dizer pro Zoin
+ 02:05:37
+
+ali do vídeo longo e curto que eu fui e
+ 02:05:39
+
+voltei, não é, Zuin? Eu comecei
+ 02:05:41
+
+com live, com videoconferência, daí eu
+ 02:05:44
+
+fui encurtando, daí eu fiz o 90 segundos
+ 02:05:48
+
+da ciência. Aliás, primeiro eu fiz o
+ 02:05:50
+
+conversa com o extensionista, que era
+ 02:05:52
+
+15, 20 minutos, aí depois eu vi que 15,
+ 02:05:53
+
+20 minutos era muito longo, aí eu fui
+ 02:05:56
+
+pro 90 segundos de ciência e
+ 02:05:59
+
+curiosamente agora eu voltei pro pro
+ 02:06:01
+
+Agora não é 20 minutos, agora é na faixa
+ 02:06:03
+
+de 10 minutos por sentir essa demanda. E
+ 02:06:05
+
+eu tenho visto realmente isso, tá? Eu
+ 02:06:08
+
+sigo sigo obviamente pessoas que pensam
+ 02:06:09
+
+isso, não é? E eu tenho visto que talvez as
+ 02:06:12
+
+pessoas estão cansando um pouco de
+ 02:06:14
+
+daquele excesso de conteúdo tão curto,
+ 02:06:17
+
+uma explosão ali com um monte de edição
+ 02:06:19
+
+e e tuchu tiu tiu e tu vê um monte de
+ 02:06:21
+
+informação rapidamente e estão querendo
+ 02:06:23
+
+criar conexão porque o vídeo longo ele
+ 02:06:26
+
+te dá essa possibilidade de tu criar
+ 02:06:28
+
+conexão mesmo. O vídeo do Felipe lá do
+ 02:06:29
+
+Rotatino que é 12 minutos é a voz dele
+ 02:06:32
+
+contando. Ele conta que ele que ele
+ 02:06:34
+
+trabalhou, ele começa assim, não é? Daí ele
+ 02:06:36
+
+me encontrou e daí vai pra parte
+ 02:06:38
+
+técnica. Então tem tu tem um um tempo a
+ 02:06:40
+
+mais para criar essa conexão ali, não é,
+ 02:06:42
+
+que tu cria, como tu cria nos stories e
+ 02:06:45
+
+tal, tu consegue criar uma comunidade no
+ 02:06:47
+
+no vídeo um pouco mais longo, mas isso
+ 02:06:50
+
+não é isso tem técnica realmente. E aí
+ 02:06:52
+
+eu fui estudar as técnicas de YouTube.
+ 02:06:55
+
+Hoje eu brinco que eu sou youtuber
+ 02:06:56
+
+porque eu considero já eu tenho um canal
+ 02:06:58
+
+do YouTube que tá crescendo em 4 meses.
+ 02:07:00
+
+Aí eu tenho mais de 2.000 seguidores. Já
+ 02:07:02
+
+já passei de não me lembro quantas mil
+ 02:07:05
+
+visualizações, não é? Tenho vídeos com mais
+ 02:07:08
+
+de 10.000 1 visualizações, vídeos
+ 02:07:10
+
+longos, não é, sem contar os shorts. Então,
+ 02:07:11
+
+além do meu trabalho aqui, eu tenho
+ 02:07:15
+
+conseguido realmente criar uma
+ 02:07:17
+
+comunidade, criar um envolvimento e um
+ 02:07:20
+
+alcance com o YouTube de uma forma que
+ 02:07:22
+
+eu até eu não imaginava, porque eu
+ 02:07:25
+
+consigo realmente explicar o negócio,
+ 02:07:27
+
+sabe? E se é um negócio que é complexo
+ 02:07:29
+
+para meia hora, para uma hora, tu vai
+ 02:07:31
+
+separando em tópicos e vai fazendo
+ 02:07:33
+
+vídeos um por semana, não é, e não
+ 02:07:34
+
+continuados, mas que tu puxa, olha,
+ 02:07:37
+
+agora esse é o tema de agora. E tu faz
+ 02:07:39
+
+um vídeo sobre sobre esse tema. Então eu
+ 02:07:41
+
+fui e voltei. Eu tenho visto essa
+ 02:07:43
+
+demanda, essa essa necessidade. E eu
+ 02:07:45
+
+quero comentar outra coisa. Eu tava
+ 02:07:48
+
+fazendo uma visita esses dias e daí eu
+ 02:07:50
+
+falei com o produtor
+ 02:07:54
+
+assim, eh, minha visita era sob controle
+ 02:07:55
+
+do carrapato e daí ele tava com um pasto
+ 02:07:57
+
+lá e tal e eu fui falar para ele: "Bah,
+ 02:08:00
+
+ã, ele como é que eu faço os piquetes
+ 02:08:02
+
+ali?" Eu fazia assim. Daí eu fui
+ 02:08:05
+
+explicar para ele e eu perguntei: "Tu
+ 02:08:07
+
+viu o vídeo que eu postei esses dias,
+ 02:08:09
+
+que é esse que eu mostrei um trechinho
+ 02:08:10
+
+aqui, que eu falo de que das divisões
+ 02:08:12
+
+por dia dele?" Eu vi, eu oro todos deu
+ 02:08:15
+
+ótimo. Então tá. Então vamos lá. Agora
+ 02:08:19
+
+vou te ajudar. Porque daí eu parti, dei
+ 02:08:21
+
+a partida do que ele já tinha visto
+ 02:08:23
+
+aquele vídeo, ele já tinha entendido
+ 02:08:25
+
+aquilo lá, não é? Daí eu daí eu perguntei:
+ 02:08:27
+
+"Tu tem olhado, então? Tu tem
+ 02:08:30
+
+acompanhado?" Disse: "Sim, eu olho
+ 02:08:31
+
+todos. Eu tenho YouTube na minha TV, na
+ 02:08:33
+
+sala e eu não assisto TV normal. Eu
+ 02:08:35
+
+assisto streaming, eu assisto Netflix,
+ 02:08:38
+
+eu assisto não sei o quê e eu assisto
+ 02:08:40
+
+YouTube. Daí eu me inscrevi no teu canal
+ 02:08:42
+
+no celular. Quando tu posta um vídeo
+ 02:08:44
+
+novo, eu ligo no YouTube, na TV e
+ 02:08:45
+
+aparece lá que tu postou o vídeo novo,
+ 02:08:47
+
+eu clico, eu assisto o vídeo na TV
+ 02:08:49
+
+enquanto eu tô tomando café da tarde.
+ 02:08:51
+
+Então o YouTube mais uma barreira de
+ 02:08:55
+
+entrada, não é, Felipe? Que a gente rompe
+ 02:08:58
+
+porque a gente sai da tela, do celular
+ 02:09:00
+
+que o produtor não usa notebook,
+ 02:09:03
+
+computador, não é? E a gente entra na TV do
+ 02:09:05
+
+cara. A gente entra na TV, na Smart TV
+ 02:09:08
+
+da sala do cara lá enquanto ele tá
+ 02:09:11
+
+tomando café. E é, e são vários aqui que
+ 02:09:12
+
+me deram esse relato que olham na TV, na
+ 02:09:15
+
+Smart TV. Então, a gente tá tentando
+ 02:09:17
+
+acessar esse pessoal. Ã, e essa é uma
+ 02:09:21
+
+forma que eu encontrei aí que tem que
+ 02:09:24
+
+tem dado certo. Então, eu finalizo
+ 02:09:26
+
+dizendo que eh comecem a fazer quem acha
+ 02:09:29
+
+que consegue, quem não tem tanta
+ 02:09:32
+
+vergonha, principalmente quem gosta de
+ 02:09:34
+
+um pouquinho da edição e tal, comece a
+ 02:09:36
+
+fazer. E tem um outro medo que tem que
+ 02:09:38
+
+eu não falei que não é só a câmera tá
+ 02:09:40
+
+ligada, que é a responsabilidade
+ 02:09:42
+
+técnica. Porque uma coisa eu falar para
+ 02:09:44
+
+um grupo de cinco, seis produtores ou
+ 02:09:46
+
+numa visita e outra eu tenho que ter
+ 02:09:48
+
+cuidado com aquilo que eu falo aqui, que
+ 02:09:49
+
+agora vai pro livro, então imagina tudo
+ 02:09:51
+
+que eu falei aqui, não é, para onde que
+ 02:09:53
+
+pode ir. Então, a responsabilidade que
+ 02:09:56
+
+eu tenho sobre isso que eu tô falando.
+ 02:09:58
+
+Porém, eu quero lembrar vocês todos que
+ 02:10:00
+
+não interessa se tu tá lá numa visita
+ 02:10:05
+
+falando para um produtor, se tu tá numa
+ 02:10:06
+
+palestra para 1000 pessoas ou se tu tá
+ 02:10:09
+
+no YouTube para um público infinito que
+ 02:10:11
+
+as possibilidades são infinitas. De
+ 02:10:15
+
+qualquer forma, tu tem responsabilidade
+ 02:10:17
+
+sobre o que tu tá falando. No meu caso,
+ 02:10:20
+
+sou engenheiro, eu tenho meu CREA, tá?
+ 02:10:22
+
+Eu tenho meu registro profissional, eu
+ 02:10:24
+
+represento uma academia, não é, que me que
+ 02:10:27
+
+que me antecedeu e que gerou o conteúdo,
+ 02:10:30
+
+o conhecimento científico na área
+ 02:10:34
+
+agronômica, o conhecimento teórico eh
+ 02:10:37
+
+eh, que gerou e que me formou, que me
+ 02:10:39
+
+deu meu diploma lá na FSM para eu poder
+ 02:10:42
+
+me atuar como agrônomo. Então, eu tenho
+ 02:10:45
+
+responsabilidade sobre aquilo que eu
+ 02:10:48
+
+falo. Então, não é nada assustador. Se
+ 02:10:50
+
+tu pensar dessa forma, porque quando tu
+ 02:10:54
+
+fala lá pro agricultor, talvez que nem o
+ 02:10:56
+
+cuidado que eu tive aqui é de não falar
+ 02:10:58
+
+o nome da da da pessoa que os que os
+ 02:10:59
+
+professores tentaram, disseram para não
+ 02:11:03
+
+postar conteúdos, não é? Esse é o cuidado.
+ 02:11:05
+
+Mas o o negócio eu falo, eu falo, falo
+ 02:11:08
+
+em público porque é uma informação que
+ 02:11:10
+
+eu tive e que me que me preocupa um
+ 02:11:12
+
+pouco essa visão. Então não é, se nós
+ 02:11:14
+
+pensarmos, é um cuidado a mais, mas não
+ 02:11:17
+
+é tão difícil. A gente já tem
+ 02:11:19
+
+responsabilidade técnica. Então, eh,
+ 02:11:20
+
+basta romper essa barreira do de falar
+ 02:11:23
+
+fisicamente lá, porque o que tu tá
+ 02:11:25
+
+falando numa visita, num atendimento,
+ 02:11:27
+
+numa reunião, provavelmente interessa
+ 02:11:29
+
+para aquele produtor, mas interessa para
+ 02:11:32
+
+muito mais gente. Aquela mesma coisa que
+ 02:11:34
+
+tu tá dizendo, provavelmente interessa
+ 02:11:37
+
+para muito mais gente. Então, se tu
+ 02:11:39
+
+levar isso para pro ambiente digital, tu
+ 02:11:41
+
+tá ajudando a disseminar essas
+ 02:11:44
+
+informações que a gente como
+ 02:11:46
+
+extensionistas tem.
+ 02:11:47
+
+Valeu pela oportunidade, Sorzinho,
+ 02:11:49
+
+Ezequiel, Felipe, Flávio, é uma honra
+ 02:11:52
+
+estar aqui com vocês falando,
+ 02:11:54
+
+eh, ouvindo mais do que falando. É uma
+ 02:11:56
+
+honra porque e eu venho tentando, não é,
+ 02:12:00
+
+fazer e a gente chegou até aqui meio que
+ 02:12:04
+
+juntos. Algumas coisas a gente fez
+ 02:12:06
+
+parecidas ali de improvisar o microfone,
+ 02:12:08
+
+de gravar dentro do carro e que bom que
+ 02:12:10
+
+a gente se uniu, não é? Legal. e que e
+ 02:12:13
+
+tomar que mais gente se una a gente
+ 02:12:15
+
+nessa missão.
+ 02:12:17
+
+Muito bom, muito bom. Parabéns aí a
+ 02:12:19
+
+todos aqui. E o que importa dizer assim
+ 02:12:21
+
+desse grupo em comum aqui que assim já
+ 02:12:24
+
+para não se delongar, mas para fazer o
+ 02:12:27
+
+fechamento é que todos têm uma história.
+ 02:12:29
+
+Eles não, eles não estão aqui porque
+ 02:12:31
+
+começaram ontem. Eles tiveram uma
+ 02:12:33
+
+história de de erros e acertos e foram
+ 02:12:35
+
+chegando para hoje estar aqui o Felipe
+ 02:12:38
+
+falando de altas edições, de
+ 02:12:41
+
+programação, o Leandro da evolução dele
+ 02:12:43
+
+enquanto enquanto gravar vídeo e tal. E
+ 02:12:46
+
+a Flávia, a Flávia não não comenta, mas
+ 02:12:48
+
+ela disse que já foi professora da IAD
+ 02:12:51
+
+há muito tempo atrás. Então isso tudo
+ 02:12:53
+
+tem uma trajetória, não começou ontem.
+ 02:12:55
+
+Então é óbvio que nossos primeiros
+ 02:12:57
+
+vídeos, nossas primeiras inserções, não
+ 02:13:00
+
+são as melhores, não é? Então, eh, se você
+ 02:13:02
+
+começar, você pode aí amanhã tá
+ 02:13:05
+
+impactando, eh, o público que você
+ 02:13:07
+
+trabalha, principalmente aqui falando da
+ 02:13:09
+
+na nossa nossos agricultores, nossas
+ 02:13:12
+
+famílias, nossas comunidades
+ 02:13:14
+
+quilombolas, nossos públicos assistidos
+ 02:13:15
+
+aqui da área de extensão rural. Então é
+ 02:13:17
+
+isso, gente. É, muito obrigado pela
+ 02:13:20
+
+presença de todos e dizer que toda
+ 02:13:22
+
+quarta-feira nesse mesmo canal, nesse
+ 02:13:24
+
+mesmo bate horário, estamos aqui
+ 02:13:25
+
+conversando com mais um especialista
+ 02:13:27
+
+sobre extensão rural no Brasil e no
+ 02:13:29
+
+mundo. Um abraço e até a próxima
+ 02:13:31
+
+oportunidade. Ciao. Ciao.
+ 02:13:33

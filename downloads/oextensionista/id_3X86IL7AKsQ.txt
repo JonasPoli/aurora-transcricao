@@ -1,0 +1,9 @@
+video_id: 3X86IL7AKsQ
+video_url: https://www.youtube.com/watch?v=3X86IL7AKsQ
+title: Envelhecimento da Agricultura Familiar?  Êxodo? 🍂 🌱 ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/0270099238670182
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/20/2022

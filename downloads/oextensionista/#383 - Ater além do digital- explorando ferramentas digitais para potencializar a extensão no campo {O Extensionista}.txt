@@ -1,0 +1,8303 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:01
+
+agricultores e agricultoras jovens Rais
+ 00:00:04
+
+pesquisadores professores acadêmicos e
+ 00:00:07
+
+demais públicos aqui presentes sejam
+ 00:00:09
+
+novamente todos muito bem-vindos meu
+ 00:00:12
+
+nome é Ezequiel redim professor de
+ 00:00:14
+
+extensão Rural e quem está aqui conosco
+ 00:00:16
+
+hoje é o Professor luí Fernando Soares
+ 00:00:18
+
+Zuin da USP o fundador da rede Aurora
+ 00:00:21
+
+juntamente com o nosso convidado que é
+ 00:00:23
+
+hoje o nosso grande extensional
+ 00:00:25
+
+engenheiro agrônomo Coreia Ebert da
+ 00:00:28
+
+imater do Estado do Rio Grande do Sul
+ 00:00:31
+
+todos aqui excelentes profissionais na
+ 00:00:33
+
+área de extensão rural no Brasil e É
+ 00:00:34
+
+nesse dia 18 de outubro estamos em mais
+ 00:00:36
+
+um ciclo de diálogos em ater digital
+ 00:00:39
+
+Semeando propostas e compartilhando
+ 00:00:42
+
+saberes nossos eventos buscam
+ 00:00:44
+
+identificar e propor caminhos
+ 00:00:47
+
+metodológicos para Os Atuais elementos e
+ 00:00:50
+
+condicionantes que determinam os
+ 00:00:53
+
+processos de transferência e
+ 00:00:55
+
+compartilhamento de novas tecnologias
+ 00:00:57
+
+nos Os territórios rurais da América
+ 00:00:59
+
+Latina e alguns países Como Portugal
+ 00:01:01
+
+Espanha Luxemburgo e África a nossa Live
+ 00:01:04
+
+de hoje é intitulada ater além do
+ 00:01:07
+
+digital explorando ferramentas digitais
+ 00:01:10
+
+para potencializar a extensão no campo
+ 00:01:13
+
+essa Live é uma iniciativa então do
+ 00:01:16
+
+portal extensionista e da rede Aurora de
+ 00:01:17
+
+diálogos em ater digital na América
+ 00:01:20
+
+Latina e também com todos os apoiadores
+ 00:01:22
+
+que vocês podem conferir aqui abaixo da
+ 00:01:24
+
+descrição desse vídeo sejam todos muito
+ 00:01:26
+
+bem-vindos professores Leandro é um
+ 00:01:28
+
+prazer estar compartilhando seus
+ 00:01:31
+
+conhecimentos conosco desde já o nosso
+ 00:01:33
+
+Muito obrigado e passo a palavra ao
+ 00:01:35
+
+professor Zuin bom dia a todos e a todas
+ 00:01:37
+
+um prazer muito grande estar aqui com
+ 00:01:40
+
+vocês hoje não é Professor Ezequiel tenho
+ 00:01:41
+
+certeza que hoje a gente vai ter uma uma
+ 00:01:44
+
+palestra muito bacana Leandro é um
+ 00:01:47
+
+extensionista que tem um talento enorme
+ 00:01:49
+
+para comunicação e um interesse também
+ 00:01:52
+
+muito grande paraa divulgação Científica
+ 00:01:55
+
+nos territórios rurais n Então a gente
+ 00:01:57
+
+vai ver como é que ele faz isso hoje
+ 00:02:00
+
+tenho certeza que a gente vai aprender
+ 00:02:02
+
+muito com ele Leandro meu querido seja
+ 00:02:03
+
+muito bem-vindo a palavra é sua muito
+ 00:02:06
+
+bem
+ 00:02:09
+
+eh saudações a todos todos que estão nos
+ 00:02:10
+
+acompanhando eu já vou pedir aqui como
+ 00:02:13
+
+quem é digital pro pessoal dar um
+ 00:02:15
+
+oizinho ali no chat pra gente ver quem
+ 00:02:17
+
+que tá aí se apresentar não é ver da onde
+ 00:02:19
+
+que é e quem é
+ 00:02:21
+
+eh Agradeço ao ao professor Zuin a
+ 00:02:24
+
+professor Ezequiel a rede Aurora ao
+ 00:02:27
+
+portal extensionista pela oportunidade
+ 00:02:29
+
+de compartilhar a minha experiência aqui
+ 00:02:31
+
+com esse tema eu que sou sou entusiasta
+ 00:02:34
+
+não é quando o professor me convidou lá eu
+ 00:02:37
+
+já falei bá eu sou um entusiasta
+ 00:02:39
+
+entusiasta desse tema gosto bastante
+ 00:02:41
+
+vamos ver se a gente consegue aí agendar
+ 00:02:44
+
+eh organizar para que para que isso
+ 00:02:47
+
+aconteça
+ 00:02:49
+
+Eh meu nome é Leandro
+ 00:02:50
+
+Hebert eu sou o tema que eu vou falar
+ 00:02:52
+
+então eu dei esse título não é que é até
+ 00:02:56
+
+além do digital deixa eu compartilhar a
+ 00:03:00
+
+minha apresentação aqui já PR gente
+ 00:03:02
+
+poder Ah Pera aí que botar na
+ 00:03:06
+
+apresentação agora vai aí pode botar
+ 00:03:11
+
+para mim na
+ 00:03:15
+
+tela pode botar na aí até além do
+ 00:03:17
+
+digital explorando ferramentas digitais
+ 00:03:21
+
+para potencializar a extensão no campo
+ 00:03:24
+
+por que que eu dei esse título não é
+ 00:03:27
+
+pensando no que que eu ia falar para
+ 00:03:30
+
+vocês aqui hoje o Além do digital não é É
+ 00:03:31
+
+porque e a gente já trabalha com digital
+ 00:03:34
+
+o digital ele já está presente no campo
+ 00:03:38
+
+ele já é realidade ele potencializou com
+ 00:03:41
+
+a pandemia mas ao meu ver o desafio Hoje
+ 00:03:43
+
+é a gente conseguir associar essas duas
+ 00:03:48
+
+coisas que é levar o digital usar o
+ 00:03:50
+
+digital para o mundo real para que não
+ 00:03:55
+
+fique só no digital o primeiro Desafio
+ 00:03:58
+
+Foi eu diria que foi tá hã eh eh levar o
+ 00:04:02
+
+meio Rural trazer pro digital não é usar as
+ 00:04:08
+
+ferramentas digitais não é levar pros
+ 00:04:12
+
+produtores paraos agricultores para nós
+ 00:04:15
+
+extensionistas e tal Hoje eu vejo que o
+ 00:04:16
+
+desafio é fazer uma conexão entre essas
+ 00:04:19
+
+duas coisas para que elas não fiquem
+ 00:04:21
+
+soltas depois daquele Boom inicial da
+ 00:04:23
+
+pandemia lá com um monte de lives com
+ 00:04:25
+
+com tudo tudo praticamente tudo digital
+ 00:04:28
+
+a gente sentiu falta do do físico do
+ 00:04:30
+
+real e e ficou ao meu ver uma uma certa
+ 00:04:33
+
+desconexão que a gente vem tentando
+ 00:04:37
+
+achar formas de ligar uma coisa a outra
+ 00:04:39
+
+não é de transformar o digital que não
+ 00:04:42
+
+fique lá só na rede social ou só no no
+ 00:04:45
+
+aplicativo ou que tu fique colocando
+ 00:04:48
+
+dados em um ou que um sensor Leia dados
+ 00:04:50
+
+e jogue para um sistema que eu vejao num
+ 00:04:53
+
+aplicativo mas que eu possa transformar
+ 00:04:56
+
+isso em prática no dia a dia dia e é
+ 00:04:58
+
+esse desafio que a gente vem tentando
+ 00:05:00
+
+trabalhar hoje na no campo
+ 00:05:03
+
+eh inclusive A Emater a minha
+ 00:05:06
+
+instituição é uma das visões hoje da
+ 00:05:09
+
+Emater eh é
+ 00:05:11
+
+essa essa conexão com as com as
+ 00:05:14
+
+tecnologias não é da informação
+ 00:05:17
+
+eh digitais da informação e comunicação
+ 00:05:19
+
+eh também passando por essas fases que
+ 00:05:23
+
+eu comentei brevemente
+ 00:05:26
+
+hã
+ 00:05:28
+
+eu como eu falei eu sou um entusiasta
+ 00:05:31
+
+disso não é e eu comecei Eu tenho 9 anos
+ 00:05:33
+
+deem Mater e nesses 9 anos mudou muito a
+ 00:05:35
+
+forma de fazer extensão Rural Então quem
+ 00:05:41
+
+é mais antigo que eu que a maioria na
+ 00:05:43
+
+imater porque eu sou egresso do último
+ 00:05:45
+
+concurso que teve na imater teve está
+ 00:05:47
+
+tendo um concurso agora Teve a
+ 00:05:50
+
+prova que que vão entrar novos
+ 00:05:52
+
+extensionistas na Emater mas o último
+ 00:05:55
+
+concurso foi esse que eu fiz foi 2014 14
+ 00:05:57
+
+então eu sou da turma dos mais jovens não é
+ 00:06:00
+
+mais mais mais novos de Mater com menos
+ 00:06:03
+
+anos deemer dos colegas então eu já
+ 00:06:05
+
+peguei mudanças bastante drásticas
+ 00:06:08
+
+nesses quase 10 anos e quem tá há mais
+ 00:06:10
+
+tempo que eu viu um um a forma de fazer
+ 00:06:12
+
+extensão Rural mudar drasticamente nos
+ 00:06:15
+
+últimos anos Quem fazia a forma de fazer
+ 00:06:18
+
+há 10 anos já era completamente
+ 00:06:20
+
+diferente de hoje e eu posso dizer que
+ 00:06:23
+
+eu estive sempre procurando eh não só
+ 00:06:26
+
+acompanhar essas mudanças
+ 00:06:32
+
+eh que seria uma forma de reagir às
+ 00:06:35
+
+mudanças que estão acontecendo no mundo
+ 00:06:38
+
+mas de de desenvolver ajudar a
+ 00:06:40
+
+desenvolver as mudanças que é o que eu
+ 00:06:44
+
+costumo dizer que é a
+ 00:06:47
+
+proatividade procurei ser proativo
+ 00:06:48
+
+nesses anos para integrar as soluções
+ 00:06:51
+
+que vão aparecendo as oportunidades que
+ 00:06:54
+
+vão aparecendo na extensão rural na
+ 00:06:56
+
+rotina do dia a dia e é isso que eu
+ 00:06:59
+
+quero apresentar hoje para
+ 00:07:01
+
+vocês aqui com base na minha experiência
+ 00:07:03
+
+e não por acaso eu trouxe essa primeira
+ 00:07:07
+
+foto aqui essa é a primeira foto que eu
+ 00:07:10
+
+tenho na
+ 00:07:12
+
+Emater Isso aqui é uma reunião da
+ 00:07:13
+
+chamada pública do leite um contrato que
+ 00:07:16
+
+é em matéria executável de 2014 a 2017
+ 00:07:18
+
+eu cheguei na primeira reunião minha ess
+ 00:07:21
+
+que era o meu supervisor na época aqui
+ 00:07:24
+
+uma reunião com os produtores eu tava
+ 00:07:26
+
+ali só mechendo numa planilha ali
+ 00:07:28
+
+passando os slides e ele tava
+ 00:07:30
+
+apresentando não é eu tava chegando e foi
+ 00:07:33
+
+esse Público aqui de agricultores do
+ 00:07:36
+
+município de Fagundes Varela uma
+ 00:07:40
+
+produtores de leite pequenos produtores
+ 00:07:42
+
+de leite que com com quem eu comecei a
+ 00:07:44
+
+fazer extensão Rural e com quem eu
+ 00:07:48
+
+comecei a a trabalhar com dessa forma o
+ 00:07:50
+
+primeiro trabalho foi focado obviamente
+ 00:07:54
+
+não é em abilidade então aqui tão alguns a
+ 00:07:57
+
+produtividade leiteira que aumentou
+ 00:08:01
+
+utilizando pastagens com diminuição de
+ 00:08:04
+
+custos a gente começou lá uma região
+ 00:08:06
+
+Serra Gaúcha uma região
+ 00:08:09
+
+declivosas com propriedades pequenas mão
+ 00:08:11
+
+de obra familiar então a gente começou a
+ 00:08:13
+
+trabalhar com pastagens permanentes por
+ 00:08:16
+
+causa do relevo acidentado isso começou
+ 00:08:18
+
+a dar bastante
+ 00:08:20
+
+resultado já em 2016 indo pro fim Aquela
+ 00:08:23
+
+aquele projeto aquela chamada pública
+ 00:08:27
+
+nós começamos um programa Estadual aqui
+ 00:08:29
+
+de gestão sustentável da Agricultura
+ 00:08:32
+
+Familiar que focava na gestão não é na
+ 00:08:35
+
+adequação socioeconômica e ambiental das
+ 00:08:39
+
+propriedades
+ 00:08:40
+
+eh e a e com essa experiência que a
+ 00:08:41
+
+gente tinha na chamada do leite ali que
+ 00:08:44
+
+nós tínhamos resultados excelentes em em
+ 00:08:46
+
+produtividade em renda em permanência
+ 00:08:50
+
+das famílias na atividade que era o
+ 00:08:52
+
+principal objetivo nós resolvemos
+ 00:08:54
+
+ampliar isso para mais famílias a partir
+ 00:08:56
+
+do programa de gestão e esse foi um Case
+ 00:08:59
+
+Estadual eu vou falar mais dele que é a
+ 00:09:02
+
+família Binda
+ 00:09:04
+
+Ah virou um Case Estadual do programa de
+ 00:09:06
+
+gestão com esse nome transformando
+ 00:09:09
+
+pastagens em lucro em que em que a gente
+ 00:09:11
+
+expandiu daqueles pequenos produtores lá
+ 00:09:14
+
+com relevo mais acidentado daquelas
+ 00:09:16
+
+comunidades aqui propriedades também
+ 00:09:18
+
+pequenas mas já com um relevo um pouco
+ 00:09:20
+
+diferente com condição de trabalhar de
+ 00:09:22
+
+uma forma diferente e vejam os
+ 00:09:26
+
+resultados que a gente teve não é isso aqui
+ 00:09:27
+
+eu apresentei num dia de Campo lá um
+ 00:09:29
+
+aumento na renda Agrícola de
+ 00:09:31
+
+540 de um ano pro outro isso é renda
+ 00:09:33
+
+agrícola anual isso aqui é metodologia
+ 00:09:36
+
+do valor agregado não é por isso que é a
+ 00:09:38
+
+renda
+ 00:09:40
+
+agrícola a partir dessas experiências
+ 00:09:43
+
+aqui todas desse trabalho com os
+ 00:09:46
+
+produtores com reuniões com visitas
+ 00:09:48
+
+desenvolvendo ações com com
+ 00:09:50
+
+recomendações com assistência técnica e
+ 00:09:52
+
+extensão Rural
+ 00:09:54
+
+eh surgiu a demanda pod expandir isso
+ 00:09:56
+
+para mais
+ 00:10:00
+
+produtores lá no município e foi nesse
+ 00:10:01
+
+momento que a gente optou lá a equipe da
+ 00:10:05
+
+Emater do município de Fagundes Varela
+ 00:10:07
+
+eu falei o município tem 2700 habitantes
+ 00:10:10
+
+nós começamos esse projeto que nós
+ 00:10:13
+
+chamamos de GT leite que inicialmente
+ 00:10:14
+
+era por um grupo técnico do leite da
+ 00:10:17
+
+bovina cultura de leite em Fagundes
+ 00:10:19
+
+Varela e o objetivo desse trabalho era
+ 00:10:22
+
+eh mais do que reuniões e tal era propor
+ 00:10:25
+
+intervenção direta nas propriedades para
+ 00:10:29
+
+alcançar resultados efetivos era fazer
+ 00:10:32
+
+as coisas acontecerem não era dar uma
+ 00:10:35
+
+reunião uma palestra ou ir lá na
+ 00:10:37
+
+propriedade e dizer que poderia fazer
+ 00:10:39
+
+isso não é Fazer o que a gente
+ 00:10:40
+
+combinasse com os produtores e aliados à
+ 00:10:43
+
+apropriação dos conhecimentos pela
+ 00:10:47
+
+família para obviamente para que eles
+ 00:10:49
+
+possam se desenvolver também e não
+ 00:10:51
+
+depender da recomendação do técnico
+ 00:10:53
+
+especialmente então a gente bolou uma
+ 00:10:57
+
+estratégia que requeria as visitas da do
+ 00:10:59
+
+extensionista lá para fazer os
+ 00:11:04
+
+diagnósticos para propor as intervenções
+ 00:11:06
+
+as recomendações não é e momentos de
+ 00:11:08
+
+capacitação e de troca de experiência
+ 00:11:13
+
+isso aqui são reuniões em propriedades
+ 00:11:15
+
+do projeto que a gente fazia
+ 00:11:17
+
+ã para para mostrar as atividades que a
+ 00:11:20
+
+gente tava fazendo nas propriedades não é
+ 00:11:24
+
+para qualificar eles e para para trocar
+ 00:11:27
+
+as experiências entre eles e algumas
+ 00:11:29
+
+capacitações assim mesmo ó de
+ 00:11:31
+
+capacitação não é que não necessariamente
+ 00:11:33
+
+na propriedade que momento de
+ 00:11:35
+
+capacitação momento de troca de
+ 00:11:37
+
+experiências com isso Nós já tínhamos um
+ 00:11:39
+
+grupo de produtores maior com eh
+ 00:11:41
+
+eh que a gente vinha aumentando e um
+ 00:11:46
+
+trabalho individual um trabalho que que
+ 00:11:49
+
+que requer uma dedicação individual a
+ 00:11:51
+
+cada um mais do que somente a reunião ou
+ 00:11:54
+
+a capacitação não é o método coletivo
+ 00:11:56
+
+método coletivo sim não é mas requeria
+ 00:11:59
+
+também um trabalho individual um olhar
+ 00:12:01
+
+para cada propriedade para cada família
+ 00:12:03
+
+não é com sua propriedade para cada família
+ 00:12:04
+
+com sua propriedade e foi nesse momento
+ 00:12:07
+
+que que eu que surgiu a ideia de nós
+ 00:12:11
+
+começar a usar o smartphone tava bem
+ 00:12:14
+
+incipiente tava bem em início ainda essa
+ 00:12:17
+
+notícia er de 2018 mas a gente começou a
+ 00:12:20
+
+usar em 2017
+ 00:12:22
+
+eh que tanto que no início alguns nem
+ 00:12:25
+
+tinham smartphone ainda com WhatsApp ou
+ 00:12:29
+
+com com acesso à internet não é era aqueles
+ 00:12:31
+
+antigos o telefone da Emater era de
+ 00:12:34
+
+Botão não era esses ainda não é então eu
+ 00:12:37
+
+usava o meu
+ 00:12:39
+
+e e e surgiu a ideia de
+ 00:12:41
+
+trabalhar usando aqui isso aqui é um dos
+ 00:12:44
+
+produtores lá o o Felipe na propriedade
+ 00:12:47
+
+aqui ele tá usando aqui o grupo do
+ 00:12:51
+
+WhatsApp aqui ó do GT Elite da qu Mater
+ 00:12:53
+
+de fagondes e eu tô lá fazendo alguma
+ 00:12:56
+
+outra coisa ali tava tirando a foto ali
+ 00:12:59
+
+tava vindo olhar alguma outra coisa e
+ 00:13:01
+
+como é que foi a proposta de nós começar
+ 00:13:04
+
+usar uma coisa que hoje parece tão mas
+ 00:13:06
+
+usar o smartphone a gente usa o tempo
+ 00:13:09
+
+todo mas na época não era na época não
+ 00:13:11
+
+se tinha conhecimento de trabalhos em
+ 00:13:14
+
+que os produtores usassem n essas
+ 00:13:17
+
+ferramentas com a gente de uma forma
+ 00:13:20
+
+metodológica eu usava o o WhatsApp as
+ 00:13:23
+
+mensagens e coisa com os produtores de
+ 00:13:27
+
+forma individual ainda também muito
+ 00:13:29
+
+incipiente porque nem todos tinham não
+ 00:13:32
+
+sabiam usar mas não era uma coisa
+ 00:13:34
+
+organizada e ao mesmo tempo como esse
+ 00:13:36
+
+trabalho vinha crescendo ele vinha
+ 00:13:38
+
+aumentando a gente percebeu algumas
+ 00:13:40
+
+dificuldades para acompanhar essas
+ 00:13:42
+
+propriedades primeiro produtor sem
+ 00:13:44
+
+hábito de realizar anotações ou de
+ 00:13:47
+
+utilizar essas anotações não é Às vezes o
+ 00:13:50
+
+produtor anota ele anota lá que ele
+ 00:13:53
+
+comprou tanto de ou que a vaca foi
+ 00:13:57
+
+inseminada dia tal mas e depois não não
+ 00:14:00
+
+não como não tem uma forma de
+ 00:14:04
+
+sistematizar e organizar essas anotações
+ 00:14:05
+
+não sabe usar depois essa informação que
+ 00:14:08
+
+Ele anotou e a maioria não tem ato de
+ 00:14:11
+
+anotar ou anotar muito pouco e a gente
+ 00:14:13
+
+precisava organizar isso
+ 00:14:16
+
+a uma forma de organizar seria começar a
+ 00:14:19
+
+usar computadores ou planilhas que a
+ 00:14:22
+
+gente fez porém o produtor tem
+ 00:14:24
+
+dificuldade de usar então isso Cai Pro
+ 00:14:27
+
+extensionista não é a gente cai pro
+ 00:14:30
+
+extensionista precisa necessidade de
+ 00:14:34
+
+dedicação de tempo do técnico para
+ 00:14:36
+
+buscar para organizar para processar os
+ 00:14:38
+
+dados de todos os produtores e ainda se
+ 00:14:41
+
+possível às vezes buscar para anotar
+ 00:14:43
+
+mesmo buscar aqui eu digo não só de lá
+ 00:14:45
+
+buscar os dados com eles mas de às vezes
+ 00:14:48
+
+tentar resgatar lá o eh qual foi o
+ 00:14:50
+
+medicamento que ele usou não é nas notas
+ 00:14:54
+
+fiscais e tal então isso re é uma
+ 00:14:56
+
+dedicação que nós como extensionistas
+ 00:14:58
+
+como eu no Municipal a gente tem uma
+ 00:15:01
+
+série de outras atividades para fazer e
+ 00:15:03
+
+que o tempo vai ficando escasso não é a
+ 00:15:05
+
+gente não tem condições de dedicar
+ 00:15:07
+
+tantas horas
+ 00:15:09
+
+assim e com com tudo isso obviamente há
+ 00:15:10
+
+um desconhecimento de indicadores eu tô
+ 00:15:15
+
+falando em leite eh zootécnicos e
+ 00:15:17
+
+econômicos das suas propriedades das
+ 00:15:20
+
+suas atividades agropecuárias pelos
+ 00:15:22
+
+produtores não não se tem ideia de como
+ 00:15:24
+
+que tá o desenvolvimento da propriedade
+ 00:15:26
+
+porque tu não não tem nenhum tipo de
+ 00:15:28
+
+registro nenhum tipo de
+ 00:15:30
+
+anotação então com Como Nós já estávamos
+ 00:15:33
+
+com o grupo do WhatsApp funcionando
+ 00:15:37
+
+surgiu a ideia de criar um aplicativo ou
+ 00:15:40
+
+site não é online pra gente fazer
+ 00:15:43
+
+o o registro dessas informações então
+ 00:15:47
+
+aqui tá a primeira versão lá do
+ 00:15:51
+
+aplicativo que é o gtl Deon desv
+ 00:15:53
+
+Varela que se tornou uma ferramenta de
+ 00:15:56
+
+gestão Nossa isso aqui é uma notícia do
+ 00:15:59
+
+que saiu no na Zero Hora aqui no campo
+ 00:16:02
+
+aberto contando não é da da Estratégia que
+ 00:16:04
+
+a gente usou ali para para para para
+ 00:16:07
+
+fazer a gestão da propriedade de uma
+ 00:16:10
+
+forma simples e isso foi criando uma uma
+ 00:16:12
+
+repercussão muito grande que nós
+ 00:16:16
+
+estivemos num fórum tecnológico do leite
+ 00:16:19
+
+aqui no município de Teutônia eh eu fui
+ 00:16:22
+
+palestrar sobre o uso de ferramentas
+ 00:16:25
+
+digitais na pecuária com base nessa
+ 00:16:26
+
+experiência e eu chamei a produtora a
+ 00:16:29
+
+Ivania Binda para dar um depoimento lá a
+ 00:16:32
+
+Ivania Binda e a Ivania Binda é essa
+ 00:16:35
+
+produtora que eu falei que virou um Case
+ 00:16:39
+
+Estadual aqui ó é essa produtora que tá
+ 00:16:41
+
+aqui do meu lado aqui da da família
+ 00:16:44
+
+Binda não é que foi um trabalho intensivo
+ 00:16:47
+
+que a gente fez lá com eles de
+ 00:16:51
+
+comunidade de referência e
+ 00:16:52
+
+o quando ela foi lá ela foi contar a
+ 00:16:56
+
+experiência dela então ela ela chamou
+ 00:16:58
+
+tanta atenção que logo depois a Gisele
+ 00:17:02
+
+loblan colunista da da Zero Hora jornal
+ 00:17:06
+
+principal aqui do nosso do Rio Grande do
+ 00:17:09
+
+Sul ela escreveu esse texto por mais
+ 00:17:11
+
+ivanas no campo Gaúcho e destacando não é
+ 00:17:14
+
+porque o que que a Ivânia Contou lá ela
+ 00:17:17
+
+contou que quando a gente começou a
+ 00:17:20
+
+trabalhar com o smartphone ela não tinha
+ 00:17:21
+
+ideia de como mexer naqueles botão
+ 00:17:24
+
+naquele negócio lá e tal ela não tinha
+ 00:17:27
+
+um celular desse daí o Thiago Binda que
+ 00:17:29
+
+é o filho dela ele comprou um smartphone
+ 00:17:32
+
+para ela não é e ensinou ela basicamente a
+ 00:17:35
+
+mexer pelo menos no WhatsApp e no
+ 00:17:39
+
+aplicativo GT leite para que ela pudesse
+ 00:17:42
+
+fazer o envio lá e pudesse trabalhar ali
+ 00:17:44
+
+com a gente no aplicativo para
+ 00:17:47
+
+desenvolver esse trabalho com a gente
+ 00:17:49
+
+então o relato dela lá impactou tanto
+ 00:17:51
+
+tinha 800 pessoas lá todas se ouvia um
+ 00:17:53
+
+grilo cantando
+ 00:17:57
+
+para ouvir o relato que ela tinha não é
+ 00:17:59
+
+Isso foi em dezembro de 2018 então Eh
+ 00:18:01
+
+para ver como as coisas andam rápido não é
+ 00:18:05
+
+Porque hoje a gente falar em usar um
+ 00:18:07
+
+grupo do WhatsApp Por exemplo não é uma
+ 00:18:08
+
+grande coisa mas o aplicativo é e a
+ 00:18:10
+
+grande sacada desse aplicativo ela
+ 00:18:13
+
+surgiu por
+ 00:18:15
+
+quê Porque antes dele eu trabalhava com
+ 00:18:17
+
+planilha certo daí o que que eu fazia eu
+ 00:18:22
+
+deixava imprimia uma ficha para cada mês
+ 00:18:26
+
+e deixava lá pro produtor para ele
+ 00:18:29
+
+anotar para mim quantos litros de leite
+ 00:18:32
+
+vendido quantos quilos de ração quantas
+ 00:18:34
+
+vacas em lactação e assim vai daí ele
+ 00:18:36
+
+anotava naquela folha eu passava lá
+ 00:18:40
+
+buscava aquela folha levava pro
+ 00:18:43
+
+escritório da Emater digitava na
+ 00:18:45
+
+planilha girava o relatório eu voltava
+ 00:18:47
+
+lá na propriedade com o relatório
+ 00:18:50
+
+apresentava os indicadores e discutia
+ 00:18:51
+
+com a família quando a gente estava
+ 00:18:55
+
+usando smartphone
+ 00:18:57
+
+já eu comecei pelo pelos problemas de de
+ 00:18:59
+
+tempo eu comecei a falar com os mais
+ 00:19:03
+
+jovens e dizer para eles assim ó faz o
+ 00:19:05
+
+seguinte
+ 00:19:07
+
+eh faz o seguinte Felipe Felipe ali tira
+ 00:19:09
+
+uma foto do tinha uma foto da folha que
+ 00:19:13
+
+tu anotou e me manda aqui no Whats que
+ 00:19:17
+
+daí eu digito na planilha e com isso eu
+ 00:19:20
+
+poupei o meu tempo em vez de fazer uma
+ 00:19:22
+
+visita só para coletar eu já ia na
+ 00:19:24
+
+visita com um relatório
+ 00:19:27
+
+pronto e aí que eu tive a ideia de opa
+ 00:19:29
+
+mas se eu se ele tá me digitando tá me
+ 00:19:32
+
+anotando num papel quem sabe se eu fizer
+ 00:19:36
+
+uma espécie de formulário num aplicativo
+ 00:19:39
+
+que ele Acesse no Smartphone dele ele
+ 00:19:42
+
+possa digitar direto no no no sistema e
+ 00:19:45
+
+entrar numa planilha para mim E aí eu
+ 00:19:48
+
+criei esse aplicativo que esse Inicial
+ 00:19:51
+
+aqui é é uma planilha aqui ó é uma uma
+ 00:19:55
+
+planilha do Google ele digitava as
+ 00:19:58
+
+informações entra uma planilha para mim
+ 00:20:00
+
+eu copiava lá jogava na planilha de cada
+ 00:20:01
+
+propriedade e já era o relatório aí eu
+ 00:20:04
+
+comecei a mandar o relatório no Whats
+ 00:20:07
+
+pros produtores com uma leitura já um
+ 00:20:10
+
+feedback meu não é E aí o que que a gente
+ 00:20:13
+
+faz eu já mandava já adiantava para eles
+ 00:20:17
+
+olha só aqui ó
+ 00:20:20
+
+eh tal índice aqui tal tal tal melhorou
+ 00:20:21
+
+esse aqui a gente precisa trabalhará e
+ 00:20:25
+
+tal e eu já encaminhava as coisas pra
+ 00:20:27
+
+próxima visita com Muito mais agilidade
+ 00:20:29
+
+isso me fez o quê como antes eu fazia um
+ 00:20:32
+
+monte de visitas para ter isso eu fazia
+ 00:20:34
+
+esse gerenciamento de três propriedades
+ 00:20:37
+
+dessa forma sistematizada com a planilha
+ 00:20:39
+
+eu conseguia fazer três propriedades
+ 00:20:41
+
+quando eu coloquei o aplicativo eu
+ 00:20:44
+
+consegui
+ 00:20:46
+
+fazer para Todas aquelas propriedades
+ 00:20:47
+
+ali para essas 15 propriedades aqui
+ 00:20:50
+
+então isso potencializou o trabalho e
+ 00:20:53
+
+permitiu trabalhar de uma forma eh
+ 00:20:56
+
+continuada de uma forma de intervenção
+ 00:20:59
+
+direta para mais propriedades usando as
+ 00:21:01
+
+ferramentas digitais Ou seja é o Além do
+ 00:21:05
+
+digital a gente tá levando o digital a
+ 00:21:10
+
+ferramenta como ferramenta digital para
+ 00:21:13
+
+transformar a nossa
+ 00:21:15
+
+realidade em
+ 00:21:17
+
+2019 eu me comecei a atuar aqui em outro
+ 00:21:20
+
+município me transferi Por uma questão
+ 00:21:24
+
+pessoal a minha esposa tinha sido
+ 00:21:26
+
+aprovada num concurso na prefeitura E eu
+ 00:21:29
+
+pedi transferência e vim trabalhar aqui
+ 00:21:31
+
+no município de Serafina Correia onde eu
+ 00:21:33
+
+tô até hoje e uma bacia leiteira forte
+ 00:21:35
+
+importantíssima aqui e quando eu cheguei
+ 00:21:38
+
+aqui a gente promoveu uma série de ações
+ 00:21:40
+
+aqui para para para tratar dos problemas
+ 00:21:43
+
+do leite não é vários produtores
+ 00:21:46
+
+abandonando atividade e
+ 00:21:49
+
+tal e inicialmente conversando com os
+ 00:21:51
+
+colegas com os produtores a gente levou
+ 00:21:55
+
+eles para visita visitar os produtores
+ 00:21:57
+
+lá do município de fones Varela que é
+ 00:21:58
+
+perto
+ 00:22:00
+
+aqui e a gente decidiu por tentar
+ 00:22:01
+
+trabalhar da mesma forma que se
+ 00:22:06
+
+trabalhava lá formando um GT leite de
+ 00:22:07
+
+Serafina Correia
+ 00:22:11
+
+eh com essa mesma lógica que eu te
+ 00:22:13
+
+expliquei para vocês o aplicativo as
+ 00:22:16
+
+visitas os momentos de troca de
+ 00:22:18
+
+experiência e de capacitações
+ 00:22:20
+
+não é nós desenvolvemos com a equipe aqui
+ 00:22:23
+
+com o eliazer e meu colega agrônomo que
+ 00:22:25
+
+a equipe amos em dois agrônomos
+ 00:22:28
+
+desenvolvemos um aplicativo nativo não é
+ 00:22:30
+
+que o o online não é na verdade também que
+ 00:22:34
+
+o produtor envia os dados e ele já vê o
+ 00:22:38
+
+relatório automaticamente aquele lá era
+ 00:22:40
+
+um formulário que dependia de eu fazer o
+ 00:22:43
+
+relatório isso aqui é o Gilson Perim da
+ 00:22:46
+
+Granja Perim que é hoje trabalha com a
+ 00:22:48
+
+gente hoje também no projeto Elite apast
+ 00:22:51
+
+e ah a gente disponibilizou essa
+ 00:22:54
+
+ferramenta para Tod todos e começamos a
+ 00:22:57
+
+fazer esse trabalho é momento de de de
+ 00:22:59
+
+capacitação momento de troca de
+ 00:23:01
+
+experiência nas propriedades e por aí
+ 00:23:03
+
+vai
+ 00:23:05
+
+ah porém Ali era 2019 2020 pandemia de
+ 00:23:07
+
+coronavírus Então esse trabalho aqui de
+ 00:23:14
+
+reunir produtores de tá indo lá com eles
+ 00:23:16
+
+isso foi prejudicado por por algum
+ 00:23:20
+
+momento aqui isso teve que ficar em
+ 00:23:22
+
+segundo plano A gente não podia mais não é
+ 00:23:24
+
+Tava suspenso vamos paraa casa
+ 00:23:27
+
+ah por por causa desse trabalho
+ 00:23:32
+
+preliminar que a gente tinha e de eu já
+ 00:23:36
+
+ter construído aqui não é em Serafina
+ 00:23:38
+
+Correa também com eles da gente ter
+ 00:23:41
+
+construído com
+ 00:23:43
+
+eles a gente já tava um pouco mais
+ 00:23:45
+
+preparado para trabalhar com as
+ 00:23:47
+
+ferramentas digitais então num primeiro
+ 00:23:49
+
+momento a gente transferiu esses
+ 00:23:52
+
+encontros que eram físicos para encontro
+ 00:23:55
+
+virtual com com os produtores do GT
+ 00:23:57
+
+leite de Serafina Correia e Para nós
+ 00:24:00
+
+poder dar um atendimento a cada um a
+ 00:24:03
+
+gente começou a organizar aquelas
+ 00:24:07
+
+capacitações que aconteciam presencial
+ 00:24:09
+
+de forma online mas com monitoria para
+ 00:24:11
+
+cada propriedade com com com atividade
+ 00:24:14
+
+prática em cada propriedade usando o
+ 00:24:18
+
+celular deles então aqui a gente usou
+ 00:24:20
+
+Eh esses softwares de de de reunião não é
+ 00:24:22
+
+de de reunião online
+ 00:24:26
+
+mas também a gente usou ambientes de
+ 00:24:28
+
+educação que os professores usam ali não é
+ 00:24:31
+
+de eh de de ambiente Moodle mesmo do do
+ 00:24:33
+
+próprio Google para os produtores poder
+ 00:24:37
+
+eh baixar materiais e tal e os grupos de
+ 00:24:40
+
+WhatsApp pra gente ter troca de
+ 00:24:44
+
+experiência e
+ 00:24:45
+
+eh reunião com a família de forma
+ 00:24:47
+
+virtual que é o que eu podia fazer nesse
+ 00:24:50
+
+momento além da reunião do grupo a gente
+ 00:24:52
+
+fazia reunião com cada família ali não é não é
+ 00:24:55
+
+agendava eles entrarem no celular deles
+ 00:24:58
+
+lá e eu na minha casa a gente fazer
+ 00:25:00
+
+reunião para discutir as coisas as ações
+ 00:25:02
+
+e tal
+ 00:25:04
+
+eh continuamos usando o aplicativo então
+ 00:25:07
+
+isso já tava desenhado antes como eu
+ 00:25:10
+
+falei e capacitações além daquelas do
+ 00:25:12
+
+grupo abertas para mais gente não é para
+ 00:25:15
+
+divulgar as tecnologias para e tal tudo
+ 00:25:18
+
+online A partir dessa experiência aqui
+ 00:25:21
+
+durante o ano 2020 202
+ 00:25:24
+
+um aliás 2020 é que eu com o digital
+ 00:25:28
+
+mais forte é que surgiu a ideia de fazer
+ 00:25:32
+
+uma página profissional minha para
+ 00:25:36
+
+divulgar para para esses esses conteúdos
+ 00:25:40
+
+não é esses conteúdos relacionados ao
+ 00:25:43
+
+trabalho da extensão no campo a minha
+ 00:25:46
+
+experiência de trabalho lá no campo mas
+ 00:25:48
+
+também conteúdos técnicos que a gente
+ 00:25:51
+
+vinha trabalhando com os produtores ali
+ 00:25:53
+
+já usando a gente vinha fazendo por por
+ 00:25:55
+
+exemplo vídeos para mostrar alguma
+ 00:25:57
+
+técnica numa propriedade fazia um vídeo
+ 00:26:00
+
+curto mandava num grupo de Whats não é
+ 00:26:02
+
+gerava um card lá com orientações para
+ 00:26:05
+
+alguma coisa e mandava no no a no grupo
+ 00:26:08
+
+para cada produtor então a gente tinha
+ 00:26:10
+
+muito conteúdo sendo gerado que ficava
+ 00:26:12
+
+só entre nós ali daí surgiu a ideia bom
+ 00:26:14
+
+vou criar uma página e vou aproveitar
+ 00:26:17
+
+esse conteúdo que pode ser útil além
+ 00:26:20
+
+desses produtores para mais produtores e
+ 00:26:22
+
+vou divulgar esses conteúdos lá
+ 00:26:25
+
+não é esses até porque às vezes o vídeo
+ 00:26:28
+
+pesa muito no WhatsApp o produtor não
+ 00:26:30
+
+tem um um celular muito bom não não
+ 00:26:33
+
+consegue fazer download então a gente
+ 00:26:35
+
+hospedava os videozinhos aqui tudo para
+ 00:26:38
+
+para que o povo pudesse ver e manda o
+ 00:26:40
+
+link para eles não é aqui ou no próprio
+ 00:26:42
+
+YouTube E aí isso Começou a ganhar
+ 00:26:46
+
+Impacto não é Isso começou a repercutir e e
+ 00:26:50
+
+a gente comecei não é posso dizer a usar um
+ 00:26:54
+
+pouco do meu humor como o professor eh
+ 00:26:58
+
+comentou não é Eh e fazer os memes porque
+ 00:27:01
+
+isso surgiu do quê das conversas com os
+ 00:27:05
+
+produtores lá a gente vê que poxa vida
+ 00:27:08
+
+quando eu falo em variedades de novas de
+ 00:27:12
+
+pastagem vocês se interessam quando a
+ 00:27:14
+
+gente fala em adubação do só e tal mais
+ 00:27:16
+
+ou menos quando a gente fala em manejo
+ 00:27:19
+
+de pade não querem nem saber aí eu vi
+ 00:27:21
+
+esse meme lá com outras coisas e ó
+ 00:27:24
+
+pronto tá aí o o meme não é e e a gente
+ 00:27:26
+
+começou US começamos a usar essas
+ 00:27:29
+
+ferramentas para chamar atenção pro tema
+ 00:27:31
+
+não é claramente chamando atenção aqui pro
+ 00:27:34
+
+que o manejo de pastagens é
+ 00:27:37
+
+negligenciado esse daqui nem foi pro Ar
+ 00:27:40
+
+ainda ó em primeira mão para vocês aqui
+ 00:27:42
+
+devo botar no meu no meu Instagram por
+ 00:27:45
+
+esses sábados todo sábado eu lanço um
+ 00:27:47
+
+meme novo não é produzir Leite baseado em
+ 00:27:49
+
+ração produzir leite à base de pasto com
+ 00:27:52
+
+suplementação pro Chaves ali não é não é para
+ 00:27:55
+
+chamar atenção isso aqui tem um texto
+ 00:27:57
+
+meu que foi publicado no me Point de uma
+ 00:27:59
+
+palestra minha que é sobre leite à base
+ 00:28:02
+
+de pasto com suplementação
+ 00:28:04
+
+eh ou leite à base de coxo com vacas
+ 00:28:07
+
+soltas que é a tese que a grande parte
+ 00:28:10
+
+dos produtores produz leite à base de de
+ 00:28:13
+
+coxo com vacas soltas isso é um texto
+ 00:28:15
+
+que tá publicado isso aqui é para chamar
+ 00:28:18
+
+atenção para ele depois eu linko pro
+ 00:28:19
+
+texto para quem quiser ter mais
+ 00:28:21
+
+informações e além disso não é conteúdos
+ 00:28:24
+
+técnicos aqui que isso aqui é uma série
+ 00:28:26
+
+de cards ali explicando um pouco sobre
+ 00:28:28
+
+sobr semeadura de gamines de inverno e
+ 00:28:30
+
+perenes de verão o posicionamento dos
+ 00:28:32
+
+materiais e tal que a gente usa
+ 00:28:35
+
+eh algumas frases aqui que é que ajudam
+ 00:28:37
+
+curtas ó ah atenção isso aqui foi um
+ 00:28:40
+
+alerta que eu lancei por causa das
+ 00:28:43
+
+visitas que a gente tava fazendo os
+ 00:28:45
+
+produtores e isso tava acontecendo eu
+ 00:28:46
+
+lancei esse Alerta Muita gente vem me
+ 00:28:48
+
+procurar depois para saber se tuas vacas
+ 00:28:50
+
+estão com histórico mole depois que
+ 00:28:52
+
+começaram a comer pasto do inverno chama
+ 00:28:54
+
+profissional e avalia se não é
+ 00:28:56
+
+necessário diminuir a proteína da Ração
+ 00:28:58
+
+Isso foi um alerta uma frasezinha ali
+ 00:29:00
+
+que gerou um impacto gigantesco depois
+ 00:29:02
+
+para mim e para outros técnicos que os
+ 00:29:04
+
+produtor Bah esse é o meu caso aí chamo
+ 00:29:06
+
+o técnico do laticínio da Emater não é e
+ 00:29:08
+
+avisei os meus também porque eu fui em
+ 00:29:11
+
+três quatro lá que tavam com esse
+ 00:29:13
+
+problema e eu avisei todos os outros ó
+ 00:29:15
+
+dá uma olhada aí porque isso tá
+ 00:29:17
+
+acontecendo dessa forma simples aqui e
+ 00:29:19
+
+prática não é usando a rede social ali para
+ 00:29:22
+
+para para amplificar a mensagem não é
+ 00:29:26
+
+então 2020 final do ano também eh quando
+ 00:29:30
+
+tava liberando um pouco não as
+ 00:29:35
+
+atividades coletivas mas os trabalhos
+ 00:29:36
+
+individuais a gente começou aqui com a
+ 00:29:38
+
+equipe Municipal Serafina Correia o
+ 00:29:41
+
+projeto Elite ap
+ 00:29:44
+
+pasto esse projeto ele leva o nome
+ 00:29:46
+
+completo não é de desenvolvimento da bovina
+ 00:29:49
+
+cultura leiteira com uso de pastagens e
+ 00:29:51
+
+Serafina Correia e ele vem da demanda
+ 00:29:54
+
+dos produt produtores que no trabalho de
+ 00:29:56
+
+gerenciamento aqui que a gente
+ 00:30:00
+
+fazia eles sentiam necessidade de
+ 00:30:02
+
+qualificação específica de um trabalho
+ 00:30:05
+
+específica para os produtores que são a
+ 00:30:08
+
+base de pasto não é Eh e não misturar com
+ 00:30:10
+
+os confinamentos porque S eram demandas
+ 00:30:14
+
+específicas que eles tinham Isso aqui é
+ 00:30:16
+
+uma quando permitiam aqui as as reuniões
+ 00:30:18
+
+a gente a gente fez reuniões usando
+ 00:30:21
+
+máscara não é e tal eh em época de pandemia
+ 00:30:23
+
+em 2021
+ 00:30:26
+
+esse projeto ele tem uma El ele é um
+ 00:30:29
+
+projeto então ele tem
+ 00:30:32
+
+uma um objetivo uma metodologia tem um
+ 00:30:34
+
+cronograma tem resultados esperados e
+ 00:30:37
+
+tal e a parte metodológica aqui a gente
+ 00:30:39
+
+fez essas seis etapas primeiro uma
+ 00:30:42
+
+seleção porque a ideia era um trabalho
+ 00:30:44
+
+individual com cada propriedade bem
+ 00:30:47
+
+aprofundado mas não só não era o
+ 00:30:51
+
+objetivo não era a direta no técnico com
+ 00:30:54
+
+apropriação do conhecimento das famílias
+ 00:30:59
+
+o objetivo tá puxa do título aqui o
+ 00:31:01
+
+objetivo era desenvolver a bovinocultura
+ 00:31:04
+
+leiteira com uso de pastagens em
+ 00:31:07
+
+Serafina Correia é desenvolver um
+ 00:31:09
+
+sistema tá escrito lá no projeto um
+ 00:31:11
+
+sistema de produção sistemas de
+ 00:31:13
+
+produção de leite utilizando pastagens
+ 00:31:17
+
+em Serafina Correia que viabilizem
+ 00:31:21
+
+pequenas e médias
+ 00:31:23
+
+propriedades o objetivo er e esse
+ 00:31:24
+
+desenvolver aqui foi da demanda deles a
+ 00:31:27
+
+gente precisava trazer técnicas trazer
+ 00:31:29
+
+tecnologias aplicar que viabilizem o a
+ 00:31:32
+
+propriedade leiteira em Serafina Correia
+ 00:31:36
+
+E então nós começamos com a seleção
+ 00:31:39
+
+porque os produtores tinham que topar
+ 00:31:42
+
+obviamente participar dessa desse
+ 00:31:43
+
+desenvolvimento com a gente um
+ 00:31:46
+
+diagnóstico individual que consistiu em
+ 00:31:48
+
+uma entrevista profunda que a gente fez
+ 00:31:51
+
+com eles a gente usou aqui a gente
+ 00:31:54
+
+importou algumas coisas da administração
+ 00:31:57
+
+a principal que eu diria para essa etapa
+ 00:31:59
+
+foi a teoria u do Otto charmer quem se
+ 00:32:01
+
+interessa pode ler que é
+ 00:32:04
+
+eh tá num livro não é que é um livro de
+ 00:32:06
+
+como conduzir
+ 00:32:10
+
+eh como conduzir grandes transformações
+ 00:32:11
+
+Ele é professor do Mit e ele desenvolveu
+ 00:32:14
+
+essa teoria u que é para liderar para
+ 00:32:17
+
+que aconteçam grandes transformações
+ 00:32:22
+
+Então como o objetivo era desenvolver a
+ 00:32:23
+
+bovina Cultura leiteira eh a gente
+ 00:32:26
+
+precisava que acontecesse uma uma
+ 00:32:29
+
+transformação uma mudança de mentalidade
+ 00:32:31
+
+e a transformação da forma com que se
+ 00:32:33
+
+trabalhava antes da realidade dessas
+ 00:32:35
+
+propriedades dessas famílias e aí a
+ 00:32:37
+
+gente usou essa principalmente essa
+ 00:32:39
+
+metodologia e obviamente algumas mais
+ 00:32:41
+
+técnicas alí não é depois a sistematização
+ 00:32:43
+
+com eles o nivelamento E o planejamento
+ 00:32:45
+
+e aí execução do plano de ação com cada
+ 00:32:47
+
+um e a avaliação nós executamos isso
+ 00:32:49
+
+tudo e durante o caminho pela pel depois
+ 00:32:53
+
+doss diagnósticos ali com eles a gente
+ 00:32:58
+
+precisava trazer tecnologias trazer
+ 00:33:00
+
+ferramentas trazer conhecimento
+ 00:33:03
+
+científico paraa Nossa prática pras
+ 00:33:04
+
+demandas que eles têm lá
+ 00:33:06
+
+e e a gente fazia antes fazia reuniões
+ 00:33:08
+
+aqui ó
+ 00:33:13
+
+online certo a gente fazia encontros
+ 00:33:15
+
+virtuais esses encontros tinham 1 hora 1
+ 00:33:17
+
+hora e meia de duração e tal e com o
+ 00:33:20
+
+tempo a gente viu isso aqui já era 2021
+ 00:33:23
+
+que os produtores foram cansando de
+ 00:33:26
+
+ficar uma hora na frente do celular com
+ 00:33:29
+
+fone de ouvido ouvindo Live reunião eles
+ 00:33:31
+
+estão acostumados no dia a dia na
+ 00:33:33
+
+prática lá não é então e é diferente de uma
+ 00:33:35
+
+reunião presencial que tu conversa com
+ 00:33:39
+
+os os colegas com com os outros
+ 00:33:41
+
+produtores com extensionista e tal e foi
+ 00:33:43
+
+nesse momento que surgiu a ideia do
+ 00:33:45
+
+conversa com
+ 00:33:48
+
+extensionista por quê Porque a gente eu
+ 00:33:50
+
+comecei a fazer alguns encontros algumas
+ 00:33:52
+
+reuniões em que os produtores
+ 00:33:54
+
+descobriram
+ 00:33:56
+
+que a a reunião ficava gravada Então a
+ 00:33:57
+
+reunião era lá 2 da tarde 1:30 eles não
+ 00:34:01
+
+entravam min me as duas que eles estavam
+ 00:34:04
+
+lá aplicando
+ 00:34:06
+
+esterco e de noite eles pegavam o
+ 00:34:08
+
+celular e começavam a assistir a reunião
+ 00:34:11
+
+e aí como essas reuniões eram reuniões
+ 00:34:13
+
+de trabalho por exemplo Ah nós vamos
+ 00:34:15
+
+estamos entrando no verão agora vamos
+ 00:34:18
+
+tratar sobre o manejo das passagens de
+ 00:34:20
+
+verão principais que a gente usa aqui e
+ 00:34:22
+
+daí eu precisava que eles assistissem
+ 00:34:25
+
+nesse caso não participassem assistissem
+ 00:34:27
+
+porque eles vão assistir depois
+ 00:34:29
+
+assistissem a reunião para eu poder
+ 00:34:31
+
+combinar com cada um na sua propriedade
+ 00:34:33
+
+do que fazer
+ 00:34:35
+
+lá e eles assistiam 20 minutos por dia
+ 00:34:37
+
+eles pegavam de noite assistiam 20
+ 00:34:41
+
+minutos meia hora daí no outro dia
+ 00:34:43
+
+assistiam mais 20 minutos meia hora em
+ 00:34:45
+
+três dias eles terminavam de assistir
+ 00:34:47
+
+uma uma reunião inteira daí eu podia ir
+ 00:34:49
+
+lá conversar com eles daí eu comecei a
+ 00:34:52
+
+pensar bom se as reuniões estão sendo
+ 00:34:54
+
+esvaziadas no ao vivo e Eles assistem
+ 00:34:57
+
+elas gravadas depois eu não preciso
+ 00:35:01
+
+reunir eles eu posso gravar o conteúdo e
+ 00:35:03
+
+mandar o link para eles verem
+ 00:35:08
+
+depois se Eles assistem de 20 minutos à
+ 00:35:10
+
+meia hora por dia eu posso
+ 00:35:13
+
+fazer especificamente de 20 minutos a
+ 00:35:16
+
+meia hora por dia e fracionar e
+ 00:35:19
+
+trabalhando vários pontos um de cada vez
+ 00:35:21
+
+não é de acordo com as nossas demandas e
+ 00:35:24
+
+melhor ainda já que é gravado Eles não
+ 00:35:27
+
+precisam estar e é
+ 00:35:29
+
+online eu posso convidar profissionais
+ 00:35:31
+
+pesquisadores outros extensionistas
+ 00:35:35
+
+outros produtores para gravar ali comigo
+ 00:35:37
+
+não é o conteúdo que me interessa trazer
+ 00:35:43
+
+experts nos assuntos ou experiências
+ 00:35:45
+
+nesses assuntos que eles estão nos
+ 00:35:47
+
+demandando para discutir com a gente ali
+ 00:35:48
+
+e trazer esse conteúdo para eles e foi
+ 00:35:51
+
+assim que surgiu conversa com o
+ 00:35:54
+
+extensionista que é um projeto que era
+ 00:35:55
+
+episódios de 20 a 30 minutos em que Eu
+ 00:35:59
+
+convidava esses profissionais essas
+ 00:36:02
+
+personalidades para tratar de temas
+ 00:36:04
+
+específicos que eu levantava de
+ 00:36:06
+
+problemas reais do campo que eu
+ 00:36:07
+
+levantava lá com eles
+ 00:36:09
+
+eh fiz uma parceria com a Prefeitura de
+ 00:36:11
+
+Serafina Correia inicialmente foi
+ 00:36:13
+
+semanal depois ele eh foi para mensal e
+ 00:36:15
+
+com a rádio Rosário aqui eh para eh que
+ 00:36:19
+
+transmitiam não é o a safina colocava nas
+ 00:36:24
+
+suas redes sociais em vídeo e a rádio
+ 00:36:27
+
+Rosário rodava os áudios então isso nos
+ 00:36:29
+
+permitiu ter um alcance muito grande
+ 00:36:33
+
+porque esses problemas reais dos
+ 00:36:36
+
+produtores aqui do do Elite pasto do GT
+ 00:36:37
+
+Leite eles são também
+ 00:36:40
+
+problemas de outros produtores então a
+ 00:36:42
+
+gente potencializa isso quando a gente
+ 00:36:45
+
+coloca no na internet e na rádio a gente
+ 00:36:47
+
+atinge um outro público que às vezes não
+ 00:36:51
+
+tá no celular lá no smartphone no
+ 00:36:53
+
+YouTube mas que o ouve o programa de
+ 00:36:55
+
+rádio não é aqueles pessoal de mais idade e
+ 00:36:57
+
+tal eles rodavam
+ 00:36:59
+
+ah na rádio todo mundo ouve é a rádio
+ 00:37:02
+
+mais ouvida no interior aqui a rádio
+ 00:37:05
+
+rosá Nossa parceira então a gente
+ 00:37:07
+
+conseguiu ter um alcance muito grande e
+ 00:37:10
+
+coisas por exemplo para dar um exemplo
+ 00:37:12
+
+para vocês tá eu gravei um episódio com
+ 00:37:13
+
+a Mara salford minha colega
+ 00:37:16
+
+extensionista da Emater que hoje está
+ 00:37:18
+
+nossa presidente da
+ 00:37:22
+
+emat sobre silagem de Colosso uma
+ 00:37:23
+
+tecnologia desenvolvida por ela eh
+ 00:37:27
+
+dentro da Emater uma tecnologia Nossa
+ 00:37:29
+
+que foi premiada pela Fundação Bradesco
+ 00:37:32
+
+eh como uma inovação
+ 00:37:34
+
+tecnológica E eu chamei ela para vir
+ 00:37:36
+
+aqui falar sobre como surgiu essa
+ 00:37:39
+
+ferramenta tecnológica não é como é que ela
+ 00:37:41
+
+se aplica e tal conversamos e foi o
+ 00:37:43
+
+episódio poar depois eu tava fazendo uma
+ 00:37:46
+
+uma visita de uma vistoria de proago de
+ 00:37:49
+
+seguro agrícola um produtor que não era
+ 00:37:53
+
+assistido que na verdade eu não conhecia
+ 00:37:54
+
+Serafina Correia mesmo não conhecia
+ 00:37:57
+
+muito bem não é sabia obviamente que era lá
+ 00:37:59
+
+mas não trabalhava com eles e na visita
+ 00:38:01
+
+ele pera aí vem cá que eu quero te
+ 00:38:03
+
+mostrar aqui para tu ver se tá certo e
+ 00:38:05
+
+aí ele foi lá me mostrar os litros lá
+ 00:38:07
+
+desse l de Colosso que ele tava fazendo
+ 00:38:09
+
+que ele ouviu na
+ 00:38:11
+
+rádio e falou pra filha dele que foi lá
+ 00:38:13
+
+no na no canal do YouTube da Prefeitura
+ 00:38:17
+
+e assisti o vídeo e eles fizeram a
+ 00:38:21
+
+silagem de coloso e tava boa Tava
+ 00:38:24
+
+certinho tava bem feita lá porque a
+ 00:38:25
+
+gente passou as recomendações aí eu dei
+ 00:38:27
+
+uns ajustes lá de uso e eles adotaram a
+ 00:38:29
+
+tecnologia d cilag de colostro então eu
+ 00:38:32
+
+fiquei sabendo disso por acaso e assim
+ 00:38:34
+
+eu tenho várias outras histórias não é E e
+ 00:38:36
+
+essa aqui do município de Serafina
+ 00:38:39
+
+Correia mas de muitos lugares muitos
+ 00:38:41
+
+retornos tanto para mim quanto pro pro
+ 00:38:44
+
+outro
+ 00:38:47
+
+participante sobre as tecnologias que a
+ 00:38:48
+
+gente falou ali não é Por exemplo a
+ 00:38:50
+
+adubação desses temas foi um episódio
+ 00:38:52
+
+que marcou muito eh eu recebi muita
+ 00:38:54
+
+muita gente falando que começou a
+ 00:38:58
+
+aplicar e muita gente falando que nunca
+ 00:39:00
+
+tinha visto um conteúdo sobre a adubação
+ 00:39:03
+
+de pastagens tão bom com tanta
+ 00:39:05
+
+informação útil que o cara aplicar lá na
+ 00:39:10
+
+sua propriedade não é E realmente foi para
+ 00:39:12
+
+mim também que mudou a minha forma de
+ 00:39:15
+
+trabalhar a doação de pastagens a partir
+ 00:39:16
+
+desse trabalho ali desse Episódio com a
+ 00:39:18
+
+com a com a professora tangriane a
+ 00:39:22
+
+mandar o tfp do Paraná a partir daquele
+ 00:39:25
+
+Episódio ali a gente adotou no projeto
+ 00:39:27
+
+Elite a pasto a adubação desses temos
+ 00:39:30
+
+como uma ferramenta para doação das
+ 00:39:33
+
+nossas pastagens e nossas
+ 00:39:35
+
+silagens então o Elite pasto ele ganhou
+ 00:39:37
+
+um corpo no seu desenvolvimento de um
+ 00:39:41
+
+projeto de de desenvolvimento e
+ 00:39:46
+
+aplicação de conhecimento científico e
+ 00:39:48
+
+de tecnologias atualizadas e
+ 00:39:50
+
+conhecimento científico avançado eh eh
+ 00:39:53
+
+ele ganhou não foi não tava lá no na
+ 00:39:56
+
+proposta inicial a proposta éa
+ 00:39:59
+
+desenvolver um sistema de produção
+ 00:40:01
+
+eficiente o que a gente viu no meio do
+ 00:40:03
+
+caminho é que a gente precisava aplicar
+ 00:40:06
+
+conhecimentos científicos e tecnologias
+ 00:40:09
+
+atualizadas avançadas na nossa realidade
+ 00:40:11
+
+aqui da produção de leite utilizando
+ 00:40:15
+
+pastagens assim como a gente já tinha
+ 00:40:17
+
+para produzir silagem ou para um
+ 00:40:19
+
+confinamento lá pro coxo ou a genética
+ 00:40:21
+
+das vacas que esses outros pontos eles
+ 00:40:24
+
+estão avançados cientificamente aqui na
+ 00:40:26
+
+região mas o cenário das pastagens
+ 00:40:28
+
+estava muito atrasado e a gente começou
+ 00:40:32
+
+a aplicar e trazer essas essas inovações
+ 00:40:34
+
+tecnológicas e esse conhecimento
+ 00:40:37
+
+científico paraas propriedades aí o
+ 00:40:38
+
+Elite pasto ganhou uma nova um novo
+ 00:40:41
+
+corpo e uma nova cara aqui também não é uma
+ 00:40:44
+
+nova
+ 00:40:46
+
+visual esse daqui é o corpo de de de de
+ 00:40:48
+
+tecnologias que a gente que se tornou o
+ 00:40:52
+
+Elite apasta agora Indo pros 3 anos não é A
+ 00:40:55
+
+gente trabalha aqui a família o rebanho
+ 00:40:59
+
+a produção de forragem e o solo no
+ 00:41:02
+
+ambiente na propriedade da família no
+ 00:41:05
+
+clima na vizinhança no município com uma
+ 00:41:07
+
+série de tecnologias e todas essas
+ 00:41:10
+
+tecnologias a gente usa os meios
+ 00:41:12
+
+digitais ali do aplicativo aqui ó do
+ 00:41:14
+
+aplicativo para fazer o gerenciamento o
+ 00:41:17
+
+grupo de WhatsApp pra gente comunicar e
+ 00:41:20
+
+e contactar não é Eh associado às visitas
+ 00:41:23
+
+ao trabalho lá com as propriedades e
+ 00:41:27
+
+essas ferramentas aqui com as redes
+ 00:41:30
+
+sociais com os vídeos até com os memes
+ 00:41:32
+
+que a gente usa
+ 00:41:34
+
+especificamente por exemplo aqui ó
+ 00:41:36
+
+silage de inverno a gente fez uma
+ 00:41:38
+
+parceria com a Embrapa trigo para
+ 00:41:40
+
+trabalhar com outros materiais não é E aí
+ 00:41:41
+
+tem uma questão que é arista então eu
+ 00:41:45
+
+convidei o Giovani faeda emrap ele
+ 00:41:47
+
+participou num conversa com
+ 00:41:49
+
+extensionista com a gente e tem um meme
+ 00:41:51
+
+lá do do car olhando no olhando pra
+ 00:41:54
+
+parede assim de Ah não tem um meme do
+ 00:41:58
+
+esse meme é
+ 00:42:01
+
+do do rimen o ren chega lá e dá uma
+ 00:42:03
+
+mensagem você pode usar silage com
+ 00:42:06
+
+arista
+ 00:42:08
+
+pessoal eh porque é o medo deles de usar
+ 00:42:10
+
+eh trigo com arista para silagem não é cais
+ 00:42:13
+
+de inverno com arista você pode fazer
+ 00:42:16
+
+silagem de materiais com arista então a
+ 00:42:17
+
+gente usa isso não é para nos reforçar para
+ 00:42:20
+
+nos ajudar nas mensagens aqui indo lá na
+ 00:42:22
+
+propriedade e trabalhando não é a gente tem
+ 00:42:26
+
+trabalhado aqui nas dietas a pasto e tal
+ 00:42:28
+
+isso tudo associando para romper a
+ 00:42:31
+
+barreira do digital para que não fique
+ 00:42:34
+
+lá só no digital só na Live só no card
+ 00:42:36
+
+só no meme não é para transformar isso em
+ 00:42:38
+
+prática lá no dia a dia e mais
+ 00:42:41
+
+recentemente esse ano com o engajamento
+ 00:42:44
+
+científico que se tornou Elite ap
+ 00:42:47
+
+pasto a gente começou a buscar
+ 00:42:50
+
+referências científicas muito
+ 00:42:52
+
+atualizadas e muito novas que a gente tá
+ 00:42:54
+
+trabalhando aqui na no Elite aast E aí
+ 00:42:57
+
+surgiu a ideia do 90 segundos de ciência
+ 00:43:00
+
+surgiu como de eh eu vinha estudando
+ 00:43:03
+
+lendo discutindo artigos científicos com
+ 00:43:07
+
+colegas com outros profissionais para
+ 00:43:09
+
+trazer esse conhecimento para aplicar lá
+ 00:43:12
+
+nas propriedades e aí eu precisava ler
+ 00:43:14
+
+esse artigo publicado em inglês com uma
+ 00:43:16
+
+linguagem toda
+ 00:43:18
+
+científica ler traduzir isso
+ 00:43:20
+
+para como isso se aplica na prática lá
+ 00:43:24
+
+da propriedade e além de como se aplica
+ 00:43:27
+
+lá na na propriedade para uma linguagem
+ 00:43:29
+
+extensionista que nós extensionistas
+ 00:43:32
+
+temos que ter não é para falar para
+ 00:43:34
+
+dialogar com o produtor para falar a
+ 00:43:36
+
+língua dele para que ele entenda o que
+ 00:43:38
+
+eu quero dizer e não essa linguagem
+ 00:43:40
+
+científica que foi publicado numa
+ 00:43:41
+
+revista lá científica E
+ 00:43:43
+
+aí analisando o cenário das redes
+ 00:43:46
+
+sociais Eu já tava com algum tempo aqui
+ 00:43:50
+
+não é como em 2020 tô com do anos e pouco
+ 00:43:51
+
+de redes sociais
+ 00:43:54
+
+a gente viu que nas redes sociais As
+ 00:43:56
+
+coisas elas comeam a ser cada vez mais
+ 00:43:59
+
+rápidas mais superficiais no início eram
+ 00:44:01
+
+lives eventos de 1 hora 1 hora e me
+ 00:44:04
+
+depois se
+ 00:44:07
+
+tornou depois se tornou aqui vídeos de
+ 00:44:08
+
+20 a 30 minutos que é o que eles
+ 00:44:11
+
+assistiam no conversa com extensionista
+ 00:44:12
+
+e isso foi para 90 segundos de um RS ali
+ 00:44:15
+
+que é o tempo que eles teme olhar e que
+ 00:44:19
+
+tá se tornando agora Stories de 15
+ 00:44:21
+
+segundos que o pessoal olha então isso a
+ 00:44:24
+
+gente precisa se adaptar porque é a
+ 00:44:27
+
+linguagem que os jovens se comunicam e
+ 00:44:28
+
+tal a gente precisa buscar uma forma de
+ 00:44:30
+
+nos comunicar com eles mas isso é um é
+ 00:44:32
+
+difícil não é porque a gente vi a gente
+ 00:44:35
+
+acaba Eh o meu colega eliazer que
+ 00:44:37
+
+desenvolveu o aplicativo lá comigo usa
+ 00:44:40
+
+esse essa expressão a gente acaba
+ 00:44:42
+
+entrando num num num oceano de
+ 00:44:44
+
+informações com 15 cm de profundidade
+ 00:44:48
+
+porque as coisas começam a ser muito
+ 00:44:51
+
+superficiais a gente tem um monte de
+ 00:44:52
+
+informação bombardeio mas tudo muito
+ 00:44:54
+
+superficial então aqui o meu desafio é
+ 00:44:56
+
+reduzir isso a 90 segundos já com
+ 00:44:59
+
+linguagem extensionista e prática para
+ 00:45:01
+
+aplicar nas propriedades e eu tenho hoje
+ 00:45:03
+
+no ar esses 11 episódios aqui ó então
+ 00:45:06
+
+vocês vê é tudo para chamar atenção pro
+ 00:45:10
+
+cara ou ver lá os 90 segundos não
+ 00:45:12
+
+desistir no meio do caminho para pegar a
+ 00:45:14
+
+mensagem principal não é E aí depois se
+ 00:45:17
+
+tiver mais interesse eu linko lá o o
+ 00:45:20
+
+artigo científico pro pessoal
+ 00:45:23
+
+principalmente pros técnicos daí lerem
+ 00:45:24
+
+não é para aplicar n suas propriedades não é
+ 00:45:27
+
+então aqui ó ah 24 l por vac diia
+ 00:45:30
+
+somente com pasto isso aqui é é um dos
+ 00:45:32
+
+resultados de um artigo que
+ 00:45:35
+
+comparou duas estratégias de manejo de
+ 00:45:38
+
+pastagens lá no in no Uruguai
+ 00:45:40
+
+eh no tratamento sem suplementação
+ 00:45:43
+
+concentrada eles chegaram a esse
+ 00:45:47
+
+resultado Então eu preciso tratamento
+ 00:45:49
+
+disso aqui o produtor não entende não é
+ 00:45:53
+
+então eu preciso reduzir olha os caras
+ 00:45:56
+
+conseguiram chegar a 24 l por vaca dia
+ 00:45:57
+
+quando eles manejaram o p dessa forma não é
+ 00:46:00
+
+o último que foi pro ar é esse aqui ó
+ 00:46:03
+
+alta eficiência de colheita é diferente
+ 00:46:04
+
+de alta colheita por hectare é que eu tô
+ 00:46:07
+
+dizendo que com base nos dados de um de
+ 00:46:11
+
+um de um artigo científico lá
+ 00:46:13
+
+eh que eu referencie
+ 00:46:16
+
+ah quando tu busca aeficiência de
+ 00:46:19
+
+colheita de forragem
+ 00:46:22
+
+n não necessariamente tu corre mais
+ 00:46:23
+
+massa de forragem pro hectar isso são
+ 00:46:26
+
+termos técnicos da forragicultura massa
+ 00:46:28
+
+de forragem oferta de forragem até tem
+ 00:46:30
+
+um tem um aqui também ó eh oferta de
+ 00:46:33
+
+forragem para definir piquetes não é o
+ 00:46:36
+
+pessoal confunde o termo oferta de
+ 00:46:38
+
+forragem com massa de forragem e aqui eh
+ 00:46:40
+
+colher Mais forragem prit não
+ 00:46:44
+
+necessariamente quando tu colhe mais
+ 00:46:45
+
+maior eficiência de colheita significa
+ 00:46:47
+
+colher
+ 00:46:49
+
+tudo colher mais não é quem tem interesse
+ 00:46:50
+
+dá uma olhadinha lá nos 90 segundos eu
+ 00:46:54
+
+explico sobre isso lá e tem um artigo
+ 00:46:56
+
+científico referenciado que avariou isso
+ 00:46:57
+
+e viu que nem sempre que às vezes com
+ 00:47:00
+
+menor eficiência de colheita colhendo
+ 00:47:02
+
+menos forragem da que foi produzida a
+ 00:47:04
+
+colheita total de forragem no durante o
+ 00:47:06
+
+ano pode ser maior não é então tudo
+ 00:47:09
+
+aqui chamando e os 90 segundos ali
+ 00:47:12
+
+apresentando o que que a gente tira
+ 00:47:16
+
+daquilo ali não é são todos temas
+ 00:47:17
+
+interessantes aqui para quem trabalha
+ 00:47:19
+
+com leite quem se
+ 00:47:21
+
+interessa então com isso a gente tem
+ 00:47:23
+
+resultados não é produtores de Serafina
+ 00:47:26
+
+Correia obtêm maior lucratividade mesmo
+ 00:47:28
+
+com alta dos insumos lá em 2021 no meio
+ 00:47:30
+
+do caminho quando teve a guerra na
+ 00:47:33
+
+Ucrânia e subi a pandemia e subiu os
+ 00:47:34
+
+fertilizantes os concentrados eles ainda
+ 00:47:37
+
+assim eles aumentaram a lucratividade aí
+ 00:47:40
+
+no Canal Rural participei participei ao
+ 00:47:43
+
+vivo lá falando como baratear a
+ 00:47:45
+
+alimentação não é com com algum no Correio
+ 00:47:47
+
+do Povo ali uma notícia ó manejo pode
+ 00:47:50
+
+viabilizar o leite matéria desenvolve
+ 00:47:52
+
+técnicas de uso da as pastagens para
+ 00:47:54
+
+reduzir custos e dar margem financeira
+ 00:47:56
+
+às propriedades projeto el pasta aplica
+ 00:47:58
+
+novas
+ 00:48:02
+
+tecnologias produtores do Elite apast
+ 00:48:03
+
+superam estiagem e aumentam
+ 00:48:05
+
+produtividade mesmo com com com a
+ 00:48:07
+
+estiagem nós continuamos aumentando não é
+ 00:48:10
+
+dia de Campo apresentou tecnologias que
+ 00:48:12
+
+proporcionam resultados econômicos e
+ 00:48:16
+
+sociais
+ 00:48:18
+
+eh esse ano outro dia de Campo aplicação
+ 00:48:20
+
+de tecnologias permite alta
+ 00:48:23
+
+produtividade a pasta produtividades que
+ 00:48:25
+
+a gente não chegava antes quas
+ 00:48:27
+
+tecnologias a gente chegou propriedade
+ 00:48:28
+
+terfina na Correia foi premiada no
+ 00:48:30
+
+prêmio de referência leiteira por sua
+ 00:48:32
+
+gestão da atividade leiteira e o case
+ 00:48:34
+
+aqui é justamente Eles foram premiados
+ 00:48:37
+
+por por esse trabalho que eu contei para
+ 00:48:39
+
+vocês aqui a gente faz o controle usando
+ 00:48:41
+
+o aplicativo e a partir desse
+ 00:48:45
+
+diagnóstico relacionado a visita do
+ 00:48:47
+
+Produtor a gente usa Essas tecnologias
+ 00:48:50
+
+essas técnicas de conhecimento
+ 00:48:53
+
+científico para
+ 00:48:54
+
+trabalhar nos principais pontos que a
+ 00:48:56
+
+gente identifica lá e e melhorar os
+ 00:48:58
+
+resultados controlando e medindo a
+ 00:49:00
+
+partir do aplicativo esse case de uma
+ 00:49:02
+
+das unidades de referência que eu
+ 00:49:05
+
+escrevi no prêmio foi premiada no estado
+ 00:49:07
+
+ali recebendo na expo inter lá o
+ 00:49:10
+
+certificado e o notebook não é e mais
+ 00:49:12
+
+recentemente agora
+ 00:49:16
+
+eu buscando sair um pouco daqueles 15 cm
+ 00:49:19
+
+de profundidade dar uma profundidade
+ 00:49:23
+
+maior
+ 00:49:25
+
+eu eu comecei a escrever pro milk Point
+ 00:49:26
+
+não é me tornei um conteudista do Milk
+ 00:49:29
+
+Point quem trabalha mais com leite
+ 00:49:31
+
+conhece o milk Point ele é um portal
+ 00:49:33
+
+muito acessado por técnicos e produtores
+ 00:49:35
+
+do leite no Brasil e tem já esses cinco
+ 00:49:37
+
+textos lá justamente pensando já que
+ 00:49:42
+
+quando eu jogo uma informação lá ã nem
+ 00:49:45
+
+todo mundo lê inglês nem todos os
+ 00:49:48
+
+técnicos mesmo traduzindo para português
+ 00:49:50
+
+el a linguagem científica a metodologia
+ 00:49:52
+
+científica não não é palatável a todos
+ 00:49:54
+
+então eu escrevo um texto lá com falando
+ 00:49:57
+
+sobre algumas das principais pontos que
+ 00:50:01
+
+a gente trata ali não é Escreva um texto já
+ 00:50:03
+
+com linguagem extensionista aplicada em
+ 00:50:05
+
+português pro pessoal poder acessar lá e
+ 00:50:08
+
+ler não é então linko lá também divulgo
+ 00:50:11
+
+também tá digital tá online todo mundo
+ 00:50:14
+
+pode ã ler inclusive os meus produtores
+ 00:50:16
+
+aqui que são demandas nossas não é nesse
+ 00:50:19
+
+texto do Pastoreio rotativo aqui eu cito
+ 00:50:23
+
+ainda os os resultados que a gente
+ 00:50:25
+
+alcançou aqui no Elita par sou um dos
+ 00:50:27
+
+autores não é e agora tô lançando hoje aqui
+ 00:50:29
+
+o no dia primo de
+ 00:50:33
+
+Novembro além dos dias de Campo que a
+ 00:50:35
+
+gente fez aqui como esse não é e as
+ 00:50:38
+
+reuniões que a gente faz que agora são
+ 00:50:41
+
+presenciais com os produtores
+ 00:50:44
+
+eh a gente vai manter a a a forma de
+ 00:50:46
+
+trabalhar digital também para divulgar e
+ 00:50:50
+
+vamos fazer uma amostra tecnológica
+ 00:50:53
+
+online do projeto Elite P dia 1eo de
+ 00:50:55
+
+Novembro anotem aí no no canal do
+ 00:50:58
+
+YouTube da Emater às 14 horas nós vamos
+ 00:51:00
+
+fazer uma amostra tecnológica eh Por que
+ 00:51:03
+
+uma amostra tecnológica o nome porque
+ 00:51:06
+
+nós vamos apresentar algumas das
+ 00:51:08
+
+principais tecnologias aplicadas no
+ 00:51:09
+
+Elite ap pasto então a programação tem
+ 00:51:12
+
+uma apresentação do projeto Elite ap
+ 00:51:15
+
+pasto mais específica quem quiser saber
+ 00:51:17
+
+mais sobre ele eu vou contar
+ 00:51:19
+
+lá depoimento dos produtores que
+ 00:51:21
+
+participaram com os resultados que eles
+ 00:51:23
+
+alcançaram as tecnologias que eles
+ 00:51:25
+
+usaram e
+ 00:51:27
+
+o aqui os convidados para falar os
+ 00:51:29
+
+parceiros para falar de cada tecnologia
+ 00:51:32
+
+dessas principais não é então o rotao o
+ 00:51:34
+
+Paulo Carvalho pesquisador professor da
+ 00:51:37
+
+urges Líder do do grupo de pesquisa e
+ 00:51:38
+
+ecologia do pastejo vai participar
+ 00:51:40
+
+nutrição a pasto com a Marina danes da
+ 00:51:43
+
+Universidade de Lavras adubação de
+ 00:51:45
+
+sistemas com a tangriane que eu falei do
+ 00:51:47
+
+tfp eh o Geovan faed brapa trigo eh PG
+ 00:51:50
+
+GW sids aqui empresa de sementes
+ 00:51:55
+
+parceira com as pastagens consorciadas e
+ 00:51:57
+
+a biotrigo aqui com Luiz sobre
+ 00:52:00
+
+forrageiras em silagem de inverno que
+ 00:52:03
+
+foi um trabalho que a gente desenvolveu
+ 00:52:05
+
+também no Elite apasta aqui então Qual é
+ 00:52:06
+
+o objetivo aqui novamente mais uma vez
+ 00:52:08
+
+eu não conseguiria trazer a Marina danes
+ 00:52:10
+
+lá de Laves de Minas para fazer um
+ 00:52:13
+
+evento aqui não é Pro Elite pasto e além
+ 00:52:16
+
+presse dia de Campo por exemplo que a
+ 00:52:19
+
+gente fez aqui não é mas eu tô trabalhando
+ 00:52:21
+
+com ela online a distância
+ 00:52:23
+
+na dieta aut pasta então
+ 00:52:25
+
+Eh nesse evento os meus produtores aqui
+ 00:52:30
+
+vão poder acompanhar uma apresentação
+ 00:52:33
+
+dela sobre nutrição a pasto E além disso
+ 00:52:36
+
+já que tá online todo e qualquer
+ 00:52:39
+
+produtor de qualquer lugar do mundo que
+ 00:52:42
+
+entenda português pode entrar lá e eh
+ 00:52:45
+
+acompanhar os resultados as tecnologias
+ 00:52:48
+
+que a gente tá aplicando não é
+ 00:52:51
+
+potencializando e levando isso eh para
+ 00:52:52
+
+uma maior abrangência então eu gostaria
+ 00:52:55
+
+de deixar aqui a a Ivan abinda aquela
+ 00:52:59
+
+produtora Que que foi destaque na Zero
+ 00:53:02
+
+Hora lá um texto específico sobre ela
+ 00:53:04
+
+por mais ivanas no campo e tem essa
+ 00:53:06
+
+frase aqui que é uma das frases que eu
+ 00:53:09
+
+gosto que ela deu entrevista pro
+ 00:53:10
+
+programa Rio Grande Rural que eu gosto
+ 00:53:12
+
+de trazer que ela falou na entrevista
+ 00:53:14
+
+que é a gente tem que abrir a cabeça
+ 00:53:16
+
+mais a gente não tem que viver no
+ 00:53:18
+
+antigamente tem que viver no agora tem
+ 00:53:20
+
+que começar a pensar para frente mudar
+ 00:53:23
+
+as coisas isso foi uma fala dela depois
+ 00:53:25
+
+desse processo que a gente passou de
+ 00:53:29
+
+quem não sabia mexer em celular começou
+ 00:53:31
+
+a usar e o aplicativo começou a usar
+ 00:53:33
+
+novas tecnologias lá na sua propriedade
+ 00:53:36
+
+não é E e aí ela ela concluiu e e deixa
+ 00:53:39
+
+essa mensagem que eu deixo aqui para
+ 00:53:44
+
+vocês não é para não viver no antigamente
+ 00:53:45
+
+não é tem que viver no agora no no momento
+ 00:53:48
+
+atual tem que começar a pensar paraa
+ 00:53:51
+
+Frente e mudar as coisas coisas eu levo
+ 00:53:53
+
+essa mensagem comigo por isso que eu
+ 00:53:55
+
+falei que eu sou um entusiasta e eu
+ 00:53:57
+
+procuro est sempre me atualizando se
+ 00:53:59
+
+hoje o conteúdo é mais rápido vamos
+ 00:54:02
+
+fazer um 90 segundos de ciência ali e
+ 00:54:05
+
+vamos tentar achar uma forma de levar
+ 00:54:07
+
+profundidade para isso depois para quem
+ 00:54:10
+
+se interessa não é chamar atenção n e não
+ 00:54:12
+
+não ficar atrasado lá não é porque senão a
+ 00:54:15
+
+gente perde a comunicação e uma das
+ 00:54:17
+
+grandes causas talvez a maior Nossa na
+ 00:54:19
+
+na extensão Rural é trabalhar a sucessão
+ 00:54:22
+
+familiar para que a gente mantenha
+ 00:54:25
+
+jovens para que a gente mantenha as
+ 00:54:27
+
+famílias no campo combater o êxodo rural
+ 00:54:28
+
+e manter as famílias no campo e a gente
+ 00:54:31
+
+não pode se distanciar da linguagem dos
+ 00:54:33
+
+jovens para isso eu não sou mais jovem
+ 00:54:37
+
+tenho 34 anos mas eu preciso me
+ 00:54:39
+
+comunicar com com um jovem lá filho do
+ 00:54:42
+
+Agricultor que tem 17 anos esses dias eu
+ 00:54:46
+
+mandei uma mensagem do WhatsApp lá tava
+ 00:54:49
+
+falando com um dos desses desses filhos
+ 00:54:51
+
+de produtor
+ 00:54:54
+
+e ele me respondeu deu risada lá alguma
+ 00:54:55
+
+coisa respondeu com
+ 00:54:59
+
+ss e aí eu eh O que que significa SS não é
+ 00:55:01
+
+tu fica pensando não é Eu já sabia já sabia
+ 00:55:06
+
+porque eu tenho uma uma afiliada uma
+ 00:55:09
+
+sobrinha que tem 14 anos e uma vez ela
+ 00:55:11
+
+me respondeu ss e daí eu perguntei para
+ 00:55:13
+
+ela que a Isa adora Isa o que que é s
+ 00:55:16
+
+que que significa SS Não entendi que tu
+ 00:55:18
+
+quis dizer ali SS É sim tá mas por que
+ 00:55:19
+
+que tu não escreve sim não é economizou uma
+ 00:55:23
+
+letra só não é sim tem três letras digitou
+ 00:55:26
+
+duas que é fácil ó eu digito S duas
+ 00:55:30
+
+vezes daí fica SS S maiúscula S
+ 00:55:32
+
+minúscula significa sim daí eu ah tá
+ 00:55:35
+
+legal daí aí depois esse produtor falou
+ 00:55:38
+
+comigo lá e ele SS ele concordou com o
+ 00:55:41
+
+que eu tinha acabado de dizer eu não eu
+ 00:55:44
+
+não teria entendido se eu não tivesse
+ 00:55:46
+
+interessado em entender a linguagem que
+ 00:55:48
+
+eles se comunicam não é E além disso tem
+ 00:55:50
+
+tem outras cois coisas não é eles usam
+ 00:55:54
+
+alguns termos que a gente não entende
+ 00:55:56
+
+como
+ 00:55:57
+
+eh eu tô fazendo uma lista que do que eu
+ 00:55:58
+
+tô aprendendo dicionário não é Um deles é
+ 00:56:01
+
+flopou flopar que é um verbo que eles
+ 00:56:05
+
+usam o outro é
+ 00:56:07
+
+tancar e o outro é
+ 00:56:09
+
+macetar são verbos que não fazem parte
+ 00:56:12
+
+do meu linguagem arm mas que eles usam
+ 00:56:14
+
+não é E aí a gente precisa entender para se
+ 00:56:16
+
+comunicar com eles e não ficar eh não
+ 00:56:20
+
+viver no antigamente quando gente não
+ 00:56:23
+
+usava esses termos não é porque os jovens
+ 00:56:25
+
+usam
+ 00:56:27
+
+ã com isso eu finalizo essa mensagem da
+ 00:56:29
+
+mensagem principal aqui do dia de hoje
+ 00:56:33
+
+eu trouxe experiência aqui para vocês
+ 00:56:35
+
+est eh focadas no leite que é a minha
+ 00:56:37
+
+principal atuação mas eu ten teria
+ 00:56:40
+
+experiências da nossa equipe aqui daem
+ 00:56:43
+
+matéria de Serafina para compartilhar
+ 00:56:45
+
+com vocês do trabalho da área social que
+ 00:56:47
+
+a minha colega Sandra desenvolveu também
+ 00:56:49
+
+ela é ela se aposentou já para vocês
+ 00:56:52
+
+tenham uma ideia mas com o meu suporte
+ 00:56:54
+
+ali com o suporte do eliazer ela
+ 00:56:56
+
+conseguiu trabalhar inclusive com os
+ 00:56:59
+
+grupos de mulheres com os clubes de Mães
+ 00:57:00
+
+com usando algumas dessas ferramentas a
+ 00:57:03
+
+gente tem trabalho em outras áreas como
+ 00:57:06
+
+no a gente tem um trabalho com manejo
+ 00:57:08
+
+Integrado de pragas em soja a gente tem
+ 00:57:10
+
+um projeto aqui que se chama jovens do
+ 00:57:12
+
+Agro pensando na sucessão familiar na
+ 00:57:14
+
+juventude Rural que a gente usa também e
+ 00:57:17
+
+a gente foi mas a atividade prioritária
+ 00:57:20
+
+aqui do município é o leite e é o meu
+ 00:57:23
+
+Carro Chefe não é então eu trouxe H um
+ 00:57:25
+
+caminho aqui para exemplificar no leite
+ 00:57:29
+
+mas que pode ser pensado extrapolado
+ 00:57:32
+
+para qualquer outra atividade para
+ 00:57:34
+
+qualquer outro outra atividade e outra
+ 00:57:35
+
+ação essa foto aqui são resfriadores
+ 00:57:38
+
+transbordados de produtores de famílias
+ 00:57:40
+
+que a partir dessas ações desse trabalho
+ 00:57:42
+
+o resfriador ficou pequeno cada
+ 00:57:45
+
+resfriador desse carrega além desse
+ 00:57:47
+
+leite que tá aí transbordando carrega a
+ 00:57:49
+
+história dessa família que tá lá no seu
+ 00:57:52
+
+dia a dia lutando para
+ 00:57:55
+
+eh para para para para sobreviver e para
+ 00:57:56
+
+se
+ 00:58:00
+
+desenvolver e desse extensionista que tá
+ 00:58:01
+
+aqui feliz ali com celular mostrando a
+ 00:58:04
+
+página no Instagram Me sigam lá quem não
+ 00:58:06
+
+sigam ou quem não segue ainda o
+ 00:58:08
+
+@leandro muito bom a gente não sabe se
+ 00:58:16
+
+fica sem palavras o que que a gente fala
+ 00:58:20
+
+não é mas assim olha sem sensacional o
+ 00:58:22
+
+trabalho do Leandro já vem acompanhando
+ 00:58:25
+
+muito tempo parabéns parabeno e vou
+ 00:58:27
+
+dizer hein seguindo o linguajar dos
+ 00:58:30
+
+meses não é 7 anos de azar para quem não
+ 00:58:32
+
+seguir Leandro Ebert agronomia no
+ 00:58:34
+
+Instagram e nas redes
+ 00:58:37
+
+sociais Precisamos de mais
+ 00:58:40
+
+extensionistas igual o Leandro porque
+ 00:58:42
+
+isso faz toda a diferença não é e na vida
+ 00:58:45
+
+das pessoas não é porque o extensionista é
+ 00:58:48
+
+isso ele tá causando causando diferença
+ 00:58:50
+
+transformando a vida das pessoas isso
+ 00:58:52
+
+isso aí é sensacional é tem tanta coisa
+ 00:58:54
+
+bacana aqui eu vou fazer uma reflexão Só
+ 00:58:57
+
+talvez duas e passo a palavra pro Zuin
+ 00:59:01
+
+pra gente interagir temos aqui gente
+ 00:59:03
+
+acompanhando aqui pessoal daem Matera
+ 00:59:06
+
+Leandro vai tá vai acompanhar aí também
+ 00:59:08
+
+galera toda de todo o Brasil aí também
+ 00:59:11
+
+acompanhando muito legal aí façam
+ 00:59:13
+
+perguntas logo logo a gente tá passando
+ 00:59:16
+
+aí as perguntas aí pro Leandro é mas
+ 00:59:17
+
+assim ó de todas as questões assim Bom
+ 00:59:21
+
+todos você assim não tem nenhum não sei
+ 00:59:23
+
+por onde começar mas o que me chama
+ 00:59:26
+
+atenção e eu comecei a escrever aqui
+ 00:59:28
+
+para te questionar não é E você já falou
+ 00:59:30
+
+sobre isso no slide posterior mas eu
+ 00:59:33
+
+quero retomar sabe porque é um problema
+ 00:59:35
+
+Educacional não é é um problema do
+ 00:59:38
+
+extensionista porque extensão moral é
+ 00:59:41
+
+educação também não é E quando tu fala
+ 00:59:43
+
+dessa redução de tempos é muito legal a
+ 00:59:46
+
+a nossa adaptação ao tempo não é das
+ 00:59:48
+
+pessoas ao momento da da extensão oral
+ 00:59:51
+
+ao momento da educação não é e é bem isso
+ 00:59:55
+
+que eu escrevi você falou mas eu vou
+ 00:59:57
+
+retomar isso porque eu acho que vale a
+ 00:59:59
+
+pena refletir não é Eh porque assim tá cada
+ 01:00:02
+
+vez mais difícil de prender atenção não é
+ 01:00:05
+
+Eh seja dos jovens seja dos autores seja
+ 01:00:06
+
+dos alunos não é E aí a gente usa de
+ 01:00:10
+
+estratégias não é que é de redução do tempo
+ 01:00:12
+
+de vídeo é quase tipo uma banalização do
+ 01:00:15
+
+conteúdo mas que é importante não é é
+ 01:00:19
+
+importante não é se eu não faço isso tu não
+ 01:00:22
+
+tu não cativa não é Mas pensa aqui comigo
+ 01:00:24
+
+não é quando eu vou para pra roça trabalhar
+ 01:00:27
+
+não é agora só no na época de férias não é
+ 01:00:29
+
+Você fica o dia inteiro na roça não é dia
+ 01:00:31
+
+inteiro cansado chega à noite e ainda
+ 01:00:34
+
+você acha vai ter paciência para
+ 01:00:37
+
+assistir alguma coisa algum conteúdo de
+ 01:00:38
+
+conhecimento mas tu quer olhar um jogo
+ 01:00:41
+
+de futebol tu quer olhar um meme não é quer
+ 01:00:43
+
+olhar um videozinho não é e e assim é esse
+ 01:00:46
+
+desafio de fazer o agricultor ficar 1
+ 01:00:49
+
+hora ou 30 minutos e depois fo reduzindo
+ 01:00:52
+
+não é não é e ele é assim é Um Desafio assim
+ 01:00:54
+
+insistentemente não é porque para para que
+ 01:00:57
+
+ele tenha melhoria mas mas é complicado
+ 01:01:01
+
+você já chega cansado sem contar o
+ 01:01:03
+
+acesso à internet aos dados a hora da
+ 01:01:05
+
+noite que a internet tá pesada não é queria
+ 01:01:07
+
+que tu comentasse mais um pouquinho
+ 01:01:10
+
+sobre isso porque porque é é uma coisa
+ 01:01:12
+
+cotidiana também com nossos alunos não é
+ 01:01:15
+
+enfim é no no no caso aqui no campo a
+ 01:01:18
+
+conclusão que eu cheguei é que a gente o
+ 01:01:22
+
+a melhor estratégia é usar
+ 01:01:25
+
+o essas ferramentas para chamar atenção
+ 01:01:27
+
+pro
+ 01:01:31
+
+tema porque por exemplo se a gente faz
+ 01:01:32
+
+um se se eu se eu preciso tratar de de
+ 01:01:35
+
+de de um desses temas técnicos ali lá na
+ 01:01:38
+
+propriedade ou se eles vão num evento eu
+ 01:01:41
+
+consigo eu consigo fazer o dia de Campo
+ 01:01:44
+
+lá e deixar eles um dia todo prestando
+ 01:01:46
+
+atenção no dia de campo nas estações e
+ 01:01:48
+
+tal agora eu não consigo fazer eles
+ 01:01:50
+
+ficar uma tarde inteira assistindo um
+ 01:01:52
+
+evento online eu consigo lá no campo num
+ 01:01:53
+
+dia de Campo na tarde de Campo mas não
+ 01:01:55
+
+por quê Porque é diferente eu canso aqui
+ 01:01:58
+
+f de ouvido não é e tal não tem tanta
+ 01:02:00
+
+interação então cansa e tem um outro
+ 01:02:03
+
+porém tá por exemplo se eu mandar agora
+ 01:02:06
+
+uma mensagem aqui para um dos produtor
+ 01:02:08
+
+dos meu a maioria deles principalmente
+ 01:02:10
+
+os jovens eles respondem na
+ 01:02:12
+
+hora e depois eles esquecem que tinha
+ 01:02:15
+
+aquela mensagem então se eu mandar ó
+ 01:02:17
+
+Fulano não sei o que aqui para tu dar
+ 01:02:20
+
+uma olhada Ah tá e tal depois eu vou dar
+ 01:02:21
+
+uma olhando não é ou se eles dão uma olhada
+ 01:02:24
+
+lá em cima do trator lá lidando com as
+ 01:02:26
+
+vacas sei lá eles dão uma olhada então
+ 01:02:28
+
+se for uma mensagem rápida ele consegue
+ 01:02:31
+
+olhar pensar na hora e já me responder
+ 01:02:33
+
+ficar refletindo e tal depois se é um
+ 01:02:36
+
+negócio que ele precisa ir profundamente
+ 01:02:38
+
+ele vai depois eu olho depois quando
+ 01:02:41
+
+Depois tu chega em casa toma teu café tu
+ 01:02:44
+
+tá cansado quer brincar com teu filho
+ 01:02:45
+
+cuidar da nona sei lá não é vê um meme que
+ 01:02:47
+
+n falou vê uma novela uma série um jogo
+ 01:02:50
+
+de futebol b e tu acaba esquecendo de
+ 01:02:53
+
+olhar aquele conteúdo que o cara mandou
+ 01:02:56
+
+lá não é e e porque eles têm muito eles não
+ 01:02:58
+
+têm só o nosso eles TM da empresa eles
+ 01:03:00
+
+TM não sei o qu Eles são bombardeados de
+ 01:03:03
+
+coisas assim o tempo todo então ao meu
+ 01:03:05
+
+ver ele precisa est muito casado com a
+ 01:03:07
+
+realidade aquele vídeo de 90 segundos de
+ 01:03:11
+
+60 segundos eu tô chegando à conclusão
+ 01:03:15
+
+que devia ser 60 segundos tá o meu vídeo
+ 01:03:17
+
+lá não de 90 eh mas é muito difícil eu
+ 01:03:19
+
+não consigo reduzir eu aquele conteúdo
+ 01:03:23
+
+para 60 ainda talvez eu evoluo Para isso
+ 01:03:25
+
+ainda não consegui mas o já é difícil
+ 01:03:28
+
+levar pros 90 mas eh para chamar atenção
+ 01:03:31
+
+então tu chama atenção para aquele
+ 01:03:34
+
+assunto depois vamos discutir lá na
+ 01:03:36
+
+propriedade ou numa reunião ou num
+ 01:03:37
+
+evento pros técnicos eu tenho muito
+ 01:03:40
+
+público que me segue eu gosto disso eu
+ 01:03:42
+
+fico feliz em ajudar isso de técnicos de
+ 01:03:43
+
+extensionistas técnicos do senar que
+ 01:03:46
+
+entra em contato comigo do Pisa que
+ 01:03:49
+
+trabalha com rotao por exemplo me segue
+ 01:03:51
+
+da da Emater obviamente da epar de
+ 01:03:53
+
+outras Emater de outros estados e
+ 01:03:56
+
+Consultores individuais e que eles me me
+ 01:03:59
+
+pedem conteúdo daí esses Sim esses Eles
+ 01:04:01
+
+leem geralmente o artigo científico lá e
+ 01:04:03
+
+funciona até mais fácil do que pros
+ 01:04:06
+
+produtores produt não vai ler então é Um
+ 01:04:08
+
+Desafio eu lembro da frase que a Ivânia
+ 01:04:12
+
+falou ali não é que a gente precisa viver o
+ 01:04:15
+
+o o agora não o antigamente então ah mas
+ 01:04:19
+
+a gente tá ficando cada ve vez mais
+ 01:04:23
+
+superficial cada vez mais curto tá isso
+ 01:04:24
+
+é real a questão é como que nós vamos
+ 01:04:27
+
+trabalhar com isso agora não é Tá se eu
+ 01:04:30
+
+insistir em ficar no no antigamento
+ 01:04:34
+
+digital que é 2020 não é já é antig agora a
+ 01:04:37
+
+forma que a gente fazia em
+ 01:04:41
+
+2020 eu vou perder o contato vou perder
+ 01:04:43
+
+a comunicação com eles porque eles já
+ 01:04:46
+
+estão se comunicando de uma outra forma
+ 01:04:48
+
+então se eu quiser manter a comunicação
+ 01:04:50
+
+eu preciso atualizar paraa linguagem de
+ 01:04:53
+
+hoje aí é o nosso desafio Diário de
+ 01:04:55
+
+tratar isso por isso que eu coloquei o
+ 01:04:58
+
+Atel além do digital ali no meu
+ 01:05:00
+
+entendimento a gente precisa tá além do
+ 01:05:02
+
+digital eh nos problemas reais tá
+ 01:05:04
+
+Ezequiel o que a gente falou antes ali
+ 01:05:07
+
+que sejam coisas que realmente
+ 01:05:09
+
+interessem a eles que realmente vão
+ 01:05:10
+
+fazer porque eh eu vi alguém falar em
+ 01:05:13
+
+algum desses eventos eh não vou lembrar
+ 01:05:16
+
+quem mas era era pessoal da área de
+ 01:05:19
+
+tecnologia mesmo não era da nossa área
+ 01:05:22
+
+falando que a gente viveu a era da
+ 01:05:24
+
+informação e hoje a gente vive a era do
+ 01:05:26
+
+contexto porque tem tanta informação que
+ 01:05:28
+
+a gente precisa achar filtrar lá dentro
+ 01:05:30
+
+das informações o o contexto que que
+ 01:05:33
+
+seja aplicado a mim aqui não é porque os
+ 01:05:36
+
+prores cansaram de assistir tanta coisa
+ 01:05:38
+
+eles não vão assistir tanta coisa mais
+ 01:05:40
+
+eles vão filtrar o que que interessa
+ 01:05:42
+
+eles por isso que tem que ser problemas
+ 01:05:44
+
+reais que realmente interessa e que vão
+ 01:05:46
+
+fazer a diferença não é E aí essas
+ 01:05:48
+
+estratégias para chamar a atenção lá o
+ 01:05:50
+
+meme o vídeo curto Frase curta para
+ 01:05:52
+
+chamar atenção pro problema e depois
+ 01:05:54
+
+vamos trabalhar o por exemplo aquele
+ 01:05:57
+
+aquela frase que eu coloquei ali do
+ 01:05:59
+
+esterco mole não sei o quê Tem gente que
+ 01:06:00
+
+não sabe avaliar aí eu fiz uma série de
+ 01:06:02
+
+posts de cards e depois vídeo explicando
+ 01:06:05
+
+como eh ler o score de consistência de
+ 01:06:08
+
+fe então isso tá lá pro pessoal e quem
+ 01:06:12
+
+se interessou inicialmente lá
+ 01:06:16
+
+desenvolver mais não é e na sua
+ 01:06:19
+
+propriedade
+ 01:06:23
+
+muito bom hein sensacional assim ó eu
+ 01:06:26
+
+fico pensando que várias várias questões
+ 01:06:29
+
+e em princípio não é o o algoritmo já do
+ 01:06:32
+
+das redes sociais também já faz chegar o
+ 01:06:35
+
+contexto também não é então assim tu
+ 01:06:38
+
+seleciona os três vídeos tu mostrou pro
+ 01:06:40
+
+teu público que mostrou pro algoritmo
+ 01:06:42
+
+que é isso que você quer e aí junta isso
+ 01:06:44
+
+que você não é tá falando com o algoritmo
+ 01:06:47
+
+não é Isso aí é muito interessante tem
+ 01:06:51
+
+muita coisa aqui eu eu vou comentar só
+ 01:06:53
+
+mais uma da tua da tua final depois eu
+ 01:06:56
+
+passo paraos Rin eh dá para escrever
+ 01:06:58
+
+daqui os dia aí você pode lançar nas
+ 01:07:01
+
+suas redes sociais o dicionário dos
+ 01:07:03
+
+jovens rurais
+ 01:07:04
+
+viu achei muito bom tô anando tô fazendo
+ 01:07:06
+
+sensacional Zu vou te passar que eu
+ 01:07:10
+
+tenho mais algumas coisas Pedro Pedro
+ 01:07:13
+
+urubatã aí nosso grande amigaço tonista
+ 01:07:15
+
+vai ficar gravado sim pode ficar
+ 01:07:18
+
+tranquilo aí que a galera vai ser
+ 01:07:20
+
+gravado vai ter cortes vai ter cortes do
+ 01:07:22
+
+canal da Aurora cortes do canal do
+ 01:07:24
+
+Leandro emton agronomia enfim vai ter
+ 01:07:26
+
+vai ter acesso a esse conteúdo para
+ 01:07:29
+
+muita gente é
+ 01:07:30
+
+e eu falei três termos ali não é flopou
+ 01:07:33
+
+macetou e tanc agora eu quero lançar um
+ 01:07:37
+
+desafio quero ver se alguém coloca nos
+ 01:07:40
+
+comentários ali o significado desses
+ 01:07:42
+
+termos pessoal
+ 01:07:44
+
+acerta valendo
+ 01:07:46
+
+valendo valendo muito bom muito bom
+ 01:07:49
+
+muito
+ 01:07:52
+
+bom zui passo para ti porque tem mais
+ 01:07:52
+
+coisa aqui bacana Aí é eu achei palestra
+ 01:07:55
+
+do lentro maravilhosa Acho que cada
+ 01:07:59
+
+ponto dela daria outra palestra se ele
+ 01:08:02
+
+fosse desdobrar ali e contar de forma
+ 01:08:04
+
+mais por menor não é mas o que eu achei
+ 01:08:07
+
+muito bacana da palestra dele foi como
+ 01:08:10
+
+se deu a evolução dessa comunicação nos
+ 01:08:13
+
+ambientes digitais não é então isso isso
+ 01:08:17
+
+isso foi maravilhoso maravilhoso não é
+ 01:08:20
+
+porque Leandro eu sempre falo que que
+ 01:08:23
+
+não existe uma at ter digital existe uma
+ 01:08:27
+
+at no contemporâneo hoje a ter no
+ 01:08:29
+
+contemporâneo não é é feito dessa forma não é
+ 01:08:31
+
+a forma que você faz e você utiliza a
+ 01:08:35
+
+comunicação digital não é para você
+ 01:08:37
+
+trabalhar com o produtor rural não é E essa
+ 01:08:41
+
+comunicação ora Em algum momento ela tá
+ 01:08:43
+
+no digital ora Ela tá no presencial no
+ 01:08:46
+
+analógico não é E ela vai ela vai
+ 01:08:48
+
+percorrendo não é como se fosse um rio ali
+ 01:08:51
+
+os momentos que você tá conversando
+ 01:08:53
+
+interagindo com as pessoas não é então isso
+ 01:08:55
+
+a sua palestra ela mostra assim de uma
+ 01:08:58
+
+forma muito clara uma coisa que me
+ 01:09:00
+
+chamou atenção eu gostaria que você
+ 01:09:03
+
+eh falasse pra gente um pouco mais por
+ 01:09:05
+
+menor é que ao meu ver você utiliza dois
+ 01:09:08
+
+grandes ambientes de comunicação para
+ 01:09:11
+
+est trabalhando com as pessoas que vivem
+ 01:09:14
+
+e e trabalham nos nos territórios rurais
+ 01:09:16
+
+não é você utiliza o WhatsApp não é que tem
+ 01:09:19
+
+uma função e você utiliza que tem uma
+ 01:09:23
+
+função mesmo de
+ 01:09:25
+
+de vai Talvez de assistência técnica
+ 01:09:28
+
+mesmo ali não é de você tá tentando
+ 01:09:32
+
+resolver problemas mais pontuais daquela
+ 01:09:34
+
+pessoa não é daquele daquele agricultor ali
+ 01:09:36
+
+e não que você não possa tá falando uma
+ 01:09:39
+
+uma sei lá divulgando outra coisa mas e
+ 01:09:44
+
+você utiliza também muito o Instagram
+ 01:09:47
+
+para divulgação não é e o Instagram e o o
+ 01:09:49
+
+que eu queria saber de você e eu não vi
+ 01:09:53
+
+você falando de outras redes sociais
+ 01:09:55
+
+talvez você as utilize mas eu eu me
+ 01:09:57
+
+chamou atenção foi WhatsApp o Instagram
+ 01:10:00
+
+não é Eh eu por exemplo na Aurora a gente
+ 01:10:02
+
+pensou em trabalhar com Facebook por
+ 01:10:07
+
+exemplo mas a gente viu que não
+ 01:10:09
+
+Facebook melhor a gente ir para outros
+ 01:10:12
+
+lugares o nosso esforço Direcionar para
+ 01:10:15
+
+outros lugares e um deles é o Instagram
+ 01:10:17
+
+não é Instagram e o liquidin também ali e
+ 01:10:19
+
+eu queria ver falar com você o seguinte
+ 01:10:23
+
+é essa comunicação que você faz
+ 01:10:25
+
+principalmente no Instagram Você tá
+ 01:10:28
+
+conversando com quem você está
+ 01:10:30
+
+conversando com o produtor rural com a
+ 01:10:32
+
+produtora rural ou com os filhos deles
+ 01:10:35
+
+ou com todo mundo não é mas quem quem é
+ 01:10:38
+
+essa pessoa que tá que porque ela é
+ 01:10:41
+
+muito poderosa no seu trabalho a gente
+ 01:10:43
+
+eu os exemplos que você deu não é então e
+ 01:10:45
+
+essa informação eu não tenho não é Eu como
+ 01:10:48
+
+Zuin não tenho então com quem que você
+ 01:10:51
+
+tá conversando ali certo eu andei por
+ 01:10:53
+
+várias também não é eu tenho eu comecei
+ 01:10:57
+
+quando Acho que nem tinha Facebook ainda
+ 01:11:01
+
+com nem tinha Instagram com Facebook não é
+ 01:11:04
+
+e tanto que eu tenho tenho um grupo que
+ 01:11:06
+
+eu sou criador se administrador que
+ 01:11:09
+
+funciona muito bem hoje que é o
+ 01:11:10
+
+bovinocultura de leite é um grupo no
+ 01:11:12
+
+Facebook
+ 01:11:15
+
+tem deixa eu ver tem quantos membros
+ 01:11:16
+
+tem não lembro se é 10 ou 20.000 membros
+ 01:11:20
+
+deixa eu ver aqui rapidamente
+ 01:11:24
+
+eh ele é antigo tem 20,5 mil membros
+ 01:11:27
+
+esse grupo e esse grupo eu uso para isso
+ 01:11:31
+
+que nós estamos falando é contexto então
+ 01:11:34
+
+esses conteúdos que são gerados para
+ 01:11:36
+
+produtores de leite eu lanço lá no no
+ 01:11:39
+
+Facebook eu jogo lá assim como tem
+ 01:11:41
+
+pessoal da Embrapa tem outros colegas
+ 01:11:44
+
+tem produtores não é que colocam conteúdos
+ 01:11:45
+
+lá dá uma visibilidade grande porque o
+ 01:11:49
+
+Facebook ele atinge um outro público no
+ 01:11:52
+
+instagram a gente atinge mais o jovem no
+ 01:11:55
+
+Facebook a gente atinge o
+ 01:11:57
+
+pai certo que é diferente a linguagem o
+ 01:11:59
+
+pai ele o pai dificilmente ele abre um
+ 01:12:03
+
+link ele não é é diferente é diferente a
+ 01:12:07
+
+linguagem ele fica no no que tu escreveu
+ 01:12:11
+
+no post o post é o post e o texto tem
+ 01:12:13
+
+que tá ali o vídeo ele só olha o vídeo
+ 01:12:17
+
+Se for pelo whats o vídeo no Instagram
+ 01:12:20
+
+difícil deles olharem também não é E eles
+ 01:12:23
+
+comentam também daí geram uns embates ã
+ 01:12:26
+
+e eu já tinha um grupo de vultura que eu
+ 01:12:30
+
+trabalhava muito com viticultura
+ 01:12:33
+
+também então tem tem a sua função o
+ 01:12:35
+
+Facebook eu tô lá mas principalmente
+ 01:12:37
+
+pelo grupo mais do grupo do que pela
+ 01:12:39
+
+página eu tenho a página para
+ 01:12:41
+
+compartilhar o mesmo conteúdo que vai
+ 01:12:43
+
+pro Facebook e depois eu lanço lá no no
+ 01:12:44
+
+grupo já com com uma descrição maior e
+ 01:12:47
+
+tal para atingir esse público mas a MMA
+ 01:12:50
+
+Instagram Desculpa mas a mesma mídia
+ 01:12:52
+
+mesma mídia que você joga no Instagram
+ 01:12:55
+
+Você vai jogar no Facebook a mesma mídia
+ 01:12:57
+
+H Mas é porque eu não não não foco
+ 01:12:59
+
+também em desenvolver Mia específica pro
+ 01:13:02
+
+Facebook eu jogo a mesma e uma vantagem
+ 01:13:04
+
+do Facebook é que ele permite o link
+ 01:13:06
+
+então por exemplo eu escrevi o texto do
+ 01:13:09
+
+Milk Point lá agora o último sobre rotao
+ 01:13:10
+
+eu consigo fazer um post lá que já
+ 01:13:13
+
+explicando ó Leiam esse texto e tal e já
+ 01:13:16
+
+com o link não é lá funciona pro artigo eu
+ 01:13:19
+
+consigo postar lá aqui artigo e daí para
+ 01:13:22
+
+alguns públicos principalmente
+ 01:13:25
+
+eh principalmente Ger geração x assim não é
+ 01:13:28
+
+a gente consegue atingir ali
+ 01:13:31
+
+ah Instagram é mais eh jovens e aí não
+ 01:13:34
+
+filhos de produtores sim produtores que
+ 01:13:40
+
+já fizeram a sucessão familiar jovens
+ 01:13:43
+
+que já fizeram a sucessão por exemplo
+ 01:13:45
+
+minha faixa etária também tá não é geração
+ 01:13:46
+
+y
+ 01:13:48
+
+e muitos técnicos também estudantes e
+ 01:13:50
+
+técnicos estudantes que estão
+ 01:13:54
+
+Principalmente quando chega na fase
+ 01:13:56
+
+final do curso não é que o cara começa a
+ 01:13:57
+
+ficar apavorado que vai fazer da
+ 01:13:59
+
+vida daí eles começam a dar mais atenção
+ 01:14:01
+
+pro meu conteúdo lá que é mais prático
+ 01:14:03
+
+até então o cara tá preocupado com as
+ 01:14:05
+
+notas das provas ess trabalho não é mas
+ 01:14:07
+
+chegando na finaleira ali eu vejo esse
+ 01:14:09
+
+comportamento muito pessoal de final de
+ 01:14:11
+
+curso entra ali me chama tira dúvida e
+ 01:14:13
+
+tal que é interessante fico feliz em
+ 01:14:16
+
+ajudar participei por isso de algumas
+ 01:14:19
+
+semanas acadêmicas cursos e
+ 01:14:22
+
+tal
+ 01:14:24
+
+e técnicos que já trabalham não é empresas
+ 01:14:26
+
+técnicos e esses jovens produtores às
+ 01:14:30
+
+vezes eu recebo esse relato às vezes eu
+ 01:14:33
+
+recebo o relato lá do do jovem dizendo
+ 01:14:37
+
+Pois é mas o meu pai não deixa eu fazer
+ 01:14:39
+
+aqui e tal e aí eu converso com os
+ 01:14:42
+
+jovens para tentar ajudar ele sobre isso
+ 01:14:44
+
+não é receb em partic particular mas muitas
+ 01:14:46
+
+vezes é já consolidado o cara tem lá
+ 01:14:48
+
+seus 20 poucos 30 anos trabalha na
+ 01:14:52
+
+propriedade e e pega o conteúdo lá o
+ 01:14:54
+
+WhatsApp mas sim é mais jovens não é o
+ 01:14:58
+
+WhatsApp eu uso de duas formas tá A
+ 01:15:02
+
+primeira é essa que tu falou direto com
+ 01:15:05
+
+o produtor ali eu tenho uma proximidade
+ 01:15:08
+
+com Alguns produtores que usam bem o
+ 01:15:11
+
+WhatsApp que muito grande É como se eu
+ 01:15:12
+
+tivesse dentro da propriedade todos os
+ 01:15:14
+
+dias produtor todo dia me manda foto da
+ 01:15:16
+
+vaca do pasto do resfriador e a gente
+ 01:15:18
+
+vai conversando e a conversa nunca acaba
+ 01:15:22
+
+e tá em andamento quando eu vou lá às
+ 01:15:24
+
+vezes faz TRS meses que eu não vou na
+ 01:15:27
+
+propriedade mas parece que eu tava lá
+ 01:15:29
+
+não senti falta pela proximidade que eu
+ 01:15:31
+
+qu esse esse diálogo ele se dá mais por
+ 01:15:34
+
+texto ou voz Ah é uma mistura é uma
+ 01:15:36
+
+mistura
+ 01:15:39
+
+e às vezes eles gostam bastante da voz
+ 01:15:40
+
+porque tu tá lidando nem eu falei tá no
+ 01:15:43
+
+trator lá não consegue digitar manda um
+ 01:15:45
+
+áudio funciona funciona também eu
+ 01:15:47
+
+trabalho sempre com meu fone de ouvido
+ 01:15:50
+
+aqui no web para ficar ouvindo mensagem
+ 01:15:51
+
+de áudio dos produtores não é mas eu se eu
+ 01:15:53
+
+escrever se eu escrever Eles leem Sem
+ 01:15:56
+
+problema nenhum reo mais UD Mas eles
+ 01:15:58
+
+gostam mais de escrever ou de falar eles
+ 01:16:01
+
+eles gostam mais de falar por causa
+ 01:16:04
+
+disso que eu falei eles falam enquando
+ 01:16:06
+
+estão fazendo outra coisa tá não é Eles
+ 01:16:08
+
+continuam falando e fazendo outra coisa
+ 01:16:10
+
+e eu uso os grupos de WhatsApp que da
+ 01:16:12
+
+são grupos de interesses específicos daí
+ 01:16:16
+
+nesse grupo eu compartilho informações
+ 01:16:19
+
+eh para todos como se for
+ 01:16:20
+
+e por exemplo tem uma série de
+ 01:16:24
+
+informações que eu não passo no no
+ 01:16:25
+
+ambiente aqui para todos no Instagram
+ 01:16:28
+
+por exemplo que eu passo no grupo por
+ 01:16:30
+
+quê Porque elas são muito específicas às
+ 01:16:32
+
+vezes eu tô falando do caso que eu vi em
+ 01:16:34
+
+alguma propriedade de ó pessoal tal tal
+ 01:16:36
+
+tal ali não é daí eu mando para todos ou
+ 01:16:39
+
+são informações que pode ter conflito
+ 01:16:42
+
+comercial por exemplo eu fiz um
+ 01:16:44
+
+levantamento eu faço todo ano fiz um
+ 01:16:47
+
+levantamento das variedades de pastagens
+ 01:16:49
+
+que estão sendo comercializadas aqui na
+ 01:16:50
+
+região e daí eu mando lá o meu
+ 01:16:52
+
+posicionamento de pastagens pros
+ 01:16:54
+
+produtores do grupo do Elite a pasto seo
+ 01:16:56
+
+eu mando só pro grupo do Elite a pasto
+ 01:16:58
+
+por quê porque imagina se eu lanço isso
+ 01:17:01
+
+no Instagram isso vai para outros
+ 01:17:03
+
+lugares que tem outras opções que a
+ 01:17:05
+
+empresa pode ver que eu não tô
+ 01:17:07
+
+recomendando pode dar problema então
+ 01:17:09
+
+isso é específico aqui pro pro meu grupo
+ 01:17:10
+
+e isso é geral isso eu mando para todos
+ 01:17:13
+
+no grupo depois individualmente o cara
+ 01:17:15
+
+viu lá ah e aquele milheto ali será que
+ 01:17:18
+
+vai bem aqui em casa daí a assistência
+ 01:17:21
+
+técnica individual não é que que muitas
+ 01:17:23
+
+vezes é para eu dizer para ele pega que
+ 01:17:27
+
+eu vou aí na tua casa e a gente conversa
+ 01:17:30
+
+vou te fazer uma visita amanhã eu passo
+ 01:17:31
+
+aí depois de manhã e a gente faz um
+ 01:17:33
+
+planejamento não é mas eu já lanço no grupo
+ 01:17:35
+
+de WhatsApp lá o grupo do WhatsApp eu
+ 01:17:38
+
+uso desde o início e ele funciona muito
+ 01:17:39
+
+bem não é Por exemplo aquele o relatório do
+ 01:17:41
+
+GT late que é o
+ 01:17:44
+
+aplicativo eu Gero esse relatório e
+ 01:17:47
+
+mando individual para cada um mando no
+ 01:17:49
+
+Whats manda em JPEG ó coisas que a gente
+ 01:17:52
+
+vai desenvolvendo no meio do caminho não é
+ 01:17:55
+
+No início eu gerava o relatório em PDF
+ 01:17:56
+
+daí tem produtores que não t leitor de
+ 01:17:59
+
+PDF no no celular instalado então eu
+ 01:18:01
+
+mando em JPEG no corpo do texto da
+ 01:18:05
+
+mensagem de WhatsApp para ele clicar e
+ 01:18:08
+
+poder ler o relatório paralelo a ele eu
+ 01:18:10
+
+mando um áudio daí tem que ser um áudio
+ 01:18:12
+
+testei também com a minha leitura dos
+ 01:18:15
+
+principais pontos daquele relatório
+ 01:18:18
+
+porque o relatório vem com um monte de
+ 01:18:20
+
+dados de termo por mais que eu tenha
+ 01:18:21
+
+capacitado eles para ler eles ficam mais
+ 01:18:24
+
+seguros com a minha leitura não é daí a
+ 01:18:27
+
+partir disso eu pergunto e aí o que que
+ 01:18:30
+
+tu acha tal tal tal daí se se desenvolve
+ 01:18:32
+
+alguma coisa eu vou lá fazer uma visita
+ 01:18:34
+
+e vamos trabalhar naquele ponto agora
+ 01:18:36
+
+eles já estão bem acostumados não é mas ah
+ 01:18:39
+
+isso individual ali claro os outros
+ 01:18:42
+
+produtores não podem ter acesso aad não é
+ 01:18:45
+
+de cada um N E aí no grupo eu mando um
+ 01:18:47
+
+geral lá coisas que eu vejo que estão em
+ 01:18:50
+
+geral para todos eu mando no grupo não é se
+ 01:18:51
+
+é alguma coisa que eu vejo que pode
+ 01:18:53
+
+extrapolar como aquela função do esterco
+ 01:18:54
+
+ali aí eu lanço pro pro Instagram não é
+ 01:18:57
+
+pras outras redes sociais
+ 01:18:59
+
+não maravilhoso maravilhoso que nem o
+ 01:19:02
+
+Ezequiel fez aí agora de tirar o chapéu
+ 01:19:05
+
+entendeu não é Muito muito bacana Nossa
+ 01:19:07
+
+muito legal Ezequiel com você meu
+ 01:19:11
+
+querido você quiser
+ 01:19:13
+
+o falar pro pessoal que tá assistindo a
+ 01:19:15
+
+gente aí vamos chamar tu entendeu a
+ 01:19:18
+
+mensagem só com tirar o chatel
+ 01:19:21
+
+literalmente muito bom sen é inclusive
+ 01:19:23
+
+eu já te indiquei o teu perfil paraos
+ 01:19:26
+
+meus alunos do técnico em Agropecuária
+ 01:19:28
+
+turma manhã e tarde tenho duas turmas é
+ 01:19:29
+
+que eles gostam muito de bovin Cultura
+ 01:19:32
+
+de leite bovin Cultura em geral não do
+ 01:19:34
+
+leite não é E aí eu disse olha siga o
+ 01:19:37
+
+Leandro lá porque ele tem muito conteúdo
+ 01:19:39
+
+legal e vocês ficam atualizado do que
+ 01:19:42
+
+que tá sendo divulgado aí na ciência não é
+ 01:19:44
+
+então é muito legal já indiquei lá muito
+ 01:19:47
+
+alguns Alguns já seguiram pode pode
+ 01:19:49
+
+foi umas semanas atrás não foi não foi
+ 01:19:53
+
+de agora não tá Ah mas muito legal olha
+ 01:19:55
+
+aqui ó vamos interagir com o nosso
+ 01:19:58
+
+público senão eles vão nos dizer assim
+ 01:20:00
+
+ai não interage com nós não é Muito
+ 01:20:01
+
+obrigado pela presença do Pedro Ubatã aí
+ 01:20:03
+
+obrigadão meu queridao aí que a gente se
+ 01:20:06
+
+você v geralmente Santa Maria fez
+ 01:20:09
+
+umaestrada extensão Rural muito legal
+ 01:20:11
+
+tem o pessoal aqui da de Manaus Olha só
+ 01:20:14
+
+Genival de Manaus obrigado pela presença
+ 01:20:16
+
+o André Vitorino do IDR Paraná Toledo
+ 01:20:20
+
+Olha que
+ 01:20:23
+
+bacana temos a nanc depois a nanc Faz
+ 01:20:24
+
+uma pergunta pro Leandro eu vou colocar
+ 01:20:27
+
+aqui também temos também a Roberta
+ 01:20:29
+
+Roberta ela medicina veterinária daat
+ 01:20:32
+
+São lour do Sul a médico veterinária
+ 01:20:35
+
+muito bom a córdula n tá aí presente não é
+ 01:20:38
+
+GPL npr ner também a n faz o seguinte
+ 01:20:42
+
+questionamento Olha só muito bacana
+ 01:20:47
+
+entendi que existe uma seria entre
+ 01:20:51
+
+matéria Prefeitura Municipal e os
+ 01:20:53
+
+produtores minha dúvida é se houve
+ 01:20:55
+
+destinação de recurso em alguma etapa do
+ 01:20:57
+
+projeto ou só
+ 01:20:59
+
+parcerias tá especificamente pro projeto
+ 01:21:02
+
+não
+ 01:21:06
+
+eh o que tem é um conjunto de ações que
+ 01:21:07
+
+já são desenvolvidas e que a gente
+ 01:21:11
+
+integra e algumas coisas que surgem
+ 01:21:13
+
+eh por exemplo não é a propriedade ali a
+ 01:21:17
+
+nossa unidade de referência que foi
+ 01:21:21
+
+meada aqui
+ 01:21:22
+
+ah a gente trabalhou a infraestrutura da
+ 01:21:24
+
+propriedade lá corredores e tentão para
+ 01:21:26
+
+sistemas à base de pasto daí a
+ 01:21:28
+
+prefeitura foi com os serviços de
+ 01:21:30
+
+máquinas lá para fazer o cascalhamento
+ 01:21:32
+
+ajustar os corredores e tal então isso
+ 01:21:35
+
+existe não é isso existe isso é serviços
+ 01:21:38
+
+que a prefeitura já oferece não só pro
+ 01:21:40
+
+projeto para todos e que a gente integra
+ 01:21:42
+
+o projeto usando aproveitando essas
+ 01:21:45
+
+oportunidades dentro do projeto não é ã os
+ 01:21:47
+
+eventos não é quando a gente faz també
+ 01:21:51
+
+também claro a prefeitura é parceira
+ 01:21:52
+
+e e uma uma que surgiu por exemplo mas
+ 01:21:55
+
+não foi só desse trabalho do do outro
+ 01:21:58
+
+trabalho com soja também a gente
+ 01:22:00
+
+identificou essa demanda e nós começamos
+ 01:22:02
+
+um um fomento A análise de solo no
+ 01:22:06
+
+município então o município hoje através
+ 01:22:09
+
+do bônus metrologia ele custeia A
+ 01:22:11
+
+análise de solo para produtores do
+ 01:22:13
+
+município de Serafina Correia e
+ 01:22:16
+
+obviamente isso Surgiu da demanda desses
+ 01:22:18
+
+produtores porque justamente porque eu
+ 01:22:20
+
+via a gente via nas visitas que a gente
+ 01:22:23
+
+precisava de muitas análises de solo
+ 01:22:26
+
+porque as propriedades São não são
+ 01:22:28
+
+uniformes a gente tem relevo acidentado
+ 01:22:30
+
+então ah tem uma mancha de solo aqui
+ 01:22:32
+
+outra ali outra ali eu preciso das
+ 01:22:35
+
+análise de solo desses dessas manchas não é
+ 01:22:37
+
+E aí o produtor lá tem prod Faz 15 20
+ 01:22:40
+
+anális de solo para ter todas as glebas
+ 01:22:42
+
+da propriedade E aí tu bota uma análise
+ 01:22:44
+
+de solo é 50 pila é barata não é mas quando
+ 01:22:47
+
+vai para 15 análise de solo já é R 750
+ 01:22:49
+
+não é já comea a não ser uma coisa tão
+ 01:22:52
+
+acessível assim e aí o município foi
+ 01:22:54
+
+parceiro aderim aderimos ao bônus
+ 01:22:57
+
+metrologia e o e a custeio das análises
+ 01:22:59
+
+sola paraos produtores e a gente usa
+ 01:23:02
+
+como ferramenta hoje nos projetos sem
+ 01:23:04
+
+sem custo nenhum para esses produtores
+ 01:23:07
+
+então eu diria mais interligado assim
+ 01:23:09
+
+nessas ações do que especificamente pro
+ 01:23:11
+
+projeto até porque o projeto eleite
+ 01:23:14
+
+pasto ele é um projeto
+ 01:23:16
+
+técnico então ele não requer recursos a
+ 01:23:18
+
+não ser os recursos que A Emater já tem
+ 01:23:22
+
+que é o extensionista é o carro do
+ 01:23:25
+
+Emater é o escritório do Emater Que é
+ 01:23:27
+
+parceria com o município não é um
+ 01:23:29
+
+smartphone o computador o técnico
+ 01:23:31
+
+trabalhar e gente não é gente para
+ 01:23:33
+
+trabalhar que tá faltando na extensão
+ 01:23:36
+
+Rural foi diminuindo até a o número de
+ 01:23:38
+
+projetos porque tá faltando gente tá com
+ 01:23:41
+
+expectativa agora que via concurso aí
+ 01:23:43
+
+entre mais extensionistas mesmo é isso
+ 01:23:45
+
+que a gente precisa para fazer esse
+ 01:23:47
+
+trabalho então por isso que que que foi
+ 01:23:49
+
+desenvolvido dessa forma
+ 01:23:51
+
+muito legal Vale ressaltar que que ontem
+ 01:23:54
+
+foi divulgado aí o resultado final aí da
+ 01:23:57
+
+o eu acho que é o resultado parcial do
+ 01:24:00
+
+processo seletivo da matéria tem muita
+ 01:24:02
+
+gente boa que passou e tomara que logo
+ 01:24:04
+
+Venha integrar as equipes porque real
+ 01:24:06
+
+exão se faz com pessoas não é E precisa de
+ 01:24:08
+
+pessoas e uma coisa assim para
+ 01:24:11
+
+complementar não é Eh a questão da nanc não é
+ 01:24:13
+
+porque assim a extensão não faz nada
+ 01:24:16
+
+sozinho não é tudo as instituições precisam
+ 01:24:18
+
+estar junto não é Cada Então faz um pouco
+ 01:24:21
+
+um pouquinho e esse pouquinho gera muito
+ 01:24:23
+
+não é agora uma coisa Leandro que eu já
+ 01:24:25
+
+venho lutando e e talvez pode ser um
+ 01:24:28
+
+futuro aí pras instituições não sei de
+ 01:24:30
+
+quem seria essa essa questão mas eu acho
+ 01:24:32
+
+que e nesse mundo digital nós poderia
+ 01:24:35
+
+facilitaria o nosso trabalho seja do
+ 01:24:39
+
+professor seja do do extensionista é um
+ 01:24:41
+
+estúdio não é para trabalhar essas questões
+ 01:24:44
+
+não é aí Claro é difícil vamos pensar Ah
+ 01:24:47
+
+vamos ter um estúdio em cada município
+ 01:24:49
+
+não sei se seria viável não é porque não é não
+ 01:24:51
+
+não não resolveria mas os equipamentos
+ 01:24:54
+
+fazem muita diferença você que edita
+ 01:24:56
+
+vídeo sabe que o equipamento é
+ 01:24:59
+
+fundamental não é só o fato de ficar fazer
+ 01:25:01
+
+uma edição de vídeo quantas horas do teu
+ 01:25:05
+
+trabalho você levaria certamente tu faz
+ 01:25:07
+
+isso à noite em outras horas não é no teu
+ 01:25:09
+
+tempo de lazer não é então isso faz uma
+ 01:25:11
+
+diferença incrível porque esse processo
+ 01:25:14
+
+aqui que você faz é diferenciado e isso
+ 01:25:15
+
+isso vai porque tu tem paixão pelo
+ 01:25:19
+
+negócio você tem amor não é então assim
+ 01:25:22
+
+isso envolve muita dedicação sua e eu
+ 01:25:25
+
+sei a gente sabe porque nós trabalhamos
+ 01:25:27
+
+com isso também não é então isso isso é
+ 01:25:29
+
+você é realmente diferenciado por essas
+ 01:25:32
+
+questões mas que mas a o equipamento faz
+ 01:25:35
+
+a diferença para aqueles que querem
+ 01:25:38
+
+fazer não é Isso é imprescindível não é é
+ 01:25:39
+
+desde a gente tem muita dificuldade não é
+ 01:25:43
+
+tanto equipamento para processar o
+ 01:25:46
+
+software pesado Às vezes a própria
+ 01:25:48
+
+compra de um software bom leve não é Eh mas
+ 01:25:51
+
+isso
+ 01:25:54
+
+tá é difícil não é isso as transformações
+ 01:25:54
+
+acontecem muito rápido então nossos
+ 01:25:58
+
+equipamentos às vezes são antigos não é a
+ 01:26:00
+
+gente tem agora smartphones da Emater
+ 01:26:02
+
+aqui do município que é muito bom que eu
+ 01:26:05
+
+consigo gravar bons vídeos e editar nele
+ 01:26:07
+
+e tal eh mas isso também requer uma
+ 01:26:10
+
+qualificação do do da gente saber mexer
+ 01:26:13
+
+nisso de ter um um um microfonezinho
+ 01:26:15
+
+para gravar o áudio não é um microfonezinho
+ 01:26:18
+
+sem fio para ficar melhor esse tipo de
+ 01:26:20
+
+tecnologia a gente precisa Começar a se
+ 01:26:22
+
+apropriar delas não é como instituição e
+ 01:26:24
+
+como institucion isas noss porque não
+ 01:26:27
+
+adianta eh
+ 01:26:29
+
+eh levar lá câmeras microfones e ficar
+ 01:26:32
+
+guardado numa gaveta lá não é então isso
+ 01:26:36
+
+precisa ser inserido como no trabalho não é
+ 01:26:38
+
+eu esqueci de comentar ali não é porque eu
+ 01:26:41
+
+comentei mais da parte das parcerias da
+ 01:26:42
+
+parte lá no no campo não é das máquinas das
+ 01:26:44
+
+análises solo Mas digital também não é o
+ 01:26:47
+
+próprio conversa com extensionista foi
+ 01:26:49
+
+todo com um assessoramento da Imprensa
+ 01:26:51
+
+do município pessoal da assessoria da
+ 01:26:55
+
+Imprensa que me deu assessoramento para
+ 01:26:57
+
+divulgar para para colocar os vídeos no
+ 01:26:58
+
+ar e etc e também a rádio não é daí que que
+ 01:27:01
+
+eu a gente tem um programa de rádio e eu
+ 01:27:05
+
+passava trechos cortes desses conversas
+ 01:27:08
+
+com extensionista no programa de rádio
+ 01:27:11
+
+daí a rádio me propôs se a gente passar
+ 01:27:13
+
+eles inteiro em um outro horário daí a
+ 01:27:15
+
+gente começou a fazer a parceria e
+ 01:27:19
+
+passar ali e e ampliou porque atingi o
+ 01:27:21
+
+público que não tá no digital também
+ 01:27:24
+
+não é Muito bom eu vou vou depois eu volto
+ 01:27:27
+
+na na Pergunta assim mas já vou colocar
+ 01:27:31
+
+a questão da Nancy porque é legal não é Ela
+ 01:27:33
+
+perguntou isso justamente por notar que
+ 01:27:36
+
+o que mais falta é gente obrigado e ela
+ 01:27:38
+
+vai complementar trabalho na Fundação
+ 01:27:40
+
+itesp e noto uma dificuldade enorme em
+ 01:27:42
+
+criar discussões sobre o uso de
+ 01:27:45
+
+tecnologias dentro do próprio corpo
+ 01:27:47
+
+técnico eu falo a a a mesma coisa não é eu
+ 01:27:49
+
+faço essa comparação às vezes em sala de
+ 01:27:53
+
+aula também eh não adianta você ter o
+ 01:27:55
+
+melhor celular do mundo se você não sabe
+ 01:27:57
+
+mexer e usar os aplicativos como não
+ 01:28:00
+
+adianta Talvez o agricultor ter a melhor
+ 01:28:02
+
+tecnologia do mundo se ele também não
+ 01:28:04
+
+sabe mexer nisso e não vai conseguir
+ 01:28:06
+
+usar todo o potencial longe de dizer que
+ 01:28:07
+
+não é importante a tecnologia a
+ 01:28:10
+
+tecnologia é sensacional ela nos
+ 01:28:12
+
+qualifica nosso trabalho melhor mas
+ 01:28:14
+
+também a gente precisa saber lidar com
+ 01:28:17
+
+elas não é que esse é o grande desafio não é
+ 01:28:18
+
+fazer corte de vídeo é um negócio que
+ 01:28:21
+
+parece simples não é simples tô 4 anos
+ 01:28:24
+
+apanhando dos aplicativos o Leandro sabe
+ 01:28:28
+
+fazer cartes muito melhor do que eu
+ 01:28:31
+
+porque eu Isso é isso é ter muito estudo
+ 01:28:32
+
+que é por trás não é então só para ter uma
+ 01:28:35
+
+ideia trazer a pergunta do Pedro aqui
+ 01:28:37
+
+bem interessante que ele comenta lá
+ 01:28:40
+
+quando você falava lá da sua mudança de
+ 01:28:43
+
+município não é que é O Grande Debate de
+ 01:28:45
+
+extensão oral não é Parabéns aos
+ 01:28:47
+
+organizadores e ao Leandro pela
+ 01:28:49
+
+brilhante apresentação é sensacional
+ 01:28:51
+
+mesmo eh pergunto como está o trabalho
+ 01:28:54
+
+iniciado no município onde trabalhou
+ 01:28:57
+
+anteriormente Fagundes Varela foi
+ 01:29:00
+
+possível
+ 01:29:02
+
+continuidade muito bem primeiro um
+ 01:29:04
+
+abraço pro Pedro Pedro é uma referência
+ 01:29:06
+
+para para mim como extensionista eu tive
+ 01:29:09
+
+a satisfação um dia de viajar de Santa
+ 01:29:12
+
+Maria para um para umas reuniões com o
+ 01:29:14
+
+Pedro no carro e e a gente conversou ali
+ 01:29:17
+
+que eu levo até hoje alguns aprendizados
+ 01:29:20
+
+que eu tive eu que sou jovem não é sou novo
+ 01:29:22
+
+Eh tive tive uns relatos de experiências
+ 01:29:24
+
+ali do Pedro que que me ajudam muito até
+ 01:29:28
+
+hoje Pedro saiba disso
+ 01:29:31
+
+eh Pedro tem dois poréns aí tá que eu
+ 01:29:33
+
+gostaria de ter
+ 01:29:38
+
+ressaltado que foi eu avalio como um
+ 01:29:40
+
+acerto que que teve um ajuste no meio do
+ 01:29:43
+
+caminho lá que que foi um acerto que o o
+ 01:29:46
+
+o GT Leite especificamente tinha outras
+ 01:29:49
+
+as ações vamos falando do GT leate ele
+ 01:29:51
+
+começou com o objetivo da intervenção
+ 01:29:54
+
+Direta do técnico e no meio do caminho
+ 01:29:57
+
+eu coloquei aquela apropriação de
+ 01:30:00
+
+conhecimento pelas famílias e sabe por
+ 01:30:01
+
+que que eu fiz isso porque eu saí de
+ 01:30:04
+
+férias fiquei 20 dias viajando e quando
+ 01:30:07
+
+eu voltei tava um
+ 01:30:11
+
+caos quando eu voltei as propriedades
+ 01:30:13
+
+tava manejo tudo errado produtividade
+ 01:30:17
+
+caiu tava tudo atrapalhado chamar um
+ 01:30:19
+
+técnico de laticínio que não não não
+ 01:30:22
+
+soube orientar e foi tudo Água Abaixo aí
+ 01:30:24
+
+eu fiz uma reunião emergencial com todos
+ 01:30:27
+
+ali e não é o os passos tinham crescido
+ 01:30:29
+
+mais do que os previstos e eles não
+ 01:30:33
+
+souberam lidar sem eu e ninguém soube
+ 01:30:34
+
+orientar eles daí eu fiz uma reunião
+ 01:30:37
+
+emergencial ali combinei com eles a
+ 01:30:39
+
+partir de agora nós vamos mudar e além
+ 01:30:40
+
+da intervenção do técnico vai ser a
+ 01:30:42
+
+apropriação do
+ 01:30:44
+
+conhecimento para vocês saberem se virar
+ 01:30:45
+
+sem
+ 01:30:48
+
+eu que isso não pode acontecer você não
+ 01:30:49
+
+pode ficar dependente de minha vida
+ 01:30:51
+
+inteira e foi e eu fiz isso em tempo foi
+ 01:30:53
+
+em 2017 eu saí final de 2018 lá e deu
+ 01:30:55
+
+certo hoje eu te diria que esses
+ 01:30:59
+
+produtores podem dar palestra sobre
+ 01:31:02
+
+produção de delito a base de paz tanto
+ 01:31:04
+
+que eu levei a Ivânia lá falar comigo e
+ 01:31:06
+
+tal levei os meus produtores visitar lá
+ 01:31:09
+
+e eles recebem universidade e podem
+ 01:31:11
+
+falar sefina aqui também já pode porque
+ 01:31:13
+
+eles aprenderam Então esse trabalho ele
+ 01:31:17
+
+ele as propriedades em si elas se
+ 01:31:20
+
+tocariam
+ 01:31:23
+
+sozinhos essas ali especificamente o por
+ 01:31:24
+
+isso que eu falei que tem dois pontos
+ 01:31:29
+
+Esse é um ponto que esse trabalho eu não
+ 01:31:30
+
+me preocupei com eles porque eles
+ 01:31:32
+
+estavam prontos já para para andar
+ 01:31:33
+
+sozinhos O Grande Desafio que eu já tava
+ 01:31:36
+
+tendo comigo lá é como ampliar isso para
+ 01:31:39
+
+mais
+ 01:31:42
+
+produtores E aí a Taciana colega da
+ 01:31:43
+
+Emater que assumiu no meu lugar lá foi
+ 01:31:46
+
+muito interessante o acaso de ter essa
+ 01:31:49
+
+mudança de extensionista e ter ido ela
+ 01:31:52
+
+porque sendo ela uma outra pessoa com
+ 01:31:54
+
+uma outra forma de ver de falar de se
+ 01:31:56
+
+comunicar talvez Alguns produtores que
+ 01:31:59
+
+eu não tava conseguindo atingir ela
+ 01:32:01
+
+conseguiu
+ 01:32:04
+
+não é não foi fácil para ela eu lembro
+ 01:32:05
+
+porque eu dei muito suporte para ela no
+ 01:32:07
+
+início porque os produtores estavam num
+ 01:32:09
+
+nível muito alto e ela não acompanhou
+ 01:32:10
+
+todo esse trabalho eu acompanhei eu
+ 01:32:13
+
+sofri junto eu fui lá primeira vez que o
+ 01:32:15
+
+cara soltou a vaca no pasto de tarde que
+ 01:32:17
+
+eles não soltavam eu tava lá junto sabe
+ 01:32:19
+
+Eu apanhei junto botei pasto lá fiz
+ 01:32:22
+
+unidades cortei pesei pasto eu passei
+ 01:32:24
+
+por tudo isso junto e aprendi junto com
+ 01:32:27
+
+esses produtores ela não ela pegou o
+ 01:32:28
+
+negócio pronto que é muito mais
+ 01:32:30
+
+difícil E aí ela ela foi esperta porque
+ 01:32:32
+
+ela ela foi esperta não foi inteligente
+ 01:32:35
+
+não é Vamos usar um termo melhor porque ela
+ 01:32:38
+
+colou na família Binda ali que que é a
+ 01:32:40
+
+unidade de referência que tá bem
+ 01:32:42
+
+desenvolvida e foi acompanhando para ela
+ 01:32:43
+
+pegar e conforme ela foi tendo acesso a
+ 01:32:45
+
+outras propriedades ela foi
+ 01:32:48
+
+desenvolvendo então sim eu acho que
+ 01:32:49
+
+cumpriu com o objetivo de qualificar
+ 01:32:52
+
+aqueles produtores para eles serem
+ 01:32:54
+
+referências e eles são eles recebem lá
+ 01:32:57
+
+hoje universidades outros
+ 01:33:01
+
+eh curiosamente também os acasos não é hoje
+ 01:33:03
+
+o Thiago Binda que é o filho da Ivana
+ 01:33:06
+
+ele é secretária da agricultura do
+ 01:33:08
+
+município então ele leva essa visão
+ 01:33:09
+
+aonde ele vai lá e tal e o E
+ 01:33:12
+
+aí ela extrapolou isso para outras
+ 01:33:17
+
+propriedades Conseguiu dar uma ampl que
+ 01:33:20
+
+eu tava tendo dificuldade lá comigo
+ 01:33:21
+
+lidar então sim o trabalho cumpriu a sua
+ 01:33:23
+
+função e ele esses produtores continuam
+ 01:33:26
+
+e ele foi tá sendo ampliado a partir
+ 01:33:29
+
+dessa experiência que a Taciana pegou lá
+ 01:33:33
+
+comigo com esses produtores de levar
+ 01:33:36
+
+essa levar esse conhecimento para
+ 01:33:39
+
+oportunizar outros
+ 01:33:42
+
+produtores muito bom a gente quer que tu
+ 01:33:46
+
+fique falando mais porque tá tão bom
+ 01:33:49
+
+muito olha sensacional eu eu vou trazer
+ 01:33:53
+
+o o Pedro falou aqui que a tua tua tua
+ 01:33:55
+
+Live lembrou o velho o velhinho Paulo
+ 01:34:00
+
+Freire extensão comunicação é um Marco
+ 01:34:02
+
+aí na na na questão da extensão oral não é
+ 01:34:04
+
+que que ele fala que Paulo Freire não é bem
+ 01:34:07
+
+resumido não é que não é só não é fazer
+ 01:34:10
+
+extensão é fazer comunicação com os
+ 01:34:13
+
+agricultores não é aprender junto essa
+ 01:34:15
+
+ideia do empoderamento dos Agricultores
+ 01:34:17
+
+aí é muito parece muito fácil mas é
+ 01:34:19
+
+muito difícil de fazer não é e e e é e eu e
+ 01:34:21
+
+eu me vi no trabalho das da
+ 01:34:25
+
+extensionista que você substituiu não é
+ 01:34:27
+
+porque a gente entrou num eu vinha vim
+ 01:34:29
+
+para Santa Maria entrei num técnico
+ 01:34:31
+
+fruticultura não é E aí que um trabalho que
+ 01:34:33
+
+já tava em andamento por um
+ 01:34:36
+
+extensionista não é então é é difícil
+ 01:34:37
+
+porque tu não tu não começa tu não
+ 01:34:40
+
+apanhou junto tu pegou a carroça andando
+ 01:34:41
+
+Como diz antigamente não é aí é mais
+ 01:34:45
+
+difícil não é obviamente não é então tem essas
+ 01:34:49
+
+coisas eu vou chamar aqui ó o Gilberto
+ 01:34:52
+
+Olha só o Gilberto agora tu vai ter que
+ 01:34:56
+
+responder essa o Gilberto parabéns pelo
+ 01:34:58
+
+trabalho Leandro sou da CTI de São Paulo
+ 01:35:02
+
+Estamos fazendo um trabalho parecido
+ 01:35:04
+
+como o dele via mídias sociais com sua
+ 01:35:06
+
+autorização queremos fazer algo parecido
+ 01:35:10
+
+com fale o
+ 01:35:12
+
+extensionista que que você diz paraesse
+ 01:35:14
+
+nosso amigo Gilberto isso seria com o
+ 01:35:16
+
+conversa com o extensionista a ideia
+ 01:35:20
+
+seria não é tá tem que ver o Claro eu acho
+ 01:35:22
+
+ótimo não é Quanto mais a gente tiver aí
+ 01:35:26
+
+nós extensionistas melhor as empresas
+ 01:35:29
+
+estão tá
+ 01:35:31
+
+então se a gente não ocupa esse espaço
+ 01:35:33
+
+alguém ocupa
+ 01:35:35
+
+eh eu pensaria no nome melhor ali não é eu
+ 01:35:38
+
+pensei no nome pro meu depois e o
+ 01:35:41
+
+converso é um nome bom mas eu eu gostei
+ 01:35:44
+
+do nome também extensionista entrevista
+ 01:35:46
+
+tá é uma sugestão de nome se tu vai
+ 01:35:49
+
+fazer entrevista com alguém tu tu como
+ 01:35:51
+
+extensionista entrevistando o
+ 01:35:53
+
+extensionista entrevista é um bom nome
+ 01:35:55
+
+que eu diria para para isso é porque no
+ 01:35:57
+
+meu caso eu chamei outros profissionais
+ 01:36:00
+
+e bem dizendo eu entrevistei eles não é
+ 01:36:02
+
+botei uma conversa porque claro eu bati
+ 01:36:04
+
+uma bola ali mas a entrevista seria
+ 01:36:06
+
+legal também fale com o extensionista é
+ 01:36:08
+
+um nome bom também mas parece que é para
+ 01:36:11
+
+quem tá assistindo falar contigo mas tu
+ 01:36:13
+
+vai est lá disponível para tipo uma sala
+ 01:36:15
+
+de chat e quem entra lá para falar
+ 01:36:18
+
+contigo ti dúvida um plantão uma coisa
+ 01:36:20
+
+assim me passa mais uma ideia de um
+ 01:36:22
+
+plantão digital uma coisa assim do que
+ 01:36:24
+
+um um bate-papo não é um uma
+ 01:36:26
+
+conversa uma entrevista não é mas ótimo
+ 01:36:29
+
+acho excelente acho Pode meter visto Se
+ 01:36:32
+
+quiser pode entrar em contato comigo aí
+ 01:36:36
+
+também para trocar umas figurinhas de
+ 01:36:38
+
+como fazer muito bom excelente de as
+ 01:36:39
+
+questões do dos nomes assim elas no
+ 01:36:43
+
+depois quando tu pega um certa
+ 01:36:46
+
+experiência tu vai vendo que é é muito
+ 01:36:47
+
+importante o a nome a marca entre aspas
+ 01:36:50
+
+ela transmite muita coisa excelente e
+ 01:36:54
+
+como as coisas estão cada vez mais
+ 01:36:57
+
+rápidas o cara vê o nome se o nome não
+ 01:36:59
+
+chamou atenção já nem vai ver o a
+ 01:37:02
+
+legenda e daí tu perdeu tu tem que ter
+ 01:37:04
+
+esse Impacto Inicial ali do que que é
+ 01:37:07
+
+que tu tá falando por isso que tem que
+ 01:37:09
+
+ser bem pensado também é muito legal e
+ 01:37:11
+
+eu sempre dou uma dica inclusive foram
+ 01:37:14
+
+meus os criadores foram meus alunos eh
+ 01:37:16
+
+lá em Unaí Minas Gerais que eles criaram
+ 01:37:19
+
+um perfil chamado eterno agrônomo não é a
+ 01:37:22
+
+identidade não é eu me identifico eterno
+ 01:37:25
+
+agrônomo então todo mundo identificava
+ 01:37:28
+
+com o perfil do eterno agrônomo
+ 01:37:31
+
+Justamente por isso não é Então essa
+ 01:37:33
+
+questão da identidade também vem junto
+ 01:37:35
+
+não é e o que que você quer transmitir
+ 01:37:38
+
+muito bacana amanhã a gente tá fazendo
+ 01:37:40
+
+uma conversa com extensionistas aqui no
+ 01:37:42
+
+colégio politcnico da Universidade fal
+ 01:37:44
+
+Santa Maria vou trazer três
+ 01:37:46
+
+extensionistas aqui conversar com a
+ 01:37:47
+
+nossa turma de tecn pecuário agora vou
+ 01:37:49
+
+ter que trazer o Leandro presencial daí
+ 01:37:52
+
+é conversa mesmo Leandro não traga um
+ 01:37:54
+
+slide é conversa vem vem para
+ 01:37:56
+
+cá olha Leandro assim ó quando tu fez um
+ 01:37:59
+
+quando essa aí eu vou chamar o zoin para
+ 01:38:02
+
+ele ficar atento nessa aqui ó quando
+ 01:38:04
+
+você começou a falar e eu comecei aqui
+ 01:38:07
+
+sistematizar o eu chamo o zoin porque o
+ 01:38:09
+
+zoin é muito bom nisso aqui eu não sou
+ 01:38:11
+
+tão bom assim não é é eu tô aprendendo com
+ 01:38:12
+
+com as feras
+ 01:38:15
+
+não é olha aqui ó quanto foi falando não é eu
+ 01:38:16
+
+fiquei pensando eu não não sei se eu
+ 01:38:20
+
+tracei certo tá is que é quem faz quem
+ 01:38:21
+
+sabe faz ao vivo não sei se eu sei mas
+ 01:38:24
+
+enfim eu fui tentando traçar O que que
+ 01:38:25
+
+você foi fazendo no seu trabalho não é que
+ 01:38:28
+
+que legitima o trabalho que mostra a
+ 01:38:31
+
+visibilidade da extensão oral porque não é
+ 01:38:34
+
+tempos atrás eu li uma Eu fiz um vídeo
+ 01:38:37
+
+por com isso não é A questão da
+ 01:38:39
+
+invisibilidade do trabalho de extensão
+ 01:38:40
+
+ural não é às vezes os agricultores eles
+ 01:38:42
+
+não percebem que aquilo é extensão Rural
+ 01:38:44
+
+e foi um trabalho feito divulgado aí
+ 01:38:46
+
+também artigo científico internacional
+ 01:38:48
+
+não é E daí eu fiquei pensando que isso que
+ 01:38:51
+
+tu tá fazendo é a visibilidade do
+ 01:38:53
+
+trabalho de extensão oral daí eu fiquei
+ 01:38:55
+
+pensando aqui tá na minha folhinha aqui
+ 01:38:57
+
+eh bom primeiro tu estuda não é obviamente
+ 01:38:59
+
+não tem como não não ter estudo por trás
+ 01:39:02
+
+disso não é você estudou fez esse estudo
+ 01:39:04
+
+individual você se preparou e aí vai
+ 01:39:06
+
+conversar com o agricultor segundo passo
+ 01:39:09
+
+seria conversar com o agricultor fazer
+ 01:39:12
+
+essa mediação do conhecimento interagir
+ 01:39:14
+
+com ele eu posso tu talvez tenha outros
+ 01:39:17
+
+passos mas depois Você pode me explicar
+ 01:39:20
+
+daí você conversou com n daí você vê que
+ 01:39:22
+
+algumas coisas você sabe outras você não
+ 01:39:25
+
+sabe Daí você volta reestudar o tema não é
+ 01:39:26
+
+fiquei pensando aqui não é Depois você pode
+ 01:39:30
+
+cumprimentar Eh aí Tu estudou o tema e
+ 01:39:32
+
+tal daí você faz mais uma interação com
+ 01:39:36
+
+eles e aí você pode Talvez pensar nos
+ 01:39:38
+
+produtos audiovisuais que é onde você
+ 01:39:41
+
+chega nos videozinhos de 90 segundos as
+ 01:39:43
+
+lives e tal Porque tu achou que esse
+ 01:39:46
+
+tema é importante tem que ser mais
+ 01:39:48
+
+difundido os agricultores Aí talvez você
+ 01:39:50
+
+rec conversa com os agricultores
+ 01:39:54
+
+novamente e por final você faz a escrita
+ 01:39:55
+
+de Notícias jornais E também o os teus
+ 01:39:59
+
+textos na internet não é E e a por por que
+ 01:40:03
+
+isso não é porque isso dá legitimação da
+ 01:40:07
+
+visibilidade do trabalho de extensão
+ 01:40:09
+
+oral e mostra que se você atuar
+ 01:40:11
+
+eh de uma forma com compromisso
+ 01:40:13
+
+profissional com cutor você tá fazendo
+ 01:40:16
+
+bem são moral e com isso tu torna
+ 01:40:18
+
+público o trabalho de extensão ral que é
+ 01:40:21
+
+o mais difícil parece que o trabalho de
+ 01:40:23
+
+extensão ral é invisível e você dá
+ 01:40:26
+
+visibilidade tanto das unidades de
+ 01:40:28
+
+referência quanto ao trabalho da im
+ 01:40:30
+
+materna Isso parece fácil mas é um
+ 01:40:32
+
+Calhamaço de trabalho talvez eu possa
+ 01:40:36
+
+até ter esquecido alguma fase mas eu
+ 01:40:39
+
+anotei você fazia não é enfim deixo aqui
+ 01:40:41
+
+essa reflexão porque parece que se a
+ 01:40:44
+
+gente não escreve não não tem nada feito
+ 01:40:46
+
+não é E você tem essa pração não é é eu
+ 01:40:49
+
+começaria ainda antes ali uma etapa
+ 01:40:52
+
+antes
+ 01:40:55
+
+do do diagnóstico a gente fala muito em
+ 01:40:56
+
+diagnóstico na extensão Rural ele é
+ 01:40:59
+
+fundamental ele é importante e ele não é
+ 01:41:01
+
+tudo não é então tem todas essas etapas
+ 01:41:04
+
+depois do diagnóstico não pode morrer no
+ 01:41:06
+
+diagnóstico mas eu cometi esse erro tá
+ 01:41:07
+
+aqui quando eu vim para Serafina porque
+ 01:41:10
+
+quando eu tava em Fagundes Varela eu
+ 01:41:12
+
+fazia dias de campo Palestra eu
+ 01:41:15
+
+coordenava o curso de governo de leite
+ 01:41:18
+
+na reg
+ 01:41:20
+
+centro de treinamento de Mater então eu
+ 01:41:21
+
+cheguei aqui como alguém que sabe
+ 01:41:23
+
+trabalhar com leite tem conhecimento em
+ 01:41:26
+
+leite conhece a realidade do leate na
+ 01:41:28
+
+serga hoje e eu cheguei metendo Fix por
+ 01:41:30
+
+isso que eu cheguei com a lógica de
+ 01:41:32
+
+importar a metodologia de trabalho que
+ 01:41:34
+
+eu fazia lá em Fagundes Varela que era o
+ 01:41:36
+
+o GT leite e eu tentei trazer parcerias
+ 01:41:38
+
+com empresas e e tal ã para comigo ali
+ 01:41:43
+
+mas eles não não entenderam muito Qual
+ 01:41:48
+
+era minha proposta porque eu acho que eu
+ 01:41:50
+
+fui com muita sede a pote e eu comecei E
+ 01:41:52
+
+no meio do caminho eu vi que aconteceu
+ 01:41:55
+
+uma coisa bem bem curiosa porque eu eu
+ 01:41:57
+
+proponho a intervenção direta certo e o
+ 01:42:00
+
+e a e a apropriação dos conhecimentos o
+ 01:42:03
+
+treinamento deles Só que lá em Fagundes
+ 01:42:06
+
+Varela eu construí tudo isso com eles eu
+ 01:42:08
+
+chegava na propriedade às vezes eu fazia
+ 01:42:11
+
+visitas de 10 15 minutos e eu dava uma
+ 01:42:13
+
+recomendação por exemplo ah aumenta o
+ 01:42:14
+
+Piquete ali não sei o qu bota o moreia
+ 01:42:17
+
+lá
+ 01:42:20
+
+e e a silagem tá quase no ponto Sec
+ 01:42:21
+
+colid Acho que mais uns 15 dias fechou
+ 01:42:24
+
+fechou vamos embora e aí depois eu falo
+ 01:42:25
+
+no a e tal e tava num ritmo assim eu ah
+ 01:42:27
+
+beleza tem que botar o Gia lá e não sei
+ 01:42:30
+
+o que ali e e ótimo fazia dava resultado
+ 01:42:32
+
+eu media no aplicativo lá e tava andando
+ 01:42:34
+
+assim então eu tava muito eficiente meu
+ 01:42:37
+
+tempo tava muito bem
+ 01:42:39
+
+usado quando eu cheguei aqui eu cheguei
+ 01:42:40
+
+nesse ritmo eu chegava lá na propriedade
+ 01:42:42
+
+ah barar espaço também ali tem que botar
+ 01:42:44
+
+uma orelia ali tem que aumentar o
+ 01:42:46
+
+biquete ali não sei o qu diminuir a
+ 01:42:48
+
+silagem e e eu saí daí eu voltava 15
+ 01:42:49
+
+dias depois eu mandava uma mensagem
+ 01:42:52
+
+chegava lá cara não fez nada do que eu
+ 01:42:54
+
+falei e aí eu mas podia ter me dito que
+ 01:42:56
+
+não não é porque daí agora agora ferrou não é
+ 01:43:01
+
+agora o pasto passou do ponto agora
+ 01:43:03
+
+agora tem que roçar que não tinha antes
+ 01:43:06
+
+era só aumentar o Piquete e deu tudo
+ 01:43:08
+
+errado sei lá aí eu comecei me
+ 01:43:10
+
+questionar Por que que lá eu conseguia
+ 01:43:14
+
+ter essa intervenção do extensionista e
+ 01:43:16
+
+aqui eu não consigo e a resposta que eu
+ 01:43:19
+
+achei foi é porque lá eu sofri junto com
+ 01:43:22
+
+eles para chegar nisso aqui assim como a
+ 01:43:25
+
+Taciana pegou o trabalho pronto
+ 01:43:28
+
+lá eu cheguei aqui pronto eu sabia o que
+ 01:43:31
+
+fazer mas lá eu descobri o que fazer
+ 01:43:35
+
+junto com os produtores aqui eu já
+ 01:43:37
+
+cheguei sabendo o que fazer e eles não
+ 01:43:38
+
+participaram da construção desse
+ 01:43:41
+
+conhecimento então quando eu chegava e
+ 01:43:43
+
+falava era uma coisa de cima para baixo
+ 01:43:45
+
+que eu falava eu tive que dar dois
+ 01:43:47
+
+passos para trás tive que recuar parar
+ 01:43:49
+
+de dar essas recomendações e construir
+ 01:43:52
+
+um trabalho com eles e veja que
+ 01:43:54
+
+interessante é um trabalho
+ 01:43:56
+
+diferente eu comecei a fazer eu busquei
+ 01:43:58
+
+aquela teoria u lá para liderar
+ 01:44:01
+
+transformações e tal eu fui lá fazer
+ 01:44:03
+
+entrevistas Profundas Com base no no na
+ 01:44:06
+
+escuta ativa e a escuta profunda gravei
+ 01:44:09
+
+sistematizamos equipe lá e tal e aí
+ 01:44:11
+
+desenhamos uma linha do tempo do leite
+ 01:44:15
+
+do município para chegar até aqui e e e
+ 01:44:17
+
+é diferente as demandas deles eram
+ 01:44:21
+
+diferentes a forma de trabalhar é
+ 01:44:23
+
+diferente tanto que o que casou muito
+ 01:44:24
+
+com eles foi esse trabalho de aplicar
+ 01:44:27
+
+conhecimento científico em novas
+ 01:44:30
+
+tecnologias eles gostaram dessa forma de
+ 01:44:32
+
+trabalhar então eu comecei a fazer
+ 01:44:35
+
+parceria com Embrapa com empresas e
+ 01:44:37
+
+comecei a validar e testar coisas então
+ 01:44:39
+
+a Embrapa me manda lá um trigo de
+ 01:44:42
+
+pastejo que nem tava lançado ainda que é
+ 01:44:44
+
+o tarum Max para nós validar campo e e
+ 01:44:46
+
+tal e começamos a testar coisas e aí eu
+ 01:44:50
+
+pego essas urs e Ah vamos trabalhar com
+ 01:44:52
+
+a adubação de sistema daí Pega uma
+ 01:44:55
+
+propriedade faz lá adubação de sistema
+ 01:44:56
+
+ou alguma coisa dação do sistema e
+ 01:44:59
+
+depois demonstra PR os outros e comecei
+ 01:45:01
+
+a a trazer essas essas ferramentas claro
+ 01:45:03
+
+que também essas
+ 01:45:07
+
+ferramentas Essas tecnologias já
+ 01:45:09
+
+relacionadas a esse diagnóstico de campo
+ 01:45:11
+
+porque além desse diagnóstico mais
+ 01:45:13
+
+social de escuta de entendeu a a
+ 01:45:16
+
+situação e como trabalhar como comunicar
+ 01:45:18
+
+com eles o diagnóstico técnico também do
+ 01:45:20
+
+do do do nível tecnológico que eles
+ 01:45:23
+
+estão não é isso tudo tá sistematizado e eu
+ 01:45:26
+
+vou apresentar na Live no evento dia
+ 01:45:30
+
+primeiro de novembro quem quiser saber
+ 01:45:32
+
+de como que foi para chegar nessa
+ 01:45:34
+
+metodologia do Elite apasta isso tudo Eu
+ 01:45:36
+
+vou
+ 01:45:39
+
+apresentar Então a primeira etapa ela é
+ 01:45:40
+
+realmente tu ir lá ouvir o produtor
+ 01:45:43
+
+ouvir a família para tentar entender o
+ 01:45:47
+
+que que se encaixa como é que eu posso
+ 01:45:51
+
+me encaixar nisso e depois tentar
+ 01:45:53
+
+entender as demandas de de de eu como
+ 01:45:55
+
+engenheiro agrônomo o que que eu posso
+ 01:45:59
+
+contribuir para para solucionar essas
+ 01:46:01
+
+questões ou para desenvolver as questões
+ 01:46:04
+
+lá na propriedade Esse é o primeiro
+ 01:46:06
+
+trabalho depois vem a aquela parte ali
+ 01:46:08
+
+daí a gente estuda bom daí eu tenho que
+ 01:46:12
+
+estudar estudar estudar e tentar aplicar
+ 01:46:15
+
+daí eu vou lá tento aplicar o o para
+ 01:46:17
+
+chegar no material na rede social Eu
+ 01:46:21
+
+costumo dizer ela é uma uma estratégia
+ 01:46:24
+
+que eu conclui nesses anos também que eu
+ 01:46:27
+
+só gosto de divulgar o que já tá
+ 01:46:30
+
+construído sabe eu não gosto por exemplo
+ 01:46:34
+
+tem muita coisa que eu comecei a fazer
+ 01:46:38
+
+que eu comecei a avaliar e que não
+ 01:46:40
+
+desenvolveu os produtores ou que tão em
+ 01:46:42
+
+desenvolvimento ainda que eu não acertei
+ 01:46:44
+
+ainda tá E aí eu não divulgo senão vai
+ 01:46:46
+
+dar confusão confusão se eu soltar lá
+ 01:46:49
+
+aqui ó nós estamos plantando tal coisa
+ 01:46:52
+
+aqui não sei o e tal e vamos ver se dá
+ 01:46:54
+
+certo daí outros produtor começa a
+ 01:46:56
+
+testar também e quando ver não dá certo
+ 01:46:58
+
+e aí eu fiz os outros testar o negócio
+ 01:47:00
+
+mas deixa eu testar primeiro não é para eu
+ 01:47:02
+
+ter segurança que nas redes sociais
+ 01:47:05
+
+aquilo ali ganha uma amplitude que tu
+ 01:47:07
+
+não não sabe qual é então quando eu
+ 01:47:09
+
+tenho segurança de que aquilo ali pode
+ 01:47:12
+
+ser uma ferramenta eu faço um conteúdo
+ 01:47:14
+
+primeiro eu trabalho internamente aqui
+ 01:47:17
+
+com os produtores
+ 01:47:19
+
+muito bom muito bom é construção
+ 01:47:22
+
+coletiva não é a gente sempre quer tomar a
+ 01:47:24
+
+responsabilidade pra gente não é mas parece
+ 01:47:27
+
+que o trabalho ele dá mais certo quando
+ 01:47:29
+
+se constrói junto é muito legal muito
+ 01:47:32
+
+legal olha aqui ó Quem é que tá
+ 01:47:34
+
+participando ó extensionista da
+ 01:47:36
+
+ruraltins a ter do Estado Tocantins ó tá
+ 01:47:38
+
+famoso a ó aí pouco dia vai ter Live
+ 01:47:40
+
+todo dia para você aí ó tem que
+ 01:47:43
+
+conversar com todos os estados do Brasil
+ 01:47:45
+
+não é Tua
+ 01:47:47
+
+meta brincando é eu lembrei aqui ó outra
+ 01:47:48
+
+série para você ó os os Heros do
+ 01:47:53
+
+extensionistas formação do sensista não é
+ 01:47:56
+
+mas são os Heros para eles não tá
+ 01:48:00
+
+chegando gente nova lá em Matera aí não é ó
+ 01:48:02
+
+fica a dica
+ 01:48:05
+
+não é porque é legal aprender com os Eros
+ 01:48:06
+
+não é É é chamativo não é o nome eu vou passar
+ 01:48:09
+
+pro zim porque o Zuin diz que tem uma
+ 01:48:12
+
+pergunta para você
+ 01:48:14
+
+ô eh Leandro sempre falo que hoje a
+ 01:48:16
+
+extensão Rural a gente tem que est
+ 01:48:21
+
+extensão Rural ela ela se relaciona com
+ 01:48:23
+
+atores humanos e não humanos e os não
+ 01:48:26
+
+humanos É justamente no caso que você
+ 01:48:29
+
+explicou hoje pra gente são os
+ 01:48:32
+
+aplicativos essa comunicação digital que
+ 01:48:34
+
+passa por esse ambiente não é A gente podia
+ 01:48:36
+
+falar como não humanos também os
+ 01:48:39
+
+sensores não é a zootecnia agronomia de de
+ 01:48:41
+
+precisão que que tá vindo aí também não é
+ 01:48:44
+
+eu queria saber de você o que você
+ 01:48:47
+
+falaria para Aquele colega seu que por
+ 01:48:49
+
+um desconhecimento por não acreditar não é
+ 01:48:54
+
+nessa tecnologia nas tids não é nas
+ 01:48:58
+
+tecnologias de informação e comunicação
+ 01:49:01
+
+n o que você falaria para ele o
+ 01:49:03
+
+potencial que elas têm para mudar a os
+ 01:49:06
+
+trabalhos de extensão Rural dele não é o
+ 01:49:10
+
+que você falaria para não é deria
+ 01:49:13
+
+convencer essa pessoa mas pelo menos
+ 01:49:15
+
+sensibilizá-lo para que ele fosse atrás
+ 01:49:19
+
+para se informar melhor e como ele
+ 01:49:22
+
+poderia estar utilizando isso na sua
+ 01:49:23
+
+rotina de trabalho é a gente topa com
+ 01:49:25
+
+isso não é Principalmente tem aqueles
+ 01:49:28
+
+conflitos de gerações não é que e mistura
+ 01:49:30
+
+coisas não é Por exemplo a gente o projeto
+ 01:49:35
+
+jovens do Agro que a gente tem aqui que
+ 01:49:37
+
+a gente trabalha com jovens a partir de
+ 01:49:39
+
+14
+ 01:49:41
+
+anos a gente nota muito isso o a
+ 01:49:42
+
+gurizada tá no no tiktok tá no no
+ 01:49:46
+
+celular no num jogo não é e tal e os mais
+ 01:49:48
+
+antigos vê o celular e chegam ter
+ 01:49:52
+
+eh chegam a ter como é que eu falo eh
+ 01:49:55
+
+negar aquilo ali não é Larga esse negócio
+ 01:49:59
+
+vai fazer alguma coisa vai trabalhar e
+ 01:50:01
+
+tal então existe esse esse conflito das
+ 01:50:04
+
+Gerações que geram preconceito de um
+ 01:50:07
+
+lado e às vezes pode acontecer um um
+ 01:50:09
+
+exagero do outro eu sou da época da TV
+ 01:50:11
+
+não é quando era criança era TV ah a
+ 01:50:14
+
+criança vai ficar Assistindo TV Então as
+ 01:50:15
+
+coisas evoluem não é e o que eu Já digo Por
+ 01:50:17
+
+isso que eu gosto daquela frase da
+ 01:50:21
+
+Ivania Binda lá
+ 01:50:22
+
+é é no sentido assim ó de que primeiro
+ 01:50:23
+
+ponto gostando tu ou não é a realidade
+ 01:50:28
+
+tá interessa se tu acha ruim que o
+ 01:50:32
+
+negócio tem que ter 90 segundos e tu
+ 01:50:35
+
+preferia que tivesse 1 hora e meia ele
+ 01:50:36
+
+não é mais de 1 hora e meia ponto acabou
+ 01:50:39
+
+ou tu te adapta ou tu vai me morrer não é
+ 01:50:42
+
+qu tu vai ficar para trás tu precisa te
+ 01:50:45
+
+adaptar o primeiro ponto tu precisa te
+ 01:50:49
+
+adaptar segundo ponto que eu falei lá no
+ 01:50:51
+
+início da minha apresentação
+ 01:50:53
+
+é que a gente e aí casa com o final que
+ 01:50:57
+
+a falou que eu falei na minha
+ 01:51:01
+
+apresentação que a gente precisa ser
+ 01:51:03
+
+proativo a gente precisa est à frente
+ 01:51:05
+
+disso e não se adaptando porque até a
+ 01:51:08
+
+gente se adaptar a gente já se atrasou a
+ 01:51:11
+
+gente já tá atrasado já teve um GAP ali
+ 01:51:14
+
+já teve um espaço entre a mudança
+ 01:51:16
+
+aconteceu o pessoal parou de se
+ 01:51:18
+
+comunicar contigo foi pro outro lado
+ 01:51:20
+
+depois tu tenta retomar Tu tenta Ah
+ 01:51:22
+
+agora eu vou falar ninguém tentou falar
+ 01:51:25
+
+o que que significa flopou ali aí
+ 01:51:27
+
+não é aí depois eu tô tentando falar a
+ 01:51:30
+
+linguagem dos jovens lá depois que já
+ 01:51:33
+
+aconteceu mas daí eles falam Ah mas tu é
+ 01:51:35
+
+cringe porque tu você já passou e aí tu
+ 01:51:38
+
+tá sempre correndo atrás tu não tá
+ 01:51:42
+
+acompanhando e é por isso que eu falo tu
+ 01:51:44
+
+tem que ser proativo ser proativo
+ 01:51:46
+
+significa tu gerar essa mudança tu ser
+ 01:51:48
+
+parte dessa mudança Então tu se tu ser
+ 01:51:51
+
+algum dos Pioneiros então tu lê o
+ 01:51:54
+
+cenário tu identifica que ó o pessoal
+ 01:51:56
+
+talvez tá eu boto um vídeo de 20 minutos
+ 01:51:58
+
+e o pessoal às vezes assiste só os
+ 01:52:01
+
+primeiros minutos e sai então quem sabe
+ 01:52:02
+
+eu faço cortes ou faço e lanço eh lá um
+ 01:52:05
+
+vídeo mais curto e não espera outras
+ 01:52:09
+
+pessoas fazerem isso para depois tu
+ 01:52:12
+
+fazer porque daí quando tu vai fazer já
+ 01:52:14
+
+mudou então isso é primeiro uma questão
+ 01:52:16
+
+de sobrevivência
+ 01:52:18
+
+não é de sobrevivência de desenvolvimento a
+ 01:52:20
+
+segunda questão que tem a ver com essa
+ 01:52:23
+
+proatividade daí não é não ficar para trás
+ 01:52:25
+
+não ser só reativo mas
+ 01:52:28
+
+e sim isso já aconteceu
+ 01:52:31
+
+e em outras épocas a gente também teve
+ 01:52:35
+
+esses conflitos como eu falei no meu
+ 01:52:39
+
+tempo era TV
+ 01:52:41
+
+não é mas sempre esse conflito de gerações
+ 01:52:43
+
+ele sempre existiu e sempre os antigos
+ 01:52:46
+
+eles ream que os jovens faziam diferente
+ 01:52:49
+
+não é a gente pode rir hoje do flop que a
+ 01:52:52
+
+gente não sabe o que significa mas tinha
+ 01:52:55
+
+um giras em cada geração não é tinha giras
+ 01:52:57
+
+tinha um jeito de se comunicar eu falei
+ 01:53:01
+
+com alguns antigos aqui
+ 01:53:02
+
+e nos jovens do áo aqui e daí os pais
+ 01:53:04
+
+falando ah porque o guri guri fica fica
+ 01:53:08
+
+namorando no WhatsApp falando com as
+ 01:53:11
+
+guri e tal e da eu perguntei pro pai tá
+ 01:53:13
+
+mas E por que que tu não ficava
+ 01:53:16
+
+namorando no WhatsApp quando tu era
+ 01:53:17
+
+jovem
+ 01:53:18
+
+porque não tinha deu
+ 01:53:20
+
+exatamente se tivesse WhatsApp com o
+ 01:53:22
+
+contato das guria tu não ia tá lá no
+ 01:53:25
+
+grupo falando ou com alguma guia ia ia
+ 01:53:27
+
+tá porque não existia Hoje existe
+ 01:53:32
+
+entendeu Hoje existe eles namoram mais
+ 01:53:34
+
+por causa disso ah mas tem que ter
+ 01:53:37
+
+cuidado para não cair em golpe para não
+ 01:53:38
+
+mandar nú então orienta não te afasta
+ 01:53:41
+
+orienta é melhor tu orientar do que tu
+ 01:53:44
+
+te afastar e deixar ele solto não é então o
+ 01:53:47
+
+que eu diria é isso primeiro é uma
+ 01:53:50
+
+realidade segundo que tem pontos
+ 01:53:53
+
+positivos e pontos negativos se nós
+ 01:53:56
+
+focar nesses pontos negativos do Risco
+ 01:53:58
+
+do não sei o qu a gente tá deixando de
+ 01:54:00
+
+usufruir dos pontos positivos e sempre
+ 01:54:03
+
+existiu sempre existiram inovações
+ 01:54:05
+
+sempre existiram mudanças e elas vão
+ 01:54:07
+
+continuar ocorrendo Aí cabe a tu decidir
+ 01:54:09
+
+onde tu vai
+ 01:54:13
+
+ficar muito
+ 01:54:15
+
+bom agora noss Leandro é fazer que o
+ 01:54:17
+
+pessoal assista essa Live de 2 horas
+ 01:54:21
+
+vamos ver se tu consegue contar em 90
+ 01:54:24
+
+segundos ela é verdade tô brincando tá
+ 01:54:26
+
+muito boa a conversa eu ficaria mais Du
+ 01:54:30
+
+horas aqui porque tá muito legal mas nós
+ 01:54:32
+
+vamos encerar não é porque tá dando
+ 01:54:34
+
+enceramento vou te passar a Palavra
+ 01:54:36
+
+Final O o para você concluir isso tudo
+ 01:54:39
+
+que você falou essas estratégias de
+ 01:54:42
+
+comunicação a assistência técnica
+ 01:54:44
+
+extensão oral que você trabalha com os
+ 01:54:47
+
+agricultores aí é para você fazer uma
+ 01:54:49
+
+conclusão E aí a gente vai pro nosso
+ 01:54:51
+
+enceramento o que eu gostaria de
+ 01:54:53
+
+ressaltar aqui é que eh as coisas mudam
+ 01:54:55
+
+elas mudaram como eu falei mas isso não
+ 01:54:59
+
+significa em hipótese alguma o abandono
+ 01:55:01
+
+da da das boas práticas de extensão
+ 01:55:03
+
+Rural toda a história um desrespeito com
+ 01:55:06
+
+a história da extensão Rural Não não é a
+ 01:55:08
+
+a extensão Rural ela passou por várias
+ 01:55:12
+
+fases por várias transformações isso tem
+ 01:55:15
+
+tem tem material acho que é até no no
+ 01:55:17
+
+extensionistas botaram esses tempos não é
+ 01:55:20
+
+uma umas fases da extensão Rural não é e e
+ 01:55:21
+
+e a gente não Tá negando tem uma frase
+ 01:55:26
+
+que é do Jaime Caetano Brown não é que eu
+ 01:55:28
+
+não preciso brigar com os avós para me
+ 01:55:30
+
+dar bem com os meus netos então Eh nesse
+ 01:55:32
+
+sentido que eu quero dizer a gente não
+ 01:55:36
+
+tá aqui defendendo Ah que não não
+ 01:55:38
+
+precisa não é mais como antigamente não
+ 01:55:40
+
+não a esse antigamente essa construção
+ 01:55:42
+
+até aqui é o que nos dá corpo para
+ 01:55:46
+
+seguir daqui para diante
+ 01:55:48
+
+e ao mesmo tempo sim a gente não pode
+ 01:55:50
+
+acreditar que é só o virtual e as
+ 01:55:53
+
+ferramentas digitais não eu preciso
+ 01:55:56
+
+fazer a visita eu preciso fazer DM tá DM
+ 01:55:58
+
+metodologia tradicionalista preciso
+ 01:56:01
+
+fazer drp eu preciso fazer diagnóstico a
+ 01:56:03
+
+gente não tá abandonando essas velhas
+ 01:56:05
+
+práticas e isso é uma dica paraos dois
+ 01:56:08
+
+lados aí que estão olhando quem é muito
+ 01:56:10
+
+entusiasta que nem eu de ferramentas
+ 01:56:12
+
+digitais não pode esquecer dessas
+ 01:56:15
+
+metodologias de extensão Rural e quem
+ 01:56:18
+
+gosta dessas metodologias
+ 01:56:22
+
+eh pode saiba que pode adotar essas
+ 01:56:24
+
+ferramentas digitais para potencializar
+ 01:56:27
+
+a extensão no campo que é o título que
+ 01:56:30
+
+eu dei aqui paraa minha apresentação é
+ 01:56:33
+
+além do digital explorando ferramentas
+ 01:56:35
+
+digitais para potencializar a extensão
+ 01:56:37
+
+no campo É essa a mensagem que eu queria
+ 01:56:40
+
+deixar que eu quis que eu trouxe para
+ 01:56:44
+
+vocês aqui não é que eh
+ 01:56:47
+
+É possível usar isso para nos
+ 01:56:50
+
+potencializar Então nem abandonar as
+ 01:56:52
+
+velhas práticas tradicionais que nos
+ 01:56:56
+
+trouxeram até aqui não é E nem negar essa
+ 01:56:58
+
+mudança e mas sim usar elas como
+ 01:57:02
+
+ferramentas pro nosso
+ 01:57:05
+
+trabalho muito bom muito bom muito bom
+ 01:57:07
+
+olha é é três vezes Muito bom parabéns
+ 01:57:11
+
+sigam sigam novamente Leandro agronomia
+ 01:57:15
+
+ficar atualizado sobre todos os
+ 01:57:19
+
+conteúdos da área Tech BV cultura
+ 01:57:21
+
+vultura e tudo mais que o Leandro todos
+ 01:57:24
+
+os novos ciclos memes e e novidades que
+ 01:57:27
+
+o Leandro divulga aí na área de extensão
+ 01:57:30
+
+oral que tá fazendo a diferença com
+ 01:57:32
+
+nossas família nossos jovens Rais isso é
+ 01:57:35
+
+muito importante Obrigado mesmo pela tua
+ 01:57:37
+
+presença Leandro quando quiser o canal
+ 01:57:39
+
+está aberto para você voltar fazer novas
+ 01:57:42
+
+Abstrações aqui e e incentivar e talvez
+ 01:57:44
+
+inspirar extensionistas a também fazer
+ 01:57:48
+
+um pouquinho disso não é que pode
+ 01:57:50
+
+transformar a vida das famílias rurais
+ 01:57:53
+
+para finalizar então lembrando nós
+ 01:57:55
+
+estamos com quatro grandes ciclos at ter
+ 01:57:57
+
+digital que é esse que a gente tá aqui
+ 01:58:00
+
+Horizonte at ter 2023 2033 que são como
+ 01:58:02
+
+será o futuro da extensão ural nos
+ 01:58:06
+
+próximos 10 anos iniciamos aí já o nosso
+ 01:58:07
+
+ciclo de formação dos extension minais
+ 01:58:11
+
+que vai ir até o final do ano e o
+ 01:58:14
+
+pesquisa em prosa que é os resultados de
+ 01:58:16
+
+disser teses e artigos científicos que
+ 01:58:18
+
+estão aí na área de extensão oral nos
+ 01:58:21
+
+últimos anos obrigado a todo mundo e até
+ 01:58:24
+
+uma próxima oportunidade tchau tchau um
+ 01:58:26
+
+abraço tchau tchau
+ 01:58:29

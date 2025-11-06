@@ -1,0 +1,8 @@
+video_id: HJRnIu2kv_w
+video_url: https://www.youtube.com/watch?v=HJRnIu2kv_w
+title: #motivação #reflexão #agro #roça #deus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

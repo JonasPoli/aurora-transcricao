@@ -1,0 +1,9 @@
+video_id: cFMoQ_QySv0
+video_url: https://www.youtube.com/watch?v=cFMoQ_QySv0
+title: Reflexões de uma ATER Digital participativa e dialógica para cafeicultoras idosas
+uploader: Rede Aurora
+speaker: Mariana de Carvalho Araújo - UFSCAR
+Lattes: http://lattes.cnpq.br/5786000050348426
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/26/2023

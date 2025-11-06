@@ -1,0 +1,9 @@
+video_id: uv9GJrGyjrs
+video_url: https://www.youtube.com/watch?v=uv9GJrGyjrs
+title: Extensão universitária e sustentabilidade em rede: a experiência do assentamento rural Itamarati
+uploader: Rede Aurora
+speaker: Juliana Carrijo
+Lattes: http://lattes.cnpq.br/8885477152489639
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/12/2025

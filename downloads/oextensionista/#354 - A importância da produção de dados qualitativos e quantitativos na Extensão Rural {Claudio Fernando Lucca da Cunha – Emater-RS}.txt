@@ -1,0 +1,6592 @@
+Olá a todos e todos extensionistas Rais
+ 00:00:01
+
+agricultoras e agricultores jovens Rais
+ 00:00:04
+
+pesquisadores e professores da área de
+ 00:00:07
+
+extenção Rural acadêmicos e demais
+ 00:00:09
+
+públicos aqui presentes sejam todos
+ 00:00:11
+
+muito bem-vindos meu nome é Ezequiel
+ 00:00:14
+
+redim professor de extensão Rural e quem
+ 00:00:16
+
+está hoje aqui conosco é o nosso grande
+ 00:00:18
+
+extensionista Rural Cláudio da Cunha o o
+ 00:00:21
+
+nosso extensionista aqui da imater da
+ 00:00:25
+
+região central do urugan do Sul um Excel
+ 00:00:27
+
+ente profissional na área de extensão
+ 00:00:29
+
+rural no Brasil e É nesse dia 13 de
+ 00:00:31
+
+Junho nós estamos em mais um evento do
+ 00:00:34
+
+ciclo de diálogos em ater digital
+ 00:00:36
+
+Semeando propostas e compartilhando
+ 00:00:39
+
+saberes nossos eventos buscam
+ 00:00:42
+
+identificar e propor caminhos
+ 00:00:44
+
+metodológicos para Os Atuais elementos
+ 00:00:46
+
+condicionantes que determinam os
+ 00:00:49
+
+processos de transferência e
+ 00:00:51
+
+compartilhamento de novas tecnologias
+ 00:00:53
+
+nos territórios Rais da América Latina
+ 00:00:55
+
+da África e alguns país países Como
+ 00:00:58
+
+Portugal Espanha e Luxemburgo hoje a
+ 00:01:00
+
+nossa palestra é intitulada a
+ 00:01:03
+
+importância da produção de dados
+ 00:01:06
+
+qualitativos e quantitativos para
+ 00:01:10
+
+Realizar o monitoramento e a avaliação
+ 00:01:13
+
+das ações de desenvolvimento na extensão
+ 00:01:16
+
+rural e o nosso palestrante Cláudio
+ 00:01:20
+
+Fernando Luca da Cunha da Emater aqui da
+ 00:01:22
+
+região central do estado do rioe do Sul
+ 00:01:24
+
+essa Live é uma iniciativa então do
+ 00:01:27
+
+portal o extensionista e da rede de
+ 00:01:29
+
+Aurora de diálogos em ater digital na
+ 00:01:31
+
+América Latina e com todos os apoiadores
+ 00:01:33
+
+que vocês podem conferir aqui na
+ 00:01:36
+
+descrição desse vídeo tá então assim eh
+ 00:01:37
+
+seja muito bem-vindo Cláudio é um prazer
+ 00:01:41
+
+que você esteja aqui compartilhando teus
+ 00:01:43
+
+conhecimento e eu tenho certeza absoluta
+ 00:01:45
+
+que isso aqui vai ser uma live que vai
+ 00:01:48
+
+ficar pra história aqui desse teu teu KN
+ 00:01:49
+
+aí com dados e eu sou apaixonado por
+ 00:01:53
+
+isso que eu acho que isso justifica
+ 00:01:55
+
+muito extensão lal seja bem-vindo aí
+ 00:01:57
+
+e a palavra é tua te apresenta aí pro
+ 00:02:00
+
+nosso público já tem bastante gente aí
+ 00:02:02
+
+nos assistindo Tá bom muito obrigado eel
+ 00:02:04
+
+redinha uma satisfação tá participando
+ 00:02:07
+
+aqui do canal extensionista para falar
+ 00:02:09
+
+um pouquinho da experiência que a gente
+ 00:02:11
+
+tem aí nessa trajetória aí de mais de de
+ 00:02:13
+
+40 anos não é nessa atividade então Eh me
+ 00:02:17
+
+formei em 1990 na Universidade Federal
+ 00:02:21
+
+de Santa Maria engenharia Agronômica sou
+ 00:02:23
+
+agrônomo aí depois em 93 eh fiz uma
+ 00:02:26
+
+especialização em planejamento ambiental
+ 00:02:30
+
+em 97 fiz um mestrado em extensão Rural
+ 00:02:33
+
+também em 2012 eu fiz o programa
+ 00:02:36
+
+especial de graduação e formação de
+ 00:02:39
+
+professores para educação profissional o
+ 00:02:41
+
+peg não é que o pessoal chama assim o nome
+ 00:02:42
+
+afetivo Então essa é um pouco a minha
+ 00:02:45
+
+trajetória acadêmica não é e e meu vínculo
+ 00:02:48
+
+com a universidade que eu os anos 80 e
+ 00:02:52
+
+90 eh frequentei bastante aí esses esse
+ 00:02:55
+
+Campos e e esses bancos escolares aí os
+ 00:02:59
+
+prédios etc não é e depois então Eh fui
+ 00:03:02
+
+atuar não é na na inicialmente na
+ 00:03:06
+
+iniciativa privada mas prestando serviço
+ 00:03:09
+
+para para programas e projetos eh de
+ 00:03:13
+
+governo não é cito uns aqui nos anos 90 eu
+ 00:03:16
+
+trabalhei no programa Delis não é que era
+ 00:03:20
+
+um programa do governo do FHC do
+ 00:03:24
+
+Fernando Henrique Cardoso que era
+ 00:03:27
+
+desenvolvimento local integrado e
+ 00:03:29
+
+sustentável era um programa Regional
+ 00:03:30
+
+abarcava vários municípios depois eu
+ 00:03:33
+
+atuei com pmd Lis que é o programa
+ 00:03:36
+
+Municipal de Desenvolvimento local
+ 00:03:39
+
+integrado e sustentável não é e e também
+ 00:03:41
+
+era a mesma lógica do Delis não é só que
+ 00:03:45
+
+focado no município então também atuei
+ 00:03:49
+
+mais aí uns 30 40 municípios com esses
+ 00:03:52
+
+eh com esse com esses dois programas e
+ 00:03:55
+
+assim eh fui vendo que havia necessidade
+ 00:03:58
+
+de qualificar esses programas esses
+ 00:04:02
+
+projetos que vinham do governo federal
+ 00:04:04
+
+também junto com meu saudoso amigo
+ 00:04:06
+
+Humberto Gabe Zanata eh a gente criou o
+ 00:04:08
+
+primos que era o programa integrado do
+ 00:04:11
+
+municipalismo solidário que atuamos em
+ 00:04:13
+
+alguns municípios aqui da região central
+ 00:04:16
+
+mais focado na região central com esta
+ 00:04:19
+
+lógica de desenvolver programas e
+ 00:04:22
+
+projetos municipais mas também avaliar
+ 00:04:24
+
+não é e junto aí já já eh indo mais com a
+ 00:04:28
+
+questão participativa não é inclusiva
+ 00:04:31
+
+participativa e tal aí vieram os anos
+ 00:04:34
+
+200000 não é e a gente em 2003 2004 Se não
+ 00:04:37
+
+me engano participei da implantação de
+ 00:04:41
+
+dois conses que é consorci de segurança
+ 00:04:43
+
+alimentar e desenvolvimento local em
+ 00:04:46
+
+duas regiões um na região central e um
+ 00:04:48
+
+no litoral não é e eh também tiveram êxito
+ 00:04:51
+
+mas sempre naquela lógica como eh
+ 00:04:55
+
+qualificar esses programas sempre
+ 00:04:58
+
+pensando isso isso já vinha Então esse
+ 00:05:00
+
+meu pensamento do trabalho que a gente
+ 00:05:02
+
+vai conversar hoje já vinha de muito
+ 00:05:03
+
+tempo desde que eu era mais jovem não é
+ 00:05:06
+
+porque afinal o recurso público o nome
+ 00:05:08
+
+já diz é público mas é escasso então ele
+ 00:05:11
+
+tem que ser bem utilizado aí depois em
+ 00:05:13
+
+2005 eu coordenei os o território Rural
+ 00:05:16
+
+da região central e o território da
+ 00:05:20
+
+Cidadania que esse território Rural se
+ 00:05:22
+
+tornou o território da Cidadania e
+ 00:05:24
+
+fiquei até 2000 e 2011 não é na coordenação
+ 00:05:26
+
+desse programa aí depois o território
+ 00:05:32
+
+sim eu considero que foi um passo além
+ 00:05:35
+
+tanto do Delis pmd Lis do primos do
+ 00:05:38
+
+consad porque ele debatia e deliberava
+ 00:05:41
+
+acerca do recurso público não é Isso é bem
+ 00:05:45
+
+bem interessante e muito eh muito
+ 00:05:49
+
+gratificante só para como exemplo
+ 00:05:52
+
+projetos de investimento nesse período
+ 00:05:55
+
+foram mais de 70 e definidos por um
+ 00:05:58
+
+colegiado não é então esse colegiado
+ 00:06:01
+
+definia como ia ser aplicado o recurso
+ 00:06:03
+
+público e tenho não vou dizer orgulho não é
+ 00:06:06
+
+mas a satisfação de que nenhum se tornou
+ 00:06:09
+
+elefante branco Ah um andou mais aqui
+ 00:06:11
+
+outro menos ali mas todos de uma maneira
+ 00:06:14
+
+ou de outra esses projetos esses 70 que
+ 00:06:16
+
+eu falei mais de 70 eh tão acontecendo e
+ 00:06:19
+
+isso já com a essa estratégia da gestão
+ 00:06:22
+
+social e de medir a qualidade eh desse
+ 00:06:25
+
+recurso curs aplicado aí na imater eu
+ 00:06:29
+
+entrei não é fazendo um resumo da minha
+ 00:06:32
+
+trajetória em 10 de setembro de 2012
+ 00:06:34
+
+primeiro eu fui pro escritório Municipal
+ 00:06:37
+
+de Tunas onde fiquei quase um ano depois
+ 00:06:39
+
+fui para o escritório Municipal de Júlio
+ 00:06:42
+
+de Castilhos onde fiquei até Março de
+ 00:06:44
+
+2017 e onde vim transferido para o
+ 00:06:46
+
+escritório Regional de de Santa Maria
+ 00:06:50
+
+onde estou até hoje e desenvolvendo esse
+ 00:06:53
+
+trabalho que a gente vai apresentar aqui
+ 00:06:55
+
+hoje que basicamente a gente trata do
+ 00:06:58
+
+monitoramento da avaliação da produção
+ 00:07:00
+
+de indicadores e também deixar bem claro
+ 00:07:03
+
+que esse nosso trabalho O trabalho que
+ 00:07:06
+
+eu vou apresentar para vocês ele é de
+ 00:07:08
+
+uso interno não é é uso paraa gestão da
+ 00:07:10
+
+gerência dos supervisores eh do depois
+ 00:07:13
+
+eu vou explicar o que que são os
+ 00:07:16
+
+supervisores os assessores técnicos
+ 00:07:17
+
+regionais que atuam na imater para
+ 00:07:19
+
+qualificar o trabalho tanto do
+ 00:07:22
+
+escritório regional como um todo desses
+ 00:07:23
+
+35 municípios já adianto que fazem parte
+ 00:07:26
+
+do escritório Regional quanto do
+ 00:07:29
+
+trabalho de cada um dos ATRS assessores
+ 00:07:31
+
+técnicos regionais dos supervisores e
+ 00:07:34
+
+dos colegas que estão a Campo dos
+ 00:07:36
+
+municipais dos 35 então não tem o
+ 00:07:38
+
+intuito de fiscalizar de de de criar uma
+ 00:07:41
+
+ação coercitiva ó tá fazendo isso não é
+ 00:07:46
+
+qualificar a execução do trabalho e
+ 00:07:49
+
+destacando que todos os critérios e todo
+ 00:07:52
+
+esse trabalho que a gente tá
+ 00:07:55
+
+desenvolvendo que vai ser apresentado
+ 00:07:57
+
+Eles foram discutidos com a gerência com
+ 00:07:59
+
+a supervisão com os assessores técnicos
+ 00:08:03
+
+regionais eh foi também conversado com o
+ 00:08:05
+
+pessoal do Central não é a gente chama o
+ 00:08:08
+
+Central que é a o que fica em Porto
+ 00:08:10
+
+Alegre é o seria o a Coordenação Geral
+ 00:08:12
+
+da im materna Então tudo isso é bem
+ 00:08:15
+
+transparente não é Ah porque eu quis
+ 00:08:17
+
+fazer ah que ah vou lá não foi é uma eh
+ 00:08:20
+
+como a extensão Rural é um processo
+ 00:08:24
+
+coletivo e um processo que tá sempre em
+ 00:08:26
+
+avaliação e que os colegas avaliam
+ 00:08:28
+
+sugerem eu avalio e todo mundo contribui
+ 00:08:31
+
+não é não é uma ação isolada de a b você é
+ 00:08:35
+
+um uma construção coletiva mesmo e então
+ 00:08:38
+
+Ezequiel feito essa apresentação um
+ 00:08:42
+
+pouco um pouco longa mas que para
+ 00:08:44
+
+contextualizar da onde que surgiu essa
+ 00:08:47
+
+essa vontade de trabalhar com isso não é
+ 00:08:49
+
+então se der para já colocar ali a nossa
+ 00:08:52
+
+apresentação ótimo Dá sim deixa eu te
+ 00:08:55
+
+comentar só para tu tá anando no pessoal
+ 00:08:58
+
+que tá assistindo ó Vinícius lá de
+ 00:09:00
+
+Sobradinho tá nosso advogado aluno
+ 00:09:02
+
+técnico fruticultura os alunos da
+ 00:09:05
+
+professora Janice lá de Minas Gerais
+ 00:09:07
+
+estão participando Ah o Egídio seja
+ 00:09:09
+
+bem-vindo aqui Egídio de São Paulo
+ 00:09:12
+
+professor defendeu a a a dissertação
+ 00:09:14
+
+dele dias atrás aí a nossa a nossa
+ 00:09:17
+
+querida Andreia aí também futura
+ 00:09:21
+
+extensionista ela já passou no processo
+ 00:09:23
+
+seletivo da Emater o Felipe da do Zap
+ 00:09:25
+
+Rural aí aí seja muito bem-vindo muita
+ 00:09:28
+
+gente legal o Palermo aí nossos
+ 00:09:31
+
+extensionistas aqui da região central
+ 00:09:33
+
+muito muito obrigado pela presença aí
+ 00:09:35
+
+então agora vou passar a a palestra aqui
+ 00:09:37
+
+do do Cláudio e ele vai conduzir aí para
+ 00:09:40
+
+vocês mas ele já sabe quem é que já tá
+ 00:09:42
+
+presente aqui já de início vai lá é
+ 00:09:44
+
+Contigo ah obrigado agradeço a presença
+ 00:09:46
+
+de todos aí um abraço para todas e todas
+ 00:09:50
+
+que estão assistindo E assim a gente eu
+ 00:09:52
+
+vou expondo aqui eh Dea maneira mais eh
+ 00:09:55
+
+simples não é uma maneira para que a gente
+ 00:10:00
+
+consiga depois se houver necessidade
+ 00:10:03
+
+debater perguntar e tal então o nome do
+ 00:10:05
+
+trabalho é a importância da produção de
+ 00:10:08
+
+dados qualitativos e quantitativos para
+ 00:10:10
+
+a realização do monitoramento e
+ 00:10:12
+
+avaliação das ações de desenvolvimento
+ 00:10:14
+
+da extensão Rural até depois que eu fiz
+ 00:10:16
+
+o título eu pensei Bá mas é tal do
+ 00:10:18
+
+título não é mas é que e é o título é maior
+ 00:10:20
+
+do que assim a do que se pensa fazer a
+ 00:10:24
+
+ideia é isso é monitorar avaliar criar
+ 00:10:27
+
+indicadores e auxiliar eh então agora
+ 00:10:30
+
+vamos pro próximo então uma um breve
+ 00:10:34
+
+histórico não é de da onde que e esse essa
+ 00:10:37
+
+estrutura para fazer esse trabalho foi
+ 00:10:40
+
+denominado aqui no escritório Regional
+ 00:10:43
+
+de Santa Maria que conta com 35
+ 00:10:45
+
+municípios é de sala de gestão não é então
+ 00:10:48
+
+Eh essa sala de gestão foi criada na
+ 00:10:51
+
+gerência da Regina não é da nossa gerente
+ 00:10:54
+
+anterior Regina educad e houve
+ 00:10:57
+
+continuidade com o nosso atual gerente
+ 00:11:00
+
+não é o Guilherme passamani e a gerente
+ 00:11:02
+
+adjunta Simone Ma então antes era
+ 00:11:05
+
+gerente a Regina Hernandes e o gerente
+ 00:11:08
+
+adjunto cadó não é que eh trouxeram a ideia
+ 00:11:11
+
+para cá e ela continua sendo utilizada e
+ 00:11:14
+
+vai se qualificando não é Com o tempo a
+ 00:11:17
+
+gente vai qualificando melhorando se vai
+ 00:11:19
+
+olhar o que era em 2017 O que é Hoje
+ 00:11:23
+
+houve muitos avanços que a gente vai ver
+ 00:11:26
+
+a a seguir bom então é como eu disse a
+ 00:11:28
+
+ideia da sala de gestão não é ou do dessa
+ 00:11:33
+
+questão de monitorar avaliar criar
+ 00:11:37
+
+indicadores qualificar Ela não ela
+ 00:11:39
+
+surgiu há muito tempo na no eu comecei a
+ 00:11:42
+
+pensar nisso e isso já existe no mundo
+ 00:11:45
+
+há muito tempo então desde 90 na América
+ 00:11:47
+
+Latina quando começaram a vir eh
+ 00:11:50
+
+investimentos de fora ou mesmo Grandes
+ 00:11:53
+
+projetos internos eh órgãos como o pnud
+ 00:11:56
+
+não é o programa das Nações Unidas para o
+ 00:11:59
+
+desenvolvimento Bird banco
+ 00:12:01
+
+interamericano para reconstrução e
+ 00:12:03
+
+desenvolvimento a ONU Organização das
+ 00:12:04
+
+Nações Unidas e a fu não é que a
+ 00:12:07
+
+Organização das Nações Unidas para
+ 00:12:10
+
+agricultura e alimentação começaram a se
+ 00:12:12
+
+questionar Mas será que não precisa a
+ 00:12:14
+
+além de o recurso e não precisa avaliar
+ 00:12:18
+
+a qualidade não é do que foi desenvolvido
+ 00:12:21
+
+lá e não com a ideia de Ah que teve
+ 00:12:23
+
+corrupção que teve roubo não com a ideia
+ 00:12:26
+
+de que ah aquela comunidade Lá alguém
+ 00:12:29
+
+pensou que o ideal seria
+ 00:12:33
+
+eh estradas quando no fim não era não é era
+ 00:12:35
+
+a questão da Saúde Então isto para eh Tô
+ 00:12:38
+
+dando um exemplo hipotético não é não que
+ 00:12:42
+
+tenha acontecido isso então e essa
+ 00:12:43
+
+necessidade não é de qualificar esse
+ 00:12:46
+
+projeto esse recurso escasso foi eh
+ 00:12:48
+
+servindo de base para os outros que
+ 00:12:51
+
+vieram Então a partir houve resultados
+ 00:12:53
+
+positivos não é A partir desses resultados
+ 00:12:56
+
+positivos se verificou a importância
+ 00:12:58
+
+disso não é de fazer esse esse
+ 00:13:00
+
+monitoramento essa avaliação a criação
+ 00:13:03
+
+de indicadores a fazer com que esses
+ 00:13:05
+
+projetos de fato se tornassem positivos
+ 00:13:09
+
+na vida de todos todos e todas não é então
+ 00:13:12
+
+daí a partir desses resultados positivos
+ 00:13:16
+
+obtidos foi verificada a importância
+ 00:13:19
+
+disso mas essa importância ela tem que
+ 00:13:21
+
+ser baseada em evidências e causalidades
+ 00:13:25
+
+para avaliar o impacto desses programas
+ 00:13:27
+
+então evidência evidência É vamos dizer
+ 00:13:30
+
+numa produção leiteira se qualificou a
+ 00:13:34
+
+sala de ordenha e de fato Melhorou a
+ 00:13:37
+
+qualidade de vida das pessoas que fazem
+ 00:13:39
+
+a ordenha e aumentou a produção de leite
+ 00:13:41
+
+Esta é uma evidência causalidade a causa
+ 00:13:44
+
+direta entre a melhoria da sala de
+ 00:13:47
+
+ordenha a melhoria da qualidade de vida
+ 00:13:50
+
+e ampliação da produção de leite tem
+ 00:13:52
+
+então evidências e causalidades são
+ 00:13:55
+
+positivos e eh fazem com que o projeto
+ 00:13:58
+
+seja exitoso não é porque eh aquela aquela
+ 00:14:01
+
+frase famosa não é correlação não é
+ 00:14:06
+
+causalidade não é então que nem nós vimos
+ 00:14:08
+
+aqui ultimamente na nessa chuvarada nas
+ 00:14:10
+
+tragédias nas cheias tem algumas coisas
+ 00:14:14
+
+que são causalidades tem algumas coisas
+ 00:14:16
+
+que são correlações mas tem algumas
+ 00:14:19
+
+correlações que não são causalidades mas
+ 00:14:21
+
+isso é um papo mais acadêmico e tal que
+ 00:14:22
+
+não vem a o caso aqui mas o que eu quero
+ 00:14:25
+
+destacar é isso que foram eh verificadas
+ 00:14:27
+
+essas evidências essas causalidades para
+ 00:14:30
+
+seguir nessa nessa nessa ação de fazer a
+ 00:14:34
+
+avaliação dos projetos então buscando não é
+ 00:14:39
+
+como tá escrito ali eh essa ideia então
+ 00:14:42
+
+foi eu fui convidado não é pela aquela pela
+ 00:14:46
+
+gerência anterior pela Regina e pelo
+ 00:14:49
+
+cadó segue na atual gerência do
+ 00:14:50
+
+Guilherme e da Simone para implantar a
+ 00:14:52
+
+sala de gestão não é a sala de gestão como
+ 00:14:55
+
+eu BR basicamente sou eu mas não sou não é
+ 00:14:58
+
+claro que não eh eu faço essa esse
+ 00:15:01
+
+trabalho de produção de dados de
+ 00:15:03
+
+avaliação mas não sozinho com a ajuda
+ 00:15:05
+
+dos colegas do regional da gerência e
+ 00:15:08
+
+com os colegas de Campo também de cada
+ 00:15:11
+
+Municipal então a sala de gestão é um
+ 00:15:13
+
+grande projeto um programa já
+ 00:15:15
+
+estabelecido que Visa isto qualificar
+ 00:15:17
+
+esse trabalho nosso a Campo na extensão
+ 00:15:20
+
+Rural não é então ã São 35 não é
+ 00:15:22
+
+ah municípios não é que fazem parte do
+ 00:15:27
+
+nosso escritório Regional e também
+ 00:15:29
+
+também Cabe destacar que isso aí não é
+ 00:15:31
+
+uma Como já foi não é não é uma coisa
+ 00:15:34
+
+tirada da minha cabeça o escritório
+ 00:15:37
+
+central também faz isso outras
+ 00:15:39
+
+instituições trabalham com esta lógica
+ 00:15:41
+
+Então mas como é que tu faz não é da onde
+ 00:15:45
+
+que tu tira os dados para para fazer
+ 00:15:47
+
+esse monitoramento para fazer essa
+ 00:15:50
+
+criação de indicadores eh Da onde Da tua
+ 00:15:53
+
+cabeça tu pergunta lá pro Joãozinho pro
+ 00:15:56
+
+Zezinho para Mariazinha out tu um dia
+ 00:15:58
+
+acorda e Ah vou falar disso não não é então
+ 00:16:01
+
+são os diversos sistemas que a imater
+ 00:16:04
+
+tem e que o nosso Regional utiliza
+ 00:16:06
+
+lógico não é que são retirados os dados
+ 00:16:09
+
+desses diversos sistemas para produção
+ 00:16:12
+
+desses eh indicadores índices e essa
+ 00:16:15
+
+avaliação e monitoramento o primeiro
+ 00:16:18
+
+sistema que é o vamos dizer o sistema eh
+ 00:16:21
+
+mais complexo que tem um banco de dados
+ 00:16:24
+
+muito grande e muito qualificado é o
+ 00:16:26
+
+não é que é o sistema de registro de
+ 00:16:29
+
+planejamento até pra Colega nova que tá
+ 00:16:32
+
+que vai vi então ela vai trabalhar muito
+ 00:16:35
+
+com o sisplan e às vezes os colegas
+ 00:16:37
+
+confundem o sisplan não é o
+ 00:16:39
+
+planejamento o sisplan é o registro do
+ 00:16:42
+
+planejamento não é então a gente registra o
+ 00:16:45
+
+planejamento ali e tudo que o o
+ 00:16:47
+
+escritório Municipal e o escritório
+ 00:16:50
+
+Regional lógico vai executar no ano
+ 00:16:52
+
+seguinte ele é planejado no ano anterior
+ 00:16:54
+
+Por exemplo agora em 2020 24 a partir de
+ 00:16:57
+
+setembro outubro Francisco Palermo que é
+ 00:17:00
+
+supervisor aí pode me auxiliar
+ 00:17:03
+
+eh vai começar a ser feito planejamento
+ 00:17:05
+
+de 2025 terminado o planejamento no
+ 00:17:08
+
+papel não é no papel entre aspas nos
+ 00:17:11
+
+sistemas internos ali é colocado no
+ 00:17:13
+
+sisplan então é registrado este
+ 00:17:16
+
+planejamento no nosso sisplan e lá estão
+ 00:17:19
+
+todos os dados quantos agricultores
+ 00:17:22
+
+familiares vão ser assistidos
+ 00:17:23
+
+quilombolas pescadores artesanais eh
+ 00:17:25
+
+indígenas pecuarista familiar Tem o
+ 00:17:29
+
+público outros que são aqueles eh que
+ 00:17:32
+
+ruro Urbano que se chama não é um misto de
+ 00:17:35
+
+Rural e urbano e tal eh o agricultor
+ 00:17:37
+
+Empresarial também tá ali registrado
+ 00:17:41
+
+então toda essa Gama de de público é
+ 00:17:44
+
+registrado ali e se as atividades esse
+ 00:17:47
+
+ano nós temos 75 atividades registradas
+ 00:17:51
+
+o nosso Regional não é o a matéria como um
+ 00:17:54
+
+todo é um pouco mais mas Regional Santa
+ 00:17:57
+
+Maria com os 35 municípios tem 75
+ 00:18:00
+
+atividades que vai desde a ter mulheres
+ 00:18:02
+
+rurais at ter indígenas
+ 00:18:05
+
+e bioinsumos e
+ 00:18:08
+
+meliponicultura até soja solos
+ 00:18:12
+
+viticultura etc
+ 00:18:14
+
+olericultura e por aí vai então tão
+ 00:18:16
+
+aquelas 75 atividades registradas no
+ 00:18:19
+
+sisplan E essas 75 atividades cada uma
+ 00:18:21
+
+delas tem outras tantas práticas
+ 00:18:25
+
+porque não adianta tu colocar atividade
+ 00:18:29
+
+lá soja e daí Ah serão assistidos 200
+ 00:18:30
+
+famílias não não é tem que dizer a área a
+ 00:18:35
+
+produção a produtividade que técnicas
+ 00:18:38
+
+que vão ser utilizadas quais os
+ 00:18:41
+
+itinerários etc então tem as atividades
+ 00:18:43
+
+e tem as práticas e essas estão todas
+ 00:18:46
+
+registradas no sisplan tem o segundo
+ 00:18:47
+
+sistema que é o sistema de Crédito Rural
+ 00:18:50
+
+o scr é onde estão todos os nossos
+ 00:18:52
+
+projetos de crédito Então faz um projeto
+ 00:18:56
+
+de crédito para um agricultor familiar
+ 00:18:58
+
+para um quilombola um pecuarista
+ 00:19:00
+
+familiar etc é registrado ali e esse é
+ 00:19:03
+
+um outro sistema que os dados são são
+ 00:19:07
+
+retirados dali pra gente fazer depois
+ 00:19:10
+
+vocês vão ver é chamar astec não é o
+ 00:19:12
+
+indicador Esse é aztec que assistência
+ 00:19:15
+
+técnica não é e eh produz esse índice o
+ 00:19:17
+
+sisfrota é o Sistema de Controle de
+ 00:19:20
+
+frotas de veículos Das Car materna então
+ 00:19:22
+
+o sisfrota tá lá todos os nossos carros
+ 00:19:24
+
+só como curiosidade nós temos 94
+ 00:19:27
+
+automóveis são 12 no regionais e
+ 00:19:32
+
+82 nos municipais esta Frota ela tem uma
+ 00:19:36
+
+média de 10 anos ou mais de uso então
+ 00:19:40
+
+por isso que é importante ter a produção
+ 00:19:44
+
+de indicadores porque não é a gerência não é
+ 00:19:46
+
+os gestores os supervisores ATRS sabem a
+ 00:19:48
+
+qualidade da nossa Frota e se precisa Ah
+ 00:19:52
+
+tem um Municipal lá que tem um carro ano
+ 00:19:56
+
+então vai para um outro que não tem e
+ 00:19:59
+
+assim vai não é então o sisfrota também é
+ 00:20:01
+
+um importante
+ 00:20:04
+
+eh componente desta dessa produção de
+ 00:20:05
+
+dados aí tem o IP quinzenal que é
+ 00:20:09
+
+interessante que IP quinzenal tu vai ler
+ 00:20:12
+
+a cía não tem nada a ver com ipan não é Eh
+ 00:20:14
+
+é sistema de levantamento de componentes
+ 00:20:17
+
+tecnológicos da lavoura do Rio Grande do
+ 00:20:19
+
+Sul o ipan quinzenal como o nome diz ele
+ 00:20:21
+
+é lançado no dia 8 e no dia 23 todo dia
+ 00:20:24
+
+todo dia 23 cada os os chefes de
+ 00:20:29
+
+escritório de cada Municipal os 497
+ 00:20:32
+
+municípios que é Mater tem aqui no
+ 00:20:35
+
+estado e dos 35 na região central lançam
+ 00:20:37
+
+Eh esses dados que vai desde a da onde a
+ 00:20:40
+
+a a onde a cultura a estratégia não é o o
+ 00:20:44
+
+estágio desculpe que a cultura está a
+ 00:20:49
+
+produção a produtividade se houve perda
+ 00:20:51
+
+Se não houve não é Como tá as Como estão as
+ 00:20:53
+
+culturas E inclui também olerícolas e
+ 00:20:56
+
+Pomares esses dados do ipan foram muito
+ 00:20:58
+
+importantes paraa gente mensurar as
+ 00:21:01
+
+perdas que ocorreram com essa tragédia
+ 00:21:04
+
+climática recente vivida por nós não Ipa
+ 00:21:07
+
+quinzenal é um instrumento muito
+ 00:21:10
+
+importante para nós todos o informativo
+ 00:21:12
+
+conjuntural semanal como o nome diz toda
+ 00:21:15
+
+semana ele é produzido por cada
+ 00:21:18
+
+escritório Municipal E aí tem uma série
+ 00:21:20
+
+de dados desde a chuva desde daí dos
+ 00:21:23
+
+estágios de produção se houve alguma
+ 00:21:26
+
+Intempérie ali local ah caiu granizo lá
+ 00:21:29
+
+em agudo mas não caiu em nenhum outro
+ 00:21:32
+
+município aí o colega registra ali e
+ 00:21:34
+
+isso aí Vem para o nosso colega
+ 00:21:37
+
+Francisco Palermo que faz a compilação
+ 00:21:38
+
+desses dados de todos os 35 dos 20
+ 00:21:41
+
+perdão são 20 municípios dos 35 que
+ 00:21:44
+
+fazem o conjuntural não é porque em função
+ 00:21:47
+
+de uma eh também não é de uma determinação
+ 00:21:50
+
+que é da representatividade desses 20
+ 00:21:53
+
+municípios na região não é nos na região
+ 00:21:57
+
+dos 35 Então ele recebe esses 20
+ 00:22:00
+
+conjunturais faz a compilação e envia
+ 00:22:02
+
+pro estado e toda quarta de manhã este
+ 00:22:05
+
+informativo conjuntural tá na mesa do
+ 00:22:08
+
+governador então para ver a importância
+ 00:22:10
+
+e não tô querendo valorizar o trabalho
+ 00:22:12
+
+de matéria e dizer que é é melhor ou
+ 00:22:15
+
+pior que outros não é um trabalho
+ 00:22:18
+
+importante então esse trabalho do
+ 00:22:19
+
+conjuntural importante porque toda
+ 00:22:21
+
+quarta-feira tá na mesa do governador
+ 00:22:23
+
+para lhe avaliar e foi muito importante
+ 00:22:25
+
+de novo repito nessa tragédia aí da das
+ 00:22:28
+
+chuvas e tal o cis perdas é outro
+ 00:22:31
+
+sistema que mede as perdas não é como o
+ 00:22:34
+
+nome diz o cis perdas também ele foi
+ 00:22:36
+
+importante pra gente fazer o a medição
+ 00:22:40
+
+de aí ah teve perdas com casas com Silos
+ 00:22:43
+
+com animais etc não é e ah e o último
+ 00:22:47
+
+sistema o sistema gestão de serviços que
+ 00:22:52
+
+a onde onde são postados todos os
+ 00:22:54
+
+contratos que a imater faz com cada
+ 00:22:57
+
+município porque a imater é uma empresa
+ 00:22:59
+
+que ela tem trabalho com o governo
+ 00:23:02
+
+Municipal o governo estadual e o governo
+ 00:23:04
+
+federal não é com o governo estadual nós
+ 00:23:06
+
+temos contratos com a secretaria de
+ 00:23:09
+
+agricultura pecuária eh eh com a
+ 00:23:11
+
+secretaria de agricultura pecuária e
+ 00:23:14
+
+irrigação que é a SEAP e com a SDR
+ 00:23:16
+
+Secretaria de desenvolvimento Rural
+ 00:23:19
+
+então nós temos grande contrato com
+ 00:23:21
+
+essas duas secretarias do Estado mas
+ 00:23:23
+
+também temos contratos com as
+ 00:23:26
+
+prefeituras municipais E também temos
+ 00:23:28
+
+programas com o governo federal Então
+ 00:23:30
+
+esse sistema gestão de serviços serve
+ 00:23:33
+
+serve para fazer impostação do contrato
+ 00:23:35
+
+com as prefeituras municipais não é quantas
+ 00:23:38
+
+cotas que daí as prefeituras municipais
+ 00:23:41
+
+pagam cotas para Emater e no final nós
+ 00:23:42
+
+vamos ver um indicador comparando quanto
+ 00:23:45
+
+que as prefeituras pagam de cota e qual
+ 00:23:48
+
+o retorno que a imater dá para cada
+ 00:23:50
+
+município isso mais ao final também tem
+ 00:23:53
+
+outros sistemas assim mais pontuais que
+ 00:23:56
+
+a gente a gente pega com administrativo
+ 00:23:58
+
+com o contador com o nosso amigo
+ 00:23:59
+
+Vinícius ali que faz a contabilidade do
+ 00:24:01
+
+regional eh pega outros dados assim o
+ 00:24:03
+
+número de colegas que tem e tal que às
+ 00:24:06
+
+vezes eh precisa não é as licenças férias
+ 00:24:08
+
+etc precisa pra gente entender eh uma
+ 00:24:11
+
+Por que que o indicador tá assim ou
+ 00:24:15
+
+assado tem que ter essa noção essa visão
+ 00:24:17
+
+e essa sensibilidade também então o que
+ 00:24:19
+
+que falando do monitoramento não é indo já
+ 00:24:22
+
+pro monitoramento então eu já falei da
+ 00:24:25
+
+onde que veio a ideia de fazer esse
+ 00:24:27
+
+monitoramento como foi implantado aqui
+ 00:24:29
+
+no Regional Quais os principais sistemas
+ 00:24:31
+
+que a gente utiliza para fazer esse
+ 00:24:35
+
+monitoramento aí um destaque não é que eu
+ 00:24:37
+
+não não falei anteriormente em função
+ 00:24:40
+
+desse sistemas que a imater tem eh foi
+ 00:24:43
+
+apresentado pro governo um relatório
+ 00:24:47
+
+Estadual das perdas muito bem embasado
+ 00:24:51
+
+porque é baseado em cada dado de cada
+ 00:24:54
+
+município porque cada município do
+ 00:24:56
+
+estado tem um colega lá nós aqui na
+ 00:24:58
+
+região central só como título de de
+ 00:25:01
+
+curiosidade em cinco atividades
+ 00:25:04
+
+agrícolas que é o arroz a soja o milho o
+ 00:25:06
+
+milho de silagem e o feijão safrin ou
+ 00:25:11
+
+feijão segunda safra nós tivemos uma
+ 00:25:13
+
+perda de R 2 bilhões deais não é só no
+ 00:25:15
+
+instante da grande tragédia aí que
+ 00:25:19
+
+abateu fora aquilo que os economistas
+ 00:25:22
+
+gostam de falar o lucro cessante fora
+ 00:25:24
+
+perdas de solo fora perdas com estradas
+ 00:25:26
+
+com casas
+ 00:25:29
+
+eh bom então foi muito grande e aí Mater
+ 00:25:30
+
+mesmo nesse momento triste ela serviu e
+ 00:25:34
+
+subsidiou com muita qualidade e e por
+ 00:25:37
+
+isso que antes eu falei da da
+ 00:25:40
+
+causalidade não é da correlação do dado ser
+ 00:25:42
+
+muito eh muito bom muito qualificado pra
+ 00:25:46
+
+gente poder medir ele esses dados que a
+ 00:25:48
+
+matéria produziu são qualificados não é
+ 00:25:51
+
+porque eles vêm da base dos nossos
+ 00:25:53
+
+colegas que produzem Então esse
+ 00:25:56
+
+monitoramento que é feito ele acompanha
+ 00:25:58
+
+e é um acompanhamento contínuo mesmo não é
+ 00:26:01
+
+das atividades e práticas que eu já
+ 00:26:03
+
+falei lá atrás que são 75 atividades e
+ 00:26:05
+
+200 e tantas práticas não é que A Emater
+ 00:26:08
+
+tem no no seu planejamento que vai pro
+ 00:26:11
+
+sisplan aquele no sistema de registro
+ 00:26:14
+
+então e dentre outros também a gente não
+ 00:26:16
+
+acompanha só Essas atividades como eu
+ 00:26:19
+
+falei tem desde automóveis tem das
+ 00:26:20
+
+perdas tem do iping zenal tem
+ 00:26:23
+
+conjuntural etc então é uma função do
+ 00:26:25
+
+nosso trabalho não é esse monitoramento
+ 00:26:29
+
+Então esse o monitoramento ele serve
+ 00:26:31
+
+basicamente para medir se os nossos
+ 00:26:34
+
+objetivos e as nossas metas estão sendo
+ 00:26:35
+
+alcançadas E como eu destaquei lá no
+ 00:26:38
+
+início não se não estão sendo alcançadas
+ 00:26:40
+
+não é com intuito punitivo ou eh
+ 00:26:43
+
+persecutório etc não é para qualificar o
+ 00:26:47
+
+trabalho isso eu falo assim não é
+ 00:26:50
+
+proselitismo não é Não é para falar por
+ 00:26:52
+
+falar é de verdade mesmo não é tanto a
+ 00:26:54
+
+gestão anterior quanto quanto atual
+ 00:26:57
+
+procura
+ 00:26:59
+
+eh trabalhar para qualificar os ATRS os
+ 00:27:00
+
+supervisores eles têm Essa visão não é de
+ 00:27:03
+
+de qualificar o trabalho porque valoriza
+ 00:27:06
+
+o nosso trabalho e que principalmente o
+ 00:27:10
+
+nosso beneficiário não é o agricultor que
+ 00:27:12
+
+tá na ponta lá que merece ter um
+ 00:27:14
+
+trabalho qualificado e como nós
+ 00:27:17
+
+recebemos recurso público que eu já
+ 00:27:19
+
+falei não é lá atrás o recurso público ele
+ 00:27:20
+
+também deve ser eh bem
+ 00:27:23
+
+utilizado a avalia o que que é avaliação
+ 00:27:26
+
+avaliação subsidia com informações
+ 00:27:29
+
+aprofundadas e detalhadas o
+ 00:27:32
+
+funcionamento e os efeitos do
+ 00:27:35
+
+planejamento a gente fez um trabalhão
+ 00:27:36
+
+planejando lá não é vai ter agora todo ano
+ 00:27:39
+
+tem aí Posta no no no sisplan aí
+ 00:27:41
+
+acompanha e tal e e não e não funciona
+ 00:27:45
+
+não planejamento ele tem que funcionar
+ 00:27:49
+
+por isso que e é bom que funcione e ele
+ 00:27:51
+
+funciona e e a avaliação ela serve para
+ 00:27:54
+
+a auxiliar essa tomada de decisão dos
+ 00:27:57
+
+resultados não é Então teve um resultado
+ 00:28:01
+
+gerado lá alcançou 100% não é numa
+ 00:28:03
+
+atividade Por exemplo agora em função da
+ 00:28:07
+
+da tragédia climática ali eh tem algumas
+ 00:28:10
+
+atividades que elas não não vão
+ 00:28:13
+
+conseguir ser alcançadas 100% Então essa
+ 00:28:15
+
+avaliação serve para isso para ter a
+ 00:28:20
+
+sensibilidade e
+ 00:28:22
+
+a a capacidade de avaliar não é que aquela
+ 00:28:24
+
+unidade de referência que aquela
+ 00:28:27
+
+atividade agrícola que aquela
+ 00:28:29
+
+agroindústria que aquele grupo de
+ 00:28:31
+
+mulheres ou grupo de de quilombolas etc
+ 00:28:34
+
+ele não vai conseguir eh produzir
+ 00:28:38
+
+a as as ações ou as atividades da
+ 00:28:40
+
+maneira que tá planejado então a
+ 00:28:44
+
+avaliação serve para auxiliar essa
+ 00:28:46
+
+tomada de decisão e os indicadores aí o
+ 00:28:48
+
+conceito de indicadores que é o que eu
+ 00:28:51
+
+vou apresentar para vocês a parte mais
+ 00:28:53
+
+teórica eh fica fica foi falado
+ 00:28:55
+
+anteriormente mas o que é na prática a
+ 00:28:58
+
+produção desses indicadores é o que a
+ 00:29:01
+
+gente vai ver a seguir o conceito de
+ 00:29:02
+
+indicadores eu vou ler porque a gente se
+ 00:29:05
+
+baseou no conceito utilizado pela
+ 00:29:08
+
+secretaria de avaliação e gestão de
+ 00:29:10
+
+informação do governo brasileiro então
+ 00:29:12
+
+para não não é para respeitar esse Essa
+ 00:29:15
+
+secretaria eu vou ler o que que a gente
+ 00:29:18
+
+entende como indicador e não é Sou eu
+ 00:29:20
+
+falo a gente eh Somos Todos nós que
+ 00:29:23
+
+trabalhamos com esse projeto não é são
+ 00:29:25
+
+medidas de ordem quantitativa ou
+ 00:29:28
+
+qualitativa dotada de significado
+ 00:29:30
+
+particular e utilizada para organizar e
+ 00:29:33
+
+captar as informações relevantes dos
+ 00:29:36
+
+elementos que compõem o objeto de
+ 00:29:38
+
+observação é um recurso metodológico que
+ 00:29:40
+
+informa empiricamente sobre a evolução
+ 00:29:43
+
+do aspecto observado não é eu deixei
+ 00:29:46
+
+destaquei em amarelo ali que é organizar
+ 00:29:49
+
+e captar informações relevantes dos
+ 00:29:51
+
+elementos que compõe objeto de
+ 00:29:53
+
+observação Ou seja a gente usa o indic
+ 00:29:54
+
+para ver se o trabalho ele tá evoluindo
+ 00:29:58
+
+de acordo com o planejado não é E se não se
+ 00:30:02
+
+tiver algum problema como eu falei da
+ 00:30:04
+
+questão das cheias aqui a gente avalia
+ 00:30:06
+
+monitora e e Lógico que vai ter que ter
+ 00:30:09
+
+uma tomada de decisão eh compreendendo a
+ 00:30:12
+
+situação ocorrida certo então aqui o
+ 00:30:16
+
+próximo é um mapa Este é o nosso
+ 00:30:19
+
+Regional que eu tanto falei os 35
+ 00:30:22
+
+municípios Ah mas por que que tá
+ 00:30:24
+
+azulzinho verdinho e verde mais clarinho
+ 00:30:25
+
+ess são as três microrregiões que
+ 00:30:28
+
+compõem o nosso Regional Santa Maria
+ 00:30:31
+
+Então essa região mais em eh eu não sei
+ 00:30:35
+
+se tá a região mais em azul escuro ela
+ 00:30:38
+
+ela é a microrregião que é o supervisor
+ 00:30:42
+
+Gilmar de ponte que coordena esses 13
+ 00:30:44
+
+municípios são 13 municípios da
+ 00:30:47
+
+microrregião um que tá nesse azul mais
+ 00:30:49
+
+escuro aí na microrregião dois é esse
+ 00:30:52
+
+esse azul esse verde mais escuro também
+ 00:30:57
+
+que é coordenado pelo supervisor
+ 00:31:00
+
+Francisco Palermo não é então são 10
+ 00:31:02
+
+municípios que é daí depois eu vou
+ 00:31:04
+
+mostrar para vocês um quadro de áreas e
+ 00:31:07
+
+hab e população Ah por que que não fez
+ 00:31:09
+
+igual para todo mundo não é que tem
+ 00:31:11
+
+municípios maiores áreas maiores número
+ 00:31:13
+
+de eh de de de agricultores não é maiores
+ 00:31:16
+
+Então essa é a divisão que foi feita e
+ 00:31:21
+
+essa verde mais clarinho é a microregião
+ 00:31:23
+
+três da supervisão Z monic Chaves então
+ 00:31:26
+
+cada microrregião o Regional São 35
+ 00:31:29
+
+municípios tem três microrregiões então
+ 00:31:32
+
+a microrregião um com 13 municípios a do
+ 00:31:35
+
+com 10 municípios e a TR com 12
+ 00:31:38
+
+municípios cada microrregião tem um
+ 00:31:41
+
+supervisor que coordena as ações as
+ 00:31:43
+
+atividades as práticas que acontecem
+ 00:31:47
+
+nesses municípios coordena no sentido de
+ 00:31:50
+
+um apoio não é não que ele determina o que
+ 00:31:52
+
+tem que fazer e tal é o nome já diz é
+ 00:31:54
+
+supervisão ele supervis Iona e apoia na
+ 00:31:56
+
+medida do possível o que for necessário
+ 00:31:59
+
+desde por exemplo Ah tá faltando pneu lá
+ 00:32:01
+
+no no escritório Municipal x aí ele vem
+ 00:32:04
+
+aqui fala com o Vinícius e o Vinícius
+ 00:32:07
+
+diz tá a gente tem pneu aí envia para lá
+ 00:32:09
+
+ah deu problema na impressora entende
+ 00:32:12
+
+dessas ações práticas do dia a dia até
+ 00:32:14
+
+ações do planejamento porque o
+ 00:32:17
+
+supervisor participa da elaboração do
+ 00:32:19
+
+planejamento de todos os escritórios
+ 00:32:23
+
+municipais e ele auxilia a gerência e a
+ 00:32:25
+
+auxilia os ATRS e também eu nessa nessas
+ 00:32:27
+
+atividades que inerentes a cada a cada
+ 00:32:32
+
+um ATRS assistente técnico Regional não é
+ 00:32:34
+
+Cada cada área tem tem um assistente
+ 00:32:37
+
+técnico Regional Então esse é o nosso
+ 00:32:40
+
+mapa não é é o nosso Regional dividido nas
+ 00:32:42
+
+três microrregiões aqui ah outra coisa
+ 00:32:45
+
+voltando pro mapa aqui é esse mapa ele é
+ 00:32:48
+
+ele é bem simples assim não é não é um mapa
+ 00:32:51
+
+vamos dizer acadêmico científico é um
+ 00:32:54
+
+mapa que serve pra gente eu não vou
+ 00:32:56
+
+mostrar para vocês aqui os mapas que a
+ 00:32:59
+
+gente produz mas sim os dados os
+ 00:33:01
+
+indicadores eles são no final eles se
+ 00:33:04
+
+transformam num mapa eles vão para o
+ 00:33:08
+
+mapa primeiro Ten o mapa dos 35
+ 00:33:10
+
+municípios e depois eu faço o mapa de
+ 00:33:13
+
+cada microrregião E aí com cores tem uma
+ 00:33:15
+
+cor que é uma cor eh que determina que ó
+ 00:33:18
+
+tá um pouco baixo ou tá mais abaixo que
+ 00:33:23
+
+os outros e uma cor mais forte assim que
+ 00:33:24
+
+ultrapassou até do que tava do que tava
+ 00:33:28
+
+previsto não é da naquele mês naquele
+ 00:33:30
+
+período mas os mapas eles são assim não é a
+ 00:33:33
+
+gente manda para todos os colegas para
+ 00:33:36
+
+avaliar e como diz o o meme não é tem que é
+ 00:33:39
+
+um desenho porque ali não tem como não
+ 00:33:42
+
+enxergar a gente olhando aquele mapa já
+ 00:33:44
+
+sabe eh como intuitivamente como tá a
+ 00:33:47
+
+situação do regional no planejamento da
+ 00:33:51
+
+e execução de suas atividades então aqui
+ 00:33:54
+
+os focos estratégicos regionais não é são
+ 00:33:57
+
+eh não são os focos vinculados às
+ 00:33:59
+
+atividades deixo bem claro não é Tem alguns
+ 00:34:03
+
+focos aqui que não tão vinculados mas
+ 00:34:06
+
+são focos mais amplos que abarcam várias
+ 00:34:07
+
+atividades dentro dele então nossos
+ 00:34:11
+
+focos estratégicos são o abastecimento
+ 00:34:13
+
+Regional segurança e soberania alimentar
+ 00:34:15
+
+esses dois aqui T os dois primeiros TM
+ 00:34:18
+
+no nosso planejamento mais grãos não
+ 00:34:20
+
+grãos tem os grãos tem a soja tem o
+ 00:34:23
+
+milho tem o feijão mas nós consideramos
+ 00:34:25
+
+todos os grãos estratégicos a
+ 00:34:27
+
+sustentabilidade ambiental também não tá
+ 00:34:29
+
+na nossa atividade Mas ela é importante
+ 00:34:32
+
+ainda mais agora não é a gente viu que de
+ 00:34:34
+
+fato aquele tripé eh eh Área social área
+ 00:34:36
+
+econômica e área ambiental área
+ 00:34:41
+
+ambiental é extremamente importante não
+ 00:34:43
+
+pode ser negligenciada e depois a
+ 00:34:45
+
+melhoria das condições de trabalho e
+ 00:34:48
+
+redução da penosidade não é que é para
+ 00:34:50
+
+tanto pros agricultores que nem eu dei o
+ 00:34:52
+
+exemplo da sala de ordenha não é quando
+ 00:34:55
+
+você melhora uma sala de ordenha é
+ 00:34:56
+
+eh visando a melhoria da qualidade de
+ 00:34:59
+
+vida das pessoas para não ficar com dor
+ 00:35:02
+
+nas costas não ficar doente etc não é e
+ 00:35:04
+
+reduz a penosidade
+ 00:35:07
+
+bom aqui é eu fiz um tabelão ali eh tá
+ 00:35:08
+
+meio não é tem muitos dados aqui mas só
+ 00:35:13
+
+para destacar uma coisa Às vezes as
+ 00:35:15
+
+pessoas questionam Ah mas por que tal o
+ 00:35:18
+
+município H tem mais famílias ou menos e
+ 00:35:20
+
+tal não é a o indicador é maior ou menor
+ 00:35:23
+
+naquele por por exemplo o município de
+ 00:35:26
+
+Agudo tem 273 estabelecimentos
+ 00:35:28
+
+agropecuários aí a gente vai ver um
+ 00:35:31
+
+outro município menor São Martinho da
+ 00:35:33
+
+Serra tem 629 não é a área a área de Agora
+ 00:35:35
+
+Cachoeira do Sul 320.000 ha de área não é
+ 00:35:39
+
+Cachoeira aí a gente vai ver um
+ 00:35:44
+
+município aqui menor Silveira Martins
+ 00:35:46
+
+tem 9.000 ha de área e não é a aqui área
+ 00:35:49
+
+total e territorial Mas então esse esse
+ 00:35:53
+
+quadro aqui tem os escritórios
+ 00:35:55
+
+municipais o número de estabelecimentos
+ 00:35:56
+
+na primeira coluna a área em é o número
+ 00:35:58
+
+a área dos estabelecimentos hectares a
+ 00:36:01
+
+área total em hectares e a área
+ 00:36:03
+
+territoral em quilômetro e quilômetros
+ 00:36:05
+
+quilômetros quadr então eu coloquei esse
+ 00:36:07
+
+quadro aqui só para vocês verem a
+ 00:36:10
+
+diversidade e a dinâmica de cada
+ 00:36:12
+
+município não é que cada município tem um
+ 00:36:15
+
+diferencial seja pelo tamanho seja pelo
+ 00:36:19
+
+número de estabelecimentos seja pela
+ 00:36:21
+
+área seja pelo número de famílias que
+ 00:36:23
+
+possui então a gente tem que ao fazer
+ 00:36:25
+
+essa medição considerar isso também e
+ 00:36:28
+
+nós consideramos não é Não Não Não Ah tem
+ 00:36:30
+
+um município lá que tá não é tá assistindo
+ 00:36:34
+
+já 200 famílias A Nessa altura depois
+ 00:36:37
+
+vou explicar o que que é isso e o outro
+ 00:36:40
+
+tá com 80 tudo bem É cada um dentro da
+ 00:36:41
+
+sua possibilidade não é porque aquele
+ 00:36:46
+
+que tá com 80 é ruim e aquele que tá com
+ 00:36:48
+
+200 é um máximo não a gente tem que ao
+ 00:36:50
+
+avaliar esse indicador não é tem que ter
+ 00:36:53
+
+essa sensibilidade e essa visão e
+ 00:36:57
+
+analisar essa conjuntura para poder
+ 00:36:59
+
+qualificar o planejamento e isso é
+ 00:37:02
+
+também é uma uma maneira também
+ 00:37:04
+
+científica porque como eu falei é
+ 00:37:06
+
+qualitativo E quantitativo se o cara vai
+ 00:37:08
+
+eh virar um cabeça de planilha não é entre
+ 00:37:10
+
+aspas nada contra quem gosta de planilha
+ 00:37:13
+
+mas se vai só pela planilha a pessoa bom
+ 00:37:15
+
+eh acaba de fato enxergando coisas que
+ 00:37:19
+
+não combinam com a realidade Então tem
+ 00:37:24
+
+que ter análise qualit a gente faz
+ 00:37:26
+
+também análise quantitativa e análise
+ 00:37:28
+
+qualitativa então por isso que eu
+ 00:37:31
+
+coloquei esse quadro aqui eh meio meio
+ 00:37:32
+
+poluído ali mas só para ver a diferença
+ 00:37:35
+
+que tem só no número de estabelecimentos
+ 00:37:38
+
+e na área entre os 35 municípios da
+ 00:37:40
+
+região central imagina no restante então
+ 00:37:43
+
+alguns indicadores que eu utilizo então
+ 00:37:47
+
+agora Indo pros indicadores tomar
+ 00:37:49
+
+Maguinha aqui com
+ 00:37:51
+
+licença obrigado indo os indicadores
+ 00:37:55
+
+pagamento de aztec que que é esse
+ 00:37:59
+
+indicador é o quanto a os projetos de
+ 00:38:01
+
+crédito eh foram pagos não é quanto que se
+ 00:38:05
+
+atingiu no pagamento da assistência
+ 00:38:09
+
+técnica feita àquele projeto de Crédito
+ 00:38:11
+
+Depois a gente vai eu vou detalhar um
+ 00:38:13
+
+por um calendário de compromissos cada
+ 00:38:16
+
+Municipal toda semana tem um um
+ 00:38:19
+
+calendário de compromissos a cumprir
+ 00:38:22
+
+todo mês ou toda semana não é tem por
+ 00:38:24
+
+exemplo informativo conj cultural
+ 00:38:26
+
+aqueles 20 municípios eles têm que
+ 00:38:27
+
+enviar toda semana pro colega Palermo o
+ 00:38:29
+
+ipan quinzenal como o nome diz de 15 em
+ 00:38:33
+
+15 dias não é E e aí a o a prestação de
+ 00:38:35
+
+contas é mensal não é o preenchimento no
+ 00:38:40
+
+SIS Frota que é o sistema da Frota é
+ 00:38:43
+
+mensal então é um calendário de
+ 00:38:45
+
+compromisso também a gente vai vai vai
+ 00:38:47
+
+falar específica especificar mais depois
+ 00:38:50
+
+então se mede o indicador dos
+ 00:38:53
+
+calendários e compromissos consultas
+ 00:38:54
+
+técnicas
+ 00:38:56
+
+Você mede também as consultas técnicas O
+ 00:38:58
+
+que são consultas técnicas um agricultor
+ 00:39:00
+
+liga que é uma informação o agricultor
+ 00:39:03
+
+pede um card o agricultor vai eu falo
+ 00:39:05
+
+agricultores mas é genérico É todo nosso
+ 00:39:08
+
+público Então usa agricultor o
+ 00:39:10
+
+agricultor ou agricultor vai no nosso
+ 00:39:12
+
+escritório que é uma informação B deu
+ 00:39:14
+
+deu um fungo ali Ah tem um bichinho lá e
+ 00:39:17
+
+tal daí o colega dá uma informação é uma
+ 00:39:19
+
+consulta técnica então a essa consulta
+ 00:39:22
+
+técnica também é medida visitas Aí sim é
+ 00:39:25
+
+quando o colega vai na propriedade vai
+ 00:39:29
+
+na unidade de produção familiar do nosso
+ 00:39:31
+
+assistido vai lá visitar como o nome diz
+ 00:39:34
+
+percentual de atingimento das atividades
+ 00:39:37
+
+bom como eu falei são 75 atividades
+ 00:39:40
+
+então Eh vamos dizer a pessoa mesmo com
+ 00:39:43
+
+a questão da emergência climática não é das
+ 00:39:47
+
+cheias e tal foi planejado uma atividade
+ 00:39:49
+
+que até Março Abril teria que tá 100%
+ 00:39:52
+
+atingida aí ela não foi então por que
+ 00:39:56
+
+não foi então a gente faz esse
+ 00:39:59
+
+percentual mensal cada mês tem um
+ 00:40:01
+
+percentual não é que é dividido por 12 e a
+ 00:40:03
+
+gente eh avalia Como está o atingimento
+ 00:40:06
+
+e esse atingimento das atividades é
+ 00:40:10
+
+tirado do sisplan aquele sistema de
+ 00:40:12
+
+registro do planejamento famílias
+ 00:40:14
+
+assistidas por colega de Campo também
+ 00:40:17
+
+aquilo que eu falei quantas famílias que
+ 00:40:19
+
+cada colega assiste de Campo por colega
+ 00:40:21
+
+a a nossa a nossa Orient ação aqui Ela é
+ 00:40:24
+
+110 famílias ao ano que cada colega de
+ 00:40:28
+
+Campo tem que assistir Ah mas ele tem
+ 00:40:31
+
+que visitar 110 não podem ser reuniões
+ 00:40:33
+
+podem ser dias de Campo pode ser
+ 00:40:36
+
+demonstração de método mas tem que é tem
+ 00:40:38
+
+que não não é Eh seria interessante que
+ 00:40:42
+
+essas 110 famílias fossem atingidas e
+ 00:40:45
+
+como é que chegou nesse número 110
+ 00:40:47
+
+através do Diálogo através da conversa
+ 00:40:49
+
+através da visualização daqueles dados
+ 00:40:52
+
+anteriores que eu mostrei para vocês do
+ 00:40:54
+
+número de centos tem um outro quadro que
+ 00:40:56
+
+eu não postei Ali que fala do número de
+ 00:40:58
+
+famílias não é que tem cada cada cada
+ 00:41:01
+
+município e aí aparece a masculinização
+ 00:41:04
+
+envelhecimento da população e tal etc não é
+ 00:41:08
+
+Então as famílias assistidas por colega
+ 00:41:11
+
+de Campo foram definidas em
+ 00:41:13
+
+110 mas também a gente a gente avalia
+ 00:41:15
+
+isso e eram mais e a gente foi
+ 00:41:19
+
+diminuindo em função disso não é Desse
+ 00:41:20
+
+esvaziamento do rural e do do enel ento
+ 00:41:23
+
+da população que às vezes eh o
+ 00:41:27
+
+aposentado ele sai do meio Rural e e vai
+ 00:41:29
+
+morar na cidade e elaboração de projetos
+ 00:41:33
+
+de crédito não é então eh o o pagamento de
+ 00:41:36
+
+aztec da assistência técnica é se o
+ 00:41:39
+
+agricultor o colega fez o projeto e seu
+ 00:41:42
+
+agricultor pagou não é porque tem uma
+ 00:41:44
+
+pequena taxa mas tem não é que é importante
+ 00:41:46
+
+para para ir matéria e a elaboração do
+ 00:41:49
+
+projeto é o nosso ATR assistente técnico
+ 00:41:51
+
+Regional de crédito e de outras
+ 00:41:54
+
+atividades também mas não é específico do
+ 00:41:56
+
+crédito falando agora o roblin ele junto
+ 00:41:58
+
+com os colegas do municipal faz uma
+ 00:42:01
+
+reunião e determina pessoal quanto que
+ 00:42:03
+
+vocês acham que vão ter possibilidade de
+ 00:42:06
+
+fazer projeto de crédito não é claro que
+ 00:42:09
+
+ele tem já um histórico ele sabe Ah
+ 00:42:11
+
+vamos dizer que eu sou o município
+ 00:42:14
+
+Cláudio Ah eu Um não não é cara tu fez 100
+ 00:42:15
+
+o ano passado como é que vai fazer um
+ 00:42:18
+
+esse ano então esta existe o município
+ 00:42:20
+
+de Claude em Minas Gerais e esta
+ 00:42:24
+
+Então essa definição é feita do ATR robl
+ 00:42:27
+
+não é que trabal nessa área econômica de
+ 00:42:31
+
+crédito com os colegas de campo e o
+ 00:42:33
+
+percentual de aiment de contrato com a
+ 00:42:35
+
+Prefeitura Municipal não é que é tirado do
+ 00:42:38
+
+gestão de serviço sistema de gestão de
+ 00:42:41
+
+serviço que osgas que como eu disse cada
+ 00:42:43
+
+Municipal tem umato com as prefeituras
+ 00:42:46
+
+municipais cada escritório Municipal e a
+ 00:42:49
+
+Prefeitura Municipal nesse contrato
+ 00:42:52
+
+determina duas metas
+ 00:42:54
+
+assistir um número X de famílias e uma
+ 00:42:58
+
+estrutura mínima de funcionamento do
+ 00:43:01
+
+escritório então a gente monitora esse
+ 00:43:03
+
+atingimento do número X de famílias não é
+ 00:43:06
+
+mês a mês ó tá bem tá indo bem porque o
+ 00:43:09
+
+contrato é de 1 ano e esse contrato ele
+ 00:43:11
+
+não é de Janeiro a Dezembro ele é de
+ 00:43:13
+
+Primeiro de Abril a 31 de março de todos
+ 00:43:16
+
+os anos não é então daí a gente vai
+ 00:43:19
+
+monitorando de acordo com aquele com
+ 00:43:21
+
+aquele período não é com o número de
+ 00:43:25
+
+de assistidos de famílias e geralmente
+ 00:43:28
+
+sempre dá bem e um índice aí foi criado
+ 00:43:30
+
+um índice que é baseado em seis
+ 00:43:33
+
+indicadores mas depois eu eu falo melhor
+ 00:43:36
+
+então vamos pro primeiro o pagamento de
+ 00:43:39
+
+aztec assistência técnica e extensão
+ 00:43:41
+
+Rural Então esse indicador mede o
+ 00:43:44
+
+atingimento do pagamento dos projetos de
+ 00:43:48
+
+crédito realizados pelos nossos colegas
+ 00:43:50
+
+você considera positivo durante todo o
+ 00:43:53
+
+ano e igual ou acima de 80% definido
+ 00:43:56
+
+pelo ATR de crédito que eu já falei o
+ 00:43:59
+
+roble Então por que 80% porque não 70
+ 00:44:01
+
+porque não 90 porque 100 não 100 não é O
+ 00:44:05
+
+ideal seria 100 não é mas 80% porque pela
+ 00:44:07
+
+experiência do do roblin não é que há anos
+ 00:44:11
+
+acompanha isso ele viu que 80% é um bom
+ 00:44:13
+
+número porque por exemplo o agricultor
+ 00:44:16
+
+vai lá faz um projeto no dia 30 ou no
+ 00:44:18
+
+dia 27 não é E aí para pagar no banco
+ 00:44:21
+
+consegue pagar só no outro mês não é ou deu
+ 00:44:25
+
+algum problema ou o projeto foi
+ 00:44:27
+
+cancelado etc então esses 80% prevêem já
+ 00:44:29
+
+que 20% desses projetos eles vão ter
+ 00:44:33
+
+algum probleminha
+ 00:44:36
+
+na probleminha eu digo de não vai
+ 00:44:38
+
+conseguir pagar no dentro do mês
+ 00:44:41
+
+cancelou o projeto etc ao final do ano é
+ 00:44:43
+
+lógico não é é o ideal seria que fosse 100%
+ 00:44:46
+
+mas durante o ano quando a gente tá
+ 00:44:50
+
+medindo a o o percentual ideal o
+ 00:44:51
+
+indicador ideal é 80% E aí aqui vocês
+ 00:44:55
+
+vem um quadro não é um quadro com esses
+ 00:44:57
+
+números aqui que varia de 0 a 25 25 51
+ 00:45:00
+
+52 79 80 a 90 e 91 a 100 então o 80 tá
+ 00:45:04
+
+destacado ali que é o indicador entre
+ 00:45:10
+
+aspas ideal para ser atingido todo mês
+ 00:45:14
+
+esse quadro não varia durante o ano ele
+ 00:45:18
+
+é fixo durante todo o ano então porque
+ 00:45:20
+
+como vocês vão ver adiante tem outros
+ 00:45:24
+
+indicadores que ele variam durante o ano
+ 00:45:26
+
+conforme a a evolução não é o atingimento
+ 00:45:28
+
+mensal de cada colega então Eh esses 80%
+ 00:45:32
+
+que tá destacado aqui é o ideal então a
+ 00:45:37
+
+gente mede não é ah eh dos 35 escritórios
+ 00:45:40
+
+35 escritórios municipais os 35 estão de
+ 00:45:43
+
+80% para cima Ah que bom não é E aí eu faço
+ 00:45:47
+
+esse relatório e envio pro TR roblin
+ 00:45:50
+
+todo o mês aí eu envio o mapa eu envio
+ 00:45:53
+
+tem uns gráficos porque tem antes de eu
+ 00:45:56
+
+de eu de eu seguir pro outro indicador
+ 00:46:00
+
+cabe destacar que primeiro é a base de
+ 00:46:03
+
+dados aquela que eu falei para vocês dos
+ 00:46:06
+
+diversos sistemas eu pego os dados dali
+ 00:46:08
+
+aí depois aqueles dados eles vão para
+ 00:46:11
+
+uma planilha uma planilha Excel que já
+ 00:46:13
+
+tem já pré-pronta não é que eu criei eh e
+ 00:46:15
+
+criei junto com não é conversando com os
+ 00:46:20
+
+colegas etc e coloca os dados ali e ela
+ 00:46:22
+
+gera alguns números aqueles números aí
+ 00:46:25
+
+vão vão gerar indicadores e esses
+ 00:46:28
+
+números esses indicadores vão para um
+ 00:46:32
+
+Power bi que produz ali uns gráficos
+ 00:46:34
+
+umas tabelas umas imagens etc esse Power
+ 00:46:38
+
+Bi eu não trouxe aqui até para não não
+ 00:46:41
+
+tá
+ 00:46:43
+
+eh que esses dados aqui são mais para
+ 00:46:44
+
+nosso internos assim não é pra gente eh
+ 00:46:47
+
+paraa gente poder poder avaliar e
+ 00:46:50
+
+monitorar etc mas são feitos e desses e
+ 00:46:55
+
+também desses dados são feitos os mapas
+ 00:46:59
+
+que eu mostrei aquele mapinha ali Como
+ 00:47:01
+
+eu disse mapas bem simples não é um mapa
+ 00:47:03
+
+de um geógrafo de um cartógrafo não é não é
+ 00:47:05
+
+um é um mapa que serve pra gente
+ 00:47:08
+
+visualizar como tá a situação então
+ 00:47:10
+
+então tem todo um passo a passo não é
+ 00:47:13
+
+primeiro dado vem do sistema vai para
+ 00:47:15
+
+uma planilha vai para um Power Bi vai
+ 00:47:16
+
+para um mapa gera indicador E aí a gente
+ 00:47:18
+
+envia PR os colegas outro calendário de
+ 00:47:21
+
+compromissos que eu falei já não é que são
+ 00:47:24
+
+compromissos que o escritório tem todo
+ 00:47:27
+
+mês para fazer então o envio dos
+ 00:47:29
+
+compromissos semanais e mensais não é Eh do
+ 00:47:32
+
+dos escritórios municipais aí o envio da
+ 00:47:35
+
+frequência então todo mês o colega tem
+ 00:47:37
+
+que enviar a frequência dos colegas do
+ 00:47:40
+
+escritório o envio da prestação de
+ 00:47:42
+
+contas todo Então esse é mensal
+ 00:47:44
+
+prestação de contas tem que enviar todo
+ 00:47:46
+
+mês o envio do sisfrota não é como é que
+ 00:47:48
+
+foi utilizado o carro como é que não foi
+ 00:47:51
+
+etc é mensal também o envio do
+ 00:47:52
+
+conjuntural semanal é toda semana a
+ 00:47:55
+
+postagem do IP ipan quinzenal daí é de
+ 00:47:58
+
+15 em 15 dias e a relação a a relação de
+ 00:48:01
+
+aztec prevista e aztec paga nos projetos
+ 00:48:05
+
+de crédito não é esse também o aztec vocês
+ 00:48:09
+
+vão ver aqui anterior o aztec é um
+ 00:48:13
+
+indicador por si só mas ele também faz
+ 00:48:15
+
+parte do calendário de compromissos não é
+ 00:48:18
+
+então é é é dinâmico Então o próximo
+ 00:48:21
+
+indicador com consultas técnicas
+ 00:48:25
+
+realizadas por colega de campo e aí é só
+ 00:48:27
+
+o colega que vai a Campo não é que é medido
+ 00:48:30
+
+Então a gente tem o número de colegas lá
+ 00:48:33
+
+também é outro dado não é que a gente tem
+ 00:48:35
+
+que ter porque Ah vou adivinhar quantos
+ 00:48:38
+
+Ah parece que tem três não parece tem
+ 00:48:41
+
+cinco não tem que saber exato e outro
+ 00:48:42
+
+detalhe que pode ser bobinho entre aspas
+ 00:48:45
+
+até mas por exemplo o colega se afasta
+ 00:48:48
+
+meio ano não é então eu não posso
+ 00:48:50
+
+considerar que ele teve todo o ano
+ 00:48:52
+
+naquele escritório municipal porque vai
+ 00:48:55
+
+acabar prejudicando não é Então aí seria um
+ 00:48:57
+
+se er um TR ficam
+ 00:49:00
+
+2,5 então a gente utiliza também como eu
+ 00:49:01
+
+falei antes o bom senso critério não é a
+ 00:49:04
+
+sensibilidade de entender como são as
+ 00:49:07
+
+coisas esse indicador mede o número de
+ 00:49:09
+
+consultas técnicas realizados por colega
+ 00:49:11
+
+de Campo a estratificação é
+ 00:49:13
+
+variável porque as consultas variam ao
+ 00:49:16
+
+longo do mês poderia criar um critério
+ 00:49:18
+
+fixo só que aí mascarar muito não é porque
+ 00:49:21
+
+do meio ano para diante todo mundo ia
+ 00:49:24
+
+ter ultrapassado aquele aquele critério
+ 00:49:27
+
+básico então a consulta técnica ela
+ 00:49:29
+
+varia Aqui é do mês de abril então a
+ 00:49:32
+
+consulta o que menos fez consulta
+ 00:49:36
+
+técnica colega de Campo não escritório o
+ 00:49:38
+
+colega de Campo foram fez 40 não é em abril
+ 00:49:41
+
+aí de 40 a 53 54 a 64 65 a 899 90 a 219
+ 00:49:44
+
+220 a 348 teve colega que em abril fez
+ 00:49:51
+
+300 48 consultas técnicas não é assistência
+ 00:49:55
+
+por telefone whatsapp etc e aí o que a
+ 00:50:00
+
+gente sempre fala PR os colegas não é
+ 00:50:03
+
+que esse que fez 40 eh daí tem que ver o
+ 00:50:05
+
+número de de assistidos o tamanho do
+ 00:50:08
+
+município etc mas geralmente o colega tá
+ 00:50:10
+
+tão envolvido é muita documentação como
+ 00:50:15
+
+vocês estão vendo aí é muito sistema que
+ 00:50:18
+
+ele acaba não lançando no nosso sistema
+ 00:50:20
+
+de de registro do planejamento que é o
+ 00:50:23
+
+sisplan e não é é é isso passa o tempo e
+ 00:50:25
+
+como o s ele ele tem um calendário que
+ 00:50:29
+
+ele fecha se não lançou naquele mês não
+ 00:50:32
+
+não serve pro outro não é então isso também
+ 00:50:34
+
+a gente aconselha ó pessoal E aí sim a
+ 00:50:37
+
+importância de um assistente
+ 00:50:40
+
+administrativo que nem todos os
+ 00:50:41
+
+escritórios municipais TM não é tem alguns
+ 00:50:44
+
+que T Estagiários e tal mas aí termina o
+ 00:50:47
+
+estágio sai porque o colega de campo o
+ 00:50:50
+
+nome já diz tem que est liberado pro
+ 00:50:53
+
+campo tirando o chefe do escritório que
+ 00:50:54
+
+ali 30 40% do tempo dele é com
+ 00:50:56
+
+atividades da burocracia mas o colega de
+ 00:50:59
+
+Campo Tem que est liberado e às vezes
+ 00:51:02
+
+por tá fazendo essa parte burocrática
+ 00:51:03
+
+ele acaba não conseguindo lançar no
+ 00:51:06
+
+nosso sistema de registros aí outra
+ 00:51:08
+
+visitas realizadas por colega de Campo
+ 00:51:11
+
+Auto explicativo não é quantas visitas cada
+ 00:51:12
+
+colega de Campo realizou no ano também é
+ 00:51:15
+
+variável porque as visitas variam Ao
+ 00:51:18
+
+decorrer do ano então em abril quem
+ 00:51:20
+
+menos fez visita fez 30 aí der as férias
+ 00:51:23
+
+não é que geralmente o pessoal janeiro e
+ 00:51:27
+
+fevereiro janeiro ou fevereiro sai de
+ 00:51:29
+
+férias não não é tão Ah não é tão eh
+ 00:51:31
+
+diferente do que fez
+ 00:51:36
+
+348 Mas quem fez 348 visitas em janeiro
+ 00:51:38
+
+feveriro em 4 meses não é visitou bastante
+ 00:51:42
+
+mas aí eh e é visita Ah mas fez reunião
+ 00:51:45
+
+não Não é é a visita mesmo não é uma
+ 00:51:49
+
+reunião não é um dia de Campo não é uma
+ 00:51:51
+
+demonstração de método não é um uma
+ 00:51:54
+
+visita e é isso daí Claro aquele que fez
+ 00:51:56
+
+mais visitas provavelmente tenha
+ 00:51:59
+
+provavelmente não tem não é Isso eu sei
+ 00:52:01
+
+porque sei que município é tem muito
+ 00:52:03
+
+mais assistidos que os outros em função
+ 00:52:05
+
+do tamanho do município e do tamanho eh
+ 00:52:08
+
+do público agrícola que que mora lá da
+ 00:52:11
+
+do setor agrícola não é outro indicador
+ 00:52:14
+
+eh percentual de atingimento das
+ 00:52:17
+
+atividades aquilo que eu falei não é a
+ 00:52:20
+
+gente mede também como é que estão as
+ 00:52:22
+
+atividades mes a mes ele varia não é a
+ 00:52:24
+
+estratificação é variável durante o ano
+ 00:52:27
+
+porque as atividades vão evoluindo
+ 00:52:30
+
+durante o ano então
+ 00:52:32
+
+tem municipais ali que estavam com 13%
+ 00:52:34
+
+não é do atingimento de atividades em abril
+ 00:52:37
+
+bom o que que houve não é a gente sabe eh
+ 00:52:39
+
+Uma colega teve que sair outro colega
+ 00:52:42
+
+não tem a e tal e aí acaba impactando
+ 00:52:44
+
+nesse lançamento não que não tenha
+ 00:52:48
+
+trabalhado Não que seja um trabalho
+ 00:52:50
+
+menos qualificado que o outro não é a
+ 00:52:53
+
+questão Então isso é importante pro
+ 00:52:55
+
+supervisor pro assistente técnico
+ 00:52:58
+
+Regional paraa gerência ter conhecimento
+ 00:53:00
+
+porque daí eles sabem como tá andando e
+ 00:53:03
+
+como podem apoiar Como podem auxiliar
+ 00:53:06
+
+Como podem qualificar aquele trabalho
+ 00:53:08
+
+desenvolvido o outro famílias assistidas
+ 00:53:11
+
+por colega de campo porque é uma coisa
+ 00:53:14
+
+bem interessante esse também é o
+ 00:53:16
+
+atingimento não é aqui das famílias que
+ 00:53:19
+
+cada colega assiste o ideal é 110 ao ano
+ 00:53:22
+
+e esse das famílias todos todos os
+ 00:53:25
+
+escritórios dos 35 tirando um município
+ 00:53:29
+
+que estava sem colega H um tempo ali não é
+ 00:53:31
+
+então daí não não não pode contar porque
+ 00:53:35
+
+vai interferir na estatística e
+ 00:53:37
+
+prejudicar os dados não é prejudicar não no
+ 00:53:39
+
+sentido que eu Quira mascarar não é que
+ 00:53:41
+
+não tem quem atenda então não tem como
+ 00:53:43
+
+atender aí o os todas todos os
+ 00:53:45
+
+escritórios municipais eles estão
+ 00:53:49
+
+Positivo na nas famílias assistidas
+ 00:53:51
+
+todos assistem Tod to além Até que a
+ 00:53:54
+
+gente divide 110 por 12 dá não é cada mês
+ 00:53:58
+
+um uma um impacto não é uma um número de x
+ 00:54:01
+
+de famílias assistidas Então se todos
+ 00:54:05
+
+estão assistindo a 110 a aquele número
+ 00:54:08
+
+ideal de famílias no mês as visitas e a
+ 00:54:11
+
+as visitas e as as consultas técnicas
+ 00:54:16
+
+estão baixas Aí a gente vê que estão
+ 00:54:19
+
+baixas em função da falta de lançamento
+ 00:54:21
+
+e o colega não lança Não porque ele é
+ 00:54:23
+
+preguiçoso porque ele não quer porque
+ 00:54:25
+
+ele tá bravo não é
+ 00:54:26
+
+a a a estrutura que existe no no no
+ 00:54:29
+
+escritório Municipal E isso não é
+ 00:54:33
+
+crítica a a ninguém é a estrutura que
+ 00:54:35
+
+nós temos e daí a gente entende não é e
+ 00:54:38
+
+agora até inclusive estão sendo chamados
+ 00:54:41
+
+colegas novos a primeira leva inclusive
+ 00:54:44
+
+foi da área administrativa leva entre
+ 00:54:46
+
+aspas não é desculpe a expressão o primeiro
+ 00:54:48
+
+grupo de pessoas chamadas foi da área
+ 00:54:51
+
+administrativa agora estão vindo da área
+ 00:54:53
+
+técnica que a gente divide a matéria
+ 00:54:55
+
+área administrativa área econômica que é
+ 00:54:57
+
+área técnica e área social não é então e
+ 00:55:00
+
+esses dados aqui esses indicadores eles
+ 00:55:04
+
+trabalham com todo toda essa Gama de
+ 00:55:06
+
+valores Então as famílias estão muito
+ 00:55:09
+
+bem então nós estamos ass estamos
+ 00:55:11
+
+assistindo as famílias não é tá sendo
+ 00:55:12
+
+qualificado E aí o índice ficou mais
+ 00:55:15
+
+para baixo aqui o índice ele soma o
+ 00:55:18
+
+ranking faz um ranking de seis
+ 00:55:20
+
+indicadores que é o percentual de
+ 00:55:22
+
+atingimento das atividades as famílias
+ 00:55:23
+
+assistidas por colega de campo as
+ 00:55:26
+
+visitas as consultas técnicas astec e o
+ 00:55:28
+
+calendário de compromissos considerando
+ 00:55:30
+
+um aqueles que atingiram o indicador
+ 00:55:32
+
+considerado ideal no mês e zero aqueles
+ 00:55:35
+
+que não atingiram e varia de um a seis
+ 00:55:38
+
+não é então também os escritórios
+ 00:55:40
+
+municipais aqui nesse indicador eles vão
+ 00:55:43
+
+bem não é vão de quatro para cima algum que
+ 00:55:46
+
+não mas 4 5 e se então quer dizer que o
+ 00:55:50
+
+trabalho tá se desenvolvendo eh com
+ 00:55:52
+
+qualidade
+ 00:55:55
+
+Então esse índice ele é o somatório dos
+ 00:55:57
+
+indicadores
+ 00:56:00
+
+anteriores e aí Aqui um outro trabalho
+ 00:56:01
+
+que a gente faz então esse trabalho aqui
+ 00:56:05
+
+ele é de indicador produção de
+ 00:56:07
+
+indicadores e índices que são semanais e
+ 00:56:09
+
+mensais que a gente produz não é E e aí tem
+ 00:56:12
+
+outros aí que eu não coloquei mas esses
+ 00:56:15
+
+são assim os mais destacados e mais
+ 00:56:17
+
+recorrentes agora tem um trabalho que a
+ 00:56:20
+
+gente faz que é um trabalho anual que a
+ 00:56:22
+
+gente chama de resumo executivo esse
+ 00:56:25
+
+resumo executivo ele faz uma análise de
+ 00:56:27
+
+todo ano do trabalho de cada escritório
+ 00:56:30
+
+Municipal e são gerados 11 indicadores
+ 00:56:32
+
+aí eu vou ler aqui esses 11 o indicador
+ 00:56:36
+
+um é projeção dos recursos utilizados
+ 00:56:39
+
+mensalmente direto e indireto no
+ 00:56:41
+
+município por colega o que que é esse
+ 00:56:43
+
+indicador um quanto cada colega colocou
+ 00:56:45
+
+no município por mês R 1000 500 pila R
+ 00:56:48
+
+500 não é 10.000 a gente vai ver depois e a
+ 00:56:52
+
+gente vai se surpreender positivamente o
+ 00:56:55
+
+indicador dois projeção do número de
+ 00:56:58
+
+cotas em relação aos recursos utilizados
+ 00:57:00
+
+anualmente no município que cada cada
+ 00:57:02
+
+aquele contrato que eu falei para vocês
+ 00:57:06
+
+que vai no sistema gestão de serviços o
+ 00:57:08
+
+contrato da Emater com as prefeituras
+ 00:57:10
+
+municipais as prefeituras municipais
+ 00:57:12
+
+pagam cotas para o nossos municípios não é
+ 00:57:14
+
+sim eu acho que o que mais paga São 50 e
+ 00:57:19
+
+poucas cotas tá então 48 52 cotas então
+ 00:57:21
+
+aqui é uma projeção daquele valor
+ 00:57:26
+
+daquele dinheiro que cada colega e aqui
+ 00:57:28
+
+a projeção também colocou mensalmente no
+ 00:57:30
+
+município dividido pelo valor da cota
+ 00:57:33
+
+que a prefeitura paga e Isso define
+ 00:57:35
+
+quantas cotas cada colega se eh Se pagou
+ 00:57:38
+
+entre aspas não é quanto cada colega
+ 00:57:41
+
+produziu de cota para ele mesmo aí o
+ 00:57:43
+
+indicador três número de famílias
+ 00:57:45
+
+assistidas por colega de Campo indicador
+ 00:57:46
+
+4 percentagem de cobrada o indicador C
+ 00:57:48
+
+número de jovens no município e aí entra
+ 00:57:53
+
+a questão qualitativa
+ 00:57:55
+
+não é que eh eu falei muito da quantitativa
+ 00:57:56
+
+e falei da qualitativa na questão da
+ 00:57:59
+
+avaliação desses indicadores índice a
+ 00:58:01
+
+gente avalia de forma qualitativa não só
+ 00:58:04
+
+que nem eu falei não só o número da
+ 00:58:06
+
+planilha ali não é É lógico que não mas
+ 00:58:08
+
+esse indicador eh dos jovens é
+ 00:58:11
+
+qualitativo indicador seis percentagem
+ 00:58:13
+
+de jovens em relação ao total de
+ 00:58:16
+
+assistidos então tem o número de jovens
+ 00:58:17
+
+assistidos e o percentual porque tem
+ 00:58:19
+
+municípios que tem mais habitantes não é
+ 00:58:22
+
+Tem mais moradores e a aí e então tem
+ 00:58:24
+
+que saber se a percentagem tá adequada
+ 00:58:28
+
+ou não adequada não qual é a percentagem
+ 00:58:30
+
+não é que existe de jovens assistidos o
+ 00:58:33
+
+mesmo vale para mulheres o indicador
+ 00:58:35
+
+sete número de mulheres assistidas
+ 00:58:37
+
+indicador oito percentagem de mulheres
+ 00:58:39
+
+em relação o número total de assistidos
+ 00:58:41
+
+o indicador 9ve número de consultas
+ 00:58:43
+
+técnicas por colega de campo o indicador
+ 00:58:45
+
+10 número de visitas realizadas por
+ 00:58:48
+
+colega de campo e o indicador 11 eh o a
+ 00:58:50
+
+solicitação das Cops que é a comunicação
+ 00:58:54
+
+decorrência de perda que agora tá tendo
+ 00:58:57
+
+de novo a gente teve a cop bastante cop
+ 00:58:59
+
+pela seca não é comunicação decorrência de
+ 00:59:02
+
+perdas pela tu vê a gente em um ano teve
+ 00:59:05
+
+duas cheias uma seca e uma inundação não é
+ 00:59:08
+
+então como eu falei a questão ambiental
+ 00:59:11
+
+agora ela tá sendo muito bem pautada e
+ 00:59:13
+
+isso é importante e daí o que que a
+ 00:59:16
+
+gente faz essa esse indicador demonstra
+ 00:59:19
+
+Quais municípios que eh vão que
+ 00:59:21
+
+recorrentemente
+ 00:59:25
+
+tem chamado mais as cópias não é
+ 00:59:26
+
+solicitados mais as a comunicação de
+ 00:59:29
+
+ocorrência de perdas Ou seja que tem
+ 00:59:31
+
+mais perdas e aí a gente procura saber
+ 00:59:32
+
+ah não esses três quatro municípios aqui
+ 00:59:34
+
+nesse período de seca vão ter mais
+ 00:59:37
+
+perdas então dá paraa gerência pro
+ 00:59:39
+
+supervisores os ats trabalhar eh de uma
+ 00:59:41
+
+maneira um planejamento antecipado de
+ 00:59:44
+
+como vai sear esse porque é um trabalho
+ 00:59:47
+
+muito intenso fazer esse os pro agros
+ 00:59:49
+
+que cham daí fazer essa cópia depois do
+ 00:59:53
+
+proagro então tem que ter um
+ 00:59:54
+
+planejamento muito bem feito deixa eu
+ 00:59:56
+
+ver ah isso aí aqui eu coloquei esse
+ 00:59:58
+
+esse quadro aqui não é eu não vou como eu
+ 01:00:02
+
+disse eu não vou citar o número o nome
+ 01:00:04
+
+dos escritórios municipais mas aqui esse
+ 01:00:06
+
+valor aqui desse primeiro quadro à
+ 01:00:10
+
+esquerda é o número de cotas que cada
+ 01:00:12
+
+colega produziu anualmente com o seu
+ 01:00:15
+
+trabalho então este escritório Municipal
+ 01:00:18
+
+cada colega produziu
+ 01:00:21
+
+2643 cotas
+ 01:00:24
+
+e eles recebem por ano 38 cotas Então
+ 01:00:26
+
+quer dizer você pagaram E sobrou muito
+ 01:00:30
+
+troco aqui o valor em que cada colega
+ 01:00:33
+
+coloca por mês no município R 89.0
+ 01:00:36
+
+68 cada colega e aí inclui o pessoal da
+ 01:00:41
+
+área administrativa da área social e da
+ 01:00:44
+
+área econômica os três colegas não é os
+ 01:00:47
+
+três categorias não é então se são cinco
+ 01:00:50
+
+colegas é dividido por cinco se são
+ 01:00:53
+
+quatro e tal
+ 01:00:55
+
+aqui o outro
+ 01:00:57
+
+1679 cotas num ano por colega e
+ 01:00:58
+
+138.000 r
+ 01:01:03
+
+491 cada colega coloca o ano nesse
+ 01:01:04
+
+município 211.000 40 então R 185.000 79
+ 01:01:07
+
+menos 79.000 e tal então isso aqui
+ 01:01:12
+
+demonstra que o nosso aí de forma eh
+ 01:01:16
+
+quantitativa mas também qualitativa a o
+ 01:01:21
+
+o quanto o nosso trabalho gera para os
+ 01:01:25
+
+municípios porque nesse valor aqui nesse
+ 01:01:27
+
+nesse indicador aqui eu vou vou voltar
+ 01:01:31
+
+nesse indicador um a projeção dos
+ 01:01:33
+
+recursos aí vai os projetos de crédito
+ 01:01:35
+
+vai os programas do penai que é da
+ 01:01:37
+
+alimentação escolar do pa da aquisição
+ 01:01:39
+
+de alimentos vai a bolsa Juventude vai o
+ 01:01:41
+
+o custo que cada cada escritório
+ 01:01:45
+
+Municipal tem na manutenção dos
+ 01:01:47
+
+automóveis na manutenção do escritório
+ 01:01:48
+
+vai ah os açudes os açudes Fala aí agora
+ 01:01:52
+
+depois da dessa cheia mas teve muitos
+ 01:01:56
+
+audes quanto cada assud vale então
+ 01:01:58
+
+porque sen não fica muito pelo menos na
+ 01:02:01
+
+minha avaliação e aquilo que eu que eu
+ 01:02:04
+
+falei lá no início n fica muito Ah tá
+ 01:02:06
+
+fez 40 estúdios Ah tá assistiu 120
+ 01:02:09
+
+famílias e daí que que isso significa o
+ 01:02:12
+
+que que retornou pro município e esse
+ 01:02:15
+
+dinheiro aqui desses projetos de crédito
+ 01:02:17
+
+não é e de do penai todos esses o o que
+ 01:02:20
+
+forma esses valores aqui que forma essa
+ 01:02:23
+
+as cotas aqui que eu mostrei para vocês
+ 01:02:26
+
+no quadro esses valores são fruto do
+ 01:02:27
+
+trabalho de cada colega e ficam no
+ 01:02:31
+
+município é o desenvolvimento local na
+ 01:02:33
+
+veia dificilmente aquele valor ele vai
+ 01:02:37
+
+Ah talvez aquisição de uma máquina
+ 01:02:40
+
+alguma coisa mas mesmo assim vai ser
+ 01:02:43
+
+utilizado ali no município então o
+ 01:02:45
+
+trabalho da extensão Rural eh eh se
+ 01:02:48
+
+demonstra importante não é quando a gente
+ 01:02:52
+
+envio até Eh esses um colega esse ano
+ 01:02:54
+
+veio um resume executivo e e o
+ 01:02:58
+
+escritório Municipal Desse colega saiu
+ 01:03:00
+
+muito bem e ele Bá Cinha mas não sabia
+ 01:03:02
+
+que eu trabalhava tanto não é e ficou
+ 01:03:05
+
+espantado mesmo não é espantado
+ 01:03:08
+
+positivamente feliz isso é bom não é com
+ 01:03:10
+
+esse nosso com com esse nosso digo
+ 01:03:13
+
+trabalho da imater campo e e claro que
+ 01:03:16
+
+podem ter críticas aí metodológicas de
+ 01:03:20
+
+como eh de como se constrói e tal não é
+ 01:03:23
+
+esse esse indicador um e dois mas não
+ 01:03:27
+
+tem eh é é real esse dado é real não tem
+ 01:03:30
+
+como dizer que não é real esse dado
+ 01:03:34
+
+existe é concreto e ele interfere
+ 01:03:35
+
+diretamente na vida da pessoa por isso é
+ 01:03:38
+
+importante a gente conhecer o o dado não é
+ 01:03:40
+
+conhecer o indicador fazer o
+ 01:03:43
+
+monitoramento fazer avaliação não é só
+ 01:03:45
+
+ah 2643 cotos 89 Ah tá tá bom Não não é
+ 01:03:47
+
+isso é pra gente saber que aí como você
+ 01:03:51
+
+fala não é o o trabalho nosso ele é
+ 01:03:55
+
+importante e tem valor não é Então deixa eu
+ 01:03:58
+
+ver é o próximo são são imagens não é que
+ 01:04:01
+
+que assim eu quero mostrar para vocês não é
+ 01:04:06
+
+porque eu fiquei falando só de números
+ 01:04:09
+
+de de indicadores disso daquilo de
+ 01:04:11
+
+índice no final não é do dessa questão do
+ 01:04:15
+
+da dos dados aqui mas dos resumos
+ 01:04:19
+
+executivos mas o que que é isso não é O que
+ 01:04:22
+
+significa isso não é na vida na na Vida
+ 01:04:26
+
+Prática lá na ponta é isso aqui não é todas
+ 01:04:28
+
+essas fotos aqui todas essas imagens São
+ 01:04:32
+
+trabalhos dos nossos colegas eh seja na
+ 01:04:34
+
+numa numa teleconferência seja num num
+ 01:04:38
+
+num G Campo sobre milho seja fazendo um
+ 01:04:41
+
+tanque seja numa palestra em escola aqui
+ 01:04:44
+
+levando crianças jovens para conhecer
+ 01:04:48
+
+projetos aqui uma uma uma colaboração
+ 01:04:50
+
+com outras instituições aqui o de baixo
+ 01:04:54
+
+à esquerda os assentados recebendo não é
+ 01:04:57
+
+recursos para tocar seus lotes aqui um
+ 01:05:00
+
+uma gira técnica de pecuária familiar não é
+ 01:05:03
+
+de pecuarista familiar aqui no nesf não é
+ 01:05:06
+
+uma reunião técnica Nossa no Núcleo de
+ 01:05:10
+
+Estudos da Agricultura Familiar da UFSM
+ 01:05:12
+
+nossa boa relação que a gente tem com a
+ 01:05:14
+
+UFSM até inclusive temos um acordo de
+ 01:05:16
+
+cooperação técnica entre a im matéria e
+ 01:05:18
+
+a UFSM para desenvolver nosso trabalho e
+ 01:05:21
+
+aí não vou ser Modesto
+ 01:05:24
+
+não é esse acordo ele foi criado gestado e
+ 01:05:28
+
+elaborado aqui no escritório Regional
+ 01:05:31
+
+Santa Maria então isso é importante
+ 01:05:33
+
+porque uma coisa são as relações que a
+ 01:05:36
+
+gente tem não é ah eu sou amigo do
+ 01:05:38
+
+professor tal e tal e e faz alguma coisa
+ 01:05:40
+
+Não mas ali tá eh documentado e tá
+ 01:05:42
+
+validado não é as ações que a que as
+ 01:05:45
+
+instituições Rem matéria o fsm fazem
+ 01:05:47
+
+então aqui uma outro trabalho aqui à
+ 01:05:50
+
+direita não é do do nesf Ali uma uma
+ 01:05:51
+
+reunião para a ficop não é a feira
+ 01:05:55
+
+internacional do cooperativismo economia
+ 01:05:57
+
+solidária que vai ocorrer agora de 12 a
+ 01:05:58
+
+14 de Julho que também é matéria tá
+ 01:06:00
+
+envolvida também a gente produ
+ 01:06:02
+
+indicadores também a gente monitora
+ 01:06:04
+
+colega gelim o ATR assistente técnico
+ 01:06:06
+
+Regional Eduardo gelim que é responsável
+ 01:06:08
+
+pela agroindústria ele coordena essa
+ 01:06:10
+
+parte eu assessoro nessa relação aí
+ 01:06:12
+
+junto com a co Esperança não é a
+ 01:06:14
+
+cooperativa que coordena ali a fecop
+ 01:06:16
+
+aqui é
+ 01:06:19
+
+um uma segunda Conferência estadual de
+ 01:06:21
+
+turismo Rural não é não é que eh que ocorreu
+ 01:06:24
+
+aqui que a gente participou então
+ 01:06:28
+
+turismo Rural também não é a colega Monique
+ 01:06:29
+
+Chaves que é supervisora da microrregião
+ 01:06:31
+
+3 dos 12 municípios Também é Responsável
+ 01:06:34
+
+pelo turismo Rural então todo mundo tem
+ 01:06:36
+
+um monte de é multifacetado não é E muito
+ 01:06:38
+
+bem conduzem muito bem o seu trabalho e
+ 01:06:42
+
+aqui uma festa não é o colega num caminhão
+ 01:06:45
+
+lá
+ 01:06:48
+
+eh
+ 01:06:49
+
+eh do da Festa do Arroz em São João do
+ 01:06:52
+
+polesa colega no caminhão sobe não é que
+ 01:06:55
+
+que o trabalho de extensionista ele é
+ 01:06:57
+
+além do das 8 horas diárias e isso aqui
+ 01:06:59
+
+é no final de semana a gente trabalha
+ 01:07:02
+
+ajuda a construir o carro alegórico a
+ 01:07:04
+
+feira e tal e o colega tá tá ali em cima
+ 01:07:06
+
+não é participando e aqui para encerrar uma
+ 01:07:10
+
+reportagem que foi feita
+ 01:07:14
+
+sobre plantas bioativas não é sobre o Dia
+ 01:07:18
+
+do o dia do chá não é foi feito eh lá em
+ 01:07:21
+
+São cé se não engano ou Júlio de
+ 01:07:24
+
+Castilhos mas acho que é são CP e teve
+ 01:07:26
+
+uma reportagem da ibs sobre isso aí
+ 01:07:29
+
+sobre esse trabalho então era isso
+ 01:07:31
+
+pessoal 10 e 10 não é falei bastante eh e
+ 01:07:33
+
+agradeço aí oo Ezequiel a oportunidade e
+ 01:07:38
+
+tô a disposição aí se alguém tiver
+ 01:07:41
+
+alguma pergunta alguma dúvida algum
+ 01:07:42
+
+questionamento tô aí para isso tá
+ 01:07:44
+
+obrigado
+ 01:07:46
+
+aí muito bom Claudinho muito bom
+ 01:07:47
+
+excelente explanação pessoal que tá
+ 01:07:51
+
+adorando não é eu já digo n deixa ir
+ 01:07:53
+
+conversando sozinho aqui com meu
+ 01:07:55
+
+extensionista Cláudio aqui pessoal já tá
+ 01:07:57
+
+fazendo pergunta aí mas excelente não é vou
+ 01:07:59
+
+mandar um abraço pra galera da imater
+ 01:08:02
+
+que os nossos parceiros aí eu vou
+ 01:08:04
+
+esquecer alguém depois vou me cobrar não é
+ 01:08:06
+
+Gustavo Pit tá até assistido lá da
+ 01:08:09
+
+Espanha viu eu disz que tu deve um
+ 01:08:10
+
+churasco para ele Ola
+ 01:08:13
+
+Gugu muito bom e
+ 01:08:17
+
+molique o o o Luiz Fernando o Palermo
+ 01:08:20
+
+quem mais aí o Guilherme galera eu vou
+ 01:08:25
+
+esquecer todo mundo aí mas estão
+ 01:08:27
+
+assistido aí Tarcisio também o Tarcisio
+ 01:08:29
+
+aí do IF Tarcisio reforçou aí a
+ 01:08:31
+
+importância de chamar o Claudinho aqui
+ 01:08:34
+
+para nós trabalhar aqui esse tema aqui
+ 01:08:35
+
+muito legal muito importante e eu sou
+ 01:08:38
+
+meio fã disso aí Cláudio eh eu até tava
+ 01:08:41
+
+falando pro Gustavo dias atrás não é a
+ 01:08:44
+
+gente fica falando os nomes a gente só
+ 01:08:47
+
+cita os mesmas pessoas não é mas eu tava
+ 01:08:48
+
+passei os dados pro pro pro Gustavo que
+ 01:08:51
+
+eu um tempo atrás eu trab Trabalhava os
+ 01:08:54
+
+dados da fe E aí a Fe não é quando tava
+ 01:08:55
+
+atualizada não sei como é que tá agora
+ 01:09:00
+
+ela tu conseguia fazer uma escala
+ 01:09:02
+
+temporal dos dados Muito legal isso aqui
+ 01:09:04
+
+então tipo você conseguia a produção de
+ 01:09:07
+
+tabaco que era o meu foco ali você
+ 01:09:09
+
+trabalhou você trabalhou pertinho na
+ 01:09:11
+
+nossa propriedade não é tava lá em Tunas não é
+ 01:09:13
+
+tava ali na minha paleta ali no ginásio
+ 01:09:15
+
+paletão por ali a região de tabaco não é E
+ 01:09:17
+
+aí eu comecei a analisar esses dados da
+ 01:09:21
+
+fe e é muito interessante tu vê escala
+ 01:09:23
+
+Temporal da produção não é e a gente sempre
+ 01:09:26
+
+tem a noção de que produção tá sempre
+ 01:09:29
+
+aumentando Não é bem assim não é se tu for
+ 01:09:31
+
+analisar os dados você vê algumas
+ 01:09:34
+
+algumas dissonâncias muito interessantes
+ 01:09:36
+
+E aí tem uma coisa que o Cláudio alertou
+ 01:09:39
+
+muito bem cara eu eu eu anotei aqui ó
+ 01:09:41
+
+tem que cuidar que os dados não combinam
+ 01:09:44
+
+com a realidade não é eu vou dar um exemplo
+ 01:09:46
+
+disso Cláudio isso é muito interessante
+ 01:09:48
+
+e na década de 90 há uma queda da
+ 01:09:50
+
+produção do Tabaco na região de centro
+ 01:09:55
+
+ca não é daí diz ó galera tá parando de
+ 01:09:59
+
+produzir tabaco não é na primeira não é
+ 01:10:02
+
+análise é isso não é galera tá os
+ 01:10:05
+
+municípios estão trocando o sistema de
+ 01:10:08
+
+produção sei lá não é aí tu vai olhar que
+ 01:10:10
+
+que aconteceu déc 90 as emancipações Ele
+ 01:10:13
+
+não parou de produzir tabaco ele só foi
+ 01:10:17
+
+para outro município enquadramento não é
+ 01:10:19
+
+Legal não é então assim tipo é uma coisa
+ 01:10:22
+
+assim que cara se tu olha só o dado por
+ 01:10:25
+
+si só sem o contexto histórico tu tá
+ 01:10:27
+
+lascado não é Sem contexto da realidade não é
+ 01:10:30
+
+Cláudio é o dado frio ele serve para
+ 01:10:33
+
+pouca coisa
+ 01:10:36
+
+gente muito bom muito bom é então is
+ 01:10:38
+
+isso aí é interessantíssimo vou agora
+ 01:10:41
+
+dialogar com a galera aqui pra gente não
+ 01:10:43
+
+ficar pra gente não ficar só no eu e tu
+ 01:10:45
+
+Aqui tem muita gente participando aqui
+ 01:10:48
+
+tem até o pessoal do assistindo da
+ 01:10:51
+
+Educação no campo do Paulo de 3 de Maio
+ 01:10:53
+
+que eu esqueci de comentar antes não é ser
+ 01:10:56
+
+lei tá presente também muita gente aqui
+ 01:10:58
+
+o Francisco Palermo botou aqui bons
+ 01:11:01
+
+tempos excelente experiência foi a
+ 01:11:03
+
+política dos territórios da
+ 01:11:05
+
+Cidadania muito legal ah sim
+ 01:11:07
+
+o o o Felipe da da TV atda e pagre vamos
+ 01:11:11
+
+temos trabalhando com o zapal as lives
+ 01:11:16
+
+funcionam como um rádio no escritório ó
+ 01:11:19
+
+legal muito muito bacana Felipe
+ 01:11:22
+
+aqui o nosso colega Luiz Fernando Ah
+ 01:11:25
+
+muito bom aí tá mandando um abraço aí
+ 01:11:27
+
+pro Cláudio abraço Luiz temos aqui a a
+ 01:11:29
+
+Flávia não é integrante do Zap Rural eu
+ 01:11:32
+
+chamo agora de zap Rural não é aí paga
+ 01:11:35
+
+presente aí não é o Guilherme aí ó
+ 01:11:38
+
+Guilherme não é colocando aí essas
+ 01:11:40
+
+informações compiladas pelo Cláudio
+ 01:11:43
+
+qualificam muita gestão da extensão
+ 01:11:44
+
+rural na região muito bom obrigado pela
+ 01:11:46
+
+presencia Guilherme Daqui uns dia a
+ 01:11:49
+
+gente até chama aqui fazer uma
+ 01:11:51
+
+palestrinha de uma hora viu Guilherme
+ 01:11:52
+
+não mais que uma
+ 01:11:55
+
+hora muito bom eh o tarcis aqui ó eh Bom
+ 01:11:56
+
+dia quanta dor de cabeça S temas dão os
+ 01:12:02
+
+extensionistas grande abço Cláudio é é
+ 01:12:04
+
+abço pro Tarcísio aí que mas é assim uma
+ 01:12:08
+
+coisa também é e que que a esse trabalho
+ 01:12:12
+
+que a gente desenvolve é isso tornar
+ 01:12:16
+
+esse sistemas mais palatáveis não é porque
+ 01:12:18
+
+senão de fato é sis para cá Sis para lá
+ 01:12:21
+
+e o cara meio que então ajuda não é pelo
+ 01:12:24
+
+menos ajuda a facilita o dia a dia do do
+ 01:12:27
+
+colega de campo é não mas isso isso aí é
+ 01:12:31
+
+é um é considerado até um trabalho extra
+ 01:12:35
+
+n que tu disse O cara faz tanta coisa
+ 01:12:37
+
+que a não tem que parar para
+ 01:12:39
+
+sistematizar mas aí é tipo dá um exemplo
+ 01:12:40
+
+aqui com a Monique deve tá assistindo
+ 01:12:43
+
+agora não é a gente eu a gente fez todos a
+ 01:12:44
+
+sistematização das caminhadas na
+ 01:12:48
+
+natureza grande parceira Monica todo
+ 01:12:50
+
+final de semana tava caminhando aí e aí
+ 01:12:52
+
+assim se a gente não registra não tem
+ 01:12:54
+
+registrou tudo assim tu vê o impacto que
+ 01:12:57
+
+no final assim de de das caminhadas
+ 01:13:00
+
+assim é é muito grande a gente acha Ah
+ 01:13:02
+
+não é só mais uma caminhada ali não tem
+ 01:13:05
+
+muito Impacto por trás mas tu só sabe se
+ 01:13:07
+
+sistematiza não é então isso é importante é
+ 01:13:10
+
+eu eu brinco assim que o pessoal vai e
+ 01:13:13
+
+não é não é ninguém de nós aqui ninguém
+ 01:13:17
+
+que tá assistindo e ninguém nosso
+ 01:13:19
+
+conhecido é outro são outros de outro
+ 01:13:20
+
+estado inclusive de outro país vão vão
+ 01:13:23
+
+pra vão pra Europa lá e tal e vem o Big
+ 01:13:25
+
+Bang Oh que lindo não é o a torre lá o
+ 01:13:29
+
+relógio aí vem aqui ã que relógio feio
+ 01:13:32
+
+destrói e faz o estacionamento entende
+ 01:13:35
+
+então é a perspectiva e a maneira que tu
+ 01:13:37
+
+vê as coisas e a valorização que se dá
+ 01:13:39
+
+aqui Claro que todo todo lugar tem suas
+ 01:13:42
+
+peculiaridades e belezas mas por exemplo
+ 01:13:45
+
+a tava vendo um um colega um amigo meu
+ 01:13:48
+
+que faz caminhadas e ele faz caminhada
+ 01:13:51
+
+em São Pedro do Sul lá tem inscrições
+ 01:13:53
+
+rupestres no interior não é fazem mas el
+ 01:13:56
+
+foi em São Pedro do Sul lá tem
+ 01:13:58
+
+inscrições rupestres de mais de 3.000
+ 01:13:59
+
+anos não é então é importante valorizar o
+ 01:14:02
+
+que nós temos não é e a extensão Rural ela
+ 01:14:05
+
+valoriza que falou da Monique não é o
+ 01:14:08
+
+turismo mural inclui isso aí também não é
+ 01:14:10
+
+porque eh uma vez eu vi um parque nos
+ 01:14:13
+
+Estados Unidos eu não que eu fui aos
+ 01:14:16
+
+Estados Unidos eu vi num vídeo não é nunca
+ 01:14:17
+
+fui lá que assim era o parque da madeira
+ 01:14:19
+
+petrificada e BX lotado de gente não é era
+ 01:14:23
+
+um um documentário um vídeo não me
+ 01:14:26
+
+lembro direito faz Sei lá uns 15 20 anos
+ 01:14:28
+
+que eu vi isso aí a madeira petrificada
+ 01:14:30
+
+Era uns meia dúzia de toco lá exposto
+ 01:14:32
+
+num lugar bonito com luz e show e tal
+ 01:14:36
+
+tinha nós mata aqui tem Santa Maria tem
+ 01:14:38
+
+toda essa região tem então a questão é
+ 01:14:41
+
+essa e não é culpar A B ou C ou Julgar
+ 01:14:44
+
+ou resp não a gente tem que a nós como
+ 01:14:46
+
+população temos que nos dar conta do
+ 01:14:49
+
+valor que a gente tem e do local que a
+ 01:14:52
+
+gente vive outro que que eu sempre falo
+ 01:14:54
+
+não é o primeiro fóssil mais antigo eu
+ 01:14:56
+
+sabia que era o mais antigo mas eu esses
+ 01:14:59
+
+dias eu li que não é o mais antigo mas
+ 01:15:01
+
+um dos fósseis mais antigos de de rpteis
+ 01:15:02
+
+de dinossauros ou pré dinossauro é o
+ 01:15:05
+
+estauricossauro pricei Ele foi pego
+ 01:15:08
+
+aqui na alemoa em camui Sabe tem o posto
+ 01:15:13
+
+do Castelinho do outro lado da rua
+ 01:15:17
+
+atravessa do outro lado estauricossauro
+ 01:15:18
+
+pricei ah que legal Onde é que ele tá
+ 01:15:20
+
+hoje em Harvard não tá aqui nem a cópia
+ 01:15:22
+
+a gente tem uma cópia de gesso aí
+ 01:15:25
+
+entende então e não é É claro isso aí
+ 01:15:26
+
+foi lá nos anos 30 40 e não não se dava
+ 01:15:29
+
+mas a gente tem que valorizar e saber
+ 01:15:32
+
+que nós estamos num eh num num local que
+ 01:15:35
+
+tem múltiplas eh múltiplas
+ 01:15:39
+
+potencialidades e capacidades E é só a
+ 01:15:41
+
+gente valorizar não precisa falar mal da
+ 01:15:44
+
+Europa falar mal não não mas também a
+ 01:15:46
+
+gente tem e é que nem tu disse Ezequiel
+ 01:15:49
+
+a gente acaba se acostumando com o dia a
+ 01:15:51
+
+dia que parece que é comum não e não é
+ 01:15:53
+
+para quem vem de fora não é não é mesmo
+ 01:15:55
+
+não é eu que morei em Minas Gerais não é E
+ 01:15:58
+
+principalmente no serado Mineiro aqui um
+ 01:16:00
+
+abraço aos mineiros que estão assistindo
+ 01:16:02
+
+não é a gente volta com outro olhar sobre
+ 01:16:04
+
+as sobre as coisas não é porque a gente
+ 01:16:07
+
+conhece outras realidades não é então assim
+ 01:16:10
+
+a experiência de sair Retornar assim É
+ 01:16:13
+
+gigante não é é o impacto e visual nem falo
+ 01:16:15
+
+cultural o impacto visual já é diferente
+ 01:16:20
+
+não é imagina não é e Aqui tem bastante gente
+ 01:16:23
+
+vou chegar nas perguntas já tô chegando
+ 01:16:26
+
+gente tô chegando nas perguntas aqui tem
+ 01:16:28
+
+o o Eduardo luff da fepan não é
+ 01:16:30
+
+apresentando com o Cláudio Cunha
+ 01:16:33
+
+Parabéns pela aula tá todo mundo
+ 01:16:35
+
+elogiando aqui abraço
+ 01:16:37
+
+luf o edido aqui tá elogiando também o
+ 01:16:39
+
+edido defendeu a dissertação dele sobre
+ 01:16:42
+
+a análise dos portais da da extensão
+ 01:16:44
+
+ural ele fez uma análise dos portais de
+ 01:16:48
+
+de internet das das instituições
+ 01:16:50
+
+públicas no Brasil muito boa dissertação
+ 01:16:53
+
+recomendo já saiu em forma de livro
+ 01:16:55
+
+muito legal também vou colocar aqui a
+ 01:16:57
+
+pergunta do maur Stein vamos ver aqui eh
+ 01:17:00
+
+Bom dia Parabéns é é importante esse
+ 01:17:04
+
+trabalho conseguiria ter um valor médio
+ 01:17:07
+
+estadual para representar toda a
+ 01:17:11
+
+instituição deu uma
+ 01:17:14
+
+trav travou não é Ah sim ISO primeiro eu
+ 01:17:17
+
+vou eh deu uma travadinha ali mas eu
+ 01:17:20
+
+entendi se tem um valor médio
+ 01:17:23
+
+is esse o todos os esses indicadores não é
+ 01:17:25
+
+e tal eles são eh de acordo com
+ 01:17:30
+
+entendimento Regional mas com base no
+ 01:17:34
+
+que o a imater o Central entende como
+ 01:17:37
+
+positivo mas agora o escritório central
+ 01:17:41
+
+tá produzindo não é só que claro não é uma
+ 01:17:45
+
+coisa São 35 municípios outro
+ 01:17:47
+
+497 tem que ter uma equipe muito grande
+ 01:17:50
+
+e até aqui o ten que destacar que no fim
+ 01:17:53
+
+eh eh falando dess tema só vou puxar
+ 01:17:56
+
+aqui que nós temos um aplicativo que tá
+ 01:17:59
+
+iniciando agora o extensionista não é Nós
+ 01:18:02
+
+temos uma equipe de ti no escritório
+ 01:18:05
+
+central eh que tá desenvolvendo isso e
+ 01:18:07
+
+tal nós temos o nosso ti também aqui em
+ 01:18:09
+
+Santa Maria o Marcos não é o Marquinho que
+ 01:18:11
+
+a gente chama Marco que também é
+ 01:18:13
+
+estatístico daí o Marco me ajuda ali nos
+ 01:18:15
+
+no na no desenvolvimento da eh se formou
+ 01:18:18
+
+em estatística H pouco no
+ 01:18:22
+
+desenvolvimento de algum então a gente
+ 01:18:23
+
+troca a ideia com todo mundo não é então
+ 01:18:25
+
+não tem essa de Ah o cara é daquele cara
+ 01:18:27
+
+da contabilidade o cara é do administ
+ 01:18:29
+
+não não não é a gente conversa com todos e
+ 01:18:31
+
+eu digo a gente todos nós é muito aberto
+ 01:18:34
+
+é muito dinâmico porque todos esses
+ 01:18:37
+
+dados eles têm origem em algum lugar não é
+ 01:18:39
+
+e algum lugar que tem alguma pessoa eles
+ 01:18:41
+
+não brotam assim eles TM Então e o nosso
+ 01:18:43
+
+esse O O extensionista ele tá foi
+ 01:18:47
+
+desenvolvido lá pelos nossos tiis de
+ 01:18:49
+
+Porto Alegre também que
+ 01:18:51
+
+é uma equipe muito boa eh qualificada e
+ 01:18:55
+
+que estão sempre temas n claro que tudo
+ 01:18:58
+
+e tudo eh não é uma coisa da noite pro
+ 01:19:00
+
+dia não é Que que vai se desenvolver mas
+ 01:19:04
+
+essa pergunta que o Mauro fez é o o
+ 01:19:06
+
+valor médio Estadual tá sendo construído
+ 01:19:10
+
+pelo nosso escritório central mas esses
+ 01:19:13
+
+dados que eu tirei que eu apresentei
+ 01:19:16
+
+Eles são de acordo com o que o a imater
+ 01:19:18
+
+como um todo não é como eu disse não não
+ 01:19:21
+
+tirei da minha cabeça assim aí matéria
+ 01:19:23
+
+como um todo ela ela ela pensa como bons
+ 01:19:25
+
+e adequados para atender bem o nosso
+ 01:19:30
+
+público que é o são os agricultores
+ 01:19:32
+
+familiares quilombolas pescadores etc
+ 01:19:33
+
+não sei se respondi muito bem não ótimo
+ 01:19:36
+
+eh o o luí Fernand nosso extensionista
+ 01:19:39
+
+aí Espetacular apresentação Cláudio um
+ 01:19:43
+
+raio X em números da extensão rural em
+ 01:19:45
+
+nossa região show aí também temos nosso
+ 01:19:47
+
+AB nosso amigo Gustavo não é Parabéns pela
+ 01:19:51
+
+apresentação Cláudio não é O cara tá na
+ 01:19:56
+
+Espanha é outro nível não é
+ 01:19:57
+
+cludio Tom é
+ 01:19:59
+
+nem portado porque vinho espanhol
+ 01:20:03
+
+não é Muito bom você tá muito organizado
+ 01:20:07
+
+trabalho com uma riqueza imensa de
+ 01:20:11
+
+informações para auxiliar na tomada de
+ 01:20:13
+
+decisão da extensão ral muito bom mesmo
+ 01:20:15
+
+a questão é important só um parêntese não é
+ 01:20:18
+
+o Gustavo eu conheci entre aspas
+ 01:20:20
+
+pequenininho não é eles Taj conosco lá nos
+ 01:20:22
+
+anos 90 não é E também trabalhava até eu
+ 01:20:26
+
+trabalhava com dados já nessa época e
+ 01:20:30
+
+ele também a nos ajudava não é compilando e
+ 01:20:32
+
+tal então Gustavo tem um um grande
+ 01:20:36
+
+carinho e apreço por ele e fico feliz
+ 01:20:39
+
+que ele esteja desfrutando de bons dias
+ 01:20:41
+
+e boas noites e bons vinhos lá na
+ 01:20:44
+
+Espanha Ah então ele foi Agora eu sei de
+ 01:20:46
+
+onde é que ele foi bem formado então
+ 01:20:49
+
+agora agora entendi ele tem um bom
+ 01:20:51
+
+professor muito bom muito bom o Egídio
+ 01:20:54
+
+aqui o Egídio perguntando lá de São
+ 01:20:58
+
+Paulo passando o helicóptero aqui vocês
+ 01:21:00
+
+não devem estar escutando você saberia
+ 01:21:03
+
+dizer qual a infraestrutura de
+ 01:21:05
+
+tecnologia da informação em geral na
+ 01:21:08
+
+matéria que dá suporte a todo esse
+ 01:21:10
+
+trabalho
+ 01:21:13
+
+eh quer saber ass O Cláudio é ele é do
+ 01:21:14
+
+professor de ti não é se eu não tô enganado
+ 01:21:17
+
+é Egídio é o Egídio quer dizer então
+ 01:21:20
+
+assim ele ele gosta de saber assim o que
+ 01:21:23
+
+que tá por trás essas questões inclusive
+ 01:21:26
+
+quando tu falou do extensionista ali que
+ 01:21:28
+
+vocês estão criando aplicativo não é Isso
+ 01:21:29
+
+tá dando uma
+ 01:21:31
+
+travadinha eu acho que é o teto a
+ 01:21:32
+
+internet Cláudio talvez você fecha essa
+ 01:21:34
+
+tua apresentação ali ó talvez ela pode
+ 01:21:37
+
+at ajudar um pouquinho viu a minha não é
+ 01:21:39
+
+aquela aquela que isso aquela que tá ali
+ 01:21:43
+
+que tá ali salva tira ela fora
+ 01:21:45
+
+eh
+ 01:21:50
+
+oi tirar a apresentação isso tira
+ 01:21:52
+
+apresentação acho que vai at ajudar um
+ 01:21:55
+
+pouquinho talvez ela carregando do
+ 01:21:57
+
+estúdio isso quem sabe ajuda removi isso
+ 01:21:59
+
+não eh Boa pergunta do Egídio sim você
+ 01:22:04
+
+que nem eu disse não é o Marquinho que é o
+ 01:22:06
+
+nosso Marco não é que é o nosso ti ele além
+ 01:22:08
+
+da parte técnica da infraestrutura Até
+ 01:22:12
+
+nós estamos trocando a nossa
+ 01:22:15
+
+Internet na Emater agora no nosso
+ 01:22:18
+
+escritório Regional Parece que agora em
+ 01:22:22
+
+função do trabalho do Marco não é claro a
+ 01:22:24
+
+gente conversou e tal mas eh tem uma
+ 01:22:26
+
+caidinha
+ 01:22:30
+
+ali mas isso mas a gente tem a estrutura
+ 01:22:32
+
+Regional não é e tem a estrutura estadual e
+ 01:22:36
+
+como eu falei a estrutura Estadual criou
+ 01:22:39
+
+também esse esse que vai a Campo tá tá
+ 01:22:42
+
+sendo testado já tá sendo utilizado que
+ 01:22:45
+
+é o aplicativo do extensionista que é
+ 01:22:47
+
+muito importante porque ele vai esses
+ 01:22:50
+
+dados que eu falei Eles vão poder ser
+ 01:22:52
+
+compil lados a Campo o colega não vai
+ 01:22:54
+
+precisar lançar na no escritório não é que
+ 01:22:55
+
+nem eu falei que às vezes o colega não
+ 01:22:59
+
+tem tempo então esse aplicativo que já
+ 01:23:00
+
+tá rodando ele vai facilitar e daí esses
+ 01:23:03
+
+números vão melhorar mais do que já são
+ 01:23:05
+
+não é melhores então isso eh a mas assim
+ 01:23:07
+
+dizer a estrutura infraestrutura que nós
+ 01:23:11
+
+temos assim Estadual eu sei que ela
+ 01:23:14
+
+Temos vários colegas temos uma gerência
+ 01:23:17
+
+não é a GTI gerência tecnologia informação
+ 01:23:20
+
+se não me engano não é que trabalha e e
+ 01:23:23
+
+sempre dando suporte e apoio a nosso
+ 01:23:25
+
+Então ela é grande é qualificada e e
+ 01:23:28
+
+claro se não tivesse todos aqueles
+ 01:23:31
+
+sist
+ 01:23:35
+
+ 01:23:40
+
+temas que eu mostrei não é foram feitos
+ 01:23:41
+
+pelo Central Não sei se é é tá caindo só
+ 01:23:46
+
+eu acho que eu vou bom deixa que eu ia
+ 01:23:49
+
+dar uma senão cai corta
+ 01:23:52
+
+Mas é isso nós temos uma boa estrutura e
+ 01:23:55
+
+e tá sendo qualificada não é com esses
+ 01:23:58
+
+processos seletivos que estão saindo e
+ 01:24:01
+
+tal então cada vez melhor é tá dando um
+ 01:24:03
+
+delay mas eu acho que é tua internet mas
+ 01:24:08
+
+não se preocupa isso só dá dá delay
+ 01:24:09
+
+quando a gente conversa aqui daí depois
+ 01:24:12
+
+tu eu falo deixa tu espera tu falar daí
+ 01:24:16
+
+a gente vai dar certo aqui a Andreia que
+ 01:24:20
+
+é Nossa aluna da fruticultura já trab
+ 01:24:22
+
+muito tempo na área e vai ser futura eu
+ 01:24:24
+
+sempre falo que andr vai ser futura
+ 01:24:27
+
+extensionista não é porque ela já passou no
+ 01:24:28
+
+processo seletivo Mat ela tá me devendo
+ 01:24:30
+
+aí fico fazendo propaganda mais para
+ 01:24:32
+
+Andrei parabéns pelo trabalho
+ 01:24:34
+
+organização de organização de dados com
+ 01:24:36
+
+transparência que demonstra o trabalho
+ 01:24:39
+
+da matéria sua importância junto ao
+ 01:24:40
+
+produtor tá fazendo o elogio Ah vamos
+ 01:24:42
+
+com a nova pergunta do do Egídio aqui
+ 01:24:45
+
+existem sistemas softwares baseados em
+ 01:24:49
+
+inteligência artificial sendo usados
+ 01:24:52
+
+para análise desses dados senão Existe
+ 01:24:55
+
+alguma intenção
+ 01:24:57
+
+Hum Olha até um é Até onde eu sei tem
+ 01:25:00
+
+aqui o como é que é o o Ed não é o microsof
+ 01:25:04
+
+Microsoft Ed que tá vindo com o Pilot Se
+ 01:25:08
+
+não me engano é Pilot não é e Pilot CoPilot
+ 01:25:12
+
+é que é uma inteligência artificial não é
+ 01:25:15
+
+que tá em uso aqui mas não não para
+ 01:25:18
+
+análise de dados ou Que eu saiba não
+ 01:25:22
+
+pode até ser que porque como eu disse eu
+ 01:25:25
+
+sou agrônomo não é e tal até uma época
+ 01:25:27
+
+andava meio programando eu disse não eu
+ 01:25:30
+
+viro agrônomo ou programador então
+ 01:25:31
+
+resolvi voltar não é paraa original e e aí
+ 01:25:33
+
+e aí que Até onde eu sei não mas não é
+ 01:25:39
+
+uma não é uma má ideia eu assim acho
+ 01:25:42
+
+importante a inteligência artificial não é
+ 01:25:46
+
+mas eu acompanho não sei se vocês
+ 01:25:48
+
+conhecem o professor Miguel nicolelis não é
+ 01:25:50
+
+que ele diz que a inteligência
+ 01:25:53
+
+artificial nada mais é que um Google
+ 01:25:55
+
+gigante um
+ 01:25:57
+
+googlezinho e tal só a inteligência
+ 01:26:13
+
+artificial não que não seja importante é
+ 01:26:15
+
+mas a gente tem que produzir mais para
+ 01:26:17
+
+alimentar mais a inteligência artificial
+ 01:26:20
+
+e não é uma crítica a ela mas eu eu não é o
+ 01:26:22
+
+professor Miguel nicolelis é um
+ 01:26:26
+
+neurocientista assim bem de renome e tal
+ 01:26:28
+
+e não porec de renome ele ele ele deu
+ 01:26:31
+
+aula na universidade Duke aquela Duque
+ 01:26:35
+
+Sei lá isso aqui é uma de ponta Mundial
+ 01:26:37
+
+Então mas assim naat que eu saiba não não é
+ 01:26:41
+
+até posso perguntar pro nosso ti pro
+ 01:26:44
+
+Marcos se ele depois não é E aí respondo
+ 01:26:47
+
+pro Ezequiel que pode repassar para ti
+ 01:26:49
+
+mas princípio é mais essa esse trabalho
+ 01:26:53
+
+com os sistemas e qualificando eles e
+ 01:26:57
+
+fazendo uma interrelação de banco de
+ 01:27:00
+
+dados como esse sistema que os colegas a
+ 01:27:02
+
+Campo tão passando a utilizar não é que é o
+ 01:27:05
+
+o extensionista é o aplicativo do
+ 01:27:08
+
+extensionista muito bom viu Cláudio vou
+ 01:27:11
+
+passar o contato do Egídio para ti
+ 01:27:15
+
+porque vocês vão gostar de conversar
+ 01:27:18
+
+porque os dois trabalham mais ou menos
+ 01:27:20
+
+na mesma área com dados e e o o Egídio
+ 01:27:22
+
+gosta dessa questão de sistema de
+ 01:27:24
+
+informação aí eu acho que vocês vão
+ 01:27:26
+
+gostar muito o Egídio vai fazer o
+ 01:27:28
+
+doutorado dele nessa linha aí também
+ 01:27:30
+
+então vocês vão ter muito a trocar aí ó
+ 01:27:32
+
+que olha aí ó Isso é muito legal
+ 01:27:34
+
+parceiro muito bom a Flávia Nossa grande
+ 01:27:37
+
+extensionista social da ipag não é
+ 01:27:41
+
+parabenizando aí uma das grandes
+ 01:27:44
+
+construtoras do Zap Rural não é Obrigada
+ 01:27:46
+
+por compartilhar sua prática
+ 01:27:49
+
+extensionista vejo que as que as Ades em
+ 01:27:51
+
+representar as ações sociais e
+ 01:27:54
+
+indicadores é difícil em todos os
+ 01:27:56
+
+espaços de extensão ural não é os
+ 01:27:58
+
+indicadores sociais não é E são delicados
+ 01:28:00
+
+de você conseguir transformar isso em
+ 01:28:04
+
+números não é E às vezes é necessário para
+ 01:28:05
+
+não é você conseguir justificar uma ação do
+ 01:28:09
+
+extensional que aquilo é importante não é
+ 01:28:12
+
+Eu acho que essos extensionistas sociais
+ 01:28:14
+
+eles estão com
+ 01:28:16
+
+muito é eu até Não não deu tempo ali de
+ 01:28:18
+
+falar a gente Claro indicador social até
+ 01:28:22
+
+isso que eu tava falando contigo antes
+ 01:28:25
+
+de iniciar não é a intenção é trabalhar
+ 01:28:26
+
+melhor ele mas a gente procura essas
+ 01:28:29
+
+ações sociais Como por exemplo o pen e o
+ 01:28:31
+
+pa não é que geralmente é pela área social
+ 01:28:35
+
+eh a bolsa eh como é que é o Bolsa
+ 01:28:38
+
+Escola a gente procura
+ 01:28:42
+
+eh trabalhar eles e destacar porque são
+ 01:28:45
+
+ações sociais Mas de fato medir porque
+ 01:28:48
+
+eh e isso claro que pode ser feito por
+ 01:28:51
+
+exemplo um jovem casal não é ele tem uma
+ 01:28:54
+
+conseguiu um recurso para fazer uma
+ 01:28:58
+
+agroindústria lá e aí seguiu fazendo o
+ 01:29:00
+
+que que mudou na vida dele não é entre
+ 01:29:03
+
+antes dele ser um jovem casal com
+ 01:29:06
+
+agroindústria e depois não é O que que
+ 01:29:08
+
+mudou na região o que que agregou isso
+ 01:29:10
+
+tudo é complexo não é Por exemplo aqui uns
+ 01:29:13
+
+dados que a gente tem quando a
+ 01:29:16
+
+percentagem de jovens e em relação ao
+ 01:29:19
+
+número isso a gente sempre Analisa não é
+ 01:29:21
+
+total de em relação ao Total assistido
+ 01:29:24
+
+Esse é um daquele resumo executivo a
+ 01:29:26
+
+maioria é 11% jovens 9 7 13 e a e a de
+ 01:29:28
+
+mulheres também a mulheres já aumenta um
+ 01:29:34
+
+pouco não é mulheres tem municípios que
+ 01:29:36
+
+trabalham com 53% do público 59 São
+ 01:29:39
+
+mulheres então daí a gente procura a a
+ 01:29:42
+
+gente eu digo o Regional é desenvolver
+ 01:29:46
+
+trabalhos que valorizem essa ação e o
+ 01:29:49
+
+jovem de fato tem não é tá como a gente
+ 01:29:52
+
+sabe o a masculinização e envelhecimento
+ 01:29:56
+
+do rural não é e e e para o jovem ficar ele
+ 01:29:59
+
+tem que tem que se sentir motivado e
+ 01:30:03
+
+incentivado a ficar não é então mas a gente
+ 01:30:06
+
+faz essa análise mais do indicador mais
+ 01:30:09
+
+social nessa forma Por enquanto não é mas a
+ 01:30:12
+
+gente quer avançar quer
+ 01:30:15
+
+avançar muito bom muito bom mesmo eh o
+ 01:30:17
+
+gente fez o comentário antes que você
+ 01:30:21
+
+falou do B não é ele gostou muito não é
+ 01:30:23
+
+infelizmente é assim mesmo que tratamos
+ 01:30:26
+
+nossos tesouros não é muito bom aqui tem a
+ 01:30:28
+
+a e nada contra ninguém viu não conheço
+ 01:30:32
+
+ninguém assim
+ 01:30:34
+
+até Ah muito bom a a Caline perguntou
+ 01:30:36
+
+assim a imater disponibiliza os dados
+ 01:30:40
+
+dos programas como pai para consulta eu
+ 01:30:43
+
+estou fazendo meu TCC naárea gostaria de
+ 01:30:46
+
+saber a
+ 01:30:48
+
+viabilidade essa é a pergunta da calin é
+ 01:30:50
+
+esses dados do penai aí ela teria que
+ 01:30:54
+
+falar com o nosso eh eu tenho eles não é
+ 01:30:57
+
+mas eu não não sou assistente técnico
+ 01:31:00
+
+Regional da área que é o gelim n ela
+ 01:31:02
+
+teria que entrar em contato com o nosso
+ 01:31:05
+
+escritório Regional ali e falar com o
+ 01:31:07
+
+ATR gelim se tem essa possibilidade não é
+ 01:31:09
+
+se o dado é público ou se tem um sistema
+ 01:31:12
+
+que ela possa acessar eh públicamente eu
+ 01:31:15
+
+acredito que possa não é mas daí ela tem
+ 01:31:18
+
+que entrar em contato com o ATR Eduardo
+ 01:31:22
+
+gelim ali no Regional muito bom e essas
+ 01:31:25
+
+informações do escritório estão todas na
+ 01:31:29
+
+internet calina Então você consegue
+ 01:31:32
+
+acessar o e-mail do escritório
+ 01:31:33
+
+certamente vai chegar até o até o nosso
+ 01:31:36
+
+grande amigo gelain aí muito sim sim o o
+ 01:31:38
+
+egid dis eu vou gostar de conversar com
+ 01:31:42
+
+o Cláudio por favor passa meu contato
+ 01:31:44
+
+vou passar vocês vão vão fazer várias
+ 01:31:46
+
+provas tenho certeza disso Bueno não
+ 01:31:49
+
+temos mais algumas perguntas mas eu vou
+ 01:31:52
+
+fazer fazer uma e depois a gente vai
+ 01:31:53
+
+para as considerações finais pra Live
+ 01:31:55
+
+ficar num num tempo padrão bom de todo
+ 01:31:56
+
+mundo assistir depois também eu gostei
+ 01:31:59
+
+muito daquela fala que você
+ 01:32:02
+
+eh falou sobre a incorporação do
+ 01:32:03
+
+atendimento das famílias por consulta de
+ 01:32:07
+
+WhatsApp não é que é umas coisas que a
+ 01:32:09
+
+gente tem trabalhado aqui nessa nessa
+ 01:32:11
+
+questão da terra digital não é Eh porque
+ 01:32:12
+
+assim se a gente for computar não é que a
+ 01:32:15
+
+gente trabalha por WhatsApp telefone
+ 01:32:18
+
+olha e é bom e é importante porque hoje
+ 01:32:20
+
+faz parte do nosso trabalho não é eh como é
+ 01:32:24
+
+que como é que tem sido incorporado isso
+ 01:32:27
+
+assim o pessoal tem colocado bastante
+ 01:32:29
+
+atendimento do do WhatsApp assim ou
+ 01:32:32
+
+ainda ainda não há tantos registros o
+ 01:32:35
+
+que que tu o que que tu pode nos contar
+ 01:32:37
+
+sobre isso aí é a questão do WhatsApp
+ 01:32:40
+
+ela começou a ela teve um um Boom vamos
+ 01:32:44
+
+dizer não é ou foi alavancada a partir da
+ 01:32:47
+
+pandemia porque a gente tinha que seguir
+ 01:32:50
+
+tinha Não mas eh os colegas queriam
+ 01:32:53
+
+seguir assistindo os agricultores
+ 01:32:56
+
+naquele momento e aí se BOL bolaram
+ 01:32:57
+
+estratégias de assistir de atender eles
+ 01:33:02
+
+de forma que respeitasse o
+ 01:33:05
+
+distanciamento e tal fazendo cards
+ 01:33:06
+
+vídeos e tal e muita coisa legal surgiu
+ 01:33:09
+
+via WhatsApp e aí se continuou não é hoje
+ 01:33:12
+
+Eh virou meio normal ou padrão as
+ 01:33:17
+
+pessoas eh se buscarem informaçõ pelo
+ 01:33:20
+
+WhatsApp com nossos colegas então Eh
+ 01:33:24
+
+cada um assim não não tem um eh uma um
+ 01:33:26
+
+método que mas claro cada um segue algum
+ 01:33:31
+
+determinado padrão de fazer o Card isso
+ 01:33:33
+
+aí tem a nossa orientação do jornalismo
+ 01:33:35
+
+não é como faz como não faz mas assim ah
+ 01:33:38
+
+tantos atendimentos assim por dia ou vou
+ 01:33:41
+
+fazer não isso não isso fica a critério
+ 01:33:43
+
+do público e do colega mas aumentou
+ 01:33:47
+
+bastante e facilitou não é facilitou o
+ 01:33:50
+
+trabalho e também aí não é fazendo um uma
+ 01:33:52
+
+eh uma valorização do nosso trabalho
+ 01:33:57
+
+porque é melhor buscar conosco do que de
+ 01:34:00
+
+ir no YouTube do do Joãozinho lá que tem
+ 01:34:03
+
+uma teoria conspiratória que descobriu
+ 01:34:05
+
+que o os Illuminati tão
+ 01:34:07
+
+levando solo embora não é então não vai
+ 01:34:12
+
+onde a fonte é segura onde a gente tem
+ 01:34:15
+
+seriedade com o trabalho e
+ 01:34:18
+
+responsabilidade tá ali As pessoas olham
+ 01:34:19
+
+no nosso olho nos conhecem sabem queem
+ 01:34:21
+
+nós somos Então isso é é importante não é
+ 01:34:23
+
+Eh tira um pouco essa ideia do entre
+ 01:34:26
+
+aspas Tiozão do Zap não é então bota lá o
+ 01:34:28
+
+agrônomo do Zap técnico do Zap a
+ 01:34:31
+
+extensionista do Zap e tal para
+ 01:34:34
+
+conversar o aa do zap para conversar com
+ 01:34:36
+
+nossos assistidos que merecem a
+ 01:34:38
+
+informação qualificada a informação eh
+ 01:34:41
+
+com fundamento não é que nem eu falei ali
+ 01:34:44
+
+com evidências e e provadas
+ 01:34:47
+
+cientificamente não é Eh claro que não
+ 01:34:50
+
+vamos lá só não conhecimento científico
+ 01:34:52
+
+conhecimento Popular mas qualificado
+ 01:34:56
+
+todos são
+ 01:34:58
+
+importantes muito bom muito bom mesmo
+ 01:34:59
+
+até hoje a gente à tarde a gente vai
+ 01:35:02
+
+para civeira Martins lá na região da
+ 01:35:05
+
+catulle não é visitar os fruticultores mas
+ 01:35:07
+
+nós estava uns dias atrás lá com a
+ 01:35:09
+
+catuli e ela falou não é nem nem a gente
+ 01:35:11
+
+nem perguntou mas saiu o assunto não é ela
+ 01:35:13
+
+disse olha que quanto facilitou isso
+ 01:35:15
+
+aqui ó aqui para assinar alguma coisa do
+ 01:35:17
+
+cara assinar alguma coisa do crédito eu
+ 01:35:19
+
+mando pro agricultor que ele já assina
+ 01:35:21
+
+ali me manda de volta imagina se eu
+ 01:35:23
+
+tivesse que ter até lá na propriedade
+ 01:35:24
+
+dele quanto tempo ia perder não é então
+ 01:35:26
+
+algumas coisas facilitam claro que
+ 01:35:28
+
+outras também não é vão tumultuar mais o
+ 01:35:30
+
+trabalho também mas isso aí tem que se
+ 01:35:34
+
+fazer o equilíbrio não é mas eu achei muito
+ 01:35:35
+
+legal a falar da catuli nesse sentido tô
+ 01:35:37
+
+reproduzindo aqui não pedi permissão a
+ 01:35:40
+
+ela mas eu acho que é uma coisa bacana
+ 01:35:42
+
+você falar então é is é legal eu vou ter
+ 01:35:43
+
+dar a Palavra Final fechamento dessa
+ 01:35:48
+
+dessa importância da produção de D seja
+ 01:35:50
+
+n e seja qu não é porque no final você
+ 01:35:54
+
+colocou as fotos PR mostrar Olha tem tem
+ 01:35:56
+
+a realidade por trás esses dados Então
+ 01:36:00
+
+faz o fechamento para nós isso pessoal
+ 01:36:02
+
+eu mais uma vez agradeço aqui ao
+ 01:36:05
+
+Ezequiel redinho ao portal extensionista
+ 01:36:07
+
+por essa oportunidade de falar com vocês
+ 01:36:10
+
+foi muito gratificante fico muito feliz
+ 01:36:12
+
+e e quero destacar que nosso o nosso
+ 01:36:15
+
+trabalho o nosso dia a ele é feito
+ 01:36:19
+
+desses não é dessa produção mas ele só é
+ 01:36:22
+
+válido se ele interfere positivamente
+ 01:36:27
+
+uma mudança não é cria uma mudança na vida
+ 01:36:30
+
+das pessoas na qualidade de vida do
+ 01:36:33
+
+nosso público assistido não é que tanto que
+ 01:36:35
+
+a gente fala a gente não fala cliente a
+ 01:36:37
+
+gente não fala paciente não é público
+ 01:36:38
+
+assistido porque eles recebem a nossa
+ 01:36:41
+
+assistência e a nossa assistência
+ 01:36:43
+
+contínua nós não vamos lá 10 dias e
+ 01:36:44
+
+Tchau Ah até a próxima até nunca mais não é
+ 01:36:47
+
+não a gente tá todo dia
+ 01:36:49
+
+pode não ser o Cláudio pode não ser o
+ 01:36:54
+
+Ezequiel mas tem um colega lá ou uma que
+ 01:36:55
+
+vai prestar assistência de qualidade
+ 01:36:57
+
+para aquele agricultor para aquela
+ 01:37:00
+
+agricultora quilombola indígena é bom
+ 01:37:02
+
+Basta ver na nessa na cheia nessa
+ 01:37:05
+
+tragédia os colegas até teve colegas que
+ 01:37:07
+
+foram atingidos 32 Se não me engano da
+ 01:37:10
+
+Emater não é que tiveram que ter apoio e
+ 01:37:12
+
+tal mas os colegas se mobilizaram de
+ 01:37:15
+
+diversas maneiras seja a entregando uma
+ 01:37:18
+
+quentinha seja entregando leite que que
+ 01:37:21
+
+de uma maneira ou de outra iria fora
+ 01:37:24
+
+então doando seja auxiliando as pessoas
+ 01:37:26
+
+Olha é foi um trabalho muito bonito e
+ 01:37:29
+
+que reforçou o nosso a importância que a
+ 01:37:32
+
+extensão e nossos colegas dão para o
+ 01:37:35
+
+nosso público assistido mas pra
+ 01:37:38
+
+sociedade nós não estamos Descolados da
+ 01:37:41
+
+sociedade e Nós Somos solidários a todos
+ 01:37:43
+
+e com as boas ações que e que e que
+ 01:37:45
+
+fazem com que a sociedade que a que a
+ 01:37:48
+
+vida seja melhor então agradeço a
+ 01:37:50
+
+oportunidade aí e deixo um abraço a
+ 01:37:52
+
+todas e todos aí que nos assistiram e
+ 01:37:54
+
+fico feliz por participar muito bom e d
+ 01:37:57
+
+v ressaltar agora que o Cláudio falou
+ 01:38:01
+
+sobre as enchentes não é grande parceria da
+ 01:38:03
+
+imater Minas Gerais aí com a parceria da
+ 01:38:05
+
+imater Grande do Sul fizer uma ação
+ 01:38:08
+
+muito bonita aí de trazer aí donativos e
+ 01:38:10
+
+e distribuíam junto com os exens eu
+ 01:38:13
+
+achei uma ação muito grandiosa da imater
+ 01:38:16
+
+Minas Gerais e só só reforça ainda mais
+ 01:38:18
+
+a importância da extensão Rural também
+ 01:38:21
+
+fazer um agradecimento aqui que a imater
+ 01:38:23
+
+é Nossa grande parceira na construção de
+ 01:38:25
+
+todos os eventos eh no Colégio Politec
+ 01:38:28
+
+dentro da Universidade Federal de Santa
+ 01:38:32
+
+Maria o grande o polif frut aqui vários
+ 01:38:33
+
+extensionistas têm participado muito
+ 01:38:36
+
+aqui do curso Tec frut cultura Muito
+ 01:38:38
+
+obrigado a todos O professor zuin mandou
+ 01:38:40
+
+um contato aqui disse olha tá pena que
+ 01:38:43
+
+eu não consegui participar mas eu tô
+ 01:38:45
+
+adorando isso aqui depois eu vou
+ 01:38:46
+
+assistir tudo certinho então agradecer a
+ 01:38:48
+
+todos que estiveram presentes aqui Muito
+ 01:38:51
+
+obrigado pela presena de gente de vários
+ 01:38:53
+
+locais do país aqui muito obrigado mesmo
+ 01:38:55
+
+e dizer que toda quarta-feira 9 horas
+ 01:38:58
+
+dessa vez foi na quinta por um por uma
+ 01:39:00
+
+inconsistência aí da da nossa agenda mas
+ 01:39:03
+
+toda quarta-feira 9 horas da manhã nesse
+ 01:39:05
+
+mesmo canal nesse mesmo horário nós
+ 01:39:08
+
+estamos aqui com um novo extensionista
+ 01:39:10
+
+compartilhando informações com vocês um
+ 01:39:12
+
+abraço e até a próxima oportunidade
+ 01:39:14
+
+tchau tchau
+ 01:39:16

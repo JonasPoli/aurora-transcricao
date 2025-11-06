@@ -1,0 +1,8 @@
+video_id: d6bkOk4vX3A
+video_url: https://www.youtube.com/watch?v=d6bkOk4vX3A
+title: Empoderamento feminino no campo e o trabalho do médico veterinário na agricultura familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/19/2020

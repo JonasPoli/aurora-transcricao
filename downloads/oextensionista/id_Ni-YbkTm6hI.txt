@@ -1,0 +1,8 @@
+video_id: Ni-YbkTm6hI
+video_url: https://www.youtube.com/watch?v=Ni-YbkTm6hI
+title: #roça #colono #turismo #ervamate
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/08/2025

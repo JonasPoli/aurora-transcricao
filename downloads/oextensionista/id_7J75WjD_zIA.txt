@@ -1,0 +1,8 @@
+video_id: 7J75WjD_zIA
+video_url: https://www.youtube.com/watch?v=7J75WjD_zIA
+title: Exploração da cultura de mandioca por agricultores familiares para produção de cerveja
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/25/2021

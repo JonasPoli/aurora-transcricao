@@ -1,0 +1,8 @@
+video_id: KXaSc5giM38
+video_url: https://www.youtube.com/watch?v=KXaSc5giM38
+title: Formando Líderes: o impacto das cooperativas no ambiente escolar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/24/2024

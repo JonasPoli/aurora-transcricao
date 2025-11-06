@@ -1,0 +1,8 @@
+video_id: a4P4kS3DyOk
+video_url: https://www.youtube.com/watch?v=a4P4kS3DyOk
+title: Painel do III Seminário Nacional em Ensino de Extensão Rural - Santa Maria, RS
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/25/2025

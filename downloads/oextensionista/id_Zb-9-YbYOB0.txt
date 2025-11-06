@@ -1,0 +1,9 @@
+video_id: Zb-9-YbYOB0
+video_url: https://www.youtube.com/watch?v=Zb-9-YbYOB0
+title: O ensino por alternância pode ajudar na capacitação do extensionista que queremos?
+uploader: O Extensionista
+speaker: Gelson Pelegrini – Universidade Regional Integrada do Alto Uruguai e das Missões, Campus de Frederico Westphalen.
+Lattes: http://lattes.cnpq.br/8008575701267505
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/02/2023

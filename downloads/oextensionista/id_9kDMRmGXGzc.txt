@@ -1,0 +1,9 @@
+video_id: 9kDMRmGXGzc
+video_url: https://www.youtube.com/watch?v=9kDMRmGXGzc
+title: Agricultura familiar não merece ser valorizada? Rebatendo Camila Telles
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/16/2024

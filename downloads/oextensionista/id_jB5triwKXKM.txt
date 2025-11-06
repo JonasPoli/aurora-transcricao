@@ -1,0 +1,8 @@
+video_id: jB5triwKXKM
+video_url: https://www.youtube.com/watch?v=jB5triwKXKM
+title: #evento #extensãorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/31/2025

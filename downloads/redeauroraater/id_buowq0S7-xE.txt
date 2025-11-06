@@ -1,0 +1,9 @@
+video_id: buowq0S7-xE
+video_url: https://www.youtube.com/watch?v=buowq0S7-xE
+title: Promovendo a digitalização inclusiva na Amazônia Paraense
+uploader: Rede Aurora
+speaker: Denis Rodrigues de Oliveira
+Lattes: http://lattes.cnpq.br/9383971284518655
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/12/2025

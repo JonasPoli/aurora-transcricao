@@ -1,0 +1,8 @@
+video_id: yYQYM8L6USE
+video_url: https://www.youtube.com/watch?v=yYQYM8L6USE
+title: #motivação #reflexão #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

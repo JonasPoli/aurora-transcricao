@@ -1,0 +1,9 @@
+video_id: D7JVeyhq6H8
+video_url: https://www.youtube.com/watch?v=D7JVeyhq6H8
+title: ÉdoCampo – uma oportunidade para a comercialização on line de produtos rurais
+uploader: O Extensionista
+speaker: Rhamillye Bartels Van de Pol
+Lattes: http://lattes.cnpq.br/6549609705845242
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/11/2024

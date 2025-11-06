@@ -1,0 +1,8 @@
+video_id: WNps6E3glEg
+video_url: https://www.youtube.com/watch?v=WNps6E3glEg
+title: Como acontece a organização das Caminhadas na Natureza no Geoparque Quarta Colônia?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/05/2023

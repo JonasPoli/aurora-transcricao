@@ -1,0 +1,9 @@
+video_id: Ha507gCZXkU
+video_url: https://www.youtube.com/watch?v=Ha507gCZXkU
+title: O agricultor familiar e os aplicativos móveis: fatores que afetam o uso da tecnologia no campo
+uploader: O Extensionista
+speaker: Paloma Reis Lucas – Embrapa Agroenergia
+Lattes: http://lattes.cnpq.br/3990594363530366
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2023

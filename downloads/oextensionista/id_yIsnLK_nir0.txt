@@ -1,0 +1,8 @@
+video_id: yIsnLK_nir0
+video_url: https://www.youtube.com/watch?v=yIsnLK_nir0
+title: #reflexão #roça #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/22/2025

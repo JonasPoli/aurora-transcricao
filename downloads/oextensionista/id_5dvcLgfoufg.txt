@@ -1,0 +1,8 @@
+video_id: 5dvcLgfoufg
+video_url: https://www.youtube.com/watch?v=5dvcLgfoufg
+title: #reflexão #oração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/23/2025

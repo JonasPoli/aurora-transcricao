@@ -1,0 +1,8 @@
+video_id: TFGbDL1RS7E
+video_url: https://www.youtube.com/watch?v=TFGbDL1RS7E
+title: Direto ao ponto: Novas perspectivas para cadeias produtivas agroecológicas - Sergio Schneider
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2022

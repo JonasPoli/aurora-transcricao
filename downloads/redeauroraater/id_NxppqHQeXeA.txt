@@ -1,0 +1,9 @@
+video_id: NxppqHQeXeA
+video_url: https://www.youtube.com/watch?v=NxppqHQeXeA
+title: Ater, ferramentas digitais e agricultura familiar quem controla quem
+uploader: Rede Aurora
+speaker: Carlos Mário Guedes de Guedes
+Lattes: http://lattes.cnpq.br/8775547703681745
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/12/2024

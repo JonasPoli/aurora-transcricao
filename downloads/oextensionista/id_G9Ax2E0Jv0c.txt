@@ -1,0 +1,8 @@
+video_id: G9Ax2E0Jv0c
+video_url: https://www.youtube.com/watch?v=G9Ax2E0Jv0c
+title: #deus #vida
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/25/2025

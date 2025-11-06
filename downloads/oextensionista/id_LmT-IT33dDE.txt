@@ -1,0 +1,8 @@
+video_id: LmT-IT33dDE
+video_url: https://www.youtube.com/watch?v=LmT-IT33dDE
+title: #frutas #campo #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/10/2025

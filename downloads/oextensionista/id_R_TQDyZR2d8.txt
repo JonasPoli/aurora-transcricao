@@ -1,0 +1,8 @@
+video_id: R_TQDyZR2d8
+video_url: https://www.youtube.com/watch?v=R_TQDyZR2d8
+title: Calendarizar as atividades na Fruticultura #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2025

@@ -1,0 +1,8 @@
+video_id: zhe57pUIpys
+video_url: https://www.youtube.com/watch?v=zhe57pUIpys
+title: Transição Agroecológica - Fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/08/2022

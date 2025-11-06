@@ -1,0 +1,8 @@
+video_id: OatPto-j-NI
+video_url: https://www.youtube.com/watch?v=OatPto-j-NI
+title: PAS Nordeste e as Redes Territoriais de ATER
+uploader: O Extensionista
+speaker: Jose Humberto Oliveira - IICA
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/08/2025

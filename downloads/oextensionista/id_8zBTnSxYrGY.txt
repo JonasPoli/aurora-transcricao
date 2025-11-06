@@ -1,0 +1,8 @@
+video_id: 8zBTnSxYrGY
+video_url: https://www.youtube.com/watch?v=8zBTnSxYrGY
+title: Assistência Técnica e Extensão Rural (ATER) em Agroindústrias de Produtos de Origem Animal e Vegetal
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/22/2020

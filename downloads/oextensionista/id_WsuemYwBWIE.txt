@@ -1,0 +1,8 @@
+video_id: WsuemYwBWIE
+video_url: https://www.youtube.com/watch?v=WsuemYwBWIE
+title: #turismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/19/2025

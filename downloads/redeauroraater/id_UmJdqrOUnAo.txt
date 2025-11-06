@@ -1,0 +1,8 @@
+video_id: UmJdqrOUnAo
+video_url: https://www.youtube.com/watch?v=UmJdqrOUnAo
+title: Mulheres do Cacau  experiências de ATER Digital com mulheres rurais do Espírito Santo
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/05/2023

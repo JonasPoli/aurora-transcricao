@@ -1,0 +1,4601 @@
+Olá a todos e todos extensionistas
+ 00:00:00
+
+rurais, agricultores e agricultoras,
+ 00:00:03
+
+jovens rurais, pesquisadores e
+ 00:00:05
+
+professores extensão rural, acadêmicos e
+ 00:00:07
+
+demais públicos aqui presentes. Sejam
+ 00:00:10
+
+todos muito bem-vindos. Meu nome é
+ 00:00:12
+
+Zéquedim, professor de extensão rural e
+ 00:00:14
+
+quem está aqui hoje conosco é o
+ 00:00:16
+
+professor Luís Fernando Soares Zuin,
+ 00:00:18
+
+fundador da Rede da Aurora, juntamente
+ 00:00:20
+
+com o nosso grande amigo, convidado e
+ 00:00:21
+
+pesquisador, extensionista Luciano Naz
+ 00:00:25
+
+da Embrapa. Todos aqui excelentes
+ 00:00:27
+
+profissionais na área de extensão rural
+ 00:00:29
+
+no Brasil e no mundo. E é nesse dia 28
+ 00:00:30
+
+de maio que estamos em mais um evento do
+ 00:00:33
+
+ciclo Diálogos em Até Digital, semeando
+ 00:00:35
+
+propostas e compartilhando saberes.
+ 00:00:38
+
+Nossos eventos buscam identificar e
+ 00:00:41
+
+propor caminhos metodológicos para os
+ 00:00:43
+
+atuais elementos e condicionantes que
+ 00:00:45
+
+determinam os processos de transferência
+ 00:00:48
+
+e compartilhamento de novas tecnologias
+ 00:00:50
+
+nos territórios rurais da América
+ 00:00:53
+
+Latina, da África e alguns países como
+ 00:00:55
+
+Portugal, Espanha e Luxemburgo. E a
+ 00:00:57
+
+nossa palestra de hoje é intitulada A
+ 00:00:59
+
+plataforma Termig Hubs de
+ 00:01:02
+
+Desenvolvimento pela Embrapa meio
+ 00:01:04
+
+ambiente. E nosso palestrante hoje é
+ 00:01:06
+
+Luciano Lourenço Nas da Imbrapa. Essa
+ 00:01:08
+
+live é uma iniciativa do portal
+ 00:01:10
+
+Extensionista da Rede Aurora de Diálogos
+ 00:01:12
+
+em Até Digital na América Latina e com
+ 00:01:15
+
+todos os apoiadores que vocês podem
+ 00:01:17
+
+conferir aqui na descrição desse vídeo.
+ 00:01:19
+
+Sejam todos muito bem-vindos, professor
+ 00:01:21
+
+Zuin Luciano. É um prazer vocês estarem
+ 00:01:23
+
+aqui conosco, compartilhando seus
+ 00:01:26
+
+conhecimentos. Desde já o nosso muito
+ 00:01:28
+
+obrigado. De antemão passo a palavra ao
+ 00:01:29
+
+professor Zui.
+ 00:01:32
+
+Bom dia a todos e a todas. É um prazer
+ 00:01:35
+
+muito grande estar hoje nessa manhã de
+ 00:01:36
+
+quarta-feira nublada, não é? Chegando frio,
+ 00:01:37
+
+professor Ezequiel, com meu amigo,
+ 00:01:40
+
+professor Ezequiel, com meu amigo
+ 00:01:42
+
+Luciano. Hoje a gente vai ter uma
+ 00:01:43
+
+palestra muito bacana sobre a plataforma
+ 00:01:44
+
+até digital da Embrapa. Luciano, meu
+ 00:01:48
+
+querido, a gente já agradece você aqui
+ 00:01:50
+
+nessa manhã, tá? E a palavra é sua e
+ 00:01:52
+
+fique à vontade.
+ 00:01:54
+
+Obrigado. Bom dia, professor Ezequiel,
+ 00:01:58
+
+professor Zuin. Muito grato pela
+ 00:02:01
+
+oportunidade de a gente conversar um
+ 00:02:03
+
+pouquinho sobre a plataforma Termas Mais
+ 00:02:05
+
+Digital.
+ 00:02:08
+
+E durante a palestra eu vou focar um
+ 00:02:10
+
+pouquinho nos hubs que a Embrapa Meio
+ 00:02:12
+
+Ambiente desenvolveu e coordenou, não é?
+ 00:02:14
+
+Mas eh a expectativa é que a gente
+ 00:02:17
+
+consiga transmitir a potencialidade
+ 00:02:21
+
+desta
+ 00:02:25
+
+plataforma recém lançada, lançada ano
+ 00:02:27
+
+passado, não é?
+ 00:02:29
+
+Bom, a plataforma Terma
+ 00:02:31
+
+digital, eh, e os hubs desenvolvidos
+ 00:02:34
+
+para lembrar para minha mente. Esse é o
+ 00:02:37
+
+título da palestra e da nossa conversa
+ 00:02:39
+
+de
+ 00:02:41
+
+hoje. Ah, se vocês olharem, essa é a
+ 00:02:42
+
+porta de entrada da plataforma Termas
+ 00:02:47
+
+Digital, não é?
+ 00:02:50
+
+E
+ 00:02:52
+
+ela, como falei, foi lançada pela
+ 00:02:54
+
+Embrapa em 2024, inicialmente com apenas
+ 00:02:57
+
+sete hubs e hoje ela já conta com 17
+ 00:03:00
+
+hubs disponíveis. A gente vai detalhar
+ 00:03:04
+
+isso aí um pouquinho mais para frente. E
+ 00:03:06
+
+nessa entrada a gente gostaria então de
+ 00:03:09
+
+ressaltar as parcerias que fizeram este
+ 00:03:11
+
+trabalho ser viabilizado. Então aqui nós
+ 00:03:16
+
+temos embaixo as BRAER, Associação
+ 00:03:19
+
+Brasileira das Entidades de Assistência
+ 00:03:22
+
+Técnica, Extensão Rural, Pesquisa
+ 00:03:24
+
+Agropecuária e Regularização Fundiária.
+ 00:03:26
+
+Temos também o apoio do Banco
+ 00:03:29
+
+Interamericano de Desenvolvimento, o
+ 00:03:31
+
+BID, o apoio do Instituto Interamericano
+ 00:03:33
+
+de Cooperação para Agricultura, o Ica, a
+ 00:03:36
+
+ANA Ter, que é a nossa Agência Nacional
+ 00:03:40
+
+de Assistência Técnica e extensão
+ 00:03:43
+
+Rural, o apoio da Embrapa, não é, e o apoio
+ 00:03:45
+
+de dois ministérios vinculados à
+ 00:03:50
+
+produção agropecuária do país, o MAPA e
+ 00:03:53
+
+o MDA.
+ 00:03:56
+
+Bom, como que foi o início desta
+ 00:04:01
+
+aventura, vamos dizer assim,
+ 00:04:04
+
+concentrando, principalmente na época de
+ 00:04:06
+
+pandemia, se viu um aumento, não é, das
+ 00:04:08
+
+interações via eh internet, via qualquer
+ 00:04:12
+
+mídia social, não é? Mas o que chama
+ 00:04:16
+
+atenção e eu queria trazer para vocês
+ 00:04:19
+
+aqui é um dado de do senso agropecuário
+ 00:04:21
+
+da EBG de 2017, onde apenas um em cada
+ 00:04:23
+
+cinco, ou seja, aproximadamente 20% dos
+ 00:04:29
+
+agricultores familiares brasileiros
+ 00:04:32
+
+declararam ter acesso a algum serviço de
+ 00:04:34
+
+assistência técnica de extensão rural. E
+ 00:04:38
+
+se vocês olharem nesse mapa, a situação
+ 00:04:41
+
+fica ainda mais gritante pela diferença
+ 00:04:43
+
+de porcentagem. dada nas diversas
+ 00:04:46
+
+regiões do país. A gente tem uma
+ 00:04:49
+
+cobertura um pouco maior ou digamos 50%
+ 00:04:52
+
+dos atendimentos na região
+ 00:04:56
+
+sul, as região Sudeste com 25%, mas nós
+ 00:04:59
+
+temos regiões como o Nordeste e Norte
+ 00:05:03
+
+com apenas 7,9%,
+ 00:05:06
+
+respectivamente. Então essa foi a ideia
+ 00:05:10
+
+de a gente tentar através do uso das
+ 00:05:12
+
+TDICs, não é, das tecnologias digitais de
+ 00:05:15
+
+de informação e
+ 00:05:18
+
+comunicação, eh verificar como a gente
+ 00:05:20
+
+poderia, de uma maneira
+ 00:05:23
+
+eh rápida e utilizando essas novas
+ 00:05:26
+
+tecnologias, gerar algum produto que
+ 00:05:30
+
+seja de utilidade para ah os
+ 00:05:32
+
+extensionistas e por tabela indireta. eh
+ 00:05:36
+
+para os agricultores. Então, o objetivo
+ 00:05:41
+
+desse dessa plataforma é fornecer
+ 00:05:43
+
+informações atualizadas e confiáveis
+ 00:05:46
+
+para apoiar de forma online a
+ 00:05:48
+
+implementação de serviços de ATER,
+ 00:05:50
+
+facilitando ações remotas e presenciais.
+ 00:05:52
+
+A plataforma, ela contém, ela
+ 00:05:58
+
+disponibiliza conteúdos e ferramentas
+ 00:06:00
+
+para extensionistas e agricultores.
+ 00:06:03
+
+Então, o foco primário é a tentativa de
+ 00:06:06
+
+fornecer subsídios aos extensionistas
+ 00:06:11
+
+para que eles possam ter materiais
+ 00:06:14
+
+disponíveis para sua divulgação, o seu
+ 00:06:16
+
+trabalho junto aos agricultores que eles
+ 00:06:19
+
+atendem, não é? E tem uma outra
+ 00:06:22
+
+característica, por que que a gente
+ 00:06:25
+
+também fala que ela é disponível para os
+ 00:06:26
+
+agricultores? Porque é uma plataforma
+ 00:06:28
+
+aberta, então o agricultor pode também
+ 00:06:30
+
+acessar os seus conteúdos
+ 00:06:34
+
+diretamente. Vamos definir aqui algumas
+ 00:06:38
+
+características que a gente considera
+ 00:06:41
+
+relevante na plataforma. Ela tem focos e
+ 00:06:43
+
+em temas e cadeias produtivas da
+ 00:06:47
+
+agricultura familiar. Vocês vão ver que
+ 00:06:50
+
+ela é dividida por cadeias. Os hubs são
+ 00:06:52
+
+divididos por cadeias ou hubs temáticos,
+ 00:06:54
+
+não é? Ela tem recursos diversificados, ela
+ 00:06:57
+
+integra elementos e práticas da produção
+ 00:07:00
+
+agroecológica, ela é multiinstitucional,
+ 00:07:03
+
+então ela não pertence a nenhum órgão,
+ 00:07:05
+
+ela não pertence a BRAPA. Nós fazemos
+ 00:07:07
+
+parte dessa parceria, ela não
+ 00:07:09
+
+substitui, é aqui que fique bem claro,
+ 00:07:13
+
+ela complementa a terra presencial.
+ 00:07:15
+
+Então, a não há temor nenhum em receio
+ 00:07:18
+
+de utilizar essas ferramentas
+ 00:07:22
+
+disponíveis atualmente. Ela é de acesso
+ 00:07:24
+
+gratuito, ela é participativa dialógica
+ 00:07:27
+
+e
+ 00:07:30
+
+interdisciplinar e ela tem a curadoria
+ 00:07:31
+
+de conteúdos técnicos, científicos,
+ 00:07:35
+
+certo? E dicas práticas também. Então,
+ 00:07:38
+
+por trás de todos os hubiese uma equipe
+ 00:07:40
+
+enorme de de
+ 00:07:43
+
+profissionais que se atentam aquela
+ 00:07:46
+
+determinada cadeia ou aquele determinado
+ 00:07:49
+
+tema e disponibilizam informações com
+ 00:07:51
+
+curadoria,
+ 00:07:54
+
+não é? Bom, hub, não é? Vamos tentar traduzir
+ 00:07:58
+
+essa palavra que do inglês, mas que ela
+ 00:08:02
+
+significa um ponto central onde diversos
+ 00:08:05
+
+pontos se interconectam. Então, na
+ 00:08:07
+
+internet, um hub de conteúdo é um site,
+ 00:08:10
+
+uma plataforma, uma página que atua como
+ 00:08:12
+
+um local para fornecer informações,
+ 00:08:15
+
+recursos ou diferentes mídias e serviços
+ 00:08:17
+
+sobre aquele determinado
+ 00:08:20
+
+assunto. Pra coisa ficar um pouquinho
+ 00:08:21
+
+mais clara para os termos de eh
+ 00:08:24
+
+agricultores e para esse universo, é o
+ 00:08:26
+
+que a gente mais ou menos imagina como
+ 00:08:30
+
+uma cooperativa atua. Ela reúne diversos
+ 00:08:33
+
+associados aqui, tanto uma cooperativa
+ 00:08:36
+
+como uma associação. Então ela reúne um
+ 00:08:39
+
+conjunto de pessoas que trocam saberes,
+ 00:08:40
+
+que fazem ações em conjunto,
+ 00:08:44
+
+que armazenam seus produtos, que
+ 00:08:47
+
+disponibilizam assistência técnica. que
+ 00:08:50
+
+fazem venda da produção ou compra
+ 00:08:52
+
+conjunta. E essa cooperativa ou
+ 00:08:55
+
+associação, ela coordena todo esse
+ 00:08:59
+
+movimento. Transferindo aqui para os
+ 00:09:01
+
+hubs da plataforma ATER digital, nós
+ 00:09:04
+
+temos aqui no centro a plataforma onde
+ 00:09:07
+
+ela canaliza informações e conhecimentos
+ 00:09:10
+
+de diversas instituições, de
+ 00:09:13
+
+universidades, de institutos de
+ 00:09:16
+
+pesquisa, de instituições de ATER,
+ 00:09:17
+
+empresas públicas e privadas. dos
+ 00:09:20
+
+próprios agricultores e agriculturas e
+ 00:09:22
+
+de organizações não governamentais.
+ 00:09:24
+
+Então, essa eles reúnem esse
+ 00:09:27
+
+conhecimento disponibilizado por todas
+ 00:09:29
+
+essas instituições e daqui é disparado
+ 00:09:32
+
+então para eh extensionistas e
+ 00:09:34
+
+agricultores. A plataforma, como que é a
+ 00:09:40
+
+situação atual da plataforma? Ela foi
+ 00:09:43
+
+lançada em 2024, como falei, eh, com
+ 00:09:45
+
+apenas sete hubs, mas hoje nós já
+ 00:09:48
+
+dispomos de 17 hubs, eh, que podem ser
+ 00:09:51
+
+acessados por qualquer, eh, pessoa desse
+ 00:09:56
+
+país, não é? Ah, traduzindo aqui esse
+ 00:10:00
+
+gráfico, os hubs de cadeias produtivas e
+ 00:10:04
+
+temáticos. Nos hubs de cadeias
+ 00:10:08
+
+produtivas, os que estão assinalados em
+ 00:10:10
+
+verde são hubs já disponíveis na
+ 00:10:13
+
+plataforma e os demais em laranja são
+ 00:10:16
+
+hubs desenvolvimento ainda não
+ 00:10:19
+
+disponíveis para o público, tá? Então a
+ 00:10:21
+
+gente já tem eh a e temos uma diferença
+ 00:10:23
+
+aqui que os
+ 00:10:26
+
+hubs verde e claro eles estavam
+ 00:10:27
+
+disponíveis até o início do ano, não é, e
+ 00:10:31
+
+começo desse 2025. Recentemente, os hubs
+ 00:10:34
+
+em verde escuro foram
+ 00:10:38
+
+lançados no aniversário da Embrapa em
+ 00:10:41
+
+abril passado, mas já estão disponíveis
+ 00:10:44
+
+e prontos para consultas. Do lado dos
+ 00:10:47
+
+rubs temáticos, são grandes temas que
+ 00:10:50
+
+têm uma interface com as diversas eh
+ 00:10:52
+
+cadeias produtivas. E aqui então nós
+ 00:10:56
+
+temos os rubs de mudanças climáticas,
+ 00:10:59
+
+eh, de nutrição, eh, e saúde, eh, os
+ 00:11:02
+
+sistemas agrícolas tradicionais, que a
+ 00:11:07
+
+gente vai falar um pouco, sistemas
+ 00:11:09
+
+agroflorestais, interação, lavura,
+ 00:11:10
+
+pecuária e floresta. Em andamento
+ 00:11:12
+
+existem mais dois rubs que são em
+ 00:11:15
+
+amarelo e que ainda não estão
+ 00:11:18
+
+disponíveis, mas em breve serão
+ 00:11:19
+
+lançados. o agroindústria de alimentos e
+ 00:11:21
+
+um hub especial de metodologias de
+ 00:11:24
+
+digital. Aqui vocês têm a oportunidade
+ 00:11:29
+
+de eh através desse QRcode acessar o
+ 00:11:32
+
+canal da WhatsApp da Ter mais Digital e
+ 00:11:36
+
+a gente deixa isso na vai ficar na
+ 00:11:39
+
+palestra e quando
+ 00:11:41
+
+vocês puderem ou preferirem aponta a
+ 00:11:42
+
+câmera e vocês podem fazer parte. E
+ 00:11:45
+
+convidamos a todos que integrem esse
+ 00:11:48
+
+canal. Nesse canal são divulgados
+ 00:11:50
+
+semanalmente informações dos diversos
+ 00:11:52
+
+hubs, não é por um hubífico, mas pelos
+ 00:11:54
+
+diversos hubs que a gente
+ 00:11:58
+
+contém. E aqui então é o Qcode e o
+ 00:12:00
+
+endereço da plataforma Termas digital,
+ 00:12:04
+
+não é? como falei, acessível ao público, de
+ 00:12:08
+
+fácil consulta e que a gente espere que
+ 00:12:11
+
+vocês tenham um bom proveito daquele
+ 00:12:15
+
+material que foi gerado por diversas
+ 00:12:19
+
+equipes e diversos profissionais.
+ 00:12:20
+
+Bom, iniciando um pouco mais de detalhe
+ 00:12:24
+
+sobre a os hubs desenvolvidos pela
+ 00:12:27
+
+Embrapa Meio Ambiente aqui de Jaguariúa,
+ 00:12:30
+
+estado de São Paulo, a gente teve o
+ 00:12:34
+
+primeiro hub, os primeiros hubs
+ 00:12:37
+
+desenvolvidos, mudanças climáticas e
+ 00:12:39
+
+agro sistemas agroflorestais, que foram
+ 00:12:41
+
+lançados já no início da da plataforma.
+ 00:12:44
+
+Então eles já foram lançados desde 2024.
+ 00:12:47
+
+E recentemente, nesse novo aniversário
+ 00:12:51
+
+da Embrapa, de 52 anos, a gente lançou
+ 00:12:53
+
+os sistemas agrícolas tradicionais. A
+ 00:12:57
+
+minha intenção aqui
+ 00:12:59
+
+eh mostrar para vocês quais as
+ 00:13:01
+
+funcionalidades e quais os tipos de
+ 00:13:04
+
+conteúdos que vocês podem encontrar
+ 00:13:07
+
+nesses diversos hubs. Eh, esses
+ 00:13:09
+
+conteúdos são eh fáceis de compartilhar
+ 00:13:12
+
+e é essa a intenção. ao mesmo tempo é
+ 00:13:17
+
+para fornecer informações e, digamos,
+ 00:13:20
+
+auxiliar o trabalho do extensionista no
+ 00:13:23
+
+seu trabalho eh
+ 00:13:26
+
+diário. Bom, iniciando então a quando
+ 00:13:29
+
+você abre o ramo de mudanças climáticas,
+ 00:13:32
+
+é essa figura que você tem, não é? E você
+ 00:13:35
+
+tem alguns eh alguns itens aqui que a
+ 00:13:39
+
+gente chama de menu principal, não é? E
+ 00:13:43
+
+esses menus têm então diversas páginas
+ 00:13:46
+
+quando vocês conseguem acessá-las.
+ 00:13:50
+
+Sempre que houver uma setinha indicando
+ 00:13:52
+
+para baixo, a gente vai ter um submenu e
+ 00:13:54
+
+é o que eu vou mostrar eh em seguida.
+ 00:13:56
+
+Então o hub de início, quando você clica
+ 00:13:59
+
+em início, você tem diversas eh
+ 00:14:02
+
+informações e mais ou menos um resumo do
+ 00:14:05
+
+conteúdo que você pode encontrar nos
+ 00:14:07
+
+hubs, não é? Então, por exemplo, além de
+ 00:14:09
+
+conceitos gerais, que a gente traz o que
+ 00:14:12
+
+significa mudanças climáticas, não é, um
+ 00:14:15
+
+tema tão importante e aí eh às vezes até
+ 00:14:17
+
+complicado de você explicar em maneira
+ 00:14:21
+
+simples, mas foi a tentativa que fizemos
+ 00:14:23
+
+e acho que foi bem sucedida. Eh,
+ 00:14:25
+
+inclusive é notícia de jornal, é é tema
+ 00:14:28
+
+atualíssimo, é Brasil recebendo a COP 30
+ 00:14:31
+
+em novembro. Então, tá na mídia, se
+ 00:14:35
+
+alguém tiver algum interesse, quiser se
+ 00:14:38
+
+aprofundar no tema, existe esse rub de
+ 00:14:40
+
+mudanças climáticas. Bom, em conceitos
+ 00:14:43
+
+gerais, aqui outras coisas que a gente
+ 00:14:44
+
+pode trazer, informações sobre a
+ 00:14:46
+
+política nacional, sobre mudanças do
+ 00:14:48
+
+clima, não é, que é uma política do Brasil.
+ 00:14:51
+
+Temos informações também sobre as
+ 00:14:54
+
+práticas do plano ABC, agricultura de
+ 00:14:56
+
+baixo carbono e o ABC+. Da mesma forma,
+ 00:14:58
+
+temos vídeos explicativos que tentam
+ 00:15:02
+
+trazer uma abordagem mais simples de
+ 00:15:05
+
+toda essa temática.
+ 00:15:08
+
+No impacto para agropecuária também
+ 00:15:11
+
+existem diversos diversas informações.
+ 00:15:13
+
+Aqui a gente trouxe como exemplo apenas
+ 00:15:16
+
+uma tabela onde eh são focados os
+ 00:15:18
+
+principais impactos nas atividades eh
+ 00:15:22
+
+pecuárias, não é? Mas também tem eh na
+ 00:15:25
+
+parte agronômica em diversas cadeias.
+ 00:15:29
+
+Como eu falei,
+ 00:15:33
+
+a estrutura da página, não é, do hub,
+ 00:15:36
+
+sempre que você tiver uma setinha eh
+ 00:15:39
+
+apontada para baixo, você tem a
+ 00:15:41
+
+existência de submenus. Então aqui nós
+ 00:15:43
+
+temos, por exemplo, sobre mitigação,
+ 00:15:46
+
+diversas técnicas que são eh utilizadas
+ 00:15:48
+
+para reduzir ou
+ 00:15:52
+
+eh para que você controle ou diminua a
+ 00:15:55
+
+emissão dos gases de efeito estufa.
+ 00:15:59
+
+Então, dentro dessas práticas
+ 00:16:01
+
+preconizadas pelo plano ABC, nós temos
+ 00:16:02
+
+informações sobre o manejo de
+ 00:16:05
+
+conservacionista do solo, sistemas de
+ 00:16:06
+
+plantil direto, fixação biológica de
+ 00:16:08
+
+nitrogênio, recuperação de pastagens
+ 00:16:11
+
+degradadas, integração, lavoura,
+ 00:16:13
+
+pecuária e floresta, que faz um link com
+ 00:16:15
+
+um
+ 00:16:18
+
+hubífico sobre tema com mais detalhes.
+ 00:16:20
+
+Sistemas agroflorestais. Da mesma forma,
+ 00:16:23
+
+vou apresentar um hubífico sobre isso,
+ 00:16:25
+
+mas constituem técnicas eh próprias para
+ 00:16:27
+
+termos de medicação, tratamentos de
+ 00:16:32
+
+dejetos, animais e florestas plantáveis.
+ 00:16:35
+
+Eh, sempre
+ 00:16:40
+
+que eh como eu falei, sempre que houver
+ 00:16:42
+
+uma setinha, você tem eh outras
+ 00:16:45
+
+informações. Então, se você clicar em
+ 00:16:47
+
+manejo de conservacionista do solo, você
+ 00:16:49
+
+vai ter uma página repleta de conteúdos
+ 00:16:51
+
+dos mais diversos
+ 00:16:55
+
+eh eh formatos, não é? Por exemplo, aqui
+ 00:16:58
+
+nós temos um
+ 00:17:01
+
+infográfico eh sobre detalhando os
+ 00:17:03
+
+benefícios do plantil direto. Então,
+ 00:17:06
+
+esse tipo de de formato é possível que
+ 00:17:09
+
+eh o
+ 00:17:14
+
+extensionista, querendo ou implementar
+ 00:17:15
+
+ou divulgar alguma ação sobre o plantil
+ 00:17:18
+
+direto para os seus eh eh
+ 00:17:21
+
+eh atendidos ou para quem ele dá
+ 00:17:24
+
+suporte, ele possa rapidamente eh
+ 00:17:27
+
+disparar um infográfico como esse com
+ 00:17:30
+
+informações. Da mesma forma, nós temos
+ 00:17:33
+
+áudios, não é? e áudios são bem-vindos
+ 00:17:35
+
+porque permite a ao produtor escutar no
+ 00:17:38
+
+tempo devido ou no tempo do café dele ou
+ 00:17:42
+
+então após o jantar, não é? Então, tem
+ 00:17:45
+
+algumas algumas situações em que são
+ 00:17:48
+
+muito bem-vindos pelos eh
+ 00:17:51
+
+produtores aqui. Então, passando, nós
+ 00:17:55
+
+passamos por mitigação, agora
+ 00:17:58
+
+apresentando adaptação. estão novamente
+ 00:18:00
+
+eh a existência de diversas páginas com
+ 00:18:03
+
+diversos tópicos onde eh procuram-se eh
+ 00:18:06
+
+apresentar técnicas eh ou assuntos que
+ 00:18:12
+
+podem então remediar um pouco essa eh
+ 00:18:16
+
+perda, não é, ou esse problema que a gente
+ 00:18:21
+
+tem enfrentado sobre eh o aquecimento
+ 00:18:23
+
+global.
+ 00:18:25
+
+Ah, em adaptação, por exemplo, nós temos
+ 00:18:27
+
+também disponibilidade do você sabia com
+ 00:18:29
+
+curiosidades, não é? Essa curiosidade aqui
+ 00:18:32
+
+é mais ou menos uma estimativa de
+ 00:18:34
+
+quantas espécies já foram utilizadas e
+ 00:18:36
+
+como a nossa alimentação é dependente de
+ 00:18:40
+
+uma pequena parte só dessa
+ 00:18:44
+
+biodiversidade, da agrobiodiversidade
+ 00:18:47
+
+disponível no mundo. Então você tem
+ 00:18:49
+
+alguma coisa como você sabia, como te
+ 00:18:51
+
+fosse uma curiosidade que você pode
+ 00:18:53
+
+então disparar.
+ 00:18:55
+
+Além disso, você tem audio e podcasts,
+ 00:18:57
+
+não é, relacionado à temática
+ 00:18:59
+
+eh propícia no termo
+ 00:19:03
+
+adaptação. E aqui a gente tem um outro
+ 00:19:06
+
+um outro menu, não é, com seus submenus,
+ 00:19:09
+
+onde a gente reúne um uma gama enorme,
+ 00:19:12
+
+não é, de diferentes formatos que possam
+ 00:19:16
+
+ser utilizados pelos extensionistas, não é,
+ 00:19:20
+
+no seu trabalho. Então você tem o
+ 00:19:23
+
+anúncio de cursos, não é, cursos geralmente
+ 00:19:26
+
+gratuitos que eh são possíveis cursos de
+ 00:19:30
+
+ensino à distância, não é, EADs. Você tem
+ 00:19:33
+
+vídeos, áudio, podcasts, você tem
+ 00:19:36
+
+publicações, aplicativos e web stories.
+ 00:19:38
+
+Eu vou explicar um pouquinho cada um
+ 00:19:41
+
+deles depois.
+ 00:19:42
+
+Então aqui nos mais conteúdos, como eu
+ 00:19:44
+
+falei, você tem a disponibilidade de
+ 00:19:45
+
+diversos áudios e podcasts. Esse Prosa
+ 00:19:47
+
+Rural é um programa de rádio que a BRAPA
+ 00:19:51
+
+tem conduzido e tem um alcance muito,
+ 00:19:54
+
+muito interessante, não é, eh, no meio
+ 00:19:56
+
+rural.
+ 00:19:59
+
+E tem também a aplicativos em que você
+ 00:20:01
+
+tem uma descrição do para que serve esse
+ 00:20:03
+
+aplicativo, não é, da importância dele e um
+ 00:20:06
+
+botão de compartilhamento, não é, e também
+ 00:20:10
+
+a possibilidade de acessar eles
+ 00:20:12
+
+na tanto para Android quanto para iOS.
+ 00:20:16
+
+Então essa é a facilidade. São
+ 00:20:20
+
+aplicativos que t a ver com a
+ 00:20:22
+
+a temática, não é, e que podem ser úteis.
+ 00:20:26
+
+Bom, aqui gostaria de dar o crédito à
+ 00:20:30
+
+equipe que com um esforço bastante
+ 00:20:32
+
+grande desenvolveu e tem eh aprimorado
+ 00:20:35
+
+esse hub. Então, gostaria de agradecer a
+ 00:20:40
+
+Ana Paula Páquera, Ana Letícia Pegnelli,
+ 00:20:44
+
+Carolina Meira, Cristiana Andrade,
+ 00:20:46
+
+Janaína Tanuri, eh, eu que fiz parte
+ 00:20:49
+
+desse time, Magda Lima, Maissa Frigueedo
+ 00:20:52
+
+Sigueira, Maria de Cliofes elencar,
+ 00:20:57
+
+Milsa Ramos e Sandra Pereira. Então, eh
+ 00:20:59
+
+é esse conjunto de pessoas que teve eh
+ 00:21:02
+
+um imenso trabalho em procurar
+ 00:21:05
+
+materiais, disponibilizar informação em
+ 00:21:08
+
+diferentes formatos e ainda eh tentar
+ 00:21:11
+
+transformar o conhecimento científico
+ 00:21:16
+
+num maneira simples, uma linguagem eh
+ 00:21:19
+
+fácil, acessível, não é, palatável para o
+ 00:21:21
+
+nosso público
+ 00:21:25
+
+alvo. Agora eu vou dar uma
+ 00:21:26
+
+apresentada para vocês no hub de
+ 00:21:29
+
+sistemas
+ 00:21:32
+
+agroflorestais. Vocês podem ver que toda
+ 00:21:34
+
+a plataforma vai seguir uma mesma
+ 00:21:36
+
+lógica. Então ela sempre tem uma página
+ 00:21:38
+
+inicial com conteúdo eh resumido do que
+ 00:21:41
+
+você vai encontrar no
+ 00:21:45
+
+hubmenus em cada páginas. Vou dar uma
+ 00:21:51
+
+navegada aqui no rupt sistemas
+ 00:21:54
+
+agroflorestais para vocês terem ideia do
+ 00:21:57
+
+que eu tô falando. Então, como eu disse,
+ 00:21:59
+
+se você tem uma setinha, você pode ir
+ 00:22:02
+
+para um submenu e aqui tem uma
+ 00:22:03
+
+explicação do que seriam os safres
+ 00:22:06
+
+agroecológicos. Você pode eh ter
+ 00:22:08
+
+informação de um maior conhecimento do
+ 00:22:11
+
+SFS, informações sobre transição
+ 00:22:16
+
+agroecológica, troca de saberes. Um
+ 00:22:19
+
+outro aspecto também relevante,
+ 00:22:22
+
+informações sobre políticas públicas
+ 00:22:23
+
+associadas aos sistemas agroflorestais e
+ 00:22:26
+
+a legislação pertinente a esse tema.
+ 00:22:29
+
+Então, como exemplo aqui nossos
+ 00:22:34
+
+agroecológicos, se você entrar na
+ 00:22:36
+
+página, é lógico que tem um monte mais
+ 00:22:38
+
+de informação reunida. Eu trouxe só
+ 00:22:40
+
+alguns elementos aqui para exemplificar
+ 00:22:42
+
+os diferentes formatos que a gente pode
+ 00:22:45
+
+utilizar. Então aqui tem eh vídeos, não é?
+ 00:22:47
+
+Um vídeo sobre troca de saberes e
+ 00:22:50
+
+construção participativa do conhecimento
+ 00:22:52
+
+na
+ 00:22:54
+
+Agrofloresta recentemente lançado e
+ 00:22:55
+
+incorporado hub. Nós temos aqui
+ 00:22:57
+
+informações sobre a legislação, tá? Eh,
+ 00:23:00
+
+existem legislações de abrangência
+ 00:23:05
+
+nacional e outras estaduais. aqui um
+ 00:23:07
+
+exemplo onde você tem uma pequena
+ 00:23:10
+
+descrição e alguns detalhes sobre os
+ 00:23:12
+
+principais aspectos aplicados ao SFS.
+ 00:23:16
+
+Continuando no nosso
+ 00:23:21
+
+hubão. Então aqui nós fizemos uma
+ 00:23:24
+
+descrição de várias etapas, de várias
+ 00:23:26
+
+eh eh etapas mesmo que você precisa ter
+ 00:23:31
+
+atenção, não é, se você resolver eh
+ 00:23:35
+
+implantar algum sistema agroflorestal.
+ 00:23:39
+
+Então, a definição do objetivo, para que
+ 00:23:42
+
+que a gente quer esse SAF, escolha das
+ 00:23:44
+
+espécies, uma das coisas mais
+ 00:23:47
+
+importantes, porque isso vai eh depender
+ 00:23:48
+
+do seu sucesso futuro, o planejamento de
+ 00:23:52
+
+operações, prepare a dubação de solo,
+ 00:23:55
+
+plantil e semeadura, cobertura morta.
+ 00:23:58
+
+Então, além de, lembrando mais uma vez
+ 00:24:01
+
+que ao clicar em cada setinha, você vai
+ 00:24:04
+
+ter acesso a uma página repleta de
+ 00:24:07
+
+informações. Então, só para dar um
+ 00:24:10
+
+exemplo, no planejamento implantação,
+ 00:24:12
+
+você tem disponibilidade de publicações,
+ 00:24:14
+
+você tem um quadro eh sobre preparo do
+ 00:24:16
+
+solo com a
+ 00:24:20
+
+importância, descrição e aparelhos eh eh
+ 00:24:21
+
+utensílios, equipamentos necessários,
+ 00:24:27
+
+não é, para você fazer tal prática. E aqui
+ 00:24:29
+
+outras dicas também eh ressaltadas na
+ 00:24:32
+
+época de plantil. Então são formatos
+ 00:24:36
+
+diferentes em que permitem com que o
+ 00:24:38
+
+extensionista eh absorva essa prática e
+ 00:24:42
+
+envie isso por por um um uma maneira
+ 00:24:45
+
+pela internet ou por um WhatsApp que é
+ 00:24:48
+
+muito utilizado, não é, no meio rural,
+ 00:24:52
+
+facilitando o seu
+ 00:24:55
+
+trabalho. Questão de manejos, então a
+ 00:24:57
+
+gente descreve os principais manejos,
+ 00:25:00
+
+não é? Eh, nós temos uma abordagem sobre
+ 00:25:02
+
+formigas cortadeiras, um grande problema
+ 00:25:05
+
+em safs, não é, e não só em safs, mas como
+ 00:25:07
+
+na na na agricultura geral, nós temos um
+ 00:25:09
+
+uma página especial sobre a beleza sem
+ 00:25:13
+
+ferrão e a sua interação com os sistemas
+ 00:25:15
+
+agroflorestais e temos também alguma
+ 00:25:19
+
+informação sobre biodiversidade e
+ 00:25:21
+
+controle biológico. Então, nessa
+ 00:25:23
+
+sequência, só para dar um exemplo em
+ 00:25:26
+
+manejos, nós temos fotos e aqui um
+ 00:25:28
+
+alguns web stories que eu vou explicar
+ 00:25:31
+
+um pouquinho mais na frente o que
+ 00:25:33
+
+significa. eh os tipos de manejo, não é,
+ 00:25:34
+
+que que podem ser eh utilizados para
+ 00:25:38
+
+formigas, por exemplo, é uma informação
+ 00:25:42
+
+útil para para todo eh para todos os
+ 00:25:44
+
+produtores. E aqui eh bem legal esse
+ 00:25:48
+
+infográfico, é um infográfico que eh
+ 00:25:51
+
+ressalta como gerar renda por meio da
+ 00:25:54
+
+criação de abeleram. Então, ão são todos
+ 00:25:56
+
+os materiais passíveis de seres
+ 00:25:59
+
+eh repassados aos
+ 00:26:02
+
+interessados. Aspectos econômicos também
+ 00:26:06
+
+a gente traz alguma consideração sobre a
+ 00:26:08
+
+comercialização e aqui envolvendo ciclos
+ 00:26:11
+
+curtos, ciclos longos, detalhes sobre
+ 00:26:14
+
+isso, temos infográficos eh
+ 00:26:16
+
+caracterizando essas atividades,
+ 00:26:19
+
+agregação de valor e alguns resultados
+ 00:26:21
+
+econômicos dos sistemas agroflorestais.
+ 00:26:24
+
+Ah, como disse, diversos formatos.
+ 00:26:28
+
+Então, aqui tem um depoimento de sobre
+ 00:26:31
+
+diversidade e agregação de valor em
+ 00:26:35
+
+Floresta no Sítio Bela Vista, não é? Então,
+ 00:26:37
+
+é um é um vídeo que pode ser repassado
+ 00:26:40
+
+ou pode ser
+ 00:26:44
+
+eh visto dentro da plataforma também,
+ 00:26:45
+
+como eh na no YouTube. Temos áudio e
+ 00:26:48
+
+podcasts, como já foi mencionado, e
+ 00:26:52
+
+aplicativos e eh úteis para essa
+ 00:26:55
+
+atividade. Novamente no final do da
+ 00:26:59
+
+página a gente encontra os mais
+ 00:27:03
+
+conteúdos onde diversos formatos eh de
+ 00:27:05
+
+informação, não é, estão
+ 00:27:10
+
+disponíveis. Então, só para dar um
+ 00:27:13
+
+exemplo, aqui a gente tem cursos, eu só
+ 00:27:15
+
+trouxe eh dois aqui para não poluir, mas
+ 00:27:18
+
+a gente tem diversos cursos anunciados,
+ 00:27:22
+
+não é? Por sinal, esse esse curso daqui, os
+ 00:27:24
+
+sistemas agroflorestais e agroecológicos
+ 00:27:28
+
+na Mata Atlântica, foi recentemente
+ 00:27:30
+
+lançado pelo grupo do núcleo de
+ 00:27:32
+
+agroecologia aqui da EBRAP Meio
+ 00:27:35
+
+Ambiente. Eh, sem dúvida um um muito
+ 00:27:36
+
+interessante e recomendável para que as
+ 00:27:40
+
+pessoas que têm interesse nessa temática
+ 00:27:43
+
+assistam. Como eu falei, diversos vídeos
+ 00:27:46
+
+disponíveis. Isso é só parte do que do
+ 00:27:48
+
+que tá disponível, não é? Se vocês
+ 00:27:51
+
+perceberem aqui tem um botãozinho, não é?
+ 00:27:53
+
+Eu não consigo clicar porque isso aqui é
+ 00:27:56
+
+simplesmente um print, mas se você
+ 00:27:57
+
+clicar aqui, você consegue disparar esse
+ 00:28:00
+
+material por WhatsApp, por Facebook,
+ 00:28:03
+
+pelo X, entende? então, usar essa
+ 00:28:06
+
+distribuição víde.
+ 00:28:10
+
+Quero agradecer aqui também a equipe de
+ 00:28:15
+
+dos sistemas agroforestais que com a sua
+ 00:28:18
+
+experiência e conhecimento geraram esse
+ 00:28:21
+
+produto. Então, a Carolina Meira, a
+ 00:28:24
+
+Giane Prado, Joel Queiroga, Ktia Praga,
+ 00:28:28
+
+eu participei também o Luís Ramos Filho,
+ 00:28:32
+
+Maía
+ 00:28:36
+
+Siqueira, o Marcos Correa Neves, a Maria
+ 00:28:37
+
+Cliofas de Alencar e o Valdem Moricone.
+ 00:28:41
+
+Então são são pessoas que dedicaram seu
+ 00:28:46
+
+tempo e pelo que eu agradeço imensamente
+ 00:28:48
+
+pela contribuição e pelo resultado do
+ 00:28:51
+
+trabalho
+ 00:28:53
+
+alcançado. E agora, eh, caminhando para
+ 00:28:54
+
+o último, por enquanto, o último hub,
+ 00:28:58
+
+vamos dizer assim, o o mais novo hub
+ 00:29:02
+
+lançado pela Embrapa Meio Ambiente, que
+ 00:29:06
+
+trata de sistemas agrícolas
+ 00:29:08
+
+tradicionais. Esse hub é focado eh nos
+ 00:29:10
+
+povos tradicionais, não é, povos e
+ 00:29:15
+
+comunidades tradicionais. E
+ 00:29:17
+
+particularmente este hub a gente focou
+ 00:29:20
+
+nas populações
+ 00:29:22
+
+indígenas, nas populações quilombolas e
+ 00:29:24
+
+nos caiçares. É o fôco que nós tivemos
+ 00:29:27
+
+até o momento. Mas só para curiosidade,
+ 00:29:29
+
+existem reconhecidos pelo governo
+ 00:29:32
+
+brasileiro 28 povos e comunidades
+ 00:29:34
+
+tradicionais. Então ele segue a mesma a
+ 00:29:36
+
+mesma sequência. a mesma eh montagem
+ 00:29:39
+
+onde você tem uma página inicial com
+ 00:29:44
+
+diversas informações e depois esses
+ 00:29:46
+
+menus se dividindo em submenus, como eu
+ 00:29:50
+
+vou eh
+ 00:29:53
+
+apresentar. Então, que são sites? uma
+ 00:29:54
+
+explicação disso, qual a sua
+ 00:29:57
+
+importância, quais são os povos e
+ 00:29:58
+
+comunidades tradicionais reconhecidos no
+ 00:30:00
+
+Brasil e legislações e políticas
+ 00:30:03
+
+públicas pertinentes a esse essas
+ 00:30:05
+
+comunidades. Então aqui você tem eh
+ 00:30:10
+
+informações, você tem curiosidades,
+ 00:30:13
+
+publicações, a legislação, como eu
+ 00:30:15
+
+falei, apenas uma parte do que a gente
+ 00:30:17
+
+tem de conteúdo para ser explorado.
+ 00:30:20
+
+Agro biodiversidade trata de temas como
+ 00:30:24
+
+soberania alimentar, manejo da
+ 00:30:27
+
+agrobiodiversidade, obviamente voltado
+ 00:30:30
+
+para essas comunidades, não é, e a
+ 00:30:33
+
+conservação de seus recursos genéticos.
+ 00:30:36
+
+Então aqui você tem algumas
+ 00:30:38
+
+informações, por exemplo, isso aqui é é
+ 00:30:42
+
+uma tabela como assim como o
+ 00:30:44
+
+extensionista pode trabalhar melhor com
+ 00:30:46
+
+a agro biodiversidade. E a gente traz
+ 00:30:48
+
+aqui uma série de eh itens em que ele
+ 00:30:50
+
+pode se inspirar e entender como ele
+ 00:30:54
+
+pode atuar nesse sentido, não é? Eh,
+ 00:30:56
+
+lembre-se quando tem setinha aqui vai
+ 00:30:59
+
+ser estático, eu não consigo, mas tem
+ 00:31:01
+
+setinha, tem mais informações
+ 00:31:03
+
+abaixo. Ah, aqui outros exemplos, não é?
+ 00:31:06
+
+Exemplos de de informações
+ 00:31:10
+
+interessantes, não é? De manejo tradicional
+ 00:31:13
+
+da agrobiodiversidade, não é? Aqui tem
+ 00:31:15
+
+algumas coisas de populações indígenas,
+ 00:31:17
+
+tem dos quilombolas, não é? Eh, com vários
+ 00:31:20
+
+formatos disponíveis e vídeos, não é? aqui
+ 00:31:23
+
+particularmente dois vídeos eh
+ 00:31:26
+
+relacionados à populações indígenas eh
+ 00:31:29
+
+com a enorme contribuição do nosso
+ 00:31:32
+
+colega eh da Embrapa Recluso e
+ 00:31:34
+
+Biotecnologia, Fábio Freitas, uma
+ 00:31:36
+
+expertise imensa no trabalho, eh,
+ 00:31:40
+
+principalmente no Parque do
+ 00:31:43
+
+Xingu. Continuando, a gente traz também
+ 00:31:46
+
+alguns aspectos econômicos ligados a
+ 00:31:49
+
+essas comunidades, como a valorização
+ 00:31:51
+
+dos seus produtos, a organização social
+ 00:31:53
+
+e produtiva e turismo de base
+ 00:31:55
+
+comunitária, que é uma forma de renda.
+ 00:31:58
+
+Então aqui a gente tem alguns exemplos
+ 00:32:00
+
+de como essas populações têm tentado
+ 00:32:01
+
+angarear eh renda, não é? E um deles de
+ 00:32:05
+
+bastante utilidade hoje é o turismo, não é?
+ 00:32:09
+
+A gente tem diversas publicações e a
+ 00:32:13
+
+gente também tem indicação de alguns
+ 00:32:15
+
+painéis com informações, como assim,
+ 00:32:17
+
+você já conhece o painelo da floresta
+ 00:32:19
+
+que tem informações bastante ricas sobre
+ 00:32:21
+
+as florestas do nosso
+ 00:32:24
+
+país. Ah, um ponto alto do que a gente
+ 00:32:27
+
+considera, que a gente conseguiu trazer
+ 00:32:31
+
+pro pro HB de sistemas agrícolas
+ 00:32:33
+
+tradicionais são essas dicas para ter
+ 00:32:35
+
+aqui. a experiência desses desses
+ 00:32:39
+
+pesquisadores ou desses profissionais
+ 00:32:41
+
+que trabalharam para construir isso, eh
+ 00:32:43
+
+foi na tentativa de informar diversas eh
+ 00:32:46
+
+peculiaridades, não é, eh ou eh
+ 00:32:51
+
+adversidades e que talvez eh o
+ 00:32:55
+
+extensionista possa encontrar com esse
+ 00:32:58
+
+trabalho quando trata com eh povos e
+ 00:32:59
+
+comunidades tradicionais. Então, qual é
+ 00:33:02
+
+o cronograma de trabalho? Nem sempre eh
+ 00:33:04
+
+esse cronograma ele
+ 00:33:08
+
+é realizado ou cumprido a contento.
+ 00:33:10
+
+Existem muitas interperes, eh
+ 00:33:14
+
+especialmente quando você faz uma viagem
+ 00:33:17
+
+a campo para essas comunidades, não é?
+ 00:33:19
+
+Então essa é uma questão sempre tem em
+ 00:33:21
+
+em em mente. A outra é saber, eu tenho
+ 00:33:24
+
+perfil pro trabalho proposto. A
+ 00:33:27
+
+realidade nessas comunidades é muito
+ 00:33:29
+
+muito diferente da realidade do mundo
+ 00:33:32
+
+urbano. Então, eh privações podem ser eh
+ 00:33:34
+
+enfrentadas, eh adversidades como, não é,
+ 00:33:40
+
+eh insetos, aranha, escorpiões, até
+ 00:33:44
+
+onças, dependendo de onde você estiver.
+ 00:33:46
+
+Eh, várias dicas. ou percepções que esse
+ 00:33:49
+
+grupo de de profissionais trouxe para
+ 00:33:54
+
+alerta nessas atividades. Aqui também,
+ 00:33:57
+
+continuando a parte de dicas para ter, a
+ 00:34:01
+
+gente tem qual o nível de envolvimento
+ 00:34:03
+
+da comunidade. Esse é fundamental porque
+ 00:34:05
+
+se essa comunidade não estiver e não
+ 00:34:07
+
+participar do desenvolvimento desse
+ 00:34:09
+
+trabalho, é muito difícil que esse
+ 00:34:11
+
+extensionista tenha sucesso na sua
+ 00:34:15
+
+atividade. E além de tudo sempre lembrar
+ 00:34:16
+
+que quando você trabalha com essas
+ 00:34:19
+
+comunidades, povos tradicionais, o bom
+ 00:34:21
+
+senso e o respeito devem pautar o seu
+ 00:34:24
+
+trabalho, tá? Então tão são informações
+ 00:34:26
+
+preciosas que a gente reuniu e acho que
+ 00:34:29
+
+esse é um dos pontos altos desse hub de
+ 00:34:31
+
+sistemas agrícolas tradicionais. Aqui eu
+ 00:34:34
+
+trouxe um exemplo, não é, que é um exemplo
+ 00:34:37
+
+de um web stories que eu vou relatar
+ 00:34:39
+
+abaixo, que é o exemplo do impacto da
+ 00:34:40
+
+introdução de um novo tipo de mandioca
+ 00:34:43
+
+no auto xingu, não é? Então aqui vocês têm
+ 00:34:45
+
+o que eu mencionei de web stories e
+ 00:34:49
+
+traduzindo, esse é um formato de
+ 00:34:52
+
+conteúdo parecido com status do
+ 00:34:54
+
+WhatsApp, não é? Eles possuem um estilo de
+ 00:34:55
+
+carrosselo, ou seja, eh é como se fosse
+ 00:34:58
+
+um filminho, não é? Se você tiver, vocês já
+ 00:35:01
+
+viram isso, provavelmente em vários
+ 00:35:03
+
+jornais de de pela internet hoje ou nas
+ 00:35:05
+
+páginas desses jornais, há essa
+ 00:35:08
+
+disponibilidade de de web stories, tá?
+ 00:35:11
+
+Eh, eles eles são então eh um estilo de
+ 00:35:14
+
+carrossel onde diversas imagens e textos
+ 00:35:18
+
+vão ser eh mencionados, não é? Então, por
+ 00:35:21
+
+for esses micronteúdos. E aqui então
+ 00:35:25
+
+você tem uma imagem de mandioca e e
+ 00:35:28
+
+começa a contar uma historinha, não é? O
+ 00:35:31
+
+impacto da introdução de novo tipo de
+ 00:35:33
+
+mandioca no alto Xingu. Ah, só por
+ 00:35:35
+
+curiosidade, o Xingu sempre cultivou
+ 00:35:38
+
+mandioca brava e eles tinham eles têm,
+ 00:35:40
+
+não é? eles não tinham, eles têm um
+ 00:35:43
+
+processo para tirar essa eh eh digamos o
+ 00:35:45
+
+o
+ 00:35:51
+
+eh a toxicidade, não é, da mandioca brava
+ 00:35:52
+
+para poder, senão ela é perigosa, para
+ 00:35:56
+
+consumo. E teve uma época que foi
+ 00:35:57
+
+introduzida a mandioca mansa, o IPIM,
+ 00:36:00
+
+macaxeira, como muitas regiões se
+ 00:36:02
+
+conhecem. E aí houve a confusão que
+ 00:36:04
+
+algumas aldeias se se equivocaram e
+ 00:36:06
+
+houve muita morte, não é, por achar que
+ 00:36:08
+
+tava comendo uma um uma mandioca mansa e
+ 00:36:11
+
+tava comendo, na verdade, uma mandioca
+ 00:36:13
+
+brava. Então, nessa história eh dessa
+ 00:36:15
+
+introdução, os líderes das aldeias se
+ 00:36:18
+
+reuniram e proibiram o uso de mandioca
+ 00:36:21
+
+mansa no Alto Xingu, preservando assim
+ 00:36:23
+
+ah todo o o a expertise, não é, o
+ 00:36:27
+
+conhecimento deles e o preparo
+ 00:36:30
+
+tradicional da mandioca. Então são
+ 00:36:32
+
+histórias como essas bem interessantes
+ 00:36:34
+
+que a gente também
+ 00:36:36
+
+disponibiliza. Ehã e novamente,
+ 00:36:38
+
+finalmente aqui a a parte de mais
+ 00:36:40
+
+conteúdos, onde a gente já menciona
+ 00:36:43
+
+diferentes formatos, que esses vão ser
+ 00:36:45
+
+materiais importantes para os
+ 00:36:48
+
+extensionistas complementarem as suas
+ 00:36:51
+
+atividades. Então, temos diversas
+ 00:36:53
+
+publicações, diversos web stories com
+ 00:36:55
+
+informações e contando um pouco das
+ 00:36:58
+
+histórias desses povos tradicionais, tá
+ 00:37:00
+
+certo? Ah, eu agora agradeço imensamente
+ 00:37:03
+
+a expertise e a contribuição do Artur
+ 00:37:08
+
+Rosa, do Bruno Escarazate, da Carolina
+ 00:37:12
+
+Baldim Meira, do Fábio de Freitas, eu
+ 00:37:14
+
+participei também e da Maía Sequeira.
+ 00:37:18
+
+Eh, uma ressalva aqui em todas essas
+ 00:37:21
+
+equipes. Vocês viram constar a Carolina,
+ 00:37:23
+
+eh, e a Maissa. E elas são duas
+ 00:37:27
+
+bolsistas desse projeto. Eh, estão
+ 00:37:29
+
+comigo num trabalho árduo desde 2021,
+ 00:37:33
+
+pelo que eu tenho a imenso prazer e
+ 00:37:38
+
+consideração e gostaria de deixar um
+ 00:37:41
+
+agradecimento especial a Carolina e a
+ 00:37:44
+
+Maissa. Meu muito
+ 00:37:46
+
+obrigado. E aqui só para trazer uma uma
+ 00:37:48
+
+informação recente, isso não tá
+ 00:37:52
+
+publicado ainda, mas é só ah para
+ 00:37:54
+
+mostrar ou para evidenciar
+ 00:37:59
+
+potencialidades da plataforma AT mais
+ 00:38:00
+
+digital. Nós recentemente fizemos eh
+ 00:38:03
+
+recentemente não, no segundo semestre do
+ 00:38:07
+
+ano passado, nós realizamos um projeto
+ 00:38:08
+
+piloto de ATER Digital com a empresa de
+ 00:38:10
+
+pesquisa agropecuária e extensão Rural
+ 00:38:13
+
+de Santa Catarina. conhecida de muitos,
+ 00:38:15
+
+agrama Ter mais Digital. Foram
+ 00:38:19
+
+trabalhados nesse projeto piloto de
+ 00:38:22
+
+Ether Digital eh um total de
+ 00:38:24
+
+participantes de 17 extensionistas e 74
+ 00:38:27
+
+produtores, utilizando a cadeia de
+ 00:38:31
+
+apicultura, não é, e a cadeia de batata
+ 00:38:33
+
+doce. Foram só dois hubs, mas como era
+ 00:38:36
+
+uma coisa experimental e exploratória, a
+ 00:38:39
+
+gente decidiu fazer essa esse corte e
+ 00:38:42
+
+testar só com essas duas cadeias. Então,
+ 00:38:46
+
+em apicultura participaram cinco
+ 00:38:48
+
+extensionistas e 50 produtores e na
+ 00:38:50
+
+cadeia de batata doce 12 extensionistas
+ 00:38:52
+
+e 24 produtores. Isso aqui é um
+ 00:38:55
+
+resultado que nos traz muita alegria,
+ 00:38:58
+
+porque no comparativo do mesmo período
+ 00:39:02
+
+de 2023 para
+ 00:39:07
+
+2024, com a utilização desta metodologia
+ 00:39:09
+
+como complemento a ter presencial, nós
+ 00:39:14
+
+tivemos um aumento de
+ 00:39:17
+
+148% no número de atendimentos em apenas
+ 00:39:19
+
+3 meses.
+ 00:39:22
+
+Esse é um é é um é um um ganho muito
+ 00:39:24
+
+grande e vem constatar aquilo que no
+ 00:39:29
+
+início da plataforma era a nossa
+ 00:39:32
+
+vontade, fazer com que um maior número
+ 00:39:35
+
+de agricultores sejam atendidos pelos
+ 00:39:38
+
+serviços de extensão rural. E a gente vê
+ 00:39:42
+
+na possibilidade de usos da CTDCs um
+ 00:39:45
+
+imenso potencial disso acontecer. Então
+ 00:39:49
+
+aqui já tá um retrato muito simples, mas
+ 00:39:52
+
+que demonstra um grande potencial. Além
+ 00:39:55
+
+disso, um outro comentário pelo Darlan
+ 00:39:58
+
+Marquese da Hepágra extensionista foi a
+ 00:40:01
+
+ele verificou que com essa iniciativa
+ 00:40:06
+
+houve a possibilidade de trocas de
+ 00:40:08
+
+materiais genéticos entre os
+ 00:40:10
+
+agricultores. Então ele descreve aqui
+ 00:40:11
+
+que o acesso a essas variedades somente
+ 00:40:13
+
+foi possível por meio desta iniciativa
+ 00:40:15
+
+da terra digital. Os agricultores, ao
+ 00:40:17
+
+receberem vídeos do projeto sobre o
+ 00:40:20
+
+tema, se motivaram a produzir mudas de
+ 00:40:22
+
+batata doce dentro de abrigos e vasos,
+ 00:40:26
+
+como também de compartilhar suas
+ 00:40:29
+
+próprias variedades e de receberem
+ 00:40:30
+
+outros materiais de produtores de
+ 00:40:32
+
+diferentes localidades. Esse foi um
+ 00:40:34
+
+ganho. E além disso, essa metodologia de
+ 00:40:36
+
+produção de mudas foi trazida para
+ 00:40:39
+
+dentro da Embrapa, eh, da Embrapa, não,
+ 00:40:41
+
+perdão, da Ipagre, não é, dentro da Ipagre.
+ 00:40:43
+
+eh e esses extensionistas começaram a
+ 00:40:47
+
+pesquisar esse desenvolvimento de mudas
+ 00:40:50
+
+em abrigos. Então, eh são duas dois
+ 00:40:53
+
+resultados eh fantásticos que esse breve
+ 00:40:56
+
+eh projeto piloto eh nos proporcionou.
+ 00:41:01
+
+E eu encerro por aqui minha minha
+ 00:41:06
+
+participação. Gostaria novamente de
+ 00:41:08
+
+agradecer ao professor Luim e ao
+ 00:41:12
+
+professor Ezequiel pela oportunidade que
+ 00:41:14
+
+me foi dada de apresentar esse trabalho
+ 00:41:17
+
+realizado pela minha ambiente e desejar
+ 00:41:19
+
+que todos eh acessem, utilizem e
+ 00:41:24
+
+desfrutem desse esforço que foi feito
+ 00:41:27
+
+com muito esmero e muita competência
+ 00:41:31
+
+pelos participantes dessas atividades.
+ 00:41:33
+
+Muito obrigado e fico à disposição.
+ 00:41:36
+
+Muito bom, Luciano, parabéns aí pela
+ 00:41:40
+
+grande apresentação. Aí nós estamos
+ 00:41:43
+
+vendo aí a ponta de lança, como diz o
+ 00:41:45
+
+Zuin, na extensão rural no Brasil aí,
+ 00:41:47
+
+não é? Isso aí é revolucionário, não é? Se nós
+ 00:41:50
+
+formos pensar aí toda toda a nossa
+ 00:41:54
+
+história da extensão rural. Então,
+ 00:41:57
+
+parabenizar e a live tá chamando muita
+ 00:41:58
+
+atenção, tem muita gente de tudo que é
+ 00:42:01
+
+lugar, tem várias perguntas, coisa boa
+ 00:42:03
+
+vai facilitar minha vida hoje aqui. A
+ 00:42:06
+
+galera tá bem interessada, então
+ 00:42:08
+
+parabéns mesmo, Luciano. Foi uma assim,
+ 00:42:10
+
+ó, tudo que você apresentou aqui,
+ 00:42:12
+
+algumas coisas a gente já passou nos
+ 00:42:14
+
+grupos do WhatsApp aqui, porque elas são
+ 00:42:16
+
+muito interessantes, que a gente tem
+ 00:42:19
+
+trabalhando em aula também. E e essa
+ 00:42:21
+
+essa questão da gente dar um passo a
+ 00:42:23
+
+mais na extensão oral. E esse aqui é um
+ 00:42:25
+
+passo bem robusto aí e a tua liderança
+ 00:42:27
+
+junto com toda a equipe aí tem
+ 00:42:31
+
+contribuído muito nessa nessa
+ 00:42:32
+
+disseminação de conteúdos da área de
+ 00:42:35
+
+extensão rural. Bem aqui a galera do zap
+ 00:42:37
+
+rural, pessoal da Ipagre, Felipe, André
+ 00:42:40
+
+presente, o Júnior, o Walter Bianquini,
+ 00:42:44
+
+obrigado pela presença novamente,
+ 00:42:47
+
+Walter, o Gilmar aqui, é o Gilmar,
+ 00:42:49
+
+Gilmar, nosso professor aí da
+ 00:42:51
+
+Universidade do Estado do Mato Grosso,
+ 00:42:53
+
+agronomia, campus Tangará da Sera tá,
+ 00:42:54
+
+então tem muita gente presente aqui. Eh,
+ 00:42:57
+
+o Bert também presente que é o pessoal
+ 00:43:00
+
+do portal R7. Obrigado aí pela galera aí
+ 00:43:03
+
+que tá ouvindo nós nesse momento,
+ 00:43:06
+
+escutando aí as reflexões aí do Luciano
+ 00:43:08
+
+e o Ebert já faz o primeiro comentário
+ 00:43:11
+
+aqui, ó. Muito bom, Luciano. Importante
+ 00:43:14
+
+iniciativa dessa parceria da Embrapa com
+ 00:43:17
+
+organizações de ATER. Importante que
+ 00:43:20
+
+possamos disponibilizar informações
+ 00:43:22
+
+qualificadas aos extensionistas e os
+ 00:43:25
+
+agricultores. Muito obrigado pelo
+ 00:43:28
+
+comentário, vou passar aqui a Jéssica,
+ 00:43:31
+
+nossa doutorando no PP GTS da Upscar,
+ 00:43:33
+
+sempre presente, a nossa nova nova nova
+ 00:43:37
+
+assídua de toda a quarta-feira aqui.
+ 00:43:42
+
+nosso grande doutor aqui, recém-doutor,
+ 00:43:44
+
+não é, Gabriel Aroi também com a tese dele
+ 00:43:47
+
+em AT digital, muito relevante, várias
+ 00:43:49
+
+publicações saindo. E o Gilmar aqui faz
+ 00:43:52
+
+a a primeira questão provocativa aqui
+ 00:43:55
+
+pro Luciano sobre o momento que ele
+ 00:43:57
+
+comenta sobre a ter participativa,
+ 00:44:01
+
+dialógica e interdisciplinar, como a ter
+ 00:44:04
+
+digital permite o atendimento a esses
+ 00:44:07
+
+princípios enunciados na PENATER.
+ 00:44:10
+
+É contigo, Luciano.
+ 00:44:14
+
+Bom, Gara, a gente tem a participação de
+ 00:44:18
+
+diversas diversas instituições na no
+ 00:44:21
+
+desenvolvimento desses hubs, não é? A gente
+ 00:44:24
+
+tem contato também com agricultores e
+ 00:44:26
+
+agricultoras. Eh, então a gente
+ 00:44:30
+
+preconiza isso, não é? E eh todo esse
+ 00:44:33
+
+material ele não é estático, ele é um
+ 00:44:35
+
+material em construção, não é? Então é ela
+ 00:44:37
+
+tem a gente tem esse diálogo, não é? ela é
+ 00:44:41
+
+interdisciplinar porque ela envolve um
+ 00:44:43
+
+monte de temas, cadeias e e aspectos,
+ 00:44:45
+
+nãoé? Acho que é por aí.
+ 00:44:49
+
+Muito bem. O o Felipe do da eu falei o
+ 00:44:53
+
+Felipe do Zaper Rural, o Felipe da
+ 00:44:58
+
+Ipagre, não é? Felipe da Ipagre, que os
+ 00:45:00
+
+criadores do Zapural, ele faz uma
+ 00:45:03
+
+questão bem bem interessante, não é? E a
+ 00:45:05
+
+proposta de de um hub centralizado com
+ 00:45:08
+
+informações agropecuárias para todo o
+ 00:45:10
+
+Brasil é excelente. O sistema vai
+ 00:45:12
+
+considerar as diferenças regionais do
+ 00:45:14
+
+país, como clima, solo, realidades
+ 00:45:16
+
+produtivas, não é? A gente trabalha com
+ 00:45:19
+
+essa questão da fruticultura aqui no sul
+ 00:45:21
+
+do país, não é? Futicultura é um cenário
+ 00:45:22
+
+que envolve muito isso. Tá contigo.
+ 00:45:25
+
+Beleza, Felipe, obrigado da pergunta.
+ 00:45:29
+
+Ela é muito pertinente e a gente sabe o
+ 00:45:31
+
+contraste que a gente tem dentro do
+ 00:45:33
+
+país, a grandeza do nosso Brasil. E tem
+ 00:45:36
+
+sim, eh, você tem, eh, se você entrar no
+ 00:45:38
+
+rub de mandioca, você tem informações eh
+ 00:45:42
+
+que são direcionadas para determinadas
+ 00:45:46
+
+regiões. Ah, e nós temos essa
+ 00:45:49
+
+preocupação cada vez maior. Eh, eu acho
+ 00:45:52
+
+que o com as atividades em andamento e
+ 00:45:54
+
+com a progressão das informações dentro
+ 00:45:57
+
+da plataforma, com certeza a gente
+ 00:46:00
+
+precisa dessas dessa regionalização de
+ 00:46:02
+
+informações, não é? A necessidade de um
+ 00:46:05
+
+agricultor do Sul é bem diferente da
+ 00:46:07
+
+necessidade de um agricultor do
+ 00:46:09
+
+Nordeste. A gente tem plena consciência
+ 00:46:11
+
+disso e a gente tem isso em mente e a
+ 00:46:12
+
+gente vai perseguir esse objetivo.
+ 00:46:15
+
+Muito bom. O Gilmar aqui eu vou vou
+ 00:46:18
+
+trocar a ordem dos comentários. Gilmar
+ 00:46:21
+
+comentou aqui. Obrigado, Luciano. Agora
+ 00:46:23
+
+estou conversando com o Raimund do Azap,
+ 00:46:25
+
+não é? Sabatinando sobre a centricultura.
+ 00:46:27
+
+Eu também tava conversando com ele essa
+ 00:46:30
+
+semana. Muito legal o lançamento do do
+ 00:46:32
+
+Raimundo aí. Muito bacana essa
+ 00:46:35
+
+iniciativa aí. Tomara que ela vingue
+ 00:46:37
+
+bastante e que seja usada bastante pelos
+ 00:46:39
+
+produtores também, não é? Isso é
+ 00:46:42
+
+importante. Deixa eu achar aqui a
+ 00:46:44
+
+próxima. A próxima é do
+ 00:46:46
+
+Ebert. Ebert diz o seguinte: "Oi,
+ 00:46:48
+
+Luciano, como se dá a estratégia de
+ 00:46:50
+
+governança e a participação da Anater e
+ 00:46:53
+
+Asbraer no planejamento do plano de
+ 00:46:57
+
+trabalho das atividades do ATER mais
+ 00:47:00
+
+digital?
+ 00:47:02
+
+Oi, R. Bom dia. Eh, a gente tem definido
+ 00:47:06
+
+a governança, ela foi estabelecida
+ 00:47:09
+
+recentemente, então a gente tem um
+ 00:47:12
+
+comitê diretivo onde todas as
+ 00:47:14
+
+instituições que eu coloquei ali no
+ 00:47:16
+
+início da apresentação tem a sua
+ 00:47:18
+
+participação. E nós temos um
+ 00:47:20
+
+comitê gestor da plataforma, não é, que
+ 00:47:23
+
+congrega a Embrapa e a Anatera. Então,
+ 00:47:27
+
+essas instituições estão presentes, não é?
+ 00:47:32
+
+esse comitê gestor eh tem a finalidade
+ 00:47:34
+
+de de fazer essa esse planejamento e os
+ 00:47:40
+
+planos de trabalho, não é, anuais para que
+ 00:47:43
+
+o comitê diretivo bata o martelo e a
+ 00:47:46
+
+gente esteja num caminho certo. Então,
+ 00:47:50
+
+além disso, existem abaixo do comitê
+ 00:47:53
+
+gestor ou vinculados a ele outros
+ 00:47:55
+
+núcleos eh, como de planejamento,
+ 00:47:58
+
+avaliação e monitoramento, eh um núcleo
+ 00:48:01
+
+de
+ 00:48:05
+
+comunicação, eh um núcleo de parcerias e
+ 00:48:06
+
+um núcleo de tecnologia de gente da
+ 00:48:10
+
+informação mais ligado a TI. Então, a
+ 00:48:13
+
+governança ela existe, eu não quis
+ 00:48:15
+
+entrar nesse detalhe, mas eh ela está em
+ 00:48:17
+
+em pleno andamento.
+ 00:48:20
+
+Muito bom. Muito bom. Agora nós temos o
+ 00:48:23
+
+comentário da Aline Branquinho. Zuinho,
+ 00:48:25
+
+olha só, isso aqui é igual caminhada na
+ 00:48:27
+
+natureza. Depois que tu faz a primeira,
+ 00:48:29
+
+tu sempre volta, não é? A Line Brqu já foi
+ 00:48:31
+
+nossa convidada aqui também, já tem live
+ 00:48:34
+
+aqui no canal. Eu tô eu tô brincando
+ 00:48:36
+
+para dizer assim, toda a galera que já
+ 00:48:38
+
+participou aqui tá sempre eh dialogando
+ 00:48:41
+
+conosco, então é muito legal. Ezequiel,
+ 00:48:44
+
+só queria comentar eh a Alinha, que bom
+ 00:48:46
+
+que ela apareceu aí e tava assistindo e
+ 00:48:49
+
+ela é a nossa comandante, ela coordena a
+ 00:48:52
+
+o comitê gestor da plataforma até mais
+ 00:48:56
+
+digital e também ela coordena eh a
+ 00:48:59
+
+iniciativa do e-campo, não é, que são os
+ 00:49:03
+
+cursos eh à distância promovidos pela
+ 00:49:05
+
+Embrapa. Então, muito obrigado. Eu acho
+ 00:49:08
+
+que a gente tá aí num caminho de esforço
+ 00:49:11
+
+conjunto de uma parceria muito rica.
+ 00:49:13
+
+Não, é muito importante e a a plataforma
+ 00:49:16
+
+e campo quando ela apresentou, quem não
+ 00:49:19
+
+assistiu essa live vai ali no canal e
+ 00:49:20
+
+assiste aqui nesse mesmo canal aqui.
+ 00:49:22
+
+Fica muito bom. A gente, eu repliquei
+ 00:49:25
+
+muito essa live da Aline também porque
+ 00:49:26
+
+ela precisa ser bem divulgado isso, não é?
+ 00:49:30
+
+Porque tem um conteúdo muito bacana ali,
+ 00:49:32
+
+não é? Então, muito legal a iniciativa.
+ 00:49:35
+
+Isso precisa ser feito, alguém precisa
+ 00:49:37
+
+fazer, não é? BRAPA tá assumindo essa essa
+ 00:49:40
+
+essa chamada aí, não é? Ezequiel, queria
+ 00:49:43
+
+também fazer uma menção e e já que as
+ 00:49:46
+
+pessoas eh quem assistiu ou quem vai
+ 00:49:49
+
+assistir por vídeo depois eh da
+ 00:49:51
+
+importância de assistir da live da
+ 00:49:53
+
+semana passada, onde o o Leandro, a
+ 00:49:55
+
+Flávia e o Felipe fizeram uma tremenda
+ 00:49:59
+
+eh palestra com dicas, mostrando coisas
+ 00:50:03
+
+eh reais, não é? Eh sobre a possibilidade
+ 00:50:08
+
+de mídias eh de utilização de mídias eh
+ 00:50:11
+
+na Terra. eh, digital. Então fica aqui a
+ 00:50:14
+
+recomendação e a gente sempre aprende,
+ 00:50:17
+
+não é, e pode incorporar essas essas
+ 00:50:21
+
+informações no nosso trabalho. Ah, isso
+ 00:50:24
+
+é verdade. Eu eu já acho que não não dá
+ 00:50:26
+
+para botar muito extensionista junto.
+ 00:50:29
+
+Eles falam demais. Foi duas horas aquela
+ 00:50:31
+
+live, mas foi 2 horas de muito
+ 00:50:33
+
+conhecimento. A sorte que eu fiquei
+ 00:50:35
+
+quieto, não é? Porque imagina se eu fosse
+ 00:50:37
+
+abrir a boca. Não tô brincando, gente.
+ 00:50:39
+
+Mas só para deixar mais descontraído o
+ 00:50:41
+
+espaço, mas realmente ali estão
+ 00:50:43
+
+aplicando e avaliando e vendo se dá
+ 00:50:45
+
+certo, que dá certo, que dá errado, não é?
+ 00:50:47
+
+Aonde alcança mais, aonde alcança menos,
+ 00:50:50
+
+qual o impacto. Essa galera ali tem uma
+ 00:50:52
+
+métrica muito boa também. E a e a Aline
+ 00:50:54
+
+falou o seguinte: "Luciano, parabéns
+ 00:50:57
+
+pela liderança e comprometimento com
+ 00:50:59
+
+esses resultados e ela continua. O
+ 00:51:01
+
+Atterm Digital já tem se demonstrado uma
+ 00:51:04
+
+poderosa ferramenta para auxiliar o
+ 00:51:06
+
+trabalho dos extensionistas. Informação
+ 00:51:08
+
+confiável com linguagem adequada na
+ 00:51:10
+
+palma da sua mão. Isso aí. Muito bom.
+ 00:51:12
+
+Al, mas é isso aí mesmo. A gente precisa
+ 00:51:15
+
+é é uma é uma maneira prática e lembrar
+ 00:51:17
+
+que ela tá disponível
+ 00:51:21
+
+eh paraa desktop e tá disponível no
+ 00:51:23
+
+celular. Então ela já foi adequada para
+ 00:51:26
+
+uso em celular, não é? Mas muito importante
+ 00:51:30
+
+essa questão da adequação ao celular.
+ 00:51:32
+
+Olha aqui, ó, a Maissa presente. Eu
+ 00:51:34
+
+disse, ó, quem v, quem vê em volta, não é,
+ 00:51:36
+
+Rodrigo também com teve uma grande live
+ 00:51:38
+
+aí. Assisto a live do Rodrigo também,
+ 00:51:40
+
+muito legal. E aqui o nosso grande
+ 00:51:42
+
+doutor a Gabriel Arroio, que defendeu
+ 00:51:45
+
+sua tese recentemente, ele diz o
+ 00:51:47
+
+seguinte: "Excelente conteúdo e
+ 00:51:49
+
+estrutura dos hubs. Parabéns a toda a
+ 00:51:52
+
+equipe. Como
+ 00:51:54
+
+ocorevos hubs? por onde acontece o
+ 00:51:59
+
+feedback dos usuários. Obrigado,
+ 00:52:03
+
+Gabriel. Eh, uma grande grande pergunta.
+ 00:52:06
+
+a gente tem disponibilizado eh a
+ 00:52:09
+
+informação através do canal de WhatsApp,
+ 00:52:11
+
+não é, que que tem eh como eu mostrei, QR
+ 00:52:13
+
+Code. Além disso, para vários para
+ 00:52:18
+
+várias as várias unidades da Embrapa,
+ 00:52:22
+
+eh, também promovem o compartilhamento
+ 00:52:26
+
+dos seus respectivos hubs, tá? E eh
+ 00:52:29
+
+então essa essa é uma oportunidade e eu
+ 00:52:33
+
+particularmente acredito que ainda nós
+ 00:52:39
+
+temos um caminho a trilhar para essa
+ 00:52:41
+
+divulgação e a gente tem consciência
+ 00:52:43
+
+disso e pretende fazer um um esforço
+ 00:52:45
+
+maior nesse tema de comunicação. O
+ 00:52:49
+
+feedback dos usuários, nós temos hoje a
+ 00:52:51
+
+alternativa de de um saque na página da
+ 00:52:53
+
+da plataforma, mas a tendência é que a
+ 00:52:57
+
+gente possa viabilizar até um contato eh
+ 00:53:01
+
+eh onde você haja uma interação mais
+ 00:53:05
+
+direta com usuários. a gente sabe disso,
+ 00:53:08
+
+mas por limitações iniciais a gente não
+ 00:53:10
+
+foi eh não tivemos essa essa eh não
+ 00:53:13
+
+conseguimos fazer esse esse contato, não é,
+ 00:53:17
+
+virar um contato eh imediato, não é? Mas a
+ 00:53:21
+
+gente tem então ah um e-mail que e o
+ 00:53:24
+
+saque que ele é direcionado e a resposta
+ 00:53:28
+
+é então providenciada para aquele
+ 00:53:31
+
+demandante, não é?
+ 00:53:34
+
+Aliás, eh em termos de de de futuro, eh,
+ 00:53:36
+
+só para falar também que a gente está
+ 00:53:40
+
+atento a toda essa tecnologia que vem eh
+ 00:53:43
+
+chegando com força, que ela não é nova,
+ 00:53:47
+
+mas tá aí, que é a inteligência
+ 00:53:49
+
+artificial. Então, o pessoal de TI está
+ 00:53:51
+
+eh vendo essa essa possibilidade, não é?
+ 00:53:54
+
+Eh, o pessoal da agricultura,
+ 00:53:58
+
+agricultura digital tem se devorado
+ 00:54:00
+
+sobre isso e eh há estudos de
+ 00:54:03
+
+futuramente a gente ter o envolvimento
+ 00:54:06
+
+do de uma IAA para dentro da plataforma.
+ 00:54:08
+
+Muito bom, muito bom mesmo. O André, o
+ 00:54:12
+
+André aqui ele é da Embrap, ele é cedido
+ 00:54:16
+
+pro SDA do mapa, não é? Ele se apresentou
+ 00:54:19
+
+lá embaixo e ele fez a seguinte questão:
+ 00:54:21
+
+"Parabéns pelo trabalho. Gostaria de
+ 00:54:24
+
+saber como está o envolvimento dos
+ 00:54:26
+
+órgãos estaduais de ATER nesse programa.
+ 00:54:28
+
+A colaboração ou resistência? A grande
+ 00:54:31
+
+pergunta que não quero calar.
+ 00:54:35
+
+É, essa foi uma grande pergunta.
+ 00:54:38
+
+Obrigado, André.
+ 00:54:40
+
+Eh, parceiro de grande parte do
+ 00:54:42
+
+trabalho, já trabalhamos muito juntos.
+ 00:54:45
+
+Eh, existem eh diferença entre as entre
+ 00:54:48
+
+as a ter, não é, ou entre as os órgãos
+ 00:54:53
+
+estudaduais. Então, algumas já se
+ 00:54:57
+
+mostram mais eh receptíveis e outras
+ 00:55:00
+
+ainda eh às vezes às vezes você pode
+ 00:55:04
+
+encontrar algumas resistências, não é, mas
+ 00:55:07
+
+eh tem bons contatos. a gente teve um um
+ 00:55:11
+
+tem tem tido um trabalho muito próximo
+ 00:55:14
+
+da Epagre, Santa Catarina. Eh, aquele
+ 00:55:17
+
+projeto deve se desdobrar em um projeto
+ 00:55:20
+
+para este ano com mais robustez. Nós
+ 00:55:22
+
+temos EPAMIG, nós temos
+ 00:55:25
+
+eh o pessoal de Rondônia que já usa o
+ 00:55:30
+
+digital. Temos agora um projeto piloto
+ 00:55:33
+
+eh feito entre a Embrapa Caprinos eh e
+ 00:55:37
+
+Ouvinos com
+ 00:55:40
+
+a como é que é? Mataters, acho que é
+ 00:55:43
+
+isso, eh com a o órgão estadual. Então a
+ 00:55:46
+
+perspectiva é que você tenha cada vez
+ 00:55:52
+
+uma maior eh entrada, uma maior
+ 00:55:55
+
+utilização, não é? E é com resultados que a
+ 00:55:58
+
+gente pode demonstrar isso e e atrair um
+ 00:56:02
+
+maior público, mas sim, eh, alguns
+ 00:56:05
+
+alguns extensionistas têm essa
+ 00:56:09
+
+resistência quando a gente comenta ou
+ 00:56:11
+
+coloca a parte de até eh digital, às
+ 00:56:15
+
+vezes por desconhecimento, às vezes por
+ 00:56:19
+
+já ter segurança naquilo que faz. Ah,
+ 00:56:21
+
+mas o um dado que que sempre acho que
+ 00:56:25
+
+tem que tá na nossa cabeça é o pouco
+ 00:56:27
+
+atendimento que os agricultores recebem
+ 00:56:29
+
+em termos de extensão. A cobertura é
+ 00:56:32
+
+muito fraca. Então, se nós tivermos algo
+ 00:56:34
+
+que ajude, eu não tenho dúvida que isso
+ 00:56:37
+
+é um é um um aspecto positivo e é o que
+ 00:56:40
+
+a gente quer. Ninguém quer substituir
+ 00:56:43
+
+ninguém, a gente quer ajudar as pessoas.
+ 00:56:45
+
+Essa é é o propósito da plataforma.
+ 00:56:48
+
+Muito bom.
+ 00:56:52
+
+Aqui nós temos o o Sandro parabenizando
+ 00:56:53
+
+Luciano e o
+ 00:56:56
+
+Edwin, excelente apresentação, Luciano,
+ 00:56:59
+
+que venha a outras grandes contribuições
+ 00:57:02
+
+da RAP para meio ambiente e para ter
+ 00:57:04
+
+digital. Muito legal. Então, posso dar
+ 00:57:06
+
+um spoiler aí, não é? não é? Mas a gente eh
+ 00:57:08
+
+desenvolveu mudanças climáticas,
+ 00:57:11
+
+sistemas agroflorestais, sistemas
+ 00:57:14
+
+agrícolas tradicionais e recentemente
+ 00:57:16
+
+nós estamos numa outra empreitada, não é,
+ 00:57:19
+
+contando exatamente com essas duas
+ 00:57:23
+
+personalidades de destaque nacional,
+ 00:57:26
+
+professor Zuin e professor Ezequiel, e
+ 00:57:28
+
+outros, não é, eh, colaboradores no
+ 00:57:31
+
+desenvolvimento de um hub de metodologia
+ 00:57:34
+
+de ATER digital, eh, onde a gente
+ 00:57:36
+
+acredita que a gente pode trazer
+ 00:57:39
+
+informações relevantes para os
+ 00:57:42
+
+extensionistas, para os professores de
+ 00:57:45
+
+extensão, não é? e que a gente possa então
+ 00:57:47
+
+eh divulgar mais ainda essas atividades.
+ 00:57:52
+
+Gente, já começou o trabalho. Eh, Edwin
+ 00:57:56
+
+faz parte desse trabalho também pelo
+ 00:58:00
+
+ICA, Rodrigo, tem um time muito grande.
+ 00:58:02
+
+Eh, tem gente da UnB, tem gente do da
+ 00:58:05
+
+Emater DF, enfim, várias pessoas nesse
+ 00:58:09
+
+esforço que a gente espera aí dentro de
+ 00:58:13
+
+2, 3 meses ter a oportunidade de voltar
+ 00:58:17
+
+para esse canal e falar sobre o hub de
+ 00:58:20
+
+metodologias.
+ 00:58:23
+
+Muito bom. Mas esse Luciano é muito
+ 00:58:25
+
+famoso, gente. Ol, nós estamos batendo
+ 00:58:27
+
+uma audiência muito alta na quarta de
+ 00:58:29
+
+manhã que isso aqui não é todo dia que
+ 00:58:31
+
+acontece. Olha só, o T muito bom. Tem
+ 00:58:33
+
+muitos seus elogios aqui. Parabéns pela
+ 00:58:37
+
+apresentação dos produtos. O Fábio, o
+ 00:58:39
+
+Tainã também, eu sou ruim de nome, às
+ 00:58:41
+
+vezes eu falo errado, não é? Aqui, ó, o
+ 00:58:44
+
+Mário Ávila, o Mário aqui também, ó, tem
+ 00:58:48
+
+que assistir a live do Mário, não é? Tá
+ 00:58:50
+
+muito boa a live do Mário aqui. Não
+ 00:58:52
+
+assistiu, hein? 7 anos de azar, se não
+ 00:58:54
+
+for assistir, viu? Porque tá muito boa,
+ 00:58:56
+
+realmente muito boa. Não é conversa do
+ 00:58:59
+
+extensionista, como diz o outro, não é? O
+ 00:59:02
+
+André aqui se apresentando. O aqui o o
+ 00:59:04
+
+Gilmar já tinha falado que eu tinha
+ 00:59:08
+
+comentado do Raimundo do Zap. Quem é que
+ 00:59:09
+
+não quem é que ainda não recebeu o
+ 00:59:11
+
+Raimundo do Zap, eu recomendo salvar lá,
+ 00:59:13
+
+porque é legal. A galera não tá sabendo.
+ 00:59:16
+
+Eu tô sabendo já e já tô usando. Já fiz
+ 00:59:19
+
+um teste com Raimundo. Ele foi bem
+ 00:59:22
+
+educado comigo. Eu garanto para vocês.
+ 00:59:23
+
+Ele não vai xingar vocês não. E o Gilmar
+ 00:59:25
+
+comenta instituições como Embrapa,
+ 00:59:28
+
+universidades públicas e a nossa
+ 00:59:30
+
+valorosa terra orgulho esse país.
+ 00:59:31
+
+Serviço público de qualidade gratuito. É
+ 00:59:33
+
+isso aí. A gente tá aí para cumprir
+ 00:59:36
+
+nossa função social. Professor Gilmar aí
+ 00:59:38
+
+é grandes grande pesquisador. Muito
+ 00:59:40
+
+contribuiu e contribui com a revista de
+ 00:59:44
+
+extensão rural também. não é? Não, não
+ 00:59:46
+
+conheço pessoalmente, professor Gilmar,
+ 00:59:48
+
+mas olha de tanto trocar e-mail já
+ 00:59:50
+
+considero amigo. Eh, o Fag aqui,
+ 00:59:52
+
+parabéns, Luciano, equipe. Eh, e que
+ 00:59:55
+
+mais aqui? A, ih, tem muito comentário,
+ 00:59:58
+
+hein? Caramba, gente. Olha aqui. Eu tô
+ 01:00:01
+
+me perdendo tanto comentário que tem
+ 01:00:05
+
+aqui. Eh, vamos para o último aqui. Eh,
+ 01:00:06
+
+a Flávia, excelente live. Como as
+ 01:00:10
+
+secretarias estaduais da agricultura
+ 01:00:12
+
+familiar podem contribuir com os hubies?
+ 01:00:14
+
+com as informações regionais. Olha aí,
+ 01:00:17
+
+ó. Flávia, boa, boa pergunta e boa
+ 01:00:19
+
+colocação. E aí, eu não sei aonde você
+ 01:00:23
+
+está, mas a secretaria do seu estado já
+ 01:00:25
+
+pode entrar em contato com a gente. Como
+ 01:00:28
+
+eu falei, a a plataforma ela é
+ 01:00:31
+
+multiinstitucional, ela abriga quem
+ 01:00:33
+
+queira e quem possa nos ajudar. Então, é
+ 01:00:35
+
+um trabalho conjunto, é um trabalho
+ 01:00:38
+
+aberto,
+ 01:00:41
+
+eh é um é um trabalho que tenta até
+ 01:00:42
+
+provocar essa estimular esse essa
+ 01:00:46
+
+interação, não é?
+ 01:00:49
+
+toda informação relevante que possa
+ 01:00:51
+
+contribuir pros extensionistas e pros
+ 01:00:54
+
+agricultores é muito bem-vinda, Flávio.
+ 01:00:56
+
+Então, vamos entrar em contato, vamos
+ 01:00:58
+
+conversar e e é uma ótima sugestão
+ 01:01:01
+
+porque as agriculturas, as secretarias
+ 01:01:04
+
+estaduais t essa informação e podem ser
+ 01:01:06
+
+m muito úteis pra gente. Luciano, vamos
+ 01:01:09
+
+vamos ela, ela entra no Google lá,
+ 01:01:13
+
+procura o teu nome, acha teu e-mail,
+ 01:01:15
+
+como é que é? Só para paraí vamos
+ 01:01:17
+
+incorporar isso aí, não é? Se mais alguém
+ 01:01:20
+
+quiser precisar. Meu e-mail tá no último
+ 01:01:22
+
+slide, não é? Uhum. A outra oportunidade é
+ 01:01:24
+
+também mandar um um um e-mail pro saque
+ 01:01:27
+
+da plataforma e a gente vai direcionar e
+ 01:01:30
+
+vai trocar a ideia com quem quem
+ 01:01:34
+
+precisar, quem quem tiver interesse.
+ 01:01:36
+
+Parceiros são muito bem-vindos e a gente
+ 01:01:39
+
+agradece o interesse. Muito bom. Aí ó,
+ 01:01:41
+
+Flávia tá aí, ó.
+ 01:01:44
+
+Luciano.nas@embrapa.br. do BR. Muito
+ 01:01:46
+
+bom. Já resolver uma questão aqui, senão
+ 01:01:48
+
+depois você passa e já pode contribuir.
+ 01:01:50
+
+Zuin, a palavra tá com você, meu mestre.
+ 01:01:53
+
+Muito bacana, viu? Uma palestra muito
+ 01:01:57
+
+bacana. Parabéns, Luciano. Luciano,
+ 01:01:59
+
+queria ter uma pergunta que vai mais ou
+ 01:02:01
+
+menos no caminho do que a Flávia fez,
+ 01:02:03
+
+mas como é que eh
+ 01:02:07
+
+organizações, não é, privadas ou
+ 01:02:10
+
+governamentais que t interesse em
+ 01:02:12
+
+desenvolver hubs novos, conjuntos com
+ 01:02:14
+
+vocês, qual que é o caminho que eles
+ 01:02:17
+
+devem trilhar, não é? Porque como você
+ 01:02:20
+
+disse, não vai terminar o o seu trabalho
+ 01:02:22
+
+não vai terminar nesse hub que a gente
+ 01:02:25
+
+tá desenvolvendo em conjunto, não é? Certo?
+ 01:02:27
+
+Masterão outros hubs com outros temas,
+ 01:02:29
+
+não é? Como como e as pessoas assistindo
+ 01:02:32
+
+essa live, não é? Ou tendo contato pro com
+ 01:02:34
+
+outros lugares, como é que eles podem
+ 01:02:37
+
+estar oferecendo essas parcerias e esses
+ 01:02:39
+
+novos temas para vocês?
+ 01:02:42
+
+Maravilha de perguntas, é interessante
+ 01:02:45
+
+até para para que todos saibam, não é?
+ 01:02:47
+
+H, a gente teve um desenvolvimento e
+ 01:02:51
+
+como foi estabelecida a governança
+ 01:02:54
+
+inicial nesse nesse ano que foi
+ 01:02:56
+
+determinada e e discutida da governança,
+ 01:02:58
+
+tem vários documentos que a gente
+ 01:03:01
+
+precisa eh preparar para eh orientar as
+ 01:03:02
+
+pessoas, não é? Então, um desses é
+ 01:03:07
+
+exatamente como eu procedo para eh
+ 01:03:09
+
+aderir e e efetivar essa parceria. Mas a
+ 01:03:12
+
+princípio qualquer instituição pode nos
+ 01:03:16
+
+contactar, manda um um e-mail ou manda
+ 01:03:18
+
+um contato pelo saque da plataforma. A
+ 01:03:21
+
+gente tem ainda não um documento
+ 01:03:24
+
+orientador, que é plano desse desse
+ 01:03:26
+
+comitê gestor gerar, não é? Mas a gente já
+ 01:03:30
+
+tem alguns caminhos da pedra que pode ir
+ 01:03:33
+
+conversando para facilitar, não é? A gente
+ 01:03:35
+
+tinha uma uma uma
+ 01:03:37
+
+portaria de que era do mapa antigamente,
+ 01:03:41
+
+não é? eh, e que precisa de uma
+ 01:03:44
+
+readequação. Eh, exatamente expondo
+ 01:03:47
+
+isso, qual era se eu se a instituição
+ 01:03:50
+
+quer participar do comitê gestor, quais
+ 01:03:52
+
+as obrigações dela? Se a se a
+ 01:03:54
+
+instituição queria apenas participar,
+ 01:03:57
+
+contribuindo, disponibilizando dados e
+ 01:03:59
+
+informações. Uma carta simples era, eu
+ 01:04:01
+
+concordo, em disponibilizar. Então, a
+ 01:04:04
+
+gente tem que eh rever isso, porque isso
+ 01:04:06
+
+foi lá
+ 01:04:09
+
+de eh ainda na época de pós-pandemia,
+ 01:04:10
+
+não é? E aí teve a a mudança eh ou
+ 01:04:15
+
+surgimento, não é? Eh, novamente do MDA e a
+ 01:04:19
+
+nossa nossa vinculação tá com a
+ 01:04:23
+
+Secretaria de Agricultura Familiar e
+ 01:04:25
+
+Agroecologia. Então, e esse tipo de
+ 01:04:27
+
+documento eh a gente ainda tá revendo,
+ 01:04:30
+
+acredita que até julho a gente tem
+ 01:04:34
+
+prontamente isso. Independente desta eh
+ 01:04:36
+
+desse documento orientador, eh todas as
+ 01:04:39
+
+entidades e todas as instituições, quer
+ 01:04:42
+
+sejam
+ 01:04:44
+
+universidades, eh instituições de ATER,
+ 01:04:45
+
+UNGs, podem fazer contato que a gente
+ 01:04:48
+
+tem a liberdade de seguir trabalhando e
+ 01:04:50
+
+orientar esse pessoal. Obrigado, Zindo a
+ 01:04:53
+
+pergunta.
+ 01:04:56
+
+É, não é fácil. Ó, eu tô controlando
+ 01:05:01
+
+aqui três tela aqui, ó. Muito bem. Ó, o
+ 01:05:02
+
+o Gustavo fala o seguinte, ó. Ótima
+ 01:05:07
+
+live, muito boa iniciativa da Embrapa,
+ 01:05:09
+
+conhecimento e desenvolvimento, um
+ 01:05:11
+
+orgulho para todos nós. Bom, agora pra
+ 01:05:12
+
+gente deixar uma live bem curtinha e aí
+ 01:05:15
+
+ter acesso a todo mundo aqui, eu vou
+ 01:05:19
+
+pedir pro Luciano fazer essas
+ 01:05:21
+
+considerações finais sobre eh projetos
+ 01:05:22
+
+futuros, parcerias, implementações. Você
+ 01:05:26
+
+já comentou e fazer o fechamento para
+ 01:05:29
+
+nós aqui, pra galera tá eh tá conhecendo
+ 01:05:31
+
+mais esse programa aí. Maravilha. Bom, a
+ 01:05:35
+
+plataforma é ela é estimulante, ela ela
+ 01:05:38
+
+é ela é vibrante, não é? Ah, as pessoas
+ 01:05:41
+
+quando se eh envolvem com o assunto eh
+ 01:05:45
+
+ficam estimuladas. a gente percebe uma
+ 01:05:50
+
+alegria de poder transmitir muitas vezes
+ 01:05:52
+
+um conhecimento que tá de uma forma eh
+ 01:05:55
+
+complicada eh numa maneira mais
+ 01:05:58
+
+acessível e simples para as pessoas que
+ 01:06:00
+
+realmente necessitam e vão fazer uso
+ 01:06:02
+
+dessas informações. Então, acho que esse
+ 01:06:04
+
+é o é o é o ponto alto e além disso, a
+ 01:06:06
+
+plataforma traz materiais confiáveis. Eu
+ 01:06:09
+
+acho que essa curadoria é também um
+ 01:06:12
+
+outro ponto forte, porque você pode
+ 01:06:14
+
+googlear aí no Google como que eu
+ 01:06:17
+
+cultivo o manjericão, vai
+ 01:06:19
+
+aparecer 500 sites e aí como você vai
+ 01:06:22
+
+dizer isso aqui tá correto isso aqui não
+ 01:06:25
+
+está correto? Então, o poder de de da
+ 01:06:27
+
+contribuição de pesquisadores, de
+ 01:06:30
+
+profissionais ligados à as temáticas é
+ 01:06:33
+
+outro fator
+ 01:06:37
+
+relevante. Ah, planos para plataforma
+ 01:06:38
+
+eles são imensos. A gente só pretende
+ 01:06:41
+
+crescer, não é? Se você olhar lá o slide
+ 01:06:44
+
+onde tinha os eh hubs de cadeia
+ 01:06:47
+
+produtiva e temáticos, a gente tem muito
+ 01:06:51
+
+muito mais potencial, não é? Obviamente, se
+ 01:06:54
+
+você olhar ali, você ainda requer um hub
+ 01:06:57
+
+de milho, você ainda requer um hub de
+ 01:06:59
+
+açaí, eh você requer um um hub de
+ 01:07:01
+
+pimenta capsicon, enfim, tem uma
+ 01:07:04
+
+infinidade de cadeias importantes paraa
+ 01:07:06
+
+agricultura familiar, eh, café, tem,
+ 01:07:09
+
+enfim, até soja, não é, porque existe soja
+ 01:07:12
+
+em pequena propriedade. Então, você tem
+ 01:07:14
+
+e uma gama enorme de de cadeias ou de
+ 01:07:17
+
+informações a serem repassadas. E na
+ 01:07:21
+
+parte dos eh dos hubs temáticos também,
+ 01:07:23
+
+você eh em breve tá sendo começado um
+ 01:07:25
+
+hub de restauração. Eh, nós podemos
+ 01:07:29
+
+pensar num hub de bioinsumos, por
+ 01:07:32
+
+exemplo. Quer dizer, a gente tem
+ 01:07:34
+
+trabalhado com na na maneira de eh
+ 01:07:37
+
+evoluir, crescer e disponibilizar cada
+ 01:07:40
+
+vez mais informação. Então são planos,
+ 01:07:43
+
+como falei, um outro plano é a
+ 01:07:45
+
+incorporação de IA dentro da plataforma,
+ 01:07:47
+
+não é, pra gente poder fazer uso dessa
+ 01:07:50
+
+dessa ferramenta. E eu queria deixar
+ 01:07:53
+
+duas coisas aqui que eu acho importante
+ 01:07:57
+
+também. Eu acho que todo esse trabalho
+ 01:07:59
+
+da plataforma, ela contribui para pros
+ 01:08:01
+
+objetivos de desenvolvimento
+ 01:08:05
+
+sustentável, não é, que o Brasil é
+ 01:08:06
+
+comprometido, é signatário. Eu acho que
+ 01:08:08
+
+todo esse esforço traz várias várias
+ 01:08:11
+
+contribuições pros ODSs, não é? E e a outra
+ 01:08:14
+
+questão é é eh eh além da de toda a
+ 01:08:18
+
+informação para extensionistas, para
+ 01:08:22
+
+agricultores e agricultoras, é o fator,
+ 01:08:24
+
+digamos até que atinge os jovens rurais,
+ 01:08:28
+
+não é, pela facilidade, não é, pelo interesse
+ 01:08:32
+
+em em novas novas tecnologias e além
+ 01:08:35
+
+disso até um cunho pedagógico da das
+ 01:08:38
+
+informações ali geradas, não é, onde as
+ 01:08:42
+
+crianças eh que estudam e-mail rural,
+ 01:08:44
+
+podem até fazer uso de informações ou de
+ 01:08:47
+
+gráficos ou ou de conteúdos que a gente
+ 01:08:50
+
+tá liberando. Então, eu vejo um um uma
+ 01:08:53
+
+coisa bem ampla da plataforma e é uma
+ 01:08:56
+
+satisfação, não é,
+ 01:08:59
+
+eh, vê-la, não é, e em funcionamento e a
+ 01:09:01
+
+gente pretende com que ela tenha
+ 01:09:05
+
+sustentabilidade, tenha crescimento e
+ 01:09:08
+
+seja importante para eh os produtores
+ 01:09:10
+
+desse
+ 01:09:13
+
+país. É isso. Muito obrigado pela
+ 01:09:14
+
+oportunidade novamente. Agradeço demais
+ 01:09:17
+
+eh os parceiros professor Zuin e
+ 01:09:21
+
+professor Ezequiel e um e um
+ 01:09:23
+
+agradecimento a todos que tiveram
+ 01:09:25
+
+presente na palestra eh pela
+ 01:09:27
+
+disponibilidade do seu tempo. Muito
+ 01:09:30
+
+obrigado.
+ 01:09:31
+
+Muito bom, Luciano. E e isso que você
+ 01:09:33
+
+comentou é muito importante, não é? É uma
+ 01:09:35
+
+plataforma criada por instituições
+ 01:09:37
+
+públicas, gratuitas que tem um
+ 01:09:39
+
+conhecimento confiável, não é? Vamos
+ 01:09:41
+
+repetir isso, não é? Porque aqui não tá
+ 01:09:44
+
+ninguém querendo vender nada para
+ 01:09:46
+
+ninguém, quer que a o conhecimento
+ 01:09:47
+
+chegue até a ponta, não é? E o mais
+ 01:09:49
+
+importante de tudo, não é? De tudo que o
+ 01:09:51
+
+Luciano falou aqui, não adianta ter
+ 01:09:53
+
+todas as instituições envolvidas se o
+ 01:09:56
+
+pessoal não usa a plataforma, tem que
+ 01:09:58
+
+usar, porque senão esse esforço se vai.
+ 01:10:00
+
+Então, por isso, usem a plataforma,
+ 01:10:03
+
+mexam, eh, indiquem melhorias e tal,
+ 01:10:05
+
+porque senão é é todo um esforço,
+ 01:10:08
+
+pessoas da pessoas de investimento
+ 01:10:11
+
+público e a plataforma não é usada.
+ 01:10:14
+
+Então, a gente precisa replicar ela, não é?
+ 01:10:16
+
+professores que estão presentes aqui,
+ 01:10:19
+
+apresentem nas suas aulas, façam isso
+ 01:10:20
+
+como eh uma página inicial aí do seu
+ 01:10:23
+
+computador para que possam também estar
+ 01:10:27
+
+reproduzindo e também indicando novos
+ 01:10:29
+
+conteúdos e novas demandas. Eu acho que
+ 01:10:31
+
+isso aí todo mundo ganha, não é? O Luciano
+ 01:10:33
+
+tá de parabéns por liderar essa equipe
+ 01:10:36
+
+aí e agradecer a todos os presentes que
+ 01:10:38
+
+tiveram muito interesse aqui nessa live.
+ 01:10:40
+
+E lembrando então que aqui nesse canal
+ 01:10:42
+
+tem extensão rural toda quarta-feira 9
+ 01:10:45
+
+horas da manhã com um novo especialista
+ 01:10:47
+
+na área de extensão rural no Brasil e no
+ 01:10:49
+
+mundo. É isso, um abraço e até a próxima
+ 01:10:51
+
+oportunidade. Tchau. Tchau, gente.
+ 01:10:55

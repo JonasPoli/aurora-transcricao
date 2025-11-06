@@ -1,0 +1,8 @@
+video_id: zVAPO4MIVMY
+video_url: https://www.youtube.com/watch?v=zVAPO4MIVMY
+title: Desafios e perspectivas da ATER que queremos
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2023

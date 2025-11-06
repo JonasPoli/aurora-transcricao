@@ -1,0 +1,8 @@
+video_id: kMzN5QNJ4B0
+video_url: https://www.youtube.com/watch?v=kMzN5QNJ4B0
+title: Venha conhecer os produtos da Banca do André na @polifeira. 💚 #extensãorural #feiralivre #mandioca
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/10/2025

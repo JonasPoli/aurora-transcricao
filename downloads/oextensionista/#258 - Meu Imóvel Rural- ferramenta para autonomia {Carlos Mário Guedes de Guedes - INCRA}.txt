@@ -1,0 +1,3455 @@
+Olá a todos e todos extensionistas
+ 00:00:02
+
+rurais, agricultores e agricultoras,
+ 00:00:04
+
+jovens rurais, pesquisadores,
+ 00:00:06
+
+professores, acadêmicos e demais
+ 00:00:08
+
+públicos aqui presentes. Sejam todos
+ 00:00:10
+
+muito bem-vindos. Meu nome é Zéquieli,
+ 00:00:12
+
+professor deção rural e quem está aqui
+ 00:00:15
+
+hoje conosco é o professor Luiz Fernando
+ 00:00:17
+
+Soares Win da USP, o fundador da L da
+ 00:00:18
+
+Aurora, juntamente com o nosso convidado
+ 00:00:20
+
+de hoje que é o Carlos Guedes da MGI.
+ 00:00:22
+
+todos aqui excelentes profissionais da
+ 00:00:24
+
+área de extensão rural no Brasil e no
+ 00:00:26
+
+mundo. E aí, nesse dia 15 de outubro
+ 00:00:28
+
+vamos aproveitar para parabenizar o dia
+ 00:00:31
+
+dos professores e também os nossos
+ 00:00:33
+
+extensionistas, que são os professores
+ 00:00:35
+
+do campo, grandes educadores. Esse dia é
+ 00:00:37
+
+muito importante, estamos mais um evento
+ 00:00:40
+
+do ciclo diálogos e até digital
+ 00:00:42
+
+propostas e compartilhando saberes no
+ 00:00:45
+
+dia do professor fazendo mais uma
+ 00:00:48
+
+capacitação.
+ 00:00:50
+
+Nossos eventos buscam identificar e
+ 00:00:51
+
+propor caminhos metodológicos para os
+ 00:00:53
+
+atuais elementos e condicionantes que
+ 00:00:55
+
+determinam os processos de transferência
+ 00:00:57
+
+e compartilhamento e novas tecnologias
+ 00:00:59
+
+nos territórios rurais da América
+ 00:01:02
+
+Latina, da África e alguns países como
+ 00:01:03
+
+Portugal, Espanha e Luxemburgo. A
+ 00:01:05
+
+palestra de hoje é intitulada Meu imóvel
+ 00:01:08
+
+rural, ferramenta para autonomia. E o
+ 00:01:10
+
+nosso convidado de hoje é Carlos Mários
+ 00:01:12
+
+Guedes de Guedes do MGI. Essa live é uma
+ 00:01:15
+
+iniciativa do portal Oxtensionista e da
+ 00:01:17
+
+Rede Aurora de Diálogos em Até Digital
+ 00:01:20
+
+da América Latina e todos os apoiadores
+ 00:01:22
+
+que vocês podem conferir aqui na
+ 00:01:24
+
+descrição desse vídeo. Sejam todos muito
+ 00:01:25
+
+bem-vindos, professor Zuin, Carlos, é um
+ 00:01:27
+
+prazer vocês estarem aqui compartilhando
+ 00:01:30
+
+seus conhecimentos conosco. Desde já o
+ 00:01:32
+
+nosso muito obrigado. De atemão já passo
+ 00:01:34
+
+a palavra ao professor Zuin.
+ 00:01:35
+
+>> Bom dia a todos e a todas. É um prazer
+ 00:01:37
+
+muito grande estar aqui com Ezequiel e o
+ 00:01:39
+
+Carlos. Hoje a gente vai aprender muito
+ 00:01:40
+
+sobre uma nova ferramenta, meu imóvel
+ 00:01:43
+
+rural. é uma ferramenta, não é, para se
+ 00:01:46
+
+utilizar nos canais de comunicação
+ 00:01:48
+
+digital. Eh, isso vai ser vai ser muito
+ 00:01:51
+
+importante essa ferramenta, não é, pros
+ 00:01:55
+
+agricultores nos territórios rurais para
+ 00:01:57
+
+acessar uma série de serviços, não é, e já
+ 00:01:59
+
+de antemão eu já
+ 00:02:02
+
+parabenizo o Carlos por esse projeto
+ 00:02:05
+
+maravilhoso, não é, do governo federal e do
+ 00:02:07
+
+ministério, não é, do MGI. Carlos, muito
+ 00:02:09
+
+bem-vindo nessa quarta-feira. A palavra
+ 00:02:13
+
+é sua, meu querido.
+ 00:02:15
+
+>> Bom, bom dia a todos, a todos, em
+ 00:02:18
+
+especial Ezequiel Zuin. Para mim é uma
+ 00:02:21
+
+satisfação mais uma vez estar aqui com
+ 00:02:24
+
+vocês, não é, trazendo boas notícias das
+ 00:02:26
+
+iniciativas do governo do Brasil.
+ 00:02:29
+
+Eh, uma saudação também eh para todos os
+ 00:02:32
+
+nossos extensionistas, pesquisadores,
+ 00:02:36
+
+agricultoras e agricultores familiares
+ 00:02:40
+
+que acompanhem com a gente também os
+ 00:02:42
+
+nossos colegas servidores públicos aqui
+ 00:02:45
+
+com muito carinho da própria diretoria
+ 00:02:48
+
+do Cadastro Ambiental Rural, em nome do
+ 00:02:50
+
+meu diretor Henrique Dolabela, que
+ 00:02:52
+
+autorizou aqui a minha presença tá aqui
+ 00:02:54
+
+junto com vocês nesse momento, não é? Eh, o
+ 00:02:56
+
+que eu vou trazer para vocês hoje aqui,
+ 00:03:00
+
+a ministra Estter EC do MGI apresentou
+ 00:03:03
+
+pro presidente Lula num ato que fizemos
+ 00:03:05
+
+no Palácio do Planalto do dia 23 de
+ 00:03:07
+
+julho
+ 00:03:09
+
+e que compunha estratégia maior de
+ 00:03:11
+
+transformação digital do Brasil. a gente
+ 00:03:14
+
+chama isso da base de dados, não é, eh, do
+ 00:03:17
+
+Brasil e em especial, não é, no tema que
+ 00:03:21
+
+envolve o meu imóvel rural e um conjunto
+ 00:03:25
+
+de outras ferramentas que o governo
+ 00:03:28
+
+federal vem colocando à disposição da da
+ 00:03:30
+
+cidadania brasileira, não é? Eh, eh, no que
+ 00:03:33
+
+nos move é a capacidade de gerarmos um
+ 00:03:36
+
+governo para cada pessoa, para cada
+ 00:03:39
+
+necessidade, não é, de homens, mulheres, de
+ 00:03:42
+
+famílias. eh conforme a sua condição de
+ 00:03:45
+
+vida, conforme a o seu local de
+ 00:03:48
+
+trabalho, conforme a sua condição, não é,
+ 00:03:50
+
+de onde mora, a possibilidade de acessar
+ 00:03:53
+
+políticas públicas, serviços públicos de
+ 00:03:57
+
+qualidade, não é, e na hora que as pessoas
+ 00:03:59
+
+precisam.
+ 00:04:02
+
+E foi nesse contexto, não é, que nós eh eh
+ 00:04:04
+
+dentro do MGI, dentro da diretoria do
+ 00:04:07
+
+Cadastro Ambiental Rural, da Secretaria
+ 00:04:10
+
+de Governo Digital e em especial também
+ 00:04:12
+
+da Data Prevve, que é a nossa empresa
+ 00:04:15
+
+pública brasileira que desenvolve
+ 00:04:17
+
+tecnologia e que sustenta bases de dados
+ 00:04:19
+
+fantásticas, não é? Nós conseguimos trazer
+ 00:04:22
+
+essa inovação numa parceria que a gente
+ 00:04:24
+
+tem que destacar, não é, com o Ministério
+ 00:04:27
+
+do Desenvolvimento Agrário, com o Incra,
+ 00:04:30
+
+que é a minha casa de origem, não é, que
+ 00:04:32
+
+também disponibilizaram suas bases de
+ 00:04:35
+
+dados para que a gente pudesse eh
+ 00:04:37
+
+ofertar, não é, paraas agricultoras, pros
+ 00:04:40
+
+agricultores, para toda essa rede de
+ 00:04:42
+
+agrosserviços que atende, não é, o o o
+ 00:04:45
+
+Brasil. Eh, é uma ferramenta que
+ 00:04:48
+
+facilita é a a vida do agricultor e da
+ 00:04:52
+
+agricultora. A imagem que a gente sempre
+ 00:04:55
+
+faz é a seguinte: quem nunca viu um
+ 00:04:57
+
+agricultor, uma agricultora com aquela
+ 00:04:59
+
+pastinha de plástico, com aquele
+ 00:05:01
+
+saquinho de plástico juntando o papel
+ 00:05:03
+
+para provar que é agricultor, não é? e
+ 00:05:05
+
+dessa forma poder acessar políticas
+ 00:05:08
+
+públicas, dessa forma poder acessar um
+ 00:05:10
+
+financiamento no banco e a dor também do
+ 00:05:11
+
+extensionista, não é, que muitas vezes é a
+ 00:05:14
+
+pessoa que junta o papel pro agricultor,
+ 00:05:17
+
+muitas vezes é a pessoa que acaba
+ 00:05:19
+
+entrando em sistemas, entrando em eh
+ 00:05:22
+
+buscando informações para poder ajudar
+ 00:05:24
+
+os agricultores, não é? Então, a ferramenta
+ 00:05:26
+
+meu imóvel rural, ela nasce nessa
+ 00:05:29
+
+perspectiva de enfrentar essa dor, não é? E
+ 00:05:31
+
+para isso a gente, o que a gente vai
+ 00:05:34
+
+mostrar aqui para vocês é basicamente
+ 00:05:36
+
+como nós concebemos a ferramenta, o que
+ 00:05:38
+
+nós temos hoje a oferecer na ferramenta
+ 00:05:40
+
+e fundamentalmente o que estamos
+ 00:05:43
+
+projetando para essa ferramenta.
+ 00:05:46
+
+Então, começando aqui, gente, a gente
+ 00:05:49
+
+fez um levantamento dentro dos
+ 00:05:51
+
+sistemas do governo federal, não é, apenas
+ 00:05:55
+
+do governo federal, de tudo que envolvia
+ 00:05:57
+
+regularidade fundiária, regularidade
+ 00:06:00
+
+ambiental e regularidade fiscal. E o que
+ 00:06:03
+
+que nós encontramos? 17 serviços
+ 00:06:06
+
+diferentes, não é? Muitas vezes são
+ 00:06:09
+
+serviços que são quase a mesma coisa,
+ 00:06:12
+
+não é? mas que estão lá como serviços
+ 00:06:15
+
+diferentes em oito canais envolvidos. E
+ 00:06:17
+
+a gente passa aqui pelo Sistema Nacional
+ 00:06:20
+
+de Cadastro Rural do Incra, pelo sistema
+ 00:06:22
+
+de gestão fundiária que trata da questão
+ 00:06:24
+
+das parcelas gel, pelo próprio KNIR com
+ 00:06:26
+
+a receita, o cadastro ambiental rural, a
+ 00:06:29
+
+plataforma de governo de governança
+ 00:06:32
+
+territorial do INCRA, não é? Ou seja, a
+ 00:06:34
+
+gente tem um que se chama de um
+ 00:06:37
+
+ecossistema, não é, de serviços e
+ 00:06:39
+
+informações, que eh o que a gente
+ 00:06:41
+
+entende que apesar de nós apresentarmos
+ 00:06:45
+
+esse conjunto de ofertas, ela é uma uma
+ 00:06:48
+
+dor pros agricultores, para os
+ 00:06:51
+
+detentores de imóvel, em especial para
+ 00:06:53
+
+toda a rede que apoia, não é, e esses
+ 00:06:55
+
+agricultores. Então a gente foi nesse
+ 00:06:58
+
+exercício de caracterizando as dores, de
+ 00:07:01
+
+de caracterizando as necessidades que
+ 00:07:04
+
+nós tínhamos que atuar para melhorar a
+ 00:07:06
+
+prestação desse serviço. Então, pra
+ 00:07:09
+
+questão dos detentores de imóveis, não é, o
+ 00:07:12
+
+agricultor fornece a mesma informação
+ 00:07:15
+
+inúmeras vezes nos mesmos cadastros.
+ 00:07:17
+
+Quantas vezes a gente já viu, não é,
+ 00:07:19
+
+informar a questão do endereço, a
+ 00:07:21
+
+caracterização do imóvel com diferentes,
+ 00:07:23
+
+não é, com distinções específicas, mas nós
+ 00:07:26
+
+estamos falando do mesmo imóvel, não é, e e
+ 00:07:28
+
+de em diferentes cadastros. Muitas vezes
+ 00:07:32
+
+agricultor fornece a informação que a
+ 00:07:34
+
+administração pública já tem, não é, é
+ 00:07:36
+
+clássica a questão do dos dados
+ 00:07:39
+
+pessoais, não é, a dificuldade de gerir
+ 00:07:40
+
+cadastros e calendários e múltiplos
+ 00:07:43
+
+sistemas. Para quem não sabe que nós, eu
+ 00:07:46
+
+particularmente sou servidor do INC,
+ 00:07:49
+
+trabalho na área de cadastro, quando
+ 00:07:51
+
+chega aquela época do ITR, gente, vocês
+ 00:07:52
+
+t que imaginar o que ficam as áreas de
+ 00:07:55
+
+cadastro do INCRA, porque os
+ 00:07:57
+
+agricultores querem atualizar o seu
+ 00:07:59
+
+cadastro no Incra para poder preencher o
+ 00:08:00
+
+ITR, não é? Então essa sistemática de
+ 00:08:02
+
+procura em pontos específicos cria
+ 00:08:06
+
+dificuldade eh eh pros agricultores de
+ 00:08:09
+
+poder, não é, ter clareza de que aquilo que
+ 00:08:12
+
+ele vai conseguir preencher lá vai dar
+ 00:08:14
+
+certo para ele conseguir preencher em
+ 00:08:16
+
+outro lugar, não é? E a gente, não é, eh, tem
+ 00:08:17
+
+como consequência uma dor de cabeça para
+ 00:08:20
+
+agricultor e paraa agricultora eh muito,
+ 00:08:22
+
+muito significativo. E essa dispersão de
+ 00:08:25
+
+canais, acabei de mostrar, imagina você
+ 00:08:28
+
+tá entrando em cada página, a sua
+ 00:08:30
+
+internet caindo, não é? Quer dizer, isso
+ 00:08:32
+
+então eh são situações de muita
+ 00:08:34
+
+dificuldade e nós estamos falando de
+ 00:08:36
+
+pessoas que, não é, que eh não nasceram
+ 00:08:38
+
+nessa época da tecnologia, não é, não tem a
+ 00:08:41
+
+fluência digital que muitas vezes o
+ 00:08:44
+
+analista que gera uma informação dessas,
+ 00:08:46
+
+não é, e eh imagina. Então, muitas vezes a
+ 00:08:48
+
+gente não tá eh pensando em oferecer um
+ 00:08:52
+
+serviço digital com a cabeça de quem tá
+ 00:08:54
+
+demandando o serviço, mas sim com a
+ 00:08:57
+
+cabeça de quem tá oferecendo. E o
+ 00:08:58
+
+resultado disso às vezes não não tem a
+ 00:09:00
+
+conexão necessária.
+ 00:09:02
+
+E também, não é, um tema que a gente sempre
+ 00:09:04
+
+tem visto, não é, que é os agricultores não
+ 00:09:07
+
+têm acesso aos próprios dados. Se você
+ 00:09:09
+
+perguntar hoje pra grande maioria dos
+ 00:09:12
+
+agricultores brasileiros, independente
+ 00:09:13
+
+seja pequeno, médio grande, você sabe o
+ 00:09:15
+
+que que tá depositado lá no seu cadastro
+ 00:09:18
+
+ambiental rural que você fez c se 5, 6,
+ 00:09:20
+
+7 anos atrás? Boa parte deles não
+ 00:09:22
+
+saberia dizer, não é? Então, ou seja, o
+ 00:09:25
+
+acesso aos próprios dados, o acesso às
+ 00:09:27
+
+informações ao longo do tempo eh eh era
+ 00:09:29
+
+uma dor que a gente identificava muito
+ 00:09:32
+
+claramente por parte do dos
+ 00:09:34
+
+agricultores. Na parte da administração
+ 00:09:37
+
+pública, a mesma coisa. Ou seja, você
+ 00:09:39
+
+não tem não tinha a conexão, não é, entre
+ 00:09:41
+
+as bases e os sistemas. Então, o que
+ 00:09:45
+
+tinha no carro não sabia o que tinha no
+ 00:09:47
+
+Incra. O que tinha no Incra não sabia o
+ 00:09:49
+
+que tinha na receita. O que tinha na
+ 00:09:50
+
+receita a gente não sabe o que tem lá
+ 00:09:52
+
+dentro do Ministério da Agricultura. E
+ 00:09:54
+
+aí quando a gente vai pros estados, não é,
+ 00:09:56
+
+isso fica pior. Por exemplo, a gente não
+ 00:09:58
+
+sabe a conexão disso com a nota do
+ 00:10:00
+
+produtor rural, não é? Então são desafios
+ 00:10:02
+
+do ponto de vista da ausência que a
+ 00:10:05
+
+gente chama da interoperabilidade, que é
+ 00:10:07
+
+um nomezinho grande, difícil de falar,
+ 00:10:09
+
+mas que tá cada dia no nosso no nosso
+ 00:10:11
+
+dia a dia aqui na nossa no nosso
+ 00:10:13
+
+trabalho. A inconsistência, a
+ 00:10:16
+
+redundância dos dados nas diferentes
+ 00:10:18
+
+bases de sistemas. Ou seja, você fez a
+ 00:10:20
+
+sua o seu cadastro no cara há 7 anos
+ 00:10:22
+
+atrás, aí você faz uma atualização no
+ 00:10:24
+
+cadastro do Incra recentemente. Não
+ 00:10:27
+
+necessariamente nós estamos falando dos
+ 00:10:29
+
+mesmos dados. pode ter tido um
+ 00:10:31
+
+remembramento, um desmembramento, parte
+ 00:10:33
+
+de um um filho assume uma parte da
+ 00:10:36
+
+propriedade.
+ 00:10:39
+
+Os cadastros eles são basicamente
+ 00:10:40
+
+fotografias, não é, paradas no tempo, só
+ 00:10:42
+
+que a vida dos agricultores e da
+ 00:10:45
+
+propriedade rural é um filme. Então ela
+ 00:10:47
+
+tá em evolução permanente, não é? Quer
+ 00:10:49
+
+dizer, a natureza responde dessa forma.
+ 00:10:51
+
+Então, o nosso desafio é fazer com que
+ 00:10:54
+
+esses cadastros eles fiquem
+ 00:10:56
+
+sincronizados e eles permitam cada vez
+ 00:10:57
+
+mais refletir a realidade e da mesma
+ 00:11:00
+
+forma tornar cada vez mais caro e mais
+ 00:11:03
+
+difícil mentir para os cadastros, que
+ 00:11:07
+
+esse é um tema também muito relevante do
+ 00:11:09
+
+ponto de vista da gestão territorial,
+ 00:11:12
+
+fundiária e ambiental. Então, a gente
+ 00:11:14
+
+estimula, não é, que mude essa questão da
+ 00:11:17
+
+baixa frequência de atualização dos
+ 00:11:19
+
+dados, ela possa ser mais recorrente,
+ 00:11:21
+
+não é? E um tema que é central e aí a
+ 00:11:23
+
+mediação dos extensionistas é
+ 00:11:26
+
+fundamental, é o seguinte, essa
+ 00:11:27
+
+dificuldade que os cadastros têm de se
+ 00:11:29
+
+conectar com os detentores de móveis,
+ 00:11:32
+
+não é? E sempre a gente usa essa rede de
+ 00:11:34
+
+agrosserviços, essa rede de extensão,
+ 00:11:36
+
+sindicatos, extensionistas, para poder
+ 00:11:39
+
+orientar os agricultores, não é? Eh, do
+ 00:11:42
+
+ponto de vista do papel e da importância
+ 00:11:44
+
+de ter seus cadastros atualizados.
+ 00:11:46
+
+Então, a grande pergunta que nós fizemos
+ 00:11:50
+
+já lá em 2024 e viemos evoluindo até
+ 00:11:52
+
+esse ano de 2025, não é? E se a gente
+ 00:11:55
+
+conseguisse colocar tudo no mesmo lugar?
+ 00:11:59
+
+E se a gente se desafiasse, não é, a a
+ 00:12:01
+
+oferecer uma ferramenta que pudesse
+ 00:12:05
+
+permitir pro agricultor saber tudo sobre
+ 00:12:08
+
+seu imóvel do jeito que ele pensa ou do
+ 00:12:11
+
+jeito que ela pensa, não é, eh, numa
+ 00:12:13
+
+ferramenta só. E aí nós usamos
+ 00:12:16
+
+inspirações como aqui internamente na
+ 00:12:18
+
+administração pública federal temos o
+ 00:12:21
+
+Solgov que tem toda a nossa história
+ 00:12:22
+
+enquanto servidores públicos de
+ 00:12:25
+
+responsabilidades, de direitos, não é? Eh,
+ 00:12:27
+
+eh, temos a carteira digital de
+ 00:12:30
+
+trânsito, todo mundo usa a carteira
+ 00:12:32
+
+digital de trânsito, pelo menos quem tem
+ 00:12:34
+
+CNH e quem tem eh veículo, não é, sabe do
+ 00:12:35
+
+que nós estamos falando. Então, foram
+ 00:12:38
+
+fontes inspiradoras pra gente chegar no
+ 00:12:40
+
+meu imóvel rural.
+ 00:12:44
+
+Então o que nós estamos propondo aqui,
+ 00:12:48
+
+não é, qual é o propósito dessa aplicação,
+ 00:12:50
+
+não é, primeiro lugar, não é, diminuir custo e
+ 00:12:52
+
+tempo para as pessoas, não é, e facilitar o
+ 00:12:55
+
+acesso aos dados que são dessas pessoas
+ 00:12:58
+
+para, não é, cumprir as suas
+ 00:13:01
+
+responsabilidades, atender as
+ 00:13:03
+
+obrigações, mas fundamentalmente acessar
+ 00:13:04
+
+direitos e oportunidades,
+ 00:13:07
+
+incentivar os detentores de móveis a
+ 00:13:09
+
+manter os seus cadastros atualizados,
+ 00:13:12
+
+que é a melhor forma de nós
+ 00:13:14
+
+permanentemente ente estarmos em
+ 00:13:15
+
+comunicação, levando novidades, levando
+ 00:13:17
+
+iniciativas para os agricultores e
+ 00:13:20
+
+fomentar essa chamada interoperabilidade
+ 00:13:23
+
+no processo de conciliação de dados, ou
+ 00:13:26
+
+seja, fazerem os dados se conversar e
+ 00:13:28
+
+como isso pode aprimorar as políticas
+ 00:13:30
+
+públicas e o atendimento aos próprios
+ 00:13:33
+
+usuários.
+ 00:13:36
+
+E nesse sentido nós desenvolvemos, não é, a
+ 00:13:38
+
+versão inicial que foi apresentada em 23
+ 00:13:42
+
+de julho, aquilo que a gente entende que
+ 00:13:44
+
+era o mínimo viável, não é? E aqui mais uma
+ 00:13:46
+
+vez um profundo agradecimento ao
+ 00:13:49
+
+Ministério do Desenvolvimento Agrário e
+ 00:13:52
+
+ao INCRA, que disponibilizaram
+ 00:13:53
+
+informações e dados das suas bases pra
+ 00:13:56
+
+gente começar esse trabalho junto com o
+ 00:13:59
+
+Ministério da Gestão, Inovação em
+ 00:14:01
+
+Serviços Públicos e em especial com o
+ 00:14:03
+
+CAR, não é? E nós nos propusemos a fazer o
+ 00:14:05
+
+seguinte,
+ 00:14:08
+
+em vez da gente pensar num super app,
+ 00:14:10
+
+numa, não é, num negócio eh eh genial para,
+ 00:14:12
+
+vamos chamar assim, para quem é da
+ 00:14:15
+
+tecnologia e tal, vamos tentar fazer o
+ 00:14:18
+
+mais simples, vamos tentar mostrar como
+ 00:14:20
+
+estão esses dados para os agricultores
+ 00:14:22
+
+do jeito que eles entendem, da forma com
+ 00:14:24
+
+que eles conseguem compreender esses
+ 00:14:27
+
+dados. E a partir disso, não é, nós
+ 00:14:29
+
+desenvolvemos a aplicação e tudo começa
+ 00:14:32
+
+por pela questão do login do golfbr. E
+ 00:14:35
+
+aqui foi uma evolução espetacular que
+ 00:14:38
+
+nós tivemos nas bases de dados do do dos
+ 00:14:40
+
+órgãos federais, não é? Ou seja, todos eles
+ 00:14:43
+
+estão usando a base do GolfBR. E isso
+ 00:14:45
+
+propicia fazer esse primeiro movimento,
+ 00:14:49
+
+não é, de eh visualização dos dados do dos
+ 00:14:52
+
+agricultores, dos detentores de móveis a
+ 00:14:56
+
+partir, não é, da referência do GOVBR. E
+ 00:14:59
+
+agora, não é, fazendo esse esse login
+ 00:15:02
+
+específico no golfbr, você já consegue
+ 00:15:05
+
+ter duas grandes, não é, abas para poder
+ 00:15:07
+
+navegar e buscar suas informações. Uma
+ 00:15:10
+
+aba destinada a identificar os imóveis
+ 00:15:13
+
+rurais e outra aba voltada à agricultura
+ 00:15:15
+
+familiar e ao cadastro nacional da
+ 00:15:19
+
+agricultura familiar.
+ 00:15:21
+
+Na questão dos imóveis, não é? Quando você
+ 00:15:25
+
+escolhe acessar a aba de imóvel rural, a
+ 00:15:27
+
+primeira coisa que vem é o quê? É a
+ 00:15:30
+
+relação dos seus imóveis rurais, porém
+ 00:15:32
+
+indexado, não é, a eh a o respectivo
+ 00:15:36
+
+cadastro. E por que que nós fizemos
+ 00:15:40
+
+isso? Porque aquilo que nós mostramos
+ 00:15:42
+
+antes como uma dor, não é, do do dos
+ 00:15:45
+
+agricultores,
+ 00:15:47
+
+eh eh você não consegue objetivamente
+ 00:15:49
+
+dizer que aquele cadastro que tá no
+ 00:15:53
+
+cadastro do Incra é o mesmo que tá no
+ 00:15:55
+
+CAR, por aquelas coisas que a gente já
+ 00:15:57
+
+falou. Não tem nada a ver inclusive com
+ 00:15:59
+
+uma fé, tem a ver com os tempos em que
+ 00:16:00
+
+esses cadastros foram alimentados. Então
+ 00:16:03
+
+você pode ter a Fazenda Esperança lá no
+ 00:16:05
+
+car e a Fazenda Esperança dentro do
+ 00:16:08
+
+SNCR, mas pode ser que a Fazenda
+ 00:16:10
+
+Esperança lá no cara ela tenha 100 ha e
+ 00:16:13
+
+a fazenda esperança no SNCR ela tenha
+ 00:16:15
+
+200 ha porque aconteceu recentemente uma
+ 00:16:17
+
+um remembramento no imóvel. Isso é uma
+ 00:16:20
+
+fé do agricultor, não é exatamente essa
+ 00:16:22
+
+ausência de interação dos detentores de
+ 00:16:24
+
+imóveis com os cadastros que não nos
+ 00:16:27
+
+permitiria fazer de pronto, não é, uma uma
+ 00:16:30
+
+informação dos cadastros.
+ 00:16:33
+
+para cada eh imóvel nos diferentes
+ 00:16:35
+
+cadastros. Então, nós invertemos a
+ 00:16:38
+
+lógica, como está em cada cadastro o os
+ 00:16:40
+
+imóveis. Então, quando a gente chega na
+ 00:16:43
+
+na apresentação em cada aba, não é, do CAR,
+ 00:16:47
+
+do SNCR e do CGEF, do sistema de gestão
+ 00:16:51
+
+fundiária, não é, que tá associada à
+ 00:16:54
+
+questão das parcelas de
+ 00:16:56
+
+georreferenciamento, não é, a gente
+ 00:16:58
+
+consegue fazer, não é, uma ficha corrida do
+ 00:17:01
+
+imóvel dentro de cada eh cadastro
+ 00:17:05
+
+desses, não é, e vai abrindo as abas para
+ 00:17:08
+
+exibir o cadastro. a gente consegue
+ 00:17:10
+
+também eh colocar à disposição tanto o
+ 00:17:13
+
+recibo e o demonstrativo aqui no caso do
+ 00:17:17
+
+cadastro ambiental rural e consegue ver
+ 00:17:19
+
+o geoposicionamento do imóvel dentro da
+ 00:17:22
+
+aplicação, não é? Então, essas ferramentas
+ 00:17:26
+
+que a gente esse essa essas
+ 00:17:28
+
+visualizações que a gente já
+ 00:17:30
+
+disponibiliza eh para o agricultor
+ 00:17:31
+
+permite que pela primeira vez ele possa
+ 00:17:34
+
+de forma facilitada saber, por exemplo,
+ 00:17:36
+
+o que tá dentro do carro, por exemplo,
+ 00:17:38
+
+saber o que tá dentro do SCNCR e o que
+ 00:17:40
+
+tá dentro do CGF. E no caso do CAR e no
+ 00:17:43
+
+caso do CAF, não é? Depois vou falar sobre
+ 00:17:47
+
+isso. Ele consegue baixar esses
+ 00:17:50
+
+documentos, mandar pelo Zap para quem eh
+ 00:17:52
+
+eh tem interesse de receber esse esse
+ 00:17:55
+
+essa documentação
+ 00:17:58
+
+aqui. Eu t Então, eu destaquei
+ 00:18:01
+
+especificamente essa questão da da de
+ 00:18:03
+
+poder fazer o o download do do dos
+ 00:18:05
+
+documentos, não é? Eh, e quando a gente
+ 00:18:08
+
+chega aqui no cadastro da agricultura
+ 00:18:11
+
+familiar, foi uma grande inovação que
+ 00:18:13
+
+nós fizemos agora em setembro dentro do
+ 00:18:14
+
+dentro do do meio imóvel rural, não é? Eh,
+ 00:18:18
+
+o que teremos lá disponível dentro do
+ 00:18:22
+
+carro? A gente tem lá a famosa
+ 00:18:24
+
+carteirinha, não é, só que agora
+ 00:18:27
+
+digitalizada, disponível no cabeçalho.
+ 00:18:29
+
+Quando você abre ali, entra ali na eh eh
+ 00:18:32
+
+no CAF, tem a descrição, não é, do que tem
+ 00:18:35
+
+lá dentro do cadastro da família, do
+ 00:18:38
+
+agricultor, não é, daquilo que se conhece
+ 00:18:40
+
+como extrato da da do cadastro da
+ 00:18:42
+
+agricultura familiar. E você também
+ 00:18:45
+
+consegue baixar, não é, o o o
+ 00:18:47
+
+extrato público, não é, do cadastro da
+ 00:18:52
+
+agricultura familiar para poder entregar
+ 00:18:54
+
+pro banco, para poder, não é, fazer eh
+ 00:18:56
+
+pedir lá, entrar na eh eh nas ofertas do
+ 00:18:58
+
+Programa de aquisição de alimentos como
+ 00:19:02
+
+iniciativas em que o CAF, não é, é um
+ 00:19:04
+
+portador de direitos. Ou seja, a gente
+ 00:19:06
+
+tá aqui numa condição em que se a gente
+ 00:19:08
+
+fosse fazer uma analogia com a carteira
+ 00:19:11
+
+digital de trânsito, o CAF é a nossa
+ 00:19:12
+
+CNH.
+ 00:19:15
+
+E os imóveis a gente colocaria como se
+ 00:19:16
+
+fosse, não é, o carro ali, o veículo que a
+ 00:19:18
+
+gente tem eh eh gravado em nosso nome.
+ 00:19:20
+
+Então aqui mostrando, não é, mais uma vez a
+ 00:19:24
+
+questão da da da descrição da CAF, o que
+ 00:19:26
+
+que tem disponível sobre a
+ 00:19:29
+
+caracterização da unidade familiar de
+ 00:19:31
+
+produção agrícola, não é, eh também, não é, a
+ 00:19:33
+
+disponibilização do extrato da unidade
+ 00:19:37
+
+eh familiar de produção agrícola. gente,
+ 00:19:40
+
+dessa primeira parte da minha fala, não é,
+ 00:19:43
+
+eu já fiz esse esse essa jornada, não é, de
+ 00:19:45
+
+do diagnóstico que nós fizemos, do que a
+ 00:19:48
+
+gente começou a oferecer para dentro da
+ 00:19:51
+
+ferramenta. E aqui eu vou mostrar um
+ 00:19:54
+
+pouquinho para vocês o que nós
+ 00:19:55
+
+projetamos agora para um futuro próximo
+ 00:19:57
+
+em relação a eh eh o meu imóvel rural,
+ 00:20:00
+
+não é? Então, uma das nossas eh entregas
+ 00:20:04
+
+que nós estamos estimando agora para a
+ 00:20:07
+
+COP 30 é trazermos
+ 00:20:10
+
+a visualização dos imóveis que são
+ 00:20:13
+
+cadastrados como CNPJ. A gente conseguiu
+ 00:20:15
+
+num primeiro momento, em função da
+ 00:20:18
+
+própria característica do login do
+ 00:20:20
+
+golfbr, não é, trazer 90% da nossa base,
+ 00:20:21
+
+que são de imóveis com CPF. Agora nós
+ 00:20:25
+
+estamos trazendo os 10% restantes, que
+ 00:20:28
+
+são os imóveis que são cadastrados com
+ 00:20:30
+
+CNPJ. Outra novidade importante, isso
+ 00:20:32
+
+aqui eu acho que vai ser um um negócio
+ 00:20:35
+
+que vai ajudar muito naquele ciclo que a
+ 00:20:37
+
+gente estava falando de informações e
+ 00:20:39
+
+interação com os agricultores
+ 00:20:42
+
+para cada cadastro que tenha um sistema
+ 00:20:44
+
+próprio de notificações, não é, e eh para
+ 00:20:46
+
+os detentores de imóveis, para os
+ 00:20:50
+
+agricultores familiares, no caso do CAF,
+ 00:20:52
+
+não é, o meu imóvel rural vai
+ 00:20:54
+
+disponibilizar um sistema de
+ 00:20:56
+
+notificação. Então, por exemplo, se o
+ 00:20:58
+
+CAF quiser fazer uma notificação lá
+ 00:21:00
+
+avisando o agricultor familiar que olha,
+ 00:21:03
+
+seu seu CAF tá vencendo, vai poder usar
+ 00:21:05
+
+o meu imóvel rural como mensageiro, não é,
+ 00:21:08
+
+eh eh dessa notificação e que a gente
+ 00:21:11
+
+aqui também vai usar a caixa de entrada
+ 00:21:14
+
+do GolfBR. E um terceiro ponto que eu
+ 00:21:16
+
+acho que aí pros extensionistas vai ser
+ 00:21:19
+
+muito interessante pros sindicatos, não é?
+ 00:21:21
+
+Nós vamos ter uma regra
+ 00:21:23
+
+de consentimento
+ 00:21:25
+
+para que parceiros como representantes,
+ 00:21:27
+
+não é, sindicatos, extensionistas, ou mesmo
+ 00:21:30
+
+naquela situação dos arrendatários em
+ 00:21:33
+
+que o imóvel não é dele, mas ele tem o
+ 00:21:35
+
+contrato de arrendamento e ele usa o
+ 00:21:37
+
+imóvel para poder pegar financiamento,
+ 00:21:39
+
+para poder produzir, eh, dentro da
+ 00:21:41
+
+ferramenta, meu imóvel rural vai estar
+ 00:21:43
+
+autorizado um um esquema de
+ 00:21:45
+
+consentimento, ou seja, o agricultor não
+ 00:21:47
+
+vai precisar passar o seu login do
+ 00:21:50
+
+golfbr pro pro terceiro, ele vai assinar
+ 00:21:51
+
+um contrato, não é, eh, inteligente de
+ 00:21:55
+
+consentimento e a partir dessa dessa
+ 00:21:58
+
+dessa contratualização, o terceiro vai
+ 00:22:00
+
+poder acessar os dados e isso também vai
+ 00:22:02
+
+est controlado aqui eh pelo governo do
+ 00:22:04
+
+Brasil eh eh do ponto de vista do acesso
+ 00:22:07
+
+à ferramenta. Então, gente, eh
+ 00:22:10
+
+basicamente esses seriam os principais
+ 00:22:12
+
+pontos que eu queria apresentar para
+ 00:22:14
+
+vocês de novidades em relação ao meu
+ 00:22:16
+
+imóvel rural. Nós estamos muito
+ 00:22:18
+
+confiantes na expansão da ferramenta. A
+ 00:22:20
+
+gente tem acompanhado as revoluções,
+ 00:22:22
+
+chegamos a ter 1000 a 2000 novos
+ 00:22:25
+
+usuários a cada semana eh eh dentro da
+ 00:22:27
+
+ferramenta. Já chegamos a mais de
+ 00:22:30
+
+100.000 usuários distintos, não é,
+ 00:22:32
+
+utilizando utilizando a ferramenta meu
+ 00:22:34
+
+imóvel rural. temos uma meta, não é, de nos
+ 00:22:37
+
+aproximarmos muito eh eh do que é a
+ 00:22:41
+
+realidade, daquilo que a gente chama dos
+ 00:22:44
+
+imóveis vivos, não é, daqueles agricultores
+ 00:22:46
+
+que precisam pegar financiamento, que
+ 00:22:48
+
+precisam ter seu cadastro atualizado.
+ 00:22:50
+
+Então ali a gente já faz uma conta que
+ 00:22:52
+
+temos aproximadamente 2.800.000
+ 00:22:54
+
+imóveis cadastrados no CAR, que a gente
+ 00:22:58
+
+identifica que tem cadastro da
+ 00:23:02
+
+agricultura familiar, não é? Então aqui já
+ 00:23:03
+
+tem um potencial de crescimento para
+ 00:23:05
+
+quem precisa do cara e precisa do CAF
+ 00:23:08
+
+pra gente crescer, não é, do ponto de vista
+ 00:23:10
+
+de acesso ao meio móvel rural, não é? E
+ 00:23:12
+
+depois na sequência aí das conversas eu
+ 00:23:14
+
+posso contar outras novidades. Tem
+ 00:23:16
+
+alguns spoilers pra gente fazer sobre a
+ 00:23:17
+
+as evoluções do meu imóvel rural.
+ 00:23:21
+
+Obrigado pela atenção, gente.
+ 00:23:23
+
+>> Muito bem, muito bem, Carlos. Excelente,
+ 00:23:29
+
+excelente novidade aí sobre essa questão
+ 00:23:32
+
+da digitalização e também do acesso aos
+ 00:23:36
+
+nossos agricultores às tecnologias
+ 00:23:38
+
+digitais, o que facilita muito a vida,
+ 00:23:41
+
+não é? Eu fico lembrando aqui no no
+ 00:23:43
+
+passado, não é? E isso acontece ainda hoje,
+ 00:23:46
+
+não é? Ah, tem que ir pra cidade para
+ 00:23:48
+
+apagar a luz, não é? E tipo assim, são
+ 00:23:51
+
+coisas assim que para quem tá na cidade
+ 00:23:53
+
+é não é nem compreensível, não é? Então,
+ 00:23:56
+
+toda a tecnologia que vem para facilitar
+ 00:23:59
+
+a vida do agricultor, do extensionista e
+ 00:24:02
+
+de todos que possam compartilhar eh
+ 00:24:05
+
+questões paraa evolução das nossas
+ 00:24:08
+
+políticas públicas, eu acho que é muito
+ 00:24:10
+
+relevante.
+ 00:24:12
+
+Bom, aqui é só para contextualizar
+ 00:24:14
+
+o quem é que tá presente aqui na live,
+ 00:24:17
+
+temos o nosso amigo Vinícius Colete,
+ 00:24:19
+
+nosso grande amigo do IDL Paraná, que é
+ 00:24:21
+
+extensionista, já tá aí acompanhando já
+ 00:24:23
+
+a nossa live. Nós temos a Jéssica,
+ 00:24:26
+
+a Jéssica de São Paulo aí também
+ 00:24:29
+
+vinculada ao programa doutorado, pessoal
+ 00:24:31
+
+que aqui se se manifestou.
+ 00:24:33
+
+Desculpa, gente, eu tô com uma tosse
+ 00:24:37
+
+aqui. E bom, vamos começar com a com com
+ 00:24:39
+
+a principal assim questão muito legal, a
+ 00:24:44
+
+novidade. E mas assim, Carlos, na
+ 00:24:47
+
+percepção de vocês, quais seriam os
+ 00:24:49
+
+maiores desafios? Eu sei que você falou
+ 00:24:52
+
+bastante, não é? Mas vamos retomar aqui
+ 00:24:54
+
+quais os principais desafios que você vê
+ 00:24:57
+
+agora, porque toda novidade que se lança
+ 00:24:59
+
+tem alguns desafios. O que que você
+ 00:25:02
+
+imagina que que de desafios que vai ter
+ 00:25:04
+
+nessa proposta aí de inovação que vocês
+ 00:25:07
+
+estão apresentando?
+ 00:25:09
+
+>> É, nós entendemos como o desafio
+ 00:25:12
+
+primeiro é a disseminação da ferramenta,
+ 00:25:14
+
+não é? Por isso que nós estamos aqui
+ 00:25:16
+
+conversando com vocês, estão utilizando
+ 00:25:17
+
+vários canais eh eh de divulgação, não é,
+ 00:25:19
+
+da da ferramenta meu imóvel rural,
+ 00:25:23
+
+porque a gente sabe da do histórico, não é,
+ 00:25:25
+
+dessa conexão entre, não é, eh você lançar
+ 00:25:27
+
+uma novidade pro meio rural e ela
+ 00:25:31
+
+definitivamente chegar, não é, a a quem
+ 00:25:32
+
+realmente precisa. Então, para mim, o o
+ 00:25:35
+
+principal desafio é dessa natureza. Um
+ 00:25:38
+
+outro desafio que a gente enfrentou na
+ 00:25:40
+
+montagem da da ferramenta foi quando nós
+ 00:25:44
+
+começamos a fazer testes de usabilidade
+ 00:25:47
+
+da ferramenta. Então hoje o meu imóvel
+ 00:25:49
+
+rural ele como ele é, não é, ele não
+ 00:25:52
+
+começou assim, ele começou de um outro
+ 00:25:54
+
+jeitão. E a gente foi fazer primeiro
+ 00:25:56
+
+testes com agricultores familiares do
+ 00:25:59
+
+Rio Grande do Sul e depois fizemos com
+ 00:26:01
+
+produtores rurais de Minas Gerais, não é?
+ 00:26:03
+
+Pessoal aqui ligado mais na área da da
+ 00:26:06
+
+da agricultura familiar no Rio Grande do
+ 00:26:09
+
+Sul e pessoal mais ligado a CNA, não é,
+ 00:26:11
+
+produtores médios e grandes que a gente
+ 00:26:14
+
+foi com sindicato e produtores rurais
+ 00:26:16
+
+testar em Minas Gerais. E o que que a
+ 00:26:18
+
+gente percebeu, não é, na na
+ 00:26:20
+
+nas entrevistas, não é, eh, primeiro era a
+ 00:26:23
+
+surpresa das pessoas, não é, em em ver a as
+ 00:26:26
+
+informações aí, as dificuldades usuais,
+ 00:26:30
+
+não é, do ponto de vista da navegação, eh,
+ 00:26:33
+
+na própria ferramenta, não é, pessoas que
+ 00:26:35
+
+dizem: "Olha, aqui eu descobri que o
+ 00:26:38
+
+imóvel que eu vendi há seis meses atrás,
+ 00:26:41
+
+o comprador não não regularizou, porque
+ 00:26:42
+
+ele ainda tá no meu nome aqui, não é? ele
+ 00:26:44
+
+conseguiu ver ali quando ele viu na
+ 00:26:47
+
+página do CGEF, não é, que não tinha sido
+ 00:26:49
+
+feito, não tinha sido concluída a
+ 00:26:51
+
+transação por parte do comprador eh eh
+ 00:26:53
+
+do imóvel. Teve um caso muito
+ 00:26:56
+
+interessante que foi o com agricultor
+ 00:26:59
+
+ali do do agricultora do do Rio Grande
+ 00:27:01
+
+do Sul, em que a gente começou chamando,
+ 00:27:04
+
+não é, naquelas abas ali que aparecem do
+ 00:27:08
+
+CAR, do SNCR e tal, o agricultor
+ 00:27:10
+
+simplesmente não sabia o que que era
+ 00:27:14
+
+SNCR.
+ 00:27:15
+
+Quando a gente fez referência ao CCIR,
+ 00:27:17
+
+não é, que é o documento que chega na mão,
+ 00:27:20
+
+não é, do agricultor, do certificado do do
+ 00:27:21
+
+comprovante do imóvel rural, aí a
+ 00:27:24
+
+pessoa, ah, não, agora isso eu sei, não é,
+ 00:27:26
+
+o CCR do Incra, não é, é, não é isso aí. Aí
+ 00:27:28
+
+a gente foi lá e mudou o nome, não é, na na
+ 00:27:31
+
+para poder tá exatamente associado
+ 00:27:34
+
+aquilo que tá na memória e que tá na na
+ 00:27:36
+
+vida, na vivência das pessoas que acabam
+ 00:27:39
+
+tratando, não é, dessa questão do do
+ 00:27:42
+
+cadastro. Um outro tema muito
+ 00:27:44
+
+interessante que a gente evoluiu na
+ 00:27:46
+
+ferramenta, não é, é que eu acabei não
+ 00:27:48
+
+mostrando aqui na apresentação, mas a
+ 00:27:51
+
+gente eh tem uma outra um outro material
+ 00:27:53
+
+que consegue mostrar é que para os
+ 00:27:55
+
+imóveis que têm o CGF,
+ 00:27:57
+
+a gente consegue mostrar as duas
+ 00:28:00
+
+parcelas juntas, a do CAR e a do CGF. E
+ 00:28:02
+
+aí o agricultor consegue ver a
+ 00:28:06
+
+divergência dos dados ou a gente
+ 00:28:07
+
+consegue ver a proximidade dos dados,
+ 00:28:09
+
+não é? Então, principalmente na conversa
+ 00:28:12
+
+que a gente tem feito com a CNA, não é, eh,
+ 00:28:14
+
+em que o perfil de imóveis que tem, não é,
+ 00:28:17
+
+o o a certificação, a área devidamente
+ 00:28:20
+
+matriculada são de imóveis médios.
+ 00:28:23
+
+que a gente tá fazendo junto com a CNA é
+ 00:28:27
+
+que a CNA dissemine a informação que
+ 00:28:29
+
+está no meio imóvel rural para que o
+ 00:28:32
+
+próprio detentor do imóvel, produtor,
+ 00:28:33
+
+possa ir lá no CAR e corrigir a
+ 00:28:35
+
+informação do polígono do CAR
+ 00:28:38
+
+convergindo com o polígono do CGE,
+ 00:28:40
+
+porque isso dá segurança jurídica pro
+ 00:28:42
+
+analista ambiental que tá lá para dar,
+ 00:28:44
+
+não é, a a conformidade ambiental no car,
+ 00:28:47
+
+ele ter segurança que aquele imóvel
+ 00:28:50
+
+existe, de que aquela parcela é com com
+ 00:28:52
+
+aquela precisão posicional. Lembrando
+ 00:28:54
+
+sempre que aquela precisão posicional
+ 00:28:56
+
+que tá no carida,
+ 00:28:58
+
+não é, a que tá previsto na certificação de
+ 00:29:01
+
+móveis, porque a ideia era povoar a base
+ 00:29:03
+
+de dados com informações que permitisse
+ 00:29:06
+
+ver, não é, se havia cumprimento ou não do
+ 00:29:08
+
+Código Florestal. Então, foram inovações
+ 00:29:11
+
+que a gente foi criando, aprendendo com
+ 00:29:14
+
+os agricultores, não é, nos testes de
+ 00:29:15
+
+usabilidade, na na em ouvir, não é, eh eh
+ 00:29:18
+
+da vida mesmo real dos agricultores. E
+ 00:29:21
+
+por isso que a gente ficou muito
+ 00:29:24
+
+confiante quando a ferramenta entrou em
+ 00:29:25
+
+campo, não é, porque a gente já tinha
+ 00:29:27
+
+testado isso e começou a verificar que
+ 00:29:30
+
+os as perguntas eram as mesmas, as
+ 00:29:32
+
+dificuldades eram as mesmas e nós fomos
+ 00:29:34
+
+aí aprimorando a ferramenta. a gente tem
+ 00:29:36
+
+uma um uma sala de máquinas que a gente
+ 00:29:39
+
+chama, não é, que é um ponto de controle
+ 00:29:42
+
+semanal liderado pela data prév junto
+ 00:29:43
+
+com a Secretaria de Governo Digital do
+ 00:29:46
+
+MGI, com a gente e que conta com o
+ 00:29:49
+
+pessoal do Ministério da Agricultura,
+ 00:29:51
+
+conta com o pessoal do MDA, com o
+ 00:29:53
+
+pessoal do INCRA e semanalmente a gente
+ 00:29:55
+
+vai atualizando, não é, eh eh as nossas
+ 00:29:57
+
+avaliações sobre a ferramenta e vai
+ 00:30:00
+
+nessa nessa toada aprimorando e
+ 00:30:02
+
+trazendo, não é, eh eh inovações
+ 00:30:05
+
+Muito legal, muito legal. Show de bola.
+ 00:30:09
+
+Aqui, ó, o Tarcísio, nosso grande
+ 00:30:12
+
+professor aí, apoiador de todas as
+ 00:30:14
+
+causas da extensão oral. Ele disse
+ 00:30:17
+
+assim: "Grande iniciativa, parabéns,
+ 00:30:19
+
+Guades, precisamos avançar
+ 00:30:20
+
+na análise do cara aqui no Rio Grande do
+ 00:30:23
+
+Sul, não é? E daí ele fala que tá muito
+ 00:30:25
+
+lento a questão, não é? Então é é
+ 00:30:28
+
+importante, não é? Porque eh isso é a
+ 00:30:30
+
+burocracia, não é? Se já é difícil para
+ 00:30:33
+
+quem tem, não é? tá todo dia lidando com
+ 00:30:35
+
+ela. Imagina pro agricultor que tá lá na
+ 00:30:38
+
+lida, não é, familiar, não é, que tem todas as
+ 00:30:40
+
+dificuldades, não é, que aí envolve desde
+ 00:30:42
+
+questão de sinal até até questão de
+ 00:30:44
+
+compreensão das coisas, não é? Então,
+ 00:30:47
+
+quanto mais se avançar e mais ficar
+ 00:30:50
+
+facil mais ágil, mais interativo, mais
+ 00:30:51
+
+intuitivo era o nome, não é? Intuitivo
+ 00:30:56
+
+melhor para nossos e melhor para nossas
+ 00:30:59
+
+políticas públicas, não é? Grande, obrigado
+ 00:31:01
+
+pela contribuição aí, Tarcissio. Não sei
+ 00:31:03
+
+se o Ges quer fazer algum comentário
+ 00:31:06
+
+sobre isso.
+ 00:31:07
+
+>> Eu quero porque eu vou aproveitar esse
+ 00:31:08
+
+gancho do Tarcis e fazer um spoiler que
+ 00:31:09
+
+eu prometi aqui pro pro canal, não é? Eh,
+ 00:31:11
+
+primeiro Tarciso, obrigado aqui tá com a
+ 00:31:16
+
+gente, tá? O Tarciso é um cara que eu
+ 00:31:18
+
+aprendo muito, tá? de da Lida mesa. Ele
+ 00:31:20
+
+é o cara que combina, não é, a teoria e a
+ 00:31:23
+
+prática de um jeito eh eh eh incomum e e
+ 00:31:26
+
+e que tem que ser valorizado.
+ 00:31:30
+
+Eh, de fato, não é, nós temos um nós temos
+ 00:31:32
+
+em âmbito geral no Brasil um um processo
+ 00:31:35
+
+de de conclusão da análise do cara ainda
+ 00:31:37
+
+a quem do que a gente gostaria. E nós
+ 00:31:40
+
+estamos prevendo um conjunto de
+ 00:31:42
+
+ferramentas que permitam acelerar, não é,
+ 00:31:44
+
+fundamentalmente na convergência com os
+ 00:31:46
+
+estados, na no apoio que o MGI e o
+ 00:31:49
+
+serviço florestal brasileiro podem dar
+ 00:31:52
+
+eh nesse sentido, na divisão de tarefa
+ 00:31:55
+
+que nos compete, não é? Então, eh às vezes
+ 00:31:57
+
+fica estranho falar do MGI e o rural e o
+ 00:31:59
+
+CAR, não é? Aqui é sempre bom lembrar que
+ 00:32:02
+
+eh eh o cadastro ambiental rural acabou
+ 00:32:04
+
+vindo pro Ministério da Gestão como uma
+ 00:32:07
+
+um acordo entre, não é, o governo e o
+ 00:32:10
+
+Congresso Nacional ainda em 2023, quando
+ 00:32:13
+
+teve a reforma, não é, eh do novo governo
+ 00:32:16
+
+que foi que foi empossado à época, não é,
+ 00:32:19
+
+então eh eh como uma mediação entre as
+ 00:32:21
+
+partes, não é, o cadastro ambiental rural
+ 00:32:25
+
+acabou vindo para o MGI, mas as
+ 00:32:27
+
+atribuições de regularização ambiental
+ 00:32:29
+
+estão, não é, não é? E no condão do Ministério
+ 00:32:32
+
+do Meio Ambiente, em especial no Serviço
+ 00:32:34
+
+Florestal Brasileiro.
+ 00:32:37
+
+Então, o que a gente tem feito é apoiar
+ 00:32:39
+
+os órgãos estaduais de meio ambiente,
+ 00:32:41
+
+que são os responsáveis pelas análises,
+ 00:32:42
+
+não é, eh eh do CAR, em melhorar a gama de
+ 00:32:45
+
+informações que estão disponíveis para
+ 00:32:48
+
+dar segurança pro analista ambiental,
+ 00:32:50
+
+não é? E nesse contexto, o meu imóvel
+ 00:32:53
+
+rural, ele entra como uma luva, porque
+ 00:32:55
+
+ele permite pro detentor aprimorar a
+ 00:32:57
+
+informação lá dentro do CAR, não é? e dessa
+ 00:32:59
+
+forma dá segurança pro analista
+ 00:33:02
+
+ambiental. Eu dei um exemplo aqui, nós
+ 00:33:04
+
+temos muitos problemas no CAR de
+ 00:33:06
+
+sobreposição entre imóveis, porque como
+ 00:33:08
+
+dito anteriormente, não é, não foi exigida
+ 00:33:10
+
+a precisão posicional para fazer para
+ 00:33:12
+
+poder fazer a informação do cara. Então
+ 00:33:14
+
+vai ter lá, não é, tem os toques entre as
+ 00:33:16
+
+entre as cercas que não não deu para
+ 00:33:19
+
+medir direito, tem alguns que estão mais
+ 00:33:20
+
+em cima do que outros e tal. Isso é a
+ 00:33:22
+
+realidade da base do car, não é? Eh, eh,
+ 00:33:24
+
+porém a gente tá eh, eh, em parceria com
+ 00:33:28
+
+a Universidade Federal de Lavras, com a
+ 00:33:32
+
+Embrapa Territorial, com o grupo de
+ 00:33:34
+
+políticas públicas de Exalk, não é, fazendo
+ 00:33:36
+
+leituras da base do CAR para que elas
+ 00:33:39
+
+cheguem nos órgãos ambientais rurais de
+ 00:33:42
+
+uma forma em que eles consigam, a partir
+ 00:33:44
+
+daqueles grandes números que tem na
+ 00:33:46
+
+base, consigam identificar imóveis, não é,
+ 00:33:48
+
+conforme o interesse. Ó, quero trabalhar
+ 00:33:51
+
+com os agricultores familiares porque
+ 00:33:54
+
+eles precisam do PRONAF. Então a gente
+ 00:33:55
+
+consegue fazer já uma análise como é que
+ 00:33:57
+
+tá a situação de sobreposição, quais são
+ 00:33:59
+
+os imóveis que tem CGF, quais são os
+ 00:34:01
+
+imóveis que poderiam de alguma maneira
+ 00:34:03
+
+dar segurança pro analista, olhar a
+ 00:34:06
+
+condição de cumprimento do código e
+ 00:34:08
+
+dizer o que que é o resultado da
+ 00:34:10
+
+análise, é se ele tem excedente de
+ 00:34:12
+
+vegetação nativa, se o que ele tem lá
+ 00:34:14
+
+ele cumpre o código folosestal, mas não
+ 00:34:16
+
+tem excedente ou se eventualmente tem
+ 00:34:18
+
+passivo de vegetação nativa e que vai
+ 00:34:20
+
+fazer um programa de regularização
+ 00:34:22
+
+ambiental, não é? Quer dizer, pro analista
+ 00:34:24
+
+chegar aí, não é, eh eh a gente tá
+ 00:34:26
+
+começando a dar esse suporte. E no caso
+ 00:34:30
+
+do Rio Grande do Sul, esse é o spoiler
+ 00:34:32
+
+que eu queria dar, não é, numa parceria com
+ 00:34:34
+
+também com o Ministério do
+ 00:34:38
+
+Desenvolvimento Agrário, em especial com
+ 00:34:39
+
+a Nater, não é, a gente vai levar eh eh um
+ 00:34:40
+
+serviço público que vai ser feito pela
+ 00:34:45
+
+Imatéria do Rio Grande do Sul e por
+ 00:34:47
+
+entidades a serem contratadas numa
+ 00:34:49
+
+chamada pública que está aberta nesse
+ 00:34:51
+
+momento, viu o Ezequiel, querente
+ 00:34:53
+
+aproveitar teu canal aqui no Rio Grande
+ 00:34:55
+
+do Sul para ajudar a divulgar, não é? Nós
+ 00:34:57
+
+queremos retificar o car das famílias
+ 00:35:00
+
+que mais sofreram com a catástrofe do
+ 00:35:03
+
+ano passado, porque a gente tem certeza
+ 00:35:05
+
+de que o que está na base do car hoje
+ 00:35:07
+
+dessas famílias não representa o imóvel
+ 00:35:10
+
+que sobreviveu, não é, aquele evento
+ 00:35:13
+
+climático de 2024. O Rio entrou na
+ 00:35:16
+
+propriedade, não é, a APP não é mais
+ 00:35:19
+
+aquela, não é? Quer dizer, o agricultor
+ 00:35:22
+
+teve que refazer na marra ali o
+ 00:35:24
+
+planejamento da propriedade aonde ele ia
+ 00:35:27
+
+ia produzir. E o CAR é um raio X da
+ 00:35:29
+
+propriedade. O CAR pode servir como
+ 00:35:32
+
+instrumento de planejamento e adequação
+ 00:35:34
+
+do conjunto da propriedade, não só da
+ 00:35:36
+
+parte eh ambiental. Então, a gente
+ 00:35:38
+
+firmou essa parceria com o MMDA, com a
+ 00:35:41
+
+Nat e estamos numa conversa cotidiana
+ 00:35:43
+
+com a Secretaria de Meio Ambiente do Rio
+ 00:35:46
+
+Grande do Sul para que essas 3.000
+ 00:35:48
+
+famílias, 1000 famílias que nós vamos
+ 00:35:51
+
+trabalhar com a Imaterão do Vale do
+ 00:35:53
+
+Taquari e do Vale do Rio Pardo e 2.000
+ 00:35:55
+
+famílias que por essa chamada pública
+ 00:35:58
+
+que a gente abriu junto com a Nat, não é, a
+ 00:35:59
+
+gente possa que esses 3.000 CARS que a
+ 00:36:03
+
+gente vai retificar, sejam objeto da
+ 00:36:06
+
+análise já no ano de 2026 pela
+ 00:36:09
+
+Secretaria do Meio Ambiente do Rio
+ 00:36:11
+
+Grande do Sul, possam ser validados e
+ 00:36:12
+
+que possa ser feito um trabalho de apoio
+ 00:36:14
+
+a essas famílias, não é, eh, que tiveram
+ 00:36:16
+
+perdas não só do ponto de vista
+ 00:36:19
+
+material, mas perda da vegetação nativa,
+ 00:36:20
+
+não é? E já tivemos também uma sinalização
+ 00:36:23
+
+do Serviço florestal brasileiro que quer
+ 00:36:25
+
+também nos apoiar. Eh, nesse sentido,
+ 00:36:27
+
+esse esse desenho que nós estamos
+ 00:36:31
+
+desenvolvendo, ele tem também uma outra
+ 00:36:33
+
+novidade que é a seguinte. Na parceria
+ 00:36:35
+
+com a Imatéria e com a Nater que a gente
+ 00:36:37
+
+tá começando a trabalhar, vai começar a
+ 00:36:39
+
+trabalhar a partir do dia 27 de outubro
+ 00:36:41
+
+eh no Rio Grande do Sul, não é? Eh, nós
+ 00:36:44
+
+estamos levando também uma novidade
+ 00:36:47
+
+dentro do meio imóvel rural que eu não
+ 00:36:49
+
+apresentei aqui, que a gente chama de
+ 00:36:50
+
+credenciais verificáveis. O que que é
+ 00:36:53
+
+isso? Credencial verificável. Vocês
+ 00:36:55
+
+viram lá que o meu imóvel rural tem lá o
+ 00:36:58
+
+CAR para poder baixar e o CAF para poder
+ 00:37:00
+
+baixar, não é? Então, já na ferramenta,
+ 00:37:03
+
+você poderia fazer, eu baixo o PDF aqui,
+ 00:37:06
+
+entrego pro banco, não é, para quem for
+ 00:37:08
+
+pegar um financiamento e e já seria uma
+ 00:37:10
+
+facilidade, não é? Mas nós fomos adiante.
+ 00:37:13
+
+Nós fechamos uma parceria, não é, com
+ 00:37:17
+
+instituições da Índia que desenvolve a
+ 00:37:19
+
+sua tecnologia de forma disseminada. Ou
+ 00:37:22
+
+seja, hoje lá na Índia eh eh você não
+ 00:37:24
+
+tem mais a sua carteira com os
+ 00:37:29
+
+documentos de papel, tá tudo dentro de
+ 00:37:30
+
+uma wallet digital em que você pode
+ 00:37:33
+
+enviar e esse documento tá acreditado
+ 00:37:35
+
+pelo governo, não é? Então você precisa do
+ 00:37:38
+
+seu certificado aí de de
+ 00:37:41
+
+eh de extensionista ou seu certificado
+ 00:37:45
+
+de graduação, pós-graduação, não é?
+ 00:37:48
+
+Geralmente você tem que ir lá na
+ 00:37:50
+
+universidade buscar ou, não é, de de mesmo
+ 00:37:51
+
+digitalizar, tem que baixar, não sei que
+ 00:37:54
+
+na Índia isso já é tudo digital e você
+ 00:37:56
+
+tem o comando, não é, de poder disparar
+ 00:37:59
+
+para qual entidade que lhe interessa. E
+ 00:38:02
+
+no caso da Índia, eles superaram uma
+ 00:38:04
+
+limitação que eu acho espetacular, é o
+ 00:38:06
+
+seguinte, a Índia tem inúmeras línguas
+ 00:38:07
+
+diferentes, não é? Então esse certificado
+ 00:38:09
+
+ele já vai adaptado na língua do
+ 00:38:12
+
+destinatário,
+ 00:38:14
+
+não é? eh, e com a acreditação da
+ 00:38:16
+
+ferramenta. Pois bem, a gente fechou
+ 00:38:19
+
+essa parceria com a Índia e estamos
+ 00:38:21
+
+trazendo essa tecnologia pro Brasil que
+ 00:38:23
+
+vai servir para inúmeras coisas, mas a
+ 00:38:25
+
+gente optou em começar com o crédito
+ 00:38:27
+
+rural, com o PRONAF para 100 famílias
+ 00:38:30
+
+que foram duramente atingidas na
+ 00:38:33
+
+enchente no Vale do Rio Pardo e no Vale
+ 00:38:35
+
+do Taquari em 2025. E nós vamos começar
+ 00:38:37
+
+esse piloto com 100 famílias num uma
+ 00:38:40
+
+parceria fantástica com a Naté e com a
+ 00:38:43
+
+Emater do Rio Grande do Sul, não é? em que
+ 00:38:45
+
+naquela sistemática que o extensionista
+ 00:38:49
+
+já faz, dispara o projeto de crédito,
+ 00:38:51
+
+não é, pelo portal do crédito lá do Banco
+ 00:38:54
+
+do Brasil, que vai ser o nosso primeiro
+ 00:38:56
+
+banco parceiro nessa iniciativa. O Banco
+ 00:38:58
+
+do Brasil topou ser parceiro eh nessa
+ 00:39:00
+
+iniciativa. O Banco do Brasil recebe a
+ 00:39:03
+
+proposta de crédito pelo portal do
+ 00:39:05
+
+crédito e vai disparar uma notificação
+ 00:39:07
+
+dizendo pro agricultor: "Agricultor, eu
+ 00:39:10
+
+preciso desses documentos. Ele precisa
+ 00:39:11
+
+de um conjunto de documentos, mas esses
+ 00:39:14
+
+dois documentos, o CAR e o CAF, estão lá
+ 00:39:16
+
+no meio imóvel rural. Então ele vai
+ 00:39:17
+
+pegar o CPF do agricultor e vai disparar
+ 00:39:19
+
+a mensagem para dentro do meu imóvel
+ 00:39:22
+
+rural. O que que vai acontecer dentro do
+ 00:39:23
+
+meu imóvel rural? O agricultor vai
+ 00:39:25
+
+autorizar o disparo dos dois documentos
+ 00:39:27
+
+já acreditados pelo governo do Brasil
+ 00:39:30
+
+dentro do banco para que o agricultor
+ 00:39:33
+
+não precise tá baixando o PDF, tá
+ 00:39:36
+
+baixando o zap, indo na agência e não
+ 00:39:38
+
+sei o quê, aquelas coisas que a gente já
+ 00:39:40
+
+conhece. Então, gente, e essa inovação
+ 00:39:42
+
+das credenciais verificáveis a dentro do
+ 00:39:44
+
+meu imóvel rural é uma iniciativa que
+ 00:39:47
+
+nós começaremos no Rio Grande do Sul,
+ 00:39:49
+
+começaremos com sem Famílias,
+ 00:39:51
+
+começaremos com Banco do Brasil, mas a
+ 00:39:53
+
+nossa pretensão é que essa ferramenta de
+ 00:39:55
+
+transformação digital ela se expanda,
+ 00:39:58
+
+não é, para inúmeras situações, não só o
+ 00:40:01
+
+crédito rural, para diferentes serviços
+ 00:40:03
+
+em que as pessoas não precisam estar
+ 00:40:06
+
+andando com papel naquela a imagem que
+ 00:40:07
+
+eu que eu que eu produzi pro agricultor,
+ 00:40:10
+
+não é? não é? Não precisa andar com a pastinha
+ 00:40:12
+
+de plástico de, não é, de de lá para cá
+ 00:40:13
+
+para provar que é agricultor. A gente
+ 00:40:16
+
+tem tecnologia para facilitar a vida de
+ 00:40:17
+
+todo mundo e é isso que o governo do
+ 00:40:20
+
+Brasil tá comprometido em fazer.
+ 00:40:22
+
+>> Muito legal. Que bacana, hein, Carlos?
+ 00:40:25
+
+Eh, tem duas coisas que são caríssimas
+ 00:40:28
+
+assim, que é muito importante. A
+ 00:40:31
+
+primeiro eu trabalho com os agricultores
+ 00:40:32
+
+dos enchetes aqui do Rio Grande do Sul,
+ 00:40:34
+
+porque parece que passou a enchete,
+ 00:40:36
+
+passou os problemas, mas não passou, não é?
+ 00:40:38
+
+Nós estamos aí com aqui em Santa Maria
+ 00:40:40
+
+tem a própria ponte que tá agora começou
+ 00:40:42
+
+a ser viabilizada a ponte que liga aí
+ 00:40:45
+
+Santa Maria Porto Alegre. Outra questão
+ 00:40:47
+
+quando você falou, eu lembrei agora, nós
+ 00:40:49
+
+temos agricultores aqui da polifeira do
+ 00:40:51
+
+agricultor que é que comercializa dentro
+ 00:40:52
+
+da universidade e quando chove eles não
+ 00:40:55
+
+conseguem ele eles não conseguem passar
+ 00:40:57
+
+por e ele é uma ponte que tava do lado
+ 00:40:59
+
+da propriedade deles, arrebentou tudo
+ 00:41:02
+
+completamente qualquer chuvinha que dá
+ 00:41:04
+
+eles têm que passar de trator, não é? Então
+ 00:41:07
+
+assim, essas coisas aí são
+ 00:41:09
+
+valiosíssimas. Essa revisão do cara aí é
+ 00:41:11
+
+olha assim, ó, um acerto lá em cheio,
+ 00:41:14
+
+não é? Porque realmente mudou toda a
+ 00:41:17
+
+dinâmica, perderam acesso, perderam eh a
+ 00:41:19
+
+parte de propriedade, isso é muito real
+ 00:41:22
+
+mesmo. E essa segunda questão aí do
+ 00:41:25
+
+credencial verificável, sensacional,
+ 00:41:28
+
+cara, assim, ó, nós estava precisando
+ 00:41:30
+
+disso, isso para toda a sociedade, além
+ 00:41:32
+
+do nosso agricultor, não é, cara? Porque,
+ 00:41:34
+
+cara, hoje tu vai no avião lá, tu tem
+ 00:41:36
+
+problema de de entrar no avião com
+ 00:41:39
+
+algumas coisas, documentos, não é? Claro
+ 00:41:41
+
+que, tipo, se você for para fora do
+ 00:41:43
+
+Brasil, tem que ser o físico, não é? Não
+ 00:41:46
+
+pode não pode ser a identidade física,
+ 00:41:48
+
+não pode ser a virtual, não é? Tem toda uma
+ 00:41:50
+
+série de questões, acho que vai
+ 00:41:53
+
+facilitar a vida de todo mundo, não é?
+ 00:41:54
+
+Muito legal mesmo. E só para regitar a
+ 00:41:56
+
+presença aqui, nosso amigo Nelson, que é
+ 00:41:59
+
+da África do Sul, já tá um bom tempo no
+ 00:42:02
+
+Brasil aí fazendo, terminou seu mestrado
+ 00:42:04
+
+em Diamantina, tá aí presente também na
+ 00:42:07
+
+live. Zuin,
+ 00:42:09
+
+fica contigo fazendo um comentário aí
+ 00:42:11
+
+pra gente fazer os os encaminhamentos
+ 00:42:13
+
+daqui um pouquinho e se o Carlos tiver
+ 00:42:15
+
+mais questões depois ele já comenta
+ 00:42:17
+
+antes da gente achar a live.
+ 00:42:18
+
+>> Carlos, muito bacana a palestra, não é? E
+ 00:42:21
+
+uma iniciativa maravilhosa do governo
+ 00:42:23
+
+federal. A minha a minha pergunta mais
+ 00:42:25
+
+uma curiosidade mesmo, não é? O imóvel
+ 00:42:28
+
+rural ele pode ser preenchido offline ou
+ 00:42:30
+
+só online pelos agricultores?
+ 00:42:33
+
+>> Então, nessa primeira versão, não é? Eh, a
+ 00:42:37
+
+o que a gente sempre se propôs foi o
+ 00:42:40
+
+seguinte: o meu imóvel rural ele não
+ 00:42:41
+
+substitui, não é, a a interação com os
+ 00:42:44
+
+cadastros base, não é? Então, ou seja, lá
+ 00:42:47
+
+dentro da ferramenta você tem acesso
+ 00:42:51
+
+de lá com o login do golfbr e direto pra
+ 00:42:54
+
+página do car e aí dá continuidade, não é,
+ 00:42:57
+
+as demandas dos serviços serem
+ 00:43:00
+
+colocados. Da mesma coisa com Incra.
+ 00:43:02
+
+Você consegue ver o dado, você consegue
+ 00:43:04
+
+ver a a uma uma eventual necessidade de
+ 00:43:05
+
+atualização e lá dentro do meio imóvel
+ 00:43:08
+
+rural você pode com o login do golfbrad
+ 00:43:10
+
+e fazer as alterações que você precisa
+ 00:43:15
+
+fazer. Então, o meu imóvel rural, ele
+ 00:43:17
+
+assume esse papel de visualizador, não é,
+ 00:43:18
+
+de uma primeira eh eh vamos chamar
+ 00:43:21
+
+assim, um primeiro contato, não é, do
+ 00:43:24
+
+agricultor com a situação do imóvel e eh
+ 00:43:25
+
+o o as mudanças, as alterações, não é, a
+ 00:43:29
+
+interação, ela é feita objetivamente
+ 00:43:33
+
+dentro da eh eh do do cadastro base, não é,
+ 00:43:35
+
+eh que é eh oferecido à visualização do
+ 00:43:40
+
+meio imóvel rural.
+ 00:43:43
+
+Muito bom, muito bom. Eh, Carlos, então
+ 00:43:47
+
+assim, agora vou fazer uma live com e
+ 00:43:50
+
+curta. Isso vai ser muito legal para
+ 00:43:53
+
+para ter mais acesso, mais pessoas
+ 00:43:55
+
+também tá acessando essas grandes
+ 00:43:57
+
+novidades que foram lançadas aqui hoje.
+ 00:43:58
+
+Vou ter dar as considerações finais, aí
+ 00:44:00
+
+você usa o tempo que quiser para
+ 00:44:02
+
+comentar mais alguma coisa e daí a gente
+ 00:44:04
+
+faz o grande enceramento dessa live e
+ 00:44:07
+
+até agradecer pela presença que foi
+ 00:44:08
+
+sensacional,
+ 00:44:10
+
+>> gente. Legal. Eu eu eu, não é, já já é a
+ 00:44:13
+
+segunda vez que eu venho aqui conversar
+ 00:44:16
+
+com vocês. Tô tô muito feliz de de poder
+ 00:44:17
+
+trazer essa inovação do governo do
+ 00:44:20
+
+Brasil eh eh para os brasileiros e
+ 00:44:22
+
+brasileiras, não é? É isso que eu esse é o
+ 00:44:25
+
+slogan do governo, um governo para cada
+ 00:44:28
+
+pessoa, não é? Conforme cada necessidade,
+ 00:44:29
+
+conforme cada direito, conforme cada
+ 00:44:32
+
+oportunidade que a gente possa possa
+ 00:44:34
+
+gerar. Eu pretendo voltar aqui, gente,
+ 00:44:36
+
+para um outro tema, não é, que a gente
+ 00:44:39
+
+começou já um diálogo eh com a Embrapa e
+ 00:44:42
+
+com a própria Nater, não é? Eh, aonde a
+ 00:44:45
+
+gente pretende, já pro próximo plano
+ 00:44:49
+
+safra 2627,
+ 00:44:51
+
+pensar num match entre o meu imóvel
+ 00:44:53
+
+rural e a terra digital. Então, guardem
+ 00:44:56
+
+aí que a gente vai voltar aqui com
+ 00:44:59
+
+novidades boas. Por quê? Porque sempre o
+ 00:45:02
+
+nosso desafio foi tentar reproduzir
+ 00:45:05
+
+aquilo que é a vida do agricultor e as
+ 00:45:08
+
+necessidades do agricultor. Um dia ele
+ 00:45:10
+
+precisa resolver o problema fundiário,
+ 00:45:12
+
+outro dia ele precisa resolver o
+ 00:45:14
+
+problema ambiental, outro dia ele
+ 00:45:16
+
+precisa resolver o problema produtivo,
+ 00:45:17
+
+ele precisa ter um espaço de apoio.
+ 00:45:19
+
+Então, é o que a gente sempre diz, o
+ 00:45:21
+
+agricultor, agricultora sai da
+ 00:45:24
+
+propriedade, olha para trás, é uma só
+ 00:45:25
+
+num conjunto, não é, na no conjunto das
+ 00:45:27
+
+dimensões dos problemas que e das
+ 00:45:30
+
+oportunidades que tem ali dentro da
+ 00:45:32
+
+dentro da da propriedade. Por que nós
+ 00:45:34
+
+não podemos gerar uma ferramenta de
+ 00:45:36
+
+apoio que dialogue com essas dimensões,
+ 00:45:38
+
+com a dimensão agrícola, com a dimensão
+ 00:45:42
+
+ambiental e com a dimensão com a
+ 00:45:44
+
+dimensão agrária, não é? não é? Quer dizer,
+ 00:45:46
+
+que permita ser um amigo, uma amiga da
+ 00:45:47
+
+da da família, não é, do do do produtor e
+ 00:45:50
+
+da produtora rural, que permita a cada
+ 00:45:54
+
+momento saber, não é, a partir do problema
+ 00:45:56
+
+concreto que ela tem, se naquela
+ 00:45:59
+
+ferramenta ela pode achar um caminho de
+ 00:46:00
+
+solução. Esse esse essa é a ambição do
+ 00:46:03
+
+meu imóvel rural, não é, e agradeço muito o
+ 00:46:06
+
+espaço que vocês nos deram aqui para
+ 00:46:09
+
+apresentar a ferramenta.
+ 00:46:11
+
+>> Muito bom. Muito obrigado pelas essas
+ 00:46:15
+
+grandes inovações que eu acho que todo
+ 00:46:17
+
+mundo agradece e que vamos replicar essa
+ 00:46:19
+
+informação para muitas pessoas ter
+ 00:46:22
+
+acesso também porque ela é uma
+ 00:46:24
+
+informação inovadora, de uma ação
+ 00:46:26
+
+inovadora que é precisa do nosso meio
+ 00:46:28
+
+rural e que isso não tenho dúvida que
+ 00:46:30
+
+vai trazer muitos benefícios, tanto para
+ 00:46:33
+
+quem operacionaliza quanto para quem
+ 00:46:35
+
+recebe a política pública que é o nosso
+ 00:46:37
+
+agricultor. Carlos, muito obrigado pela
+ 00:46:39
+
+tua presença e volta aqui de novo nas
+ 00:46:41
+
+próximas próximos momentos pra gente est
+ 00:46:44
+
+aí compartilhando mais novidades aí
+ 00:46:46
+
+paraos nossos agricultores familiares e
+ 00:46:49
+
+também nossos intencionistas. E lembrar
+ 00:46:51
+
+para todo mundo que toda quarta-feira, 9
+ 00:46:53
+
+horas da manhã estamos aqui nesse mesmo
+ 00:46:56
+
+batecanal, nesse mesmo horário,
+ 00:46:57
+
+compartilhando mais algum conhecimento
+ 00:46:59
+
+na área de extensão rural no Brasil e no
+ 00:47:01
+
+mundo. Um abraço e até a próxima
+ 00:47:03
+
+oportunidade. Valeu, gente. Ciao. Ciao.
+ 00:47:05

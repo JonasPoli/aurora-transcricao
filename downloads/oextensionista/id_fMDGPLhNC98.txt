@@ -1,0 +1,8 @@
+video_id: fMDGPLhNC98
+video_url: https://www.youtube.com/watch?v=fMDGPLhNC98
+title: #roça #colono #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/28/2025

@@ -1,0 +1,9 @@
+video_id: d2egoIki6MY
+video_url: https://www.youtube.com/watch?v=d2egoIki6MY
+title: Agricultura Familiar e Agroecologia no Contexto Internacional
+uploader: Rede Aurora
+speaker: Andre Augusto Michelato Ghizelini
+Lattes: http://lattes.cnpq.br/3451312680409846
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/23/2025

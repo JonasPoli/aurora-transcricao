@@ -1,0 +1,8 @@
+video_id: HegFj_y6k5U
+video_url: https://www.youtube.com/watch?v=HegFj_y6k5U
+title: #roça #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/20/2025

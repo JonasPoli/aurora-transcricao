@@ -1,0 +1,8 @@
+video_id: T1gtUWsDLlE
+video_url: https://www.youtube.com/watch?v=T1gtUWsDLlE
+title: Diálogos em Ater Digital: semeando propostas, compartilhando saberes
+uploader: O Extensionista
+speaker: https://bit.ly/3ZFJS9i
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/03/2023

@@ -1,0 +1,8 @@
+video_id: BKd1lrxDsuc
+video_url: https://www.youtube.com/watch?v=BKd1lrxDsuc
+title: Coop. Caal e sua estruturação organizacional
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/07/2024

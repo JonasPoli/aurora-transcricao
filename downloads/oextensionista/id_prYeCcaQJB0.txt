@@ -1,0 +1,9 @@
+video_id: prYeCcaQJB0
+video_url: https://www.youtube.com/watch?v=prYeCcaQJB0
+title: A saga em busca do sinal de celular e internet no meio rural 👨🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/30/2022

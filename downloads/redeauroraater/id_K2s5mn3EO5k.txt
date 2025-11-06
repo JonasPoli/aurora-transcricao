@@ -1,0 +1,9 @@
+video_id: K2s5mn3EO5k
+video_url: https://www.youtube.com/watch?v=K2s5mn3EO5k
+title: O agricultor familiar e os aplicativos móveis fatores que afetam o uso da tecnologia no campo
+uploader: Rede Aurora
+speaker: Rede Aurora
+Lattes: http://lattes.cnpq.br/3990594363530366
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/14/2023

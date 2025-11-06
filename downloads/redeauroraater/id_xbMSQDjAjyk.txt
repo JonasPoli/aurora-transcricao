@@ -1,0 +1,9 @@
+video_id: xbMSQDjAjyk
+video_url: https://www.youtube.com/watch?v=xbMSQDjAjyk
+title: Grãos orgânicos em escala viabilidade, desafios e oportunidades
+uploader: Rede Aurora
+speaker: Benjamin Dias Osório Filho – UERGS
+Lattes: http://lattes.cnpq.br/5016461956564859
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/20/2024

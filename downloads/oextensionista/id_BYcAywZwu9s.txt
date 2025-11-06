@@ -1,0 +1,8 @@
+video_id: BYcAywZwu9s
+video_url: https://www.youtube.com/watch?v=BYcAywZwu9s
+title: #roça #colono #agro #trabalho
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2025

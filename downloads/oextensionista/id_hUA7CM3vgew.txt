@@ -1,0 +1,9 @@
+video_id: hUA7CM3vgew
+video_url: https://www.youtube.com/watch?v=hUA7CM3vgew
+title: Interface da ação extensionista: uma experiência de extensão rural e universitária
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4599834312125185
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/27/2022

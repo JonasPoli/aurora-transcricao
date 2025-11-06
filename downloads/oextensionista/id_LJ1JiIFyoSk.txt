@@ -1,0 +1,8 @@
+video_id: LJ1JiIFyoSk
+video_url: https://www.youtube.com/watch?v=LJ1JiIFyoSk
+title: #roça #colono #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/22/2025

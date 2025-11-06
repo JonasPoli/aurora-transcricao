@@ -1,0 +1,7294 @@
+Olá a todos e todas, extênciistra,
+ 00:00:00
+
+agricultoras e agricultoras, jovens
+ 00:00:04
+
+Rais, pesquisadores, professores,
+ 00:00:06
+
+excecional, acadêmicos e demais públicos
+ 00:00:08
+
+aqui presentes. Sejam todos muito
+ 00:00:11
+
+bem-vindos. Meu nome é Ezequiel Redin,
+ 00:00:13
+
+professor de extensão rural e quem está
+ 00:00:15
+
+aqui hoje conosco é o professor Luís
+ 00:00:17
+
+Fernando Soares Zuin, fundador da área
+ 00:00:18
+
+da Aurora, juntamente com o nosso
+ 00:00:20
+
+convidado de hoje, que é o professor
+ 00:00:22
+
+Mário Lúcio de Ávila. Todos aqui
+ 00:00:24
+
+excelentes profissionais na área de
+ 00:00:25
+
+extensão rural no Brasil e no mundo. E é
+ 00:00:27
+
+nesse dia 30 de abril, estamos em mais
+ 00:00:29
+
+um ciclo do Diálogos em Até Digital,
+ 00:00:32
+
+semeando propostas e compartilhando
+ 00:00:35
+
+saberes. Nossos eventos buscam
+ 00:00:37
+
+identificar e propor caminhos
+ 00:00:39
+
+metodológicos para os atuais elementos e
+ 00:00:41
+
+condicionantes que determinam os
+ 00:00:43
+
+processos de transferência e
+ 00:00:45
+
+compartilhamento de novas tecnologias
+ 00:00:47
+
+nos territórios rais da América Latina,
+ 00:00:49
+
+da África e alguns países como Portugal,
+ 00:00:51
+
+Espanha e Luxemburgo. A nossa palestra
+ 00:00:53
+
+de hoje é intitulada perspectivas
+ 00:00:55
+
+digitais para ater digitalização,
+ 00:00:57
+
+letramento digital, autodeclaração e
+ 00:01:00
+
+monitoramento de políticas públicas. E o
+ 00:01:02
+
+nosso convidado de hoje é Mário Lúcio de
+ 00:01:04
+
+Ávila do Programa de Pós-Graduação em
+ 00:01:06
+
+Meio Ambiente Desenvolvimentural, o
+ 00:01:08
+
+Mother da UnB. Essa live é uma
+ 00:01:10
+
+iniciativa do portal extensionista e da
+ 00:01:12
+
+rede Aurora de diálogos em AT Digital na
+ 00:01:14
+
+América Latina e com todos os apoiadores
+ 00:01:16
+
+que vocês podem conferir aqui na
+ 00:01:19
+
+descrição desse vídeo. Sejam muito
+ 00:01:20
+
+bem-vindos professor Zuin, professor
+ 00:01:22
+
+Mário. É um prazer vocês estarem aqui
+ 00:01:24
+
+compartilhando seus conhecimentos
+ 00:01:25
+
+conosco. Desde já o nosso muito
+ 00:01:27
+
+obrigado. Já de antemão passo a palavra
+ 00:01:29
+
+ao professor Zuin. Bom dia a todos e a
+ 00:01:31
+
+todas. É um prazer muito grande estar
+ 00:01:33
+
+aqui hoje com o professor Ezequiel,
+ 00:01:35
+
+professor Mário, não é, professor Mário,
+ 00:01:36
+
+uma referência na parte da comunicação
+ 00:01:38
+
+digital que envolve atores humanos e não
+ 00:01:40
+
+humanos, não é? É um prazer muito grande
+ 00:01:43
+
+tê-lo aqui hoje conosco nessa manhã de
+ 00:01:45
+
+quarta-feira, Mário, e tenho certeza que
+ 00:01:47
+
+a gente vai aprender muito com você, tá?
+ 00:01:49
+
+Seja muito bem-vindo. A palavra é sua,
+ 00:01:51
+
+meu querido.
+ 00:01:53
+
+Obrigado, Zim. Obrigado, Ezequiel. Eh,
+ 00:01:55
+
+na verdade é um prazer meu eh estar aqui
+ 00:01:57
+
+com vocês, é um canal que a gente já
+ 00:02:00
+
+seguia, já vim acompanhando, então poder
+ 00:02:01
+
+trazer um pouco do que a gente tá
+ 00:02:04
+
+fazendo aqui a partir do do CGAF, acho
+ 00:02:05
+
+que é uma uma oportunidade ímpar, eh,
+ 00:02:08
+
+oportuno a gente já fazer o convite aí
+ 00:02:11
+
+para todos que estão nos assistindo aí,
+ 00:02:13
+
+eh, para conhecer o SEGAF, conhecer e
+ 00:02:15
+
+essas duas referências que estão aqui
+ 00:02:18
+
+também, Ezequiel e Zuin, eh, aproximar
+ 00:02:20
+
+de de diálogos que acho que são
+ 00:02:23
+
+importantes aí para essa temática. Eu
+ 00:02:24
+
+vou gastar cerca aí de uns 25 minutos,
+ 00:02:27
+
+30 minutos fazendo uma apresentação, mas
+ 00:02:30
+
+eu peço aí que o pessoal vá deixando
+ 00:02:33
+
+perguntas, vá depois interagindo com a
+ 00:02:34
+
+gente. Eh, claro que o que eu vou falar
+ 00:02:36
+
+aqui hoje parte de uma trajetória minha,
+ 00:02:40
+
+não é? Na verdade, não é uma coisa que a
+ 00:02:42
+
+gente começou a fazer eh agora nesse
+ 00:02:44
+
+primeiro nesse primeiro momento. Eh, eu
+ 00:02:47
+
+sou sou zotecnista de formação. Pode
+ 00:02:50
+
+passar essa primeira tela, por favor?
+ 00:02:52
+
+Acho que eu tenho, eu tenho condições de
+ 00:02:55
+
+passar aqui. Maravilha. Isso. Você pode
+ 00:02:56
+
+passar mesmo. Fique à vontade. Pero, eu
+ 00:02:58
+
+sou zotecnista de formação lá em Lavras,
+ 00:03:00
+
+em Minas Gerais. Eu formei em 96 e desde
+ 00:03:02
+
+93, quando eu entrei na graduação, eu me
+ 00:03:06
+
+dediquei a usar tecnologia para fazer
+ 00:03:09
+
+curso de produção de leite. Meus meus eh
+ 00:03:12
+
+minha iniciação científica todo o tempo
+ 00:03:14
+
+foi nessa perspectiva. Depois eu
+ 00:03:16
+
+trabalhei já com gestão de propriedades
+ 00:03:18
+
+leiteiras usando tecnologia.
+ 00:03:21
+
+eh ajudei e participei de
+ 00:03:24
+
+desenvolvimento de dos principais
+ 00:03:26
+
+softwares de gestão e e acompanhamento
+ 00:03:28
+
+de produção que que existe até hoje no
+ 00:03:31
+
+Brasil. Então é uma trajetória que já
+ 00:03:34
+
+vem de de longa data. Então, o tema do
+ 00:03:36
+
+do digital para mim no rural sempre foi
+ 00:03:37
+
+muito caro. Eh, depois com as o
+ 00:03:39
+
+surgimento da internet, as tecnologias
+ 00:03:42
+
+de informação, eu fiz um mestrado na
+ 00:03:44
+
+área de administração rural que eu olhei
+ 00:03:46
+
+para essa temática da apropriação
+ 00:03:48
+
+digital, não é, da das tecnologias por
+ 00:03:50
+
+organizações de maneira geral.
+ 00:03:52
+
+Aí eu vou para Goiás trabalhar no
+ 00:03:54
+
+Instituto Federal, ministro uma
+ 00:03:56
+
+disciplina que era administração rural e
+ 00:03:59
+
+trabalhei apenas com sistemas
+ 00:04:01
+
+informatizado e gestão. Impli sistemas
+ 00:04:03
+
+remotos de gestão em propriedades, tanto
+ 00:04:06
+
+leiteira quanto de pecuária de corte. ao
+ 00:04:08
+
+longo de alguns anos trabalhei com essas
+ 00:04:10
+
+frentes. Eh, e depois com o surgimento
+ 00:04:12
+
+da de outras tecnologias, não é, eu vim
+ 00:04:15
+
+para UnB em 2007 para fazer meu
+ 00:04:17
+
+doutorado, mas 2011 realmente eu
+ 00:04:20
+
+transfiro eh de Goiás para cá, para
+ 00:04:22
+
+Brasília e me dedico exclusivamente a
+ 00:04:25
+
+olhar para políticas públicas, para
+ 00:04:28
+
+pensar a inovação e monitoramento de
+ 00:04:29
+
+políticas públicas, mas sobretudo as
+ 00:04:31
+
+políticas voltadas ao rural, que é da
+ 00:04:33
+
+onde eu consigo eh me dedicar mais. E aí
+ 00:04:35
+
+nos últimos anos, obviamente, com a
+ 00:04:38
+
+inteligência artificial, eh, sensores,
+ 00:04:40
+
+todas essas tecnologias que hoje a gente
+ 00:04:43
+
+tem falado muito, não é, tão todos os dias
+ 00:04:45
+
+à nossa frente, aí a gente tem
+ 00:04:48
+
+trabalhado em produzir isso. E o ano
+ 00:04:50
+
+passado a gente culminou com um livro
+ 00:04:52
+
+junto com a rede de políticas públicas
+ 00:04:54
+
+pra América Latina, que é um livro sobre
+ 00:04:56
+
+digitalização na agricultura. Tem um
+ 00:04:58
+
+conjunto de autores aí da de todos os
+ 00:05:00
+
+países da América Latina, franceses,
+ 00:05:03
+
+contribuindo também eh alguma coisa
+ 00:05:05
+
+brasileira. E a perspectiva que a gente
+ 00:05:08
+
+trouxe nesse nesse livro é um olhar
+ 00:05:11
+
+amplo, não é, tanto pro uso quanto para
+ 00:05:14
+
+para as críticas, quanto paraas
+ 00:05:17
+
+perspectivas futuras que as tecnologias
+ 00:05:19
+
+ou a digitalização pode trazer pra
+ 00:05:21
+
+agricultura e sobretudo paraa
+ 00:05:22
+
+agricultura familiar, que a gente
+ 00:05:23
+
+entende que é quem tá mais desconectado
+ 00:05:25
+
+com essas brechas que tem tem aparecido,
+ 00:05:28
+
+não é? Eh, então, rapidamente para
+ 00:05:30
+
+contextualizar, não é, o que que eu vou
+ 00:05:33
+
+falar hoje para vocês aqui. Eh, primeiro
+ 00:05:35
+
+acho que é importante a gente pensar
+ 00:05:37
+
+nessas perspectivas digitais para até,
+ 00:05:38
+
+não é? Já tem gente falando de ATER
+ 00:05:40
+
+digital. A gente tá aqui em Brasília,
+ 00:05:42
+
+eh, há alguns anos já conversando com
+ 00:05:44
+
+ANATÉ, com MDA, com o Mapa, com CONAB,
+ 00:05:46
+
+com Incra, com MDS. Eh, e sempre a
+ 00:05:50
+
+questão que surge inicialmente tem tem
+ 00:05:54
+
+um um bom trabalho feito aí pelos
+ 00:05:56
+
+colegas da USP que mostram as brechas
+ 00:05:57
+
+digitais. Então esse é o primeiro ponto.
+ 00:05:59
+
+É importante que a gente discuta, não é,
+ 00:06:01
+
+que de fato algumas zonas rurais do
+ 00:06:03
+
+Brasil ainda têm lacunas severas em
+ 00:06:05
+
+conectividade, acesso à tecnologias.
+ 00:06:08
+
+Então os usuários normalmente de de
+ 00:06:10
+
+sistemas digitais, e aí eu tô falando de
+ 00:06:13
+
+de tecnologias de toda a natureza, tá?
+ 00:06:15
+
+Não tô falando exclusivamente eh ou do
+ 00:06:17
+
+WhatsApp ou de um software ou de uma
+ 00:06:19
+
+inteligência artificial. Tô falando
+ 00:06:22
+
+todas as tecnologias. Essas lacunas elas
+ 00:06:23
+
+são muito muito presentes. Eh, um dado
+ 00:06:25
+
+significativo que a gente tem desde
+ 00:06:29
+
+2019, quando a gente fez um
+ 00:06:32
+
+monitoramento do programa Domer Câmara,
+ 00:06:33
+
+é que praticamente 100% dos agricultores
+ 00:06:36
+
+usam WhatsApp. Então, pra gente, o
+ 00:06:39
+
+WhatsApp passou a ser um canal, uma
+ 00:06:41
+
+possibilidade muito grande de pensar eh
+ 00:06:43
+
+em interações com os agricultores para
+ 00:06:46
+
+tentar diminuir essas brechas, mas
+ 00:06:48
+
+também não dá pra gente imaginar que
+ 00:06:50
+
+essas pessoas têm que ser apenas
+ 00:06:52
+
+sujeitos eh passivos nesse processo,
+ 00:06:53
+
+receber informações e não ter eh
+ 00:06:56
+
+protagonismo na na nas tomadas decisões,
+ 00:06:59
+
+não é, nas produções de informação. Então,
+ 00:07:02
+
+o WhatsApp em alguma medida, já cerca de
+ 00:07:04
+
+se a 7 anos, a gente vem usando ele
+ 00:07:07
+
+sistematicamente em pesquisas, em
+ 00:07:09
+
+projetos de de desenvolvimento, mas
+ 00:07:10
+
+ultimamente a gente tem colocado ele
+ 00:07:13
+
+também numa outra um outro patamar que
+ 00:07:14
+
+eu vou falar um pouco mais à frente. Tem
+ 00:07:16
+
+um outro uma outra combinação também que
+ 00:07:18
+
+eu acho que tem muita oportunidade a
+ 00:07:20
+
+partir da, das perspectivas digitais,
+ 00:07:22
+
+mas também tem riscos, não é? Eh, eu acho
+ 00:07:23
+
+que a gente quando a gente fala
+ 00:07:26
+
+digitalização, não é, a gente tem que
+ 00:07:27
+
+primeiro pensar a inclusão, os impactos
+ 00:07:29
+
+que isso podem causar na na nas
+ 00:07:31
+
+comunidades, nos modos de vida, eh nos
+ 00:07:33
+
+processos que estão sendo feitos por
+ 00:07:36
+
+essas pessoas. Eh, e do mesmo jeito a
+ 00:07:38
+
+gente tem que imaginar um ator
+ 00:07:41
+
+fundamental nos processos de até, que é
+ 00:07:43
+
+o extensionista, é o técnico, é essa
+ 00:07:45
+
+pessoa que a gente tá aqui falando com
+ 00:07:47
+
+ela hoje. E essa pessoa, ela tem um
+ 00:07:49
+
+papel central, independente de teu
+ 00:07:51
+
+digital, no teu digital, ela é central.
+ 00:07:54
+
+Você vai em qualquer lugar do Brasil,
+ 00:07:56
+
+você vai conversar com o agricultor, a
+ 00:07:59
+
+referência primeiro dele é Deus, depois
+ 00:08:01
+
+é o técnico, depois são os outros
+ 00:08:03
+
+elementos, os outros atores que estão no
+ 00:08:06
+
+contexto onde ele tá inserido. Então, a
+ 00:08:08
+
+gente tem que sempre lembrar e fazer
+ 00:08:10
+
+essa referência. O técnico não é
+ 00:08:13
+
+dispensável nesse processo, ele continua
+ 00:08:17
+
+sendo indispensável, porque é ele que
+ 00:08:19
+
+media todas essas relações, é ele que
+ 00:08:23
+
+pode transformar o que até pode vir a
+ 00:08:25
+
+fazer usando perspectivas digitais, tá?
+ 00:08:28
+
+Então, a gente vai falar um pouco do que
+ 00:08:31
+
+que a gente tem feito aqui enquanto uso
+ 00:08:33
+
+do da das tecnologias para até numa
+ 00:08:34
+
+perspectiva do que a universidade tá
+ 00:08:37
+
+fazendo. Aí embaixo vocês estão vendo
+ 00:08:38
+
+uma linha do tempo, eh, esse centro que
+ 00:08:40
+
+eu coordeno junto com com o professor
+ 00:08:43
+
+Reinaldo, colega nosso aqui, cerca de 70
+ 00:08:45
+
+pessoas envolvidas hoje aqui entre
+ 00:08:49
+
+professores, estudantes, eh
+ 00:08:50
+
+profissionais contratados, consultores.
+ 00:08:53
+
+A gente vem desde 2012, não é? Não, a linha
+ 00:08:56
+
+do tempo aí tá cortada, mas a gente
+ 00:08:59
+
+começou fazendo um trabalho com Mais
+ 00:09:01
+
+Gestão. Depois do Mais Gestão, a gente
+ 00:09:03
+
+já entrou num projeto chamado projeto
+ 00:09:06
+
+RADI junto com Incra e daí paraa frente
+ 00:09:07
+
+a gente veio colocando essa ideia da
+ 00:09:10
+
+inovação, dessas perspectivas em todas
+ 00:09:12
+
+as frentes que a gente tem tem
+ 00:09:14
+
+trabalhado. Então aí tem uma linha do
+ 00:09:16
+
+tempo, depois vocês podem visitar o site
+ 00:09:18
+
+do centro. Todos esses projetos vocês
+ 00:09:19
+
+estão vendo aí são projetos que a
+ 00:09:21
+
+questão digital ela tá presente, seja
+ 00:09:23
+
+para fazer uma interação com os
+ 00:09:26
+
+agricultores ou com os técnicos, seja
+ 00:09:27
+
+para processar informações, seja para
+ 00:09:29
+
+ganhar escala nos trabalhos de
+ 00:09:31
+
+monitoramento e avaliação de políticas.
+ 00:09:33
+
+Então tem um conjunto de coisa aí. E
+ 00:09:35
+
+mais recentemente aqui no finalzinho tem
+ 00:09:37
+
+uma palavra aqui que eu vou mostrar
+ 00:09:39
+
+depois com mais calma para vocês, que é
+ 00:09:41
+
+o que a gente tá chamando de letramento.
+ 00:09:42
+
+A gente entende que para além de usar
+ 00:09:44
+
+tecnologia enquanto técnicos, enquanto
+ 00:09:46
+
+pesquisadores, a gente tem que também
+ 00:09:48
+
+formar pessoas capazes de de usar isso
+ 00:09:51
+
+numa perspectiva emancipadora ou numa
+ 00:09:54
+
+perspectiva eh de garantir soberania, de
+ 00:09:55
+
+ser protagonista de de processo. Então,
+ 00:09:58
+
+a gente tem três projetos rodando dessa
+ 00:10:01
+
+perspectiva que eu vou contar um pouco
+ 00:10:03
+
+para vocês aí à
+ 00:10:04
+
+frente. Bom, eh, eu falei rapidamente
+ 00:10:06
+
+então dessa dessa questão das
+ 00:10:10
+
+desigualdades, não é? Acho que isso já tá
+ 00:10:11
+
+bastante dado pra gente. Eh, eu acho que
+ 00:10:13
+
+a gente tem uma missão, não é, que é
+ 00:10:16
+
+assegurada para assistência técnica, não é,
+ 00:10:19
+
+que é primeiro assegurar a qualidade de
+ 00:10:21
+
+vida, eh, enfrentamento da fome e da
+ 00:10:24
+
+pobreza no campo onde isso mais
+ 00:10:26
+
+acontece, levar eh, condições de
+ 00:10:28
+
+inclusão produtiva, levar renda pros
+ 00:10:31
+
+agricultores. Esse é o papel que
+ 00:10:33
+
+assistência técnica e extensão rural
+ 00:10:35
+
+historicamente cumprem no país. Apesar
+ 00:10:37
+
+de todas as os históricos aí de altos e
+ 00:10:39
+
+baixos, eh, elas sobrevivem. E aí eu tô
+ 00:10:41
+
+falando de AT pública, mas também tô
+ 00:10:44
+
+falando de ATER privada, organizações
+ 00:10:46
+
+não governamentais, empresas que têm
+ 00:10:48
+
+feito isso com seriedade. Obviamente nós
+ 00:10:50
+
+temos aí uma quantidade de de atores
+ 00:10:52
+
+nesse nesse nesse ecossistema, mas pra
+ 00:10:54
+
+gente quando a gente pensa em até a
+ 00:10:57
+
+gente tá pensando num matéria de
+ 00:10:59
+
+qualidade, numa terra que chegue até o
+ 00:11:00
+
+agricultor e garanta que esse sujeito
+ 00:11:03
+
+tenha acesso a, primeiro qualidade de
+ 00:11:05
+
+vida, segundo as políticas públicas,
+ 00:11:08
+
+terceiro aumentar sua produção, aumentar
+ 00:11:11
+
+sua renda, garantir inclusão produtiva e
+ 00:11:13
+
+garantir sustentabilidade. Obviamente
+ 00:11:16
+
+isso é fato. Hoje não dá pra gente eh
+ 00:11:18
+
+discutir produção rural, discutir
+ 00:11:21
+
+desenvolvimento sem discutir
+ 00:11:23
+
+sustentabilidade. E outro aspecto
+ 00:11:25
+
+importante é hoje novamente aí o Brasil
+ 00:11:27
+
+precisando sair do mapa da fome,
+ 00:11:30
+
+precisando enfrentar pobreza e grande
+ 00:11:32
+
+parte desse trabalho é feito pela
+ 00:11:35
+
+assistência técnica. E claro, as pessoas
+ 00:11:36
+
+imaginam que até pode chegar no campo,
+ 00:11:39
+
+eh, usando os os veículos tradicionais,
+ 00:11:43
+
+não é, deslocamento humano via terrestre,
+ 00:11:46
+
+via aquática, se precisar, mas também dá
+ 00:11:50
+
+para chegar via ondas a partir dos
+ 00:11:53
+
+celulares, a partir do rádio, a partir
+ 00:11:55
+
+de várias frentes. Então, acho que esse
+ 00:11:57
+
+é é o contexto, não é, onde a gente se
+ 00:11:59
+
+insere. eh na agricultura familiar, eh
+ 00:12:00
+
+além da conectividade precária, não é,
+ 00:12:04
+
+geralmente essas regiões são as regiões
+ 00:12:06
+
+que têm os piores sinais. Eh,
+ 00:12:07
+
+normalmente os agricultores familiares
+ 00:12:10
+
+que a gente conhece, eles usam WhatsApp,
+ 00:12:11
+
+mas eles não têm um número de telefone
+ 00:12:14
+
+ativo porque eles não pagam a conta
+ 00:12:16
+
+recorrentemente, mas ter o WhatsApp no c
+ 00:12:18
+
+no no aparelho celular permite quando
+ 00:12:21
+
+ele vai no lugar que tem um Wi-Fi, ele
+ 00:12:23
+
+usa. Então ele vai na cooperativa, ele
+ 00:12:25
+
+vai na associação, ele vai na
+ 00:12:27
+
+prefeitura, ele usa o WhatsApp. Então, a
+ 00:12:28
+
+coletividade ainda é precária. Eh, os
+ 00:12:30
+
+dados do censo são bastante defasados,
+ 00:12:33
+
+mas mostram já um pouco isso. O estudo
+ 00:12:35
+
+lá que depois o pessoal da USP fez
+ 00:12:37
+
+também aponta para isso. Um segundo
+ 00:12:39
+
+aspecto é o baixo letramento digital,
+ 00:12:41
+
+eh, dificuldade de usar essas
+ 00:12:44
+
+ferramentas por dois motivos combinados,
+ 00:12:46
+
+não é? Geralmente os aparelhos celulares eh
+ 00:12:49
+
+são mais simples do ponto de vista de de
+ 00:12:53
+
+tecnologia embarcada, de capacidade de
+ 00:12:56
+
+memória. Então esses equipamentos às
+ 00:12:58
+
+vezes não conseguem instalar muitos
+ 00:12:59
+
+aplicativos, ter as ferramentas mais
+ 00:13:01
+
+rápidas, com mais precisão, mas o
+ 00:13:04
+
+WhatsApp funciona. Então a gente vai
+ 00:13:06
+
+insistir muito no WhatsApp, que o
+ 00:13:08
+
+WhatsApp ele supera todas essas
+ 00:13:09
+
+barreiras. Às vezes você não consegue
+ 00:13:11
+
+instalar um aplicativo porque ele pesa
+ 00:13:13
+
+na memória do seu celular, mas o
+ 00:13:16
+
+WhatsApp tá ali ativo. Independente de
+ 00:13:17
+
+você ter eh uma conta telefônica paga,
+ 00:13:19
+
+você pode ir em algum lugar e responder
+ 00:13:23
+
+a um conjunto de mensagem, interagir com
+ 00:13:24
+
+outras pessoas a partir desses meios de
+ 00:13:27
+
+comunicação. E eu falo WhatsApp porque
+ 00:13:28
+
+no Brasil ele se popularizou demais, é o
+ 00:13:30
+
+principal aplicativo de comunicação, mas
+ 00:13:32
+
+você tem outros, Telegram, Signal, tem a
+ 00:13:34
+
+China usa o ECAT. Então, no Brasil o
+ 00:13:38
+
+WhatsApp se tornou importante e a gente
+ 00:13:41
+
+tem que também tomar um cuidado quando a
+ 00:13:43
+
+gente fala de um software proprietário,
+ 00:13:45
+
+fazer algumas coisas aí, podem ter
+ 00:13:47
+
+também algumas consequências ali na
+ 00:13:48
+
+frente e a gente não pode esquecer disso
+ 00:13:50
+
+quando a gente olha, sobretudo pensando
+ 00:13:53
+
+na soberania de dados, não é? E um outro
+ 00:13:54
+
+aspecto importante, para mim, talvez dos
+ 00:13:57
+
+mais importantes para ser conversado
+ 00:13:59
+
+aqui, Ezequiel e Zuin, é a questão da
+ 00:14:00
+
+juventude. A juventude é hoje talvez
+ 00:14:03
+
+aquela juventude nem, não é? Nem tá no
+ 00:14:06
+
+campo, nem tá na cidade, nem produz, eh,
+ 00:14:09
+
+nem nada. E por que isso aconteceu?
+ 00:14:12
+
+Porque a população rural foi
+ 00:14:14
+
+envelhecendo, as políticas focaram muito
+ 00:14:16
+
+nos agricultores, familiares, homens.
+ 00:14:20
+
+Depois a gente trouxe o conjunto das
+ 00:14:22
+
+mulheres em alguma medida, mas quando
+ 00:14:24
+
+você fala eh, perdão, gente, quando você
+ 00:14:26
+
+fala de crédito, quando você fala eh de
+ 00:14:30
+
+acesso à terra, grande parte dos
+ 00:14:32
+
+agricultores eh não estão acessando essa
+ 00:14:36
+
+essas tecnologias. Quando a gente tá
+ 00:14:40
+
+falando desse público, a gente fala do
+ 00:14:41
+
+público jovem, é um público que não
+ 00:14:43
+
+acessa a terra, não acessa política
+ 00:14:45
+
+pública alguma. E o que que a gente tem
+ 00:14:47
+
+de perspectiva? Obviamente que eles vão
+ 00:14:49
+
+embora. E um dia eu ouvi Miguel Altieri
+ 00:14:51
+
+falando num num deslocamento, num
+ 00:14:54
+
+trajeto que a gente tava fazendo num
+ 00:14:56
+
+evento, ele falou: "Es jovens todos vão
+ 00:14:58
+
+virar entregadores de comida para nós
+ 00:15:00
+
+que queríamos que eles estivessem
+ 00:15:03
+
+produzindo comida de qualidade. E hoje
+ 00:15:04
+
+não é uma realidade muito distante.
+ 00:15:06
+
+Grande parte dos jovens que migram das
+ 00:15:07
+
+zonas rurais pras capitais, pros
+ 00:15:09
+
+entornos das capitais, paraas cidades
+ 00:15:11
+
+maiores, eles viram entregadores de
+ 00:15:13
+
+comida. Então, a gente tem apostado
+ 00:15:15
+
+muito em olhar para essa questão da
+ 00:15:17
+
+juventude e as tecnologias são muito
+ 00:15:19
+
+conectadas com esse público. É muito
+ 00:15:22
+
+mais fácil a gente falar com o jovem eh
+ 00:15:24
+
+e tentar a partir dele
+ 00:15:27
+
+trazer novas novidades, trazer eh dados
+ 00:15:29
+
+que podem ajudar a pensar políticas
+ 00:15:33
+
+públicas, porque essas pessoas têm
+ 00:15:35
+
+facilidade com o uso dessas tecnologias.
+ 00:15:36
+
+E a questão do letramento, então, nesse
+ 00:15:39
+
+aspecto, ela é importante. Então, nós
+ 00:15:40
+
+vamos falar um pouquinho aí para frente
+ 00:15:41
+
+sobre isso. Bom, a UnB eh tem feito em
+ 00:15:42
+
+grande medida eh muito trabalho nessa
+ 00:15:47
+
+perspectiva digital. aqui o Segat, esse
+ 00:15:50
+
+centro que eu que eu tô representando,
+ 00:15:53
+
+vem fazendo eh junto ao INCRA, sistemas
+ 00:15:55
+
+para fazer gestão de dados, sistemas
+ 00:15:58
+
+para fazer repositório de de
+ 00:16:01
+
+legislações, eh temos monitoramento de
+ 00:16:04
+
+eh de planos ambientais desenvolvidos em
+ 00:16:08
+
+aplicativos, depois temos planos eh
+ 00:16:10
+
+feito em ambiente web, mas hoje a gente
+ 00:16:14
+
+tem apostado e tentado caminhar para uma
+ 00:16:16
+
+perspectiva mais de usar ferramentas
+ 00:16:18
+
+mais simples que permite esse esse
+ 00:16:21
+
+diálogo digital acontecer com um pouco
+ 00:16:24
+
+mais de
+ 00:16:25
+
+qualidade. Eh, para isso, a gente
+ 00:16:26
+
+desenvolveu o que a gente chamou aqui de
+ 00:16:29
+
+um ecossistema de colheita digital.
+ 00:16:30
+
+Claro que não nasceu pronto, mas ele foi
+ 00:16:33
+
+sendo gestado à medida que os projetos
+ 00:16:35
+
+foram evoluindo. E, tivemos um grande
+ 00:16:37
+
+apoio da Fundação de Apoio à Pesquisa do
+ 00:16:40
+
+Distrito Federal, que apoiou um primeiro
+ 00:16:41
+
+projeto nosso, que a gente chamava de
+ 00:16:43
+
+colheita digital, que era um projeto
+ 00:16:45
+
+para fazer um piloto com seis jovens
+ 00:16:47
+
+capazes de fazer monitoramento de
+ 00:16:50
+
+políticas e levantamento de produção,
+ 00:16:52
+
+eh,
+ 00:16:56
+
+comercialização, autoconsumo de
+ 00:16:58
+
+alimentos em suas comunidades. Esses
+ 00:17:00
+
+seis jovens eh estavam num assentamento
+ 00:17:03
+
+de reforma agrária. Nós mapeamos um
+ 00:17:05
+
+grupo, oferecemos para eles capacitação,
+ 00:17:08
+
+oferecemos para eles treinamento,
+ 00:17:11
+
+oferecemos para eles um celular para
+ 00:17:13
+
+eles poderem usufruir da tecnologia que
+ 00:17:15
+
+a gente queria dialogar com eles. Em
+ 00:17:17
+
+contrapartida, eles tinham que
+ 00:17:19
+
+participar de um processo sistemático de
+ 00:17:20
+
+formação e diálogo com um conjunto de
+ 00:17:23
+
+jovens que nós temos que fazem tanto a
+ 00:17:25
+
+plataforma quanto os conteúdos, quanto
+ 00:17:27
+
+os produtos que vão sendo colocados na
+ 00:17:30
+
+forma de um game, que são missões que
+ 00:17:32
+
+vão sendo colocadas. E a FAPDF apostou
+ 00:17:34
+
+nisso, permitindo que a gente desse uma
+ 00:17:37
+
+bolsa de R$ 400 para cada um desses
+ 00:17:39
+
+jovens durante 12 meses. Isso é
+ 00:17:41
+
+revolucionário. você pegar cinco jovens,
+ 00:17:44
+
+depois a gente expandiu isso para 41
+ 00:17:47
+
+jovens, que é o que nós temos hoje, mas
+ 00:17:49
+
+cinco jovens ou 41, podendo produzir
+ 00:17:51
+
+informação cotidianamente sobre a
+ 00:17:54
+
+realidade que ele tá vivenciando, sobre
+ 00:17:57
+
+problemas que ele, a comunidade rural
+ 00:17:59
+
+dele enfrenta ou sobre a produção do
+ 00:18:01
+
+tio, do avô, o custo é infinitamente
+ 00:18:04
+
+menor do que outros custos que a gente
+ 00:18:07
+
+tem para produzir essa informação.
+ 00:18:08
+
+Então, esse ecossistema de colheita
+ 00:18:10
+
+digital, ele nasce aí com esse apoio da
+ 00:18:12
+
+Fundação de Apoio à Pesquisa. Depois a
+ 00:18:14
+
+gente usa eh em outros projetos como
+ 00:18:16
+
+monitora a safra saudável, que eu vou
+ 00:18:19
+
+falar um pouco para vocês agora, que é
+ 00:18:21
+
+uma parceria com a CONAB, eh num projeto
+ 00:18:22
+
+de monitoramento de produção orgânica
+ 00:18:24
+
+junto com o Ministério da Agricultura,
+ 00:18:26
+
+num projeto de Observatório de Compras
+ 00:18:28
+
+Institucionais que tá sendo eh
+ 00:18:31
+
+contratado agora com apoio da Fundação
+ 00:18:33
+
+de Apoio também para olhar para as
+ 00:18:36
+
+compras institucionais, olhando pro
+ 00:18:38
+
+decreto do PA, onde exclusivamente tem
+ 00:18:39
+
+uma necessidade de monitorar o que os
+ 00:18:42
+
+órgãos Os públicos estão comprando para
+ 00:18:44
+
+além daquela compra do PA, para além
+ 00:18:47
+
+daquela compra para alimentação escolar,
+ 00:18:49
+
+o cafezinho que nós tomamos a
+ 00:18:51
+
+universidade todos os dias, em tese 30%
+ 00:18:53
+
+dele por lei tem que ser comprada a
+ 00:18:56
+
+agricultura familiar. Hoje nós estamos
+ 00:18:58
+
+falando de órgãos federais, mas isso
+ 00:19:00
+
+pode ser também usado. A legislação
+ 00:19:01
+
+permite que seja usado por órgãos
+ 00:19:04
+
+estaduais e municipais. E a gente
+ 00:19:05
+
+gostaria de ver eh os diversos
+ 00:19:07
+
+restaurantes universitários, os diversos
+ 00:19:10
+
+hospitais públicos, todo mundo podendo
+ 00:19:12
+
+comprar e a gente ter esse
+ 00:19:14
+
+acompanhamento. Então esse projeto
+ 00:19:15
+
+observa-se aí, vai nessa perspectiva. E
+ 00:19:17
+
+tudo isso a gente desenhou numa
+ 00:19:19
+
+perspectiva que a gente chamou desse
+ 00:19:22
+
+ecossistema de colheita digital. Essa
+ 00:19:24
+
+imagem não permite ter muito detalhe do
+ 00:19:26
+
+que tá colocado aí, mas basicamente a
+ 00:19:28
+
+gente tem quatro grandes notes que a
+ 00:19:30
+
+gente vem trabalhando. ou a
+ 00:19:34
+
+autodeclaração, então o próprio
+ 00:19:36
+
+agricultor ou próprio técnico fazendo
+ 00:19:38
+
+informação, ou a gente minerando dados
+ 00:19:39
+
+em sistemas, em
+ 00:19:42
+
+órgãos públicos, em plataformas públicas
+ 00:19:45
+
+ou privadas, eh em sistemas que a gente
+ 00:19:48
+
+possa consumir o dado ali com uma API,
+ 00:19:51
+
+ou fazendo surveys diretamente ou via
+ 00:19:53
+
+técnicos em campo, ou fazendo a própria
+ 00:19:56
+
+digitalização de documentos, tá? Então
+ 00:19:59
+
+hoje esse ecossistema que a gente usa
+ 00:20:01
+
+aqui no Segat, ele passa por algum
+ 00:20:03
+
+desses caminhos e isso abre aí uma
+ 00:20:05
+
+infinidade de projetos, uma infinidade
+ 00:20:07
+
+de iniciativas que a gente tem feito
+ 00:20:09
+
+quando a gente vai para dentro do INC,
+ 00:20:11
+
+por exemplo, para trabalhar com a
+ 00:20:12
+
+regularização fundiária, nós tivemos que
+ 00:20:13
+
+ir para dentro da superintendência,
+ 00:20:16
+
+digitalizar os documentos para poder
+ 00:20:18
+
+trazer paraa base de dados para depois a
+ 00:20:19
+
+gente poder fazer a análise. Quando a
+ 00:20:21
+
+gente foi fazer, por exemplo, o
+ 00:20:23
+
+monitoramento do programa Domélder
+ 00:20:24
+
+Câmara, ou segunda fase, no meio da
+ 00:20:27
+
+pandemia, nós tivemos que parar de ir a
+ 00:20:29
+
+campo e tivemos que apostar nas
+ 00:20:32
+
+tecnologias. Aí os surveys foram
+ 00:20:33
+
+importante, eh coletas autodeclaradas
+ 00:20:35
+
+pelos próprios agricultores foram
+ 00:20:38
+
+importantes. Isso foi dando aí
+ 00:20:40
+
+instrumentos e insumos pra gente fazer
+ 00:20:42
+
+infinitos projetos que a gente tem hoje,
+ 00:20:44
+
+eh, todos eles nesse nisso que a gente
+ 00:20:47
+
+tá chamando de ecossistema de colheita
+ 00:20:48
+
+digital. Claro que temos todos os
+ 00:20:49
+
+cuidados com a Lei Geral de Proteção de
+ 00:20:52
+
+Dados, todos os cuidados eh enquanto
+ 00:20:54
+
+mostramos
+ 00:20:57
+
+isso pro beneficiário, pros tomadores de
+ 00:20:58
+
+decisão, mostrar isso em forma agregada,
+ 00:21:01
+
+geralmente num agrupamento territorial,
+ 00:21:04
+
+mas o órgão quando contrata um projeto
+ 00:21:06
+
+com a gente aqui, ele também quer ter o
+ 00:21:08
+
+microdado. Então esse essa informação
+ 00:21:10
+
+geralmente ela é restrita, assim como
+ 00:21:11
+
+acontece com senso agropecuário, a gente
+ 00:21:14
+
+não consegue ver o microdado, a gente vê
+ 00:21:16
+
+o dado agrupado. E a gente faz isso
+ 00:21:17
+
+também eh nessas perspectivas. E tudo
+ 00:21:19
+
+isso passa por um conjunto de banco de
+ 00:21:22
+
+dados que depois tem suas plataformas
+ 00:21:25
+
+para cada órgão, conforme suas
+ 00:21:27
+
+exigências, conforme suas necessidades.
+ 00:21:28
+
+Mas tudo isso, insisto, tá? Não funciona
+ 00:21:31
+
+se o técnico não jogar junto. Eu vou
+ 00:21:35
+
+explicar por com dado que eu vou trazer
+ 00:21:37
+
+aqui na frente para vocês, tá? Eh, bom,
+ 00:21:39
+
+então, retomando a ideia dos jovens, não é?
+ 00:21:42
+
+A gente entende que esses jovens têm
+ 00:21:45
+
+capacitação e qualidade para usar o
+ 00:21:47
+
+senso crítico deles, percebem problemas,
+ 00:21:49
+
+podem trazer muita informação e a gente
+ 00:21:52
+
+pode dar eles um protagonismo para que
+ 00:21:55
+
+eles tragam em alguma
+ 00:21:57
+
+medida insumos para para tomar decisão,
+ 00:21:59
+
+para melhoras de políticas públicas. E a
+ 00:22:02
+
+gente tem feito isso em alguma medida
+ 00:22:04
+
+com esses projetos de letramento, eh,
+ 00:22:06
+
+que começam com essa lógica de juntar um
+ 00:22:08
+
+conjunto de jovens, levar um, geralmente
+ 00:22:11
+
+a gente coloca ali um monitor, uma
+ 00:22:13
+
+pessoa com um pouco mais de, eh, de
+ 00:22:16
+
+entendimento do que a gente tá querendo,
+ 00:22:18
+
+eh, e provocar esses jovens para começar
+ 00:22:20
+
+inicialmente usar a tecnologia, não só
+ 00:22:23
+
+de forma passiva, o que a gente via
+ 00:22:26
+
+muito, Ezequiel, era a gente chegar no
+ 00:22:29
+
+campo e o jovem tava lá vendo a vida
+ 00:22:31
+
+alheira. no Instagram. Poxa, esse cara
+ 00:22:33
+
+pode ser protagonista da sua própria
+ 00:22:36
+
+história ali no num vídeo ou na na
+ 00:22:38
+
+geração de uma informação e ele tava ali
+ 00:22:40
+
+sonhando em ser
+ 00:22:42
+
+um influencer, sonhando em ser um rapper
+ 00:22:44
+
+que não não tô tirando mérito dessas
+ 00:22:47
+
+outras funções, mas ele tem muito mais
+ 00:22:50
+
+relação com o campo do que com essas
+ 00:22:53
+
+outras frentes. Então a gente começou a
+ 00:22:54
+
+levar um pouco essa perspectiva, trazer
+ 00:22:57
+
+para esses jovens olhares sobre o que
+ 00:22:59
+
+pode estar embarcado no celular. E aí um
+ 00:23:01
+
+outro dado importante que a gente tem
+ 00:23:04
+
+uma constatação, praticamente nenhum
+ 00:23:05
+
+desses jovens mais hoje usa como nós
+ 00:23:08
+
+usamos um computador. Eles não usam um
+ 00:23:10
+
+notebook ou um PC, eles usam um celular.
+ 00:23:13
+
+E se vocês observarem nos nossos alunos,
+ 00:23:17
+
+nos nossos eh filhos, eles fazem todas
+ 00:23:19
+
+as funções praticamente no celular.
+ 00:23:22
+
+Então, a gente teve que migrar tudo que
+ 00:23:24
+
+a gente imaginava fazer, que dava para
+ 00:23:26
+
+fazer em ambiente web, que podia ser
+ 00:23:29
+
+feito na planilha para dentro do
+ 00:23:30
+
+celular. Esse foi o primeiro esforço que
+ 00:23:32
+
+a gente trabalhou para poder dialogar
+ 00:23:34
+
+com os jovens. Segundo processo foi
+ 00:23:36
+
+mostrar para eles ferramentas que eles
+ 00:23:38
+
+poderiam usar para fazer coleta de
+ 00:23:40
+
+dados, para produzir eles próprios
+ 00:23:42
+
+dashboards, para eles produzirem eh
+ 00:23:45
+
+comunicação e mais do que isso, garantir
+ 00:23:48
+
+que eles pudessem também fazer
+ 00:23:51
+
+devolutivas. Então, quando a gente faz
+ 00:23:53
+
+um qualquer trabalho que seja com um
+ 00:23:55
+
+jovem dessa natureza, a gente hoje a
+ 00:23:57
+
+gente tem o quê? A gente tem uma
+ 00:23:59
+
+plataforma. Essa plataforma você pode
+ 00:24:00
+
+colocar qualquer conteúdo que você
+ 00:24:03
+
+quiser, que é uma plataforma gamificada,
+ 00:24:04
+
+que você vai envolvendo eles num jogo,
+ 00:24:06
+
+que eles têm que atingir metas, eles têm
+ 00:24:09
+
+que eh segurar que cumpriram
+ 00:24:11
+
+determinadas missões, dialogando com
+ 00:24:12
+
+chatbot, que eu vou apresentar eles para
+ 00:24:15
+
+vocês aqui na frente já já. São
+ 00:24:17
+
+robozinhos que foram criados aí a partir
+ 00:24:18
+
+eh da nossa equipe de de tecnologia. Eh,
+ 00:24:21
+
+nós temos um núcleo de inteligência
+ 00:24:24
+
+artificial aqui no Capf que está
+ 00:24:25
+
+pensando essas essas questões e estão
+ 00:24:26
+
+muito à frente do que eu posso falar
+ 00:24:29
+
+para vocês, que os meninos são eh aviões
+ 00:24:30
+
+para descobrir essas tecnologias,
+ 00:24:33
+
+descobrir possibilidades de uso disso.
+ 00:24:34
+
+Vai lá, prepara um conteúdo, coloca
+ 00:24:37
+
+aquele conteúdo de uma forma didática
+ 00:24:40
+
+pros jovens. Numa primeira tentativa, a
+ 00:24:41
+
+gente fez um primeiro conjunto de de
+ 00:24:45
+
+atividades que a gente chamou eh do
+ 00:24:48
+
+módulo sobre formação digital. Depois
+ 00:24:50
+
+uma formação mais cidadã para descobrir
+ 00:24:53
+
+serviços, para poder usar as funções que
+ 00:24:55
+
+estão disponíveis no estado brasileiro,
+ 00:24:58
+
+no nos diversos serviços públicos. E
+ 00:25:00
+
+depois o que a gente chamou de
+ 00:25:03
+
+cartografia social, eles mapearem os
+ 00:25:04
+
+problemas deles. E nesse processo a
+ 00:25:07
+
+gente vai pedindo que eles vão trazendo
+ 00:25:09
+
+informações, ó. Então encontre cinco
+ 00:25:11
+
+agricultores aí para você semanalmente
+ 00:25:13
+
+trazer o que ele comercializou,
+ 00:25:15
+
+quantidade, preço vendido de produto X,
+ 00:25:17
+
+Y Z. Isso vai abastecendo um banco de
+ 00:25:20
+
+dados que a gente vai trabalhando e
+ 00:25:23
+
+depois a gente faz com que eles olhem
+ 00:25:24
+
+para isso, voltem paraas suas
+ 00:25:27
+
+comunidades, dialoguem com as
+ 00:25:28
+
+comunidades numa perspectiva de como
+ 00:25:30
+
+poder melhorar esses processos. Isso tem
+ 00:25:32
+
+sido extremamente salutar, muito
+ 00:25:34
+
+interessante. E a mesma lógica da
+ 00:25:36
+
+plataforma com a digitalização, a gente
+ 00:25:39
+
+tá usando agora, por exemplo, no
+ 00:25:41
+
+monitoramento da restauração eh
+ 00:25:42
+
+ambiental. Então nós temos três projetos
+ 00:25:44
+
+de compensação de carbono ligado ao
+ 00:25:47
+
+centro que eles precisam de
+ 00:25:49
+
+monitoramento. O que que a gente tá
+ 00:25:50
+
+fazendo? tá envolvendo os jovens nessa
+ 00:25:52
+
+perspectiva digital, usando a
+ 00:25:54
+
+tecnologia, usando esse conceito, não é, de
+ 00:25:56
+
+de robozinho no no WhatsApp para
+ 00:25:59
+
+dialogar com eles e eles nos munirem de
+ 00:26:02
+
+informações eh sobre os processos de
+ 00:26:04
+
+restauração. Bom, então o letramento
+ 00:26:08
+
+digital em algumas em alguns desenhos
+ 00:26:11
+
+ele tem essa cara, uma primeira fase,
+ 00:26:13
+
+então que a gente chama de jornada
+ 00:26:15
+
+digital, uma jornada de de cidadania e
+ 00:26:16
+
+depois uma jornada de cartografia. Essa
+ 00:26:18
+
+é a jornada de coleta que a gente vai
+ 00:26:20
+
+colocando como missão extra. Olha, agora
+ 00:26:22
+
+você precisa eh visitar a feira do seu
+ 00:26:24
+
+do seu município, da sua comunidade,
+ 00:26:27
+
+trazer algumas fotos, trazer alguns
+ 00:26:29
+
+registros, contar quantas barracas tem.
+ 00:26:31
+
+São mapeamentos que a gente, às vezes o
+ 00:26:34
+
+técnico tinha que ir lá fazer isso e
+ 00:26:36
+
+isso tô dizendo, insistindo, tá? não é
+ 00:26:38
+
+para substituir o papel do técnico,
+ 00:26:40
+
+porque o técnico passa a assumir um
+ 00:26:42
+
+papel muito mais de qualificar depois
+ 00:26:43
+
+desse dado, um papel já de conseguir
+ 00:26:45
+
+traduzir esse conjunto de informações,
+ 00:26:48
+
+orientar o que é importante que esses
+ 00:26:50
+
+jovens estejam a tempo e olhando. Eh,
+ 00:26:52
+
+isso tem funcionado bem bacana em
+ 00:26:55
+
+algumas situações que a gente tem
+ 00:26:57
+
+aplicado em várias partes do país. Eh, o
+ 00:26:58
+
+que que é o o principal, não é? Aqui do
+ 00:27:02
+
+lado direito também não dá para
+ 00:27:04
+
+visualizar com muita clareza, mas são as
+ 00:27:06
+
+diversas missões. O que os jovens
+ 00:27:09
+
+recebem, eles recebem cotidianamente
+ 00:27:11
+
+desses robozinhos dinâmicas lúdicas,
+ 00:27:13
+
+simuladores digitais que permitam que
+ 00:27:16
+
+eles assumam esse protagonismo e se
+ 00:27:18
+
+envolvam nessa perspectiva de fazer eh
+ 00:27:20
+
+esses trabalhos de de levantamento de
+ 00:27:23
+
+informações. Bom, esse aí é um dos dos
+ 00:27:27
+
+projetos que a gente tá tocando. Então,
+ 00:27:30
+
+a gente tá chamando de letramento
+ 00:27:32
+
+digital, conectando povos e conhecendo
+ 00:27:33
+
+terras. Aí tão algumas das interfaces
+ 00:27:34
+
+que eles acessam, a jornada de
+ 00:27:37
+
+cidadania, então tinha algumas missões,
+ 00:27:39
+
+vem sempre um cardzinho que eles recebem
+ 00:27:41
+
+ali em formato PDF com as tarefas que
+ 00:27:43
+
+eles têm cumprir. Ou eles vão ganhar
+ 00:27:46
+
+fazendo isso. E aí, qual foi a
+ 00:27:48
+
+contrapartida, não é? Além da gente
+ 00:27:50
+
+oferecer para eles uma bolsa mensal de
+ 00:27:52
+
+R$ 400, ele só recebe a bolsa se ele
+ 00:27:54
+
+cumpre as diversas jornadas, as diversas
+ 00:27:57
+
+missões estão ali. E para cumprir isso,
+ 00:27:59
+
+o princípio básico que a gente colocou,
+ 00:28:03
+
+e aí é um princípio cooperativista
+ 00:28:05
+
+forte, você não pode competir com seu
+ 00:28:07
+
+colega. O que pontua no jogo foi a
+ 00:28:09
+
+primeira recomendação que eu dei paraa
+ 00:28:12
+
+minha equipe de T lá. Olha, o que tem
+ 00:28:13
+
+que pontuar é a cooperação, não pode ser
+ 00:28:16
+
+a competição. Então, cooperar
+ 00:28:17
+
+internamente no seu núcleo pontua.
+ 00:28:20
+
+cooperar com o núcleo do município
+ 00:28:23
+
+vizinho, com do estado vizinho, pontua
+ 00:28:25
+
+mais ainda. Então, estimula que eles
+ 00:28:27
+
+criem redes de relacionamento, eles
+ 00:28:29
+
+fazem seminários virtuais entre eles
+ 00:28:32
+
+constantemente. Nós estamos programando
+ 00:28:34
+
+agora para Júlio trazê-los aqui paraa
+ 00:28:35
+
+Brasília para fazer um evento eh de
+ 00:28:37
+
+garantir que eles possam apresentar e se
+ 00:28:40
+
+conhecer pessoalmente, que até então só
+ 00:28:43
+
+tá no ambiente virtual. Eh, e o
+ 00:28:44
+
+interessante é que esses jovens têm
+ 00:28:47
+
+muita rapidez e muita facilidade de
+ 00:28:48
+
+encontrar soluções para fazer isso.
+ 00:28:50
+
+Quando a gente fala para eles cooperarem
+ 00:28:52
+
+entre eles, rapidamente eles descobrem
+ 00:28:54
+
+ferramentas que permitem eh fazer
+ 00:28:56
+
+integração, eles criam mecânicas rápidas
+ 00:28:58
+
+de de construir coisas juntas. Então
+ 00:29:01
+
+esse aspecto tem sido um processo muito
+ 00:29:04
+
+formativo e muito importante que vai com
+ 00:29:07
+
+certeza aí na frente nos ajudar a ter
+ 00:29:09
+
+técnicos mais preparados, a ter uma nova
+ 00:29:12
+
+geração de profissionais que tá chegando
+ 00:29:14
+
+aí para para trabalhar na nossa
+ 00:29:16
+
+agricultura, na nossa pecuária, nos
+ 00:29:18
+
+nossos processos de desenvolvimento com
+ 00:29:20
+
+outra visão. Eh, e a gente espera que
+ 00:29:22
+
+isso ganhe escala, não é? Isso ainda tá em
+ 00:29:24
+
+escala piloto, obviamente que eu tô
+ 00:29:26
+
+falando aqui, mas a gente quer que isso
+ 00:29:28
+
+ganhe mais escala,
+ 00:29:29
+
+não é? As barreiras, não é? sobretudo a
+ 00:29:31
+
+questão da infraestrutura, a gente já
+ 00:29:33
+
+citou um pouco, as resistências
+ 00:29:35
+
+institucionais, muitas organizações,
+ 00:29:37
+
+tanto do campo do desenvolvimento rural,
+ 00:29:39
+
+tanto do campo da da educação formal,
+ 00:29:42
+
+quanto do campo da extensão rural,
+ 00:29:45
+
+quanto do campo da do estado brasileiro,
+ 00:29:47
+
+tem resistências e são naturais. Eu
+ 00:29:50
+
+conto um caso que meu pai trabalhou numa
+ 00:29:52
+
+multinacional a vida inteira, uma
+ 00:29:54
+
+multinacional ligada eh à parte química
+ 00:29:55
+
+do agronegócio. E quando chegou o
+ 00:29:59
+
+computador, ele trabalhava no na parte
+ 00:30:02
+
+de escritório, quando chegou o
+ 00:30:04
+
+computador, ele pediu, ele já tava
+ 00:30:06
+
+aposentado, mas continuava trabalhando,
+ 00:30:07
+
+pediu para sair. Então a resistência ela
+ 00:30:08
+
+existe tanto do indivíduo quanto das
+ 00:30:10
+
+instituições. E um outro aspecto que
+ 00:30:13
+
+acho que é fundamental a gente falar
+ 00:30:15
+
+aqui, quando a gente tá usando a lógica
+ 00:30:16
+
+da da do digital, que é onde a gente
+ 00:30:18
+
+pode coletar muitos dados, pode ter um
+ 00:30:20
+
+volume significativo de informações, é a
+ 00:30:21
+
+soberania dessas informações. Quem vai
+ 00:30:24
+
+ter acesso a esses dados? Qual o grau de
+ 00:30:27
+
+segurança que nós temos com esses dados
+ 00:30:28
+
+que nós estamos produzindo eh nesses
+ 00:30:30
+
+processos digitais? Então esse cuidado a
+ 00:30:32
+
+gente tem que ter tanto eh assegurar o
+ 00:30:34
+
+uso da lei geral de proteção de dados,
+ 00:30:37
+
+mas do ponto de vista tecnológico também
+ 00:30:39
+
+tem que ter um cuidado muito grande e
+ 00:30:40
+
+constantemente a gente aí ouve e é
+ 00:30:42
+
+vítima de vazamento de informações, mas
+ 00:30:44
+
+mais do que o vazamento, a questão da
+ 00:30:47
+
+soberania nacional. Eh, hoje nós temos
+ 00:30:49
+
+inúmeras máquinas trabalhando no
+ 00:30:51
+
+agronegócio brasileiro com plataformas
+ 00:30:53
+
+próprias. lá no livro que a gente tem da
+ 00:30:55
+
+da rede PPA, tem um estudo
+ 00:30:57
+
+importantíssimo sobre isso. Essas
+ 00:30:59
+
+plataformas para você poder usar a o
+ 00:31:01
+
+sistema digital, que é a plataforma lá
+ 00:31:04
+
+da da empresa multinacional X ou Y, seja
+ 00:31:06
+
+americana, alemã ou chinesa, eles te
+ 00:31:09
+
+pedem que você assine um tema. Se você
+ 00:31:11
+
+for ler aquele tema com cuidado, as
+ 00:31:13
+
+bases de dados passam a ser deles.
+ 00:31:15
+
+Então, nós estamos entregando bases de
+ 00:31:16
+
+dados hoje brasileiras de mapeamento de
+ 00:31:19
+
+solo, de subsolo, de qualidade de solo,
+ 00:31:22
+
+de qualidade da produção, da quantidade
+ 00:31:24
+
+da produção, do clima, eh, da
+ 00:31:26
+
+vegetação para outros países. E nós não
+ 00:31:29
+
+temos nenhuma governança sobre isso.
+ 00:31:32
+
+Inclusive, eh, existe um um grupo de
+ 00:31:34
+
+trabalho ligado ao Senado Federal
+ 00:31:37
+
+cuidando de olhar para isso, porque esse
+ 00:31:39
+
+é um tema sensível hoje quando a gente
+ 00:31:41
+
+fala do digital no meio rural, isso tá
+ 00:31:44
+
+muito solto. Nós temos um volume muito
+ 00:31:46
+
+grande de empresas chegando, coletando
+ 00:31:48
+
+informações e levando embora essas
+ 00:31:51
+
+informações. E nós ainda estamos
+ 00:31:53
+
+dependendo, será que vamos ter o novo
+ 00:31:55
+
+senso agropecuário? Será que esse senso
+ 00:31:57
+
+agropecuário vai dar conta de trazer as
+ 00:31:59
+
+informações que a gente precisa? Então,
+ 00:32:01
+
+o que a gente tem apostado é produzir as
+ 00:32:03
+
+informações, garantir soberania e
+ 00:32:05
+
+segurança sobre isso. E aí tem um caso
+ 00:32:07
+
+emblemático muito interessante, são os
+ 00:32:10
+
+calungas aqui
+ 00:32:12
+
+de Cavalcante, Alto Paraíso de Goiás, é
+ 00:32:14
+
+que eles fizeram o mapeamento dos ativos
+ 00:32:17
+
+territoriais que eles têm, mas a base de
+ 00:32:19
+
+dados é deles e eles não abrem para
+ 00:32:22
+
+ninguém, salvo para uma pesquisa,
+ 00:32:24
+
+passando por um comitê próprio de
+ 00:32:26
+
+avaliação que eles criaram dentro da
+ 00:32:28
+
+associação Quilombo Calunga. Então eu
+ 00:32:30
+
+sempre cito esse exemplo do como exemplo
+ 00:32:32
+
+que nós deveríamos ter em várias
+ 00:32:35
+
+frentes. quem vai garantir a segurança e
+ 00:32:36
+
+a autonomia e a soberania desses dados
+ 00:32:39
+
+que a gente
+ 00:32:41
+
+produz. Bom, e por que que a gente tá
+ 00:32:43
+
+falando tudo isso? Porque isso tem muito
+ 00:32:45
+
+impacto nas políticas públicas. É
+ 00:32:47
+
+subsídio para melhorar programas como
+ 00:32:49
+
+PA, como as políticas de de preço
+ 00:32:51
+
+mínimo, eh políticas de compras da
+ 00:32:53
+
+agricultura familiar, políticas de
+ 00:32:57
+
+crédito, política de assistência
+ 00:32:59
+
+técnica. se a gente não sabe quem
+ 00:33:00
+
+precisa, o que que tá acontecendo em
+ 00:33:02
+
+determinados lugares, como é que a gente
+ 00:33:04
+
+consegue alcançar eh esses esse conjunto
+ 00:33:05
+
+de elementos? Então, o ponto que talvez
+ 00:33:09
+
+seja central é isso. Esse conjunto de
+ 00:33:11
+
+dados pode dar subsídios pro estado
+ 00:33:13
+
+brasileiro, mas também pro próprio ator
+ 00:33:16
+
+que tá lá na ponta. Então, o pessoal que
+ 00:33:18
+
+trabalha com coleta de castanhas,
+ 00:33:20
+
+castanha do Brasil no norte do Brasil,
+ 00:33:22
+
+sobretudo, eles têm uma rede de
+ 00:33:25
+
+coletores que o que eles mobilizam em
+ 00:33:27
+
+torno do WhatsApp são os próprios
+ 00:33:31
+
+coletores informar o preço e ao final do
+ 00:33:33
+
+dia todo mundo sabe o preço que tá sendo
+ 00:33:36
+
+praticado. Isso faz com que eles não
+ 00:33:38
+
+fiquem mais na mão de atravessadores
+ 00:33:40
+
+exploradores. Aquele cara que chegava
+ 00:33:43
+
+fala assim: "Não, o vizinho ali tá
+ 00:33:44
+
+vendendo por 30. O cara sabe lá no grupo
+ 00:33:45
+
+de WhatsApp dele qual tá sendo o preço
+ 00:33:48
+
+médio que os agricultores, os coletores
+ 00:33:51
+
+estão, tá recebendo em todos os estados
+ 00:33:53
+
+que coletam castanha. Isso é
+ 00:33:56
+
+sensacional. É um instrumento que faz
+ 00:33:58
+
+com que o agricultor possa ter um pouco
+ 00:34:00
+
+mais ou nesse caso o coletor
+ 00:34:02
+
+extrativista um pouco mais de segurança
+ 00:34:04
+
+sobre o que ele tem na mão para
+ 00:34:06
+
+comercializar. essa dependência do
+ 00:34:08
+
+atravessador. O atravessador, em alguns
+ 00:34:10
+
+casos, ele é extremamente importante e
+ 00:34:12
+
+fundamental, mas ele não pode ser um
+ 00:34:13
+
+agente que altere a dinâmica de preços
+ 00:34:16
+
+nessa história. E as tecnologias
+ 00:34:19
+
+permitir isso. Outro aspecto acho que é
+ 00:34:21
+
+a questão da governança informacional,
+ 00:34:23
+
+não é? A gente consegue fortalecer as
+ 00:34:25
+
+capacidades dos próprios territórios de
+ 00:34:26
+
+gerir seus dados. A partir do momento
+ 00:34:28
+
+que você tá construindo isso e você tem
+ 00:34:30
+
+eh uma construção coletiva disso, o
+ 00:34:32
+
+técnico chegar numa determinada região e
+ 00:34:34
+
+falar: "Ó, nós temos aqui um conjunto de
+ 00:34:36
+
+informações que foram produzidas por
+ 00:34:38
+
+vocês mesmos aqui da região X, da região
+ 00:34:40
+
+Y, onde eu atendo aqui, tá tudo aqui.
+ 00:34:43
+
+Vamos olhar para isso aqui. Vamos
+ 00:34:45
+
+entender porque aquele aquele aquela
+ 00:34:46
+
+comunidade ou aquele povoado, aquela eh
+ 00:34:48
+
+região ali tem diferenças em relação a a
+ 00:34:51
+
+vocês aqui. Então, acho que dá para
+ 00:34:53
+
+tomar muita decisão e decisão baseada em
+ 00:34:54
+
+dados, em evidência, elas são bastante
+ 00:34:57
+
+eh importante hoje em dia, não é? Reduz
+ 00:34:59
+
+custo, porque claro, quando a gente faz
+ 00:35:01
+
+essas abordagens, a gente consegue
+ 00:35:03
+
+reduzir custos e a velocidade e
+ 00:35:05
+
+quantidade de dados que são produzidos
+ 00:35:07
+
+aí também é um de outra magnitude, não é?
+ 00:35:09
+
+as limitações que nós temos quando a
+ 00:35:12
+
+gente vai a campo eh fazer um
+ 00:35:14
+
+diagnóstico, fazer, não tô substituindo,
+ 00:35:16
+
+não tô dizendo que nós não temos mais
+ 00:35:18
+
+que fazer isso com o técnico, eu tô
+ 00:35:19
+
+dizendo que isso pode ser auxiliar ao
+ 00:35:21
+
+trabalho do técnico e pode qualificar
+ 00:35:22
+
+mais ainda o trabalho do técnico.
+ 00:35:25
+
+Bom, um projeto que a gente tá usando
+ 00:35:28
+
+essa lógica é o projeto que a gente tá
+ 00:35:30
+
+desenvolvendo com a CONAB, que é o
+ 00:35:31
+
+projeto Monitora a safra saudável. é um
+ 00:35:33
+
+projeto metodológico inicialmente, então
+ 00:35:36
+
+a gente foi convidado pelo Silvio Porto
+ 00:35:38
+
+que tá aí nesse cantinho do da tela. Já
+ 00:35:40
+
+já vou pedir depois pro Ezequiel colocar
+ 00:35:42
+
+o vídeo dele aí pra gente. Eh, e
+ 00:35:44
+
+basicamente o que que a gente desenhou
+ 00:35:47
+
+ali com a CONAB? criar uma ferramenta
+ 00:35:48
+
+digital de interação entre a CONAB com
+ 00:35:52
+
+os técnicos, a CONAB com os
+ 00:35:56
+
+agricultores, para que possamos testar
+ 00:35:58
+
+essas ferramentas para fazer com que os
+ 00:36:00
+
+agricultores façam
+ 00:36:03
+
+autodeclaração do que eles produzem e do
+ 00:36:04
+
+que eles comercializam. Ponto. Não tô
+ 00:36:07
+
+interessado em fazer diagnósticos super
+ 00:36:09
+
+elaborados sobre a condição de vida
+ 00:36:12
+
+desse pessoal ou sobre outras coisas.
+ 00:36:14
+
+Essencialmente quatro, cinco, seis
+ 00:36:16
+
+perguntas. com recorrência. Eu preciso
+ 00:36:18
+
+ter uma informação, por exemplo, de
+ 00:36:21
+
+hortalista que são eh vendidas
+ 00:36:23
+
+semanalmente na feira. Qual que é a
+ 00:36:26
+
+produção? Hoje ninguém sabe essa
+ 00:36:27
+
+informação. Isso a gente tá fazendo com
+ 00:36:29
+
+os produtos agroecológicos, com produtos
+ 00:36:31
+
+orgânicos e com produtos da
+ 00:36:33
+
+sóciobiodiversidade. O Ministério da
+ 00:36:36
+
+Agricultura Brasileira tem um cadastro
+ 00:36:37
+
+de produtores orgânicos, mas não tem o
+ 00:36:39
+
+que produzem esses produtores e as
+ 00:36:42
+
+quantidades e com que frequência que
+ 00:36:44
+
+eles têm isso à disposição para
+ 00:36:46
+
+comercialização. Então essa é uma
+ 00:36:47
+
+perspectiva metodológica. A gente tá
+ 00:36:49
+
+usando essas ferramentas. Tem um convite
+ 00:36:50
+
+aí do Silvio, você podia subir pra gente
+ 00:36:52
+
+aqui, ó. O pessoal vê o videozinho, uns
+ 00:36:54
+
+30 segundinhos.
+ 00:36:55
+
+Trabalha, entrou e
+ 00:37:00
+
+saiu. AFRA agrícolas. Agora estamos
+ 00:37:02
+
+inovando a partir de uma parceria com o
+ 00:37:06
+
+Centro de Inovação para Agricultura
+ 00:37:08
+
+Familiar, o SEGAF, da Universidade de
+ 00:37:10
+
+Brasília, no levantamento da produção
+ 00:37:12
+
+agroecológica, orgânica e da
+ 00:37:15
+
+sóciobiodiversidade. Esse levantamento é
+ 00:37:17
+
+muito importante para relevância, para
+ 00:37:19
+
+dar visibilidade à relevância dessa
+ 00:37:21
+
+produção em nosso país. As organizações,
+ 00:37:24
+
+pessoas, famílias que recebam esse
+ 00:37:27
+
+vídeo, contamos com vocês. Respondam,
+ 00:37:29
+
+participem. é fundamental para que nós
+ 00:37:32
+
+possamos dimensionar essa economia da
+ 00:37:34
+
+sóciobiodiversidade, da produção
+ 00:37:37
+
+orgânica e agroecológica. Contamos com
+ 00:37:38
+
+ 00:37:43
+
+vocês. Temos podemos voltar lá aqui, ó.
+ 00:37:45
+
+É isso. Então, qual que é a lógica que a
+ 00:37:48
+
+gente estabeleceu nesse projeto? Tem tem
+ 00:37:50
+
+duas coisas fundamentais, tá? Eu vou
+ 00:37:53
+
+passar pro próximo slide para poder
+ 00:37:55
+
+falar para vocês. A gente precisa de uma
+ 00:37:56
+
+aproximação com jovens ou com
+ 00:37:59
+
+agricultora, com agricultor. A gente
+ 00:38:01
+
+precisa de uma mediação do técnico, a
+ 00:38:04
+
+gente precisa fazer uma triagem do que
+ 00:38:08
+
+são os principais produtos e depois um
+ 00:38:10
+
+monitoramento de como que isso se
+ 00:38:12
+
+distribui ao longo do tempo em
+ 00:38:15
+
+quantidade, em canais de
+ 00:38:17
+
+comercialização. São poucas perguntas,
+ 00:38:18
+
+mas que elas precisam ser feitas. E para
+ 00:38:20
+
+cada grupo de produto que o agricultor
+ 00:38:22
+
+fala, a gente tem um uma sequência de de
+ 00:38:25
+
+disparos que o robozinho tá preparado
+ 00:38:28
+
+ali. Então, tem todo um fluxograma
+ 00:38:30
+
+desenhado. O sujeito diz que ele produz
+ 00:38:32
+
+eh, por exemplo, cheiro verde e ele
+ 00:38:35
+
+comercializa isso com frequência
+ 00:38:38
+
+semanal. Então, semanalmente, o
+ 00:38:39
+
+robozinho volta a conversar com ele. Ah,
+ 00:38:41
+
+não, eu produzo feijão, aí a gente já
+ 00:38:43
+
+tem um intervalo maior para voltar a
+ 00:38:45
+
+conversar. Não, produz café, aí a
+ 00:38:46
+
+dinâmica é muito mais dilatada. Então,
+ 00:38:49
+
+nós estamos desenhando essa ferramenta
+ 00:38:51
+
+metodológica, lembrando que tudo isso
+ 00:38:53
+
+depende eh de embarcar essas tecnologias
+ 00:38:56
+
+junto com WhatsApp. Então, tem sistemas
+ 00:38:59
+
+proprietários que fazem isso. A gente
+ 00:39:01
+
+paga uma conta para usar essas
+ 00:39:03
+
+tecnologias, mas como é um processo
+ 00:39:04
+
+metodológico, a gente tá testando o uso
+ 00:39:05
+
+disso. Hoje já existem eh diversos
+ 00:39:07
+
+desenvolvedores, inclusive a gente tem
+ 00:39:10
+
+gente trabalhando nessa perspectiva,
+ 00:39:12
+
+pensar em fazer essas soluções eh que
+ 00:39:14
+
+não dependam de autorização da da meta,
+ 00:39:16
+
+não é? a proprietá do WhatsApp para usar
+ 00:39:19
+
+isso lá. Mas o problema é que todas as
+ 00:39:22
+
+vezes que você tem que embarcar isso no
+ 00:39:24
+
+WhatsApp para ser usado no no WhatsApp
+ 00:39:25
+
+do celular, sobretudo, não no WhatsApp
+ 00:39:28
+
+web, ela depende daquela marquinha
+ 00:39:30
+
+azulzinha pro nosso telefone lá junto à
+ 00:39:33
+
+meta. Então aquela coisa de autenticar o
+ 00:39:35
+
+disparo para não ser considerado um
+ 00:39:37
+
+spam, para não ser considerado eh uma
+ 00:39:39
+
+mensagem invasiva, depende do técnico. O
+ 00:39:42
+
+técnico pode dizer pro agricultor lá, e
+ 00:39:45
+
+a semana retrasada eu tava no Rio Grande
+ 00:39:47
+
+do Norte, eu vi isso, a gente disparando
+ 00:39:49
+
+umas mensagens para uns agricultores que
+ 00:39:51
+
+eu tava visitando e o agricultor faz o
+ 00:39:52
+
+qu? Ele pergunta pro técnico, fala
+ 00:39:54
+
+assim: "Juliana, eu posso responder isso
+ 00:39:55
+
+aqui ou não? Eu respondo isso aqui ou
+ 00:39:57
+
+não? Isso aqui é confiável ou não?"
+ 00:39:59
+
+Então, a primeira das da das das
+ 00:40:00
+
+preocupações que a CONAB tá tendo é uma
+ 00:40:03
+
+estratégia de articulação com as
+ 00:40:04
+
+organizações de assistência técnica, com
+ 00:40:07
+
+as organizações de apoio à produção, uma
+ 00:40:09
+
+estratégia de comunicação para com os
+ 00:40:12
+
+técnicos e para com os agricultores para
+ 00:40:14
+
+depois entrar efetivamente nessa
+ 00:40:16
+
+estratégia dos pares. Ah, mas essa
+ 00:40:18
+
+informação não é uma informação válida
+ 00:40:20
+
+porque não é produzida eh por um uma
+ 00:40:22
+
+entidade oficial como IBGE. A validação
+ 00:40:25
+
+é outro aspecto sensível. Quem tem que
+ 00:40:28
+
+validar esses dados são os técnicos.
+ 00:40:30
+
+Então é muito mais fácil eu chegar ali
+ 00:40:32
+
+paraa Juliana lá do do Rio Grande do
+ 00:40:34
+
+Norte e falar: "Juliana, de fato, esse
+ 00:40:36
+
+conjunto de informações aqui desse
+ 00:40:38
+
+território aqui que pega aqui o
+ 00:40:39
+
+território indígena do Catu, que pega a
+ 00:40:42
+
+comunidade X ou Y, essas informações são
+ 00:40:45
+
+verídicas, você conhece essa realidade,
+ 00:40:47
+
+ela vai lá e dentro do próprio sistema
+ 00:40:49
+
+ela dá um OK e ela passa a ter acesso ao
+ 00:40:51
+
+conjunto de informações para ela fazer
+ 00:40:54
+
+um milhão de outras coisas. A gente
+ 00:40:56
+
+desloca o papel do técnico nessa
+ 00:40:58
+
+perspectiva para um papel muito mais de
+ 00:41:00
+
+usar as as ferramentas a seu favor, não
+ 00:41:03
+
+gastar o seu tempo lá fazendo horas e
+ 00:41:07
+
+horas de levantamento. E hoje a grande
+ 00:41:10
+
+verdade é que agricultor não aguenta
+ 00:41:13
+
+mais diagnóstico, gente. Isso é um fato.
+ 00:41:14
+
+Tem agricultor que fala assim: "Meu
+ 00:41:17
+
+Deus, de novo vocês aqui, mais uma
+ 00:41:18
+
+pesquisa de novo, eu vou ter que
+ 00:41:20
+
+responder um conjunto de perguntas".
+ 00:41:22
+
+Isso acontece praticamente em alguns
+ 00:41:24
+
+casos, eh, quando se tornam
+ 00:41:27
+
+emblemáticos, sistemáticos. E os
+ 00:41:29
+
+agricultores pedem tempo do seu
+ 00:41:31
+
+trabalho, de se dedicar a outras coisas,
+ 00:41:33
+
+porque eles não deixam de nos atender,
+ 00:41:34
+
+nos atender aos técnicos. Então,
+ 00:41:36
+
+qualificar um pouco o uso dessas
+ 00:41:38
+
+informações é papel do técnico também,
+ 00:41:40
+
+tá bom? Então, esse papel que a gente tá
+ 00:41:42
+
+já antecipando aqui do técnico, acho que
+ 00:41:45
+
+ele passa a ser muito mais esse papel eh
+ 00:41:47
+
+de validar essas informações. Aqui tem
+ 00:41:50
+
+três eh robozinhos que não vou botar
+ 00:41:51
+
+eles para funcionar aqui, mas aqui são,
+ 00:41:54
+
+eu gravei tela deles dialogando e
+ 00:41:56
+
+interagindo. Então, a gente criou esse
+ 00:41:58
+
+personagem aí que a gente chamou de
+ 00:41:59
+
+Segafiana. é uma personagem mais eh
+ 00:42:01
+
+jovem e mais virtual, mas depois tem
+ 00:42:05
+
+personagens mais com cara mais eh
+ 00:42:07
+
+próxima da da comunicação que pode ser
+ 00:42:10
+
+feito com agricultor, com assistência
+ 00:42:12
+
+técnica, são os compadres da vida, que
+ 00:42:14
+
+são os tios da da Segafiana aí, que é
+ 00:42:17
+
+essa personagem que nós criamos. Mas o
+ 00:42:19
+
+interessante é a linguagem que a gente
+ 00:42:21
+
+dá o comando paraa inteligência
+ 00:42:24
+
+artificial falar com as pessoas. Então
+ 00:42:25
+
+elas podem falar numa linguagem mais
+ 00:42:28
+
+coloquial, elas podem exclusivamente
+ 00:42:30
+
+usar áudio se a gente quiser e depois
+ 00:42:33
+
+extrair do áudio as informações para
+ 00:42:34
+
+entrar no banco de dados. Se tem um
+ 00:42:36
+
+jovem respondendo ali, a gente pode usar
+ 00:42:37
+
+apenas perguntas para vir mais
+ 00:42:40
+
+rapidamente o conjunto de dados. Se é
+ 00:42:42
+
+uma pessoa que não tem letramento
+ 00:42:44
+
+formal, você pode colocar só imagens e
+ 00:42:46
+
+vídeos e ela grava respostas ou ela
+ 00:42:48
+
+marca nas imagens o que que ela tá
+ 00:42:50
+
+respondendo. As possibilidades e as
+ 00:42:52
+
+automações possíveis a partir das
+ 00:42:54
+
+inteligências artificial são inúmeras. A
+ 00:42:56
+
+gente tem tentado explorar um pouco
+ 00:42:58
+
+isso. Bom, só para rapidamente reforçar
+ 00:42:59
+
+aqui o papel do técnica, nós fizemos
+ 00:43:03
+
+três casos rápidos aqui nos últimos
+ 00:43:05
+
+tempos para testar esses disparos com
+ 00:43:07
+
+três comunidades distintas. do polo da
+ 00:43:09
+
+Borborema na Paraíba. Tivemos uma
+ 00:43:11
+
+mobilização realizada junto à assessoria
+ 00:43:13
+
+eh feita pelas lá no nome do
+ 00:43:16
+
+Luciano, um grande amigo que nos ajudou
+ 00:43:18
+
+lá. Nós disparamos 142 mensagens e
+ 00:43:20
+
+tivemos 61% de interação no letramento,
+ 00:43:24
+
+que é esses projeto que a gente tem
+ 00:43:28
+
+feito aqui no entorno do Distrito
+ 00:43:29
+
+Federal, usando jovens, sem a gente
+ 00:43:31
+
+envolver um técnico da Ematera ou sem
+ 00:43:34
+
+envolver o nosso próprio articulador
+ 00:43:36
+
+ali, nosso coordenador, 1,8% de
+ 00:43:38
+
+resposta. E no monitório orgânico que a
+ 00:43:41
+
+gente fez com uma comunidade no Rio
+ 00:43:43
+
+Grande do Norte que já não tinha mais a
+ 00:43:46
+
+presença da assistência técnica, foi
+ 00:43:48
+
+atendida pela assistência técnica, mas
+ 00:43:50
+
+não tinha mais a presença, 4,4% de
+ 00:43:51
+
+resposta. Então o que eu tô dizendo para
+ 00:43:53
+
+vocês desde o início, sem ter a presença
+ 00:43:55
+
+do técnico não funciona essa estratégia.
+ 00:43:58
+
+Ponto. O técnico continua sendo
+ 00:44:01
+
+indispensável e ele passa a ser depois
+ 00:44:03
+
+um sujeito que pode usar isso e
+ 00:44:06
+
+qualificar isso para outras outras
+ 00:44:08
+
+censas. Esses dados chegam nesses
+ 00:44:10
+
+painéis BI aí que a gente cria. O
+ 00:44:12
+
+técnico consome isso, ele recebe lá um
+ 00:44:14
+
+PDF com conjunto de dados, do conjunto
+ 00:44:16
+
+de análise. O agricultor também recebe
+ 00:44:18
+
+informações que são mais do interesse
+ 00:44:20
+
+deles. Eh, e esse técnico para mim hoje
+ 00:44:23
+
+ele passa a ser muito mais esse
+ 00:44:26
+
+especialista que ouve, que interpreta e
+ 00:44:27
+
+que faz essas conexões. Se a gente
+ 00:44:29
+
+continuar achando que o papel do técnico
+ 00:44:31
+
+é ir lá fazer um monte de pergunta,
+ 00:44:34
+
+depois fazer projeto de crédito, nós
+ 00:44:36
+
+estamos errando feio, gente. Não tenho
+ 00:44:38
+
+dúvida disso. Eh, hoje a gente precisa
+ 00:44:40
+
+de um técnico que seja capaz de abrir
+ 00:44:43
+
+portas para esse agricultor, que seja
+ 00:44:45
+
+capaz de acessar política junto com esse
+ 00:44:47
+
+grupo de agricultores, com associações.
+ 00:44:50
+
+E para isso a gente precisa ganhar
+ 00:44:52
+
+escala,
+ 00:44:54
+
+ganhar informações para poder atender,
+ 00:44:56
+
+responder aos diversos editais,
+ 00:44:59
+
+responder às diversas chamadas. Eh,
+ 00:45:01
+
+então acho que esse técnico hoje ele
+ 00:45:03
+
+passa a ter um papel muito mais
+ 00:45:04
+
+estratégico e ele tem que passar por
+ 00:45:06
+
+esses processos que a gente tem chamado
+ 00:45:09
+
+aí processos digitais de formação. Os
+ 00:45:10
+
+próprios técnicos hoje precisam de
+ 00:45:13
+
+passar por esse processo. As escolas
+ 00:45:15
+
+tradicionais de agronomia onde eu
+ 00:45:16
+
+estudei, por exemplo, não tinha essa
+ 00:45:19
+
+formação. Essa formação eu fiz por conta
+ 00:45:21
+
+própria. E a gente tem que apostar que
+ 00:45:22
+
+se a gente não olhar para esse futuro,
+ 00:45:25
+
+trazer isso para dentro dos cursos de
+ 00:45:27
+
+gestão do agronegócio, agronomia,
+ 00:45:29
+
+veterinária, zootecnia, todos os outros
+ 00:45:31
+
+cursos técnicos, cursos de agroecologia,
+ 00:45:34
+
+curso de agro, qualquer coisa, a gente
+ 00:45:36
+
+vai continuar insistindo em depender de
+ 00:45:39
+
+informações eh do governo que não tem
+ 00:45:41
+
+recurso para realizar um censo na
+ 00:45:45
+
+qualidade que deveria ser, não tem a
+ 00:45:47
+
+recorrência da informação que
+ 00:45:49
+
+precisávamos e as grandes multinacionais
+ 00:45:50
+
+estão levando esses cidades embora e nós
+ 00:45:52
+
+não temos acesso a isso. Então, se a
+ 00:45:54
+
+gente não tiver condições de produzir
+ 00:45:55
+
+isso eh a partir das nossas próprias
+ 00:45:57
+
+lógicas, acho que a CONAB com essa
+ 00:46:00
+
+iniciativa é um lugar que todo mundo
+ 00:46:02
+
+deveria buscar essas informações,
+ 00:46:04
+
+dialogar ali com a estratégia da CONAB
+ 00:46:06
+
+de ajudar e contribuir para isso, para
+ 00:46:08
+
+que a gente possa falar ali na frente, a
+ 00:46:10
+
+gente tem condições de garantir que
+ 00:46:12
+
+essas tecnologias ajudem os sujeitos
+ 00:46:15
+
+rurais e ajudem o campo de alguma
+ 00:46:17
+
+maneira. Quais são as grandes, os
+ 00:46:18
+
+grandes desafios, não é? escalar isso. A
+ 00:46:20
+
+gente tá falando tudo aqui em escala
+ 00:46:22
+
+pilota, democratizar tecnologias. Eh, o
+ 00:46:23
+
+uso ainda dessas tecnologias não é muito
+ 00:46:26
+
+democrática. Os sujeitos geralmente são
+ 00:46:28
+
+muito passivos no uso dela. Já falei
+ 00:46:31
+
+isso. A gente precisa fazer com que
+ 00:46:33
+
+essas pessoas passem a ter muito mais
+ 00:46:34
+
+protagonismo no uso dessas dessas
+ 00:46:36
+
+ferramentas e isso fortalecendo eh suas
+ 00:46:38
+
+capacidades de gerir, de tomar decisão e
+ 00:46:41
+
+de dizer não, se eles quiserem. Quando a
+ 00:46:44
+
+Associação Quilombo Calunga disse não
+ 00:46:46
+
+para um colega meu para fazer pesquisa
+ 00:46:49
+
+lá, eh, ela disse assim: "Olha, nós
+ 00:46:50
+
+temos aqui uma base de dados desse
+ 00:46:52
+
+tamanho, mas nós só vamos entregar para
+ 00:46:54
+
+vocês esse esse pedacinho aqui, porque o
+ 00:46:55
+
+resto é dado nosso que é sensível, é
+ 00:46:58
+
+informação que nós não queremos que a
+ 00:47:01
+
+sociedade saiba porque isso aqui é o
+ 00:47:03
+
+nosso território." Eu acho isso
+ 00:47:05
+
+sensacional e acho que devia ter muito
+ 00:47:07
+
+mais gente preocupado em garantir eh
+ 00:47:09
+
+soberania e protagonismo na gestão do
+ 00:47:11
+
+território a partir das
+ 00:47:15
+
+informações. Bom, é isso, gente. Acho
+ 00:47:16
+
+que fica aí o convite para pra reflexão,
+ 00:47:19
+
+pra gente discutir um pouco. Tem aí o o
+ 00:47:21
+
+nosso site, o nosso LinkedIn, nosso
+ 00:47:24
+
+Instagram para vocês seguirem aí, quem
+ 00:47:26
+
+tiver interesse.
+ 00:47:27
+
+E esse livro que eu citei e dentro do
+ 00:47:29
+
+site, tem um link para ele, mas se vocês
+ 00:47:32
+
+forem na internet vocês vão encontrar lá
+ 00:47:33
+
+livro sobre digitalização da rede PPAL,
+ 00:47:36
+
+ao qual faço um agradecimento aqui por
+ 00:47:39
+
+conta de do apoio para desenvolver essas
+ 00:47:40
+
+pesquisas também, a FAPDF, o Segap e a
+ 00:47:43
+
+própria UNID. E agradecer aqui o canal
+ 00:47:45
+
+Extensionista, a Rede Aurora aí por
+ 00:47:48
+
+protagonizar esse debate. Acho que isso
+ 00:47:50
+
+é muito bacana. Eh, fiquei contente de
+ 00:47:52
+
+receber esse convite. Espero que a gente
+ 00:47:54
+
+possa vir aí junto com todo esse
+ 00:47:56
+
+ecossistema digital, mas também humano
+ 00:47:58
+
+que se encontra em vários espaços, a
+ 00:48:01
+
+gente possa vir fazer mais coisas juntos
+ 00:48:03
+
+próximos meses, próximos anos. Aí a
+ 00:48:06
+
+gente tá aqui à disposição. Então,
+ 00:48:08
+
+obrigado, gente.
+ 00:48:09
+
+Muito bom. Até tirei meu chapéu, como
+ 00:48:11
+
+diz o negócio, não é? Parabéns, professor
+ 00:48:14
+
+Mário. Sor Mário aí fez uma grande
+ 00:48:17
+
+apresentação aí do grande projeto, não é?
+ 00:48:19
+
+Aqui tem até digital, aqui tem formação.
+ 00:48:22
+
+Então, parabéns ao professor Mário aí
+ 00:48:24
+
+pela UnB, grande, grandes reflexões. E a
+ 00:48:26
+
+live foi crescendo ao longo do ao longo
+ 00:48:29
+
+da sua apresentação. A galera começou a
+ 00:48:31
+
+chegar aí e trouxe muita contribuição.
+ 00:48:33
+
+Então, para não me demorar, não criar
+ 00:48:36
+
+nenhuma teoria, nós já vamos interagir
+ 00:48:38
+
+com a galera que tá presente aqui de
+ 00:48:40
+
+todo canto do Brasil. Isso que é o
+ 00:48:42
+
+legal, não é? Nós conseguimos atingir aí
+ 00:48:44
+
+todos os estados brasileiros. do nosso
+ 00:48:47
+
+amigo Gilmar aí, nosso professor que tá
+ 00:48:49
+
+sempre aí eh dialogando na extensão
+ 00:48:51
+
+rural, publicando na revista Extensão
+ 00:48:53
+
+Rural, tem vários artigos, professor
+ 00:48:56
+
+Gilmar também da Universidade do Estado
+ 00:48:57
+
+do Mato Grosso, Nemate. Obrigado pela
+ 00:49:00
+
+presença aí a Jéssica que tem sido uma
+ 00:49:02
+
+grande ouvinte e assistente de toda a
+ 00:49:05
+
+quarta-feira do PPG CTS aí do FCAR aí do
+ 00:49:07
+
+programa do professor Zuin também tem
+ 00:49:11
+
+muita gente participando. Juliana aqui
+ 00:49:13
+
+também participando. Thago, o Francisco
+ 00:49:16
+
+da CAT de São Paulo também. Só pro pro
+ 00:49:19
+
+Mário também tá tá sabendo onde é que tá
+ 00:49:22
+
+a galera aí, ó. Ó o pessoal de Santa
+ 00:49:24
+
+Catarina. Obrigado Paulo, pela tua
+ 00:49:26
+
+presença. E a primeira reflexão aqui vem
+ 00:49:28
+
+do Francisco. Temos uma
+ 00:49:32
+
+sondagem da época da pandemia que
+ 00:49:35
+
+mostrava bem as limitações de acesso à
+ 00:49:39
+
+rede nas áreas rurais, mesmo no estado
+ 00:49:42
+
+de São Paulo. O quanto ele entende que
+ 00:49:45
+
+isso ainda é um limitante, no caso,
+ 00:49:48
+
+quanto você, professor Mário, acha que
+ 00:49:50
+
+isso é um limitante? Essa é a pergunta.
+ 00:49:52
+
+Ô, Francisco, de fato, isso é é fato,
+ 00:49:55
+
+não é uma novidade. Imagina eh nas
+ 00:49:58
+
+regiões norte, nordeste, você tá falando
+ 00:50:01
+
+isso em São Paulo, não é, que nós temos uma
+ 00:50:04
+
+cobertura digital praticamente de todo o
+ 00:50:05
+
+território, mas eu trabalho em Brasília,
+ 00:50:07
+
+mas moro em Formosa, Goiás. No caminho,
+ 00:50:11
+
+eh, eu paro em alguns pontos para testar
+ 00:50:14
+
+eh a intensidade do meu sinal de 3G, 4G
+ 00:50:16
+
+ou 5G. eu saio de 5G, caio para quatro,
+ 00:50:19
+
+no meio do caminho, quando eu tô perto
+ 00:50:23
+
+dos assentamentos da reforma agrária, eu
+ 00:50:25
+
+chego no 3G, aí quando eu chego em
+ 00:50:27
+
+Brasília de novo, eu volto pro cinco.
+ 00:50:29
+
+Então isso explica muito claramente,
+ 00:50:31
+
+obviamente o estado brasileiro prioriza
+ 00:50:32
+
+algumas áreas. Lógico que as empresas
+ 00:50:35
+
+que trabalham e colocam as antenas, elas
+ 00:50:37
+
+não vão colocar eh e aí tem uma questão
+ 00:50:39
+
+de política de estado. Se o estado
+ 00:50:42
+
+brasileiro não assumir, falar vamos
+ 00:50:43
+
+botar mais antena, nós vamos continuar
+ 00:50:45
+
+enfrentando isso. Como é que os
+ 00:50:47
+
+agricultores têm resolvido isso? eles
+ 00:50:48
+
+procuram espaço onde eles têm acesso eh
+ 00:50:49
+
+um Wi-Fi ali público ou muitos deles
+ 00:50:52
+
+contratam aquelas antenas de Wi-Fi via
+ 00:50:54
+
+rádio. Eh, mas ainda tem muita
+ 00:50:56
+
+limitação, sim. E esse é um desafio. É
+ 00:50:58
+
+um desafio. Quando a gente trabalha com
+ 00:51:01
+
+essas tecnologias, a lógica que a gente
+ 00:51:02
+
+imagina é: o cara responde quando ele
+ 00:51:04
+
+puder. Não dá para você colocar uma
+ 00:51:06
+
+cerca virtual e falar só pode responder
+ 00:51:08
+
+estando lá na propriedade ou fazer que
+ 00:51:09
+
+nem a Anater tentou um determinado
+ 00:51:12
+
+momento, reconhecimento facial com um
+ 00:51:13
+
+sistema que não conseguia transmitir
+ 00:51:16
+
+nemum a inscrita, não é, vai transmitir eh
+ 00:51:18
+
+teste de reconhecimento facial. Então, a
+ 00:51:21
+
+gente tem que levar em consideração isso
+ 00:51:23
+
+sim. E ainda é um grande limitante que o
+ 00:51:24
+
+Estado brasileiro não solucionou.
+ 00:51:26
+
+Muito bom, muito bom. Essa questão do
+ 00:51:30
+
+reconhecimento facial aí foi pauta, não é?
+ 00:51:32
+
+Eh, muito grande, não é? Porque até um
+ 00:51:35
+
+certo constrangimento aí pro nossos
+ 00:51:37
+
+agricultores, não é? Enfim, aqui tá o Ebert
+ 00:51:40
+
+falando que tá assistindo da Embrapa,
+ 00:51:44
+
+Distrito Federal. Obrigado pela tua
+ 00:51:45
+
+presença, Ebert. Temos aqui a Helena
+ 00:51:47
+
+também. A Helena é jovem agente de
+ 00:51:50
+
+letramento digital de Formosa Goiás. Que
+ 00:51:52
+
+legal. Muito obrigado pela sua
+ 00:51:55
+
+presença. Muito bom. Ezequiel, pode
+ 00:51:57
+
+falar. Essa história do essa história do
+ 00:52:00
+
+do letramento é muito legal, porque eh
+ 00:52:02
+
+quando você chega junto a esses jovens e
+ 00:52:05
+
+você vê que o o quanto que isso pode
+ 00:52:07
+
+mudar a vida deles, não é? Eh, às vezes é
+ 00:52:11
+
+decisível entre o jovem que tava ali em
+ 00:52:13
+
+dúvida se ele vai seguir uma carreira,
+ 00:52:15
+
+se ele vai pra área do rural, pra área
+ 00:52:17
+
+da ciência técnica ou não. Ele percebeu
+ 00:52:19
+
+uma perspectiva dessa a partir disso que
+ 00:52:21
+
+a gente tá falando. Olha, você não
+ 00:52:23
+
+precisa ser eh o melhor profissional da
+ 00:52:25
+
+das ciências agrárias, você pode ser um
+ 00:52:28
+
+comunicador, você pode ser um agente de
+ 00:52:29
+
+monitoramento. Então você cria inúmeras
+ 00:52:33
+
+outras perspectivas e a Helena faz parte
+ 00:52:36
+
+disso. Parabéns, Helena por estar aqui
+ 00:52:38
+
+com a gente. é uma jovem muito
+ 00:52:40
+
+interessada e envolvida ali nos
+ 00:52:42
+
+processos que a gente tem feito. E o
+ 00:52:44
+
+assentamento da Helena recentemente foi
+ 00:52:45
+
+saiu de acampamento para assentamento,
+ 00:52:47
+
+graças aí ao assinatura do do do atual
+ 00:52:49
+
+presidente que foi lá e deu a ela também
+ 00:52:52
+
+essa condição de poder acessar políticas
+ 00:52:54
+
+que até então elas estavam 8 anos
+ 00:52:57
+
+vivendo eh sob a condição de acampados
+ 00:52:58
+
+que são aqueles
+ 00:53:01
+
+também desconhecidos das políticas
+ 00:53:03
+
+públicas no Brasil, não é?
+ 00:53:05
+
+Muito bom. Isso aí é muito legal, não é? O
+ 00:53:08
+
+pessoal participa também pela pel esse
+ 00:53:11
+
+vínculo que cria. Isso é isso é muito
+ 00:53:13
+
+bacana desses processos que são
+ 00:53:15
+
+construídos. Deixa eu ver aqui o
+ 00:53:18
+
+Ednaldo, nosso grande professor aí da
+ 00:53:19
+
+Uen aí participando. Ótimo essa
+ 00:53:23
+
+socialização de preços para evitar a
+ 00:53:26
+
+exploração máxima dos dos
+ 00:53:28
+
+atravessadores. Aquele momento da live
+ 00:53:30
+
+que você falava ali, não é, que eles trocam
+ 00:53:31
+
+informações no WhatsApp. Isso aqui é uma
+ 00:53:34
+
+reflexão histórica, não é, professor Mário?
+ 00:53:35
+
+Tipo antigamente, não é, como é que era o
+ 00:53:37
+
+único processo de informação lal era na
+ 00:53:40
+
+venda, não é, que o cara, o cara vinha lá,
+ 00:53:42
+
+então era muito fácil de manobrar, não é?
+ 00:53:45
+
+Então ess hoje as coisas já estão, não é,
+ 00:53:48
+
+mais acessíveis na mão do nosso
+ 00:53:51
+
+agricultor. Claro que a gente tem vários
+ 00:53:53
+
+problemas decinais ainda, não é? Então isso
+ 00:53:55
+
+é um grande ganho. Vou trazer aqui o do
+ 00:53:57
+
+Marcelo. Grande Marcelo, obrigado pela
+ 00:54:01
+
+tua presença. Professor Mário. Eh, o
+ 00:54:03
+
+projeto de letramento digital é
+ 00:54:06
+
+fantástico, com princípios fundamentais
+ 00:54:08
+
+para a sustentabilidade, como
+ 00:54:11
+
+cooperação, a participação e o estudo da
+ 00:54:13
+
+realidade local. Parabéns. E ele
+ 00:54:16
+
+continua.
+ 00:54:18
+
+13 três reflexões aqui. Precisamos
+ 00:54:19
+
+reverter o uso das mídias das mídias
+ 00:54:23
+
+pela juventude do mero entretenimento,
+ 00:54:26
+
+alienante para uma ferramenta de
+ 00:54:29
+
+emancipação, desenvolvimento local.
+ 00:54:31
+
+Muito interessante. Muito
+ 00:54:33
+
+interessante. Vocês têm percebido
+ 00:54:35
+
+mudança na visão crítica dos jovens
+ 00:54:37
+
+sobre as mídias de modo geral a partir
+ 00:54:39
+
+desse projeto? Marcelo Bezeril, é da
+ 00:54:42
+
+UnB, colega nosso aqui, grande Marcelo.
+ 00:54:45
+
+Obrigado pela pela provocação, Marcelo.
+ 00:54:48
+
+Hoje é um nome muito importante pra
+ 00:54:51
+
+gente discutir até Ezequiel Zuin, porque
+ 00:54:53
+
+ele hoje é o presidente da FGE, que é a
+ 00:54:58
+
+a organização das universidades que
+ 00:55:00
+
+falam língua portuguesa no mundo
+ 00:55:01
+
+inteiro. Eh, e a gente pode fazer esses
+ 00:55:03
+
+diálogos sobretudo com os pais da África
+ 00:55:06
+
+e aprender muito. pessoal já avançou
+ 00:55:07
+
+muito ness nesses usos dessas
+ 00:55:09
+
+tecnologias com essa história do preço,
+ 00:55:10
+
+com eh hoje a gente tá discutindo ali
+ 00:55:13
+
+com a CONAB a ideia do observatório de
+ 00:55:15
+
+preço. Eh, é um instrumento fundamental
+ 00:55:17
+
+paraa gente não ter esses esse essas
+ 00:55:20
+
+especulações e as inflações que a gente
+ 00:55:23
+
+a gente tem tem tido historicamente por
+ 00:55:25
+
+conta de especulação sobre preço. Eh, e
+ 00:55:27
+
+o Marcelo pode ser uma ponte muito
+ 00:55:29
+
+importante pra gente puxar para uma
+ 00:55:31
+
+conversa aí para dialogar com os países
+ 00:55:32
+
+africanos nessa perspectiva e aprender
+ 00:55:35
+
+muito com eles. E Marcelo, de fato, isso
+ 00:55:36
+
+tem acontecido. Jovens passaram a usar
+ 00:55:38
+
+as tecnologias. Então, a gente ouviu o
+ 00:55:41
+
+depoimento de jovem, olha, eu tenho
+ 00:55:43
+
+ajudado aqui minha família a
+ 00:55:44
+
+comercializar porque a gente criou um
+ 00:55:46
+
+canal eh de comercialização de WhatsApp
+ 00:55:47
+
+ou a gente tá mostrando nossos problemas
+ 00:55:50
+
+no TikTok e outros dizem assim: "Eu não
+ 00:55:52
+
+quero aparecer". Então, tem de tudo, mas
+ 00:55:54
+
+o fato é que eles perceberam que as
+ 00:55:57
+
+tecnologias podem ser usad a favor
+ 00:55:59
+
+deles. Isso acho que é o mais
+ 00:56:01
+
+importante. Eh, e o processo ainda tá
+ 00:56:02
+
+continuado, não é? não é um processo
+ 00:56:05
+
+encerrado, mas eu acho que tem muita
+ 00:56:06
+
+coisa ainda que pode ser colocado nessa
+ 00:56:09
+
+perspectiva, sobretudo da soberania,
+ 00:56:10
+
+sobretudo da cooperação. Acho que a
+ 00:56:13
+
+gente consegue avançar muito nessa a
+ 00:56:14
+
+partir dessa dessa perspectiva do
+ 00:56:17
+
+projeto. Muito bom. Eu eu ia fazer um
+ 00:56:19
+
+comentário no início depois da sua fala
+ 00:56:22
+
+sobre essa questão, mas eu vou eu vi a
+ 00:56:24
+
+pergunta do do Mário e e é bem isso aí
+ 00:56:26
+
+que o professor que o do Marcelo
+ 00:56:29
+
+pergunta do Marcelo, mas é bem isso que
+ 00:56:31
+
+o Mário falou dentro durante a tua live,
+ 00:56:33
+
+não é? É essa negação que o jovem tem do
+ 00:56:36
+
+rural, não é? Eu acho que eu acho que eu
+ 00:56:39
+
+acho que isso tem um pouco de
+ 00:56:41
+
+característica da adolescência, da
+ 00:56:43
+
+juventude, que você quer se desvincular
+ 00:56:45
+
+daquilo que é a sua origem, não é? Mas
+ 00:56:48
+
+imagina se eles fortalecessem esse
+ 00:56:51
+
+origem, porque quem mais sabe do rural
+ 00:56:53
+
+do que eles que estão ali presentes, não é?
+ 00:56:55
+
+Então assim, há esse movimento grande de
+ 00:56:57
+
+você entrar para o global e sair do
+ 00:57:00
+
+local, não é? Essa negação. Mas eu eu não
+ 00:57:03
+
+sei se eu como jovem me parece que isso
+ 00:57:06
+
+é momentâneo. Talvez no futuro parece
+ 00:57:08
+
+que eles depende muito, não é? Depende das
+ 00:57:11
+
+reflexões, não é? Mas no futuro parece que
+ 00:57:14
+
+a galera ela ela valoriza as origens.
+ 00:57:17
+
+Alguns negam as origens mesmo, mas
+ 00:57:19
+
+imagina se já potencializasse desde
+ 00:57:22
+
+criança, desde adolescente, com essas
+ 00:57:24
+
+ferramentas que tem na mão, não é, que hoje
+ 00:57:26
+
+são completamente diferentes que eram no
+ 00:57:28
+
+passado, não é? Eu fico me perguntando
+ 00:57:30
+
+isso, mas eu vejo também toda a
+ 00:57:32
+
+complexidade que são as redes, não é? Eh,
+ 00:57:34
+
+para para ser usado, não é? Você vai
+ 00:57:37
+
+imaginar que tem eh e elas têm uma
+ 00:57:39
+
+característica importante que que todos
+ 00:57:42
+
+que isso também acontece nos programas
+ 00:57:45
+
+que a gente usa, não é? em termos
+ 00:57:48
+
+acadêmicos, não é? Eh, o próprio Word, o
+ 00:57:50
+
+Corel Dra, que são programas aí que se
+ 00:57:53
+
+você analisar lá de 2005 para cá,
+ 00:57:56
+
+quantas vezes já mudaram as ferramentas
+ 00:57:58
+
+e nós como professores ficamos perdidos
+ 00:58:00
+
+nelas. Aí eu fico imaginando as redes
+ 00:58:03
+
+sociais que a cada três meses muda. Se
+ 00:58:05
+
+você não tá muito alinhado, daqui três
+ 00:58:07
+
+meses você já não sabe como como
+ 00:58:09
+
+manusear, não é? Eu vejo essas dificuldades
+ 00:58:11
+
+aliado ainda mais a à questão do acesso
+ 00:58:14
+
+à a internet de qualidade para ele tá
+ 00:58:17
+
+assistindo uma live como essa, não é? Claro
+ 00:58:19
+
+que nós precisamos evoluir, mas eu sou
+ 00:58:21
+
+apaixonado por esse debate aí, professor
+ 00:58:24
+
+Mário. Parabéns por ter chamado,
+ 00:58:26
+
+estimulado. Eu achei muito bacana isso
+ 00:58:28
+
+aí. Muito bom, Ezequiel. Isso aí tem um
+ 00:58:30
+
+componente também que a gente não pode
+ 00:58:33
+
+esquecer, não é, que tem uma construção eh
+ 00:58:34
+
+midiática, não é, que o agro eh o jovem do
+ 00:58:36
+
+agro, ele não vai fazer esse processo
+ 00:58:40
+
+que você falou. O jovem que tá no
+ 00:58:43
+
+assentamento, ele é excluído todos os
+ 00:58:45
+
+dias. Então ele, obviamente para esse
+ 00:58:47
+
+jovem da agricultura familiar, que a
+ 00:58:49
+
+gente tá falando aqui em alguma medida,
+ 00:58:50
+
+eh, e aí acho que a coisa da
+ 00:58:52
+
+emancipação, deles poderem falar: "Não,
+ 00:58:54
+
+eu quero mostrar minha realidade aqui,
+ 00:58:56
+
+eu quero eh tomar isso para para meu
+ 00:58:57
+
+princípio de vida". Eh, passa por isso,
+ 00:59:01
+
+passa por a gente permitir que eles
+ 00:59:03
+
+falem, não é? A gente historicamente, isso
+ 00:59:04
+
+até nas nas nossas formações como
+ 00:59:07
+
+profissionais, a gente sabe disso, eh os
+ 00:59:09
+
+processos de extensão inclusive foram
+ 00:59:11
+
+feitos para não ser as pessoas não
+ 00:59:13
+
+falar, não é? Era um processo de difusão.
+ 00:59:14
+
+Então a gente tem hoje feito essa
+ 00:59:17
+
+inversão. Coloca esses jovens dentro do
+ 00:59:18
+
+de um espaço desse, falando: "Agora quem
+ 00:59:21
+
+tem que propor a solução são vocês. Quem
+ 00:59:22
+
+tem que falar o que quer mapear são
+ 00:59:24
+
+vocês." A gente não define por eles. Na
+ 00:59:26
+
+na na jornada de mapeamento e
+ 00:59:28
+
+cartografia social a gente coloca
+ 00:59:30
+
+aberto. Eles têm que propor o tema do
+ 00:59:32
+
+que eles querem mapear, como que eles
+ 00:59:34
+
+vão fazer. A gente ajuda depois na
+ 00:59:36
+
+construção de entregar ferramentas,
+ 00:59:38
+
+ajudar na construção de como ordenar
+ 00:59:39
+
+isso. Tem jovem mapeando problemas de
+ 00:59:41
+
+saúde, jovens mapeando eh buraco na nas
+ 00:59:44
+
+estradas,
+ 00:59:48
+
+mapeando aplicação irregular de
+ 00:59:49
+
+defensivos, us coisa que você imaginar.
+ 00:59:52
+
+Quem deu a ideia são eles. Eles percebem
+ 00:59:55
+
+o problema, fala: "Eu quero usar isso
+ 00:59:58
+
+aqui para fazer um mapeamento". Então
+ 00:59:59
+
+acho que isso é muito legal, permite
+ 01:00:01
+
+essa essa esse envolvimento jovem. ele
+ 01:00:03
+
+passa a ser protagonista disso, toma
+ 01:00:05
+
+isso como sendo um projeto pessoal dele,
+ 01:00:07
+
+não é? E acho que isso acaba eh favorecendo
+ 01:00:09
+
+que esse jovem possa ter. E não dá paraa
+ 01:00:12
+
+gente disputar. Infelizmente, eu já por
+ 01:00:14
+
+muitos anos dei aula para alunos que
+ 01:00:17
+
+depois iam trabalhar no agronegócio. Eh,
+ 01:00:19
+
+e as multinacionais vão buscar eles lá
+ 01:00:21
+
+nos últimos anos pagando salários
+ 01:00:23
+
+compatíveis com os nossos professores,
+ 01:00:25
+
+às vezes maior já, não é? Não dá para
+ 01:00:27
+
+comparar e tentar disputá-lo com os
+ 01:00:29
+
+jovens que que a gente tenta fazer esses
+ 01:00:31
+
+processos mais emancipadores. Nós não
+ 01:00:33
+
+temos os mesmos os mesmos artifícios em
+ 01:00:36
+
+alguma medida, não é? Então, acho que esse
+ 01:00:38
+
+é um aspecto também que tem que ser
+ 01:00:39
+
+sempre colocado em perspectiva, que o
+ 01:00:41
+
+ponto de partida ele é diferente, mas
+ 01:00:43
+
+nós temos um grande contingente de
+ 01:00:45
+
+jovens que podem eh fazerem parte desses
+ 01:00:47
+
+processos de até de extensão rural eh
+ 01:00:50
+
+que dialogam com isso que a gente tá
+ 01:00:52
+
+falando aqui. Muito bom, muito, muito
+ 01:00:54
+
+boa essa reflexão. Essa reflexão a gente
+ 01:00:57
+
+tem que anotar. Anota aí,
+ 01:00:59
+
+gente. Olha essa aqui, ó. A Luciana,
+ 01:01:00
+
+nossa grande extensionista da matéria,
+ 01:01:03
+
+ela perguntou, acho que no momento que
+ 01:01:05
+
+você fez uma citação, onde é que eu
+ 01:01:07
+
+contra o livro de políticas públicas da
+ 01:01:08
+
+América Latina? Aí qualquer coisa a
+ 01:01:10
+
+gente pode escrever nos comentários ou
+ 01:01:12
+
+deixa
+ 01:01:14
+
+depois. Pode passar o link, não é? Tem um
+ 01:01:15
+
+chat privado aqui, professor Maro, mas
+ 01:01:18
+
+assim depois a gente também pode
+ 01:01:20
+
+publicar depois que a live terminar
+ 01:01:21
+
+também no próprio vídeo ou
+ 01:01:23
+
+disponibilizar no nas redes sociais aí.
+ 01:01:24
+
+Legal. Isso é outra coisa interessante,
+ 01:01:27
+
+Luciano, porque hoje todo mundo que
+ 01:01:29
+
+produz um livro, rapidamente já solta
+ 01:01:30
+
+uma versão PDF dele ali no ambiente
+ 01:01:32
+
+digital. Mudou completamente esse
+ 01:01:35
+
+mercado, não é? Então, antes a gente
+ 01:01:37
+
+queria, tem alguns ainda que gostam do
+ 01:01:38
+
+livro físico, eu sou um deles, tô cheio
+ 01:01:40
+
+de livro aqui cercado deles, mas hoje em
+ 01:01:41
+
+dia é o livro digital, então esse livro
+ 01:01:43
+
+tá disponível gratuitamente. Tem um
+ 01:01:45
+
+sobre mercados digitais, é escrito lá
+ 01:01:47
+
+pelo pessoal do PGDR do Rio Grande do
+ 01:01:49
+
+Sul, que tá disponível também. Então,
+ 01:01:51
+
+tem inúmeros livros. Eh, depois se
+ 01:01:52
+
+quiser me mandar mensagem, eu tenho um
+ 01:01:54
+
+uma lista de links aqui para para
+ 01:01:56
+
+compartilhar com vocês.
+ 01:01:58
+
+E o pessoal gostou da live do professor
+ 01:02:01
+
+Marcelo? Tem muito comentário aqui, eu
+ 01:02:03
+
+vou passar todos. Ó, o Michelon fala o
+ 01:02:05
+
+seguinte: "Estamos colaborando com o
+ 01:02:08
+
+Paraná mais orgânico nessa pesquisa da
+ 01:02:10
+
+UnB CONAB". Muito bom. Obrigado pel Isso
+ 01:02:12
+
+aí, Michelão. Obrigado pela pela
+ 01:02:15
+
+contribuição. Michelão, colega de longa
+ 01:02:16
+
+data do professor Mauro Del Grossa, que
+ 01:02:18
+
+é um colega nosso do centro, então
+ 01:02:19
+
+rapidamente se dispôs a ajudar nessa
+ 01:02:21
+
+construção, tá já articulando lá com os
+ 01:02:23
+
+técnicos, com os agricultores. E é isso,
+ 01:02:25
+
+a gente precisa de de dialog de de fazer
+ 01:02:27
+
+esse diálogo, não é, para poder fazer com
+ 01:02:30
+
+que a gente alcance mais nesse projeto
+ 01:02:31
+
+aí da da CONAB. Ele é sensível, não tem
+ 01:02:33
+
+muito dinheiro, mas a gente precisa
+ 01:02:38
+
+dessas cooperações para poder alcançar
+ 01:02:39
+
+de fato quem quem tem as informações lá
+ 01:02:41
+
+na ponta.
+ 01:02:43
+
+Muito bom. Eu não vou passar todos aqui,
+ 01:02:45
+
+mas eu vou ir nos nos mais grandiosos
+ 01:02:47
+
+aqui, não é? Eh, me perdoe, gente, senão de
+ 01:02:50
+
+percar muito tempo, mas o bertima fez o
+ 01:02:53
+
+seguinte
+ 01:02:55
+
+comentário: técnico acompanhando em
+ 01:02:56
+
+campo, pois o contato direto nos traz as
+ 01:02:59
+
+melhores informações para retroalimentar
+ 01:03:01
+
+e corrigir as ações dos agricultores.
+ 01:03:04
+
+Isso, isso é uma coisa que o Mário
+ 01:03:07
+
+falou, não é, Mário? Eh, essa questão que o
+ 01:03:08
+
+técnico não é indispensável mesmo usando
+ 01:03:10
+
+a ter digital, as tecnologias, o
+ 01:03:13
+
+WhatsApp, porque ele tem, ele é
+ 01:03:15
+
+indispensável. Ele não é dispensável,
+ 01:03:17
+
+ele é indispensável. Isso, isso, isso,
+ 01:03:19
+
+isso. Complimente, por favor. Eu, eu ia
+ 01:03:21
+
+falar isso e ia complementar, por favor.
+ 01:03:23
+
+Não, mas acho que é isso. O técnico ele
+ 01:03:26
+
+é ele continua sendo indispensável. O
+ 01:03:27
+
+que eu tenho advogado aqui é que ele
+ 01:03:30
+
+mude o seu papel. Ele não é mais o o
+ 01:03:32
+
+sujeito que tem que gastar uma manhã
+ 01:03:34
+
+inteira fazendo um diagnóstico. Ele pode
+ 01:03:37
+
+receber isso autodeclarado pelo
+ 01:03:40
+
+agricultor, pelo filho, pelo sobrinho e
+ 01:03:42
+
+ele vai para lá para qualificar esse
+ 01:03:44
+
+dado. Ele vai para lá para preparar a
+ 01:03:46
+
+sua ação. É isso que a gente espera do
+ 01:03:48
+
+técnico. A gente historicamente a gente
+ 01:03:50
+
+encontra volumes imensos de de
+ 01:03:53
+
+planilhas,
+ 01:03:54
+
+de
+ 01:03:56
+
+papéis levantados pelos técnicos. A
+ 01:03:58
+
+política territorial da SDT nos anos
+ 01:04:00
+
+anteriores era isso, aquelas matrizes de
+ 01:04:03
+
+políticas eram inúmeros inúmeros,
+ 01:04:06
+
+inúmeros levantamentos e aí não usamos
+ 01:04:08
+
+para nada a boa parte daquilo. Então
+ 01:04:11
+
+você não pode ter mais esse delay entre
+ 01:04:13
+
+coletar um dado e consumir aquela
+ 01:04:15
+
+informação. E o técnico, obviamente, tem
+ 01:04:17
+
+que estar ali acompanhando isso, mas ele
+ 01:04:20
+
+já pode já estos dados agregados,
+ 01:04:21
+
+analisados, sistematizados, organizados
+ 01:04:24
+
+para pensar o que fazer a partir dali,
+ 01:04:27
+
+não é, que é o principal desafio que que
+ 01:04:28
+
+ele vai encontrar.
+ 01:04:30
+
+Muito bom. O Gilmar fez um O professor
+ 01:04:33
+
+Gilmar fez uma complementação aqui em
+ 01:04:36
+
+Tagará Sera. Vários estudos realizados
+ 01:04:39
+
+com nossos feirantes, várias feiras, nos
+ 01:04:41
+
+mostram quanto esses agricultores
+ 01:04:44
+
+familiares estão utilizando as
+ 01:04:46
+
+ferramentas de consulta, não somente o
+ 01:04:47
+
+WhatsApp,
+ 01:04:50
+
+inclusive a parte de fertilidade e
+ 01:04:52
+
+comercialização. Olha que bacana. Muito
+ 01:04:55
+
+obrigado, Gilmar. Tem um tem tem
+ 01:04:58
+
+experiências no Brasil aí com Não, acho
+ 01:05:01
+
+que assim, é importante reforçar essa
+ 01:05:03
+
+fala do Jilmar, não é? Tem muita
+ 01:05:05
+
+experiência. Eh, eu tive há cerca de um
+ 01:05:06
+
+mês em Juazeiro, na Bahia, eh, numa
+ 01:05:10
+
+agenda que a gente tava discutindo
+ 01:05:13
+
+monitoramento participativo de algumas
+ 01:05:14
+
+políticas e numa agenda de três dias
+ 01:05:16
+
+apareceram três aplicativos que faziam
+ 01:05:19
+
+coisas distintas que estavam sendo
+ 01:05:21
+
+usados pelos agricultores. O problema é
+ 01:05:22
+
+que às vezes é isso, começa a ter muito
+ 01:05:24
+
+aplicativo que fica restrito a um grupo
+ 01:05:26
+
+pequeno e aí você não consegue ter isso
+ 01:05:28
+
+numa dimensão maior. Então hoje todo
+ 01:05:30
+
+mundo tem um aplicativo para chamar de
+ 01:05:33
+
+seu, mas e aí não adianta muita coisa se
+ 01:05:34
+
+a gente não conseguir organizar isso em
+ 01:05:36
+
+bases. E aí entra o papel das APIs, de
+ 01:05:38
+
+uma coordenação. O o presidente do IBGE
+ 01:05:41
+
+tem advogado lá ideia de criar uma
+ 01:05:44
+
+estratégia nacional de dados, porque
+ 01:05:45
+
+senão não adianta a gente ter um monte
+ 01:05:47
+
+de dados dispersos. Eu tenho pelo menos
+ 01:05:48
+
+10 aplicativos desenvolvidos aqui no CG.
+ 01:05:51
+
+Se eu não colocar isso tudo numa base
+ 01:05:54
+
+única e trabalhar isso de maneira
+ 01:05:55
+
+integrada, não faz sentido. Então, eh,
+ 01:05:56
+
+eu acho que assim, existem boas
+ 01:05:59
+
+iniciativas, mas o passo seguinte, acho
+ 01:06:00
+
+que a gente começar a pensar como que
+ 01:06:02
+
+elas podem se integrar eh e permitir que
+ 01:06:03
+
+técnicos, formadores, tomadores de
+ 01:06:07
+
+decisão usem essas informações.
+ 01:06:09
+
+Muito bom, muito bom. O Gilmar
+ 01:06:12
+
+complementa aqui, ó, aí é sua fala
+ 01:06:15
+
+anterior, não é? Fantástico inserir a
+ 01:06:17
+
+juventude no processo de desenvolvimento
+ 01:06:19
+
+rural. Muito bom. O Antônio fala o
+ 01:06:20
+
+seguinte: "Iniciativa incrível da SEGAF,
+ 01:06:24
+
+eh, contribuições muito necessárias para
+ 01:06:27
+
+fortalecer a vida no campo e na
+ 01:06:29
+
+agricultura familiar". E o Francisco,
+ 01:06:30
+
+passando aqui, são as complementações
+ 01:06:34
+
+muito importantes. Ele é forçar a fala
+ 01:06:36
+
+do professor Mário, isso é fundamental.
+ 01:06:38
+
+Eh, desafio dos técnicos entenderem a
+ 01:06:41
+
+forma de que não vem para substituí-los,
+ 01:06:43
+
+mas fortalecer, usar a ferramenta como
+ 01:06:45
+
+uma ferramenta mesmo. Parece simples,
+ 01:06:49
+
+mas mais com aspecto que extensionista
+ 01:06:51
+
+precisa se aperfeiçoar. O Felipe da
+ 01:06:54
+
+Ipagre fala muito isso no zap rural, não é?
+ 01:06:57
+
+Ele diz o seguinte: "Nem todo mundo vai
+ 01:06:59
+
+fazer um vídeo, não é? Mas a gente pode
+ 01:07:00
+
+usar até simples, a gente pode facilitar
+ 01:07:03
+
+o nosso trabalho, não é? eh pode usar as
+ 01:07:05
+
+tecnologias a nosso favor quando
+ 01:07:08
+
+possível, não é? Então, cada cada
+ 01:07:10
+
+extensionista tem seu perfil e pode
+ 01:07:12
+
+ajudar no seu trabalho, não é? E e de fato,
+ 01:07:15
+
+Ezequiel, isso aí é o processo
+ 01:07:18
+
+formativo, não é? A a nossa geração foi
+ 01:07:20
+
+formada numa lógica que o técnico tinha
+ 01:07:22
+
+um papel. Hoje nós estamos tentando
+ 01:07:26
+
+dizer: "Olha, é outro papel". E claro,
+ 01:07:28
+
+você traz isso nos seus modelos mentais,
+ 01:07:31
+
+na sua trajetória e tem gente que não
+ 01:07:34
+
+vai abrir mão, vai falar assim: "Não,
+ 01:07:36
+
+isso não funciona." Nós encontramos
+ 01:07:37
+
+dificuldades, por exemplo, em algumas
+ 01:07:39
+
+comunidades onde o técnico disse: "Não,
+ 01:07:40
+
+não responde isso aí, não, isso aí é
+ 01:07:42
+
+bobagem, eu faço aqui com vocês". Então,
+ 01:07:44
+
+essa primazia do técnico em deter um
+ 01:07:47
+
+conjunto de agricultores e achar que é é
+ 01:07:52
+
+para chamar de seu, eu sempre faço esse
+ 01:07:56
+
+enfrentamento, sofro muito com isso, que
+ 01:07:58
+
+às vezes as pessoas batem muito em mim,
+ 01:08:00
+
+falam assim: "Ah, pô, você tá renegando
+ 01:08:01
+
+o papel do técnico?" Não, eu tô tentando
+ 01:08:03
+
+é requalificar o papel do técnico, mas
+ 01:08:05
+
+as pessoas não não é não é tão simples.
+ 01:08:07
+
+Eu gostei da provocação porque assim, eu
+ 01:08:10
+
+ouço isso todos os dias, técnicos de
+ 01:08:12
+
+entidades públicas diz assim: "Pô, mas
+ 01:08:14
+
+eu ganho diária para fazer isso, eu vou
+ 01:08:15
+
+lá, aí você tá querendo tirar esse papel
+ 01:08:17
+
+que é o meu trabalho". Então você não tá
+ 01:08:19
+
+preocupado com seu trabalho, você tá
+ 01:08:21
+
+preocupado com a diária, não é? Porque o
+ 01:08:22
+
+seu trabalho você podia fazer de outra
+ 01:08:24
+
+maneira se você usasse tecnologia,
+ 01:08:25
+
+usasse essas inteligências, mas ele
+ 01:08:27
+
+insiste em dizer assim: "Eu ganho diária
+ 01:08:29
+
+para ir lá fazer isso e você tá tentando
+ 01:08:30
+
+tirar isso de mim".
+ 01:08:32
+
+Então é complementação de renda. Aí é
+ 01:08:34
+
+outra discussão, não é a nossa discussão
+ 01:08:36
+
+aqui. A nossa discussão aqui é sobre a
+ 01:08:37
+
+TEA digital. Eu acho que ela precisa ser
+ 01:08:39
+
+feita, mas tem que enfrentar. E não não
+ 01:08:42
+
+são poucos, não, tá? Dentro da Anater
+ 01:08:44
+
+nós vamos enfrentar isso. No MDA a gente
+ 01:08:46
+
+enfrenta isso, nas várias redes de ATER
+ 01:08:48
+
+Brasil afora a gente enfrenta isso, mas
+ 01:08:51
+
+é uma coisa que naturalmente vai
+ 01:08:53
+
+acontecer, não tenho dúvida. Eh, e as
+ 01:08:54
+
+pessoas vão ter que aprender a conviver
+ 01:08:57
+
+com isso. Não é que isso vai substituir,
+ 01:08:59
+
+nós temos que aprender a usar isso, como
+ 01:09:00
+
+foi dito aí no início, não é? Chat GPT pode
+ 01:09:02
+
+servir para outras frentes. O professor
+ 01:09:05
+
+hoje, o profissional hoje que não usa
+ 01:09:07
+
+uma ferramenta dessa, eu acho que ele tá
+ 01:09:10
+
+deixando para trás possibilidades
+ 01:09:12
+
+incríveis. Então, acho que é nesse
+ 01:09:14
+
+sentido que a gente tem que sempre
+ 01:09:15
+
+tentar tratar. Muito bom. Importante
+ 01:09:16
+
+fala, viu? Inclusive, é importante fala
+ 01:09:19
+
+e inclusive essa é uma pesquisa, não é? Se
+ 01:09:23
+
+a gente for, eh, é uma coisa que dá para
+ 01:09:25
+
+fazer bem fácil, não é? Se os nossos
+ 01:09:27
+
+extensões do Brasil usam ou não uso chat
+ 01:09:30
+
+EPT. Olha, eu vou te dizer que eu
+ 01:09:32
+
+garanto que tem muito boa parte que não
+ 01:09:34
+
+usa, hein. E olha, uma ferramenta super
+ 01:09:36
+
+simples, hein? Eu não quero chutar
+ 01:09:39
+
+números aqui, mas é bastante, viu? É
+ 01:09:41
+
+bastante. Mas olha aqui, professor
+ 01:09:43
+
+Mário, agora eu vou te botar no
+ 01:09:45
+
+compromisso, que na verdade não fui eu,
+ 01:09:47
+
+foi o Gilmar. Olha só, o Gilmar faz dois
+ 01:09:49
+
+comentários aqui. Nossa Empireer, Mato
+ 01:09:52
+
+Grosso precisa avançar nesse contexto.
+ 01:09:54
+
+Estamos em projetos em conjunto e agora
+ 01:09:56
+
+vem o compromisso. Como podemos agendar
+ 01:09:58
+
+uma fala da equipe do Segaf conosco? Eu
+ 01:10:00
+
+sou Gilmar, quer saber. Gilmar, só
+ 01:10:03
+
+mandar mensagem aqui, a gente marca na
+ 01:10:06
+
+hora. É, na verdade isso faz parte, é
+ 01:10:07
+
+processo de extensão nosso aqui da
+ 01:10:10
+
+universidade. Mas para além disso, acho
+ 01:10:12
+
+que eh pode acionar gente a partir do do
+ 01:10:14
+
+das redes sociais. Aí tem vários canais
+ 01:10:18
+
+que a gente que a gente vai falando um
+ 01:10:19
+
+pouco sobre isso. Eh, se for possível
+ 01:10:21
+
+fazer presencial, eu vou aí junto com
+ 01:10:24
+
+alguns colegas, senão a gente faz
+ 01:10:26
+
+virtual, mas estamos à disposição. E é
+ 01:10:27
+
+isso. Acho que o que a gente precisa,
+ 01:10:30
+
+não é, é comunicação, não é, e isso parte
+ 01:10:32
+
+desses convites. Então, obrigado aí pela
+ 01:10:34
+
+pode ficar tranquilo que você pode
+ 01:10:37
+
+mandar mensagem que nós vamos agendar
+ 01:10:38
+
+isso urgente.
+ 01:10:40
+
+Muito bom. É só entrar em contato com
+ 01:10:43
+
+nós aí também que a gente faça contato
+ 01:10:44
+
+pro formário se precisar. Eh, Zuinho,
+ 01:10:46
+
+agora vou deixar contigo, não é? Deixar
+ 01:10:49
+
+fazer uma mediação rápida aí. E aí,
+ 01:10:51
+
+fique à vontade.
+ 01:10:53
+
+Senor Mário, pô, palestra maravilhosa,
+ 01:10:55
+
+Mário. Pô, que trabalho bonito de vocês,
+ 01:10:58
+
+viu? Nossa, parabéns, parabéns mesmo.
+ 01:11:00
+
+Mário, queria a gente falar um pouquinho
+ 01:11:04
+
+do dessas barreiras que a gente enfrenta
+ 01:11:05
+
+nosso dia a dia, não é, para tá divulgando
+ 01:11:09
+
+a TER Digital. Então, a gente a gente
+ 01:11:11
+
+tocou muito no assunto do dos
+ 01:11:14
+
+extensionistas rurais. não é? Eu acho que
+ 01:11:16
+
+existem tem alguma, você passou por
+ 01:11:19
+
+algumas pinceladas aí que eu concordo
+ 01:11:21
+
+com tudo que você falou a respeito
+ 01:11:24
+
+deles, não é, dessa insegurança a respeito
+ 01:11:25
+
+das TDIques, não é, da introdução das TDIC
+ 01:11:28
+
+nos trabalhos deles, nas rotinas de
+ 01:11:31
+
+trabalho, não é? Mas eu acredito também que
+ 01:11:33
+
+passa não só pelos extensionistas, mas
+ 01:11:36
+
+depois um outro público que eu gostaria
+ 01:11:39
+
+que você também, não é, desse a sua
+ 01:11:40
+
+opinião, não é, que seria a questão do
+ 01:11:42
+
+status qu, não é, antes, não é, o o
+ 01:11:44
+
+extensionista ele era o dono da verdade,
+ 01:11:48
+
+ele o único dono da verdade, não é? Então,
+ 01:11:50
+
+ele chegava no campo como você citou
+ 01:11:52
+
+alguns aí, não é, algum algum exemplo aí
+ 01:11:55
+
+que você acabou citando, não é? E esse
+ 01:11:57
+
+extensionista hoje ele tem que dividir
+ 01:11:59
+
+isso com o mundo, com o mundo, não é? Eu
+ 01:12:01
+
+brinco nas minhas aulas aqui na USP, não é?
+ 01:12:05
+
+Que que o telefone celular hoje tem mais
+ 01:12:07
+
+informação, não é? Do que todos os
+ 01:12:10
+
+professores da USP juntos, não é? não é?
+ 01:12:12
+
+Então, e tá na sua mão e isso isso fez
+ 01:12:14
+
+com que também o professor ter que se
+ 01:12:18
+
+reinventar, não é? E o e o extensionista
+ 01:12:21
+
+rural como educador, ele também tem que
+ 01:12:23
+
+se reinventar nessa prática. E você deu
+ 01:12:25
+
+caminhos ali muito interessantes, não é,
+ 01:12:27
+
+dessa dessa reinvenção dele, não é, não
+ 01:12:30
+
+sendo só o a aquele detentor do
+ 01:12:33
+
+conhecimento que leva pro campo, porque
+ 01:12:36
+
+não existia antes nenhum tipo de
+ 01:12:37
+
+comunicação, não é? não é? Mas eu queria que
+ 01:12:39
+
+você falasse, não é? Desse uma mensagem
+ 01:12:43
+
+para aquele jovem pesquisador, não é?
+ 01:12:46
+
+Aquele jovem professor universitário,
+ 01:12:49
+
+não é? que tá hoje trabalhando com a ter,
+ 01:12:51
+
+com esses assuntos da terra e que escuta
+ 01:12:54
+
+muito da minha geração, de que
+ 01:12:57
+
+isso que isso não não é não é
+ 01:12:59
+
+interessante, que isso eh muitas vezes é
+ 01:13:03
+
+monológico, que isso é difusionista, não é,
+ 01:13:07
+
+que que escuta muito, não é, de um de um
+ 01:13:10
+
+campo da academia esse tipo de
+ 01:13:13
+
+comentário, não é, e que e que acredito eu,
+ 01:13:15
+
+não é, existem alguns autores
+ 01:13:20
+
+da educação, na educação formal, que
+ 01:13:22
+
+dizem que hoje não existe nenhum
+ 01:13:24
+
+processo de hoje no contemporâneo, não
+ 01:13:26
+
+existe nenhum processo de ensino
+ 01:13:28
+
+aprendizagem que em algum momento ele
+ 01:13:29
+
+passa pela pelo ambiente digital de
+ 01:13:31
+
+comunicação, não é? Ele em algum momento
+ 01:13:35
+
+ele vai passar pelo ambiente digital de
+ 01:13:37
+
+comunicação, não é? Isso não existe mais. O
+ 01:13:38
+
+contemporâneo, não é isso? E e essas
+ 01:13:41
+
+pessoas, não é, elas elas, esse jovem
+ 01:13:43
+
+educador, não é, ele e também dos outros
+ 01:13:47
+
+campos, não é, dos outras idades também,
+ 01:13:52
+
+eles falam sempre tocam no mesmo
+ 01:13:54
+
+assunto. Olha, conectividade no campo
+ 01:13:56
+
+não não tá legal. Aparelho celular o,
+ 01:13:59
+
+não é, envolve uma série de
+ 01:14:03
+
+barreiras para falar que isso que a
+ 01:14:06
+
+gente tá fazendo, não é, eh, talvez não dê
+ 01:14:09
+
+certo, não é? Então, eh, para esse jovem
+ 01:14:12
+
+que tá começando agora, que tem esse
+ 01:14:15
+
+essa esse mundo, não é, da comunicação
+ 01:14:18
+
+digital na frente dele, não é, como é que
+ 01:14:21
+
+ele podia estar trabalhando isso com
+ 01:14:23
+
+seus alunos, com as pessoas que ele em
+ 01:14:24
+
+volta ali se comunica, não é, para não ter
+ 01:14:28
+
+esse préonceito, não é, esse préonceito da
+ 01:14:30
+
+da do digital, não é, na comunicação e na
+ 01:14:34
+
+educação. Acho que eu falei dei uma
+ 01:14:37
+
+volta ao mundo para resumir numa frase
+ 01:14:38
+
+dessa aqui. Desculpa.
+ 01:14:40
+
+Não, mas acho que é é interessante
+ 01:14:42
+
+assim, porque você tem tem claro um um
+ 01:14:44
+
+conjunto de de elementos para explicar
+ 01:14:48
+
+isso, não é? Especificamente, vou falar
+ 01:14:50
+
+primeiro do meu caso, assim, eu venho de
+ 01:14:52
+
+uma de uma trajetória que ela tem o
+ 01:14:54
+
+digital presente. Então, eu quando eu
+ 01:14:56
+
+fui estudar em Lavras em
+ 01:14:58
+
+1991, no segundo semestre
+ 01:15:01
+
+921, eh eu saí com uninho que meu irmão
+ 01:15:05
+
+tinha carregando um 386 que ocupava todo
+ 01:15:08
+
+o banco de trás, o carro para levar
+ 01:15:11
+
+palavras. E várias das aulas de
+ 01:15:12
+
+introdução informática foram feitas na
+ 01:15:16
+
+minha república porque não tinha lá para
+ 01:15:18
+
+mostrar na universidade. Então eu ligava
+ 01:15:20
+
+o computador num dia para no outro dia
+ 01:15:22
+
+de manhã os professor chegar lá e
+ 01:15:23
+
+mostrar pros alunos o que que quer um
+ 01:15:25
+
+disquete, o que quer uma CPU. Óbvio,
+ 01:15:26
+
+isso vem da minha trajetória. Eu me
+ 01:15:29
+
+envolvo muito facilmente com isso. Não é
+ 01:15:31
+
+o comum para todo mundo. E a gente
+ 01:15:33
+
+convive com colegas, fala assim: "Não,
+ 01:15:35
+
+eu não vou me envolver com isso, não. É
+ 01:15:36
+
+uma dificuldade". Então tem primeiro
+ 01:15:38
+
+esse medo do do novo, do desconhecido,
+ 01:15:40
+
+que já não é mais tão novo, não é? Porque
+ 01:15:43
+
+nós tão, eu tô falando aqui de 35 anos,
+ 01:15:44
+
+eu vou fazer 35 anos de formado agora.
+ 01:15:47
+
+Então assim, nós estamos falando de algo
+ 01:15:49
+
+que já tá aí superando gerações. O
+ 01:15:51
+
+segundo aspecto, eh, eu acho que tem
+ 01:15:55
+
+muita tecnologia, muita ferramenta que
+ 01:15:58
+
+às vezes até atrapalha, não precisa usar
+ 01:16:01
+
+todas. Eu acho que o processo de
+ 01:16:03
+
+comunicação, e aí Paulo Freire foi
+ 01:16:05
+
+mestre em dizer pra gente, olha, ele é
+ 01:16:08
+
+um processo dialógico que precisa de
+ 01:16:10
+
+olho no olho. Eu não tiro nenhuma
+ 01:16:13
+
+palavra do que esse sujeito disse. Eu
+ 01:16:15
+
+acho que isso é fundamental, mas o que a
+ 01:16:16
+
+gente tem é ferramenta acessória para
+ 01:16:19
+
+ajudar em outras frentes. Para eu fazer
+ 01:16:21
+
+um bom diálogo com um conjunto de de
+ 01:16:24
+
+indivíduos, eu preciso conhecer da
+ 01:16:26
+
+história dele, preciso conhecer da
+ 01:16:29
+
+realidade dele. E às vezes o tempo não
+ 01:16:30
+
+é, não me permite fazer tudo isso ao
+ 01:16:34
+
+mesmo tempo. Então, às vezes eu vou
+ 01:16:35
+
+visitar uma comunidade que eu não
+ 01:16:36
+
+conheço. Se eu tivesse um conjunto de
+ 01:16:38
+
+dados deles para estudar previamente, e
+ 01:16:40
+
+o que que a gente fez nesse primeiro
+ 01:16:41
+
+projeto nosso lá da da do Colheita
+ 01:16:43
+
+Digital? A gente fazia dossiê dos
+ 01:16:45
+
+municípios e ia conversar com o
+ 01:16:48
+
+prefeito, com o secretário de
+ 01:16:51
+
+agricultura, dizendo assim: "Olha, eu
+ 01:16:52
+
+sei quem é você. Eu sei que você não
+ 01:16:54
+
+compra da agricultura familiar porque tá
+ 01:16:55
+
+aqui, ó". Como é que a gente fazia isso?
+ 01:16:56
+
+ia pros sistemas do FMDE, que era as
+ 01:16:59
+
+compras da alimentação escolar, sistemas
+ 01:17:02
+
+da CONAB, do do PA, que infelizmente
+ 01:17:03
+
+ficamos uns anos aí sem ter
+ 01:17:06
+
+abastecimento, mas agora voltamos a ter
+ 01:17:07
+
+os dados de novo. Então o que que a
+ 01:17:08
+
+gente botava nossa equipe para fazer
+ 01:17:10
+
+ali? O dever de casa de levantar um
+ 01:17:11
+
+dossiê sobre o município, eu ia bater lá
+ 01:17:13
+
+na porta do município e falava: "Olha,
+ 01:17:15
+
+quer participar de um projeto com a
+ 01:17:18
+
+gente aqui? a gente sabe que você não tá
+ 01:17:19
+
+cumprindo um monte de coisa que deveria
+ 01:17:20
+
+tá cumprindo. E hoje, graças ao
+ 01:17:22
+
+Ministério Público, por exemplo, com o
+ 01:17:24
+
+chamado catrapovos, que é um arranjo
+ 01:17:26
+
+para fortalecer a compra, os municípios
+ 01:17:28
+
+estão começando a cumprir, porque a
+ 01:17:31
+
+gente tem dado subsídio dizendo assim:
+ 01:17:33
+
+"Olha, esse município aqui é campeão de
+ 01:17:35
+
+compra, esse aqui é campeão de não
+ 01:17:37
+
+comprar. O Ministério vai, o Ministério
+ 01:17:38
+
+Público vai para cima." E eu brinco
+ 01:17:40
+
+quando um professor fala, um prefeito,
+ 01:17:42
+
+um gestor, ele faz favor. Quando é o
+ 01:17:44
+
+Ministério Público, ele tem pavor, ele
+ 01:17:46
+
+sabe que vai dar um processo, vai dar
+ 01:17:48
+
+cadent, então ele ele responde
+ 01:17:50
+
+rapidamente. Então, no processo de
+ 01:17:51
+
+incidência, a gente tem usado conjunto
+ 01:17:53
+
+de dados para fazer com que as
+ 01:17:54
+
+prefeituras, os agentes públicos assumam
+ 01:17:56
+
+o seu papel e isso obrigação. Um outro
+ 01:17:58
+
+caso, rapidamente, o nosso restaurante
+ 01:18:01
+
+universitário aqui no Bb até o ano
+ 01:18:04
+
+passado comprava zero da agricultura
+ 01:18:06
+
+familiar.
+ 01:18:08
+
+E eu dizia assim, como é que eu que tô
+ 01:18:09
+
+aqui falando disso todos os dias, tô lá
+ 01:18:11
+
+coordenando um GT para aliança global
+ 01:18:14
+
+contra a fome, a pobreza junto ao MDS,
+ 01:18:17
+
+eh, a universidade não compra nada. E
+ 01:18:19
+
+como é que eu provei isso? Eu peguei
+ 01:18:21
+
+todas as todas as notas fiscais, botei
+ 01:18:23
+
+um conjunto de alunos para fazer um
+ 01:18:25
+
+levantamento, pegava CNPJ, tentava
+ 01:18:26
+
+chegar na ponta, nada era da agricultura
+ 01:18:28
+
+familiar. Aí chamamos a reitora,
+ 01:18:29
+
+apresentamos todos os estudos acadêmicos
+ 01:18:32
+
+que a universidade faz, centenas de
+ 01:18:34
+
+teses, dissertação, artigo, grupos de
+ 01:18:36
+
+pesquisa, falando sobre isso e a gente
+ 01:18:38
+
+não comprava nada. Fizemos uma
+ 01:18:40
+
+incidência muito rápida. A nova gestora
+ 01:18:42
+
+que assumiu agora na na no na reitoria,
+ 01:18:44
+
+ela simplesmente deu o comando, ó, tem
+ 01:18:48
+
+que comprar, tem que comprar, vamos
+ 01:18:50
+
+rever processos licitatórios, vamos
+ 01:18:53
+
+chamar a empresa que é fornecedora para
+ 01:18:55
+
+rediscutir. E isso faz parte. Então, se
+ 01:18:57
+
+a gente se prepara, e aí eu acho que pro
+ 01:18:59
+
+professor ou pro extensionista ter
+ 01:19:01
+
+informação para se preparar pro diálogo
+ 01:19:04
+
+é é fundamental e isso as tecnologias
+ 01:19:06
+
+podem nos dar. Eh, o que a gente mais
+ 01:19:09
+
+tem percebido são as tentativas,
+ 01:19:11
+
+obviamente, de as pessoas às vezes sair
+ 01:19:14
+
+pela tangente, fal: "Ah, não, muito
+ 01:19:16
+
+complicado fazer isso é complexo". que
+ 01:19:18
+
+use as tecnologias para ajudar
+ 01:19:20
+
+descomplexificar isso. Você chegar o JAT
+ 01:19:22
+
+EPT e falar assim: "Faça um levantamento
+ 01:19:25
+
+sobre as informações relativas à
+ 01:19:27
+
+produção ou comercialização ou qualquer
+ 01:19:30
+
+coisa relacionada ao município X, ele
+ 01:19:32
+
+vai te trazer um conjunto. Você vai ter
+ 01:19:33
+
+que, obviamente conferir, depois bater
+ 01:19:35
+
+ali com senso, com outras informações,
+ 01:19:37
+
+mas você chega munido de alguma coisa".
+ 01:19:40
+
+Eu acho que essa é a principal mensagem,
+ 01:19:42
+
+usar isso para te dar subsídio para
+ 01:19:44
+
+fazer com que a discussão fique mais
+ 01:19:47
+
+profunda, que não seja uma discussão
+ 01:19:48
+
+inóqua daquelas, ah, eu acho difícil,
+ 01:19:50
+
+não. Tem aqui dados que prova que você
+ 01:19:53
+
+tá prevaricando ou se você não tá
+ 01:19:55
+
+fazendo ou qualquer outra coisa
+ 01:19:57
+
+natureza. Acho que a gente tem condições
+ 01:19:58
+
+de fazer isso e não tenho dúvida se o
+ 01:20:00
+
+extensionista não faz isso, o agricultor
+ 01:20:03
+
+tá fazendo por outro caminho. Ele faz no
+ 01:20:05
+
+balcão da loja agropecuária, ele faz
+ 01:20:07
+
+sozinho no YouTube. Quantos e quantos
+ 01:20:09
+
+agricultores que eu encontro pro cara
+ 01:20:11
+
+fal assim: "Ah, aprendi sozinho isso
+ 01:20:13
+
+aqui".
+ 01:20:14
+
+Bom, nem é, como você falou, não é
+ 01:20:15
+
+primazia do técnico saber tudo e fazer
+ 01:20:19
+
+tudo. O agricultor tem que ter sua
+ 01:20:21
+
+autonomia, mas o técnico pode chegar lá
+ 01:20:23
+
+muito mais preparado ou melhor preparado
+ 01:20:25
+
+para poder discutir essas coisas e hoje
+ 01:20:28
+
+as tecnologias são sensacionais pra
+ 01:20:30
+
+gente avançar nessa perspectiva.
+ 01:20:32
+
+Muito bom, muito bom. O Ebert aqui faz
+ 01:20:36
+
+várias várias interrogações, não é? Eu vou
+ 01:20:39
+
+ler todas depois se você precisar,
+ 01:20:42
+
+professor Mário, eu eu retorno alguma
+ 01:20:44
+
+aqui. São quatro na sequência. Eh,
+ 01:20:47
+
+pergunto: "Trabalhamos aqui na Embrapa
+ 01:20:49
+
+com duas iniciativas importantes que
+ 01:20:52
+
+criaram condições para disponibilizar
+ 01:20:54
+
+informações técnicas qualificadas para
+ 01:20:56
+
+ATER, o e-campo e o ATER mais digital.
+ 01:20:58
+
+Lá vai, tem mais, mais algumas aqui com
+ 01:21:02
+
+esses recursos, como esses recursos
+ 01:21:05
+
+podem ser trabalhados para uma
+ 01:21:07
+
+complementação dos esforços da SEGAF.
+ 01:21:10
+
+Essa é a primeira, tá? Guarda aí como
+ 01:21:13
+
+pode ser ajudar, não é, na
+ 01:21:15
+
+complementação. O segundo, como esses
+ 01:21:18
+
+aqui é como esses recursos poderiam ser
+ 01:21:21
+
+trabalhados para uma complementação dos
+ 01:21:24
+
+esforços da CGAF e CONAB, tá? Acho que é
+ 01:21:26
+
+meio meio conjunto. Daí tem mais uma.
+ 01:21:29
+
+Eh, ah, tá. Repetiu aqui, veio três
+ 01:21:33
+
+vezes junto. Ah, porque ele tá
+ 01:21:35
+
+assistindo no Facebook também. É, eu
+ 01:21:36
+
+acho que é isso. É, eram três a mesma
+ 01:21:38
+
+mesma era caiu três vezes essa questão.
+ 01:21:41
+
+Mesma linha, tá? Não, legal. Ét, eu acho
+ 01:21:43
+
+que assim, eh, o que que a gente tem
+ 01:21:46
+
+pedido e tentado fazer, não é, nessas
+ 01:21:47
+
+parcerias que a gente tem costurado aí
+ 01:21:51
+
+para CONAB. Primeiro, não é interesse da
+ 01:21:53
+
+universidade falar embrapa ou em matéria
+ 01:21:56
+
+ou SENAR, não faça os seus sistemas, mas
+ 01:21:59
+
+coloque um API pra gente poder consumir
+ 01:22:02
+
+os dados. Então o que a gente tem
+ 01:22:04
+
+enfrentado de desafios das pessoas
+ 01:22:06
+
+acharem que eu sou dono desse banco de
+ 01:22:08
+
+dados aqui, eu não abro para ninguém.
+ 01:22:10
+
+Então, se existe acúmulo de informação,
+ 01:22:12
+
+um bom lugar pra gente centralizar isso
+ 01:22:15
+
+é um órgão público de estado. A CONAB é
+ 01:22:18
+
+um bom órgão pra gente apontar os dedos
+ 01:22:20
+
+e falar aqui talvez possa ser um bom
+ 01:22:22
+
+lugar pra gente colocar essas
+ 01:22:23
+
+informações de safras e produções. Do
+ 01:22:25
+
+outro lado, informações sobre AT. AATTER
+ 01:22:27
+
+precisa disso. Anater ainda não tem
+ 01:22:31
+
+ferramentas, apesar de ter algumas
+ 01:22:33
+
+iniciativas de ATER digital, elas não
+ 01:22:35
+
+ela não tem uma ferramenta onde ela
+ 01:22:38
+
+consolide os dados. Eh, eu tô
+ 01:22:39
+
+trabalhando numa iniciativa junto com o
+ 01:22:41
+
+MDS que a gente tá olhando pro programa
+ 01:22:43
+
+de fomento rural. E o programa de
+ 01:22:44
+
+fomento rural é um meio patinho feio ali
+ 01:22:46
+
+que a Naté põe as entidades para
+ 01:22:49
+
+executar. Eh, basicamente é um projeto
+ 01:22:51
+
+produtivo e um acompanhamento de
+ 01:22:54
+
+assistência técnica. O projeto produtivo
+ 01:22:56
+
+em sua maioria tem um PDF escrito à mão.
+ 01:22:58
+
+Gente, como é que você pega uma base de
+ 01:23:01
+
+dados dessa, depois você consegue
+ 01:23:02
+
+trabalhar para pensar alguma coisa? Nós
+ 01:23:04
+
+temos quatro estagiários ao longo de,
+ 01:23:06
+
+estão completando 7 meses agora, fazendo
+ 01:23:08
+
+raspagem de dados na mão, olhando PDF,
+ 01:23:10
+
+digitalizando pra gente poder estudar o
+ 01:23:13
+
+conjunto de dados. Então, esses avanços
+ 01:23:15
+
+a gente não não dá mais para falar
+ 01:23:17
+
+assim, pô, pleno 2025, nós estamos
+ 01:23:19
+
+inserindo documento escrito à mão dentro
+ 01:23:22
+
+de um banco de dados. Então, acho que
+ 01:23:24
+
+esse é um aspecto. Segundo aspecto,
+ 01:23:26
+
+podemos conversar aqui em Brasília a
+ 01:23:29
+
+qualquer tempo pra gente tentar juntar
+ 01:23:30
+
+esforços. Eh, super importante. A gente
+ 01:23:33
+
+quer mais gente, a gente tem procurado
+ 01:23:35
+
+vários parceiros numa perspectiva de
+ 01:23:37
+
+falar: "Olha, você continua tendo sua
+ 01:23:40
+
+ferramenta, às vezes ela é uma
+ 01:23:42
+
+ferramenta que as pessoas gastaram
+ 01:23:44
+
+tempo, gastaram dinheiro, gastaram
+ 01:23:45
+
+energia para fazê-la". Mas por que não a
+ 01:23:47
+
+gente colocar os dados à disposição de
+ 01:23:50
+
+um órgão de governo que tem interesse em
+ 01:23:52
+
+organizar essas informações, como é o
+ 01:23:54
+
+caso da Conar? Então, em alguns casos,
+ 01:23:56
+
+por exemplo, o Michelon aí tá tá abrindo
+ 01:23:58
+
+os bancos de dados dele pra gente, o
+ 01:24:00
+
+pessoal da Ecovida também, pessoal da
+ 01:24:02
+
+ASA fez esse mesmo mesmo papel, abre e
+ 01:24:05
+
+cria uma API, se não tem quem cria, a
+ 01:24:08
+
+gente tem gente que é capaz de criar e
+ 01:24:10
+
+uma API que possa consumir esses dados e
+ 01:24:11
+
+colocar direto lá no banco de dados,
+ 01:24:13
+
+onde a CONAB possa depois disponibilizar
+ 01:24:14
+
+isso pra sociedade como um todo. Acho
+ 01:24:16
+
+que a gente precisa ajudar nessa
+ 01:24:18
+
+coordenação de esforço, não é mais
+ 01:24:19
+
+esforço, é apenas de coordenação, não é?
+ 01:24:21
+
+Mas estamos à disposição, vamos marcar o
+ 01:24:23
+
+momento pra gente conversar, ver o que a
+ 01:24:25
+
+gente tem, o que pode ser ser
+ 01:24:28
+
+complementado aí com os trabalhos de
+ 01:24:30
+
+vocês. Eu sei que tem coisas
+ 01:24:31
+
+sensacionais feita aí a partir das
+ 01:24:32
+
+diversas embrafas, mas sobretudo aqui
+ 01:24:34
+
+com vocês. Eh, a gente tem tem muito
+ 01:24:36
+
+interesse em conversar assim. Muito bom.
+ 01:24:39
+
+O professor o professor Mário tá muito
+ 01:24:42
+
+requisitado hoje aqui. Olha só, uma
+ 01:24:44
+
+baita live, não é real assim? A galera
+ 01:24:47
+
+gostou mesmo. Assim, ó. Olha só, só para
+ 01:24:49
+
+quem vê tá participando. Bom dia,
+ 01:24:52
+
+Leandro Machado de da Bara Mansa do Rio
+ 01:24:53
+
+de Janeiro participando. Sou coordenador
+ 01:24:56
+
+da educação sanitária da defesa vegetal
+ 01:24:58
+
+e contemporâneo professor Mário da UFLA.
+ 01:25:00
+
+Muito bom. E o cara torce pro Fluminense
+ 01:25:02
+
+até hoje, provavelmente, mas tem gente
+ 01:25:04
+
+que não aprende, a história não ensinou.
+ 01:25:06
+
+Cara, eu achei que eles iam perder para
+ 01:25:08
+
+parecidência ontem. Ô Leandro, tem um
+ 01:25:11
+
+tem um amigo corintiano que morreu,
+ 01:25:13
+
+sobrou uma vaga lá na torcida. Se quiser
+ 01:25:15
+
+depois eu negocio lá para você, viu?
+ 01:25:17
+
+Muito bom. Bom demais reencontrarla
+ 01:25:20
+
+aqui, Leandro. Muito bom. Ó o Gilmar
+ 01:25:22
+
+aqui, ó. Excelente questão do Zuin, não é?
+ 01:25:24
+
+Com muito preconceito. E olha aqui o
+ 01:25:27
+
+André. O André tem apareceu aqui muito
+ 01:25:29
+
+legal, ó. O o André vem da Prefeitura de
+ 01:25:32
+
+Arati, litoral do Ceará, e ele faz um
+ 01:25:35
+
+comentário aqui, fica para todos nós
+ 01:25:38
+
+aqui, ó. Gostaria de fazer parte de um
+ 01:25:40
+
+grupo de estudo e pesquisa sobre a
+ 01:25:42
+
+terra. Ó, fica a dica aí, ó. Vamos
+ 01:25:44
+
+chamar o André aí para dialogar com a
+ 01:25:46
+
+gente. Ele comenta, ainda tem MBA em
+ 01:25:48
+
+gestão do agronegócio, mas sou
+ 01:25:50
+
+apaixonado por agroecologia, quintais
+ 01:25:52
+
+produtivos, mas sem verbas. Temos que
+ 01:25:54
+
+encontrar saídas
+ 01:25:56
+
+criativas. Muito bom. Realidade de muita
+ 01:25:58
+
+gente Brasil aa ainda, viu, André? Mas a
+ 01:26:02
+
+gente tá aí para ajudar. Vamos, vamos
+ 01:26:04
+
+dialogar, aproximar. A gente faz muita
+ 01:26:05
+
+coisa online, como essa aqui, tem
+ 01:26:08
+
+outras, acho que são importantes criar
+ 01:26:10
+
+essas conexões, não é? Muito bom mesmo. E
+ 01:26:12
+
+aí para não se estender muito nessa
+ 01:26:15
+
+grande live, pro pessoal tá assistindo
+ 01:26:17
+
+muito, professor Mário, a consideração
+ 01:26:19
+
+final, as palavras finais pra gente
+ 01:26:22
+
+fazer esse grande fechamento de hoje.
+ 01:26:24
+
+Parabéns, Já
+ 01:26:25
+
+Obrigado, Ezequiel. Obrigado, Zinha.
+ 01:26:28
+
+Obrigado aos canais aí de extensionista
+ 01:26:30
+
+da Rede Aurora. Agradecer ao Segaf, que
+ 01:26:32
+
+assim, eu tô falando aqui em nome de um
+ 01:26:34
+
+monte de gente que que faz essas coisas
+ 01:26:36
+
+acontecer e com pouco recurso, tá? são
+ 01:26:38
+
+bolsistas, são voluntários. Eh, às vezes
+ 01:26:41
+
+você consegue ali uma uma solução um
+ 01:26:45
+
+pouco melhor para envolver esses jovens
+ 01:26:47
+
+nessas iniciativas, mas a gente tem tem
+ 01:26:49
+
+sempre dito isso para dentro da
+ 01:26:52
+
+Universidade de Brasília, eh, que o Seg
+ 01:26:53
+
+tem uma característica que a gente
+ 01:26:56
+
+nunca, desde a origem da nossa história,
+ 01:26:58
+
+a gente quis fazer estudo com dados
+ 01:27:01
+
+produzidos por terceiro. A gente sempre
+ 01:27:03
+
+quis produzir os dados. Então isso faz
+ 01:27:04
+
+com que o envolvimento dos jovens seja
+ 01:27:06
+
+muito maior, porque a gente fala: "Olha,
+ 01:27:09
+
+faz e monitora e avalia e estuda e
+ 01:27:11
+
+produz conhecimento a partir do que você
+ 01:27:14
+
+tá vendo, que é o que o técnico faz
+ 01:27:16
+
+todos os dias também. Então, eh, acho
+ 01:27:18
+
+que esse agradecimento especial à equipe
+ 01:27:20
+
+do Segaf, porque eh eles fazem acontecer
+ 01:27:21
+
+isso. Eh, tem jovens que ficam pensando
+ 01:27:24
+
+cada mensagem que vai ser enviada ali no
+ 01:27:28
+
+num num chat, num grupo, numa missão.
+ 01:27:30
+
+Eh, tem gente pensando toda a
+ 01:27:34
+
+estratégias de comunicação de jovens de
+ 01:27:36
+
+15 a 80 anos, tá? Não estamos falando de
+ 01:27:38
+
+jovens, mas são jovens de cabeça, não é?
+ 01:27:41
+
+Eh, gente que acredita em coisas que às
+ 01:27:44
+
+vezes é o Mário doido que tava pensando
+ 01:27:46
+
+ali, sai de um dia pro outro, fala
+ 01:27:49
+
+assim: "Gente, vamos apostar nisso aqui
+ 01:27:50
+
+e vamos olhar paraa frente que aqui sai
+ 01:27:51
+
+coisa". Eu acho que isso movimenta muito
+ 01:27:53
+
+o CGAF hoje. Eh, e aí eu faço essa esse
+ 01:27:56
+
+convite para que quem tá nos vendo pense
+ 01:27:59
+
+isso. Olha, como é que a gente consegue
+ 01:28:01
+
+mobilizar, não é, esforços em prol de uma
+ 01:28:03
+
+agricultura melhor, em prol de um
+ 01:28:06
+
+desenvolvimento melhor. Se a gente não
+ 01:28:08
+
+envolver eh os diversos atores desse
+ 01:28:10
+
+ecossistema, não é, eu quando eu falo isso,
+ 01:28:13
+
+eu tô pensando
+ 01:28:15
+
+agricultores, aqueles que estão
+ 01:28:17
+
+envolvidos em processos assistenciais ou
+ 01:28:19
+
+não, envolvidos em assistência técnica
+ 01:28:21
+
+ou não, que recebam programas públicos
+ 01:28:23
+
+ou não, atendidos ou não, apenas 6% pelo
+ 01:28:26
+
+censo lá são atendidos pela pela terra.
+ 01:28:29
+
+Então nós temos um contingente imenso de
+ 01:28:32
+
+pessoas que precisam chegar, precisam de
+ 01:28:33
+
+receber essas coisas e muitos jovens
+ 01:28:35
+
+estão esquecidos já. Então, a gente tem
+ 01:28:37
+
+que olhar para esses jovens. Eh, a minha
+ 01:28:39
+
+maior, meu maior desejo, Ezequiel, um
+ 01:28:42
+
+dia é que a gente tivesse um programa Pé
+ 01:28:44
+
+de Meia Rural, semelhante esse pé de
+ 01:28:46
+
+meia que a gente tem aí, a gente tivesse
+ 01:28:47
+
+um desse rural, a gente oferecesse aí
+ 01:28:49
+
+2.000, 3.000, 10.000 bolsas, envolvesse
+ 01:28:51
+
+esses jovens para est na universidade ou
+ 01:28:54
+
+no ensino médio fazendo esse tipo de
+ 01:28:57
+
+coisa aqui com essas perspectivas, nós
+ 01:28:58
+
+precisaríamos de gente para caramba para
+ 01:29:01
+
+pensar o que fazer. daríamos aí muita
+ 01:29:02
+
+oportunidade para muita gente,
+ 01:29:05
+
+envolveríamos no no rural como um todo 1
+ 01:29:07
+
+milhão de gente tá esquecida. Então o
+ 01:29:10
+
+convite é sempre esse, que alguém lá do
+ 01:29:13
+
+MEC, do Ministério do Gestão, de algum
+ 01:29:16
+
+órgão que tenha dinheiro, aí resolve
+ 01:29:20
+
+falar assim: "Não, vamos botar aí
+ 01:29:21
+
+dinheiro, chamar a turma para fazer um
+ 01:29:22
+
+grande projeto de um pé de meia rural
+ 01:29:24
+
+que possa de fato trazer os jovens para
+ 01:29:26
+
+produzir informação, para pensar a
+ 01:29:29
+
+autonomia do do rural. eh, a partir do
+ 01:29:31
+
+digital. Acho que isso é um uma
+ 01:29:34
+
+revolução que a gente pode fazer. Eh,
+ 01:29:36
+
+imagina o mutirão de gente que não
+ 01:29:38
+
+poderia estar produzindo informações
+ 01:29:41
+
+qualificadas paraas nossas políticas,
+ 01:29:42
+
+paraas nossas decisões, paraas nossas
+ 01:29:45
+
+aulas, inclusive, não é? Então, fica sempre
+ 01:29:46
+
+essa reflexão final aí que eu acho que
+ 01:29:48
+
+ela é importante.
+ 01:29:49
+
+Muito bom. Eu gostei do professor Mário
+ 01:29:52
+
+que ele ele foi a no ponto crucial e a
+ 01:29:54
+
+ON que é o problema, não é? Rio Grande do
+ 01:29:57
+
+Sul até criou uma vez um programa eh
+ 01:29:59
+
+Bolsa Jovem Rural, não é? E mas era tão
+ 01:30:01
+
+poucos contemplados que não, se for
+ 01:30:04
+
+pensar não dava nem para um município,
+ 01:30:06
+
+não é? Mas é uma é uma necessidade essa
+ 01:30:07
+
+questão da da injeção de renda vai fazer
+ 01:30:11
+
+com que ele fique ou não. É é é o ponto
+ 01:30:13
+
+crucial, professor Mário. Toca nas
+ 01:30:16
+
+questões fundamentais. Dá um abraço aqui
+ 01:30:18
+
+que eu não vou ler agora no final, mas o
+ 01:30:20
+
+João da Ipamig aqui tá presente, o
+ 01:30:22
+
+André, Leandro, questões muito
+ 01:30:24
+
+importantes que vocês pontuaram aí. E só
+ 01:30:26
+
+para dizer aí a para quem tá assistindo,
+ 01:30:29
+
+quem chegou pela primeira vez aqui, toda
+ 01:30:31
+
+quarta-feira 9 horas da manhã estamos
+ 01:30:33
+
+aqui nesse mesmo canal, nesse mesmo bate
+ 01:30:36
+
+horário, fazendo mais uma formação
+ 01:30:38
+
+extensionista, porque aqui tem formação
+ 01:30:40
+
+extensionista e aqui tem até digital. Um
+ 01:30:42
+
+abraço e até a próxima oportunidade.
+ 01:30:45

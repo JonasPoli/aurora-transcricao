@@ -1,0 +1,8 @@
+video_id: pP7d6ncsLnE
+video_url: https://www.youtube.com/watch?v=pP7d6ncsLnE
+title: #roça #colono #patrao
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

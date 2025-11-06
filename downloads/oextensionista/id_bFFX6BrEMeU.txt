@@ -1,0 +1,9 @@
+video_id: bFFX6BrEMeU
+video_url: https://www.youtube.com/watch?v=bFFX6BrEMeU
+title: Sucessão familiar em propriedades agropecuárias
+uploader: O Extensionista
+speaker: Antonio Waldimir Leopoldino da Silva – UDESC
+Lattes: http://lattes.cnpq.br/9970562684826411
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/09/2024

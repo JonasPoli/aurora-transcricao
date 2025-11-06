@@ -1,0 +1,8 @@
+video_id: pvjk8plRvo8
+video_url: https://www.youtube.com/watch?v=pvjk8plRvo8
+title: #motivação #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2025

@@ -1,0 +1,8 @@
+video_id: EJ0jA40Iz3c
+video_url: https://www.youtube.com/watch?v=EJ0jA40Iz3c
+title: Vivência na Propriedade Horizonte em Alegrete, RS #fruticultura #sistematização #conhecimento
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/23/2025

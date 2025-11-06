@@ -1,0 +1,9 @@
+video_id: RVe40HLrW6g
+video_url: https://www.youtube.com/watch?v=RVe40HLrW6g
+title: Quer conhecer a nossa horta? 🍅 👩🌾 alimentação para autoconsumo 🍊 🌱
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/04/2022

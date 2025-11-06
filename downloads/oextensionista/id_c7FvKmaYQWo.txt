@@ -1,0 +1,8 @@
+video_id: c7FvKmaYQWo
+video_url: https://www.youtube.com/watch?v=c7FvKmaYQWo
+title: Viticultura e Fruticultura - Tarde
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2024

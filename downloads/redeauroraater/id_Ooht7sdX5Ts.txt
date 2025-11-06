@@ -1,0 +1,9 @@
+video_id: Ooht7sdX5Ts
+video_url: https://www.youtube.com/watch?v=Ooht7sdX5Ts
+title: Avaliando os efeitos da Extensão Rural na produtividade em um sistema pluralista
+uploader: Rede Aurora
+speaker: Adauto B. Rocha Junior - Universidade de Missoure
+Lattes: http://lattes.cnpq.br/2266266496802728
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/07/2025

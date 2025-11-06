@@ -1,0 +1,8 @@
+video_id: LwiPbG2sJ34
+video_url: https://www.youtube.com/watch?v=LwiPbG2sJ34
+title: I Colóquio Internacional sobre Ater Digital - Parte 2
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/27/2022

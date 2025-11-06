@@ -1,0 +1,9 @@
+video_id: xXhkBfocyD8
+video_url: https://www.youtube.com/watch?v=xXhkBfocyD8
+title: Centro de Ciência para o Desenvolvimento em Agricultura Digital
+uploader: Rede Aurora
+speaker: Thiago Teixeira Santos – Embrapa Agricultura Digital
+Lattes: http://lattes.cnpq.br/2792265423739427
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/16/2024

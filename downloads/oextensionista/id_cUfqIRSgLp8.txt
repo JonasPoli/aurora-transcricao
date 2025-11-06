@@ -1,0 +1,9 @@
+video_id: cUfqIRSgLp8
+video_url: https://www.youtube.com/watch?v=cUfqIRSgLp8
+title: Algumas Reflexões sobre Educação do/no Campo
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/7689442989367017
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/24/2022

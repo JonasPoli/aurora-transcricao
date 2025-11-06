@@ -1,0 +1,9 @@
+video_id: ZiaMSbvltV0
+video_url: https://www.youtube.com/watch?v=ZiaMSbvltV0
+title: Programa de Pós-graduação em Extensão Rural da UFSM 🎓👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/11/2022

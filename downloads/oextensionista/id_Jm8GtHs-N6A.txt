@@ -1,0 +1,9 @@
+video_id: Jm8GtHs-N6A
+video_url: https://www.youtube.com/watch?v=Jm8GtHs-N6A
+title: Assessoria técnica: jornada do assessor técnico na Agricultura Familiar com o uso da Agroecologia
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/2574375532600146
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/18/2021

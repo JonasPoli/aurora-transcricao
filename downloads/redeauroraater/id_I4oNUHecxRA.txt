@@ -1,0 +1,9 @@
+video_id: I4oNUHecxRA
+video_url: https://www.youtube.com/watch?v=I4oNUHecxRA
+title: O papel dos canais de Comunicação e das Fontes de Informação na Promoção de Inovações
+uploader: Rede Aurora
+speaker: Rodrigo Montalvão Ferraz
+Lattes: http://lattes.cnpq.br/2069378221576688
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/30/2025

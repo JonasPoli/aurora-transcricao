@@ -1,0 +1,8 @@
+video_id: HKtV6MnCmak
+video_url: https://www.youtube.com/watch?v=HKtV6MnCmak
+title: #reflexão #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

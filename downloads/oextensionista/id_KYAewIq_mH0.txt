@@ -1,0 +1,8 @@
+video_id: KYAewIq_mH0
+video_url: https://www.youtube.com/watch?v=KYAewIq_mH0
+title: #roça #colono #turismorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/07/2025

@@ -1,0 +1,9 @@
+video_id: iVfFXl2imTE
+video_url: https://www.youtube.com/watch?v=iVfFXl2imTE
+title: Sejam bem-vindos ao Portal O Extensionista
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/29/2021

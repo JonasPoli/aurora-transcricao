@@ -1,0 +1,8 @@
+video_id: zhVRQjEM-NI
+video_url: https://www.youtube.com/watch?v=zhVRQjEM-NI
+title: Direto ao ponto: O uso das redes sociais como fator de inovação na pecuária brasileira - Mara Ramos
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/13/2022

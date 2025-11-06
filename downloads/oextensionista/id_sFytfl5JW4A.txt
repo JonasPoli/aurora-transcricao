@@ -1,0 +1,8 @@
+video_id: sFytfl5JW4A
+video_url: https://www.youtube.com/watch?v=sFytfl5JW4A
+title: Nutrição Mineral em Fruticultura #solos #folhas #pesquisa #ensino
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/07/2025

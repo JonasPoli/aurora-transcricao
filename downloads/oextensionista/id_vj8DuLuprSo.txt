@@ -1,0 +1,9 @@
+video_id: vj8DuLuprSo
+video_url: https://www.youtube.com/watch?v=vj8DuLuprSo
+title: Ações da Extensão Rural: impactos das chuvas, cheias e estiagem no Rio Grande do Sul
+uploader: O Extensionista
+speaker: Katiule Pereira Morais – Emater/RS-Ascar
+Lattes: http://lattes.cnpq.br/6017976559340466
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/27/2025

@@ -1,0 +1,8 @@
+video_id: dvFZmmK7vp0
+video_url: https://www.youtube.com/watch?v=dvFZmmK7vp0
+title: Extensão Rural e Transição Agroecológica em Sistemas Pecuários da Agricultura Familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/03/2020

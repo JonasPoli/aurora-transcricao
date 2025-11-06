@@ -1,0 +1,8 @@
+video_id: 2kEWNx_8-Wg
+video_url: https://www.youtube.com/watch?v=2kEWNx_8-Wg
+title: Latifúndio em Moçambique #extensãorural #redeaurora #aterdigital #diálogos #ater #oextensionista
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/17/2023

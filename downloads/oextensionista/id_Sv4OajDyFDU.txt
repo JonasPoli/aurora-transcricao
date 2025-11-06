@@ -1,0 +1,9 @@
+video_id: Sv4OajDyFDU
+video_url: https://www.youtube.com/watch?v=Sv4OajDyFDU
+title: Cooperativismo Agroecológico no Vale do Rio Pardo
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9366977821393368
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/17/2024

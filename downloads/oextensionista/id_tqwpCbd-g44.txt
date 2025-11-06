@@ -1,0 +1,8 @@
+video_id: tqwpCbd-g44
+video_url: https://www.youtube.com/watch?v=tqwpCbd-g44
+title: #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/12/2025

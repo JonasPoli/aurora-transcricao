@@ -1,0 +1,8 @@
+video_id: FKrvGk1_T6g
+video_url: https://www.youtube.com/watch?v=FKrvGk1_T6g
+title: Discurso do Curso Superior de Tecnologia em Gestão de Cooperativas do Colégio Politécnico da UFSM 💚
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/19/2024

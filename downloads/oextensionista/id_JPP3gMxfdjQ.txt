@@ -1,0 +1,8 @@
+video_id: JPP3gMxfdjQ
+video_url: https://www.youtube.com/watch?v=JPP3gMxfdjQ
+title: #sistema #alimento #sociedade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/10/2025

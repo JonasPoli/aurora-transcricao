@@ -1,0 +1,8 @@
+video_id: xN6YF497IO4
+video_url: https://www.youtube.com/watch?v=xN6YF497IO4
+title: #roça #turismorural #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/04/2025

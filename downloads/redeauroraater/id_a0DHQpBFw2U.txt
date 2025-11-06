@@ -1,0 +1,8 @@
+video_id: a0DHQpBFw2U
+video_url: https://www.youtube.com/watch?v=a0DHQpBFw2U
+title: Modernização do Programa Nacional de Educação Sanitária em Defesa Agropecuária - Proesa
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/20/2023

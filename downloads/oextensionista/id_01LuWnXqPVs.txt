@@ -1,0 +1,8 @@
+video_id: 01LuWnXqPVs
+video_url: https://www.youtube.com/watch?v=01LuWnXqPVs
+title: Evento Virtual de Lançamento do Livro – Caminhos e Olhares sobre a Ater Digital
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/19/2023

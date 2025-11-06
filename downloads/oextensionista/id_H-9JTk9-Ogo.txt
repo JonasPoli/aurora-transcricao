@@ -1,0 +1,8 @@
+video_id: H-9JTk9-Ogo
+video_url: https://www.youtube.com/watch?v=H-9JTk9-Ogo
+title: #roça #colono #caminhoparaumavidamelhor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

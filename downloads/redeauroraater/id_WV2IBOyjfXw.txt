@@ -1,0 +1,8 @@
+video_id: WV2IBOyjfXw
+video_url: https://www.youtube.com/watch?v=WV2IBOyjfXw
+title: Direto ao ponto: Ater Digital participativa e democrática - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

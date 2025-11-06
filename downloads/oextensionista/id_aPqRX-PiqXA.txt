@@ -1,0 +1,8 @@
+video_id: aPqRX-PiqXA
+video_url: https://www.youtube.com/watch?v=aPqRX-PiqXA
+title: Raleio de pêssegos #fruticultura
+uploader: NA
+speaker: NA
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/14/2025

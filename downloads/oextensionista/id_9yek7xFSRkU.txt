@@ -1,0 +1,9 @@
+video_id: 9yek7xFSRkU
+video_url: https://www.youtube.com/watch?v=9yek7xFSRkU
+title: Problemas da Agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/07/2022

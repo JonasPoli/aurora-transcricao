@@ -1,0 +1,9 @@
+video_id: ls9ZD7y82r8
+video_url: https://www.youtube.com/watch?v=ls9ZD7y82r8
+title: Mexpar do analógico ao digital como ser extensionista em um mundo cada vez mais complexo e dinâmico
+uploader: Rede Aurora
+speaker: Luciana Maria Rocha Teixeira – Emater/MG
+Lattes: http://lattes.cnpq.br/2274725808800917
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/23/2024

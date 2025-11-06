@@ -1,0 +1,8 @@
+video_id: 4UL5tpNWSl0
+video_url: https://www.youtube.com/watch?v=4UL5tpNWSl0
+title: #reflexão #roça #colono #deus #jesus
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2025

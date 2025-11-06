@@ -1,0 +1,9 @@
+video_id: yEtsMh9tc-8
+video_url: https://www.youtube.com/watch?v=yEtsMh9tc-8
+title: O Dilema do Onívoro – Michael Pollan
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/15/2021

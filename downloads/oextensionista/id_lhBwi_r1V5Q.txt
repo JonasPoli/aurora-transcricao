@@ -1,0 +1,8 @@
+video_id: lhBwi_r1V5Q
+video_url: https://www.youtube.com/watch?v=lhBwi_r1V5Q
+title: Agricultura urbana em Nova Esperança do Sul #roça #horticulture
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/19/2025

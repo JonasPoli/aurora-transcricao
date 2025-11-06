@@ -1,0 +1,8 @@
+video_id: ar2NpdnEfFo
+video_url: https://www.youtube.com/watch?v=ar2NpdnEfFo
+title: O impacto positivo do cooperativismo de crédito na sociedade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/29/2023

@@ -1,0 +1,9 @@
+video_id: r2okBqu2ygs
+video_url: https://www.youtube.com/watch?v=r2okBqu2ygs
+title: Para além da porteira: o papel da extensão rural no acesso aos mercados
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/3509331403099641
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/10/2022

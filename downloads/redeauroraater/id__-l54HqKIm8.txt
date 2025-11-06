@@ -1,0 +1,8 @@
+video_id: _-l54HqKIm8
+video_url: https://www.youtube.com/watch?v=_-l54HqKIm8
+title: Linguagem e comunicação para o campo #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

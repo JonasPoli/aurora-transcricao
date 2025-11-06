@@ -1,0 +1,8 @@
+video_id: j-WsFQ8vdmk
+video_url: https://www.youtube.com/watch?v=j-WsFQ8vdmk
+title: Extensão rural e políticas públicas para agricultura familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/18/2021

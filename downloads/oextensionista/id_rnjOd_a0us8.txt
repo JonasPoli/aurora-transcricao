@@ -1,0 +1,8 @@
+video_id: rnjOd_a0us8
+video_url: https://www.youtube.com/watch?v=rnjOd_a0us8
+title: Poda da Muda de Citrus #poda #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/26/2025

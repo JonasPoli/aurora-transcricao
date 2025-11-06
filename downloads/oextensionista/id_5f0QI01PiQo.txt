@@ -1,0 +1,8 @@
+video_id: 5f0QI01PiQo
+video_url: https://www.youtube.com/watch?v=5f0QI01PiQo
+title: #roça #turismorural #marau #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/31/2025

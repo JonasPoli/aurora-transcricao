@@ -1,0 +1,8 @@
+video_id: s1Cei5xQs0Y
+video_url: https://www.youtube.com/watch?v=s1Cei5xQs0Y
+title: E aí, você fez a prova da Emater/RS?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/25/2023

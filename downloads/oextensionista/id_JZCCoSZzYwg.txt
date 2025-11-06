@@ -1,0 +1,9 @@
+video_id: JZCCoSZzYwg
+video_url: https://www.youtube.com/watch?v=JZCCoSZzYwg
+title: A importância do cooperativismo para a agricultura familiar
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9290926893173000
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/30/2022

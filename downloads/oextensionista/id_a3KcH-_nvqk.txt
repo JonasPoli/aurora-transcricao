@@ -1,0 +1,8 @@
+video_id: a3KcH-_nvqk
+video_url: https://www.youtube.com/watch?v=a3KcH-_nvqk
+title: #colono #agricultor #turismorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/31/2025

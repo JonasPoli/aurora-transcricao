@@ -1,0 +1,8 @@
+video_id: DxNU-Gytq5c
+video_url: https://www.youtube.com/watch?v=DxNU-Gytq5c
+title: Indicação de Leitura | O rural contemporâneo em debate
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/09/2021

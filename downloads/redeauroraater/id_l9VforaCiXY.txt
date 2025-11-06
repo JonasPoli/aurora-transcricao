@@ -1,0 +1,9 @@
+video_id: l9VforaCiXY
+video_url: https://www.youtube.com/watch?v=l9VforaCiXY
+title: Tem na rua, tem na roça a apropriação do telefone celular pelas famílias de agricultores
+uploader: Rede Aurora
+speaker: Tamires Lopes Pereira
+Lattes: http://lattes.cnpq.br/5345462008101939
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/29/2024

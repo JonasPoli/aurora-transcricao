@@ -1,0 +1,9 @@
+video_id: V2vmGx1j6Ck
+video_url: https://www.youtube.com/watch?v=V2vmGx1j6Ck
+title: A experiência de formação em Extensão Rural e Agroecologia
+uploader: Rede Aurora
+speaker: Nina Paula Ferreira Laranjeira - UnB
+Lattes: http://lattes.cnpq.br/4432976908348540
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/18/2025

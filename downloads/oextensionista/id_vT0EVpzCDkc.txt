@@ -1,0 +1,8 @@
+video_id: vT0EVpzCDkc
+video_url: https://www.youtube.com/watch?v=vT0EVpzCDkc
+title: #reflexão #roça #caminhoparaumavidamelhor #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2025

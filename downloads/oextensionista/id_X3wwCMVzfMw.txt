@@ -1,0 +1,8 @@
+video_id: X3wwCMVzfMw
+video_url: https://www.youtube.com/watch?v=X3wwCMVzfMw
+title: Os desafios e potencialidades da Assistência Técnica e Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/19/2021

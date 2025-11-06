@@ -1,0 +1,8 @@
+video_id: NNpPVwA0fQ8
+video_url: https://www.youtube.com/watch?v=NNpPVwA0fQ8
+title: O uso de tecnologias digitais de informação e comunicação na agricultura familiar em Moçambique
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/06/2023

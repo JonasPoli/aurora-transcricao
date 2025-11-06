@@ -1,0 +1,8 @@
+video_id: k__IDGgwUdg
+video_url: https://www.youtube.com/watch?v=k__IDGgwUdg
+title: #jesus #motivação #reflexão #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/08/2025

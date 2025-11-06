@@ -1,0 +1,8 @@
+video_id: v8c0EhPT2yY
+video_url: https://www.youtube.com/watch?v=v8c0EhPT2yY
+title: Direto ao ponto: Projeto Mulheres do Café (Paraná) - Cíntia Mara Lopes de Souza
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/13/2022

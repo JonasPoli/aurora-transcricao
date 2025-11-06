@@ -1,0 +1,9 @@
+video_id: LsMiRF8ywtA
+video_url: https://www.youtube.com/watch?v=LsMiRF8ywtA
+title: Facebook - Informação e memória – Itesp
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9282294947416702
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2022

@@ -1,0 +1,9 @@
+video_id: 2z7wT3GNhiw
+video_url: https://www.youtube.com/watch?v=2z7wT3GNhiw
+title: Taipas na roça 🚜 🧑 🛑 ainda existem? ⏳🌱  ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/13/2022

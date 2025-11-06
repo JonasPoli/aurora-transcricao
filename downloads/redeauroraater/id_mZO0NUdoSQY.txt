@@ -1,0 +1,8 @@
+video_id: mZO0NUdoSQY
+video_url: https://www.youtube.com/watch?v=mZO0NUdoSQY
+title: O papel da extensão rural na construção de políticas públicas voltadas à agricultura familiar
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2023

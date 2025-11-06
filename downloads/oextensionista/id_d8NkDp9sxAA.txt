@@ -1,0 +1,8 @@
+video_id: d8NkDp9sxAA
+video_url: https://www.youtube.com/watch?v=d8NkDp9sxAA
+title: Estratégias e mudanças legais para a ampliação da oferta de serviços de ATER no Brasil
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/25/2023

@@ -1,0 +1,9 @@
+video_id: gzKiC9rA6tA
+video_url: https://www.youtube.com/watch?v=gzKiC9rA6tA
+title: Notícias da Extensão Rural (9) – na era do mundo digital
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/09/2022

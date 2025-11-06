@@ -1,0 +1,8 @@
+video_id: wAz2Q6wuLvU
+video_url: https://www.youtube.com/watch?v=wAz2Q6wuLvU
+title: #reflexão #roça #deustemumapalavrapravoce
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/20/2025

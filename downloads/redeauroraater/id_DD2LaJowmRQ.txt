@@ -1,0 +1,8 @@
+video_id: DD2LaJowmRQ
+video_url: https://www.youtube.com/watch?v=DD2LaJowmRQ
+title: Direto ao ponto: Quem é o publico rural que acessa os meios digitais? - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

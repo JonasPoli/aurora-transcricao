@@ -1,0 +1,8 @@
+video_id: aReq8ICvWVY
+video_url: https://www.youtube.com/watch?v=aReq8ICvWVY
+title: Experiências de Extensão na Universidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/12/2020

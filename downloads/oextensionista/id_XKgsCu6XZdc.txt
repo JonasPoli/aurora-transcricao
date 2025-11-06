@@ -1,0 +1,8 @@
+video_id: XKgsCu6XZdc
+video_url: https://www.youtube.com/watch?v=XKgsCu6XZdc
+title: Novidades na Avicultura colonial - Prof. Roberson Macedo de Oliveira
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/10/2025

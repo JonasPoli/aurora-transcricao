@@ -1,0 +1,8 @@
+video_id: AJt4OfB2PNs
+video_url: https://www.youtube.com/watch?v=AJt4OfB2PNs
+title: #roça #poda #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/09/2025

@@ -1,0 +1,9 @@
+video_id: p2aGQjEynHc
+video_url: https://www.youtube.com/watch?v=p2aGQjEynHc
+title: Agroecologia da teoria a prática o papel da Extensão Rural no desenvolvimento de experiências
+uploader: Rede Aurora
+speaker: Rosiéle Cristiane Ludtke – Associação FlorESer Agroecológico
+Lattes: https://lattes.cnpq.br/2145123447022292
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/14/2023

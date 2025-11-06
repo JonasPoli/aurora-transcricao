@@ -1,0 +1,8 @@
+video_id: 8xjsw0S43ic
+video_url: https://www.youtube.com/watch?v=8xjsw0S43ic
+title: #oração #fe
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/23/2025

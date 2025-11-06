@@ -1,0 +1,9 @@
+video_id: 8-2M5DNoUVE
+video_url: https://www.youtube.com/watch?v=8-2M5DNoUVE
+title: 👉 Fixar o jovem rural no campo – Ô loco, meu! 🤷‍♂️
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/25/2022

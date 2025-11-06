@@ -1,0 +1,8 @@
+video_id: v6uLG6FDi70
+video_url: https://www.youtube.com/watch?v=v6uLG6FDi70
+title: #roça #trator #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/22/2025

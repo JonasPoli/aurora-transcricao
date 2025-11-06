@@ -1,0 +1,8 @@
+video_id: E1foS-TROtU
+video_url: https://www.youtube.com/watch?v=E1foS-TROtU
+title: O uso das redes sociais como fator de inovação na pecuária brasileira - Mara Ramos
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/02/2022

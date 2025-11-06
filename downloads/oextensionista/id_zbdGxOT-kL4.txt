@@ -1,0 +1,8 @@
+video_id: zbdGxOT-kL4
+video_url: https://www.youtube.com/watch?v=zbdGxOT-kL4
+title: #roça #caminhada #turismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/31/2025

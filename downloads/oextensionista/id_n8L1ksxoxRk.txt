@@ -1,0 +1,9 @@
+video_id: n8L1ksxoxRk
+video_url: https://www.youtube.com/watch?v=n8L1ksxoxRk
+title: Métodos de atuação do Extensionista Rural
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/07/2022

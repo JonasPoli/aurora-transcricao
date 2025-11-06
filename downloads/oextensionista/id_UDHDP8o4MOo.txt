@@ -1,0 +1,8 @@
+video_id: UDHDP8o4MOo
+video_url: https://www.youtube.com/watch?v=UDHDP8o4MOo
+title: #roça #tangerina #bergamota #frutas
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/18/2025

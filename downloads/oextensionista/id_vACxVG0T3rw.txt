@@ -1,0 +1,8 @@
+video_id: vACxVG0T3rw
+video_url: https://www.youtube.com/watch?v=vACxVG0T3rw
+title: Caminhada Silveira Martins #turismorural #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/06/2025

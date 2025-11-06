@@ -1,0 +1,9 @@
+video_id: ORZ9pcQoS_s
+video_url: https://www.youtube.com/watch?v=ORZ9pcQoS_s
+title: O que é cooperativismo?
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/11/2022

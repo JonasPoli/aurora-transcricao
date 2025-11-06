@@ -1,0 +1,8 @@
+video_id: QMiy-z3K5vI
+video_url: https://www.youtube.com/watch?v=QMiy-z3K5vI
+title: A presença das organizações brasileiras de ATER na internet durante a pandemia - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

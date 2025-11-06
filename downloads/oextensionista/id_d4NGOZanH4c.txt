@@ -1,0 +1,8 @@
+video_id: d4NGOZanH4c
+video_url: https://www.youtube.com/watch?v=d4NGOZanH4c
+title: #reflexão #motivação #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/24/2025

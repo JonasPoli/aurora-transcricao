@@ -1,0 +1,8 @@
+video_id: e6Oz1WjA-gw
+video_url: https://www.youtube.com/watch?v=e6Oz1WjA-gw
+title: #pedal #esporte #futebol #intersm #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/19/2025

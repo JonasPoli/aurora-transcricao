@@ -1,0 +1,8 @@
+video_id: sCxvzYoUchk
+video_url: https://www.youtube.com/watch?v=sCxvzYoUchk
+title: #deus #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/23/2025

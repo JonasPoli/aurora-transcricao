@@ -1,0 +1,8 @@
+video_id: 6rcw_rUmaTg
+video_url: https://www.youtube.com/watch?v=6rcw_rUmaTg
+title: Direto ao ponto: Divulgação científica voltada ao público rural -  Jéssica Dayane Nunes Pessôa
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/05/2022

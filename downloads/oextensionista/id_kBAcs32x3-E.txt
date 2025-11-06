@@ -1,0 +1,8 @@
+video_id: kBAcs32x3-E
+video_url: https://www.youtube.com/watch?v=kBAcs32x3-E
+title: 𝙋𝙤𝙙𝙖 𝙙𝙚 𝙑𝙞𝙙𝙚𝙞𝙧𝙖 🌱
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/16/2025

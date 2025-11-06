@@ -1,0 +1,8 @@
+video_id: QZXR5hA5iYs
+video_url: https://www.youtube.com/watch?v=QZXR5hA5iYs
+title: Viticultura e Fruticultura - 2 parte da tarde
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2024

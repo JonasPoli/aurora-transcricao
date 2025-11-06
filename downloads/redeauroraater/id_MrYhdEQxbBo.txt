@@ -1,0 +1,9 @@
+video_id: MrYhdEQxbBo
+video_url: https://www.youtube.com/watch?v=MrYhdEQxbBo
+title: Lamparina tecnologia digital, violência e mulheres rurais
+uploader: Rede Aurora
+speaker: Lorena Lima de Moraes
+Lattes: http://lattes.cnpq.br/4747374195235267
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/01/2024

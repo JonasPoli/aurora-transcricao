@@ -1,0 +1,8 @@
+video_id: TNZhjee9ABw
+video_url: https://www.youtube.com/watch?v=TNZhjee9ABw
+title: Conheça o nosso cantinho na roça 💚 #roça #natureza #agriculturafamiliar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/09/2024

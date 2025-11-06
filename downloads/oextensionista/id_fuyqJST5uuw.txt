@@ -1,0 +1,9 @@
+video_id: fuyqJST5uuw
+video_url: https://www.youtube.com/watch?v=fuyqJST5uuw
+title: Relato de Experiência de Assistência Técnica em Extensão Rural em Assentamentos
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/8807700825792487
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/11/2022

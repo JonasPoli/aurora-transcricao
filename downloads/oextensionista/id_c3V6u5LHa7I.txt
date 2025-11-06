@@ -1,0 +1,8 @@
+video_id: c3V6u5LHa7I
+video_url: https://www.youtube.com/watch?v=c3V6u5LHa7I
+title: Enchente no Rio Grande do Sul - O Extensionista
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/08/2024

@@ -1,0 +1,9 @@
+video_id: btV_keR0kyU
+video_url: https://www.youtube.com/watch?v=btV_keR0kyU
+title: O uso de redes sociais pela agricultura familiar para ampliar a comercialização
+uploader: O Extensionista
+speaker: Livio Sergio Dias Claudino (Unifesspa) e Graciele dos Prazeres Pustilnik (UFRGS)
+Lattes: http://lattes.cnpq.br/1618090996273410
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/14/2025

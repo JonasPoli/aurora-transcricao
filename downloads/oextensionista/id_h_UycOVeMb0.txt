@@ -1,0 +1,8 @@
+video_id: h_UycOVeMb0
+video_url: https://www.youtube.com/watch?v=h_UycOVeMb0
+title: Sistematização de Experiências - Começando na Avicultura Colonial para Produção de Ovos #avicultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/13/2025

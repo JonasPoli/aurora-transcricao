@@ -1,0 +1,9 @@
+video_id: ipMIaPaLWqU
+video_url: https://www.youtube.com/watch?v=ipMIaPaLWqU
+title: Desafios e oportunidades da produção orgânica na agricultura familiar
+uploader: O Extensionista
+speaker: Gilmar Francisco Vione – Emater/RS-Ascar
+Lattes: http://lattes.cnpq.br/7793587866019053
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/28/2024

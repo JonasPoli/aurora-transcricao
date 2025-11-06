@@ -1,0 +1,9 @@
+video_id: B6PJIntyPhc
+video_url: https://www.youtube.com/watch?v=B6PJIntyPhc
+title: Conheça a UFVJM, Campus Unaí 🏫 🍂 ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/0270099238670182
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/01/2022

@@ -1,0 +1,8 @@
+video_id: ndj3_n50VTg
+video_url: https://www.youtube.com/watch?v=ndj3_n50VTg
+title: #roça #pessoas #comportamento #inovação
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/01/2025

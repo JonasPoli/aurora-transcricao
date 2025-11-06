@@ -1,0 +1,9 @@
+video_id: n88jNHcE4bo
+video_url: https://www.youtube.com/watch?v=n88jNHcE4bo
+title: A educação em saúde na prevenção da Cria Pútrida Americana
+uploader: Rede Aurora
+speaker: Miriam Sayuri Sassaki
+Lattes: http://lattes.cnpq.br/0621171145598671
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/13/2025

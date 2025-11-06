@@ -1,0 +1,8 @@
+video_id: qYYUSabcatg
+video_url: https://www.youtube.com/watch?v=qYYUSabcatg
+title: A epistemologia extensionista e as nuances da emergência do pluralismo mercadológico
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2023

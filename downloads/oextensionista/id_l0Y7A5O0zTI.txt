@@ -1,0 +1,9 @@
+video_id: l0Y7A5O0zTI
+video_url: https://www.youtube.com/watch?v=l0Y7A5O0zTI
+title: Organização e funcionamento de comitês educativos cooperativistas
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9290926893173000
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/28/2024

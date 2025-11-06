@@ -1,0 +1,9 @@
+video_id: aEyQKjap6KQ
+video_url: https://www.youtube.com/watch?v=aEyQKjap6KQ
+title: Quer conhecer nossa área de Eucalipto?  🍂 na Agricultura Familiar🌱 ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/19/2022

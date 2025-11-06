@@ -1,0 +1,9 @@
+video_id: WVUjSBE_uDg
+video_url: https://www.youtube.com/watch?v=WVUjSBE_uDg
+title: Pesquisas da Extensão Rural (3)
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/31/2022

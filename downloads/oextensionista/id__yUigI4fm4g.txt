@@ -1,0 +1,8 @@
+video_id: _yUigI4fm4g
+video_url: https://www.youtube.com/watch?v=_yUigI4fm4g
+title: 👉 Curso Técnico em Fruticultura – EAD – UFSM. 😉
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/08/2022

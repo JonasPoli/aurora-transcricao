@@ -1,0 +1,8 @@
+video_id: t35LSHCULAk
+video_url: https://www.youtube.com/watch?v=t35LSHCULAk
+title: #reflexão #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2025

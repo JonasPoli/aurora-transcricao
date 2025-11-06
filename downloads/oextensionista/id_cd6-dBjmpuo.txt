@@ -1,0 +1,8 @@
+video_id: cd6-dBjmpuo
+video_url: https://www.youtube.com/watch?v=cd6-dBjmpuo
+title: #motivação #reflexão #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/22/2025

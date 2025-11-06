@@ -1,0 +1,9 @@
+video_id: ARD5nAXX4vs
+video_url: https://www.youtube.com/watch?v=ARD5nAXX4vs
+title: Dia Nacional da Extensão Rural – Parabéns Extensionistas 🎓👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/05/2022

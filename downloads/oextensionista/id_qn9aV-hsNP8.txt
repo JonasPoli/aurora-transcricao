@@ -1,0 +1,8 @@
+video_id: qn9aV-hsNP8
+video_url: https://www.youtube.com/watch?v=qn9aV-hsNP8
+title: Extensão Rural no desenvolvimento de Projetos de Linhas de Crédito
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/05/2021

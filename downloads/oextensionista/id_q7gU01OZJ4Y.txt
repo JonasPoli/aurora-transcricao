@@ -1,0 +1,8 @@
+video_id: q7gU01OZJ4Y
+video_url: https://www.youtube.com/watch?v=q7gU01OZJ4Y
+title: #roça #figueira #muda #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2025

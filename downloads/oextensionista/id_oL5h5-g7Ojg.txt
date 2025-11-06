@@ -1,0 +1,9 @@
+video_id: oL5h5-g7Ojg
+video_url: https://www.youtube.com/watch?v=oL5h5-g7Ojg
+title: EFASOL: a escola onde o jovem rural é protagonista da sua história 🎓👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/07/2022

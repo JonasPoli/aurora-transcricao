@@ -1,0 +1,8 @@
+video_id: p6zNHDtC2X4
+video_url: https://www.youtube.com/watch?v=p6zNHDtC2X4
+title: Aproximação entre P&D e TT o estudo de caso do Balde Cheio
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2023

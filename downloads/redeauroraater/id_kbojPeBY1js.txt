@@ -1,0 +1,9 @@
+video_id: kbojPeBY1js
+video_url: https://www.youtube.com/watch?v=kbojPeBY1js
+title: Plano de vida rural ATER digital e inovações em negócios de impacto socioambiental
+uploader: Rede Aurora
+speaker: Sebastião Pereira de Faria Júnior – MDS Saúde Animal
+Lattes: http://lattes.cnpq.br/7812424214956186
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/24/2024

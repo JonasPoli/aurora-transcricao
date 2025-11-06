@@ -1,0 +1,8 @@
+video_id: B0u_XQg2sXY
+video_url: https://www.youtube.com/watch?v=B0u_XQg2sXY
+title: #roça #gatos #caramelo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

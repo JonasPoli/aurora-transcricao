@@ -1,0 +1,9 @@
+video_id: g6bM9lvLqtM
+video_url: https://www.youtube.com/watch?v=g6bM9lvLqtM
+title: Panorama e desafios do ensino de Extensão Rural no Brasil
+uploader: O Extensionista
+speaker: Laila Mayara Drebes – Universidade Federal do Sul e Sudeste do Pará, Instituto de Ciências Humanas
+Lattes: http://lattes.cnpq.br/0361181931528349
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/12/2023

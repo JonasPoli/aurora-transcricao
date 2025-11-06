@@ -1,0 +1,8 @@
+video_id: rrsFRM2F7NU
+video_url: https://www.youtube.com/watch?v=rrsFRM2F7NU
+title: #motivação #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2025

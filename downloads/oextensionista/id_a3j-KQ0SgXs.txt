@@ -1,0 +1,8 @@
+video_id: a3j-KQ0SgXs
+video_url: https://www.youtube.com/watch?v=a3j-KQ0SgXs
+title: #roça #brasil
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/15/2025

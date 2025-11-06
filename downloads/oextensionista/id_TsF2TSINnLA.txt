@@ -1,0 +1,8 @@
+video_id: TsF2TSINnLA
+video_url: https://www.youtube.com/watch?v=TsF2TSINnLA
+title: 10 de agosto de 2025
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

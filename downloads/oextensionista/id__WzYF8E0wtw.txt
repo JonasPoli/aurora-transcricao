@@ -1,0 +1,8 @@
+video_id: _WzYF8E0wtw
+video_url: https://www.youtube.com/watch?v=_WzYF8E0wtw
+title: #jesus #reflexão #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2025

@@ -1,0 +1,8 @@
+video_id: g6B9ZVowELM
+video_url: https://www.youtube.com/watch?v=g6B9ZVowELM
+title: #farming #agro
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2025

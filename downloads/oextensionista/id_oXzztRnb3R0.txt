@@ -1,0 +1,9 @@
+video_id: oXzztRnb3R0
+video_url: https://www.youtube.com/watch?v=oXzztRnb3R0
+title: Desafios e perspectivas da Extensão Rural no RS
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4685672618700905
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/13/2022

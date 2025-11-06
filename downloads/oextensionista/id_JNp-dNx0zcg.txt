@@ -1,0 +1,8 @@
+video_id: JNp-dNx0zcg
+video_url: https://www.youtube.com/watch?v=JNp-dNx0zcg
+title: #roça #colono #cristo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2025

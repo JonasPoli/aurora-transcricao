@@ -1,0 +1,8 @@
+video_id: Ncx1Wc2SBdU
+video_url: https://www.youtube.com/watch?v=Ncx1Wc2SBdU
+title: Dia de Campo - Técnico em Fruticultura  #fruticultura #poda #jari
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/19/2025

@@ -1,0 +1,9 @@
+video_id: rppEzcO6zgE
+video_url: https://www.youtube.com/watch?v=rppEzcO6zgE
+title: Grãos orgânicos em escala: viabilidade, desafios e oportunidades
+uploader: O Extensionista
+speaker: Benjamin Dias Osório Filho – UERGS
+Lattes: http://lattes.cnpq.br/5016461956564859
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/20/2024

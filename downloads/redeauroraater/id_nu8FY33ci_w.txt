@@ -1,0 +1,8 @@
+video_id: nu8FY33ci_w
+video_url: https://www.youtube.com/watch?v=nu8FY33ci_w
+title: Direto ao ponto: Ater Digital como incentivo aos jovens produtores rurais - Carolina Darcie
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2022

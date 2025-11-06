@@ -1,0 +1,9 @@
+video_id: Fjet20HB9Mc
+video_url: https://www.youtube.com/watch?v=Fjet20HB9Mc
+title: Tempestade de Ideias – Metodologias Participativas em Extensão Rural 🎯👩‍🌾 🌱 ☀
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/5774138599253033
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2022

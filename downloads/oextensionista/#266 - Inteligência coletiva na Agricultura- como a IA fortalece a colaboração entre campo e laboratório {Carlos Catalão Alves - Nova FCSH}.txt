@@ -1,0 +1,4547 @@
+Vamos ver.
+ 00:00:00
+
+Bom dia a todos e a todas. Hoje é dia 30
+ 00:00:02
+
+de julho. Eu sou o professor Luís
+ 00:00:05
+
+Fernando Soares Zuin e hoje no ciclo de
+ 00:00:08
+
+palestras, Diálogos em Até Digital,
+ 00:00:10
+
+Semeando Propostas e Compartilhando
+ 00:00:13
+
+saberes, estou com o professor Dr.
+ 00:00:14
+
+Carlos Cartalão Alves da o Instituto de
+ 00:00:18
+
+Comunicação da Universidade de Nova
+ 00:00:21
+
+Lisboa, que vai falar hoje sobre a IA
+ 00:00:23
+
+nos serviços de extensão rural, não é? nos
+ 00:00:27
+
+serviços nos nos serviços nos
+ 00:00:29
+
+territórios rurais, não é? O tema da sua
+ 00:00:32
+
+palestra é a inteligência coletiva na
+ 00:00:34
+
+agricultura, como a IA fortalece a
+ 00:00:36
+
+colaboração entre o campo e o
+ 00:00:39
+
+laboratório. Professor Carlos Catalão,
+ 00:00:41
+
+seja muito bem-vindo. É um prazer enorme
+ 00:00:44
+
+tê-lo aqui conosco nessa manhã de
+ 00:00:46
+
+quarta-feira aqui no Brasil, fria, não é?
+ 00:00:48
+
+Aqui a gente tá frio, aí deve tá muito
+ 00:00:51
+
+quente em Portugal,
+ 00:00:52
+
+não é? Então fique à vontade, a palavra é
+ 00:00:54
+
+sua.
+ 00:00:56
+
+Ora, muito bem. Eh, bom dia a todos.
+ 00:00:58
+
+Neste momento, como dizia ao professor,
+ 00:01:01
+
+a quem eu agradeço bastante este
+ 00:01:03
+
+convite, de facto, aqui em Portugal não
+ 00:01:05
+
+está só calor, tá o pior dia de
+ 00:01:07
+
+incêndios do ano, o que tem tudo a ver
+ 00:01:10
+
+de certa forma também com o que nós
+ 00:01:14
+
+estamos a falar. E eh de facto está
+ 00:01:15
+
+muito quente. Ora, eh antes de mais
+ 00:01:18
+
+nada, queria fazer uma muito breve
+ 00:01:22
+
+apresentação da minha pessoa. Eu tenho
+ 00:01:23
+
+trabalhado ao longo toda da minha vida
+ 00:01:26
+
+em comunicação da ciência,
+ 00:01:28
+
+eh, no programa Ciência Viva, no
+ 00:01:30
+
+Ministério da Ciência, h estive
+ 00:01:33
+
+envolvido em equipas que criaram centros
+ 00:01:36
+
+interativos de ciência. No fundo, eh, a
+ 00:01:39
+
+minha missão quase de vida é a difusão
+ 00:01:42
+
+do conhecimento.
+ 00:01:46
+
+Não é por acaso, portanto, que eu sou
+ 00:01:48
+
+investigador do ICA, que é o Instituto
+ 00:01:50
+
+de Comunicação da Universidade Nova,
+ 00:01:52
+
+onde eh durante mais de uma década fui
+ 00:01:55
+
+professor de comunicação de ciência no
+ 00:01:58
+
+instituto e na própria universidade ao
+ 00:02:02
+
+nível de mestrado. Isto tudo no fundo
+ 00:02:04
+
+para para dizer, como já devem ter
+ 00:02:07
+
+percebido, que eu não sou propriamente
+ 00:02:09
+
+um especialista em ciências agrárias,
+ 00:02:10
+
+mas
+ 00:02:13
+
+tenho, portanto, muita formação e muita
+ 00:02:15
+
+experiência de difusão da ciência e de
+ 00:02:18
+
+trabalhar com públicos e em laboratórios
+ 00:02:21
+
+públicos. E é nessa base que eu vou
+ 00:02:24
+
+então falar. Ora,
+ 00:02:27
+
+porque é que eh nós vamos abordar a
+ 00:02:31
+
+questão da inteligência artificial? Ora,
+ 00:02:33
+
+a mim parece-me e acho que a todos nós,
+ 00:02:36
+
+algo que é simplesmente inevitável. E é
+ 00:02:38
+
+inevitável, exatamente porque este
+ 00:02:41
+
+desafio alimentar global que nós temos,
+ 00:02:44
+
+esta necessidade eh imperativa de
+ 00:02:47
+
+aumentar a produtividade não é uma
+ 00:02:50
+
+opção. Portanto, utilizar a inteligência
+ 00:02:54
+
+artificial não é de facto uma opção, mas
+ 00:02:58
+
+uma necessidade a que não podemos fugir.
+ 00:03:02
+
+Daí que a, com licença,
+ 00:03:06
+
+daí que este novo paradigma tecnológico,
+ 00:03:10
+
+esta ligação da inteligência artificial,
+ 00:03:13
+
+da automação e da agricultura de
+ 00:03:16
+
+precisão é aquilo que pode ajudar a
+ 00:03:18
+
+limitar, a superar as limitações
+ 00:03:21
+
+sistémicas que nós de alguma forma
+ 00:03:23
+
+acabamos de ver. Então, eu eu queria
+ 00:03:25
+
+mais ou menos e para já dar uma ideia do
+ 00:03:30
+
+que é que nós vamos abordar. nós formos
+ 00:03:33
+
+abordar a inteligência artificial na
+ 00:03:35
+
+agricultura, mas numa componente que tem
+ 00:03:37
+
+a ver com a participação dos
+ 00:03:41
+
+agricultores, das diferentes partes
+ 00:03:43
+
+interessadas, dos diferentes
+ 00:03:45
+
+stakeholders, como se diz, nesta
+ 00:03:46
+
+utilização da inteligência artificial.
+ 00:03:49
+
+Portanto, não é só no ponto de vista
+ 00:03:52
+
+técnico da inteligência artificial, mas
+ 00:03:54
+
+é no ponto de vista da relação humana e
+ 00:03:56
+
+da relação social que estabelecem entre
+ 00:03:59
+
+as pessoas no uso desta tecnologia.
+ 00:04:02
+
+Ora, eh, é evidente que propor-nos a
+ 00:04:08
+
+fazer uma uma apresentação destas e em
+ 00:04:12
+
+pouco mais de uma hora é um grande
+ 00:04:16
+
+desafio. é um grande desafio porque não
+ 00:04:19
+
+só a tecnologia
+ 00:04:22
+
+é diversa e está de alguma forma a
+ 00:04:24
+
+explodir nessa sua diversidade, como
+ 00:04:27
+
+também todo o mundo agrário, toda todo o
+ 00:04:29
+
+todo o tema que nós estamos a falar tem
+ 00:04:32
+
+dimensões eh tão diversas que
+ 00:04:35
+
+encapsulá-las numa hora é é realmente
+ 00:04:39
+
+difícil.
+ 00:04:42
+
+Mas eu vou tentar no fundo começar
+ 00:04:44
+
+por esta por esta ideia
+ 00:04:49
+
+que é a mais, digamos, a mais atual
+ 00:04:52
+
+dentro da da evolução da inteligência
+ 00:04:55
+
+artificial, que é a da criação de uma
+ 00:04:57
+
+simulação
+ 00:05:00
+
+da realidade, neste caso, da realidade
+ 00:05:02
+
+agrícola num determinado modelo. Todos
+ 00:05:05
+
+nós estamos familiarizados com o CH GPT,
+ 00:05:08
+
+por exemplo, não é? e com outros modelos
+ 00:05:11
+
+e a palavra modelo de inteligência
+ 00:05:14
+
+artificial surge-nos a toda a hora.
+ 00:05:17
+
+Ora, é um pouco nessa direção que nós
+ 00:05:20
+
+vamos caminhar nesta nesta explicação,
+ 00:05:24
+
+nesta e e nesta comunicação, porque
+ 00:05:27
+
+da mesma forma que o set GPT ou neste
+ 00:05:31
+
+caso o GPT, que é o generative
+ 00:05:34
+
+pretrained
+ 00:05:36
+
+transformer, sendo que transformer é um
+ 00:05:38
+
+modelo de inteligência artificial, é,
+ 00:05:41
+
+portanto, um modelo a que todos acedem
+ 00:05:44
+
+para realizar desde pergun
+ 00:05:47
+
+ou ou ou ou esperam textos ou esperam a
+ 00:05:50
+
+sumarização de um texto, etc.
+ 00:05:54
+
+A ideia aqui é que não é existir um
+ 00:05:56
+
+modelo ao qual as pessoas acedem para
+ 00:06:01
+
+realizar estas tarefas ou atividades,
+ 00:06:05
+
+mas sim que cada planta tenha o seu
+ 00:06:09
+
+próprio modelo.
+ 00:06:12
+
+E este é o conceito mais recente no
+ 00:06:15
+
+desenvolvimento da inteligência
+ 00:06:18
+
+artificial e que tem que ficar desde já
+ 00:06:19
+
+aqui clarificado, é que não só uma
+ 00:06:21
+
+planta terá o seu próprio modelo, como
+ 00:06:25
+
+se fosse uma espécie de clon, que tem
+ 00:06:28
+
+todos os seus dados,
+ 00:06:30
+
+como cresceu, como estava a temperatura,
+ 00:06:33
+
+como estava o solo, toda toda a sua
+ 00:06:36
+
+existência é então de alguma forma
+ 00:06:40
+
+clonada e transformada nenhum numo e é
+ 00:06:43
+
+na interrogação a esse modelo que nós
+ 00:06:47
+
+depois podemos realizar as atividades
+ 00:06:50
+
+que queremos.
+ 00:06:53
+
+Este é um aspecto que é fundamental
+ 00:06:55
+
+entendermos
+ 00:06:57
+
+antes de prosseguir, o que quer dizer
+ 00:06:59
+
+que o sistema se baseia, estes sistemas
+ 00:07:03
+
+que produzem modelos das próprias
+ 00:07:05
+
+plantas baseiam-se acima de tudo num
+ 00:07:08
+
+processo de sensores que estão todos
+ 00:07:12
+
+ligados.
+ 00:07:16
+
+Esses sensores produzem dados.
+ 00:07:18
+
+Esses dados são processados no modelo.
+ 00:07:21
+
+Esse modelo permite-nos depois fazer
+ 00:07:26
+
+previsões antecipadas de condições
+ 00:07:28
+
+futuras, do rendimento daquela planta e
+ 00:07:31
+
+das necessidades daquela planta, ao
+ 00:07:33
+
+ponto de podermos fazer a simulação do
+ 00:07:36
+
+ciclo de vida dessa planta.
+ 00:07:39
+
+Mas podemos podemos perguntar, mas
+ 00:07:42
+
+estamos a falar de
+ 00:07:45
+
+sistemas que são tecnologicamente
+ 00:07:48
+
+complexos? É evidente que que são
+ 00:07:52
+
+tecnologicamente complexos e e
+ 00:07:55
+
+realizam-se a diversos níveis. Como
+ 00:07:57
+
+estava a falar, nós temos o nível da
+ 00:08:01
+
+planta e temos, portanto, este é um
+ 00:08:04
+
+exemplo de um dispositivo que está a
+ 00:08:08
+
+recolher eh por um conjunto de sensores
+ 00:08:10
+
+todos os dados de crescimento da planta
+ 00:08:14
+
+e do sólido do ambiente no qual ela está
+ 00:08:16
+
+a crescer. E com esses dados será então
+ 00:08:19
+
+criado o tal modelo, como eu acabei de
+ 00:08:22
+
+falar.
+ 00:08:24
+
+Agora, evidentemente, isto não se passa
+ 00:08:26
+
+só numa escala individual de uma planta,
+ 00:08:29
+
+passa-se também ao nível da própria
+ 00:08:33
+
+parcela de terreno ou da área que é
+ 00:08:36
+
+analisada. E vemos aqui uma fotografia,
+ 00:08:40
+
+portanto, à nossa direita, que mostra
+ 00:08:44
+
+como essa recolha de dados é feita
+ 00:08:46
+
+isolando cada uma das plantas já no,
+ 00:08:49
+
+digamos, na sua própria parcial de
+ 00:08:53
+
+terreno, até chegar à visão abrangente
+ 00:08:55
+
+de toda a propriedade agrícola e da
+ 00:08:57
+
+construção de um modelo dessa
+ 00:09:00
+
+propriedade.
+ 00:09:02
+
+este tipo de tecnologias,
+ 00:09:05
+
+eu aconselhava, eu não não vou fazer,
+ 00:09:08
+
+portanto, um uma saída agora da
+ 00:09:11
+
+apresentação para o site e e por isso
+ 00:09:13
+
+mesmo, eh, serão serão partilhados os
+ 00:09:17
+
+links eh relativos àquilo que nós
+ 00:09:21
+
+estamos a falar, mas eu convidar-vos ia
+ 00:09:23
+
+e não é difícil a a se tentarem,
+ 00:09:26
+
+portanto,
+ 00:09:29
+
+por este airra que é no fundo artificial
+ 00:09:30
+
+intell
+ 00:09:34
+
+no Instituto de Resilient Agriculture
+ 00:09:36
+
+nos Estados Unidos, onde não só explicam
+ 00:09:39
+
+eh estes processos de investigação e de
+ 00:09:43
+
+recolha de dados tais quais eles estão a
+ 00:09:46
+
+acontecer, mas tem também um dos um uma
+ 00:09:48
+
+das plataformas de formação
+ 00:09:52
+
+e e e de uma coletânia de vídeos dos
+ 00:09:54
+
+mais detalhados
+ 00:09:59
+
+para nós entendermos como é que este
+ 00:10:02
+
+processo que nos parece quase mágico de
+ 00:10:04
+
+criação, era como se cada planta tivesse
+ 00:10:06
+
+o seu próprio set. Não sei se estão a
+ 00:10:09
+
+entender, portanto, aonde é que eu estou
+ 00:10:11
+
+a querer chegar com este processo.
+ 00:10:13
+
+Ora,
+ 00:10:17
+
+eu não sei se qual é que é o nível de de
+ 00:10:18
+
+conhecimento que as pessoas têm sobre a
+ 00:10:22
+
+inteligência artificial, mas eu acho que
+ 00:10:24
+
+é é um pouco difícil avançar sem que
+ 00:10:27
+
+fiquem esclarecidos alguns pontos
+ 00:10:29
+
+fundamentais no domínio. Eu não vou
+ 00:10:32
+
+fazer uma história da inteligência
+ 00:10:34
+
+artificial, mas tudo aquilo que tem a
+ 00:10:35
+
+ver com deep learning, com redes
+ 00:10:38
+
+naionais, com a ideia de modelo, para se
+ 00:10:40
+
+perceber no fundo que investigação é
+ 00:10:43
+
+feita para a utilização da inteligência
+ 00:10:46
+
+artificial na agricultura, é impossível
+ 00:10:48
+
+fazê-lo.
+ 00:10:51
+
+se não tentarmos esclarecer um pouco
+ 00:10:52
+
+esses processos e h desmistificar de
+ 00:10:55
+
+alguma maneira se se é um mito para
+ 00:10:59
+
+alguma das pessoas que estão a ouvir
+ 00:11:03
+
+isto, como eu costumo dizer, e acho que
+ 00:11:04
+
+depois a gente também diz isso, a melhor
+ 00:11:07
+
+maneira de explicar as coisas é
+ 00:11:08
+
+explicá-las como se fosse a uma criança.
+ 00:11:10
+
+Isto sou eu numa sala do ensino primário
+ 00:11:14
+
+no pavilhão do conhecimento em Lisboa,
+ 00:11:19
+
+num centro de ciência. Eh, este, esta
+ 00:11:21
+
+fotografia é de 2019, portanto isto é
+ 00:11:24
+
+pré eh
+ 00:11:27
+
+CHGT ou digamos pré a inteligência
+ 00:11:31
+
+artificial generativa.
+ 00:11:34
+
+E eu estou numa numa numa pequena sala
+ 00:11:36
+
+com pequenos alunos e com o professor.
+ 00:11:40
+
+Exatamente. Não é explicar aos alunos
+ 00:11:43
+
+como é que se utiliza a inteligência
+ 00:11:46
+
+artificial. E isto muito antes dos CH
+ 00:11:47
+
+GPT, é explicar aos alunos como é que se
+ 00:11:49
+
+faz. um modelo de inteligência
+ 00:11:52
+
+artificial e não só explicar, é pô-los a
+ 00:11:54
+
+fazer esse próprio modelo, porque isto é
+ 00:11:58
+
+algo que hh é assim um eh uma espécie de
+ 00:12:01
+
+buraco negro na visão que as pessoas têm
+ 00:12:05
+
+da inteligência artificial. Este
+ 00:12:08
+
+entendimento do que é que é afinal esse
+ 00:12:09
+
+modelo, porque há modelos grandes e há
+ 00:12:12
+
+modelos pequeninos. Evidentemente que os
+ 00:12:14
+
+chat GPT é um modelo enorme, mas não
+ 00:12:16
+
+quer dizer que não se possam fazer
+ 00:12:20
+
+modelos pequenos e esses modelos
+ 00:12:21
+
+pequenos para responder a necessidades
+ 00:12:24
+
+que nós determinamos. Então, neste caso,
+ 00:12:27
+
+o que eu fiz com estes alunos
+ 00:12:31
+
+foi colocá-los
+ 00:12:34
+
+a produzir um modelo, certo? E o modelo
+ 00:12:36
+
+de quê? No fundo, a ideia era treinar o
+ 00:12:40
+
+computador e o treinar significa a
+ 00:12:44
+
+produção desse modelo, de modo a ensinar
+ 00:12:46
+
+o computador o que é que é frio e o que
+ 00:12:49
+
+é que é quente, dependendo da frase.
+ 00:12:52
+
+Tipo, se eu disser que daqui bocado vou
+ 00:12:55
+
+à praia ou o meu país está envolvido em
+ 00:12:59
+
+muitos focos, é evidente que isto pode
+ 00:13:04
+
+ser classificado como quente. Se eu
+ 00:13:07
+
+disser que vou buscar um gelado ao
+ 00:13:10
+
+frigorífico, isso pode ser classificado
+ 00:13:11
+
+como frio. No fundo, aquilo que os
+ 00:13:13
+
+alunos fizeram foi criar ou foi
+ 00:13:15
+
+alimentar uma base de dados nesta
+ 00:13:19
+
+plataforma que é plataforma Machine
+ 00:13:21
+
+Learning for Kids, que eu aconselho
+ 00:13:23
+
+bastante a que faça uma visita.
+ 00:13:25
+
+Então fornecer a essa base de dados
+ 00:13:28
+
+diferentes frases, mascando-as, isto é,
+ 00:13:31
+
+atribuindo uma categoria, a categoria de
+ 00:13:36
+
+frio e a categoria de quente.
+ 00:13:38
+
+Então, é produzido um modelo. E para que
+ 00:13:41
+
+é que serve esse modelo? Esse modelo
+ 00:13:45
+
+serve depois para nós introduzirmos uma
+ 00:13:47
+
+frase que ainda não tínhamos introduzido
+ 00:13:50
+
+antes, uma frase que o modelo não
+ 00:13:53
+
+conhece.
+ 00:13:56
+
+E podemos então escrever essa frase e
+ 00:13:58
+
+ver o que é que o modelo responde, se
+ 00:14:01
+
+responde que está frio ou se responde
+ 00:14:04
+
+que está calor. Isto tudo é só para
+ 00:14:06
+
+explicar
+ 00:14:09
+
+que, por muito complexo que seja a
+ 00:14:10
+
+inteligência artificial,
+ 00:14:13
+
+é perfeitamente possível, portanto, de
+ 00:14:15
+
+uma forma paralela, não é só não é só
+ 00:14:19
+
+possível, é assim que se faz,
+ 00:14:21
+
+ao nível mais complexo, como vamos ver
+ 00:14:24
+
+imediatamente a seguir, com aplicações
+ 00:14:27
+
+na indústria do café, com com aplicações
+ 00:14:29
+
+na indústria aviária e por aí, mas que
+ 00:14:33
+
+utilizam exatamente
+ 00:14:36
+
+Este mesmo conceito, trata-se de
+ 00:14:38
+
+fornecer
+ 00:14:41
+
+dados a uma base de dados,
+ 00:14:43
+
+chamar o modelo de treinamento, que é,
+ 00:14:47
+
+no fundo, a aplicação de regras de
+ 00:14:50
+
+estatística, muitas vezes de regressão,
+ 00:14:53
+
+que nos permitem depois fazer previsões,
+ 00:14:56
+
+certo? Portanto, esta ideia de
+ 00:14:59
+
+aprendizagem automática ou de
+ 00:15:02
+
+aprendizado de máquina, como costumam
+ 00:15:04
+
+dizer no Brasil, esta ideia de
+ 00:15:06
+
+aprendizagem profunda está sempre
+ 00:15:08
+
+presente em tudo aquilo que é a
+ 00:15:11
+
+investigação e não só a investigação,
+ 00:15:14
+
+mas a prática da inteligência artificial
+ 00:15:16
+
+na agricultura.
+ 00:15:19
+
+Portanto, espero que desta forma assim
+ 00:15:21
+
+muito rápida eu tenha clarificado aquilo
+ 00:15:23
+
+que nos permite perceber o que vamos ver
+ 00:15:26
+
+a seguir.
+ 00:15:28
+
+No fundo, como é que esse processo
+ 00:15:32
+
+acontece? Nós, imaginem estas duas
+ 00:15:35
+
+frases, certo?
+ 00:15:37
+
+Se nós desfizermos estas duas frases
+ 00:15:39
+
+naquilo que todos nós hoje falamos, que
+ 00:15:42
+
+são os seus tokens, as suas unidades de
+ 00:15:45
+
+sentido, não é?
+ 00:15:48
+
+E depois
+ 00:15:50
+
+as colocarmos aqui
+ 00:15:53
+
+são estas as matrizes que compõem os
+ 00:15:57
+
+modelos.
+ 00:16:00
+
+Reparem na linha nós temos as diferentes
+ 00:16:01
+
+amostras, digamos, os diferentes
+ 00:16:06
+
+objetos, neste caso, as diferentes
+ 00:16:08
+
+frases, ou podem ser diferentes imagens.
+ 00:16:11
+
+Nas colunas nós temos as
+ 00:16:15
+
+características, se for da imagem são as
+ 00:16:18
+
+características dos seus pixeis. Se
+ 00:16:20
+
+tratarmos de texto são as
+ 00:16:22
+
+características das suas palavras. São,
+ 00:16:24
+
+digamos, as suas palavras, certo? E é
+ 00:16:26
+
+depois uma através de fórmulas que vão
+ 00:16:30
+
+analisar a frequência destas palavras
+ 00:16:34
+
+que eu posso prever ou classificar um
+ 00:16:38
+
+texto como nós, como por exemplo
+ 00:16:41
+
+perguntamos aos chats e
+ 00:16:44
+
+tá aqui esta frase, classifica-me esta
+ 00:16:46
+
+frase. Esta frase está a falar do quê?
+ 00:16:48
+
+Eh, e nós ficamos admirados que diz
+ 00:16:50
+
+assim, ele entre aspas respondeu até
+ 00:16:53
+
+parece que sabe de facto o que está a
+ 00:16:56
+
+acontecer. é simplesmente a aplicação de
+ 00:16:59
+
+algoritmos e a e a e a aplicação de
+ 00:17:03
+
+estatística que nós usamos todos os dias
+ 00:17:06
+
+à frequência
+ 00:17:09
+
+destes tokens. Por isso, nós quando
+ 00:17:11
+
+falamos e do dos modelos, dos vários
+ 00:17:14
+
+modelos do do do cloud, do chat GPT,
+ 00:17:18
+
+etc.,
+ 00:17:21
+
+medimo-los
+ 00:17:22
+
+em bilhões de tokens,
+ 00:17:23
+
+que são estes que aqui estão, só que
+ 00:17:28
+
+aqui, evidentemente, é uma muito pequena
+ 00:17:31
+
+amostra, mas o princípio é o mesmo.
+ 00:17:34
+
+Trata-se de multiplicar, portanto, no
+ 00:17:37
+
+fundo, um modelo não é mais do que uma
+ 00:17:40
+
+tabela que tem bilhões de colunas
+ 00:17:43
+
+e que é treinada, portanto, em trilhões
+ 00:17:48
+
+de documentos. Mas isso vocês já sabem.
+ 00:17:51
+
+Então, vamos ver um exemplo, um exemplo
+ 00:17:54
+
+concreto da aplicação deste Deep
+ 00:17:57
+
+learning e que cruza a ciência cidadã.
+ 00:18:00
+
+Este é é um artigo que eu eu aconselho
+ 00:18:04
+
+bastante a que façam esta análise. No
+ 00:18:08
+
+fundo, este artigo é sobre um projeto de
+ 00:18:11
+
+investigação
+ 00:18:13
+
+que pretende fazer o seguinte, uma coisa
+ 00:18:15
+
+tão simples quanto isto, contar o número
+ 00:18:17
+
+de cerejas numa planta de café.
+ 00:18:21
+
+Desculpem, não sei se chama cerejas,
+ 00:18:23
+
+porque como eu como eu já disse antes,
+ 00:18:26
+
+eu não sou especialista em agricultura e
+ 00:18:28
+
+não conheço a terminologia que no Brasil
+ 00:18:31
+
+utilizam para eh estas coisas, mas
+ 00:18:34
+
+trata-se, portanto, de fazer a contagem
+ 00:18:37
+
+dessas cerejas nas plantas de café.
+ 00:18:42
+
+E é agora, qual é qual é o ponto de
+ 00:18:46
+
+investigação? O ponto de investigação,
+ 00:18:49
+
+certo? É identificar
+ 00:18:53
+
+quais são os fatores que fazem com que
+ 00:18:55
+
+haja erro ou não haja erro na previsão,
+ 00:18:58
+
+isto é, na deteção desses objetos.
+ 00:19:03
+
+Porque esse é que é o ponto fundamental.
+ 00:19:06
+
+Quando nós interrogamos ou utilizamos a
+ 00:19:08
+
+inteligência artificial, como também eu
+ 00:19:10
+
+digo com os meus alunozinhos pequeninos,
+ 00:19:12
+
+é preciso, era bom que cada vez que nós
+ 00:19:15
+
+tivéssemos essa resposta, viesse lá qual
+ 00:19:18
+
+é que é, digamos, o grau de precisão
+ 00:19:21
+
+com que a resposta está a ser dada. Qual
+ 00:19:26
+
+é o grau de precisão, portanto, da
+ 00:19:28
+
+previsão, neste caso, da previsão de
+ 00:19:32
+
+cerejas. numa planta de café.
+ 00:19:36
+
+Então, o o que esta investigação faz
+ 00:19:40
+
+uma análise dos dos quais são os fatores
+ 00:19:44
+
+de erro,
+ 00:19:46
+
+aplicando um modelo que foi treinado
+ 00:19:48
+
+para contar as cerejas de café e vai
+ 00:19:50
+
+fazê-lo em fotos.
+ 00:19:54
+
+E é interessante aqui que se cruza com a
+ 00:19:57
+
+questão da ciência cidadã, porque esse
+ 00:20:00
+
+estudo é feito com imagens de teste que
+ 00:20:05
+
+são coletadas por agricultores da
+ 00:20:09
+
+Colômbia e do Peru.
+ 00:20:11
+
+Ora, se o objetivo, desculpem
+ 00:20:18
+
+não estou, o que é que nós nos
+ 00:20:22
+
+apercebemos aqui neste quadro? É
+ 00:20:24
+
+evidente que este artigo é muito
+ 00:20:26
+
+complexo e e nós vamos ver vários e,
+ 00:20:27
+
+portanto, e não não podemos perder muito
+ 00:20:30
+
+tempo. Eu vou h situar nestas duas
+ 00:20:31
+
+imagens fundamentalmente. O que nós
+ 00:20:35
+
+vemos aqui como é uma regression line,
+ 00:20:37
+
+isto é, a linha onde as contagens seriam
+ 00:20:41
+
+sempre certas,
+ 00:20:44
+
+sem erro.
+ 00:20:46
+
+A outra, o afastamento relativamente à à
+ 00:20:50
+
+predição é chamado o erro, certo? E é
+ 00:20:55
+
+esse erro que todos os sistemas de
+ 00:20:59
+
+inteligência artificial e de redes
+ 00:21:02
+
+neuronais tentam fazer com que seja
+ 00:21:03
+
+zero, porque ninguém quer, portanto,
+ 00:21:07
+
+respostas de um sistema de inteligência
+ 00:21:10
+
+artificial que sejam erradas, porque as
+ 00:21:12
+
+consequências podem ser piores ainda do
+ 00:21:14
+
+que não utilizar essa inteligência
+ 00:21:18
+
+artificial.
+ 00:21:20
+
+Então, quais são os fatores de erro? É o
+ 00:21:22
+
+que nós temos no lado direito desta
+ 00:21:25
+
+imagem. Os fatores de erro pode ser o
+ 00:21:27
+
+sítio e, digamos, quando se diz aqui
+ 00:21:31
+
+fatores de erro, são quais são as
+ 00:21:33
+
+variáveis que podem influir nesse erro?
+ 00:21:35
+
+É o local onde foram retiradas as
+ 00:21:39
+
+fotografias?
+ 00:21:41
+
+é o o telemóvel e as suas
+ 00:21:43
+
+características,
+ 00:21:46
+
+a próprias as próprias características
+ 00:21:47
+
+da, digamos, da qualidade da fotografia
+ 00:21:50
+
+são as características h do próprio café
+ 00:21:54
+
+do qual estão a ser tiradas as
+ 00:21:59
+
+fotografias ou será que o problema é do
+ 00:22:00
+
+fotógrafo?
+ 00:22:03
+
+E é aí que entra a questão, desculpem,
+ 00:22:06
+
+da inteligência artificial.
+ 00:22:10
+
+e da ciência cidadã. Porque,
+ 00:22:12
+
+evidentemente, aqui e como se verificou
+ 00:22:15
+
+nesta neste estudo todo que se vocês
+ 00:22:20
+
+analisarem e lerem o artigo, percebem
+ 00:22:23
+
+que o desempenho, como está aqui nestas
+ 00:22:25
+
+conclusões que eu coloquei, a influência
+ 00:22:28
+
+do fotógrafo o que mais contribuiu para
+ 00:22:30
+
+o erro. Isto é, portanto, o R quadrado
+ 00:22:32
+
+de que caracteriza, portanto, a
+ 00:22:37
+
+qualidade do modelo e que deve ser um
+ 00:22:40
+
+para ser o, digamos, a maior qualidade
+ 00:22:44
+
+de todas, varia de 0,45 a 0,93,
+ 00:22:46
+
+dependendo de quem tirou as fotografias.
+ 00:22:50
+
+Portanto, eh, o que nós observamos aqui
+ 00:22:53
+
+é que a relação humana com a máquina e
+ 00:22:57
+
+com os modelos é determinante na
+ 00:23:01
+
+qualidade do próprio modelo.
+ 00:23:04
+
+Essas são aqui as conclusões. Então, o
+ 00:23:08
+
+que é que é importante para fazer
+ 00:23:12
+
+diminuir esse fator?
+ 00:23:14
+
+São as sessões de formação de mais ou
+ 00:23:17
+
+menos numa hora.
+ 00:23:20
+
+utilizar o uso, utilizar o WhatsApp
+ 00:23:22
+
+YouTube e o YouTube para estarem em
+ 00:23:25
+
+constante comunicação com os
+ 00:23:27
+
+participantes.
+ 00:23:29
+
+As instruções
+ 00:23:31
+
+quanto às fotografias são colocadas em
+ 00:23:33
+
+protocolos que têm que ser muito claros
+ 00:23:36
+
+e muito compreensíveis.
+ 00:23:39
+
+E, evidentemente os resultados e as
+ 00:23:42
+
+implicações de são especialmente
+ 00:23:45
+
+importantes para países emergentes onde
+ 00:23:47
+
+a produção de café é, portanto, enorme
+ 00:23:50
+
+ou maior do que noutras regiões do
+ 00:23:54
+
+planeta.
+ 00:23:56
+
+Vou abordar agora um segundo exemplo.
+ 00:23:59
+
+Portanto, eu não posso multiplicar os
+ 00:24:02
+
+exemplos à a ao infinito porque poderia,
+ 00:24:03
+
+mas isso implicaria termos um curso
+ 00:24:07
+
+sobre isto e muitas aulas sobre o
+ 00:24:08
+
+assunto. Então,
+ 00:24:11
+
+vamos focar-nos agora numa outra área, a
+ 00:24:13
+
+questão da monitorização das galinhas. E
+ 00:24:17
+
+poderiam perguntar, mas porquê fazer
+ 00:24:21
+
+fazer isto? É evidente que há questões
+ 00:24:24
+
+de monutorização que implicam escala.
+ 00:24:25
+
+Se for as minhas galinhas que eu tenho
+ 00:24:28
+
+aqui no quintal, evidentemente eu não
+ 00:24:30
+
+preciso de uma monitorização automática,
+ 00:24:32
+
+mas se tiver uma escala muito grande,
+ 00:24:34
+
+portanto, na produção e aviária nesta
+ 00:24:37
+
+nesta área, eu tenho que ter meios de
+ 00:24:40
+
+poder fazer essa monitorização e acima
+ 00:24:44
+
+de tudo logo que não seja uma
+ 00:24:47
+
+monitorização invasiva. O que é uma
+ 00:24:48
+
+monitorização invasiva neste caso? é,
+ 00:24:51
+
+portanto, a utilização de de
+ 00:24:54
+
+dispositivos nas próprias galinhas
+ 00:24:58
+
+para nos darem essa informação de que
+ 00:25:02
+
+tipo de galinhas são. No fundo, aquilo
+ 00:25:04
+
+vulgarmente chamado as anilhas. Nem as
+ 00:25:06
+
+galinhas gostam das anilhas, nem a
+ 00:25:09
+
+utilização de anilhas pode ser a forma
+ 00:25:12
+
+mais eficiente e eficaz, portanto, de
+ 00:25:15
+
+lidar com grandes escalas a este nível.
+ 00:25:18
+
+Então, o objetivo desta investigação
+ 00:25:21
+
+foi produzir o primeiro eh dataset, o
+ 00:25:24
+
+primeiro campo de dados, digamos, que
+ 00:25:28
+
+permite identificar as galinhas
+ 00:25:31
+
+individualmente, utilizando inteligência
+ 00:25:33
+
+artificial. E o que eles fazem são
+ 00:25:35
+
+testar diferentes modelos. Mais uma vez,
+ 00:25:37
+
+vamos à questão do tal modelo, certo?
+ 00:25:40
+
+Na metodologia, evidentemente, eh as
+ 00:25:44
+
+imagens tiveram que ser tratadas eh como
+ 00:25:48
+
+nós vamos ver, certo? E mais uma vez
+ 00:25:51
+
+como estão a utilizar eh extratores
+ 00:25:55
+
+características baseadas em
+ 00:25:57
+
+Transformers. E mais uma vez nós estamos
+ 00:25:59
+
+a encontrar aqui uma designação que
+ 00:26:01
+
+certamente para vós é já bastante
+ 00:26:03
+
+familiar, nem que seja voltando ao
+ 00:26:07
+
+portanto ao chat GPT, não é? Portanto,
+ 00:26:09
+
+porque é GPT, como já disse há pouco,
+ 00:26:12
+
+generative pretra transformer
+ 00:26:15
+
+é o que é, portanto, o modelo de chat
+ 00:26:18
+
+GPT. Neste caso, eles aplicam diferentes
+ 00:26:20
+
+transformers. Transformers podem ser
+ 00:26:24
+
+obtidos em na na em plataformas na
+ 00:26:26
+
+internet que têm todo o tipo de
+ 00:26:29
+
+transformers para todo o tipo de
+ 00:26:32
+
+aplicações que nós poderemos ver. É só
+ 00:26:34
+
+uma questão de pesquisarem para
+ 00:26:37
+
+perceberem.
+ 00:26:38
+
+Portanto, há uma coleta de dados. Isto
+ 00:26:41
+
+foi feito na Alemanha em 11 residências
+ 00:26:43
+
+com base em 677 imagens.
+ 00:26:45
+
+Eh, reparem que a resolução das imagens
+ 00:26:49
+
+é de alta qualidade.
+ 00:26:52
+
+Durante um ano foram tiradas fotografias
+ 00:26:55
+
+ao mesmo indivíduo, neste caso à mesma
+ 00:26:59
+
+galinha ou ao mesmo galo. E estes
+ 00:27:01
+
+animais, portanto, estão a ar livre.
+ 00:27:03
+
+Como é que é a metodologia? Mais uma
+ 00:27:08
+
+vez, faz lembrar aqueles meus alunos a
+ 00:27:09
+
+recolha dos dados, o pré-processamento
+ 00:27:12
+
+e a utilização do modelo.
+ 00:27:16
+
+Portanto, as imagens são tiradas às aos
+ 00:27:20
+
+animais, mas depois é este é o tal
+ 00:27:23
+
+pré-processamento, porque há uma
+ 00:27:25
+
+expressão que se aplica muito em
+ 00:27:27
+
+inteligência artificial e não só, que é,
+ 00:27:29
+
+como devem conhecer, garbage in, garbage
+ 00:27:31
+
+out. lixo in lixo out. Não podemos
+ 00:27:34
+
+esperar nunca das respostas dos modelos
+ 00:27:39
+
+a perguntas ou que estão mal feitas ou
+ 00:27:43
+
+com dados que não se aplicam para a
+ 00:27:46
+
+resposta dessas perguntas. Quer dizer
+ 00:27:49
+
+que os dados têm que ser
+ 00:27:50
+
+pré-processados. Neste caso, o
+ 00:27:52
+
+pré-processamento
+ 00:27:55
+
+foi o corte da crista na imagem, na
+ 00:27:56
+
+fotografia, não no animal, como é
+ 00:28:00
+
+evidente, de modo a que só ficasse
+ 00:28:02
+
+através da crista da galinha o elemento
+ 00:28:06
+
+fundamental da fotografia para evitar o
+ 00:28:10
+
+ruído, certo? E depois estes já são a
+ 00:28:12
+
+comparação de diferentes modelos. E aí
+ 00:28:17
+
+vemos que este modelo que é o Vision
+ 00:28:20
+
+Transformer,
+ 00:28:22
+
+certo, é o que consegue 97%
+ 00:28:24
+
+já se aproxima muito eh da dos dos 100%
+ 00:28:28
+
+de certeza na identificação dessas
+ 00:28:33
+
+galinhas.
+ 00:28:36
+
+Portanto, o que nós vemos aqui é que
+ 00:28:40
+
+utilizando este Vision Transformer,
+ 00:28:43
+
+certo? é possível fazer a monitorização
+ 00:28:46
+
+ou monitoramento sem stresse para os
+ 00:28:50
+
+próprios animais e tem uma aplicação
+ 00:28:54
+
+comercial de grande potencial. Portanto,
+ 00:28:57
+
+isto foram dois exemplos.
+ 00:29:01
+
+Eh, nós estamos a chegar a metade,
+ 00:29:03
+
+portanto, eu estou aqui sempre a olhar
+ 00:29:05
+
+para o relógio, eh, a metade da nossa
+ 00:29:06
+
+apresentação,
+ 00:29:09
+
+porque eu peço desculpa se estou a andar
+ 00:29:11
+
+depressa demais, mas eh mais uma vez o
+ 00:29:13
+
+universo daquilo que temos que tratar é
+ 00:29:17
+
+bastante vasto e
+ 00:29:19
+
+não há outra maneira de o fazer neste
+ 00:29:23
+
+período de tempo. Então o que nós vamos
+ 00:29:25
+
+agora a entrar é na outra parte,
+ 00:29:28
+
+portanto nesta no outro lado da moeda
+ 00:29:32
+
+que é a da participação das pessoas na
+ 00:29:36
+
+produção da ciência, como vimos aqui no
+ 00:29:39
+
+exemplo com o café, que é aquilo que nós
+ 00:29:43
+
+designamos por ciência cidadã.
+ 00:29:47
+
+Mais mais uma vez e dependendo do
+ 00:29:50
+
+digamos da familiaridade que as pessoas
+ 00:29:53
+
+que nos estão a ouvir têm com este
+ 00:29:56
+
+conceito, eu eh vou ter que usar pelo
+ 00:29:58
+
+menos um pouquinho de tempo a tentar
+ 00:30:02
+
+mostrar que, como tudo na vida, as
+ 00:30:04
+
+coisas são mais complexas do que à
+ 00:30:07
+
+primeira vista aparecem. E há muitas
+ 00:30:08
+
+ciências cidadãs, há muitas formas de
+ 00:30:11
+
+fazer ciência cidadã e há muitos modelos
+ 00:30:14
+
+de ciência cidadã. E saber um pouco
+ 00:30:17
+
+sobre eles não é só uma questão de
+ 00:30:21
+
+curiosidade, é uma questão de política.
+ 00:30:23
+
+Porque como nós vamos perceber, eh, as
+ 00:30:27
+
+opções que nós temos quando envolvemos
+ 00:30:30
+
+os cidadãos na ciência refletem opções
+ 00:30:35
+
+de natureza política e tem muito a ver,
+ 00:30:39
+
+portanto, com as ciências sociais.
+ 00:30:42
+
+E de onde eu vou ter que muito
+ 00:30:45
+
+rapidamente, espero que em 5 minutos
+ 00:30:48
+
+estou a olhar para de novo para o
+ 00:30:50
+
+relógio, conseguir dar dar-vos uma
+ 00:30:52
+
+panorâmica
+ 00:30:55
+
+das várias formas das das formas,
+ 00:30:57
+
+digamos, sobre as quais existe uma um
+ 00:31:00
+
+consenso da comunidade científica sobre
+ 00:31:03
+
+o que é que nós estamos a falar quando
+ 00:31:06
+
+falamos de ciência cidadã.
+ 00:31:09
+
+Então, a ciência cidadã vai vai- se
+ 00:31:12
+
+definir em função daquilo que é a
+ 00:31:16
+
+ciência. E a ciência é aquilo que nós
+ 00:31:19
+
+vemos aqui nesta seta, tem
+ 00:31:21
+
+fundamentalmente estes quatro, estas
+ 00:31:23
+
+quatro etapas, estas quatro fases ou que
+ 00:31:26
+
+podem ser e interativas, digamos.
+ 00:31:29
+
+Um é a definição do problema. Porque é
+ 00:31:33
+
+que nós vamos investigar determinada
+ 00:31:35
+
+coisa? H, o o que é que nós pretendemos?
+ 00:31:36
+
+Qual é o propósito da investigação? Qual
+ 00:31:39
+
+é o problema que queremos, para o qual
+ 00:31:42
+
+queremos dar uma resposta? E depois para
+ 00:31:44
+
+essa resposta vamos precisar de dados
+ 00:31:46
+
+dos mais variados e de todos os tipos.
+ 00:31:49
+
+Depois temos a análise desses dados,
+ 00:31:53
+
+quando esses dados são submetidos,
+ 00:31:57
+
+portanto, a um a um processo
+ 00:31:59
+
+metodológico de interrogação que depende
+ 00:32:01
+
+da metodologia que nós aplicamos. E
+ 00:32:04
+
+depois, evidentemente, não há ciência
+ 00:32:06
+
+fora da comunicação da ciência, não há
+ 00:32:10
+
+ciência sem que tenha sido publicada,
+ 00:32:12
+
+publicada na nas revistas científicas,
+ 00:32:16
+
+eh, obtido o consenso da comunidade
+ 00:32:19
+
+científica para que se possa finalmente
+ 00:32:22
+
+dizer que isto que nós estamos a dizer é
+ 00:32:24
+
+cientificamente, portanto, eh, provado
+ 00:32:26
+
+ou demonstrado. Então, porque é que eu
+ 00:32:30
+
+coloquei assim esta seta?
+ 00:32:32
+
+Porque quando nós olhamos para a ciência
+ 00:32:36
+
+cidadã, uma das formas e digamos a
+ 00:32:38
+
+representação social
+ 00:32:41
+
+logo surge a ideia dos cidadãos como
+ 00:32:43
+
+sensores. Isto é, no caso dos
+ 00:32:47
+
+agricultores, por exemplo, aquele
+ 00:32:51
+
+projeto que que nós vimos há pouco,
+ 00:32:53
+
+é um projeto de ciência cidadã nesta e
+ 00:32:57
+
+nesta ideia dos cidadãos como sensores,
+ 00:33:00
+
+isto é, os cidadãos estavam ali para
+ 00:33:04
+
+tirar as fotografias,
+ 00:33:06
+
+basicamente.
+ 00:33:08
+
+Claro que
+ 00:33:10
+
+serão objeto depois de do do
+ 00:33:11
+
+conhecimento e poderão usar o
+ 00:33:15
+
+conhecimento que se realizou com isso,
+ 00:33:16
+
+mas eles estão eh excluídos da definição
+ 00:33:20
+
+do problema da da forma da metodologia,
+ 00:33:24
+
+da sua análise e muito menos da
+ 00:33:30
+
+publicação, porque esses cidadãos não
+ 00:33:32
+
+estão lá a assinar o artigo científico,
+ 00:33:35
+
+certo?
+ 00:33:38
+
+Portanto, a ciência cidadã, tal qual ela
+ 00:33:39
+
+é entendida pela maior parte das
+ 00:33:42
+
+pessoas, é uma ciência na qual os
+ 00:33:44
+
+cidadãos se limitam, portanto, a
+ 00:33:46
+
+recolher os dados. São, portanto,
+ 00:33:49
+
+sensores. Mas essa não é a única forma.
+ 00:33:52
+
+E aqui temos vários exemplos e de
+ 00:33:55
+
+projetos. Eu não vou fazer clique e sair
+ 00:33:58
+
+daqui porque senão nunca mais daqui
+ 00:34:00
+
+saíamos. Mas são exemplos de de projetos
+ 00:34:01
+
+que t muito a ver com eh projetos sobre
+ 00:34:05
+
+a biodiversidade, com com a a deteção de
+ 00:34:08
+
+do crescimento das plantas invasivas, eh
+ 00:34:12
+
+a deteção de determinadas espécies, da
+ 00:34:15
+
+forma como essas espécies h
+ 00:34:17
+
+se desenvolvem no espaço e no tempo e
+ 00:34:20
+
+vão recolhendo, portanto, esses dados e
+ 00:34:24
+
+alimentando bases de dados. E essas
+ 00:34:26
+
+bases de dados são depois utilizadas
+ 00:34:28
+
+pelos cientistas para produzirem o
+ 00:34:30
+
+conhecimento ou responderem às ao ao
+ 00:34:32
+
+problema que eles próprios definiram e
+ 00:34:35
+
+depois publicarem.
+ 00:34:38
+
+Mas esta não é a única forma de fazer
+ 00:34:41
+
+ciência cidadã e é isso que que eu
+ 00:34:43
+
+gostava que aqui ficasse claro, certo?
+ 00:34:45
+
+um dos um dos h uma das plataformas que
+ 00:34:48
+
+devem visitar para ver projetos deste
+ 00:34:52
+
+género é azul Universe porque têm eh
+ 00:34:55
+
+mesmo um uma dimensão eh que que eu
+ 00:35:00
+
+diria das maiores no mundo. Portanto,
+ 00:35:03
+
+aconselho-vos a visitar isso. Mais outro
+ 00:35:06
+
+exemplo de para o mapeamento de
+ 00:35:10
+
+espécies, como vem
+ 00:35:13
+
+a ideia é sempre da classificação e a
+ 00:35:15
+
+ideia, portanto, aqui temos 8000 e tal
+ 00:35:17
+
+voluntários. Essas fotos são partilhadas
+ 00:35:20
+
+e permitem, mais uma vez, surge aqui a
+ 00:35:23
+
+ideia da predição, que é no fundo e
+ 00:35:26
+
+aquilo que a ciência representa. Eh,
+ 00:35:29
+
+mas como estava a dizer, não são só,
+ 00:35:34
+
+portanto, e esta forma de cidadãos como
+ 00:35:37
+
+sensores que esgota o conceito de
+ 00:35:40
+
+ciência cidadã. Há um outro, por
+ 00:35:43
+
+exemplo, de inteligência distribuída
+ 00:35:45
+
+que já devem ter ouvido falar, é muito
+ 00:35:47
+
+baseada na utilização do dos dos
+ 00:35:50
+
+computadores de várias pessoas, ou h
+ 00:35:54
+
+analisar imagens, por exemplo, do
+ 00:35:59
+
+espaço. As pessoas recebem os
+ 00:36:01
+
+computadores, a nos seus computadores
+ 00:36:03
+
+recebem as imagens e vão analisar as
+ 00:36:05
+
+fotografias. Isto é um exemplo. Analisar
+ 00:36:08
+
+as as as fotografias eh espaciais para
+ 00:36:10
+
+detectar eh determinados objetos
+ 00:36:14
+
+espaciais, que podem ser cometas e ou
+ 00:36:17
+
+galáxias ou podem estar a analisar a a
+ 00:36:21
+
+analisar estruturas de moléculas e
+ 00:36:24
+
+coisas desta natureza. Chama-se isso
+ 00:36:27
+
+então uma inteligência distribuída. E
+ 00:36:30
+
+neste caso, a a ciência cidadã é uma
+ 00:36:32
+
+ciência que está centrada na análise,
+ 00:36:34
+
+não é? Não são os cidadãos que fazem a a
+ 00:36:36
+
+recolha dessas fotografias, eles fazem
+ 00:36:39
+
+acima de tudo a, portanto, análise
+ 00:36:41
+
+dessas fotografias. Temos, a própria
+ 00:36:44
+
+Wikipédia é um exemplo dessa
+ 00:36:47
+
+inteligência distribuída ou um projeto
+ 00:36:48
+
+como o Set Live, não é, de de de
+ 00:36:51
+
+investigação de vida noutro noutros
+ 00:36:53
+
+planetas, pode existir, mas entramos
+ 00:36:57
+
+numa outra forma de ciência cidadã, que
+ 00:36:59
+
+é a ciência cidadã participada.
+ 00:37:02
+
+E esta aquilo que nós chamamos a
+ 00:37:05
+
+participatory
+ 00:37:07
+
+science e que podemos traduzir um pouco
+ 00:37:08
+
+uma investigação de base comunitária. E
+ 00:37:12
+
+como nós vemos aqui a característica que
+ 00:37:14
+
+distingue esta ciência cidadã,
+ 00:37:17
+
+chamemos-lhe ciência participada, é o
+ 00:37:21
+
+facto de os cidadãos definirem o
+ 00:37:24
+
+problema ou participarem na definição do
+ 00:37:27
+
+problema. Essa definição do problema
+ 00:37:30
+
+terá a maior parte das vezes a ver com
+ 00:37:32
+
+problemas que são sentidos nas
+ 00:37:35
+
+comunidades, problemas que podem ter a
+ 00:37:37
+
+ver com os incêndios, que podem ter a
+ 00:37:39
+
+ver com a distribuição da água, que
+ 00:37:41
+
+podem ter a ver com a qualidade do rio
+ 00:37:43
+
+que que que que circula num conjunto de
+ 00:37:46
+
+aldeias ou num conjunto de comunidades.
+ 00:37:48
+
+Portanto, é evidente que aqui a escala,
+ 00:37:51
+
+portanto, da da da Citizen Science já
+ 00:37:54
+
+será muito menor. não se não se não se
+ 00:37:56
+
+trate de da ciência cidadã que está a
+ 00:37:59
+
+observar pássaros que circulam, por
+ 00:38:01
+
+exemplo, pelo pelo planeta, que migram e
+ 00:38:04
+
+circulam pelo planeta e dar respostas a
+ 00:38:06
+
+esse tipo de perguntas, mas de coisas
+ 00:38:09
+
+que têm acima de tudo a ver com as
+ 00:38:12
+
+necessidades das pessoas e daquilo que
+ 00:38:14
+
+as pessoas sentem como importante saber
+ 00:38:16
+
+e que o conhecimento responda a isso e
+ 00:38:21
+
+que seja também um conhecimento,
+ 00:38:24
+
+digamos, como se costuma dizer,
+ 00:38:26
+
+localmente criado, localmente
+ 00:38:28
+
+constituído e que tenha em conta o
+ 00:38:30
+
+conhecimento que determinadas
+ 00:38:33
+
+comunidades têm da vida, da natureza e
+ 00:38:35
+
+da sociedade.
+ 00:38:39
+
+Mas não fiquemos por aqui, é que existe
+ 00:38:41
+
+ainda mais uma outra forma de ciência
+ 00:38:42
+
+cidadã. Este, estes são exemplos na Nova
+ 00:38:47
+
+Zelândia desta ciência participada que é
+ 00:38:50
+
+muito apoiada pelo governo neozelandês.
+ 00:38:53
+
+Aconselhava-vos,
+ 00:38:57
+
+quem esteja interessado nessas coisas, a
+ 00:38:59
+
+fazer uma uma procura, portanto, destes
+ 00:39:02
+
+programas na Nova Zelândia,
+ 00:39:05
+
+é chamada, aliás, a PSP, que é
+ 00:39:08
+
+participatory Science Platform. Isto são
+ 00:39:11
+
+projetos 2023, portanto estamos a falar
+ 00:39:14
+
+de de coisas relativamente recentes.
+ 00:39:17
+
+Mas então temos esta este esta última
+ 00:39:22
+
+forma que é a ciência cí extrema. Podem
+ 00:39:25
+
+pensar que é que é uma designação
+ 00:39:30
+
+exótica, não é uma designação exótica.
+ 00:39:31
+
+Ela é conhecida pela comunidade
+ 00:39:34
+
+científica. Estamos a falar de extreme
+ 00:39:36
+
+citizen science. Este extreme citizen s
+ 00:39:39
+
+significa que os cidadãos são envolvidos
+ 00:39:43
+
+em todas as fases, desde a definição do
+ 00:39:46
+
+problema até à sua publicação e à sua
+ 00:39:49
+
+comunicação. Em alguns casos chegam a
+ 00:39:51
+
+assinar os artigos científicos, mas há
+ 00:39:54
+
+muitas formas de participar na
+ 00:39:57
+
+comunicação, como sabem, podem podem
+ 00:39:58
+
+pode ser participação em eventos de
+ 00:40:01
+
+comunicação de ciência e e toda e toda a
+ 00:40:02
+
+gama, digamos, que existe ou redes
+ 00:40:06
+
+sociais ou plataformas, etc., de difusão
+ 00:40:08
+
+do conhecimento, portanto, em que estes
+ 00:40:12
+
+estes estes, digamos, cidadãos são
+ 00:40:14
+
+envolvidos desde, portanto, a definição
+ 00:40:17
+
+à recolha, à análise e à sua publicação.
+ 00:40:21
+
+para vermos, portanto, se tiverem
+ 00:40:25
+
+curiosidade em ver exemplos, portanto,
+ 00:40:28
+
+deste Extreme Citizen Science, a,
+ 00:40:30
+
+portanto, aconselhava-vos a visitarem a
+ 00:40:33
+
+UCL, University College London, que é,
+ 00:40:35
+
+como sabem, uma universidade e muito
+ 00:40:38
+
+conceituada em termos mundiais e que
+ 00:40:41
+
+tem, portanto, todo um departamento e e
+ 00:40:43
+
+plataformas só para, portanto, dinamizar
+ 00:40:47
+
+projetos de Extreme Cities and Science e
+ 00:40:51
+
+difundir esses projetos.
+ 00:40:53
+
+Portanto, espero que este é são exemplos
+ 00:40:57
+
+lá da da da plataforma
+ 00:41:00
+
+e este é o blog da plataforma eh que eu
+ 00:41:03
+
+por acaso guardei por dizer alguma coisa
+ 00:41:06
+
+a ver com com o Brasil. Portanto, e
+ 00:41:08
+
+trata-se deste fenómeno climate change
+ 00:41:12
+
+do Agility Tribes numa
+ 00:41:14
+
+num encontro que foi feito pela pela
+ 00:41:17
+
+sociedade brasileira para o progresso da
+ 00:41:20
+
+ciência.
+ 00:41:22
+
+Muito bem. E isto já foi em 2014.
+ 00:41:24
+
+Portanto, é é para vermos que estas
+ 00:41:26
+
+formas de de ciência cidadã, portanto, a
+ 00:41:30
+
+decisão sobre envolver os cidadãos, a
+ 00:41:33
+
+extensão da qual eh envolvemos é
+ 00:41:35
+
+naturalmente uma decisão de natureza
+ 00:41:39
+
+política e representa, portanto, um um
+ 00:41:40
+
+determinado posicionamento face a,
+ 00:41:43
+
+digamos, ao respeito,
+ 00:41:46
+
+se de outra coisa não fosse,
+ 00:41:49
+
+pelo menos isso, de e não ver os
+ 00:41:51
+
+cidadãos na ciência cidadã simplesmente
+ 00:41:55
+
+como coletores de dados para projetos de
+ 00:41:57
+
+ciência que são definidos só pelos
+ 00:42:01
+
+cientistas.
+ 00:42:03
+
+Muito bem,
+ 00:42:05
+
+aproximamos-nos um pouco do fim. Eh,
+ 00:42:07
+
+portanto, eu tenho mais de 10 a 15
+ 00:42:09
+
+minutos.
+ 00:42:12
+
+Ora, seria importante nós termos uma
+ 00:42:13
+
+visão crítica daquilo que estamos a
+ 00:42:18
+
+falar,
+ 00:42:19
+
+porque ah
+ 00:42:21
+
+embora nós eh queiramos e seja algo que
+ 00:42:24
+
+esperamos e seja algo que que é
+ 00:42:27
+
+necessário, eh porque não vamos resolver
+ 00:42:29
+
+os tais problemas que eu situei no no
+ 00:42:31
+
+primeiro slide, sem portanto envolver os
+ 00:42:34
+
+cidadãos na recolha dos dados, na
+ 00:42:38
+
+análise dos seus problemas.
+ 00:42:41
+
+na nas propostas de research questions,
+ 00:42:43
+
+nas propostas de perguntas de
+ 00:42:48
+
+investigação, na difusão do
+ 00:42:49
+
+conhecimento, se não nunca conseguiremos
+ 00:42:51
+
+ter a escala eh de dados, portanto,
+ 00:42:54
+
+necessária à aplicação da própria
+ 00:42:58
+
+inteligência artificial na agricultura,
+ 00:43:01
+
+como nós, aliás vimos pelos dois
+ 00:43:03
+
+exemplos de investigação que eu
+ 00:43:05
+
+apresentei na primeira parte. Agora, uma
+ 00:43:08
+
+coisa é isso ser eh necessário, outra
+ 00:43:11
+
+coisa é
+ 00:43:15
+
+não deixa de ter as suas dificuldades e
+ 00:43:18
+
+as suas barreiras.
+ 00:43:20
+
+E como como estão a ver por este por
+ 00:43:23
+
+este slide, as as barreiras aqui são
+ 00:43:26
+
+barreiras, digamos, de natureza
+ 00:43:28
+
+metodológica, mas também de natureza
+ 00:43:30
+
+tecnológica e de natureza participativa.
+ 00:43:33
+
+Comecemos pelas de natureza
+ 00:43:37
+
+metodológica.
+ 00:43:38
+
+Tal nós vemos naquele artigo eh que eu
+ 00:43:40
+
+que eu apresentei de início, as questões
+ 00:43:43
+
+da validação são fundamentais, da
+ 00:43:46
+
+validação dos dados. Aquelas fotografias
+ 00:43:48
+
+daquelas galinhas, aquelas fotografias
+ 00:43:51
+
+daquelas cerejas do café têm que ser
+ 00:43:53
+
+validados. Tem eh ou então a precisão
+ 00:43:56
+
+dos dados será bastante baixa.
+ 00:43:59
+
+E lá se aplica de novo aquela ideia de
+ 00:44:03
+
+que se estamos a entrar dados errados os
+ 00:44:06
+
+resultados ou ou inadequados, os
+ 00:44:09
+
+resultados que que vamos ter são no
+ 00:44:11
+
+mínimo inadequados também.
+ 00:44:14
+
+Para resolver isso, uma das formas é a
+ 00:44:17
+
+necessidade de protocolos de recolha dos
+ 00:44:21
+
+dados totalmente padronizados, que é o
+ 00:44:23
+
+caso, portanto, da
+ 00:44:27
+
+naquele artigo, se lerem o artigo,
+ 00:44:30
+
+perceberão eh qual é que é o protocolo
+ 00:44:32
+
+que é utilizado para o registro das
+ 00:44:35
+
+fotografias. Portanto, e e as regras que
+ 00:44:37
+
+é necessário seguir para que as
+ 00:44:40
+
+fotografias venham dentro desses
+ 00:44:41
+
+determinados padrões. Portanto, estes
+ 00:44:44
+
+protocolos são fundamentais e como se
+ 00:44:45
+
+viu também a questão da formação das
+ 00:44:48
+
+pessoas e o e essa é mais uma forma de
+ 00:44:51
+
+comunicação
+ 00:44:54
+
+entre o laboratório e o campo que tem
+ 00:44:56
+
+que ser contínua e que e que pode
+ 00:44:58
+
+utilizar eh exatamente o que nós estamos
+ 00:45:01
+
+a utilizar agora, o o YouTube, as
+ 00:45:04
+
+plataformas de comunicação ou o
+ 00:45:07
+
+WhatsApp, mas sem essa sem essa e
+ 00:45:09
+
+comunicação entre os cientistas entre o
+ 00:45:12
+
+laboratório e os cidadãos que estão,
+ 00:45:15
+
+portanto, a participar das mais diversas
+ 00:45:17
+
+formas em dos mais diversos modelos,
+ 00:45:20
+
+portanto, de ciência cidadã, não é
+ 00:45:23
+
+possível garantir a qualidade da ciência
+ 00:45:26
+
+e para fazer ciência que não tem
+ 00:45:29
+
+qualidade, mais vale não a fazer. Outras
+ 00:45:31
+
+das barreiras são as barreiras à
+ 00:45:34
+
+participação.
+ 00:45:36
+
+Certamente muitos dos dos que aqui estão
+ 00:45:38
+
+sentiram isso na sua relação com os
+ 00:45:40
+
+cidadãos, neste caso com os
+ 00:45:44
+
+agricultores. Um dos grandes problemas,
+ 00:45:45
+
+para já, é conseguir motivar pessoas a
+ 00:45:48
+
+participar em projetos de a agricultura
+ 00:45:51
+
+e e de ciência cidadã, sobretudo se essa
+ 00:45:55
+
+motivação não passar por responder às
+ 00:45:59
+
+necessidades que as pessoas têm
+ 00:46:03
+
+concretas nas suas próprias comunidades.
+ 00:46:06
+
+É muito, é muito mais difícil que alguém
+ 00:46:09
+
+vá ser voluntário no projeto de ciência
+ 00:46:12
+
+cidadã. na agricultura, se não vai
+ 00:46:16
+
+perceber de maneira nenhuma como é que
+ 00:46:19
+
+esse projeto vai ajudar essa pessoa ou
+ 00:46:22
+
+essa comunidade a resolver os os seus
+ 00:46:25
+
+problemas ou que os resultados dessa
+ 00:46:27
+
+dessa ciência, portanto, e essa
+ 00:46:30
+
+comunicação nunca vai ter em conta o seu
+ 00:46:32
+
+próprio trabalho. Só um nível de
+ 00:46:35
+
+curiosidade científica, digamos, é que
+ 00:46:38
+
+poderá justificar essa participação. Aí
+ 00:46:41
+
+a grande dificuldade isto, est, estas
+ 00:46:45
+
+conclusões que eu estou a apresentar
+ 00:46:48
+
+aqui são de um de um de um artigo que
+ 00:46:49
+
+fez uma análise nos últimos 20 anos de
+ 00:46:52
+
+de projetos de ciência cidadã na
+ 00:46:56
+
+agricultura e que elencou, portanto,
+ 00:46:59
+
+estas estas h
+ 00:47:03
+
+dificuldades.
+ 00:47:06
+
+Ops, sorry. Outra dificuldade,
+ 00:47:08
+
+evidentemente,
+ 00:47:10
+
+eh, são as barreiras tecnológicas,
+ 00:47:11
+
+certo? A, a começar pela questão da
+ 00:47:15
+
+internet e do acesso à internet e depois
+ 00:47:18
+
+o próprio conhecimento que esse que
+ 00:47:22
+
+essas comunidades têm, que esses
+ 00:47:23
+
+cidadãos têm
+ 00:47:25
+
+da utilização desses dispositivos
+ 00:47:28
+
+tecnológicos
+ 00:47:30
+
+aos quais eles têm um acesso bastante
+ 00:47:32
+
+limitado, para já não falar nos custos
+ 00:47:34
+
+que esses equipamentos têm. Estas,
+ 00:47:36
+
+digamos que são na ao nível das
+ 00:47:38
+
+barreiras tecnológicas, aquelas que
+ 00:47:40
+
+foram mais que são concluídas de uma
+ 00:47:43
+
+metaanálise de todos esses de todos
+ 00:47:46
+
+esses estudos. Mas para não ficarmos
+ 00:47:50
+
+assim com com uma com uma ideia de que
+ 00:47:52
+
+não é possível ou que não existem eh
+ 00:47:55
+
+soluções e práticas eh bem-sucedidas,
+ 00:47:58
+
+agora eu vou ter que passar isto muito
+ 00:48:02
+
+muito rapidamente, estamos mesmo a a
+ 00:48:03
+
+aproximar do fim. Mas existem projetos
+ 00:48:06
+
+que dão respostas, portanto, a a estas
+ 00:48:08
+
+barreiras, sejam elas metodológicas,
+ 00:48:12
+
+sejam elas de participação, sejam elas
+ 00:48:15
+
+tecnológicas. e e nós temos, portanto,
+ 00:48:17
+
+não só a necessidade, como a obrigação
+ 00:48:21
+
+de conhecer eh essa esse, digamos, esses
+ 00:48:24
+
+projetos e essas soluções e e nos
+ 00:48:27
+
+familiarizarmos e e percebermos que este
+ 00:48:30
+
+é um caminho que não só é necessário,
+ 00:48:33
+
+mas que tem que ser percorrido e tem que
+ 00:48:35
+
+ser percorrido com qualidade científica.
+ 00:48:37
+
+No caso, por exemplo, da, como nós vimos
+ 00:48:40
+
+mais uma vez, eh, a referência,
+ 00:48:42
+
+portanto, ao tal artigo que vimos
+ 00:48:45
+
+inicialmente, a questão das fotografias
+ 00:48:47
+
+é fundamental a a a validação, por
+ 00:48:50
+
+muitos de do do trabalho que é feito é
+ 00:48:53
+
+deixado aos modelos que fazem a análise
+ 00:48:56
+
+das fotografias. as fotografias estão
+ 00:48:58
+
+geolocalizadas
+ 00:49:01
+
+e e é e é na base desta deste deste
+ 00:49:03
+
+cruzamento que se consegue produzir
+ 00:49:06
+
+ciência e responder a perguntas, que
+ 00:49:09
+
+essas fotografias sabes o que são e de
+ 00:49:12
+
+onde são e é possível mapear as coisas,
+ 00:49:14
+
+certo? Então, projetos como o Bugmap,
+ 00:49:18
+
+eh, que faz parte dos links que serão,
+ 00:49:21
+
+eh, partilhados,
+ 00:49:24
+
+eh, tem o artigo científico e, e, e
+ 00:49:26
+
+também o, o site, onde estas
+ 00:49:29
+
+estas questões foram tratadas, estas
+ 00:49:34
+
+ideias, esta ideia de validação.
+ 00:49:35
+
+Outra questão é a questão das
+ 00:49:38
+
+metodologias,
+ 00:49:40
+
+eh, de das metodologias de dados, a
+ 00:49:42
+
+forma como nós apresentamos os dados ou
+ 00:49:45
+
+recolhemos os dados que não são em
+ 00:49:48
+
+fotografia. Então temos este projeto,
+ 00:49:50
+
+este protocolo tricote, que é triad
+ 00:49:54
+
+comparis of technologies, eh tem sido
+ 00:49:57
+
+utilizado
+ 00:50:00
+
+com bastante sucesso nas na como vo está
+ 00:50:01
+
+aqui na em países em desenvolvimento ou
+ 00:50:04
+
+ou na Índia, em Honduras, na Etiópia,
+ 00:50:08
+
+com milhares de agricultores.
+ 00:50:11
+
+A o bugmaps tem a ver com com o
+ 00:50:16
+
+mapeamento da distribuição
+ 00:50:19
+
+de insetos nocivos à agricultura e e o e
+ 00:50:21
+
+o tricô, como mais uma vez vemos, esta
+ 00:50:25
+
+relação entre os investigadores, quem
+ 00:50:28
+
+implementa, os facilitadores locais e os
+ 00:50:31
+
+agricultores. E esta relação e esta,
+ 00:50:34
+
+digamos, distribuição de
+ 00:50:37
+
+responsabilidades é fundamental, porque
+ 00:50:40
+
+a ligação só entre e investigadores
+ 00:50:42
+
+propriamente ditos, entre o laboratório
+ 00:50:46
+
+e o campo tem intermediações,
+ 00:50:48
+
+tem a a necessidade, portanto, de
+ 00:50:52
+
+facilitadores ao nível local que vão
+ 00:50:55
+
+ajudar depois na na formação das pessoas
+ 00:50:57
+
+que participam nestes projetos e e sem
+ 00:51:01
+
+sem o qual eh o sucesso está muito
+ 00:51:04
+
+comprometido, assim como aqueles que vão
+ 00:51:07
+
+implementar no local os os protocolos e
+ 00:51:10
+
+eh digamos os próprios processos
+ 00:51:14
+
+científicos.
+ 00:51:17
+
+Eh, portanto, também eh se tiverem
+ 00:51:19
+
+interesse nisto mais uma vez, portanto,
+ 00:51:23
+
+eh está nos links e partilhados.
+ 00:51:26
+
+Depois o problema da participação,
+ 00:51:29
+
+o problema da participação,
+ 00:51:32
+
+eh, como nós vimos, tem acima de tudo a
+ 00:51:35
+
+ver não só com questões de difusão, que
+ 00:51:38
+
+são muito que e é muito importante aqui
+ 00:51:41
+
+multiplicar os canais, portanto, nos
+ 00:51:43
+
+quais se fazem essa recolha, porque a
+ 00:51:46
+
+maior parte das vezes esses canais estão
+ 00:51:48
+
+simplesmente em plataformas na internet,
+ 00:51:51
+
+são plataformas de ciência e cidadã onde
+ 00:51:53
+
+as pessoas podem ir para participar em
+ 00:51:56
+
+projeto de ciência cidadã, mas eh eh
+ 00:51:59
+
+para aquelas que não frequentam essas
+ 00:52:02
+
+plataformas, nem sequer sabem eh mesmo
+ 00:52:05
+
+querendo participar, nem sequer sabem
+ 00:52:08
+
+como participar, nem que projetos
+ 00:52:11
+
+existem para participar. Portanto, tem
+ 00:52:13
+
+que existir uma proactividade muito
+ 00:52:14
+
+forte, utilizando todos os meios para
+ 00:52:17
+
+tentar recrutar, portanto, esses
+ 00:52:19
+
+voluntários
+ 00:52:21
+
+aí através de organizações, neste caso
+ 00:52:24
+
+de jardinagem, como como de outros. Mas
+ 00:52:27
+
+este isto é relativamente a este projeto
+ 00:52:29
+
+que é o Soy in 1000 Gardens, que que foi
+ 00:52:31
+
+que é que é um projeto que de alguma
+ 00:52:36
+
+forma teve muito sucesso eh na
+ 00:52:37
+
+mobilização destes participantes
+ 00:52:40
+
+iniciais. foi realizado na Bélgica e eh
+ 00:52:42
+
+tem estes incentivos práticos, por
+ 00:52:47
+
+exemplo, que é um aspecto importante, de
+ 00:52:50
+
+de com motivação
+ 00:52:54
+
+para os agricultores que participavam,
+ 00:52:57
+
+neste caso, para eh os jardins, ou
+ 00:52:59
+
+também mais uma vez a questão da
+ 00:53:02
+
+componente educativa, portanto, e e a da
+ 00:53:05
+
+formação e a educação e a defusão de
+ 00:53:07
+
+conhecimento sobre os temas que estão a
+ 00:53:10
+
+ser tratados e não limitar, portanto,
+ 00:53:11
+
+simplesmente à recolha dos dados.
+ 00:53:14
+
+Ha,
+ 00:53:19
+
+este é o então mais um desses exemplos
+ 00:53:21
+
+que também está no link.
+ 00:53:25
+
+Quanto às estratégias de participação,
+ 00:53:28
+
+mais uma vez temos estes projetos como
+ 00:53:30
+
+os do Garden Root que estão ligados à
+ 00:53:32
+
+abordagem dos tais problemas específicos
+ 00:53:35
+
+que possam ser sentidos pelas pessoas. a
+ 00:53:38
+
+questão de se pensar quais são os
+ 00:53:40
+
+benefícios diretos que são feitos aos
+ 00:53:43
+
+agricultores que queiram participar,
+ 00:53:44
+
+portanto, nesses projetos e mais uma vez
+ 00:53:46
+
+e digamos educação, eh, formação e e
+ 00:53:50
+
+neste caso foi sobre a gestão, portanto,
+ 00:53:53
+
+destes dispositivos.
+ 00:53:58
+
+Mais um desses projetos, o Garden Root.
+ 00:54:01
+
+E depois para terminarmos para responder
+ 00:54:07
+
+a questões de adaptações tecnológicas,
+ 00:54:10
+
+a utilização, portanto, de sistemas da
+ 00:54:13
+
+SMS, que sabem que que é o short message
+ 00:54:16
+
+eh para comunicar com com os
+ 00:54:20
+
+agricultores com telemóveis eh que que
+ 00:54:23
+
+funcionam de uma forma muito básica e
+ 00:54:26
+
+que conseguem funcionar em áreas de má
+ 00:54:28
+
+eh conectividade. Portanto, eu
+ 00:54:30
+
+selecionei dois projetos, um de combate
+ 00:54:32
+
+às doenças da banana
+ 00:54:35
+
+e este sistema na China para gestão de
+ 00:54:38
+
+pragas e que nós vamos encontrar,
+ 00:54:40
+
+portanto, também o este é um exemplo
+ 00:54:43
+
+típico desse eh género de short
+ 00:54:45
+
+messages.
+ 00:54:49
+
+E pronto, eu não se era
+ 00:54:51
+
+55 H, já agora e muito rapidamente
+ 00:54:54
+
+afinal o que é que está a ser feito em
+ 00:54:59
+
+termos da da
+ 00:55:01
+
+inteligência artificial no domínio
+ 00:55:05
+
+agrícola, mas ao nível da da
+ 00:55:07
+
+investigação e para e para terminarmos
+ 00:55:09
+
+a a partir de um estudo eh de
+ 00:55:12
+
+metaanálise que que faz uma análise de
+ 00:55:14
+
+desses projetos desde 2000 a 2021,
+ 00:55:18
+
+portanto, eh abrangendo as últimas duas
+ 00:55:22
+
+décadas, as conclusões eh eh como como
+ 00:55:24
+
+vem são eh as várias categorias. temos
+ 00:55:28
+
+machine learning enquanto um tema eh
+ 00:55:33
+
+fundamental, sempre presente, como
+ 00:55:36
+
+aqueles projetos que nós vimos, como
+ 00:55:38
+
+aqueles exemplos que eu mostrei do
+ 00:55:41
+
+daqueles miúdos e do próprio conceitos
+ 00:55:43
+
+que trabalhamos, machine learning, o
+ 00:55:45
+
+ensinar a máquina a, não é a máquina
+ 00:55:48
+
+ensinarnos a, é a o treinamento da
+ 00:55:52
+
+máquina e que é sempre a representação,
+ 00:55:55
+
+no fundo, eh, da da relação mais
+ 00:55:58
+
+saudável que deve existir entre o ser
+ 00:56:01
+
+humano e e as máquinas, certo? E a
+ 00:56:03
+
+precisão. Isto são, isto é uma análise a
+ 00:56:06
+
+partir dos termos das palavraschave mais
+ 00:56:09
+
+usadas nos, eh, nos vários artigos
+ 00:56:11
+
+científicos, que são mais de 400 artigos
+ 00:56:13
+
+científicos analisados aqui, em que a
+ 00:56:15
+
+ideia da agricultura de precisão, a
+ 00:56:18
+
+gestão, o smart farming e os sensores,
+ 00:56:20
+
+portanto, são os temas emergentes.
+ 00:56:23
+
+Agora, quem é que faz, portanto,
+ 00:56:26
+
+passando um pouco por cima disto, quem é
+ 00:56:30
+
+que faz estas coisas e como é que como é
+ 00:56:32
+
+que existem as as relações, portanto,
+ 00:56:34
+
+científicas, as colaborações científicas
+ 00:56:37
+
+que existem, eh, estão certamente
+ 00:56:39
+
+familiarizados com este tipo de grafos,
+ 00:56:41
+
+eh, que conforme o tamanho da bola e a
+ 00:56:43
+
+espessura e do
+ 00:56:48
+
+da ligação entre estas bolas dão-nos a
+ 00:56:51
+
+ideia da intensidade. Portanto, quer da
+ 00:56:54
+
+produção científica, quer das interações
+ 00:56:57
+
+existentes. Eh, a aláia de conclusão, no
+ 00:56:59
+
+fundo, as a influ e é a conclusão desta
+ 00:57:03
+
+apresentação, as potências mundiais
+ 00:57:07
+
+neste momento e sem surpresa nenhuma,
+ 00:57:09
+
+eh, são os Estados Unidos, a China e o
+ 00:57:12
+
+Reino Unido. Ao nível das potências
+ 00:57:14
+
+regionais, temos a Alemanha, a
+ 00:57:17
+
+Austrália, a Índia e a Itália. E depois
+ 00:57:19
+
+aquilo que se que o artigo trata com
+ 00:57:22
+
+conectores ativos ou país com
+ 00:57:24
+
+colaborações estratégicas. São
+ 00:57:26
+
+estratégicas em que sentido? são
+ 00:57:28
+
+estratégicas no sentido em que não são
+ 00:57:30
+
+colaborações dentro da região,
+ 00:57:33
+
+eh, dentro daquela área geográfica, mas
+ 00:57:36
+
+que são eh eh portanto interações que
+ 00:57:40
+
+vão para além, portanto, de um de um
+ 00:57:44
+
+determinado campus geográfico, digamos
+ 00:57:46
+
+que são mais globais na sua, se assim
+ 00:57:48
+
+podemos utilizar a expressão, é o caso
+ 00:57:52
+
+da França, da Espanha e do próprio
+ 00:57:54
+
+Brasil e da Coreia do Sul. Eh, acho que
+ 00:57:56
+
+não vou fazer análise por região. Só
+ 00:58:01
+
+posso dar o meu obrigado pela vossa
+ 00:58:03
+
+atenção. Espero h ter correspondido
+ 00:58:06
+
+minimamente, portanto, ao ao tema e às
+ 00:58:11
+
+vossas expectativas. E com isto, Caro
+ 00:58:15
+
+Luís, encerro
+ 00:58:17
+
+a minha comunicação.
+ 00:58:19
+
+Muito bom, Carlos. Parabéns. Excelente
+ 00:58:23
+
+apresentação, Carlos. Eh, eu gostaria de
+ 00:58:26
+
+fazer uma pergunta, algumas perguntas
+ 00:58:29
+
+para você, tá? A primeira diz respeito a
+ 00:58:31
+
+a ciência cidadã, não é? Um cientista que
+ 00:58:36
+
+nunca
+ 00:58:40
+
+nunca desenvolveu esse tipo de ciência,
+ 00:58:41
+
+não é? Quais os primeiros passos que você
+ 00:58:44
+
+poderia dar para essa pessoa, não é, para
+ 00:58:46
+
+que ele comece a desenvolver, a pensar
+ 00:58:49
+
+os seus projetos de pesquisa em ciência
+ 00:58:52
+
+cidadã?
+ 00:58:54
+
+Eh, para responder muito diretamente a
+ 00:58:56
+
+essa pergunta, eu aconselharia, antes de
+ 00:58:58
+
+mais nada de contactar com organizações
+ 00:59:00
+
+de ciência cidadã e com redes de ciência
+ 00:59:02
+
+cidadã que existem. Existem na América
+ 00:59:04
+
+do Sul, existem no Brasil, foi agora
+ 00:59:06
+
+criada em Portugal a rede de de projetos
+ 00:59:09
+
+de ciência cidadã nos Estados Unidos.
+ 00:59:12
+
+Eh, e depois existem também h como o
+ 00:59:15
+
+caso da Zo Universe, que são plataformas
+ 00:59:19
+
+globais e mundiais e que aceitam
+ 00:59:22
+
+projetos. Portanto, hh se a pessoa está
+ 00:59:25
+
+completamente no escuro, completamente
+ 00:59:28
+
+no escuro, hum, essa é pode ser o
+ 00:59:30
+
+caminho.
+ 00:59:34
+
+Ótimo. Muito bom. Bom, nós estamos aqui
+ 00:59:36
+
+hoje, professor Ezequiel Redim, não é,
+ 00:59:38
+
+dando bom dia, assistindo de Passo
+ 00:59:41
+
+Fundo, no Rio Grande do Sul. professor
+ 00:59:43
+
+Ezequiel que compartilha essas lives
+ 00:59:45
+
+junto comigo, não é? Hoje ele não pôde
+ 00:59:47
+
+porque tá num congresso muito importante
+ 00:59:49
+
+aqui no Brasil, não é? O SBER. A gente
+ 00:59:51
+
+também tem aqui, não é, participando dessa
+ 00:59:53
+
+live a Jéssica Palácio a RAIS, não é? Ela é
+ 00:59:57
+
+minha doutoranda no programa de ciência,
+ 01:00:00
+
+Tecnologia e Sociedade da Universidade
+ 01:00:02
+
+Federal de São Carlos. Aqui nós temos
+ 01:00:05
+
+também temos esse comentário do
+ 01:00:08
+
+professor Ezequiel. Muito boa palestra,
+ 01:00:09
+
+Carlos. Parabéns ao nosso convidado por
+ 01:00:11
+
+nos explicar o funcionamento dos modelos
+ 01:00:14
+
+de, não é, Carlos, como é que você
+ 01:00:16
+
+visualiza, não é, essa questão da
+ 01:00:20
+
+inteligência artificial para
+ 01:00:24
+
+agricultores de pequeno porte ou
+ 01:00:26
+
+agricultores familiares? Como é que você
+ 01:00:29
+
+acha que essa pessoa vai estar
+ 01:00:31
+
+utilizando ou já está utilizando essa IA
+ 01:00:32
+
+hoje nos seus nos seus nas suas rotinas
+ 01:00:36
+
+produtivas, nas suas rotinas da vida?
+ 01:00:39
+
+Como é que você acha que essa pessoa tá
+ 01:00:41
+
+utilizando essa IA?
+ 01:00:42
+
+Ele já está já já está utilizando. Sim,
+ 01:00:44
+
+Luís.
+ 01:00:46
+
+E aí est esta era uma área que eu queria
+ 01:00:49
+
+também ter abordado, mas a
+ 01:00:51
+
+tornar-se demasiado extenso, que é a
+ 01:00:55
+
+utilização dos telemóveis e das
+ 01:00:57
+
+aplicações que têm surgido desde que a a
+ 01:00:58
+
+inteligência artificial generativa
+ 01:01:02
+
+começou, portanto, a a generalizar-se e
+ 01:01:05
+
+têm sido criados sobretudo ao nível da
+ 01:01:09
+
+deteção de pestes, da deteção de
+ 01:01:12
+
+doenças, da identificação de folhas, eh,
+ 01:01:15
+
+todo um conjunto de de eh de aplicações
+ 01:01:18
+
+de telemóvel. O problema é que algumas,
+ 01:01:23
+
+muito poucas, são de grande qualidade e
+ 01:01:27
+
+e a maior parte não é de grande existem
+ 01:01:29
+
+muitas, existem sim dezenas de E aí a
+ 01:01:32
+
+pessoa deve deve, digamos, aconselhar-se
+ 01:01:36
+
+eh com
+ 01:01:40
+
+com não sei com quem se quer que diga,
+ 01:01:42
+
+talvez lendo artigos ou ou na internet
+ 01:01:45
+
+de para comparar de bentes, Marques,
+ 01:01:49
+
+etc. Por acaso estive com um artigo que
+ 01:01:52
+
+faz uma análise comparativa exatamente
+ 01:01:54
+
+dessas eh dessas aplicações e porquê a
+ 01:01:57
+
+grande diferença eh no fundo é é uma
+ 01:02:00
+
+espécie de de interrogação. A pessoa
+ 01:02:03
+
+tira as fotografias, essas eh essas
+ 01:02:05
+
+aplicações usam a o a inteligência
+ 01:02:07
+
+generativa e e é artificial generativa.
+ 01:02:10
+
+E então, com base num conhecimento
+ 01:02:13
+
+geral, geral, portanto, a o telemóvel
+ 01:02:16
+
+pode dar uma resposta sobre qual é,
+ 01:02:20
+
+portanto, aquela doença e e pode sugerir
+ 01:02:22
+
+e respostas, como aliás nós fazemos com
+ 01:02:26
+
+o CHG CPT, mesmo num espécie de
+ 01:02:28
+
+interação ou ou com outros como o Cloud
+ 01:02:30
+
+ou ou Jamin e por aí fora. O qual é o
+ 01:02:33
+
+problema? O problema é que há há
+ 01:02:35
+
+aplicações que têm pouco treinamento de
+ 01:02:38
+
+modelos específicos. Isto, isto é, não
+ 01:02:41
+
+adicionaram muitas imagens porque isto
+ 01:02:44
+
+tem problemas de custos e e então o os
+ 01:02:47
+
+resultados o a app pode p por isso menos
+ 01:02:51
+
+dizer assim: "Ah, um não conheço essa
+ 01:02:53
+
+folha, não conheço essa essa doença eh
+ 01:02:55
+
+porque a base de dados trein o modelo,
+ 01:03:00
+
+portanto, com que está com que está a
+ 01:03:02
+
+trabalhar não tem o contexto. Portanto,
+ 01:03:04
+
+o CHGPT tem um contexto geral, mas não
+ 01:03:07
+
+tem o contexto específico a de de
+ 01:03:10
+
+determinadas zonas. Outro problema,
+ 01:03:13
+
+portanto, é que não tem interação. As
+ 01:03:16
+
+boas apps e que estão a ser usadas têm
+ 01:03:19
+
+interação. Isto é, existe uma uma
+ 01:03:23
+
+comunidade por detrás da produção dessas
+ 01:03:26
+
+aves que eh responde e e dá
+ 01:03:29
+
+aconselhamento,
+ 01:03:34
+
+portanto, humano. Humano. Portanto, são
+ 01:03:36
+
+fóruns, tem são, eh, apps que, além de
+ 01:03:38
+
+terem
+ 01:03:42
+
+milhares e milhares e milhares de
+ 01:03:44
+
+fotografias com bases de dados, têm
+ 01:03:46
+
+também pessoas a trabalhar, a a a animar
+ 01:03:49
+
+os seus fóruns e dessa forma respondem
+ 01:03:53
+
+aos agricultores:
+ 01:03:55
+
+Problema não são grátis, como seria de
+ 01:03:57
+
+esperar, mas aí já entramos num outro
+ 01:04:00
+
+problema que é o problema da economia
+ 01:04:02
+
+destas coisas.
+ 01:04:04
+
+Sim. E você conhece alguma? Quando a
+ 01:04:05
+
+gente pensa na IA, não é, auxiliando os
+ 01:04:08
+
+agricultores, a gente tá pensando nessas
+ 01:04:11
+
+nesses aplicativos, não é, que você falou
+ 01:04:15
+
+de imagens, de ler doenças. E também a
+ 01:04:18
+
+gente tá pensando em textos que nem o
+ 01:04:20
+
+chat GPT, que muitas vezes eles a
+ 01:04:23
+
+resposta pode não ser uma resposta de
+ 01:04:27
+
+fácil compreensão, não é, para alguns
+ 01:04:29
+
+públicos da agricultura familiar, não é,
+ 01:04:31
+
+quando a gente pensa em agricultura
+ 01:04:34
+
+familiar. principalmente aquelas pessoas
+ 01:04:35
+
+com baixo
+ 01:04:37
+
+eh grau de de escolaridade formal, não é?
+ 01:04:39
+
+não é? Ali.
+ 01:04:44
+
+Então, o que eu gostaria de saber, se
+ 01:04:45
+
+você já conhece algum tipo, não é, de IA,
+ 01:04:48
+
+em e que a resposta dada vem de forma,
+ 01:04:52
+
+por exemplo, em vídeo, vem em forma de
+ 01:04:56
+
+figura, vem em forma de mensagem de voz,
+ 01:04:59
+
+uma pequena gravação para esse, para
+ 01:05:03
+
+essa pessoa, não sendo texto, não é, o
+ 01:05:06
+
+texto em si.
+ 01:05:10
+
+Uhum. Sim. a o existem existem sistemas
+ 01:05:11
+
+a vários que utilizam pelo menos a voz.
+ 01:05:16
+
+Para já podem utilizar a imagem, não na
+ 01:05:22
+
+resposta que dão ou tanto, mas na
+ 01:05:25
+
+a pessoa pode fazer upload, digamos,
+ 01:05:30
+
+carregar, fazer subir imagens das as
+ 01:05:32
+
+suas próprias fotografias.
+ 01:05:35
+
+E isso é sempre muito importante para
+ 01:05:37
+
+ajudar a dar o contexto para obter
+ 01:05:39
+
+respostas que não são respostas
+ 01:05:42
+
+generalistas que depois não servem não
+ 01:05:44
+
+servem para nada. Eh, é muito importante
+ 01:05:46
+
+esse esse contexto. HH agora a resposta
+ 01:05:48
+
+a ser dada em em vídeo que eu conheço
+ 01:05:52
+
+ainda não está a ser desenvolvido, mas
+ 01:05:56
+
+não vai não vai faltar muito, até porque
+ 01:05:58
+
+hoje em dia, como sabe, cada vez mais eh
+ 01:06:00
+
+a a ideia do texto to image ou texto do
+ 01:06:04
+
+vídeo está em grande em grande grande
+ 01:06:06
+
+explosão. Portanto, existem modelos da
+ 01:06:10
+
+própria Google, Hum, que é o VO3, que
+ 01:06:12
+
+está na base da do e e que até a Netflix
+ 01:06:16
+
+já reconhece utilizar na na produção
+ 01:06:19
+
+cinematográfica e, portanto, e que e que
+ 01:06:22
+
+vai explodir completamente todo toda
+ 01:06:25
+
+essa área. E aí acredito que os próprios
+ 01:06:27
+
+sistemas de nutri social possam,
+ 01:06:30
+
+digamos, em tempo real comunicar em
+ 01:06:32
+
+imagens com com as pessoas, mas neste
+ 01:06:35
+
+momento que eu saiba ainda não.
+ 01:06:37
+
+Ótimo. Você acredita que a gente vai ter
+ 01:06:41
+
+para auxiliar uma determinada profissão,
+ 01:06:45
+
+seja ela um agricultor, um engenheiro,
+ 01:06:47
+
+que seja, não é, uma IA generativa, que nem
+ 01:06:50
+
+uma IA mais genérica, não é, do tipo chat
+ 01:06:56
+
+GPT ou IAS específicas para aquela para
+ 01:06:59
+
+aquela para aquele público que tá
+ 01:07:02
+
+interagindo.
+ 01:07:04
+
+É evidente que o que está a acontecer é
+ 01:07:06
+
+uma especialização.
+ 01:07:08
+
+Portanto, isso h
+ 01:07:10
+
+se as a com certeza muitas das pessoas
+ 01:07:13
+
+que nos estão a ouvir já consultaram a a
+ 01:07:16
+
+internet nessa área para ver que, por
+ 01:07:20
+
+exemplo, para produzir para produzir um
+ 01:07:23
+
+vídeo em que eu preciso de fotografias,
+ 01:07:25
+
+certo?
+ 01:07:29
+
+preciso de eh uma narrativa, isto é, uma
+ 01:07:30
+
+uma edição dessas fotografias, portanto,
+ 01:07:34
+
+numa continuidade e preciso de um
+ 01:07:37
+
+narrador ou de uma narradora, preciso de
+ 01:07:39
+
+um texto. Eh, e hoje em dia nós podemos
+ 01:07:42
+
+ir à internet e isto só para mostrar que
+ 01:07:45
+
+o que nós encontramos é uma miriad, não
+ 01:07:48
+
+é um, nem dois, nem dois, nem três, nem
+ 01:07:51
+
+quatro. São dezenas. Eu eu quando vou a
+ 01:07:52
+
+uma a uma plataforma, portanto, para
+ 01:07:55
+
+obter imagens, essa essa plataforma que
+ 01:07:58
+
+são que utiliza o tal Text to Image, a
+ 01:08:01
+
+primeira coisa que nos dá é a escolher
+ 01:08:04
+
+qual é que é o modelo de texto to image
+ 01:08:07
+
+que se quer. Depois, eu já fiz isso e
+ 01:08:10
+
+muitas das pessoas nos estão a ouvir,
+ 01:08:14
+
+provavelmente o fizeram para fazer a
+ 01:08:15
+
+narração. Muito bem, eu vou ao a um site
+ 01:08:17
+
+hou agora dizer qual é, não é? passidade e
+ 01:08:21
+
+nesse site eu quero uma voz eh para
+ 01:08:25
+
+fazer a narração. Eu posso ou utilizar
+ 01:08:28
+
+uma voz em e selecionar uma voz que me é
+ 01:08:30
+
+fornecida ou posso treinar imediatamente
+ 01:08:34
+
+essa plataforma com a minha própria voz
+ 01:08:37
+
+e gasto uns poucos minutos eh com essa e
+ 01:08:40
+
+com esse trabalho. Leio determinados
+ 01:08:44
+
+textos com a minha voz e é criado,
+ 01:08:47
+
+portanto, o modelo da minha voz. A
+ 01:08:49
+
+partir daí eu dou os textos da narração,
+ 01:08:51
+
+podem ser bastantes. Estes textos vão
+ 01:08:54
+
+ser narrados pela minha voz, não é por
+ 01:08:56
+
+mim. E depois ainda tenho o
+ 01:08:59
+
+processamento de vídeo de de tudo
+ 01:09:00
+
+aquilo, não é? Para colocar efeitos,
+ 01:09:03
+
+etc. Isto tudo para responder à pergunta
+ 01:09:04
+
+do Luís. A tendência é da especialização
+ 01:09:07
+
+e e certamente ela vai continuar e e
+ 01:09:11
+
+aumentar. Isto isto é, as pessoas vão-se
+ 01:09:15
+
+lembrar dos CH GPT, como a pré-história
+ 01:09:18
+
+de
+ 01:09:21
+
+da infência negativa.
+ 01:09:23
+
+Carlos, partindo pro final agora da
+ 01:09:26
+
+nossa live, quais são as suas
+ 01:09:27
+
+considerações finais?
+ 01:09:29
+
+as minhas considerações finais eh são,
+ 01:09:32
+
+da, por um lado, espero que as pessoas
+ 01:09:34
+
+que nos que nos estão a ouvir h
+ 01:09:36
+
+pelo menos, digamos de alguma forma ou a
+ 01:09:40
+
+curiosidade para tentar eh aprofundar
+ 01:09:43
+
+aqueles exemplos e que eu, porque eu sei
+ 01:09:48
+
+que estou a falar sobretudo para
+ 01:09:51
+
+investigadores e eh para também para
+ 01:09:52
+
+académicos e e a questão da investigação
+ 01:09:55
+
+e é mesmo muito, muito importante aqui
+ 01:09:59
+
+e, portanto, que se apercebessem eh
+ 01:10:01
+
+aqueles que ainda não o fizeram do vasto
+ 01:10:05
+
+continente que desconhecem,
+ 01:10:08
+
+que é mesmo mesmo vasto e que e que é
+ 01:10:11
+
+fundamental para resolver os problemas
+ 01:10:15
+
+do planeta, nomeadamente logo no
+ 01:10:17
+
+primeiro slide com que eu com que eu
+ 01:10:19
+
+comecei e que e que constitui um caminho
+ 01:10:21
+
+de carreira e um caminho de abordagem
+ 01:10:24
+
+científica, portanto, utilizando
+ 01:10:26
+
+utilizando de machine learning, eh, o
+ 01:10:29
+
+treinamento de modelos, aquela aquilo
+ 01:10:32
+
+que eu eh que se informassem também
+ 01:10:34
+
+sobre aquilo que eu comecei a falar, que
+ 01:10:37
+
+é da criação dos modelos clone que
+ 01:10:39
+
+representam simulações das próprias
+ 01:10:42
+
+plantas, se digamos os uns 7GPT
+ 01:10:44
+
+planta eh que possa depois responder a a
+ 01:10:48
+
+muitas coisas, porque o o caminho está
+ 01:10:53
+
+aberto e e é e é necessário percorrer. E
+ 01:10:55
+
+era isso aí.
+ 01:10:59
+
+Ótimo. Muito obrigado, Carlos, pela sua
+ 01:11:02
+
+apresentação hoje.
+ 01:11:04
+
+Gostei bastante, não é? Então, toda
+ 01:11:06
+
+quarta-feira, pessoal, a gente tá aqui,
+ 01:11:08
+
+eu, professor Ezequiel, no canal
+ 01:11:10
+
+Oxtensionista, no canal da Rede Aurora
+ 01:11:12
+
+do YouTube, apresentando mais uma
+ 01:11:14
+
+palestra sobre os territórios rurais,
+ 01:11:16
+
+sobre a TER digital, sobre a extensão
+ 01:11:18
+
+rural. E eu desejo a todos e a todas uma
+ 01:11:20
+
+boa semana e até e até a próxima semana,
+ 01:11:24
+
+tá? Ciao. Ciao.
+ 01:11:27

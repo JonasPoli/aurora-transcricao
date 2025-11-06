@@ -1,0 +1,8 @@
+video_id: GaBALNpQw28
+video_url: https://www.youtube.com/watch?v=GaBALNpQw28
+title: #roça #oração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/21/2025

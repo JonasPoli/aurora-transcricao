@@ -1,0 +1,9 @@
+video_id: T0ggqS0uPFg
+video_url: https://www.youtube.com/watch?v=T0ggqS0uPFg
+title: Sobre o sotaque de Pierre Bourdieu ou sobre os eruditos da oratória 👨‍🌾🌱 👨‍🎓
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2024

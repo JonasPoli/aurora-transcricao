@@ -1,0 +1,8 @@
+video_id: eAACiKYOqAo
+video_url: https://www.youtube.com/watch?v=eAACiKYOqAo
+title: Novas perspectivas para as cadeias produtivas agroalimentares agroecológicas - Sergio Schneider
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/02/2022

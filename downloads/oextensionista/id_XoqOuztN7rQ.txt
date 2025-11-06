@@ -1,0 +1,8 @@
+video_id: XoqOuztN7rQ
+video_url: https://www.youtube.com/watch?v=XoqOuztN7rQ
+title: A psicologia em contextos rurais
+uploader: O Extensionista
+speaker: Joice Schneider Marmentini
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2024

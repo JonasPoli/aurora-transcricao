@@ -1,0 +1,8 @@
+video_id: NQFE1fuoEWQ
+video_url: https://www.youtube.com/watch?v=NQFE1fuoEWQ
+title: Dia a Dia na Agricultura Familiar
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/22/2021

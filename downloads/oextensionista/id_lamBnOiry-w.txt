@@ -1,0 +1,8 @@
+video_id: lamBnOiry-w
+video_url: https://www.youtube.com/watch?v=lamBnOiry-w
+title: #roça #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/31/2025

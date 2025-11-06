@@ -1,0 +1,9 @@
+video_id: LxkRkiil9nk
+video_url: https://www.youtube.com/watch?v=LxkRkiil9nk
+title: O pensamento de Paulo Freire e a Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4810993692434345
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/09/2022

@@ -1,0 +1,9 @@
+video_id: 7cCOFSGXBUk
+video_url: https://www.youtube.com/watch?v=7cCOFSGXBUk
+title: Pesquisas da Extensão Rural (3) – pelo mundo
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/10/2022

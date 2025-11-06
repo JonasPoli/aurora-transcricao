@@ -1,0 +1,8 @@
+video_id: wV1YCUZbX0s
+video_url: https://www.youtube.com/watch?v=wV1YCUZbX0s
+title: A Coostafe como política pública da reinserção social
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/17/2023

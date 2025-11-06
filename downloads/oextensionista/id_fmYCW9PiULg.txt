@@ -1,0 +1,8 @@
+video_id: fmYCW9PiULg
+video_url: https://www.youtube.com/watch?v=fmYCW9PiULg
+title: #roça #agricultura #horticulture
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2025

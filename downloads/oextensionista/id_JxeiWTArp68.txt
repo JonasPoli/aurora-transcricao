@@ -1,0 +1,8 @@
+video_id: JxeiWTArp68
+video_url: https://www.youtube.com/watch?v=JxeiWTArp68
+title: #reflexão #oração
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/24/2025

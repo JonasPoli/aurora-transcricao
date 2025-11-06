@@ -1,0 +1,8 @@
+video_id: Ro29xXVcKVE
+video_url: https://www.youtube.com/watch?v=Ro29xXVcKVE
+title: Elementos da Comunicação na Ater digital #redeaurora
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/01/2023

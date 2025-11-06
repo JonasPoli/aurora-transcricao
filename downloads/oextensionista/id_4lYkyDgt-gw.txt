@@ -1,0 +1,8 @@
+video_id: 4lYkyDgt-gw
+video_url: https://www.youtube.com/watch?v=4lYkyDgt-gw
+title: As vivências como metodologia de ensino da extensão rural: a aproximação entre estudantes e agricult
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/12/2023

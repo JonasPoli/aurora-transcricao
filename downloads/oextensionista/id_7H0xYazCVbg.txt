@@ -1,0 +1,9 @@
+video_id: 7H0xYazCVbg
+video_url: https://www.youtube.com/watch?v=7H0xYazCVbg
+title: Convite para live - Bioeconomia e Sociobiodiversidade do Cerrado
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/11/2022

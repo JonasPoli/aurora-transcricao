@@ -1,0 +1,8 @@
+video_id: GMVggtWwZjc
+video_url: https://www.youtube.com/watch?v=GMVggtWwZjc
+title: 50 anos do PPGExR/UFSM na SOBER #pesquisa #posgraduacao #ensino #extensão #extensaorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

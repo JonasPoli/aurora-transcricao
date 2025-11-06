@@ -1,0 +1,8 @@
+video_id: XzwitRio2vs
+video_url: https://www.youtube.com/watch?v=XzwitRio2vs
+title: #roça #agriculture #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/11/2025

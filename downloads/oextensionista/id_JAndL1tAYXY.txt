@@ -1,0 +1,8 @@
+video_id: JAndL1tAYXY
+video_url: https://www.youtube.com/watch?v=JAndL1tAYXY
+title: Metodologias de ATER na era 4.0
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/08/2020

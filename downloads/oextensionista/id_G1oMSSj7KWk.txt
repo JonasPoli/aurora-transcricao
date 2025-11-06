@@ -1,0 +1,9 @@
+video_id: G1oMSSj7KWk
+video_url: https://www.youtube.com/watch?v=G1oMSSj7KWk
+title: Caminhada na Natureza: Rota do Sol em Faxinal do Soturno
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/11/2023

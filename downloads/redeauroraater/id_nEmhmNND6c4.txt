@@ -1,0 +1,8 @@
+video_id: nEmhmNND6c4
+video_url: https://www.youtube.com/watch?v=nEmhmNND6c4
+title: Desafios e perspectivas da ATER que queremos
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/22/2023

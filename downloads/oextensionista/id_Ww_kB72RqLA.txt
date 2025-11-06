@@ -1,0 +1,8 @@
+video_id: Ww_kB72RqLA
+video_url: https://www.youtube.com/watch?v=Ww_kB72RqLA
+title: #roça #colono #agricultura #globo #novela
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2025

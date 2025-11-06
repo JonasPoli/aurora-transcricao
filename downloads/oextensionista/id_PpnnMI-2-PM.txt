@@ -1,0 +1,8 @@
+video_id: PpnnMI-2-PM
+video_url: https://www.youtube.com/watch?v=PpnnMI-2-PM
+title: Debate Tarde - Viticultura e Fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/29/2024

@@ -1,0 +1,9 @@
+video_id: RsVPGHZW_x8
+video_url: https://www.youtube.com/watch?v=RsVPGHZW_x8
+title: Geografia(s) e Extensão Rural: a prática extensionista apreendida enquanto prática espacial
+uploader: O Extensionista
+speaker: Raphael Fernando Diniz – Docente do Departamento de Geografia e do Programa de Pós-Graduação em Geografia (PPGEOG) da Universidade Federal do Amazonas (UFAM)
+Lattes: http://lattes.cnpq.br/1105526415311568
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/07/2023

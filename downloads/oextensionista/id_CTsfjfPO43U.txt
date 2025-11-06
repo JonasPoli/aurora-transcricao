@@ -1,0 +1,9 @@
+video_id: CTsfjfPO43U
+video_url: https://www.youtube.com/watch?v=CTsfjfPO43U
+title: e-Campo: plataforma de capacitações on-line da Embrapa
+uploader: O Extensionista
+speaker: Aline Branquinho Silva – EMBRAPA
+Lattes: http://lattes.cnpq.br/5424022961773992
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/21/2024

@@ -1,0 +1,8 @@
+video_id: poldM9LS6ko
+video_url: https://www.youtube.com/watch?v=poldM9LS6ko
+title: Como podemos combater e desinformação e fake news nos territórios rurais?
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/08/2022

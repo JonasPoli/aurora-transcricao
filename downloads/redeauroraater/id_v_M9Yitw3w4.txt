@@ -1,0 +1,8 @@
+video_id: v_M9Yitw3w4
+video_url: https://www.youtube.com/watch?v=v_M9Yitw3w4
+title: A Formação do Extensionista Rural: Extensão Rural 7.0: uma visão sistêmica
+uploader: Rede Aurora
+speaker: Antônio Marchiori – Associação Paulista de Extensão Rural (APAER-SP)
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/30/2023

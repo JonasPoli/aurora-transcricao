@@ -1,0 +1,8 @@
+video_id: juLhtCXksw4
+video_url: https://www.youtube.com/watch?v=juLhtCXksw4
+title: Caminhada Internacional na Natureza no Quarta Colônia Geoparque Mundial da UNESCO em 2023
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/15/2024

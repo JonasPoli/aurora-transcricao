@@ -1,0 +1,8 @@
+video_id: _ACpEMPfUSM
+video_url: https://www.youtube.com/watch?v=_ACpEMPfUSM
+title: Desafios e Inovações no crédito rural e atuação na Região
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/12/2024

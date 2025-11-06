@@ -1,0 +1,8 @@
+video_id: lBF7luHWOJc
+video_url: https://www.youtube.com/watch?v=lBF7luHWOJc
+title: Hortaliças Minuzzi #roça #alimentos #urbano
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/24/2025

@@ -1,0 +1,8 @@
+video_id: Y3zIWYuX6UU
+video_url: https://www.youtube.com/watch?v=Y3zIWYuX6UU
+title: #gaucho #tradição #riograndedosul
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/17/2025

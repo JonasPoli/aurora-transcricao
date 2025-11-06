@@ -1,0 +1,8 @@
+video_id: eQ8J_efYcVQ
+video_url: https://www.youtube.com/watch?v=eQ8J_efYcVQ
+title: #roça #deustemumapalavrapravoce #agricultura #caminhoparaumavidamelhor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/21/2025

@@ -1,0 +1,9 @@
+video_id: wnVnwDueCVU
+video_url: https://www.youtube.com/watch?v=wnVnwDueCVU
+title: Irrigação na Nogueira Pecan – Colégio Politécnico da UFSM
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/09/2022

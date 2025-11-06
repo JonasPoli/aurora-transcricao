@@ -1,0 +1,8 @@
+video_id: 6Vcnk7P0pqs
+video_url: https://www.youtube.com/watch?v=6Vcnk7P0pqs
+title: #roça #colono
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/30/2025

@@ -1,0 +1,8 @@
+video_id: 4LCvv84BJ7Q
+video_url: https://www.youtube.com/watch?v=4LCvv84BJ7Q
+title: Ater além do digital: explorando ferramentas digitais para potencializar a extensão no campo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/19/2023

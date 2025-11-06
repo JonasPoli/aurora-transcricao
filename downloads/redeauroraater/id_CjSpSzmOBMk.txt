@@ -1,0 +1,8 @@
+video_id: CjSpSzmOBMk
+video_url: https://www.youtube.com/watch?v=CjSpSzmOBMk
+title: Panorama da ATER e pesquisa agropecuária públicas e perspectivas para os próximos anos
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/17/2023

@@ -1,0 +1,8 @@
+video_id: fyTuhKeG-_0
+video_url: https://www.youtube.com/watch?v=fyTuhKeG-_0
+title: O Extensionista está ao vivo!
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 12/14/2024

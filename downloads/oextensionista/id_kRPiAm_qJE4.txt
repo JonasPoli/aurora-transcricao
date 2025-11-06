@@ -1,0 +1,8 @@
+video_id: kRPiAm_qJE4
+video_url: https://www.youtube.com/watch?v=kRPiAm_qJE4
+title: Debate final - 1 dia Viticultura e Fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/29/2024

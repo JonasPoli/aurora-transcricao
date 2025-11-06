@@ -1,0 +1,8 @@
+video_id: MhucpEqA8LE
+video_url: https://www.youtube.com/watch?v=MhucpEqA8LE
+title: 🌿🌟 Caminhada “Caminhos da Natureza, da Arte e da Fé” 🌟🌿
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/25/2024

@@ -1,0 +1,9 @@
+video_id: y4oSmu3mbOw
+video_url: https://www.youtube.com/watch?v=y4oSmu3mbOw
+title: Papel pedagógico na ATER - Assistência Técnica e Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/8675515732886159
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/17/2022

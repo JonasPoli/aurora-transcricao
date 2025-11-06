@@ -1,0 +1,9 @@
+video_id: OfwUmOL2-kU
+video_url: https://www.youtube.com/watch?v=OfwUmOL2-kU
+title: Diálogos digitais as organizações brasileiras de ater e as ações de comunicação via internet
+uploader: Rede Aurora
+speaker: Carolina Darcie– CATI-SP
+Lattes: http://lattes.cnpq.br/0347264271056878
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/28/2023

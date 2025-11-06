@@ -1,0 +1,8 @@
+video_id: 7EVl_f_JGa0
+video_url: https://www.youtube.com/watch?v=7EVl_f_JGa0
+title: Visita Técnica Fruticultura em Jari, RS #poda #fruticultura #prática
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/14/2025

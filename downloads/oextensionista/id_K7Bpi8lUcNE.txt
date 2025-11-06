@@ -1,0 +1,8 @@
+video_id: K7Bpi8lUcNE
+video_url: https://www.youtube.com/watch?v=K7Bpi8lUcNE
+title: #motivação #reflexão #fe
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/29/2025

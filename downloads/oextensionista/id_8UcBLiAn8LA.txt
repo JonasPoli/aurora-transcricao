@@ -1,0 +1,8 @@
+video_id: 8UcBLiAn8LA
+video_url: https://www.youtube.com/watch?v=8UcBLiAn8LA
+title: Conservação do Solo e da Água na Bacia do Guarda Mor
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/03/2025

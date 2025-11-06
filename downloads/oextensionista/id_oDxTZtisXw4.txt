@@ -1,0 +1,8 @@
+video_id: oDxTZtisXw4
+video_url: https://www.youtube.com/watch?v=oDxTZtisXw4
+title: Especialização ou Diversificação na Agricultura? #agricultura #agropecuária #lavoura #commodity
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/23/2024

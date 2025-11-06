@@ -1,0 +1,8 @@
+video_id: nz9m2urZO7o
+video_url: https://www.youtube.com/watch?v=nz9m2urZO7o
+title: #roça #colono #força
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/14/2025

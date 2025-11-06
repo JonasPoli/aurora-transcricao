@@ -1,0 +1,8 @@
+video_id: yIpFdD4QVus
+video_url: https://www.youtube.com/watch?v=yIpFdD4QVus
+title: Abertura do 6º Dia de Campo da Advanced Farm 360  - Politécnico da UFSM
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/20/2025

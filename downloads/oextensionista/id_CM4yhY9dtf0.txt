@@ -1,0 +1,8 @@
+video_id: CM4yhY9dtf0
+video_url: https://www.youtube.com/watch?v=CM4yhY9dtf0
+title: O papel das EFAS no acesso à educação para jovens do campo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/25/2021

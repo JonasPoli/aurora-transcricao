@@ -1,0 +1,8 @@
+video_id: msQ6IrGs4wE
+video_url: https://www.youtube.com/watch?v=msQ6IrGs4wE
+title: #motivação #deus #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/04/2025

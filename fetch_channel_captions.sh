@@ -44,6 +44,7 @@ SPEAKER_FIXED=""
 START_NUMBER="1"
 RUN_MODE="all"             # all | list | download | transform-only
 TRANSFORMS_FILE="transforms.txt"
+SKIP_EXISTING="false"
 
 # ---------- Ajuda ----------
 usage() {
@@ -64,6 +65,7 @@ ${bold}Parâmetros principais:${reset}
 ${bold}Opções úteis:${reset}
   --lang               Códigos de legenda (ordem de preferência). Padrão: ${LANG_CODES_DEFAULT}
   --keep-subs          Mantém os .srt/.vtt baixados (off por padrão).
+  --skip-existing      Pula vídeos já processados (por id_*.txt ou index.csv).
   --speaker-mode       "uploader" (padrão) ou "fixed"
   --speaker-name       Nome fixo do palestrante (usa com --speaker-mode fixed)
   --start-number       Número inicial do episódio por canal (default: 1)
@@ -490,12 +492,25 @@ run_for_channel() {
     while IFS=$'\t' read -r vid vid_title; do
       [[ -z "$vid" ]] && continue
       idx=$((idx+1))
+      # Skip se já processado
+      if [[ "$SKIP_EXISTING" == "true" ]]; then
+        if [[ -f "${channel_dir}/id_${vid}.txt" ]]; then
+          progress "$idx" "$total" "Pulado (existente por id): ${vid_title}"
+          continue
+        fi
+        if [[ -f "${channel_dir}/index.csv" ]] && grep -q ",${vid}," "${channel_dir}/index.csv"; then
+          progress "$idx" "$total" "Pulado (existente no índice): ${vid_title}"
+          continue
+        fi
+      fi
+
       progress "$idx" "$total" "Processando #$(printf "%03d" "$ep") - ${vid_title}"
       local video_url="https://www.youtube.com/watch?v=${vid}"
-      if ! download_captions_for_video "$video_url" "$langs_csv" "$keep_subs" "$channel_dir" "$ep" "$speaker_mode" "$speaker_fixed" "$transforms_path"; then
-        echo "${yellow}Pulado:${reset} ${video_url}"
+      if download_captions_for_video "$video_url" "$langs_csv" "$keep_subs" "$channel_dir" "$ep" "$speaker_mode" "$speaker_fixed" "$transforms_path"; then
+        ep=$((ep+1))
+      else
+        echo "${yellow}Pulado (falha):${reset} ${video_url}"
       fi
-      ep=$((ep+1))
     done < "$list_file"
   fi
 
@@ -529,6 +544,7 @@ while [[ $# -gt 0 ]]; do
     --run) RUN_MODE="$2"; shift 2 ;;
     --lang) LANG_CODES="$2"; shift 2 ;;
     --keep-subs) KEEP_SUBS="true"; shift ;;
+    --skip-existing) SKIP_EXISTING="true"; shift ;;
     --speaker-mode) SPEAKER_MODE="$2"; shift 2 ;;
     --speaker-name) SPEAKER_FIXED="$2"; shift 2 ;;
     --start-number) START_NUMBER="$2"; shift 2 ;;

@@ -1,0 +1,8 @@
+video_id: 4cuu1_QUfps
+video_url: https://www.youtube.com/watch?v=4cuu1_QUfps
+title: #roça
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/19/2025

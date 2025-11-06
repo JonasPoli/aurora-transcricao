@@ -1,0 +1,9 @@
+video_id: Ap80k31kwyY
+video_url: https://www.youtube.com/watch?v=Ap80k31kwyY
+title: Retrospectiva 2022 - Projeto Geração Cultura
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/0270099238670182
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/06/2023

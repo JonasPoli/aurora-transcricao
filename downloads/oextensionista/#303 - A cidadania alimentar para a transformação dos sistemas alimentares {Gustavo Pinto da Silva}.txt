@@ -1,0 +1,8237 @@
+O ciclo de palestras Pesquisa em Prosa
+ 00:00:00
+
+tem como objetivo principal ampliar o
+ 00:00:03
+
+alcance da divulgação científica de
+ 00:00:05
+
+artigos, dissertações e teses
+ 00:00:07
+
+relacionadas à área de extensão rural,
+ 00:00:09
+
+oferecendo ao público um acesso
+ 00:00:11
+
+facilitado às maiscentes descobertas e
+ 00:00:13
+
+avanços nessa área. Olá a todos e todas
+ 00:00:16
+
+extensionistas, agricultores e
+ 00:00:19
+
+agricultoras, jovens rais,
+ 00:00:21
+
+pesquisadores, professores, acadêmicos e
+ 00:00:22
+
+demais públicos aqui presentes. Sejam
+ 00:00:25
+
+todos muito bem-vindos. Meu nome é Zé
+ 00:00:28
+
+Queedin, professor extensão rural. Quem
+ 00:00:29
+
+está aqui hoje conosco é o professor
+ 00:00:32
+
+Luís Fernando Soares Win da USP, o
+ 00:00:34
+
+fundador da Rede Aurora, juntamente com
+ 00:00:35
+
+o nosso amigo, pesquisador,
+ 00:00:38
+
+extensionista, professor, produtor, 1001
+ 00:00:39
+
+utilidades, professor Gustavo Pinto da
+ 00:00:42
+
+Silva. Todos aqui excelentes
+ 00:00:45
+
+profissionais na área de extensão rural
+ 00:00:46
+
+no Brasil e no mundo. As palestras desse
+ 00:00:48
+
+ciclo são transmitidas aqui no YouTube e
+ 00:00:51
+
+ocorre em colaboração com a Rede Aurora
+ 00:00:53
+
+de Diálogos em Até Digital para a
+ 00:00:55
+
+América Latina. proporcionando o
+ 00:00:57
+
+ambiente propício para a disseminação do
+ 00:00:59
+
+conhecimento científico e engajamento da
+ 00:01:01
+
+comunidade em debates construtivos sobre
+ 00:01:04
+
+as questões relacionadas à extensão
+ 00:01:06
+
+rural. Além disso, esse ciclo visa
+ 00:01:09
+
+enriquecer o panorama da pesquisa na
+ 00:01:11
+
+área, promovendo a interação entre
+ 00:01:13
+
+acadêmicos, agricultores, agentes de
+ 00:01:15
+
+desenvolvimento, extensionistas,
+ 00:01:17
+
+pesquisadores, professores,
+ 00:01:18
+
+profissionais e público em geral,
+ 00:01:20
+
+contribuindo assim para o
+ 00:01:22
+
+desenvolvimento da extensão rural no na
+ 00:01:23
+
+América Latina e no mundo. E é nesse dia
+ 00:01:26
+
+19 de março, estamos no evento Pesquisa
+ 00:01:28
+
+em Prosa. Nossa live de hoje é
+ 00:01:30
+
+intitulada A cidadania alimentar para a
+ 00:01:32
+
+transformação dos sistemas alimentares.
+ 00:01:35
+
+Nosso palestrante de hoje é o professor
+ 00:01:38
+
+Gustavo Pinto da Silva. Essa live então
+ 00:01:40
+
+é uma parceria entre a Rede Aurora e o
+ 00:01:42
+
+canal Extensionista e com todos os
+ 00:01:45
+
+apoiadores que vocês podem conferir aqui
+ 00:01:47
+
+na descrição desse vídeo. Sejam muito
+ 00:01:49
+
+bem-vindos, professor Gustavo. É um
+ 00:01:52
+
+prazer vocês estarem aqui compartilhando
+ 00:01:54
+
+seus conhecimentos conosco. Desde já o
+ 00:01:56
+
+nosso muito obrigado. De antemão já
+ 00:01:58
+
+passo a palavra ao professor Zuin. Bom
+ 00:02:00
+
+dia a todos e a todas. É um prazer muito
+ 00:02:03
+
+grande tá aí hoje tá aqui com o
+ 00:02:04
+
+professor Ezequiel, professor Gustavo.
+ 00:02:07
+
+Tenho certeza que a gente vai aprender
+ 00:02:08
+
+muito com o Gustavo, não é, essa volta dele
+ 00:02:10
+
+do pósdoc, não é? Vai falar um pouquinho
+ 00:02:12
+
+sobre essa experiência, não é? E muito
+ 00:02:14
+
+bacana. Gustavo, muito obrigado por ter
+ 00:02:17
+
+aceito o nosso convite, não é? E a palavra
+ 00:02:19
+
+é sua, meu querido.
+ 00:02:22
+
+Obrigado, professor Zuin, professor
+ 00:02:26
+
+Ezequiel. agradecemos aí pelo convite,
+ 00:02:28
+
+não é, para participar mais uma vez desse
+ 00:02:32
+
+dessa dessa iniciativa tão importante
+ 00:02:36
+
+para eh democratizar o conhecimento, não é,
+ 00:02:38
+
+e e claro, sempre tensionar, trazer
+ 00:02:42
+
+informações novas e o que tem sido e e
+ 00:02:46
+
+melhorar o conhecimento acadêmico, mas
+ 00:02:50
+
+também o nosso trabalho no dia a dia, no
+ 00:02:52
+
+como seja como professor, seja como
+ 00:02:56
+
+extensionista, seja como cidadão, usando
+ 00:02:58
+
+o termo da cidadania, que é um pouco do
+ 00:03:01
+
+que a gente vai tocar mais adiante.
+ 00:03:03
+
+Agradeço o convite, não é, e cumprimento a
+ 00:03:06
+
+todos os que estão que nos estão
+ 00:03:09
+
+assistindo nesse momento, não é, por deixar
+ 00:03:11
+
+um pouco do seu tempo para discutir este
+ 00:03:15
+
+tema que eh me parece relevante, é um
+ 00:03:19
+
+pouco do nosso trabalho, da nossa
+ 00:03:22
+
+trajetória profissional, não é, e o
+ 00:03:23
+
+professor Juim me provocou para contar o
+ 00:03:26
+
+que eu tinha feito no
+ 00:03:29
+
+pós-doutorado. Então
+ 00:03:30
+
+vou tentar mostrar o uma das atividades,
+ 00:03:32
+
+não é, que eh que trata um pouco da
+ 00:03:36
+
+transformação dos sistemas alimentares,
+ 00:03:40
+
+mas que foram maior do que essa. Então,
+ 00:03:43
+
+muito obrigado pelo convite, pelo eh
+ 00:03:45
+
+pela paciência daqueles que vão
+ 00:03:48
+
+assistir, vão procurar ser breve e
+ 00:03:50
+
+objetivo. Muito bom. A gente lembrando
+ 00:03:52
+
+aqui antes de o professor Gustavo já
+ 00:03:56
+
+começar a sua apresentação que ontem
+ 00:03:57
+
+saiu o livro Diálogos na Extensão Rural
+ 00:03:59
+
+e um dos capítulos livro é o capítulo do
+ 00:04:02
+
+professor Gustavo da live anterior que
+ 00:04:04
+
+ele comenta sobre as estratégias de
+ 00:04:06
+
+ensino das vivências, não é? Muito bacana,
+ 00:04:08
+
+tá? Então a já agradecer também o
+ 00:04:10
+
+pessoal aqui que tá em grande peso na
+ 00:04:13
+
+live aqui já nesse momento. Professor
+ 00:04:15
+
+Gustavo é famoso, olha só. E aí a galera
+ 00:04:17
+
+da fruticultura, inclusive nossos
+ 00:04:20
+
+egressos aqui presentes, nossos alunos
+ 00:04:21
+
+aí e toda a galera do Brasil aí eh já
+ 00:04:23
+
+presente também. Gustavo, tá contigo tua
+ 00:04:26
+
+apresentação aqui. Fique à vontade. No
+ 00:04:28
+
+final nós vamos fazer a interação aí com
+ 00:04:31
+
+os nossos convidados.
+ 00:04:32
+
+Muito obrigado. Bem, então o termo o
+ 00:04:34
+
+tema que nós vamos trabalhar é a
+ 00:04:37
+
+cidadania alimentar para transformação
+ 00:04:40
+
+dos sistemas
+ 00:04:42
+
+alimentares. Eu vou buscar fazer uma
+ 00:04:43
+
+abordagem, não é, que ela é um pouco
+ 00:04:46
+
+eh primeiro falar dos sistemas
+ 00:04:50
+
+alimentares, depois da cidadania aliment
+ 00:04:53
+
+o que que o porquê da necessidade de
+ 00:04:55
+
+repensar os sistemas alimentares. Depois
+ 00:04:57
+
+vou discutir um pouquinho a o o tema da
+ 00:05:00
+
+cidadania alimentar, muito
+ 00:05:04
+
+superficialmente, porque é um tema
+ 00:05:06
+
+teórico, acho que não é nosso objetivo
+ 00:05:08
+
+aqui, apesar de trazer elementos
+ 00:05:10
+
+teóricos, mas é pensar um pouco da
+ 00:05:12
+
+aplicabilidade disso. E por último, vou
+ 00:05:15
+
+trazer um caso só para mostrar como que
+ 00:05:17
+
+se pode tratar do da transformação dos
+ 00:05:19
+
+sistemas alimentares a partir da criação
+ 00:05:23
+
+daquilo que eu vou chamar de espaços
+ 00:05:26
+
+experi, não é? Eh, e aí vou trazer o caso
+ 00:05:29
+
+da Polifeira do Agricultor, que é um
+ 00:05:33
+
+projeto que nós coordenamos, não é, junto
+ 00:05:34
+
+com com o Cristiano Doto aqui na
+ 00:05:37
+
+Universidade Federal de Santa Maria e
+ 00:05:40
+
+desde 2017 e que a gente entende que é
+ 00:05:43
+
+um uma experiência interessante para
+ 00:05:47
+
+discutir esse tema, não é? Então, como não
+ 00:05:49
+
+falamos da polifer do agricultor na
+ 00:05:52
+
+outra live e e e a live termina
+ 00:05:54
+
+justamente com o professor Ezequiel
+ 00:05:58
+
+fazendo uma provocação, vou trazer um
+ 00:06:00
+
+pouquinho desse contexto também. Então,
+ 00:06:02
+
+vou procurar ser objetivo para que nós
+ 00:06:03
+
+não se estenda muito e e e consiga dar
+ 00:06:06
+
+um recado bem, o que que são sistemas
+ 00:06:10
+
+alimentares, não é? Então, se nós eh nós
+ 00:06:13
+
+estamos dentro todo cidadão, não é, e e a
+ 00:06:18
+
+sociedade ela convive com
+ 00:06:21
+
+algumas com algumas esferas, eu diria
+ 00:06:24
+
+assim, ou sistemas e subsistemas, muitas
+ 00:06:28
+
+vezes sem se dar conta. O sistema
+ 00:06:31
+
+alimentar é um deles, não é? Nós, o nosso
+ 00:06:34
+
+ato de consumir alimentos, não é? De a
+ 00:06:36
+
+alimentação como um um elemento básico
+ 00:06:40
+
+da sobrevivência humana, ela acaba sendo
+ 00:06:43
+
+tão naturalizado que, por vezes nós não
+ 00:06:46
+
+nos demos conta, tá, que alguém tem que
+ 00:06:49
+
+produzir, alguém tem que fornecer os
+ 00:06:52
+
+insumos para produzir um alimento, não é?
+ 00:06:54
+
+Eh, eles vêm de algum lugar, não é? E aí
+ 00:06:57
+
+tem pessoas envolvidas por trás disso,
+ 00:07:00
+
+não é? E que que produzem, seja um alimento
+ 00:07:03
+
+de origem vegetal, seja um alimento de
+ 00:07:07
+
+origem animal, não é? Mas eh eh existem
+ 00:07:10
+
+pessoas, existem espaços, existe a
+ 00:07:14
+
+escala do tempo, tá? Alguém processa
+ 00:07:16
+
+depois esses alimentos, processa,
+ 00:07:19
+
+armazena eh distribui, tá? até chegar no
+ 00:07:22
+
+consumidor. E também nós temos uma série
+ 00:07:26
+
+de de, digamos assim, daquilo que a
+ 00:07:29
+
+máquina deixa como resíduo, não é, que
+ 00:07:33
+
+precisa ou ser descartado ou ser
+ 00:07:36
+
+reciclado, reaproveitado, assim por
+ 00:07:38
+
+diante, não é? Então, o que que eu quero
+ 00:07:40
+
+chamar atenção? Nós temos que pensar
+ 00:07:43
+
+nisso. O sistema alimentar é todo este
+ 00:07:45
+
+conjunto, não é, que que configura um
+ 00:07:48
+
+espaço complexo, não é, da onde se produz
+ 00:07:52
+
+alimento até o consumo, não é, e e o e e o
+ 00:07:56
+
+descarte ou o reaproveitamento,
+ 00:08:00
+
+reciclagem, assim por diante, não é? Então,
+ 00:08:02
+
+se nós podemos pensar o sistema
+ 00:08:05
+
+alimentar dentro de uma escala global,
+ 00:08:07
+
+dentro de uma a escala que nós
+ 00:08:10
+
+quisermos, na verdade, olharmos. Se nós
+ 00:08:12
+
+quiser olhar uma escala eh da grande da
+ 00:08:14
+
+capital de São Paulo, por exemplo, tá?
+ 00:08:19
+
+Quer dizer, nós temos um sistema
+ 00:08:21
+
+alimentar local, mas se nós quisermos
+ 00:08:23
+
+olhar o São Paulo, o estado inteiro, nós
+ 00:08:25
+
+vamos ter uma escala regional e nós
+ 00:08:27
+
+podemos olhar o sistema alimentar
+ 00:08:30
+
+brasileiro, sistema alimentar
+ 00:08:32
+
+latino-americano, sistema alimentar
+ 00:08:33
+
+global e assim
+ 00:08:35
+
+sucessivamente. Hoje eu diria, não é, nós
+ 00:08:38
+
+vivemos, claro, dentro de um sistema
+ 00:08:41
+
+alimentar que é globalizado. Nós estamos
+ 00:08:43
+
+vendo agora as medidas do governo
+ 00:08:46
+
+americano, por exemplo, a capacidade que
+ 00:08:48
+
+tem de afetar e a preocupação que gera
+ 00:08:50
+
+entre países, não é, principalmente na
+ 00:08:53
+
+questão alimentar, não é, porque vai
+ 00:08:56
+
+encarecer alguns algum algum alguns
+ 00:08:58
+
+produtos países produtores vão ser
+ 00:09:01
+
+afetados, não é? Veja, por exemplo, a
+ 00:09:04
+
+taxação das bebidas europeias, não é? o
+ 00:09:06
+
+quanto vai impactar essa cadeia
+ 00:09:10
+
+produtiva a nível dos países produtores
+ 00:09:12
+
+de de uva, não é, e que vai afetar os
+ 00:09:15
+
+agricultores que vivem dessa atividade,
+ 00:09:18
+
+as pessoas que trabalham no setor, não é, e
+ 00:09:21
+
+e certamente também os consumidores que
+ 00:09:23
+
+vão estão comprando esse produto vão
+ 00:09:26
+
+comprar muito mais caro, tá? Então esse
+ 00:09:27
+
+é um pouco assim do quadro para entender
+ 00:09:30
+
+o que é sistema alimentar. Eu vou tentar
+ 00:09:32
+
+mostrar se eu falo na cidadania
+ 00:09:35
+
+alimentar para promover mudança, mas
+ 00:09:38
+
+mudança por quê? Que sistema é esse?
+ 00:09:40
+
+Então, alguns elementos para vocês, não é,
+ 00:09:43
+
+para as nossas assistências entender
+ 00:09:46
+
+porquê da necessidade. Primeiro, eh, a
+ 00:09:49
+
+globalização, ela tornou a alimentação
+ 00:09:52
+
+como uma das esferas que estão mais
+ 00:09:54
+
+comprometidas pelo seu funcionamento. Se
+ 00:09:56
+
+tem o exemplo dos Estados Unidos, se mas
+ 00:09:59
+
+nós podemos ver os acordos. Eh, a
+ 00:10:02
+
+globalização na verdade vocês veem como
+ 00:10:05
+
+um movimento que foi muitas vezes
+ 00:10:08
+
+pregado, não é, muitas vezes em grande
+ 00:10:10
+
+maioria pregado justamente pelas grandes
+ 00:10:13
+
+economias do mundo, as mesmas que hoje
+ 00:10:16
+
+tentam proteger os seus o o setor
+ 00:10:18
+
+produtivo dentro do seu país, não é? Eh, e
+ 00:10:22
+
+não só produtivo, não é? Então ela é o a
+ 00:10:24
+
+globalização ao mesmo tempo que ela se
+ 00:10:27
+
+tornou ela apareceu no alguns anos uma
+ 00:10:29
+
+um resolver uns problemas hoje se torna
+ 00:10:32
+
+um na medida em que tu confia nela, que
+ 00:10:36
+
+tu cria estruturas para abastecer
+ 00:10:39
+
+mercados internacionais, não é, como nós
+ 00:10:42
+
+soubemos que boa parte de de alguns
+ 00:10:45
+
+produtos brasileiros eles são destinos
+ 00:10:48
+
+ao são destinados ao mercado de
+ 00:10:49
+
+exportação, ela vira ao mesmo tempo um
+ 00:10:52
+
+armadilho, não é? Então, eh, e a aliment e
+ 00:10:53
+
+principalmente quando nós tratamos da
+ 00:10:57
+
+questão da alimentação, porque a
+ 00:10:58
+
+alimentação é básico, ela encarece a
+ 00:11:00
+
+vida das pessoas, ela ela ela ela ela
+ 00:11:02
+
+toma mais espaços por vezes da condição,
+ 00:11:06
+
+não é, de renda e de e e possibilidade de
+ 00:11:11
+
+de meios de vida das pessoas, não é? Então,
+ 00:11:15
+
+eh, esse é um fato. O segundo, os
+ 00:11:18
+
+sistemas alimentares atuais e em grande
+ 00:11:21
+
+medida, eles são desiguais, eles não
+ 00:11:24
+
+promovem a justiça social, eles
+ 00:11:27
+
+desconsideram as populações e o espaço,
+ 00:11:30
+
+no espaço e no tempo. No pós-doutorado,
+ 00:11:32
+
+eu tive a oportunidade de conviver com a
+ 00:11:35
+
+professora da Carolina do Norte, não é, que
+ 00:11:37
+
+que está fazendo um
+ 00:11:39
+
+estudo, verificando a a que o o o fair
+ 00:11:41
+
+trade, por exemplo, não é, que o consumo
+ 00:11:46
+
+justo, ele foi criado com a ideia de
+ 00:11:49
+
+proteger algumas populações que que
+ 00:11:52
+
+produzem de eh alguns tipos de
+ 00:11:55
+
+alimentos, não é? Quer dizer, o, então no
+ 00:11:58
+
+caso dela, ele estudava o café
+ 00:12:01
+
+colombiano. Aquelas populações que
+ 00:12:02
+
+produziam determinados cafés com algumas
+ 00:12:04
+
+características passam a ser protegidos
+ 00:12:06
+
+com certificado, não é, que mostra essas
+ 00:12:08
+
+condições para para vender esta
+ 00:12:12
+
+identidade em outros contextos,
+ 00:12:14
+
+principalmente o contexto dos países
+ 00:12:17
+
+ricos, não é? Quer dizer,
+ 00:12:19
+
+mas a ideia é boa, mas o sistema, na
+ 00:12:21
+
+medida em que tu coloca um conjunto de
+ 00:12:25
+
+elos, não é, que fazem essa cadeia operar
+ 00:12:27
+
+até chegar o consumidor, eles se
+ 00:12:29
+
+transforma em justo justamente para eh
+ 00:12:31
+
+os para aqueles que que era o objetivo
+ 00:12:34
+
+inicial. Nós poderíamos olhar, por
+ 00:12:37
+
+exemplo, a questão dos pequenos
+ 00:12:39
+
+agricultores falando em justiça social,
+ 00:12:40
+
+não é? Eh, na mão de quem que essas pessoas
+ 00:12:42
+
+estão, com quem comercializam, não é?
+ 00:12:45
+
+Normalmente são as pessoas têm mais
+ 00:12:48
+
+dificuldade de usufruir de uma renda,
+ 00:12:50
+
+não é, e condições de vida, não é, eh,
+ 00:12:53
+
+adequadas.
+ 00:12:55
+
+Eh, os nossos sistemas alimentares,
+ 00:12:57
+
+lamentavelmente,
+ 00:12:59
+
+contribuem significativamente paraa
+ 00:13:01
+
+degradação ambiental, não é, incluindo a
+ 00:13:03
+
+perda de biodiversidade, é só nos olhar
+ 00:13:05
+
+a homogeneização de paisagem que nós
+ 00:13:08
+
+temos, por exemplo, no Rio Grande do
+ 00:13:10
+
+Sul, não é, os cultivos convencionais que
+ 00:13:12
+
+levam homogeneização e que fazem com que
+ 00:13:14
+
+as espécies naturais locais se percam,
+ 00:13:16
+
+não é? Por isso que se fala tanto na
+ 00:13:20
+
+questão de impedir a derrubada da
+ 00:13:22
+
+Amazônia, não é? Não é só e é é pro
+ 00:13:24
+
+equilíbrio mundial eh do clima, não é? Para
+ 00:13:27
+
+nós ter climas mais
+ 00:13:31
+
+regulares. É, sim. É também. Mas eu
+ 00:13:33
+
+ressalto esse exemplo para mostrar e
+ 00:13:35
+
+pensar a diversidade de espécie que tem.
+ 00:13:37
+
+a diversidade de espécies que os nossos
+ 00:13:39
+
+campos nativos do Rio Grande do Sul, por
+ 00:13:41
+
+exemplo, e do Bioma Pampa já tiveram e
+ 00:13:43
+
+vem se perdendo por o avanço de alguns
+ 00:13:45
+
+cultivos comerciais, não é, com a
+ 00:13:47
+
+justificativa econômica. Então, essas
+ 00:13:49
+
+são questões que o sistema
+ 00:13:51
+
+alimentar precisa discutir, não é, direta
+ 00:13:54
+
+ou indiretamente o impacto do sistema
+ 00:13:57
+
+alimentar, não é, no aquecimento global,
+ 00:13:59
+
+não é, e e nas mudanças climáticas, não é?
+ 00:14:03
+
+Quer dizer, se nós olhar o os nossos
+ 00:14:06
+
+rios, nós desconvivemos aqui no Rio
+ 00:14:08
+
+Grande do Sul com a com as enchentes,
+ 00:14:10
+
+não é, com a de o evento climático extremo
+ 00:14:12
+
+de abril e maio de eh 2024, não é, aonde se
+ 00:14:16
+
+nós olharmos fatores que amplificam essa
+ 00:14:21
+
+vulnerabilidade, parte é nós nós
+ 00:14:24
+
+perdemos nas regiões de Planalto,
+ 00:14:26
+
+principalmente as aquelas zonas de
+ 00:14:29
+
+amortecimento natural, as águas
+ 00:14:32
+
+não é? E também perdemos eh quer dizer, o o
+ 00:14:36
+
+o momento da chuva foi imenso. Talvez
+ 00:14:40
+
+isso não resolvesse o problema, mas
+ 00:14:44
+
+poderia amortecer, não é? Nós essas zonas
+ 00:14:46
+
+elas hoje elas não existem mais, foram
+ 00:14:49
+
+substituídas por cultivos comerciais que
+ 00:14:52
+
+avançaram boa parte justo sobre elas. E
+ 00:14:54
+
+nós perdemos também a vegetação nativa,
+ 00:14:57
+
+que de certo modo h ainda era uma um um
+ 00:14:59
+
+mecanismo de resistência a a formação de
+ 00:15:05
+
+volume e força das árvores, não é? Apesar
+ 00:15:07
+
+do avanço na produtividade agrícola, a
+ 00:15:11
+
+fome ela continua sendo persistente, não
+ 00:15:13
+
+só no Brasil, que nós vimos os números
+ 00:15:16
+
+aumentarem nos últimos anos, não é? Eh, mas
+ 00:15:18
+
+também em outros países que sequer é
+ 00:15:21
+
+discutido formas de resolver. nós olhar,
+ 00:15:24
+
+por exemplo, no continente americano,
+ 00:15:26
+
+eh, africano, onde, não é, eh, muitas
+ 00:15:28
+
+pessoas perdem a sua vida por nutrição,
+ 00:15:31
+
+não é, e
+ 00:15:35
+
+eh, por falta e carência de alimento,
+ 00:15:36
+
+realmente, não é? Eh, então o que eu quero
+ 00:15:39
+
+dizer é que de certa forma o sistema
+ 00:15:42
+
+alimentar nesse da forma como nós
+ 00:15:45
+
+vivemos hoje, eles ele ele é
+ 00:15:48
+
+subordinado, não é, a acumulação de lucro e
+ 00:15:51
+
+e a ideia de soberania, de segurança
+ 00:15:54
+
+alimentar, de democracia alimentar, ela
+ 00:15:57
+
+se perde ao longo, vem se perdendo ao
+ 00:16:00
+
+longo do tempo. Eu trago aqui alguns
+ 00:16:04
+
+exemplos só para demonstrar eh alguns
+ 00:16:06
+
+exemplos práticos, não é, do do dia a dia
+ 00:16:09
+
+que para nós observar assim que o nosso
+ 00:16:12
+
+sistema alimentar tem problemas. Eu
+ 00:16:15
+
+gosto sempre de falar e e não não tenho
+ 00:16:17
+
+nada escrito, tenho trabalhos mais eh
+ 00:16:20
+
+feitos com estudantes com objetivo de
+ 00:16:24
+
+fortalecer a a espaço de ensino,
+ 00:16:28
+
+aprendizagem, não é? Mas eu tento sempre
+ 00:16:30
+
+mostrar esse trabalho que ele eu fiz em
+ 00:16:33
+
+2018 e 2019, tô renovando ele agora, não é,
+ 00:16:36
+
+para o momento que nós vivemos, aonde
+ 00:16:39
+
+nós buscamos identificar da onde os
+ 00:16:42
+
+alimentos vêm em três tipos de
+ 00:16:45
+
+supermercados. Os supermercados e talvez
+ 00:16:48
+
+aqueles alunos que estão assistindo vão
+ 00:16:52
+
+ver isso, dizer isso já viram, não é? Eh,
+ 00:16:53
+
+eu tenho mostrado permanentemente,
+ 00:16:56
+
+porque eu acho que é um dado é algo
+ 00:16:58
+
+interessante para mostrar a estrutura do
+ 00:17:00
+
+sistema alimentar e o quanto os nossos
+ 00:17:02
+
+territórios acabam sendo comprometidos
+ 00:17:05
+
+pela forma como se organiza a a
+ 00:17:07
+
+distribuição dos alimentos. Então, o que
+ 00:17:10
+
+que nós fizemos nesse trabalho? Cada
+ 00:17:13
+
+estudante, ele munido de uma
+ 00:17:15
+
+folha, de um roteiro, um questionário,
+ 00:17:18
+
+não é? Ele visita o supermercado
+ 00:17:21
+
+visualizando os produtos da cesta
+ 00:17:23
+
+básica, aonde eles estão, na na que tipo
+ 00:17:25
+
+de produto ao eh o qual é. Então, e, por
+ 00:17:30
+
+exemplo, o arroz, quais são as marcas de
+ 00:17:35
+
+arroz que tem, aonde ele foi processado,
+ 00:17:37
+
+o preço, não é? eh, se é empresa, se é
+ 00:17:40
+
+cooperativa, o tipo de supermercado.
+ 00:17:43
+
+Depois nós classificamos em
+ 00:17:46
+
+supermercados locais, aquele
+ 00:17:49
+
+supermercado que ele tá no município,
+ 00:17:51
+
+mas que ele não é de uma marca, nem de
+ 00:17:54
+
+uma rede, nem de uma transnacional, não é?
+ 00:17:56
+
+Então, eu vou dizer assim que esse
+ 00:17:59
+
+mercado é o mercado local. Nós temos os
+ 00:18:01
+
+mercados regionais, não é, que ele tem uma
+ 00:18:04
+
+marca territorial, normalmente são
+ 00:18:07
+
+supermercados que vão
+ 00:18:09
+
+ter estão organizados em redes e fazem
+ 00:18:11
+
+compra em conjunto para abastecer todas
+ 00:18:14
+
+as unidades. Cada região tem as suas
+ 00:18:17
+
+redes próprias. Nós temos aqui a rede
+ 00:18:20
+
+Super, a rede Vivo, não é, que são
+ 00:18:22
+
+características e os e as
+ 00:18:24
+
+transnacionais, que são esses grandes
+ 00:18:26
+
+impérios alimentares, tá? Então aqui nós
+ 00:18:28
+
+temos um trabalho com 34 supermercados
+ 00:18:30
+
+de 800 registros. Só para mostrar para
+ 00:18:33
+
+vocês a distância média dos alimentos
+ 00:18:35
+
+que percorre até o supermercado de Santa
+ 00:18:37
+
+Maria, que tá nos anos de
+ 00:18:39
+
+2018, tá? Eh, para mostrar que as
+ 00:18:42
+
+transnacionais, que são Carrefur, Big,
+ 00:18:47
+
+essas esses grandes supermercados de
+ 00:18:49
+
+marca, não é, eh, Redwal Marte que
+ 00:18:52
+
+tínhamos, que aqui nós não temos mais,
+ 00:18:55
+
+tá?
+ 00:18:57
+
+Eh, mas e que eles estão da onde que vem
+ 00:18:58
+
+os alimentos. Se nós pegar em geral,
+ 00:19:02
+
+eles não têm compromisso com o local,
+ 00:19:05
+
+não é? Se nós, se vocês olharem por aonde
+ 00:19:07
+
+tá, não é?
+ 00:19:09
+
+É, na cor cinza, ele demonstra a menor
+ 00:19:10
+
+distância percorrida daquele alimento
+ 00:19:14
+
+até o supermercado. Então vocês vão ver
+ 00:19:16
+
+que o arroz ele percorre 66 km de média
+ 00:19:18
+
+do conjunto de marcas que foram vistas,
+ 00:19:23
+
+não é, eh observadas, porque nós estamos no
+ 00:19:25
+
+meio de uma região produtora de arroz.
+ 00:19:28
+
+Mas eu vou chegar assim, por exemplo, no
+ 00:19:31
+
+caso dos ovos, que para mim é muito
+ 00:19:32
+
+emblemático,
+ 00:19:34
+
+263 km, nós não, o produto que nós
+ 00:19:35
+
+consumimos aqui no município não é
+ 00:19:38
+
+produzido em sua grande maioria no
+ 00:19:41
+
+local. Isso é a realidade da maioria dos
+ 00:19:44
+
+nossos das nossas regiões. E cada
+ 00:19:47
+
+município deveria fazer esse tipo de
+ 00:19:49
+
+análise para pensar políticas públicas
+ 00:19:51
+
+para aquilo que eu vou chamar assim de
+ 00:19:53
+
+reterritorializar a comida. Hoje nós
+ 00:19:55
+
+desterritorializamos, nós compramos
+ 00:19:59
+
+comidas de outro lugar ou de nenhum
+ 00:20:01
+
+lugar, que é aquilo que nós inclusive
+ 00:20:04
+
+perdemos a capacidade de fazer, a
+ 00:20:06
+
+rastreabilidade, não é, da origem de onde é
+ 00:20:09
+
+produzido. Aqui nós temos o exemplo do
+ 00:20:11
+
+do trigo, da farinha de trigo, que eu
+ 00:20:14
+
+chamo atenção que é 61 km, porque a
+ 00:20:16
+
+unidade de processamento Santa Maria tem
+ 00:20:18
+
+vários moinhos, mas esse trigo
+ 00:20:21
+
+provavelmente é produzido na Argentina
+ 00:20:23
+
+ou em em região distante, não é? E o caso
+ 00:20:26
+
+do leite para mim também é muito
+ 00:20:29
+
+emblemático, porque o leite, ademais que
+ 00:20:30
+
+tenhamos produção local, ele viaja 250
+ 00:20:33
+
+km mais ou menos até uma unidade de
+ 00:20:37
+
+processamento 260
+ 00:20:41
+
+eh leite 261 km, processa e retorna, não é?
+ 00:20:43
+
+Então, eh eh ele tem esse, então dá para
+ 00:20:49
+
+dizer que um sistema alimentar
+ 00:20:52
+
+organizado dessa maneira está adequado,
+ 00:20:54
+
+tá? Então aqui são a média para vocês
+ 00:20:58
+
+verem, não é? Os alimentos que percorrem
+ 00:21:00
+
+mais é o óleo de soja. Chegando a 1000
+ 00:21:02
+
+km ele vem de do Paraná, não é? Em boa
+ 00:21:04
+
+parte a carne de frango 763 km. Isso é
+ 00:21:08
+
+média. Eu não tô dizendo que nós não
+ 00:21:13
+
+tenhamos casos locais. O óleo de soja
+ 00:21:15
+
+nós temos no Rio Grande do Sul. por toda
+ 00:21:17
+
+a produção que tem, não é? E isso a cadeia
+ 00:21:19
+
+produtiva deveria repensar, não é? Acho que
+ 00:21:22
+
+é uma lição de casa. Toda a produção que
+ 00:21:24
+
+tem é produção de matériapra. Nós temos
+ 00:21:26
+
+uma unidade na na noorte do estado, não é?
+ 00:21:29
+
+Produtora de óleo de soja e grande
+ 00:21:33
+
+maioria eh nós produzimos matériapra que
+ 00:21:36
+
+é exportada e depois esse eh e
+ 00:21:38
+
+dependemos de outras regiões produtoras.
+ 00:21:42
+
+Então, em boa medida, nós estamos num
+ 00:21:44
+
+território que não há comida. Eh, eu
+ 00:21:46
+
+tenho essa foto, não é? Eh, essa foto foi
+ 00:21:49
+
+tirada lá por 2005, 2006, não é, para
+ 00:21:52
+
+mostrar um pouco daquilo que eu vou
+ 00:21:56
+
+chamar da desterritorialização e
+ 00:21:59
+
+desscialização alimentar. A
+ 00:22:01
+
+destritorialização é quando nós perdemos
+ 00:22:03
+
+a conexão do alimento com a nossa
+ 00:22:05
+
+região. A desscialização é quando as
+ 00:22:07
+
+pessoas perdem o significado. Eles
+ 00:22:09
+
+comem, mas eles não têm nem ideia, não é?
+ 00:22:12
+
+É, é o, é, é aquela pessoa que se
+ 00:22:15
+
+alimenta, que compra às vezes de uma
+ 00:22:17
+
+vianda, por exemplo, ele perde o
+ 00:22:20
+
+restaurante, eu perco eu tô usando esses
+ 00:22:22
+
+exemplos só para para que me entendam,
+ 00:22:25
+
+tá? Mas eu não sei da onde vem o
+ 00:22:28
+
+produto, mas isso acontece nas gôndulas
+ 00:22:31
+
+da maioria dos supermercados. Tu compra
+ 00:22:33
+
+e tu não tem ideia. Eh, essa foto que eu
+ 00:22:36
+
+chamo atenção para mostrar para vocês é
+ 00:22:39
+
+que hoje eh eh eh eh eu tava indo, não é,
+ 00:22:42
+
+em direção a São Vicente do Sul, que era
+ 00:22:46
+
+onde eu lecionava até 2013, não é, no
+ 00:22:48
+
+campus do Instituto Federal Farropilha.
+ 00:22:51
+
+E esse caminhão, passei por esse
+ 00:22:53
+
+caminhão, tirei uma foto e dizia assim:
+ 00:22:54
+
+"Enquanto os normais dormem, os loucos
+ 00:22:56
+
+abastecem a fronteira". Por quê? Porque
+ 00:22:59
+
+a região da fronteira do Rio Grande do
+ 00:23:02
+
+Sul, nós soubemos que boa parte do
+ 00:23:03
+
+alimento consumido ali vem de outras
+ 00:23:06
+
+regiões. É uma região que produz muito
+ 00:23:09
+
+arroz, muito, muita pecuária, mas não
+ 00:23:11
+
+tem identidade com essa produção
+ 00:23:14
+
+alimentar. a professora Janaína Brandão,
+ 00:23:15
+
+que é professora da da aqui de Santa
+ 00:23:18
+
+Maria, hoje tá na na Federal do Rio
+ 00:23:20
+
+Grande do Sul, ela trabalhou na
+ 00:23:21
+
+cooperativa de Alegrete, eh justamente
+ 00:23:23
+
+reconectando a produção local,
+ 00:23:27
+
+estimulando a produção para abastecer,
+ 00:23:29
+
+porque ela se chocava com a quantidade
+ 00:23:31
+
+de moranga, cabotea, de chuchu, de
+ 00:23:33
+
+produtos que teoricamente parecem fáceis
+ 00:23:37
+
+de produzir, mas que iam abastecer esses
+ 00:23:40
+
+mercados. Então isso é a
+ 00:23:42
+
+desterritorialização aqui para mostrar
+ 00:23:45
+
+um trabalho de 2009 da Prefeitura de
+ 00:23:47
+
+Santa Maria. Eu reforço sempre para
+ 00:23:49
+
+mostrar e de dizer que não, eu não
+ 00:23:51
+
+mostro o outro porque não tem mais nem
+ 00:23:54
+
+não tem mais atual, mas que mostre os
+ 00:23:55
+
+quantitativos de quanto o município de
+ 00:23:58
+
+eh depende de alimentos de o déficit que
+ 00:24:02
+
+tem, não é, para se abastecer e que poderia
+ 00:24:05
+
+tá gerando oportunidade, trabalho,
+ 00:24:08
+
+renda, não é, para esse para essa
+ 00:24:10
+
+agricultura local. Talvez não em tudo,
+ 00:24:12
+
+não é? Porque tem algumas coisas que
+ 00:24:14
+
+realmente não tem identidade paraa nossa
+ 00:24:16
+
+região, mas que algum alguns produtos
+ 00:24:18
+
+sim. Eu uso produtos ovos como exemplo,
+ 00:24:20
+
+porque é um, nós acabamos desenvolvendo
+ 00:24:23
+
+um projeto de ovos coloniais na região
+ 00:24:26
+
+centro, aqui no colégio politécnico, que
+ 00:24:29
+
+é uma espécie de uma eh de uma reação
+ 00:24:31
+
+para numa cadeia um algo muito pequeno,
+ 00:24:35
+
+mas que para nós tem servido de
+ 00:24:39
+
+experiência para nós mostrar primeiro a
+ 00:24:41
+
+importância que tem esse tipo de
+ 00:24:42
+
+produção e depois para mostrar como o
+ 00:24:44
+
+sistema alimentar e a rede de
+ 00:24:47
+
+distribuição não é sensível a receber o
+ 00:24:49
+
+produto local. Mesmo nós produzindo uma
+ 00:24:52
+
+um muito pouco quantitativo, nós temos
+ 00:24:56
+
+dificuldade de fazer com que esses
+ 00:24:59
+
+agricultores entrassem numa pequena
+ 00:25:00
+
+parcela numa gôndula do supermercado,
+ 00:25:03
+
+porque isso é meio que dado, não é? Então
+ 00:25:05
+
+eu mostro aqui que essas
+ 00:25:07
+
+8991 toneladas de ovos, que é o déficit,
+ 00:25:10
+
+não é, da nossa eh
+ 00:25:14
+
+produção local, não é, nós teríamos aí uma
+ 00:25:16
+
+hoje uma um consumo diário derivado de
+ 00:25:20
+
+34.212
+ 00:25:25
+
+12 dúzias por dias por dia, não é? E nós
+ 00:25:27
+
+que poderiam estar sendo produzido a
+ 00:25:30
+
+nível local. Se nós usando o peso de um
+ 00:25:32
+
+ovo de 60 g, nós teríamos oportunidade
+ 00:25:35
+
+de ter 410.000 1000 eh 544 galinhas, não é,
+ 00:25:38
+
+produzindo diariamente, não é, para só para
+ 00:25:44
+
+nós mostrar esses contrastes. A gente
+ 00:25:46
+
+sabe que não tem identidade, tem uma eh
+ 00:25:49
+
+não nós não podemos também ser tão
+ 00:25:52
+
+protecionista do local, mas para nós ver
+ 00:25:54
+
+que existe oportunidade sim e que alguma
+ 00:25:56
+
+coisa acaba
+ 00:25:59
+
+acontecendo, não é, e comprometendo
+ 00:26:01
+
+inclusive o
+ 00:26:03
+
+abastecimento. o o Beer, não é, que é um
+ 00:26:05
+
+produtor que hoje é dos ovos vovó Naná,
+ 00:26:08
+
+tem 2.000 galinhas. Veja o quanto isso
+ 00:26:11
+
+significa nesse universo e muitas vezes
+ 00:26:14
+
+ele tem dificuldade de comercialização.
+ 00:26:17
+
+Ou o Jonas de Paraíso do Sul, que tem
+ 00:26:19
+
+250 galinhas e que e que nem sempre
+ 00:26:22
+
+consegue comercializar a produção dele.
+ 00:26:26
+
+um um breve reconhecimento eh a esse
+ 00:26:28
+
+tipo de produto, poder diferenciar a
+ 00:26:32
+
+vida dessas pessoas, gerar oportunidade,
+ 00:26:34
+
+trabalho, renda e assim por diante, não é?
+ 00:26:36
+
+Nós vivemos também neste sistema
+ 00:26:39
+
+alimentar a questão da homogeneização
+ 00:26:41
+
+dos hábitos alimentares, não é? Boa parte
+ 00:26:44
+
+da a nossa alimentação mundial, ela é
+ 00:26:47
+
+padronizada, não é? em em e em alimentos de
+ 00:26:49
+
+baixo custo, principalmente as fontes de
+ 00:26:54
+
+carboidratos, não é? batata, arroz, leite,
+ 00:26:56
+
+trigo e milho, não é? Eh, esses são os
+ 00:26:58
+
+alimentos que eu diria assim que eh
+ 00:27:00
+
+derivam boa parte da alimentação
+ 00:27:03
+
+mundial, não é? O foco normalmente eles têm
+ 00:27:05
+
+sido, não é, na questão da quantidade
+ 00:27:09
+
+ofertada, isso é bonito, barato, com
+ 00:27:11
+
+tempo de prateleira, não é, produzido em
+ 00:27:14
+
+escala, nós derrubamos, não é, viemos
+ 00:27:16
+
+perdendo a diversidade de alimentos. Se
+ 00:27:21
+
+vocês forem e prestem atenção quando vai
+ 00:27:24
+
+no supermercado, eu acho que o
+ 00:27:26
+
+supermercado ele nos dá é um
+ 00:27:28
+
+laboratório, ao mesmo tempo que é o
+ 00:27:30
+
+local do alimento, é um laboratório vivo
+ 00:27:32
+
+de contradições. Se nós quisermos
+ 00:27:35
+
+observar, não é? Eh, a gente tem
+ 00:27:37
+
+oportunidade de visitar um super, se
+ 00:27:39
+
+vocês visitarem um
+ 00:27:41
+
+supermercado
+ 00:27:42
+
+eh na na Espanha, tá, na na Áustria, não é,
+ 00:27:44
+
+eh, em Portugal, em São Paulo, eh, ou em
+ 00:27:52
+
+Nova York, provavelmente vocês vão
+ 00:27:56
+
+encontrar as mesmas marcas, não é, marcas,
+ 00:27:59
+
+muitas das marcas, não é, não vou as mesmas
+ 00:28:04
+
+vão estar nos nesses mercados, em locais
+ 00:28:07
+
+diferentes. Se vocês forem no setor de
+ 00:28:10
+
+frutas, que para mim é o que mais me
+ 00:28:13
+
+espanta, é as mesmas frutas com leves,
+ 00:28:15
+
+não é, produtos de época ou sazonais, mas
+ 00:28:20
+
+as frutas elas são as mesmas, elas são
+ 00:28:24
+
+padronizadas. Então, eh observem isso,
+ 00:28:27
+
+não é? Quer dizer, isso e e demonstra que
+ 00:28:30
+
+alguma coisa tá nós tá mal, não é? Nós
+ 00:28:33
+
+perdemos a diversidade. Eu trago essa
+ 00:28:36
+
+foto da direita de bananas, não é, dos
+ 00:28:38
+
+países andinos para mostrar quantos
+ 00:28:41
+
+tipos de bananas existem. Mas vocês vão
+ 00:28:43
+
+no supermercado e vocês vão encontrar
+ 00:28:46
+
+caturra e prata se tiverem sorte, tá?
+ 00:28:49
+
+Eh, se vocês forem procurar mamão, vocês
+ 00:28:53
+
+vão ter dois tipos também, não é? E então a
+ 00:28:56
+
+padronização, esse exemplo da da abóbora
+ 00:29:00
+
+no meio, uma abóbora macarrão, não estou
+ 00:29:03
+
+fazendo propaganda, mas a isla vende
+ 00:29:06
+
+semente, não é? Eh, que não tem
+ 00:29:08
+
+supermercado, uma é uma abóbora
+ 00:29:11
+
+fantástica, não é? E que, eh, pode misturar
+ 00:29:14
+
+especialmente para as pessoas que têm á
+ 00:29:17
+
+de consumo vegano, mas não só para eles,
+ 00:29:19
+
+pode misturar com uma carne também, tu
+ 00:29:21
+
+desfia ela e fica fantástica, não é? E o
+ 00:29:23
+
+Cristiano Doto que tá nos assistindo tá
+ 00:29:26
+
+com pacote de semente que nós queremos
+ 00:29:28
+
+justamente estimular esse tipo de
+ 00:29:30
+
+produto, não é? Padronização da dieta, não é?
+ 00:29:32
+
+Isso aqui é um trabalho, tá? No retrato
+ 00:29:36
+
+do sistema alimentar brasileiro e suas
+ 00:29:38
+
+contradições que o professor
+ 00:29:41
+
+Valterbellic desenvolveu em 2020, onde
+ 00:29:42
+
+ele demonstra que a nossa alimentação
+ 00:29:45
+
+base é dada nesses produtos, não é? Arroz,
+ 00:29:47
+
+feijão, pão francês, carne o do
+ 00:29:50
+
+brasileiro em geral, não é? que tá no dia a
+ 00:29:52
+
+dia, incluindo aí a cerveja e os
+ 00:29:55
+
+refrigerantes. Então, isso é um
+ 00:29:58
+
+problema. O nosso sistema alimentar, ele
+ 00:29:59
+
+tá doente. Nós convivemos ao mesmo tempo
+ 00:30:02
+
+com desertos alimentares e com pântanos
+ 00:30:05
+
+alimentares, regiões que não têm
+ 00:30:08
+
+interesse econômico, não é? eh com zona,
+ 00:30:10
+
+são regiões que têm eh acesso limitado a
+ 00:30:14
+
+principalmente a alimentos eh frescos,
+ 00:30:19
+
+alimentos saudáveis, não é, e com preço com
+ 00:30:22
+
+preços acessíveis, não é? Então, se esse
+ 00:30:26
+
+mapa que eu uso aqui é o mapa aqui do
+ 00:30:29
+
+município de Santa Maria. Foi uma um um
+ 00:30:31
+
+trabalho que nós produzimos durante a
+ 00:30:34
+
+COVID. Tá publicado inclusive esse
+ 00:30:36
+
+artigo que fala das feiras, não é, do do do
+ 00:30:39
+
+Rio Grande do Sul no contexto da da
+ 00:30:43
+
+COVID, como é que se comportou, mas nós
+ 00:30:46
+
+nós tiramos um tempo para
+ 00:30:48
+
+georreferenciar
+ 00:30:51
+
+a as feiras livres, não é, de do município
+ 00:30:53
+
+de Santa Maria. E a gente evidencia que
+ 00:30:57
+
+o al as feiras estão só na região de
+ 00:30:59
+
+alta renda, não é? Não existem feiras,
+ 00:31:02
+
+existe uma feira, uma feira numa num
+ 00:31:05
+
+bairro, não é, eh, que é o bairro Tancreiro
+ 00:31:08
+
+Neves para quem conhece, e todas as
+ 00:31:11
+
+demais estão concentradas no centro e
+ 00:31:14
+
+aqui em Camobi, que também é um bairro
+ 00:31:15
+
+de uma renda mais elevada. Então, agora
+ 00:31:18
+
+saiu também uma pesquisa, não é, um um
+ 00:31:20
+
+trabalho eh que está
+ 00:31:23
+
+publicado, eh, deixa eu só conferir bem
+ 00:31:27
+
+rápido, não é, mas se alguém tiver
+ 00:31:30
+
+interesse, que que é sobre as
+ 00:31:32
+
+desigualdades sociais e étnico-raciais
+ 00:31:34
+
+na acessibilidade física aos mercados de
+ 00:31:37
+
+agricultores em Porto Alegre, não é? é um
+ 00:31:39
+
+trabalho que que é que é foi que que
+ 00:31:42
+
+mostra um pouco, não é, de de do quanto
+ 00:31:45
+
+algumas regiões de Porto Alegre também
+ 00:31:48
+
+estão distante, não é, dão a a as pessoas
+ 00:31:51
+
+de alguns bairros estão distantes de
+ 00:31:54
+
+alimentos orgânicos,
+ 00:31:57
+
+agroecológicos, não é, das feiras,
+ 00:31:59
+
+principalmente das feiras livres, que é
+ 00:32:01
+
+o o viés desse desses dois artigos que
+ 00:32:03
+
+demonstram isso, tá? Então, desertos
+ 00:32:06
+
+alimentares são essas regiões. Eu falei
+ 00:32:08
+
+aqui de grandes cidades, mas imagino
+ 00:32:11
+
+essas comunidades menores aonde nós
+ 00:32:14
+
+viemos perdendo população ano após ano e
+ 00:32:17
+
+ao mesmo tempo convivemos com pântanos
+ 00:32:20
+
+alimentares, não é? Zona onde há muito
+ 00:32:22
+
+ponto de venda e alimento que não tem
+ 00:32:25
+
+saudabilidade, não é? Que são alimentos
+ 00:32:28
+
+processados, comida rápida, não é?
+ 00:32:30
+
+eh todo o a espécie aí de bebida
+ 00:32:34
+
+açucarada, que inclusive hoje nós
+ 00:32:37
+
+fizemos uma, existem vários estudos que
+ 00:32:40
+
+demonstra a relação que tem, não é, da
+ 00:32:43
+
+obesidade, das doenças
+ 00:32:45
+
+eh adquiridas, não é, de origem alimentar,
+ 00:32:48
+
+não é, que estão relacionados a esses
+ 00:32:51
+
+plândonos alimentares. Pessoal da
+ 00:32:53
+
+nutrição tem feito muito trabalho, onde
+ 00:32:55
+
+avalia os o justamente faz essa relação.
+ 00:32:58
+
+É, eu não posso deixar de falar porque é
+ 00:33:02
+
+um assunto que tem sido muito caro para
+ 00:33:04
+
+nós da contaminação química dos
+ 00:33:06
+
+alimentos, não é? E esse aqui é um
+ 00:33:07
+
+trabalho, a tese da doutorada da Magali
+ 00:33:10
+
+Kemerich, não é? Que ela avaliou o resíduo
+ 00:33:13
+
+de agrotóxico em ameixa, maçã, pera, eh,
+ 00:33:15
+
+e pêssego, que produtos originados de
+ 00:33:18
+
+outros países que entravam no Brasil via
+ 00:33:22
+
+importação, não é? E nós av e nesse
+ 00:33:25
+
+trabalho ela mostra eh com 41 almoças de
+ 00:33:28
+
+pera, 33 de maçã coletada na zona de
+ 00:33:31
+
+fronteira de dentro do caminhão, não é? Eh,
+ 00:33:34
+
+além de ameixa e pêssego, ela evidenciou
+ 00:33:38
+
+que 20 de 41 amostras de per apresentava
+ 00:33:41
+
+resíduo de um ou mais agrotóxico. As de
+ 00:33:45
+
+maçã, todas as 33 apresentaram pelo
+ 00:33:49
+
+menos um resíduo. No caso da mexa, das
+ 00:33:52
+
+16, quatro contaminados com resíduo e
+ 00:33:55
+
+nenhuma desses resíduos autorizados
+ 00:33:58
+
+paraa cultura. O pêssego das 10
+ 00:34:00
+
+analisadas seis com resíduos. Eu eu eu
+ 00:34:03
+
+faço questão de mostrar, não é, que o
+ 00:34:06
+
+consumidor ele está neste campo
+ 00:34:08
+
+completamente refém, porque
+ 00:34:11
+
+eh ele vai, ele precisa do alimento, ele
+ 00:34:14
+
+vai e compra do supermercado e ele não
+ 00:34:17
+
+chega ao ponto, não é, de conseguir
+ 00:34:19
+
+verificar eh a sua qualidade, não é, e e
+ 00:34:22
+
+essa característica ou não, não é? E nós
+ 00:34:27
+
+usamos aqui, ficou um pouco
+ 00:34:30
+
+desconfigurado, mas é um trabalho que
+ 00:34:32
+
+nós fizemos em 2021 pela polifera do
+ 00:34:33
+
+agricultor, aonde nós verificamos
+ 00:34:36
+
+diferentes eh marcas de farinha, tá? E e
+ 00:34:38
+
+todas elas tinham resíduos menor que o
+ 00:34:44
+
+que o estabelecido pelo Ministério da
+ 00:34:48
+
+Agricultura, não é? Que que existe um um a
+ 00:34:50
+
+Anvisa, não é? eh tem uma norma que
+ 00:34:53
+
+identifica o limite máximo de resíduo
+ 00:34:57
+
+que é permitido em cada produto. Nós
+ 00:34:59
+
+encontramos aqui principalmente esse
+ 00:35:01
+
+esse produto chamado perímifos metílico,
+ 00:35:04
+
+que é utilizado paraas pragas, não é, de
+ 00:35:06
+
+estocagem dentro do silo, mas todos os
+ 00:35:10
+
+todas as farinhas com resíduo. E aí a
+ 00:35:13
+
+gente sempre vem, qual é a pergunta que
+ 00:35:15
+
+vem? Qual é o resíduo que o nosso
+ 00:35:17
+
+organismo tolera? esse pirimfos
+ 00:35:19
+
+metílico, se vocês buscarem e fazer a
+ 00:35:22
+
+relação, não é, buscarem
+ 00:35:25
+
+eh os trabalhos acadêmicos que
+ 00:35:28
+
+demonstram na claro do do da área da
+ 00:35:31
+
+saúde e que demonstram a quantidade, não é,
+ 00:35:34
+
+ao que que prime fosmetilo, que tipo de
+ 00:35:38
+
+doença que é derivado dela. Vou deixar
+ 00:35:40
+
+para vocês mesmo mesmo tirar vossas
+ 00:35:42
+
+conclusões. poderia falar também, n?
+ 00:35:45
+
+Veja, eu tô trazendo aqui uma série de
+ 00:35:48
+
+problemas do do sistema alimentar tal
+ 00:35:50
+
+como ele tá, que talvez não seja
+ 00:35:52
+
+novidade, não é, para o pessoal da academia
+ 00:35:54
+
+que trabalha com esse tema, isso isso
+ 00:35:57
+
+talvez seja como chutar cachorro morto,
+ 00:35:59
+
+não é? Já tá usando um um um uma ditado que
+ 00:36:01
+
+não deve mais ser usado, não é? Mas que já
+ 00:36:07
+
+foi no passado, não é? Então, eh, as
+ 00:36:09
+
+questões, a questão, por exemplo, da
+ 00:36:13
+
+contaminação química, eh, sobre o as
+ 00:36:15
+
+plantas, não é, sobre o sobre no Rio Grande
+ 00:36:18
+
+do Sul, nós vivemos um verdadeiro
+ 00:36:21
+
+desastre contra a diversificação da
+ 00:36:23
+
+agricultura, não é? é os cultivos de
+ 00:36:27
+
+frutíferas, de folha larga. Aqui nós
+ 00:36:30
+
+temos uma uma foto de uma videira que é
+ 00:36:32
+
+aquela planta que talvez tenha sentido
+ 00:36:35
+
+mais, mas que a deriva dos agrotóxicos
+ 00:36:38
+
+hormonais utilizados na cultura
+ 00:36:41
+
+predominante nos sistemas de produção
+ 00:36:44
+
+que é a soja, não é? eles acabam
+ 00:36:46
+
+comprometendo a diversidade, não só da
+ 00:36:49
+
+nossa região aqui do centro, mas também
+ 00:36:53
+
+da região eh do Alto Uruguai, não é, da
+ 00:36:55
+
+região da campanha gaúcha e daqui a
+ 00:36:59
+
+pouco vai estar também em outros estados
+ 00:37:01
+
+brasileiros, com certeza vão estar
+ 00:37:04
+
+sofrendo com esse herbicida que é
+ 00:37:06
+
+utilizado para eh controlar algumas
+ 00:37:08
+
+plantas invasoras das lavouras, as
+ 00:37:12
+
+abelhas, não é, a o o o número de de
+ 00:37:15
+
+evidências que surgem, não é, dessa eh
+ 00:37:19
+
+contaminação e e da morte delas, a
+ 00:37:23
+
+questão das mudanças ambientais, não é, eh
+ 00:37:26
+
+o sistema alimentar também tem o sua
+ 00:37:30
+
+parcela, não é, que eu acho que nos deixa
+ 00:37:32
+
+como desafio de nos organizarmos melhor
+ 00:37:36
+
+para eh pensarmos o futuro das gerações,
+ 00:37:38
+
+não é? Eu acho que nós, eh, pela própria
+ 00:37:42
+
+forma como ocupamos o espaço agrário ao
+ 00:37:45
+
+longo do tempo, nós não considerávamos,
+ 00:37:48
+
+não é, eh algumas situações que hoje
+ 00:37:51
+
+precisam cada vez mais existem
+ 00:37:53
+
+evidência. Aqui são fotos da quarta
+ 00:37:56
+
+colônia de de imigração italiana das
+ 00:37:58
+
+regiões de lavoura de arroz e vocês
+ 00:38:00
+
+podem conferir o estado que ficou, não é, e
+ 00:38:03
+
+que vocês conhecem também.
+ 00:38:06
+
+Falo ainda já finalizando essa parte,
+ 00:38:08
+
+não é, da
+ 00:38:10
+
+da do sistema alimentar do próprio
+ 00:38:11
+
+comprometimento da renda dos
+ 00:38:15
+
+agricultores. Nós aqui tem um trabalho
+ 00:38:17
+
+interessante feito dos Estados Unidos
+ 00:38:20
+
+que demonstra o quanto tem eh em um
+ 00:38:22
+
+trabalho de 2015, não é? Se alguém tiver
+ 00:38:24
+
+interesse, posso passar a referência
+ 00:38:26
+
+posteriormente, não é?
+ 00:38:28
+
+eh, mas que demonstra o quanto a renda
+ 00:38:31
+
+dos agricultores vem ficando no caminho,
+ 00:38:34
+
+não é? Corroborando com o trabalho esse
+ 00:38:36
+
+publicado pelo que que é foi e é é é
+ 00:38:38
+
+muito estudado pelo Ver Plug, não é? Mas o
+ 00:38:42
+
+o Glism cita esse trabalho no ano de
+ 00:38:44
+
+2000, que não é diferente, que é essa
+ 00:38:47
+
+tesoura de preços, não é? que é o quanto os
+ 00:38:49
+
+nossos agricultores vêm perdendo renda
+ 00:38:52
+
+pelo incremento de custo de produção.
+ 00:38:54
+
+Hoje, quem é que domina o sistema, quem
+ 00:38:58
+
+é que domina os insumos no mundo? É, são
+ 00:39:00
+
+pouquíssimas empresas, não é, que t
+ 00:39:03
+
+unicamente do lucro. A prova é que boa
+ 00:39:07
+
+parte dos nossos eh agroquímicos
+ 00:39:10
+
+utilizados no Brasil, eles são
+ 00:39:14
+
+produzidos na eh em países europeus que
+ 00:39:16
+
+principalmente a Alemanha, onde
+ 00:39:22
+
+justamente é proibido n o uso nos
+ 00:39:24
+
+cultivos daqueles insumos. Então é
+ 00:39:27
+
+aquilo que a gente chama de colonialismo
+ 00:39:29
+
+eh químico, que ainda acontece sobre as
+ 00:39:32
+
+populações do do do sul global. e os
+ 00:39:35
+
+países pobres, então nós podemos nos
+ 00:39:39
+
+contaminar, eles não, não é? Mas eh então
+ 00:39:41
+
+existe esse esse
+ 00:39:45
+
+achatamento. Eh eu convivi durante o
+ 00:39:47
+
+período esse de pós-doutorado, cheguei,
+ 00:39:49
+
+não é, no na Espanha no momento em que
+ 00:39:51
+
+acontecia os protestos agricultores
+ 00:39:55
+
+europeus ao mesmo e e aí a gente há uma
+ 00:39:57
+
+evidência de que alguma coisa está
+ 00:40:00
+
+errada. Ao mesmo tempo que esses
+ 00:40:01
+
+agricultores faziam protesto por mais
+ 00:40:03
+
+renda e reclamavam do governo, o
+ 00:40:05
+
+supermercado Mercadona, que a maior rede
+ 00:40:08
+
+de supermercado espanhola, comemorava os
+ 00:40:11
+
+maiores lucros da história, não é? Então, o
+ 00:40:13
+
+setor de distribuição hoje é quem fica
+ 00:40:15
+
+com a renda desses do setor
+ 00:40:17
+
+produtivo. E o agricultor é tão vítima
+ 00:40:20
+
+do processo que ele não se são poucos
+ 00:40:23
+
+que se dão conta disso. Na hora que a
+ 00:40:25
+
+coisa tá ruim, o problema sempre acaba
+ 00:40:27
+
+sendo do governo e não do sistema como
+ 00:40:30
+
+ele tá organizado e para quem nós
+ 00:40:32
+
+vendemos. nós perdemos de a necessidade,
+ 00:40:35
+
+assim, nós vemos perdendo um pouco da
+ 00:40:39
+
+relação com as cooperativas, não é, que que
+ 00:40:42
+
+eu acho que representa um espaço
+ 00:40:45
+
+importante de reação a esse sistema
+ 00:40:47
+
+alimentar globalizado. Poderia falar
+ 00:40:50
+
+muita coisa, mas eh nós temos que eh uma
+ 00:40:52
+
+separação total das esferas entre a
+ 00:40:58
+
+produção e consumo. É a realidade do
+ 00:41:01
+
+sistema alimentar.
+ 00:41:02
+
+consumidores cada vez mais com um
+ 00:41:05
+
+conceito limitado aos alimentos do que
+ 00:41:07
+
+são, como são produzidos, por quem, que
+ 00:41:10
+
+condições, onde, não é, quem são essas
+ 00:41:12
+
+famílias. Isso no nosso entorno, os
+ 00:41:15
+
+produtores eles não tendem também assim,
+ 00:41:18
+
+eh, o agricultor em geral, o agricultura
+ 00:41:22
+
+é um setor que tá desconectado, que quer
+ 00:41:24
+
+gerar, que quer riqueza, não é, mas que de
+ 00:41:28
+
+certa forma eh se desconectou da ponta
+ 00:41:30
+
+do consumo, não é? Eh, nós vemos aqui
+ 00:41:34
+
+várias, poderia fazer uma análise do
+ 00:41:38
+
+contexto de como as organizações dos dos
+ 00:41:40
+
+produtores rurais, dos agricultores t
+ 00:41:43
+
+caminhado, principalmente da grande da
+ 00:41:46
+
+grande maioria, não é? E e não tá
+ 00:41:47
+
+preocupado em enfrentar esse sistema,
+ 00:41:51
+
+tá? Com eh busca se adaptar a ele, tá?
+ 00:41:53
+
+Então, e numa sociedade mais urbanizada
+ 00:41:57
+
+não tem mais espaço para compreensão
+ 00:41:59
+
+entre as partes. Eu diria que que aquele
+ 00:42:03
+
+que tá ouvindo agora, não é, vai pensar
+ 00:42:06
+
+assim: "Mas o que que eu faço?"
+ 00:42:08
+
+Não, generalizada que a Renata Menache
+ 00:42:12
+
+Cris Conceito, não é? e que eh mostra esse
+ 00:42:15
+
+distanciamento cognitivo, cultural que
+ 00:42:19
+
+as pessoas têm em relação a uma comida
+ 00:42:22
+
+de verdade. Entre no supermercado, esta
+ 00:42:25
+
+foto foi o chat GPT que fez para mim,
+ 00:42:28
+
+não fui eu, não é? Mas para pensar assim,
+ 00:42:30
+
+não é? eh o quanto eh um supermercado nos
+ 00:42:34
+
+deixa perdido em relação à informação
+ 00:42:39
+
+para mim tomar uma decisão de consumo
+ 00:42:42
+
+mais refletida, não é? eh, principalmente
+ 00:42:45
+
+num cenário de alimento processada que
+ 00:42:49
+
+veio para dar conta de uma necessidade
+ 00:42:52
+
+de um consumidor urbano que cada vez tem
+ 00:42:55
+
+menos tempo para pensar sobre como
+ 00:42:58
+
+organiza a alimentação em seu contexto
+ 00:43:01
+
+de vida. A alimentação saudável, fresca,
+ 00:43:04
+
+direta do agricultor, ela ela nos
+ 00:43:07
+
+demanda tempo, organização, não é?
+ 00:43:10
+
+reconheceronde que esses agricultores
+ 00:43:13
+
+estão e isso é um desafio muito grande,
+ 00:43:15
+
+não é? Então, eh, e eu digo que a gente não
+ 00:43:18
+
+sabe ainda o que é fato e o que é fake.
+ 00:43:22
+
+Eu recomendo nas pessoas que querem ser
+ 00:43:25
+
+mais prudentes em relação a isso, pelo
+ 00:43:27
+
+menos avaliar mais a as etiquetas, não é, a
+ 00:43:30
+
+rotulagem dos nossos alimentos. A nossa
+ 00:43:35
+
+relação com o sistema alimentar em boa
+ 00:43:38
+
+medida continua sendo de indiferença,
+ 00:43:41
+
+indiferença da sociedade, não é? Pois a
+ 00:43:44
+
+comida ela ela é nós pensamos nela e que
+ 00:43:46
+
+ela vai estar no supermercado em algum
+ 00:43:49
+
+lugar, não é? Aqui em Santa Maria os
+ 00:43:51
+
+supermercados não abrem aos domingos,
+ 00:43:53
+
+que é um dia que nós ficamos, mas a
+ 00:43:55
+
+gente já sabe qual que é o supermercado
+ 00:43:57
+
+que tá aberto. Então a a nossa ideia é
+ 00:44:00
+
+que o alimento vai estar lá. Então, se
+ 00:44:03
+
+eu for no supermercado, eu encontro esta
+ 00:44:06
+
+esta é o suficiente de de o espaço que a
+ 00:44:09
+
+grande maioria do consumidor utiliza,
+ 00:44:12
+
+não é? Então a a sociedade ela acaba sendo
+ 00:44:15
+
+indiferente. Quando eu vejo assim o o
+ 00:44:18
+
+quanto nós perdemos de fôlego para
+ 00:44:21
+
+tentar entrar no supermercado com esse
+ 00:44:24
+
+projeto dos ovos coloniais, nós vimos o
+ 00:44:26
+
+quanto, não é, eh a sociedade em geral
+ 00:44:29
+
+ainda cobra muito pouco do próprio
+ 00:44:32
+
+supermercado de ter diversidade, não é? Nós
+ 00:44:35
+
+temos a indiferença também do setor
+ 00:44:38
+
+público, não é? pois eles têm outros
+ 00:44:40
+
+problemas, talvez muito mais importante,
+ 00:44:42
+
+quais são? E tem vários trabalhos que
+ 00:44:45
+
+evidenciam que mesmo nas campanhas
+ 00:44:48
+
+eleitorais, a agenda alimentar ela não
+ 00:44:50
+
+aparece. A preocupação com nossa
+ 00:44:53
+
+agricultura familiar de fomentar um
+ 00:44:55
+
+comércio mais local, com algumas
+ 00:44:58
+
+políticas dirigidas a quem vende um
+ 00:45:00
+
+produto local, ela é inexistente em boa
+ 00:45:02
+
+parte. Nós vemos as próprias políticas,
+ 00:45:05
+
+não é, de proteção à agricultura familiar.
+ 00:45:08
+
+Lamentavelmente, no caso das videiras e
+ 00:45:11
+
+dos dos herbicidas
+ 00:45:14
+
+hormonais, muitos agricultores que foram
+ 00:45:16
+
+fomentados a produzir no passado pelo
+ 00:45:19
+
+estado, ah, que foi bater a sua porta e
+ 00:45:22
+
+oferecer uma política pública, não estão
+ 00:45:25
+
+hoje lá protegendo eles. Então, nós
+ 00:45:26
+
+temos a indiferença também do setor
+ 00:45:29
+
+público e das próprias organizações dos
+ 00:45:32
+
+produtores, que eu vejo que tem feito
+ 00:45:34
+
+muito pouco. O resultado, nós temos o
+ 00:45:36
+
+ambiente institucional favorável pro
+ 00:45:39
+
+desenvolvimento de certas regularidades,
+ 00:45:41
+
+não é, que estão aceitas e não são mais eh
+ 00:45:44
+
+contestadas, não é? Eh, quanto mais isso
+ 00:45:47
+
+acontecer, mais esse sistema
+ 00:45:50
+
+agroalimentar dominante, invisível, vai
+ 00:45:53
+
+se fortalecer, quanto menos as pessoas
+ 00:45:56
+
+se deram em conta. É isso que justo o
+ 00:45:58
+
+sistema precisa, não é? e sociedades com
+ 00:46:00
+
+cada vez com sociedades mais
+ 00:46:04
+
+urbanizadas, claro, há espaço para que
+ 00:46:06
+
+essa lógica seja reproduzida. Então,
+ 00:46:10
+
+para mim, não é, e e acredito que para
+ 00:46:12
+
+muitos dos que estão participando aqui,
+ 00:46:14
+
+o desafio é criar novos espaços, novas,
+ 00:46:16
+
+aquilo que eu vou chamar de
+ 00:46:20
+
+institucionalidade, porque eu venho do
+ 00:46:22
+
+institucionalismo sociológico, não é? eh a
+ 00:46:24
+
+as novas institucionalidades que são
+ 00:46:28
+
+novas regularidades para contrapor ou
+ 00:46:29
+
+criar novos movimentos dentro desta
+ 00:46:32
+
+grande bolha que nós vivemos, tá? Eh,
+ 00:46:34
+
+então nós precisamos sair desse sistema
+ 00:46:38
+
+agroalimentar homogêneo, não é, para um
+ 00:46:41
+
+mais territorializado e e localizado.
+ 00:46:44
+
+Então, a pergunta para mim não é se os
+ 00:46:47
+
+sistemas alimentares precisam de
+ 00:46:49
+
+mudanças. A pergunta é qual a mudança ou
+ 00:46:51
+
+em direção a que que nós precisamos
+ 00:46:54
+
+evoluir. Nós buscamos um sistema
+ 00:46:57
+
+alimentar, não é, com várias questões que
+ 00:46:59
+
+eu não vou comentar cada uma aqui, não é?
+ 00:47:03
+
+ficou extremamente poluído esta slide,
+ 00:47:07
+
+não é, esse slide, mas eu preciso dizer que
+ 00:47:10
+
+nós precisamos alimento suficiente,
+ 00:47:13
+
+saudável, de qualidade para todos, não é? E
+ 00:47:16
+
+esse é um direito universal das pessoas.
+ 00:47:19
+
+Mas além disso, nós temos que pensar que
+ 00:47:22
+
+a nossa decisão alimentar também tem
+ 00:47:24
+
+responsabilidades. E nisso nós
+ 00:47:27
+
+precisamos, não é que o meu direito, mas
+ 00:47:29
+
+nós precisamos pensar nos demais, que
+ 00:47:31
+
+todos tenham direito a uma alimentação
+ 00:47:33
+
+suficiente, saudável e de qualidade, não é?
+ 00:47:37
+
+Nós precisamos avançar no sentido que
+ 00:47:40
+
+todas as pessoas tenham eh
+ 00:47:43
+
+oportunidades, não é, dentro de desse
+ 00:47:45
+
+sistema alimentar, não é, que nós não
+ 00:47:48
+
+continuemos, por exemplo, com essa
+ 00:47:50
+
+dificuldade de espaço paraa agricultura
+ 00:47:52
+
+familiar, especialmente na na
+ 00:47:54
+
+comercialização e e e na baixa
+ 00:47:57
+
+visualização deles dentro do sistema.
+ 00:47:59
+
+Precisamos envolver mais pessoas para
+ 00:48:05
+
+estarem comprometida com com essa
+ 00:48:08
+
+transformação, com mais informação
+ 00:48:11
+
+disponível que gere o pensamento
+ 00:48:13
+
+crítico, não é? Que a produção, o
+ 00:48:15
+
+processamento, a distribuição, todo o
+ 00:48:17
+
+consumo respeite e sejam sensíveis aos
+ 00:48:19
+
+seres vivos, aos seres não vivos, ao
+ 00:48:22
+
+meio ambiente, não é? As nossas
+ 00:48:25
+
+materialidades que compõem eh a paisagem
+ 00:48:27
+
+alimentar, não é? eh que todas as pessoas
+ 00:48:30
+
+sejam responsáveis por pensar esses e e
+ 00:48:34
+
+encarar esses desafios que nós temos
+ 00:48:38
+
+para resolver problemas globais, como a
+ 00:48:40
+
+mudança climática, não é, como a questão
+ 00:48:42
+
+dos imigrantes, não é, e tantas
+ 00:48:45
+
+responsabilidades que o sistema
+ 00:48:48
+
+alimentar pode contribuir, não é, e que nós
+ 00:48:50
+
+passe também a a ver o alimento mais
+ 00:48:53
+
+como um valor de uso e menos como um
+ 00:48:57
+
+valor de mercadoria. Então, algum, esse
+ 00:48:59
+
+é o sistema alimentar que nós
+ 00:49:01
+
+precisávamos avançar. Então, uma decisão
+ 00:49:03
+
+daquilo que nós levamos, não é, dentro do
+ 00:49:05
+
+carrinho no dia a dia, pode passar a ser
+ 00:49:08
+
+uma história fascinante, não é, e que
+ 00:49:11
+
+diminua a passividade das pessoas em
+ 00:49:14
+
+relação a isso. E aí eu entro que as
+ 00:49:17
+
+decisões nossas elas têm peso, não é? Eu
+ 00:49:19
+
+trago o rótulo aqui dos ovos coloniais
+ 00:49:23
+
+Paraíso, que é do Jonas, produtor de
+ 00:49:25
+
+Paraíso do Sul, que tem 250 galinhas que
+ 00:49:28
+
+poedeiras, livres de gaiola, que pastam,
+ 00:49:33
+
+que exercem as suas as suas eh
+ 00:49:35
+
+características naturais, não é? e que
+ 00:49:39
+
+chega um supermercado carregado de
+ 00:49:42
+
+história, mas que se ele ficar lá na
+ 00:49:44
+
+prateleira do supermercado, talvez nós
+ 00:49:48
+
+não vamos saber, não é, que ele tem e esse
+ 00:49:50
+
+sistema de produção e que eh precisa
+ 00:49:53
+
+chegar a um número maior de pessoas com
+ 00:49:57
+
+as informações muito mais do que aquela
+ 00:49:59
+
+informação que tá no rótulo. como diz o
+ 00:50:02
+
+o o Jorge, o Apadurai, não é, e em um em um
+ 00:50:05
+
+livro dele, os alimentos eles têm vida,
+ 00:50:09
+
+eles têm significado e eles podem se
+ 00:50:11
+
+transformar. E aí eu entro na ideia da
+ 00:50:14
+
+estadania alimentar, que eu vejo que o
+ 00:50:16
+
+tempo tá indo e eu vou eh tentar ser
+ 00:50:18
+
+breve e trazer um simples caso aqui para
+ 00:50:21
+
+vocês, não é, eh para mostrar o que que é a
+ 00:50:24
+
+cidadania alimentar. A ideia de cidadão,
+ 00:50:27
+
+não é, ela é uma ideia comum na nossa
+ 00:50:30
+
+linguagem. O que eu vou tentar trazer de
+ 00:50:33
+
+novo aqui é que a cidadania alimentar é
+ 00:50:35
+
+uma abordagem que ela não é muito
+ 00:50:39
+
+utilizada, não é, eh, no Brasil, é mais
+ 00:50:42
+
+utilizada nos países andinos, ligado ao
+ 00:50:45
+
+conceito de soberania e democracia
+ 00:50:48
+
+alimentar, mas que, em resumo, eles ele
+ 00:50:50
+
+ele se refere à prática das pessoas se
+ 00:50:54
+
+envolver em comportamentos relacionados
+ 00:50:57
+
+com a alimentação, não é, e comportamentos
+ 00:50:59
+
+que apoiem em vez de ameaçar o
+ 00:51:02
+
+desenvolvimento do sistema alimentar
+ 00:51:05
+
+mais democrático, social, economicamente
+ 00:51:07
+
+justo, e ambientalmente sustentável,
+ 00:51:09
+
+cidadania alimentar. É isso. Além disso,
+ 00:51:12
+
+não é, nós acrescentamos, esse é o trabalho
+ 00:51:16
+
+do Wilkins, é um trabalho de 2005, não é, o
+ 00:51:18
+
+o trabalho da professora Carmen Lozano
+ 00:51:21
+
+Cabedo, que foi minha supervisora no
+ 00:51:24
+
+pós-doutorado na um trabalho de 2017,
+ 00:51:26
+
+aonde ela evidencia que porque aqui tá
+ 00:51:29
+
+muito, não é, eh, eh, chama a
+ 00:51:32
+
+responsabilidade das pessoas, mas o
+ 00:51:34
+
+trabalho da professora Carmen amplia não
+ 00:51:36
+
+só com a ideia de um direito, mas também
+ 00:51:39
+
+como uma obrigação, uma responsabil
+ 00:51:42
+
+habilidade de que as pessoas não sejam
+ 00:51:44
+
+guiadas somente pelo seu próprio
+ 00:51:47
+
+interesse, que estaria mais numa
+ 00:51:49
+
+vertente eh de uma ideia liberal, não é, do
+ 00:51:51
+
+do direito à alimentação, mas eh do
+ 00:51:55
+
+Estado, da das coisas estarem bem
+ 00:51:58
+
+regulamentadas, não é, para porque eu tenho
+ 00:52:01
+
+informação suficiente para tomar a minha
+ 00:52:03
+
+decisão, mas amplia também para que a
+ 00:52:06
+
+cidadania tenha uma
+ 00:52:08
+
+obrigatoriedade, não é, ou eh uma uma
+ 00:52:10
+
+responsabilidade de um direito coletivo
+ 00:52:14
+
+das pessoas, que todos têm direito a uma
+ 00:52:17
+
+alimentação, não é? E essa e e esse direito
+ 00:52:20
+
+seja carregado por outras dimensões, que
+ 00:52:23
+
+aquilo que nós nesse conceito da
+ 00:52:26
+
+cidadania alimentar vamos trabalhar com
+ 00:52:28
+
+oito dimensões, que não é o objetivo
+ 00:52:30
+
+aqui abrir o conceito na sua
+ 00:52:32
+
+integralidade, mas eu quero dizer que
+ 00:52:35
+
+nós precisamos de pessoas. O cidadão
+ 00:52:37
+
+alimentar é aquele que se sente
+ 00:52:40
+
+responsável e que desafia as rotinas, as
+ 00:52:42
+
+ideias, não é, a os entendimentos, as
+ 00:52:46
+
+práticas, inclusive as o campo
+ 00:52:50
+
+regulativo em torno da alimentação e que
+ 00:52:52
+
+seja isso seja guiado pelo interesse
+ 00:52:55
+
+coletivo. Este é o cidadão alimentar, o
+ 00:52:58
+
+cidadão e e e eu sempre uso, não é, que foi
+ 00:53:01
+
+muito bem utilizado por esses autores,
+ 00:53:04
+
+Lozano, Cabedo e e o Benito, que
+ 00:53:08
+
+inclusive fez uma uma conferência aqui o
+ 00:53:10
+
+ano passado, não é? eh onde eles eles
+ 00:53:13
+
+mostram que assim como a a
+ 00:53:17
+
+ecologia, a a democracia precisa de um
+ 00:53:20
+
+cidadão que a defenda, o cidadão
+ 00:53:24
+
+democrático. A ecologia precisa de um
+ 00:53:27
+
+cidadão que defenda o meio ambiente, que
+ 00:53:30
+
+acredite nela, que trabalhe preservação
+ 00:53:32
+
+da vida. A alimentação também precisa de
+ 00:53:36
+
+um cidadão que a defenda e que incorpore
+ 00:53:38
+
+isso na sua ação do dia a dia. Então,
+ 00:53:41
+
+este é a ideia de cidadão alimentar. E
+ 00:53:44
+
+aí, eh, a, a, a, a
+ 00:53:47
+
+transformação seria daquele consumidor
+ 00:53:49
+
+objeto de poder, não é, passivo e
+ 00:53:52
+
+dependente da decisão alheia para um
+ 00:53:55
+
+cidadão ou um sujeito de poder que seja
+ 00:53:59
+
+protagonista, não é, que tenha a ideia de
+ 00:54:02
+
+participar ativamente da transformação
+ 00:54:05
+
+do sistema alimentar. cidadania
+ 00:54:08
+
+alimentar, ele está
+ 00:54:10
+
+relacionado com o conceito este do
+ 00:54:12
+
+direito individual, mas também com o
+ 00:54:15
+
+direito coletivo, nido que as nossas
+ 00:54:18
+
+ações também evocam responsabilidade
+ 00:54:21
+
+sobre aquele conjunto de questões que eu
+ 00:54:24
+
+enumerei antes, não é? Então essa a nossa
+ 00:54:27
+
+capacidade de nos envolver e tomar
+ 00:54:30
+
+comportamento alimentar que vão vão
+ 00:54:32
+
+muito mais do alimento como a ideia de
+ 00:54:34
+
+mercadoria. Eh, a cidadania alimentar,
+ 00:54:39
+
+então, ela amplia essa ideia do voto. Se
+ 00:54:43
+
+existe uma corrente que diz, não é, e
+ 00:54:46
+
+trabalhou muito e acho que tem que
+ 00:54:48
+
+continuar trabalhando porque essa o a
+ 00:54:50
+
+transformação do sistema não é completa,
+ 00:54:53
+
+não é? O próprio conceito de cidadão, será
+ 00:54:56
+
+que existe um cidadão alimentar que
+ 00:54:59
+
+atende aquelas oito dimensões que nós
+ 00:55:01
+
+trabalhamos ou existem mais em alguns
+ 00:55:03
+
+campos e menos no em outro? Eu acho que
+ 00:55:07
+
+esse e a cidadania alimentar se completa
+ 00:55:09
+
+nas diferent o voto, não é, que eu trago
+ 00:55:12
+
+aqui é um pouco, não é, da nossa capacidade
+ 00:55:15
+
+de transformação, mas quando o indivíduo
+ 00:55:19
+
+participa da governança alimentar, não é,
+ 00:55:22
+
+ele toma partido, ele pode ampliar, não é,
+ 00:55:25
+
+eh, e chamar mais as pessoas para serem
+ 00:55:29
+
+de fato aqueles que que atuam nessa
+ 00:55:32
+
+transformação. E é isso que eu tô
+ 00:55:36
+
+convidando vocês a partir dessa live
+ 00:55:38
+
+aqui. Eh, a cidadania alimentar, ela
+ 00:55:40
+
+então ela é pensada em termos de um
+ 00:55:43
+
+conjunto de valores e compromissos
+ 00:55:45
+
+políticos. Político no sentido de
+ 00:55:47
+
+transformação, não é? inclui todos os todo
+ 00:55:50
+
+o sistema, deveria incluir todos os
+ 00:55:53
+
+atores, não é, de todo o sistema alimentar,
+ 00:55:57
+
+mas principalmente os agricultores e
+ 00:56:00
+
+consumidores. Quando a gente fala em
+ 00:56:02
+
+cadeia curta, que é por onde nasce, se
+ 00:56:04
+
+fortalece mais o conceito, na venda
+ 00:56:06
+
+direta, a gente consegue
+ 00:56:09
+
+fazer eh digamos ter mais cidadania
+ 00:56:11
+
+alimentar. Já existe um monte de estudo,
+ 00:56:15
+
+já que monte não, não é? Mas existem
+ 00:56:17
+
+estudos que mostram isso, que esses
+ 00:56:20
+
+espaços
+ 00:56:22
+
+experiam mais cidadãos alimentares, não é?
+ 00:56:24
+
+Está condicionada a participação ativa
+ 00:56:27
+
+nas decisões em torno de como onde vem a
+ 00:56:30
+
+alimentação, orientado pro coletivo, pra
+ 00:56:33
+
+comunidade, pra transparência, não é? E
+ 00:56:36
+
+muito associado à ideia de cadeia curta.
+ 00:56:38
+
+Então esse esse é um pouco assim do do
+ 00:56:40
+
+do escopo, não é? da onde deriva o
+ 00:56:43
+
+conceito. Então, o nosso desafio é de
+ 00:56:46
+
+fato gerar experiência prática que façam
+ 00:56:49
+
+surgir novos padrões, novas
+ 00:56:53
+
+regularidades rumo a formar cidadãos
+ 00:56:55
+
+alimentares, tá? Então, nós precisamos
+ 00:56:59
+
+tensionar a forma como o sistema
+ 00:57:02
+
+agroalimentar é dado. Tudo aquilo que eu
+ 00:57:04
+
+mostrei que é a necessidade e vem a
+ 00:57:07
+
+necessidade de nós gerar experiências
+ 00:57:10
+
+que tenham capacidade de alterar, não é,
+ 00:57:13
+
+eh, aquelas regularidades como elas são
+ 00:57:17
+
+dadas. Eu não estou, eu não sou contra
+ 00:57:20
+
+os supermercados, quero ser claro,
+ 00:57:22
+
+porque às vezes eu abro um uma força
+ 00:57:24
+
+muito forte no supermercado. Inclusive
+ 00:57:27
+
+os supermercados devem ser espaços de
+ 00:57:30
+
+mudança, devem ter mais espaço para essa
+ 00:57:32
+
+transformação. E aí depende aqueles,
+ 00:57:35
+
+vocês vão ver que alguns supermercados,
+ 00:57:38
+
+se vocês puderem conversar com o dono do
+ 00:57:40
+
+supermercado, não é, ele pode ser um espaço
+ 00:57:43
+
+de mudança. quando ele incorpora uma
+ 00:57:45
+
+marca local. Nós temos inúmeros
+ 00:57:48
+
+exemplos, não é, de supermercados que fazem
+ 00:57:50
+
+isso e que se preocupam em mostrar mais
+ 00:57:53
+
+esse produto que da região, que na
+ 00:57:56
+
+Europa chamado, na Espanha, o produto de
+ 00:57:59
+
+cercania, não é, da do do seu
+ 00:58:01
+
+entorno. Então nós podemos mudar nossos
+ 00:58:06
+
+ambientes e tornos alimentares, não é?
+ 00:58:08
+
+Impulsionar algumas iniciativas cidadãs
+ 00:58:10
+
+que t muitas, não é? Hortas escolares, não é?
+ 00:58:13
+
+Hortas
+ 00:58:17
+
+urbanas, pomar doméstico, não é? Eh, em
+ 00:58:18
+
+Santiago, o vocês podem buscar o Pila
+ 00:58:22
+
+Verde, não é? Que é uma política pública, o
+ 00:58:25
+
+programa de alimentação escolar,
+ 00:58:28
+
+fomentar mais esses mercados locais de
+ 00:58:30
+
+venda, proteger o pequeno comércio, não é?
+ 00:58:33
+
+É, algumas aí dos exemplos que eu trago
+ 00:58:36
+
+para alterar esta rota, que é uma rota
+ 00:58:38
+
+praticamente dada e que o sistema
+ 00:58:42
+
+alimentar convencional tem se dado
+ 00:58:44
+
+também. Eu trago quais são as práticas
+ 00:58:46
+
+que têm possibilidade de gerar cidadãos
+ 00:58:49
+
+alimentares. Então eu trago o exemplo da
+ 00:58:51
+
+polifira do agricultor, não é, para
+ 00:58:54
+
+encerrar aqui. Prometo tentar fazer em
+ 00:58:56
+
+10 minutos, não é, ou menos para dar um
+ 00:58:58
+
+espaço paraa nossa conversa. a extensão.
+ 00:59:02
+
+Eu eu trago o exemplo da polifira porque
+ 00:59:05
+
+acho que é um exemplo importante, não é,
+ 00:59:07
+
+principalmente pelo que ela significa
+ 00:59:09
+
+para nós, não é, em termos de uma resposta
+ 00:59:11
+
+ao sistema agroalimentar dominante pelas
+ 00:59:14
+
+suas bases e pelo trabalho que ele nos
+ 00:59:17
+
+deixa, não é, para nós sermos eh
+ 00:59:20
+
+desempenhados. Então a Polifeira do
+ 00:59:24
+
+agricultor é um projeto de extensão
+ 00:59:26
+
+universitária desenvolvido dentro da
+ 00:59:27
+
+Universidade Federal de Santa Maria
+ 00:59:30
+
+desde 24 de abril de
+ 00:59:31
+
+2017, não é,
+ 00:59:35
+
+aonde nós eh uma equipe tem buscado
+ 00:59:37
+
+criar eh essa feira que traz
+ 00:59:42
+
+agricultores, familiares, mas que põe o
+ 00:59:44
+
+sistema alimentar eh eh começa a a a
+ 00:59:47
+
+tratar do sistema alimentar a partir das
+ 00:59:52
+
+suas suas debilidades. Então, nós
+ 00:59:54
+
+trabalhamos com agricultores
+ 00:59:56
+
+convencionais para levar paraa transição
+ 00:59:58
+
+agroecológica. Então, nós trabalhamos no
+ 01:00:01
+
+modo de produção, pensando que o
+ 01:00:03
+
+alimento de fato tem que ser, não é, uma
+ 01:00:05
+
+das condições da cidadania alimentar
+ 01:00:09
+
+acessível para todas as pessoas com
+ 01:00:11
+
+alimentão de qualidade, não é, com
+ 01:00:15
+
+capacidade de escalar diferentes níveis,
+ 01:00:18
+
+não é, que outras pessoas possam ter
+ 01:00:22
+
+ampliando direito a esse alimento
+ 01:00:24
+
+saudável, tá? eh um alimento que não
+ 01:00:27
+
+tenha contaminação química, que tenha
+ 01:00:30
+
+informação a partir dele, não é? Então, a
+ 01:00:32
+
+feira, a polifeira do agricultor, ela
+ 01:00:35
+
+funciona aos eh dentro do campus da
+ 01:00:37
+
+universidade. Aqui no é uma foto do
+ 01:00:41
+
+planetário, mas hoje funciona também no
+ 01:00:43
+
+Centro de Ciências da Saúde. Eh, também
+ 01:00:45
+
+a feira funciona nas terças pela manhã
+ 01:00:50
+
+na Avenida Roraima, que é no bairro
+ 01:00:54
+
+Camobi, não é? gerando então o acesso da a
+ 01:00:57
+
+comunidade pode vir aqui ou ir lá, mas
+ 01:00:59
+
+eh tô salientando como eh esses dois
+ 01:01:02
+
+espaços que são importantes. Então, nós
+ 01:01:06
+
+já tivemos passando pela polifira 56
+ 01:01:09
+
+feantes de 16 municípios diferentes.
+ 01:01:12
+
+Envolvemos 63 estudantes que são
+ 01:01:16
+
+bolsistas até o final de 2024. Se dá
+ 01:01:19
+
+esse ano amplia com mais sete bolsistas,
+ 01:01:23
+
+então vamos a 70. já circulou pela
+ 01:01:25
+
+polifira 6 milhões deais, não é? eh
+ 01:01:28
+
+organizados aí por meio de um boletim de
+ 01:01:33
+
+vendas que é aplicado semanalmente pelos
+ 01:01:35
+
+nossos bolsistas, em diálogo inclusive
+ 01:01:38
+
+com o curso de
+ 01:01:41
+
+eh Sistemas paraa internet, que o
+ 01:01:43
+
+professor Daniel eh que é um professor
+ 01:01:46
+
+que que criou um banco de dados, não é,
+ 01:01:49
+
+paraa polifeira, aonde nós conseguimos
+ 01:01:52
+
+rastrear então um pouco da produção até
+ 01:01:55
+
+chegar o consumidor e dar valor para
+ 01:01:58
+
+ela. Então, 6 milhões são é quase R
+ 01:02:00
+
+1.700 a R$
+ 01:02:03
+
+800.000 por ano circula nessa feira nós
+ 01:02:05
+
+temos um cômputo de R$ 930 alimentos
+ 01:02:08
+
+diferentes, não é? E chegamos aí a uma
+ 01:02:11
+
+mídia não paga de 324 reportagens entre
+ 01:02:14
+
+2019 a 2024, torno de R$
+ 01:02:18
+
+500.000 que a a Universidade Federal de
+ 01:02:21
+
+Santa Maria teve o seu nome e o seu
+ 01:02:24
+
+projeto de extensão na comunidade, não é?
+ 01:02:26
+
+se tivesse que pagar esta mídia. Então,
+ 01:02:29
+
+é um projeto que se paga porque o
+ 01:02:32
+
+investimento que nós tivemos com
+ 01:02:34
+
+recursos da União não foram superiores a
+ 01:02:36
+
+500.000,
+ 01:02:38
+
+não é, no longo desse período, não é, eh, que
+ 01:02:39
+
+não podemos reclamar também porque temos
+ 01:02:43
+
+todas as condições e e buscado para
+ 01:02:45
+
+estruturar e dar continuidade a esse
+ 01:02:48
+
+projeto que é importante hã para nós
+ 01:02:50
+
+como equipe, para os colegas que
+ 01:02:53
+
+participam, para os agricultores, para
+ 01:02:56
+
+os estudantes, mas também paraa
+ 01:02:58
+
+Universidade Federal de Santa Maria.
+ 01:02:59
+
+Então, eu eu eh a Polifeira, nós fizemos
+ 01:03:01
+
+uma avaliação da polifira como espaço de
+ 01:03:04
+
+construção de cidadania.
+ 01:03:07
+
+Esse é um artigo que eu produzi durante
+ 01:03:09
+
+o pós-doutorado, tá? Eh, para ser
+ 01:03:11
+
+publicado, onde eu avalio as oito
+ 01:03:14
+
+dimensões da cidadania alimentar.
+ 01:03:16
+
+Nós, esse trabalho aqui eu avali, nós
+ 01:03:20
+
+oferecemos as condições para que a
+ 01:03:23
+
+cidadania alimentar seja tocada por
+ 01:03:25
+
+dentro da polifira do agricultor. Agora
+ 01:03:28
+
+nós estamos fazendo outro que nós
+ 01:03:31
+
+estamos comparando se os nossos
+ 01:03:33
+
+estudantes, os nossos bolsistas, de
+ 01:03:35
+
+fato, nós conseguimos transformar eles
+ 01:03:38
+
+em cidadãos alimentares. E esse vai sair
+ 01:03:40
+
+num monográfico também na Espanha, hã,
+ 01:03:43
+
+eh, final de abril, tá? Esse tá em em
+ 01:03:46
+
+desenvolvimento às madrugadas, tá? Então
+ 01:03:51
+
+nós avaliamos se a nossa polifera nós
+ 01:03:54
+
+oferecemos condições para que as pessoas
+ 01:03:57
+
+eh tenham a o o conceito de cidadão
+ 01:04:01
+
+alimentar. Não vou tratar de todos aqui,
+ 01:04:05
+
+não é? Mas aqui eu tento avaliar se eh a
+ 01:04:08
+
+cidadania alimentar como um
+ 01:04:12
+
+reconhecimento de que todas as pessoas
+ 01:04:14
+
+de fato, será que a polifera oferece
+ 01:04:16
+
+condições para que todas as pessoas
+ 01:04:18
+
+tenham o direito fundamental inalienável
+ 01:04:20
+
+a uma alimentação suficiente sã e de e
+ 01:04:23
+
+de qualidade, não é, para para e com
+ 01:04:27
+
+condições de desfrutar de outros
+ 01:04:30
+
+direitos, não é? avaliamos também a questão
+ 01:04:32
+
+se a polifera eh oferece uma alimentação
+ 01:04:36
+
+que tem a capacidade de
+ 01:04:39
+
+de esse direito à alimentação, na
+ 01:04:42
+
+verdade, se ele tem capacidade de
+ 01:04:44
+
+dialogar com a questão de justiça
+ 01:04:46
+
+social, igualdade e equidade, não é? se nós
+ 01:04:48
+
+eh se oferece as condições e a
+ 01:04:51
+
+informação suficiente, compreensível,
+ 01:04:56
+
+assim como todas as medidas de controle
+ 01:04:59
+
+e políticas, para que esses alimentos
+ 01:05:01
+
+cheguem carregado de informação e que
+ 01:05:04
+
+sejam capazes de reduzir as
+ 01:05:07
+
+desigualdades eh entre as pessoas.
+ 01:05:09
+
+também eh se os componentes éticos da
+ 01:05:12
+
+cidadania, não é, da produção, da
+ 01:05:16
+
+distribuição e do consumo, conseguem ter
+ 01:05:19
+
+responsabilidades e respeito à causa
+ 01:05:22
+
+animal, aos outros seres vivos, ao meio
+ 01:05:25
+
+ambiente, não é? Se nós oferecemos essas
+ 01:05:28
+
+condições no projeto, não é? se todos os
+ 01:05:30
+
+sujeitos de fato são sujeitos da
+ 01:05:33
+
+cidadania alimentares, muito mais de
+ 01:05:36
+
+consumidor, produtor ou distribuidor,
+ 01:05:39
+
+não é? Se de fato as pessoas que participam
+ 01:05:42
+
+elas se questionam sobre a alimentação,
+ 01:05:44
+
+não é? Eh, também sobre o o impacto que o
+ 01:05:48
+
+comportamento alimentar vai ter sobre as
+ 01:05:52
+
+ações individuais, as ações privadas, as
+ 01:05:55
+
+coletivas, não é, e as ações públicas. se a
+ 01:05:59
+
+cidadania ali, o que aquilo que nós
+ 01:06:02
+
+fizemos dentro da polifera em alguma
+ 01:06:04
+
+medida, ela tá nos
+ 01:06:06
+
+capacitando a eh questionar
+ 01:06:09
+
+principalmente, não é, ou redefinir eh
+ 01:06:13
+
+questionar as legislações, as regras,
+ 01:06:16
+
+como são dados, o papel do Estado, dos
+ 01:06:19
+
+órgãos de assistência técnica de
+ 01:06:22
+
+extensão rural, o nosso próprio papel
+ 01:06:23
+
+profissional daquele estudante que passa
+ 01:06:26
+
+por aqui, será que ele tá saindo
+ 01:06:28
+
+pensando diferente, não é? Então, e esse eh
+ 01:06:30
+
+e também se a nosso projeto toca de
+ 01:06:35
+
+alguma maneira pautas globais, que é
+ 01:06:37
+
+aquilo que nós chamamos que a cidadania
+ 01:06:40
+
+alimentar também tem um componente eh de
+ 01:06:42
+
+cosmopolitismo, não é? Então, nós tentamos
+ 01:06:46
+
+avaliar eh e de fato, não é, já vou
+ 01:06:49
+
+adiantando a conclusão, nós temos um
+ 01:06:52
+
+espaço
+ 01:06:54
+
+experi, não é, aonde nós conseguimos
+ 01:06:56
+
+tratar, não é, do lado de agricultor dele
+ 01:06:58
+
+ter de fato um alimento que nós
+ 01:07:01
+
+garantimos aquele consumidor que vem
+ 01:07:05
+
+comprar que ele tá levando um alimento
+ 01:07:07
+
+com uma qualidade que é saudável, que é
+ 01:07:09
+
+que tem qualidade, talvez nós não atinja
+ 01:07:12
+
+o nível de ser suficiente Porque a nossa
+ 01:07:15
+
+produção, os nossos agricultores, eles
+ 01:07:18
+
+vêm perdendo a capacidade de produção,
+ 01:07:20
+
+principalmente pelo fator, não é, de falta
+ 01:07:23
+
+de mão de obra, de falta de sucessão,
+ 01:07:26
+
+não é, e hoje a gente não consegue expandir
+ 01:07:29
+
+isso para maior número de consumidores.
+ 01:07:31
+
+E uma feira sempre fica restrita entre o
+ 01:07:34
+
+que os produtores produzem, mas também e
+ 01:07:37
+
+e a demanda que o consum que há de
+ 01:07:40
+
+consumo, não é? e e e nós estamos
+ 01:07:42
+
+condicionado também as variáveis
+ 01:07:45
+
+climáticas, não é? Então, mas nós nós
+ 01:07:46
+
+entendemos que sim, a polifera ela
+ 01:07:49
+
+consegue avançar no termo da segurança
+ 01:07:53
+
+alimentar, da qualidade do produto, não é?
+ 01:07:55
+
+E e ele enfrenta aquilo que
+ 01:07:57
+
+em 2015, por aí, o jornal Zero Hora
+ 01:08:01
+
+publicou no campo e lavoura, na série
+ 01:08:04
+
+Campo e lavoura, que era o o mal
+ 01:08:07
+
+invisível, não é, que estava por trás dos
+ 01:08:10
+
+alimentos, não é, que chegam aos a aos
+ 01:08:13
+
+consumidores ao final, tá? Então não vou
+ 01:08:15
+
+não vou aprofundar suficiente aqui, mas
+ 01:08:19
+
+vou dizer também que nós temos uma opção
+ 01:08:22
+
+pela agricultura familiar, por trabalhar
+ 01:08:24
+
+com grupos sociais marginalizados, com
+ 01:08:26
+
+assentados, com mulheres rurais, não é?
+ 01:08:29
+
+Fortalecer esses agricultores como
+ 01:08:32
+
+alguém que precisa sair da
+ 01:08:35
+
+invisibilidade, ganhar espaço de
+ 01:08:38
+
+comercialização e dar saltos em escala
+ 01:08:40
+
+também na sua venda, não é? Nós trabalhamos
+ 01:08:43
+
+na questão da
+ 01:08:47
+
+responsabilidades e deveres ou
+ 01:08:48
+
+obrigações paraos outros seres vivos. E
+ 01:08:50
+
+aí dá um projeto dos ovos, que é um dos
+ 01:08:52
+
+que eu mostrei, mas também o trabalho
+ 01:08:54
+
+fomentando as agroflorestas. Trabalhamos
+ 01:08:57
+
+na pauta, não é, dos projetos sociais, o
+ 01:09:00
+
+compromisso com outras pessoas. Já
+ 01:09:03
+
+fizemos eh campanhas de doação e
+ 01:09:05
+
+arrecadação de roupa, calçado, vendo que
+ 01:09:08
+
+a questão alimentar, que o sistema
+ 01:09:11
+
+alimentar convencional não trabalha tão
+ 01:09:14
+
+bem, nós buscamos, não é, não tô dizendo na
+ 01:09:17
+
+sua homogeneidade, não é, tem tantos
+ 01:09:20
+
+supermercados com ações, não é, desse tipo,
+ 01:09:23
+
+mas que tu tenta formar eh e e atuar por
+ 01:09:26
+
+meio da questão alimentar em causas
+ 01:09:30
+
+globais, não é, que afetam o nosso dia a
+ 01:09:33
+
+dia. E aí trouxe aqui coleta de óleo,
+ 01:09:36
+
+embalagem, não é? Já recebemos imigrantes,
+ 01:09:39
+
+não é, refugiados, gerando, então,
+ 01:09:42
+
+mostrando que nós trabalhamos também na
+ 01:09:45
+
+questão aí do cosmopolitismo, que é uma
+ 01:09:48
+
+das esferas da cidadania
+ 01:09:50
+
+alimentar. A informação verdadeira
+ 01:09:52
+
+suficiente e compreensivo para nós é é
+ 01:09:55
+
+algo cara. Temos as nossas redes
+ 01:09:58
+
+sociais, que agora mesmo eu vi que foi
+ 01:10:00
+
+publicada aqui, que é por onde dialoga
+ 01:10:02
+
+boa parte, mas temos que são informações
+ 01:10:05
+
+que nós tentamos produzir para levar a
+ 01:10:08
+
+reflexividade das pessoas. Não é à toa
+ 01:10:11
+
+que nós tivemos 19 estagiários da área
+ 01:10:14
+
+da comunicação social daquele universo
+ 01:10:16
+
+de 63, não é? Então, se nós olharmos a
+ 01:10:18
+
+feira, ah, é um espaço para ciências
+ 01:10:21
+
+agrárias, não é nosso caso. Nós
+ 01:10:23
+
+trabalhamos com todas as áreas de
+ 01:10:26
+
+conhecimento, por isso a polifera é um
+ 01:10:27
+
+espaço interdisciplinar da construção do
+ 01:10:29
+
+conhecimento em torno da comida, tá? Com
+ 01:10:31
+
+espaços em redes sociais, rádios, TV,
+ 01:10:34
+
+jornal, diários, internet, não é, e assim
+ 01:10:38
+
+por diante. Compção científica, não é,
+ 01:10:41
+
+refletida. aquilo que nós fizemos também
+ 01:10:45
+
+reflete, refletimos essa prática por
+ 01:10:48
+
+meio da escrita acadêmica e do fomento à
+ 01:10:51
+
+iniciação científica, não é? Então é o
+ 01:10:53
+
+envolvimento de muitas pessoas, não é?
+ 01:10:55
+
+Mostrando que aquela ideia de governança
+ 01:10:58
+
+alimentar ela precisa ser fortalecida.
+ 01:11:01
+
+Esta é a base da cidadania, pessoas que
+ 01:11:04
+
+se engajem, não é? E e nós procuramos fazer
+ 01:11:06
+
+isso envolvendo aqui tem, eu trago fotos
+ 01:11:09
+
+para me recordar, não é? uma foto da da do
+ 01:11:13
+
+grupo do da prefeitura de Cachoeira do
+ 01:11:16
+
+Sul que veio conhecer a feira para
+ 01:11:18
+
+qualificar deles. Então, a feira é esse
+ 01:11:20
+
+espaço
+ 01:11:22
+
+experiado para outras realidades, não é?
+ 01:11:25
+
+Então nós assumimos essa rede pluralista
+ 01:11:28
+
+de atores com agricultores, tag de
+ 01:11:31
+
+extensão rural, autoridades sanitárias,
+ 01:11:33
+
+outras universidades, não é, fazendo esse
+ 01:11:36
+
+entrelaçamento, não é, que leva, não é, a a de
+ 01:11:40
+
+fato formar novos sujeitos que defendam
+ 01:11:43
+
+em outro sistema alimentar, não é? Então,
+ 01:11:46
+
+eh, já falei um pouco da governança, não
+ 01:11:50
+
+vou aumentar, não é? Mas dizer que a nossa
+ 01:11:53
+
+experiência, ela é apenas um espaço
+ 01:11:56
+
+experi, um projeto de extensão que leva
+ 01:11:58
+
+o tensionamento daquilo que são dados. E
+ 01:12:01
+
+assim é que eu quero
+ 01:12:04
+
+terminar a minha fala, não é? O meu
+ 01:12:05
+
+objetivo aqui de fato é trazer um um
+ 01:12:08
+
+conjunto de informações, não é, que daria
+ 01:12:12
+
+cada tema desses daria talvez uma
+ 01:12:15
+
+palestra, não é, não por mim, não é, por
+ 01:12:18
+
+outras pessoas. Já convidamos outros
+ 01:12:20
+
+para se somar, porque formar cidadãos
+ 01:12:23
+
+alimentares, formar este isto é um
+ 01:12:26
+
+movimento social, não é, eh, é uma
+ 01:12:28
+
+capacitação, é um quadro teórico, tá? é
+ 01:12:31
+
+éção de é é é múltipla a ideia de
+ 01:12:36
+
+perseguir um sistema agroalimentar que
+ 01:12:40
+
+seja mais justo, não é, mais ético e mais
+ 01:12:42
+
+sustentável, não é? nós o que fizemos
+ 01:12:46
+
+trazendo esse conceito e que a gente
+ 01:12:49
+
+quer fortalecer ele no ambiente eh e no
+ 01:12:50
+
+cenário brasileiro, não é, de fato, é que
+ 01:12:55
+
+as pessoas tenham mais
+ 01:12:59
+
+responsabilidades, que não veja a
+ 01:13:01
+
+alimentação simplesmente como um
+ 01:13:03
+
+direito, mas como uma responsabilidade
+ 01:13:05
+
+pessoal e social. Os espaços, os
+ 01:13:07
+
+conteúdos são inúmeros.
+ 01:13:11
+
+O problema é que eles estão e estão
+ 01:13:14
+
+acontecendo ao redor, ao nosso redor. Eu
+ 01:13:17
+
+vou trazer o caso, não é, aproveitando a
+ 01:13:19
+
+presença do professor Ezequiel Redim,
+ 01:13:21
+
+não é, e dos nossos estudantes egressos da
+ 01:13:24
+
+fruticultura. Para mim, o fruticultura é
+ 01:13:26
+
+um dos cursos que assume a ideia de
+ 01:13:28
+
+formar um cidadão alimentar. Muitos dos
+ 01:13:31
+
+nossos públicos são pessoas que vieram
+ 01:13:34
+
+fazer o curso buscando produzir um
+ 01:13:36
+
+alimento para se reconectar com a
+ 01:13:40
+
+comida, não é? Então, só para mostrar que
+ 01:13:42
+
+as experiências elas estão aí, não é?
+ 01:13:45
+
+Todavia, elas boa parte são dispersas,
+ 01:13:48
+
+pouco dialogam entre si e dentro deste
+ 01:13:52
+
+grande sistema, elas acabam parecendo
+ 01:13:55
+
+insignificante. Então, o que a gente tem
+ 01:13:58
+
+que dar é voz, mas dar voz a essas
+ 01:14:00
+
+pequenas experiências num cenário onde a
+ 01:14:04
+
+comunicação muitas vezes é feita por
+ 01:14:07
+
+quem tem dinheiro e é dona do sistema da
+ 01:14:10
+
+da nós temos dificuldade de entrar e
+ 01:14:15
+
+furar essa bolha eh que é tão difícil,
+ 01:14:17
+
+não é, que porque é forte, não é? Quer dizer,
+ 01:14:20
+
+o sistema convencional ele é forte, ele
+ 01:14:22
+
+ele ele ele tem raízes profundas, não é?
+ 01:14:25
+
+ele se nutre de processos globais, não é,
+ 01:14:29
+
+que estão instituídos e fazem parte da
+ 01:14:32
+
+vida moderna e que são difíceis de eh
+ 01:14:35
+
+fazer
+ 01:14:38
+
+revolução. O envolvimento em práticas
+ 01:14:39
+
+alternativas, não é, claro, ela e elas são
+ 01:14:42
+
+aquelas que têm mais capacidade de
+ 01:14:44
+
+influenciar o engajamento, não é, cívico e
+ 01:14:47
+
+o comportamento dos indivíduos ao longo
+ 01:14:51
+
+do tempo. Então, as cadeias curtas elas
+ 01:14:54
+
+acabam sendo esse espaço, digamos assim,
+ 01:14:57
+
+que hoje mais retrata. E termino
+ 01:15:01
+
+perguntando, já que nós estamos aqui no
+ 01:15:04
+
+ambiente onde você discute com tanta eh
+ 01:15:07
+
+profundidade e sabedoria e capacidade
+ 01:15:11
+
+dos nossos colegas, não é, que estão
+ 01:15:14
+
+mediando inclusive esta live, não é, o tema
+ 01:15:16
+
+da extensão rural. Eu acho que a
+ 01:15:19
+
+extensão rural, ela é uma das
+ 01:15:21
+
+das ao longo do tempo, a extensão rural
+ 01:15:24
+
+é uma dessas que tem trabalhado
+ 01:15:27
+
+arduamente para formar cidadãos
+ 01:15:30
+
+alimentares com o nosso agricultor, com
+ 01:15:32
+
+a criação de feiras, com a mobilização
+ 01:15:35
+
+de pessoas para participar dos mercados
+ 01:15:38
+
+institucionais, para melhorar a sua
+ 01:15:42
+
+horta caseira, não é, para para o seu pomar
+ 01:15:44
+
+doméstico do lado do agricultor, não é?
+ 01:15:48
+
+Então eu diria assim que a extensão
+ 01:15:50
+
+rural tem contribuído, pode contribuir,
+ 01:15:52
+
+não é? E e e fica esse legado este legado
+ 01:15:55
+
+daquilo que foi feito, mas é algo que a
+ 01:15:59
+
+gente tem que assumir cada vez mais, não é?
+ 01:16:02
+
+Porque os nossos agricultores, o nosso
+ 01:16:05
+
+público de fato precisa repensar também
+ 01:16:08
+
+o seu papel dentro do sistema e se impor
+ 01:16:12
+
+mais, criar mais redes, mais redes
+ 01:16:15
+
+colaborativas e nos vermos mais enquanto
+ 01:16:18
+
+grupo que está unido por uma mesma
+ 01:16:21
+
+causa. Eu quando eu vejo uma uma feira,
+ 01:16:24
+
+não é, aonde há uma competição dos
+ 01:16:28
+
+agricultores, eu me transformo num
+ 01:16:30
+
+pessimista, não é, de ver como que nós
+ 01:16:33
+
+conseguimos avançar mais e e as feiras
+ 01:16:35
+
+concorrendo entre si, dizendo: "Não, tu
+ 01:16:39
+
+vai nessa, não vai nessa." Isso é um nos
+ 01:16:41
+
+gera uma incapacidade de enfrentar o
+ 01:16:44
+
+sistema agroalimentar como tal. O que
+ 01:16:46
+
+nós precisamos é tecer redes, redes,
+ 01:16:48
+
+porque o grande, não é, se há alguém que
+ 01:16:51
+
+nós temos que competir, não entre nós,
+ 01:16:54
+
+nós temos que competir e nos impor
+ 01:16:56
+
+frente a esse sistema
+ 01:16:59
+
+agroalimentar eh dominante. termino
+ 01:17:01
+
+dizendo que a minha mente,
+ 01:17:04
+
+lamentavelmente, quando eu vejo isso
+ 01:17:05
+
+tudo, a forma como o sistema e o que eu
+ 01:17:07
+
+e o que eu trago no começo da nossa
+ 01:17:11
+
+conversa, lamentavelmente a minha mente
+ 01:17:13
+
+é pessimista. Mas assim, usando a frase
+ 01:17:16
+
+do Gran, não é, minha vontade e espero que
+ 01:17:19
+
+a de vocês também e que como cidadão
+ 01:17:22
+
+alimentar eu me sinto eu me sinto essa
+ 01:17:26
+
+pessoa e gostaria que vocês saíssem
+ 01:17:29
+
+dessa eh dessa conversa nossa aqui,
+ 01:17:32
+
+repensando sobre isso e provocados
+ 01:17:36
+
+também serem e se somarem nesse grande
+ 01:17:39
+
+espaço de cidadãos alimentares. Muito
+ 01:17:42
+
+obrigado. Perdão
+ 01:17:45
+
+pela adiantamento da conversa.
+ 01:17:47
+
+Muito bom. Excelente, professor Gustavo.
+ 01:17:52
+
+Não esperávamos mesmo do menos do
+ 01:17:55
+
+professor Gustavo Pinto da Silva.
+ 01:17:57
+
+Excelente. Grande público aqui presente
+ 01:17:59
+
+também. Vale ressaltar aí que estamos
+ 01:18:02
+
+nesse nesse ciclo pesquisa em prosa que
+ 01:18:04
+
+tem trazido muita contribuição aí para
+ 01:18:06
+
+os estudos da extensão rural. E se vocês
+ 01:18:08
+
+viram, não é, professor Gustavo, ao longo
+ 01:18:11
+
+da sua fala falou de vários projetos que
+ 01:18:13
+
+ele desenvolve, não menos importante,
+ 01:18:16
+
+ele é fruticultor também, então ele é
+ 01:18:19
+
+produtor e ele fala com causa e é com
+ 01:18:21
+
+causa do que está trabalhando. Os
+ 01:18:24
+
+projetos do professor Gustavo e de toda
+ 01:18:26
+
+a turma do Politécnico aqui, que tem
+ 01:18:29
+
+toda uma estrutura propícia para isso,
+ 01:18:30
+
+eh, possibilita um grande impacto
+ 01:18:33
+
+social. Não é nada mais, nada menos. Não
+ 01:18:35
+
+sei se vocês entenderam quando o
+ 01:18:38
+
+professor Gustavo falou em 6 milhões que
+ 01:18:39
+
+a só a polifira gera, não é 6 milhões
+ 01:18:42
+
+que a universidade em si eh ela coloca,
+ 01:18:45
+
+mas é 6 milhões que a universidade gera
+ 01:18:48
+
+de impacto para a comunidade, não é? Então
+ 01:18:50
+
+isso aí é grandioso, é um projeto assim
+ 01:18:52
+
+que com a a pouca estrutura constrói
+ 01:18:55
+
+grandes números. Então isso é
+ 01:18:58
+
+fundamental. Lembrando que o professor
+ 01:19:00
+
+Gustavo aqui pontuou eh vários projetos,
+ 01:19:02
+
+não é? dizer, se ele não falar da polifera,
+ 01:19:05
+
+eu vou perguntar da polifira. E ele fez
+ 01:19:07
+
+uma grande uma grande interlocução sobre
+ 01:19:09
+
+a polifera. Ele falou da polifeira, ele
+ 01:19:11
+
+falou do projeto ovos coloniais, ele
+ 01:19:13
+
+falou do projeto da a origem dos
+ 01:19:15
+
+alimentos. Eu não gravei direito o nome,
+ 01:19:18
+
+mas que ele busca eh mapear essa origem
+ 01:19:20
+
+dos alimentos aqui em Santa Maria. Para
+ 01:19:23
+
+que quem não conhece aqui Santa Maria e
+ 01:19:25
+
+quem não é da região, que tem gente do
+ 01:19:27
+
+Brasil inteiro aqui assistindo nesse
+ 01:19:29
+
+momento, Santa Maria é um município que
+ 01:19:30
+
+produz muito pouco, a gente tem uma
+ 01:19:32
+
+agricultura muito pouco, tem
+ 01:19:34
+
+muito muito percentual da dos nossos
+ 01:19:36
+
+alimentos vender fora. E por isso o
+ 01:19:39
+
+interesse do professor Gustavo também de
+ 01:19:41
+
+entender de quantos quilômetros esse
+ 01:19:43
+
+alimento transita, por exemplo, não é?
+ 01:19:45
+
+Agora eu puxei uma água aqui, não é? A água
+ 01:19:47
+
+famosa da água da pedra, não é? Ela vem de
+ 01:19:50
+
+lajado, não é? lajado, inclusive para quem
+ 01:19:52
+
+acompanhou os enchentes do Sul, que foi
+ 01:19:55
+
+bastante devastado aí com as enchentes
+ 01:19:56
+
+de maio de 2024, não é? Então é até a nossa
+ 01:19:59
+
+água pode ser um exemplo que vem de
+ 01:20:03
+
+fora, não é? Também tem o projeto do
+ 01:20:05
+
+Techfurticultura que articula tudo isso,
+ 01:20:06
+
+não é? Que agora tá construindo um grande
+ 01:20:09
+
+grande projeto junto com as escolas, não é?
+ 01:20:11
+
+Trabalhar pomares dentro das escolas.
+ 01:20:13
+
+Então é muito projeto aí engajado. Então
+ 01:20:15
+
+ele faz essa articulação muito boa entre
+ 01:20:18
+
+teoria e prática, não é? pesquisa e
+ 01:20:20
+
+prática. Isso valer ressaltar também.
+ 01:20:22
+
+Bueno, dito isso, vou comentar alguns,
+ 01:20:25
+
+tem muita gente participando aqui,
+ 01:20:27
+
+agradecer a presença do pessoal, eh,
+ 01:20:30
+
+pessoal do curso técnico em fruticultura
+ 01:20:32
+
+aí tão tão em peso na live, os
+ 01:20:34
+
+extensionistas da Imatera aqui presentes
+ 01:20:37
+
+na live também, muito legal. é alisando
+ 01:20:39
+
+aí nossa parceira aí de Nova Esperança
+ 01:20:42
+
+do Sul, parceira das caminhadas,
+ 01:20:44
+
+parceira da de grandes projetos da
+ 01:20:46
+
+Imater. Ela comenta aqui que quanta
+ 01:20:47
+
+alegria poder ouvir este professor que
+ 01:20:50
+
+tanto contribuiu para a minha formação e
+ 01:20:52
+
+para a agricultura familiar. Grata pela
+ 01:20:54
+
+oportunidade, Lisand de Nova Esperança
+ 01:20:56
+
+do Sul. Muito bom. Estaremos em Nova
+ 01:20:58
+
+Esperança aí em novembro fazendo mais
+ 01:21:01
+
+uma caminhada da natureza. anos espere
+ 01:21:03
+
+nós
+ 01:21:05
+
+aí tem um pessoal aqui, ó, da do
+ 01:21:06
+
+doutorado dacar aí, da parceria dos win
+ 01:21:09
+
+aí, galera tudo presente aí na ciência,
+ 01:21:12
+
+tecnologia e sociedade, PPG lá, muito
+ 01:21:15
+
+legal da fiscar interdisciplinar. Temos
+ 01:21:18
+
+nossos alunos aqui da fruticultura aqui,
+ 01:21:21
+
+todos alunos egressos, egressos e alunos
+ 01:21:24
+
+novos aqui também presentes. A nossas
+ 01:21:27
+
+culturas, nossa extensionista aqui, a
+ 01:21:30
+
+Andreia Posto, sempre marcando presença
+ 01:21:32
+
+na live. Temos também a Neusa, vamos
+ 01:21:35
+
+destacar aqui também o Azarel, não é, que
+ 01:21:38
+
+agora nosso Nazarel nosso servidor aqui
+ 01:21:41
+
+que participou aqui do eh do
+ 01:21:43
+
+Politécnico, agora está lá no no
+ 01:21:46
+
+Nordeste, não é, contribuindo com a
+ 01:21:48
+
+agroecologia no Nordeste. Temos o
+ 01:21:50
+
+Cristiano Doto, nosso nosso grande
+ 01:21:52
+
+mestre da polifeira também aqui, eh, que
+ 01:21:55
+
+faz um trabalho muito espetacular dentro
+ 01:21:59
+
+da polifera. Tem muita gente, galera,
+ 01:22:01
+
+muita gente. Existenciionista da Imatera
+ 01:22:04
+
+o Marlon e muita gente aqui. Legal. Eu
+ 01:22:06
+
+vou vou fazer aqui um comentário antes
+ 01:22:09
+
+de fazer uma pergunta. Vou fazer o
+ 01:22:11
+
+comentário
+ 01:22:13
+
+do Felipe. O Felipe da Ipagre, tá?
+ 01:22:14
+
+Felipe da Ipagre agora tá sendo
+ 01:22:19
+
+institucionalizado dentro da Ipagre, o
+ 01:22:21
+
+nosso zap rural. Felipe Diego, já
+ 01:22:23
+
+convido vocês que estão presentes aqui,
+ 01:22:25
+
+Felipe Diego da Ipaga estarão aqui no
+ 01:22:28
+
+curso Tec Furticultura, dia 2 de junho
+ 01:22:30
+
+no canal do Tec Forticultura, nosso café
+ 01:22:33
+
+com fruticultura, falando sobre essas
+ 01:22:35
+
+questões de fruticultura conosco, tá?
+ 01:22:37
+
+Então, lá no curso técnico Forticultura,
+ 01:22:40
+
+nosso canal, dia 2 às 19 horas, isso é
+ 01:22:42
+
+uma segunda-feira, estarão aí presentes
+ 01:22:44
+
+conosco lá compartilhando experiências
+ 01:22:47
+
+da da fruticultura em Santa Catarina. E
+ 01:22:49
+
+o Felipe comenta o seguinte: aqui no
+ 01:22:52
+
+litoral sul de Santa Catarina temos um
+ 01:22:55
+
+excelente maracujá que é vendido em São
+ 01:22:57
+
+Paulo. O agricultor recebe em torno de
+ 01:23:00
+
+R$ 2 o quilo nas redes supermercado.
+ 01:23:03
+
+Aqui encontramos um maracujá passado
+ 01:23:06
+
+feio a R$ 16.
+ 01:23:09
+
+E aí ele comenta, a explicação que
+ 01:23:12
+
+imagino é que os mercados não querem
+ 01:23:15
+
+comprar de vários pequenos produtores e
+ 01:23:16
+
+compram de grandes atravessadores. Ele
+ 01:23:19
+
+continua. E o maracujá tem que dar uma
+ 01:23:22
+
+volta em São Paulo para perder qualidade
+ 01:23:26
+
+e ganhar custo. E ele continua: "Temos
+ 01:23:28
+
+que incentivar o pequeno mercado
+ 01:23:31
+
+local". Essa é a grande o grande
+ 01:23:34
+
+contribuição do Felipe aí na live. Temos
+ 01:23:37
+
+também o comentário da Lisandra aqui,
+ 01:23:40
+
+que quando o professor Gustavo tava
+ 01:23:41
+
+falando, não é, ser extensionista da
+ 01:23:43
+
+Imatéria aqui, ela comentou que os
+ 01:23:45
+
+produtores desestimulados de produzir,
+ 01:23:48
+
+pois não podem comercializar excedente
+ 01:23:50
+
+diante de uma legislação que não permite
+ 01:23:53
+
+sem agroindústria, não é? São comentários,
+ 01:23:56
+
+não há nenhuma uma pergunta assim de
+ 01:23:59
+
+fato, não é? Mas Gustavo, a hora que você
+ 01:24:02
+
+quiser intervir, fique à vontade. Vou
+ 01:24:04
+
+ler mais uma aqui da da Oanita, nossa
+ 01:24:06
+
+nossa aluna da
+ 01:24:08
+
+fruticultura. Ela disse o seguinte: "No
+ 01:24:09
+
+momento que você ia conversando, não é, o
+ 01:24:11
+
+desinteresse é proposital, visto que as
+ 01:24:13
+
+transnacionais têm seus lobis com
+ 01:24:16
+
+interesses muito bem atendidos.
+ 01:24:18
+
+E aí, mais uma do Lauro. Daí eu vou dar
+ 01:24:22
+
+passar a palavra pro pro Gustavo fazer
+ 01:24:24
+
+uma interlocução aqui. O Lauro, nosso
+ 01:24:27
+
+extensionista da Imater aqui do Rio
+ 01:24:29
+
+Grande do Sul. Parabéns, professor
+ 01:24:31
+
+Gustavo, pela abordagem. Trabalho na
+ 01:24:33
+
+extensão rural, exatamente no suporte a
+ 01:24:35
+
+horticultura e
+ 01:24:37
+
+abastecimento. O que
+ 01:24:39
+
+e no final da feira, eh, ver, o que joga
+ 01:24:42
+
+no final da feira é ver os alimentos de
+ 01:24:45
+
+qualidade retornarem, não é? E aqui agora o
+ 01:24:47
+
+Lauro faz o questionamento. Embora a
+ 01:24:51
+
+vantagem de de acesso ao alimento
+ 01:24:53
+
+seguro, diversificado a preço justo,
+ 01:24:56
+
+consumidores não valorizam os circuitos
+ 01:24:59
+
+curtos como se
+ 01:25:01
+
+espera. Como superar esta realidade?
+ 01:25:03
+
+Como educar os
+ 01:25:06
+
+consumidores? Muito bom. Esse é um
+ 01:25:08
+
+grande desafio. Acho que o professor
+ 01:25:10
+
+Gustavo pode comentar. Minha pergunta
+ 01:25:12
+
+era bem parecida com a do Lauro, não é? eh
+ 01:25:14
+
+como colocar essa, como superar esses
+ 01:25:16
+
+desafios aí dos circuitos curtos, não é,
+ 01:25:18
+
+que é um grande uma grande dificuldade
+ 01:25:20
+
+mesmo. Vou deixar a palavra pro senhor
+ 01:25:23
+
+Gustavo.
+ 01:25:25
+
+Primeiro agradeço, dei uma um vistaço na
+ 01:25:27
+
+no pessoal que tá participando. Obrigado
+ 01:25:32
+
+a todos, muitos amigos de de muito tempo
+ 01:25:34
+
+que a gente não tem oportunidade de de
+ 01:25:37
+
+conversar no dia a dia, não é? Eh, obrigado
+ 01:25:39
+
+aí. Não vou citar, vou citar a Clélia,
+ 01:25:43
+
+que foi foi nossa gerente regional deer
+ 01:25:45
+
+e trabalhou comigo em trabalhamos
+ 01:25:49
+
+próximos em 2013 em São Cepé, quando eu
+ 01:25:52
+
+tava na prefeitura e ela na Emater no
+ 01:25:55
+
+escritório municipal. Então vocês sintam
+ 01:25:58
+
+todos, não é, eh, agradecidos pelos
+ 01:26:00
+
+comentários positivos
+ 01:26:05
+
+e
+ 01:26:08
+
+agradeço. Eu acho que são vári acho que
+ 01:26:10
+
+essa questão, não é, que o Felipe traz do
+ 01:26:12
+
+do da vol a volta do maracujá, não é, aqui
+ 01:26:15
+
+tem uma história, não é, do cara que ia
+ 01:26:19
+
+indo para levando melancia de Bagé para
+ 01:26:21
+
+Porto Alegre e bateu no caminhão, não é,
+ 01:26:23
+
+deu um acidente entre o dois caminhão e
+ 01:26:28
+
+e os dois estavam de melancia, não é? E um
+ 01:26:31
+
+tava para onde é que tu tá indo? Porto
+ 01:26:34
+
+Alegre. E o outro? Para onde é que tu tá
+ 01:26:36
+
+indo? Tô indo para Bagé, não é? poderia
+ 01:26:38
+
+botar São Francisco, qualquer lugar aí
+ 01:26:40
+
+da melancia. Então a gente demonstra
+ 01:26:42
+
+assim, ó. Eu tô usando esse exemplo para
+ 01:26:44
+
+dizer que talvez esse mesmo maracujá de
+ 01:26:47
+
+dali da região, não é, nós levamos os
+ 01:26:50
+
+alunos, eu conheço ó a região, não é, faz
+ 01:26:53
+
+acho que dois anos com o professor
+ 01:26:57
+
+Renato. Eh, talvez esse mesmo maracujá
+ 01:26:58
+
+que vá para São Paulo, depois ele ainda
+ 01:27:01
+
+pode voltar para ser comercializado no
+ 01:27:03
+
+supermercado em Santa Catarina. eu não
+ 01:27:06
+
+estaria eh assustado se isso
+ 01:27:08
+
+acontecesse, porque esse é próprio do
+ 01:27:12
+
+sistema que dialoga pouco, que tá,
+ 01:27:14
+
+principalmente a distribuição, ela ela
+ 01:27:17
+
+acaba, digamos, sendo mal organizada,
+ 01:27:20
+
+não é? E ainda em Santa Catarina a gente
+ 01:27:24
+
+tem uma cooperativa, não é, que que assume
+ 01:27:27
+
+uma parte disso, não é, que eu acho que é
+ 01:27:29
+
+algo
+ 01:27:33
+
+interessante, não é? eh me esqueci aqui da
+ 01:27:34
+
+do nome da cooperativa, mas eh que dá
+ 01:27:37
+
+uma oportunidade, não é, de alguma maneira
+ 01:27:42
+
+e que fomentou a cadeia do maracujá ali,
+ 01:27:44
+
+não é, que acho que que é um fato
+ 01:27:47
+
+interessante, mas acho que o exemplo que
+ 01:27:49
+
+tu traz é um exemplo que é um pouco eh
+ 01:27:51
+
+que é bem significativo do que acontece
+ 01:27:55
+
+no sistema eh convencional, não é? Eh, a a
+ 01:27:58
+
+Alessandra comentou, não é, também
+ 01:28:02
+
+companheira de muito trabalho, não é, sobre
+ 01:28:05
+
+a legislação, não é, a legislação tem sido
+ 01:28:08
+
+um problema, não é, que a uma legislação
+ 01:28:11
+
+insensível à agricultura familiar. Nós
+ 01:28:16
+
+viemos nessa briga há alguns anos, não é, e
+ 01:28:19
+
+parece que com todos os avanços ainda
+ 01:28:23
+
+existe muita
+ 01:28:26
+
+burocracia aqui, não é? Não é diferente nos
+ 01:28:28
+
+outros países, não é? um processamento de
+ 01:28:31
+
+alimento. Eu vejo que o grande problema
+ 01:28:33
+
+é a questão da da
+ 01:28:38
+
+da quantidade de burocracia e de espaços
+ 01:28:43
+
+diferentes que respondem pela mesma por
+ 01:28:46
+
+viabilizar o empreendimento a funcionar
+ 01:28:50
+
+primeiro, não é? E depois nesses espaços
+ 01:28:53
+
+regulativos que eles estão distante da
+ 01:28:55
+
+realidade das pessoas. Isso a gente fala
+ 01:28:58
+
+não sei quantos anos. Mas eu ainda vou
+ 01:29:01
+
+vou vou aí eu vou ir ainda além da
+ 01:29:03
+
+legislação. Depois a gente legaliza a
+ 01:29:06
+
+agroindústria, parece que tá tudo
+ 01:29:08
+
+resolvido e aí vem o problema do
+ 01:29:10
+
+mercado. Eu tenho pensado e dito, às
+ 01:29:12
+
+vezes eu não sou bem entendido, mas eu
+ 01:29:14
+
+vou dizer que nós, eu acho que nós temos
+ 01:29:17
+
+uma dívida histórica com o agricultor,
+ 01:29:19
+
+quando nós dissemos para ele que o
+ 01:29:21
+
+agricultor tem que produzir e ele não e
+ 01:29:23
+
+a
+ 01:29:26
+
+comercialização, não é, e acaba ficando
+ 01:29:27
+
+tendo que ficar com outro, ficando com
+ 01:29:31
+
+outro elo, nós entregamos. Eu eu brinco
+ 01:29:33
+
+que isso é como tu criar um ratinho,
+ 01:29:36
+
+colocar dentro de uma jaula com leão e
+ 01:29:38
+
+diz: "Agora você se entenda, não é? É certo
+ 01:29:41
+
+que o leão vai comer ele, não é?" Então é a
+ 01:29:44
+
+mesma coisa do super com a com a
+ 01:29:47
+
+comercialização. Na
+ 01:29:49
+
+comercialização
+ 01:29:51
+
+historicamente nós não botamos o dedo,
+ 01:29:53
+
+tá? A comercialização vai até aquele nós
+ 01:29:56
+
+chegamos ali e aí a a nós acabamos
+ 01:29:59
+
+assumindo essa outra parte. Então, acho
+ 01:30:03
+
+que esse é um é o eu trago como exemplo
+ 01:30:05
+
+para nós pensar, não é, eh, o significado
+ 01:30:08
+
+que tem de nós
+ 01:30:12
+
+extensionistas, eh, professores,
+ 01:30:15
+
+estarmos com os agricultores também na
+ 01:30:18
+
+hora da comercialização, que é difícil,
+ 01:30:19
+
+é tensionado, não é? Eh, e é pesado nessa
+ 01:30:23
+
+questão do do projeto dos ovos
+ 01:30:29
+
+coloniais,
+ 01:30:32
+
+nente foi muito interessante porque eu
+ 01:30:34
+
+acho que é um para mim é um dos melhores
+ 01:30:37
+
+projetos que nós temos, eh, porque nós
+ 01:30:39
+
+partimos do agricultor que tem a vontade
+ 01:30:41
+
+de eh produzir ovos coloniais, não é, até
+ 01:30:45
+
+estar com ele na hora da
+ 01:30:50
+
+comercialização. E quando nós tivemos o
+ 01:30:52
+
+momento de chegar no supermercado, o
+ 01:30:54
+
+agricultor não sabe chegar, tem
+ 01:30:56
+
+dificuldade desse primeiro contato. E aí
+ 01:30:58
+
+nós nos aproveitamos a legitimidade
+ 01:31:01
+
+institucional que a universidade tem, n
+ 01:31:03
+
+chegar no supermercado, dizer, eu sou
+ 01:31:06
+
+professor da universidade, nós estamos
+ 01:31:07
+
+com um projetozinho assim, não é? Tu já
+ 01:31:09
+
+cria uma, eles já te atendem diferente
+ 01:31:11
+
+do que atenderia o agricultor.
+ 01:31:14
+
+Lamentavelmente não poderia, mas é é
+ 01:31:16
+
+assim que acontece, não é? Mas a gente teve
+ 01:31:19
+
+muita dificuldade em chegar no
+ 01:31:22
+
+supermercado e aceitar em primeiro de
+ 01:31:24
+
+colocar essa produção lá. E aquela
+ 01:31:26
+
+tentativa de baixar preço, não é, de de
+ 01:31:29
+
+pagar mal porque é do agricultor, porque
+ 01:31:32
+
+é familiar, porque é pequeno, porque
+ 01:31:35
+
+claro que nós não temos condições de
+ 01:31:37
+
+competir, não é, com um supermercado que
+ 01:31:40
+
+compra em grande volume. Nós não vamos
+ 01:31:43
+
+conseguir chegar nesse preço, não é? ou com
+ 01:31:44
+
+o lobby que a o Anita comentou aqui, não é,
+ 01:31:47
+
+que existe, mas a gente precisa do
+ 01:31:50
+
+espaço, não é? Então eu acho que já
+ 01:31:53
+
+respondendo um pouco a questão aí, não é,
+ 01:31:55
+
+que que a questão que foi colocada, não é,
+ 01:31:58
+
+da educação dos consumidores, eu acho
+ 01:32:01
+
+que esse esse é o nosso maior esse é o
+ 01:32:04
+
+esse é o tendão de Aquiles, não é, e que a
+ 01:32:06
+
+nós viemos procurando fazer isso muito
+ 01:32:09
+
+pontual, mas também num processo de
+ 01:32:13
+
+aprendizagem, porque eu acho que nós
+ 01:32:14
+
+temos que enfrentar o tanto no circuito
+ 01:32:16
+
+curto como no no
+ 01:32:19
+
+no e eu eu parei não é, de pensar e e e a
+ 01:32:21
+
+nossa equipe que trabalha no projeto
+ 01:32:27
+
+assim de atacar o sistema aqui, eu
+ 01:32:29
+
+ataquei o sistema convencional, mas no
+ 01:32:32
+
+dia a dia eu não, a gente não faz isso,
+ 01:32:34
+
+não faz isso como projeto polifeira e
+ 01:32:37
+
+nas nossas nós não, nós não dizemos
+ 01:32:39
+
+assim, nós fizemos análise dos alimentos
+ 01:32:41
+
+da polifira toda semana e os outros não
+ 01:32:44
+
+fazem. A gente não faz isso. Nós nós
+ 01:32:47
+
+falamos, nós nós usamos para reafirmar
+ 01:32:49
+
+algumas coisas. e tentando mostrar que a
+ 01:32:51
+
+informação é o que faz com que levem as
+ 01:32:55
+
+pessoas à reflexão. Então, criar esses
+ 01:32:57
+
+espaços, eu acho que é a forma como tu
+ 01:33:01
+
+tem. Eu conheci, não é, e
+ 01:33:04
+
+e acho que vale a pena se vocês puderem
+ 01:33:07
+
+procurar depois na internet, não é? Não sei
+ 01:33:10
+
+se o Robertson tá assistindo, mas se ele
+ 01:33:14
+
+eh tiver, ele pode colocar ali no no
+ 01:33:17
+
+chat do YouTube a cooperativa Laossa,
+ 01:33:21
+
+que é uma cooperativa de consumidores em
+ 01:33:24
+
+Madrid, 100 associados, não é? Eles criaram
+ 01:33:27
+
+um supermercado que escolhe os produtos
+ 01:33:31
+
+que vão colocar. É um é um supermercado
+ 01:33:34
+
+que parte do consumidor, tá? tem outras
+ 01:33:37
+
+experiências interessantes pelo mundo,
+ 01:33:40
+
+não é? Mas acho que essa tem mais a ver com
+ 01:33:43
+
+a nossa realidade e que enfrenta um
+ 01:33:45
+
+pouco. Eu digo que a Laça tem um papel
+ 01:33:49
+
+de organizar o consumidor, eles escolhem
+ 01:33:51
+
+de quem vão comprar, priorizam a
+ 01:33:53
+
+agricultura local. Claro que é um monte
+ 01:33:55
+
+de consumidor que já são cidadãos
+ 01:33:58
+
+alimentares, não é, na sua essência e eles
+ 01:34:00
+
+trabalham 4 horas, eles não têm
+ 01:34:02
+
+empregados, trabalham 4 horas por dias e
+ 01:34:05
+
+é um supermercado grande. Cada associado
+ 01:34:07
+
+trabalha 4 horas por dia. Então tu vai
+ 01:34:09
+
+ver um, por exemplo, um idoso pesando,
+ 01:34:11
+
+não é, eh, as frutas, as hortaliças e os
+ 01:34:15
+
+grãos que você consome muito na Espanha.
+ 01:34:17
+
+E e isso enfrenta o sistema
+ 01:34:20
+
+convencional, porque o sistema, de certa
+ 01:34:22
+
+forma, tem que assumir na Espanha, eles
+ 01:34:24
+
+assumem mais essa ideia de produto de
+ 01:34:27
+
+cercania que o nosso consumidor ainda
+ 01:34:29
+
+não cobra tanto aqui. Então nós temos
+ 01:34:32
+
+que fazer usar mais os nossos espaços
+ 01:34:35
+
+escolares, tá? Eh, e e eu acho que aí
+ 01:34:37
+
+precisa da política pública na política
+ 01:34:42
+
+pode criar isso na educação, eh, espaços
+ 01:34:44
+
+para trabalhar a educação no consumidor.
+ 01:34:48
+
+No projeto dos ovos, é óbvio que é muito
+ 01:34:50
+
+pequeno, não é? Mas nós chegava ir para
+ 01:34:53
+
+dentro do supermercado a fazer quebra de
+ 01:34:55
+
+ovos, não é? Mostrar ou quebrar os ovos dos
+ 01:34:58
+
+ovos coloniais e algum ovo do outro. E
+ 01:35:01
+
+aí o supermercado tem que ser eh
+ 01:35:04
+
+sensível à causa, que não são todos que
+ 01:35:07
+
+são. É o é claro que dentro do esses,
+ 01:35:09
+
+por isso que eu trabalho a ideia de
+ 01:35:12
+
+mercado local e mercado regional ali,
+ 01:35:14
+
+porque esses são os mais sensíveis. Não
+ 01:35:16
+
+é com a transnacional que nós vamos
+ 01:35:18
+
+negociar. Transnacional nós não passamos
+ 01:35:19
+
+da porta, não é? Nós fomos vender aulas
+ 01:35:21
+
+para uma transnacional e eles disseram
+ 01:35:24
+
+para nós,
+ 01:35:26
+
+eh, não, o comprador nos disse, não é
+ 01:35:28
+
+aqui que vocês vão fazer negócio,
+ 01:35:32
+
+porque o a a estratégia, o contrato mata
+ 01:35:35
+
+esse pequeno. Então, no projeto do
+ 01:35:39
+
+Arroz, nós fizemos uma parceria com a
+ 01:35:42
+
+Irga, não é, o projeto do arroz, que é
+ 01:35:44
+
+tirar o o insumo químico e tirando, não é,
+ 01:35:47
+
+na verdade essa ideia ao longo do tempo,
+ 01:35:50
+
+mas nós tiramos de imediato,
+ 01:35:52
+
+substituímos os os químicos por eh
+ 01:35:55
+
+bioinsumos, tá? Eh, e nós chegamos a
+ 01:35:59
+
+fazer 1500 refeições com aquela panela
+ 01:36:02
+
+grande do IGO, que quem é do Rio Grande
+ 01:36:05
+
+do Sul conhece, a junto com a Emater,
+ 01:36:07
+
+não é, e o e o Instituto Rio Grandes do
+ 01:36:11
+
+Arroz, com a Débora Mostardeiro, que é a
+ 01:36:13
+
+supervisora aqui da região da quarta
+ 01:36:16
+
+colônia, nós fizemos em dois
+ 01:36:18
+
+supermercados aqui em Santa Maria para
+ 01:36:19
+
+abrir espaço. Essas ações têm custos,
+ 01:36:22
+
+não é? É claro que tem, é difícil. O nosso
+ 01:36:25
+
+agricultor também não gosta de investir
+ 01:36:28
+
+nisso, mas eu ainda vejo que eh o
+ 01:36:30
+
+trabalhar o consumidor acaba tendo que
+ 01:36:33
+
+ser muito na no pontual. Nós não
+ 01:36:36
+
+conseguimos porque nós não temos recurso
+ 01:36:40
+
+e não existe políticas públicas de
+ 01:36:43
+
+fomento a promoção do produto da
+ 01:36:45
+
+agricultura familiar numa escala maior.
+ 01:36:47
+
+Eu ainda sonho em ver um supermercado
+ 01:36:49
+
+aqui em Santa Maria, pelo menos com umas
+ 01:36:51
+
+prateleiras de identificando este
+ 01:36:53
+
+produto é de Santa Maria ou é da região
+ 01:36:57
+
+de Santa Maria, não é? Porque nós temos
+ 01:36:59
+
+azeite de oliva, nós temos ovos, nós
+ 01:37:01
+
+temos carne, nós temos uma infinidade de
+ 01:37:03
+
+produtos, mas e aí a gente poder
+ 01:37:06
+
+trabalhar esse supermercado, não é, com
+ 01:37:09
+
+mídia, com comunicação para de fato
+ 01:37:12
+
+diferenciar ele com responsabilidade
+ 01:37:14
+
+social, com compromisso com a
+ 01:37:17
+
+comunidade, não é, e outras coisas tantas.
+ 01:37:18
+
+Tá bem? Então, algumas questões aí que
+ 01:37:21
+
+eu lembrei de falar a partir desses
+ 01:37:23
+
+pontos que o professor Ezequiel
+ 01:37:27
+
+levantou. Muito bom. O Luís aqui ele
+ 01:37:28
+
+comenta o seguinte: Santa Maria tinha a
+ 01:37:32
+
+estância da figueira que abastecia arees
+ 01:37:34
+
+de mercados de Santa Maria e região com
+ 01:37:36
+
+frutas, laranja, bergamota, pesca, agora
+ 01:37:39
+
+está só com legumes ou porque parou com
+ 01:37:42
+
+as frutas, não é? Acho que ele faz um
+ 01:37:44
+
+questionamento daí, mas ele fez um
+ 01:37:47
+
+comentário isso ao longo da live. A
+ 01:37:49
+
+Clélia também coloca um uma questão
+ 01:37:51
+
+muito importante. Clélia, a nossa
+ 01:37:53
+
+extensionista aí, professor Gustavo já
+ 01:37:56
+
+referendou aí.
+ 01:37:59
+
+anos e anos na extensão oral, conhece a
+ 01:38:00
+
+extensão da desde década 70. Clélia, tem
+ 01:38:02
+
+uma live aqui muito bacana para quem
+ 01:38:05
+
+quer entender como é que era a extensão
+ 01:38:07
+
+oral na década de 70 com as mulheres. É
+ 01:38:09
+
+muito bacana. A educação alimentar no
+ 01:38:12
+
+currículo escolar desde o desde o ensino
+ 01:38:15
+
+fundamental até a academia. Hoje a
+ 01:38:18
+
+criança e a família não tem noção da
+ 01:38:21
+
+importância do alimento na formação
+ 01:38:23
+
+integral do indivíduo. Aí o professor
+ 01:38:25
+
+Gustavo já tá encabeçando esse projeto
+ 01:38:28
+
+da criação de pomares aqui nas escolas
+ 01:38:30
+
+de Santa Maria com um apoio da
+ 01:38:32
+
+prefeitura municipal muito
+ 01:38:34
+
+interessante. Eh, a Flávia, a Flávia, a
+ 01:38:36
+
+Flávia é nossa, nossa colaboradora do
+ 01:38:41
+
+zap rural, não é, Flávia Felipe FF, não é?
+ 01:38:43
+
+Parabéns, sou fã do professor Gustavo.
+ 01:38:46
+
+Polifira é desenvolvimento e
+ 01:38:48
+
+fortalecimento da agricultura familiar.
+ 01:38:49
+
+Então, Flávia, você é uma polifã, não é?
+ 01:38:52
+
+Aqui quem é fã do da poliferia, fã do
+ 01:38:54
+
+professor Gustavo, é Polifã. Polifã. São
+ 01:38:56
+
+os fãs da polifira do agricultor. Muito
+ 01:39:00
+
+bom. Aqui nós temos o da inspeção de
+ 01:39:03
+
+carnes da medicina veterinária. Acredito
+ 01:39:05
+
+que ele é nosso aluno, ele fez um
+ 01:39:07
+
+comentário na live da da fruticultura,
+ 01:39:08
+
+não é? Ele tá acompanhando aí. Parabéns,
+ 01:39:10
+
+professor Gustavo. Tô assistindo aqui do
+ 01:39:12
+
+campo. Isso que é interessante. Eu quero
+ 01:39:14
+
+comentar isso aqui. Aqui, ó. A gente tá
+ 01:39:16
+
+chegando no na agricultura, a gente tá
+ 01:39:18
+
+chegando com essas lives lá no nosso
+ 01:39:21
+
+agricultor que tá lá no no rural. Isso
+ 01:39:22
+
+no futuro a gente não vai precisar mais
+ 01:39:25
+
+falar sobre isso aí, não é? No futuro a
+ 01:39:26
+
+gente já com todos os nossos agritores
+ 01:39:29
+
+tenham acesso a conhecimento na sua
+ 01:39:31
+
+casa. Parabéns, professor Gustavo. Estou
+ 01:39:34
+
+assistindo um pouco aqui do campo. E daí
+ 01:39:36
+
+ele ele continua aqui embaixo eh em São
+ 01:39:38
+
+Pedro, ele chama Leandro e ele fez uma
+ 01:39:43
+
+questão depois. Deixa eu achar aqui a
+ 01:39:46
+
+questão aqui, ó. Foi a pergunta, ó. Qual
+ 01:39:48
+
+a saída para a falta de mão de obra no
+ 01:39:51
+
+campo? Ninguém aceita mais o trabalho
+ 01:39:53
+
+braçal, não é? É um grande desafio, não é,
+ 01:39:54
+
+senor Gustavo? Porque isso aqui tem a
+ 01:39:57
+
+ver com frutas, tem a ver com com a
+ 01:39:58
+
+produção de alimenta, a ver com com a
+ 01:40:00
+
+questão da polifira também, não é, que
+ 01:40:03
+
+também tem nossos agricultores aí vão
+ 01:40:06
+
+precisar fazer a sucessão. É um grande
+ 01:40:08
+
+desafio. Você você queria comentar um
+ 01:40:10
+
+pouquinho sobre isso aqui e aí quant
+ 01:40:13
+
+enquanto você pensa a resposta, eu já
+ 01:40:15
+
+vou botar do Tarcis aqui. O problema de
+ 01:40:17
+
+não agroindustrializar é ficar fora do
+ 01:40:18
+
+aumento da arenda urbana, dada a
+ 01:40:20
+
+inelasticidade dos produtos. Esse é um
+ 01:40:22
+
+problema para construir sistemas
+ 01:40:25
+
+sustentáveis. Aí, ó, o Sérgio a Sérgio
+ 01:40:28
+
+Chin Sérgio Alves, eh, sistema alimentar
+ 01:40:31
+
+é um tema negligenciado pelos
+ 01:40:33
+
+governos. Eu vou colocar mais uma aqui
+ 01:40:36
+
+que é da própria, não dá para querer,
+ 01:40:39
+
+não dá para querer concorrer com
+ 01:40:43
+
+produtores maiores de ovo em média e
+ 01:40:44
+
+grande escala. A saída é dar valor à
+ 01:40:47
+
+agricultura familiar. Aves soltos, aves
+ 01:40:49
+
+felizes, demonstrando e convencendo a
+ 01:40:51
+
+população. É um grande trabalho. E ele
+ 01:40:53
+
+continua: "A produção de ovos de galinha
+ 01:40:56
+
+caipira, aves soltas em piquetes custa
+ 01:40:58
+
+bem mais. Logo, preço não pode ser o
+ 01:41:00
+
+mesmo dos ovos comerciais, senão
+ 01:41:03
+
+caraquebra". Tivemos
+ 01:41:05
+
+exemplos. Bueno, eu vou botar do Aael
+ 01:41:08
+
+daí depois eu depois eu passo pro
+ 01:41:10
+
+professor Zuin para não se estender
+ 01:41:12
+
+demais. Gustavo, o que você acha mais
+ 01:41:13
+
+difícil? mudar o pensamento do
+ 01:41:15
+
+consumidor ou do produtor para que ele
+ 01:41:17
+
+também assuma o papel da produção
+ 01:41:20
+
+sustentável, orgânica, de alimentos. É
+ 01:41:22
+
+consumidor ou é produtora ou é os dois?
+ 01:41:25
+
+Conseguiu pegar todas, Gustavo? Qual
+ 01:41:28
+
+coisa eu posso repetir? Deixa a última,
+ 01:41:30
+
+por favor. Deixa essa, deixa essa que as
+ 01:41:32
+
+outras
+ 01:41:36
+
+essas as outras eu anotei aqui, tá? Eh,
+ 01:41:37
+
+primeiro eu primeiro agradecer o
+ 01:41:41
+
+Leandro, não é, que tá assistindo. Leandro
+ 01:41:43
+
+é o o Leandro é o médico veterinário que
+ 01:41:46
+
+trabalhou com nós no projeto dos ovos
+ 01:41:49
+
+coloniais, não é? Então, eh, não é
+ 01:41:52
+
+veterinário aqui de de Santa Maria, de
+ 01:41:56
+
+São Pedro do Sul, mas ele tem um
+ 01:41:58
+
+trabalho muito grande, a gente
+ 01:42:01
+
+recomenda, não é, na questão das
+ 01:42:02
+
+agroindústrias familiares, não é, na na
+ 01:42:04
+
+relação que tem com
+ 01:42:08
+
+a com
+ 01:42:10
+
+a de de fato viabilizar, não é, e
+ 01:42:13
+
+desburocratizar um pouco também. Então,
+ 01:42:16
+
+eh, eu acho que de eh é isso, não é? Ele
+ 01:42:19
+
+escreveu algumas questões ali que é que
+ 01:42:25
+
+é verdadeira, não é? Nós não concorremos,
+ 01:42:28
+
+não podemos com o com o com a
+ 01:42:31
+
+agricultura grande, de grande escala,
+ 01:42:35
+
+não é? E e a gente tem que diferenciar
+ 01:42:38
+
+esses produtos. Esse é o trabalho que me
+ 01:42:40
+
+que é que é bastante difícil. Sobre a
+ 01:42:43
+
+questão da mão de obra, não é? Nós não
+ 01:42:46
+
+temos solução. Tá preocupante, não é? Tá
+ 01:42:47
+
+assustador. Os últimos dias eu eu sempre
+ 01:42:50
+
+saio muito, não é? Conheço bastante a
+ 01:42:53
+
+região. É importante estar em contato,
+ 01:42:57
+
+não é? Nosso, o o meio rural não tem mais
+ 01:42:59
+
+mão de obra, não é? Esse é um fato. Não tem
+ 01:43:03
+
+mais sucessão, não é? Os filhos, não é? E
+ 01:43:06
+
+estamos chovendo no molhado, talvez
+ 01:43:10
+
+repetir isso, mas os filhos já saíram. E
+ 01:43:13
+
+e esse vai ser o estrangulamento que nós
+ 01:43:16
+
+vamos ver, eu espero ainda, não é, que dure
+ 01:43:18
+
+bastante para Mas em poucos anos nós
+ 01:43:20
+
+vamos ter um abandono no campo dessa
+ 01:43:24
+
+geração, não é, que que é o agricultor
+ 01:43:26
+
+familiar. Os meus pais eram agricultores
+ 01:43:30
+
+familiares, são, tá? Eh, eu fui criado
+ 01:43:33
+
+no modo de vida da agricultura familiar,
+ 01:43:37
+
+os meus filhos já não vão ser mais.
+ 01:43:40
+
+E mesmo o filho do agricultor no campo
+ 01:43:43
+
+hoje ele já nasce e ele já entra na rede
+ 01:43:46
+
+de uma de de um de um outro modo que não
+ 01:43:50
+
+é mais aquele modo de vida que eu que
+ 01:43:54
+
+nós fomos criados e ele vai sendo
+ 01:43:57
+
+rompido o elo com o com o modo de vida
+ 01:44:00
+
+da agricultura, tá? Isso, isso é para
+ 01:44:04
+
+uma tese, não é para nós discutir aqui,
+ 01:44:06
+
+mas eh para olhando a mão de obra é é
+ 01:44:09
+
+real. Nós estamos vendo aqui na cultura
+ 01:44:13
+
+do fumo, por exemplo, hoje tá pagando R$
+ 01:44:14
+
+250 para um diarista pelo Fumo, não é? eh,
+ 01:44:18
+
+e que inflaciona de certo modo todo o o
+ 01:44:23
+
+preço da mão de obra, não é, que que não se
+ 01:44:26
+
+viabiliza em outras atividades. Ontem o
+ 01:44:30
+
+agricultor nos contou, não é, que colhendo
+ 01:44:32
+
+uva, o preço que ele paga pela caixa de
+ 01:44:34
+
+uva é muito maior que o custo de pela
+ 01:44:38
+
+colheta da caixa de uva, é muito maior
+ 01:44:41
+
+que o custo de produção que ele tem para
+ 01:44:43
+
+produzir. Então, realmente esse é um
+ 01:44:45
+
+problema e eu acho que tem situações que
+ 01:44:48
+
+nós merecemos de
+ 01:44:51
+
+de política pública, não é? Mas assim como
+ 01:44:55
+
+foi mencionado, o sistema alimentar ele
+ 01:44:58
+
+é negligenciado, boa parte paraa
+ 01:45:01
+
+política pública. Nós temos algumas
+ 01:45:03
+
+pautas que nós não avançamos. Veja a
+ 01:45:05
+
+história, por exemplo, do Seguro
+ 01:45:07
+
+Agrícola, não é? O seguro agrícola, ele eh
+ 01:45:09
+
+o quem é que tem seguro hoje é quem
+ 01:45:13
+
+financiou algum bem, tá? O o seguro
+ 01:45:15
+
+agrícola para aquele que não tem bem
+ 01:45:20
+
+financiado é extremamente caro, tá? E aí
+ 01:45:23
+
+muita gente, inclusive meus pais que são
+ 01:45:28
+
+fruticultores, eu já fiz esse cálculo,
+ 01:45:31
+
+vale mais a pena tu correr o risco, o
+ 01:45:34
+
+custo do seguro, vale mais a pena tu
+ 01:45:36
+
+correr o risco de que em três a 4 anos
+ 01:45:39
+
+tu vai ter um um evento climático e tu
+ 01:45:42
+
+vai perder do que tu pagar todos os
+ 01:45:44
+
+anos. Isso não pode ser assim. Se nós
+ 01:45:48
+
+não proteger esse público que ainda está
+ 01:45:51
+
+produzindo, não é, não tem como ficar no
+ 01:45:54
+
+campo, não é? Então o seguro agrícola
+ 01:45:56
+
+brasileiro não é para proteger o
+ 01:45:58
+
+agricultor familiar, é para
+ 01:46:00
+
+proteger o banco, pro banco não deixar
+ 01:46:02
+
+de receber aquele aquele crédito aquele
+ 01:46:06
+
+que ele acaba concedendo, tá? Então, eh
+ 01:46:09
+
+eu acho que essas questões assim
+ 01:46:12
+
+demonstram um pouco do do quanto falta,
+ 01:46:14
+
+não é? E e realmente o sistema alimentar
+ 01:46:18
+
+não é discutido, não é discutido a
+ 01:46:20
+
+campanha eleitoral não continua sendo,
+ 01:46:22
+
+não é, durante a elaboração de leis e assim
+ 01:46:25
+
+por diante. Nós soubemos disso e é
+ 01:46:29
+
+interessante, não é, que a gente vive de
+ 01:46:32
+
+algumas ondas de políticas públicas que
+ 01:46:33
+
+que é o que acabam gerando movimento,
+ 01:46:36
+
+não é, que a gente tem vivido na nas nossas
+ 01:46:39
+
+regiões. Se vocês observarem, alguém
+ 01:46:42
+
+citou aqui do Vale Feira, não é? Eh, o Vale
+ 01:46:44
+
+Feira, veja que o Vale Feira é uma
+ 01:46:48
+
+política pública que começou em alguns
+ 01:46:51
+
+municípios e hoje que bom que tá se
+ 01:46:53
+
+expandindo, não é? E em Santiago, não é, que é
+ 01:46:56
+
+o município que eu estudo e conheço
+ 01:47:01
+
+bastante, não é, eles têm Vale Feira,
+ 01:47:02
+
+injeta aí um monte de dinheiro direto na
+ 01:47:05
+
+agricultura familiar, tá? Então, eh,
+ 01:47:09
+
+essa questão eh essas ponderações da
+ 01:47:12
+
+pergunta do Ezequiel, do Asrael,
+ 01:47:15
+
+professor Ezequiel, por favor, é
+ 01:47:18
+
+isso. O que que é mais difícil? Os dois
+ 01:47:21
+
+são, não é? Na verdade, quando nós
+ 01:47:24
+
+trabalhamos com eh com a
+ 01:47:26
+
+desconstrução de de de alguma de
+ 01:47:30
+
+alguma ideia, de alguma
+ 01:47:33
+
+representação ou mesmo de um valor que
+ 01:47:36
+
+as pessoas dão para alguma coisa, não é,
+ 01:47:39
+
+ele ele é difícil. Eu digo que mudar o
+ 01:47:42
+
+pensamento do consumidor parte de
+ 01:47:45
+
+desconstruir aquelas rotinas que são
+ 01:47:47
+
+dadas, não é? E as rotinas são dadas por
+ 01:47:50
+
+ideias que foram construídas ao longo
+ 01:47:53
+
+das experiências que ti que as pessoas
+ 01:47:55
+
+têm ao longo da vida, não é? E isso vale
+ 01:47:58
+
+também paraa produção do levado
+ 01:48:00
+
+convencional pro orgânico, não é? É a mesma
+ 01:48:03
+
+mudança, não é? De eu saio de uma ideia,
+ 01:48:07
+
+não é? para pr para que aquilo chega a um
+ 01:48:12
+
+valor e que seja incorporado na minha
+ 01:48:14
+
+atitude e na minha prática do dia a dia.
+ 01:48:16
+
+Se nós olhar o tempo que os agricultores
+ 01:48:19
+
+levaram na produção convencional, não é, e
+ 01:48:22
+
+e que e que refaz um aprendizado, ele
+ 01:48:26
+
+não consegue depois pensar fora daquela
+ 01:48:28
+
+caixa. O consumidor também. Eu acho que
+ 01:48:31
+
+é assim, se eu tivesse que dar um aqui
+ 01:48:34
+
+para quem é mais difícil, eu ainda diria
+ 01:48:36
+
+que é pro agricultor fazer uma
+ 01:48:39
+
+transição. Depois do convencional ele
+ 01:48:40
+
+vim pro orgânico, a gente observa que é
+ 01:48:43
+
+difícil para ele, não é? Que bom que nós
+ 01:48:46
+
+temos alguns, o Ael, por exemplo, não é,
+ 01:48:48
+
+que é alguém que fez que que vem munido
+ 01:48:51
+
+da questão da agroecologia, não é, eh, que
+ 01:48:54
+
+que que as pessoas que acabam
+ 01:48:57
+
+trabalhando, não é, num outro modo e
+ 01:48:59
+
+propondo isso, mas eh propondo para o
+ 01:49:02
+
+agricultor para pensar, não é, para para
+ 01:49:05
+
+lhe questionar e lhe criar meios. Eu vi
+ 01:49:08
+
+o professor, o professor Tarciso Samborg
+ 01:49:11
+
+aqui, não é, nosso, eh, companheiro aí de
+ 01:49:13
+
+de longa data, fomos colega. E já
+ 01:49:16
+
+agradeço por ter feito o prefácio, não é,
+ 01:49:19
+
+do livro que foi lançado ontem. Eh,
+ 01:49:22
+
+muito obrigado.
+ 01:49:25
+
+E mas eh assim, o o professor o
+ 01:49:28
+
+professor Tarcis tem um trabalho com uma
+ 01:49:31
+
+coleção de cultivares de mandioca, não é,
+ 01:49:33
+
+de essas ações são pontuais, mas elas
+ 01:49:36
+
+vão a de algum modo elas chegam no
+ 01:49:40
+
+agricultor e mantém aquele conhecimento
+ 01:49:42
+
+mais tradicional, não é, mais ligado a a
+ 01:49:44
+
+preservar, por exemplo, a produção para
+ 01:49:48
+
+autoconsumo que se perde diante do
+ 01:49:50
+
+mercado convencional. Então eu acho que
+ 01:49:52
+
+nós temos aí o consumidor, nós perdemos
+ 01:49:54
+
+os espaços de mostrar o diferencial. Eu
+ 01:49:58
+
+digo assim, ó, eu eu faço um teste
+ 01:50:01
+
+quando eu vou supermercado com as minhas
+ 01:50:03
+
+crianças e eles levam para ah, tem um
+ 01:50:05
+
+monte de gente na volta ali das batata
+ 01:50:08
+
+inglesa, não é? Aí quando alguém leva, eu
+ 01:50:10
+
+digo se as crianças leva a mão para
+ 01:50:12
+
+pegar um, eu digo: "Não pega que tem
+ 01:50:14
+
+veneno". Assim, ó, as pessoas que estão
+ 01:50:16
+
+no redor eles abrem, não é? Porque assusta.
+ 01:50:19
+
+Então hoje este clima de ansiedade
+ 01:50:23
+
+pública generalizada que as pessoas têm
+ 01:50:25
+
+em relação à comida ou vem tendo, não é, a
+ 01:50:28
+
+a frase que serve é dizer que não tem
+ 01:50:31
+
+como fugir, não é? Isso se desculpa um
+ 01:50:35
+
+pouco, mas ela aguarda um peso na
+ 01:50:39
+
+consciência ainda. Então eu acho que tem
+ 01:50:41
+
+espaço, os espaços para trabalhar com o
+ 01:50:43
+
+consumidor, não é? Nós faltam recursos, nos
+ 01:50:45
+
+faltam formas, equipe, é sempre no
+ 01:50:49
+
+voluntariado, não é? Eh, para fazer esse
+ 01:50:53
+
+trabalho. Aqui nós temos vários
+ 01:50:57
+
+assistindo as lives que poderiam estar
+ 01:50:58
+
+fazendo um trabalho remunerado, não é? Não
+ 01:51:02
+
+tô buscando trabalho para ninguém, não é?
+ 01:51:05
+
+Mas poderiam ser ter uma alguma ação
+ 01:51:07
+
+para nós trabalhar mercado local, tá?
+ 01:51:11
+
+Eh, eh, e não existe curso para
+ 01:51:14
+
+preparar, por exemplo, um curso de ações
+ 01:51:17
+
+que tivessem educando as pessoas para
+ 01:51:20
+
+para esse enfrentamento, não é? Então, eh,
+ 01:51:22
+
+mas tem que ser pago, isso tem que ser
+ 01:51:26
+
+remunerado. Alguém tira o seu tempo e
+ 01:51:28
+
+nós acabamos sempre fazendo essas ações
+ 01:51:31
+
+sempre desse campo alternativo, sempre
+ 01:51:34
+
+no voluntariado. Então, não sei se eu
+ 01:51:36
+
+respondo, ajudo, problematizo, mas
+ 01:51:38
+
+algumas questões aí para trazer paraa
+ 01:51:41
+
+discussão e contribuir com com o debate.
+ 01:51:44
+
+Muito bom. Eu vou passar a palavra pro
+ 01:51:48
+
+Zim, mas antes de passar a palavra, eu
+ 01:51:50
+
+tenho que fazer um comentário, não é?
+ 01:51:52
+
+Parece que a questão do alimento ela ela
+ 01:51:53
+
+só vai impactar, você vai pensar ou
+ 01:51:56
+
+repensar a tua alimentação quando você
+ 01:52:00
+
+tem um problema de saúde. O Gustavo
+ 01:52:02
+
+sabendo que a gente tá falando isso,
+ 01:52:04
+
+isso me parece parecido com o tabaco,
+ 01:52:05
+
+não é? As pessoas não refletem sobre o
+ 01:52:07
+
+problema do tabaco. Ele só vai, a
+ 01:52:10
+
+família só vai refletir, o agrupor só
+ 01:52:12
+
+vai refletir quando ele tem um problema
+ 01:52:14
+
+de saúde e quando reflete, porque às
+ 01:52:15
+
+vezes tu é preso ao sistema, não é? Você é
+ 01:52:17
+
+preso ao sistema econômico. Eu passo
+ 01:52:20
+
+aqui na nossa universidade, o Gustavo
+ 01:52:21
+
+sabe, para quem já conheceu a
+ 01:52:23
+
+Universidade Federal de Santa Maria é
+ 01:52:24
+
+uma potência aqui. E você, você olha
+ 01:52:26
+
+pros jovens se alimentando, não é? Você via
+ 01:52:29
+
+você no passado, não é? Claro, não é? Com
+ 01:52:32
+
+dificuldades econômicas, com as
+ 01:52:34
+
+limitações que tem, com a comodidade,
+ 01:52:36
+
+com a facilidade do sistema industrial,
+ 01:52:38
+
+não é, do alimento, não é? a comodidade que tá
+ 01:52:41
+
+criando toda essa questão. Eu, eu, o
+ 01:52:44
+
+professor Gustavo, aí a gente tava
+ 01:52:46
+
+debatendo dias atrás, não é? É muito fácil,
+ 01:52:48
+
+não é? O nosso, o consumidor da polifeira,
+ 01:52:50
+
+por exemplo, ele chega no ele chega lá
+ 01:52:52
+
+no nosso agricultor do feerante e ele
+ 01:52:55
+
+quer buscar todos os produtos naquele
+ 01:52:57
+
+momento, porque ele entende a polifera
+ 01:53:00
+
+como um supermercado que eu vou lá no
+ 01:53:02
+
+supermercado e uma vez eu resolvo minha
+ 01:53:04
+
+vida e vou embora. E não é assim. O
+ 01:53:06
+
+problema dessa zonalidade é o que o
+ 01:53:08
+
+professor Gustavo tem comentado. O nosso
+ 01:53:10
+
+consumidor tem que entender que o nosso
+ 01:53:12
+
+agrupor não tem tudo, que ele tem o
+ 01:53:14
+
+produto local do momento, não é? E isso é
+ 01:53:16
+
+difícil porque isso tira da comodidade
+ 01:53:19
+
+que ele vai ter que buscar em outro
+ 01:53:22
+
+espaço para complementar sua dieta.
+ 01:53:24
+
+Enfim, é um debate assim que o senor
+ 01:53:25
+
+Gustavo faz com grande maestria.
+ 01:53:27
+
+Juninho, passar a palavra para ti, não é,
+ 01:53:29
+
+que tu viu que essa galera do Politec
+ 01:53:31
+
+fala muito, não é? tá contigo. Isso é muito
+ 01:53:33
+
+bacana, Gustavo, meu querido, palestra
+ 01:53:36
+
+maravilhosa, viu? Está de parabéns o seu
+ 01:53:39
+
+trabalho, Gustavo, eh, quais são
+ 01:53:41
+
+as as atividades, campanhas educativas
+ 01:53:45
+
+que a Polifreira já fez e tá fazendo?
+ 01:53:50
+
+Uma você tá falando aí a respeito, você
+ 01:53:52
+
+falou agora a respeito dos pomares nas
+ 01:53:55
+
+escolas, não é? Essas atividades educativas
+ 01:53:58
+
+voltadas para crianças, não é? O que que
+ 01:54:00
+
+vocês já fizeram e pretendem fazer
+ 01:54:02
+
+também? Tão fazendo?
+ 01:54:05
+
+Nós já fizemos
+ 01:54:08
+
+eh deixa eu começar assim, ó. Tem uma
+ 01:54:10
+
+campanha interessante nós fizemos para
+ 01:54:14
+
+foi a questão da reciclagem, não é? Eh, da
+ 01:54:17
+
+reciclagem de de embalagens que podem
+ 01:54:21
+
+ser reutilizadas levar na feira. Quando
+ 01:54:24
+
+tu leva na feira, tu toca na questão
+ 01:54:27
+
+alimentar. Então o a reciclagem acaba
+ 01:54:30
+
+sendo o veículo para levar as pessoas
+ 01:54:33
+
+paraa feira. Nós já fizemos feiras
+ 01:54:35
+
+dentro de escolas, não é? Então tu leva
+ 01:54:38
+
+dois, três feerantes, trabalha junto com
+ 01:54:41
+
+educação financeira, não é? O os
+ 01:54:43
+
+estudantes, eh, as professoras eh são
+ 01:54:46
+
+são ações articuladas, as professoras
+ 01:54:49
+
+desenvolvem a prática, não é, da de da
+ 01:54:52
+
+economia e tal. As crianças vão com
+ 01:54:56
+
+dinheiro contado, eles têm que saber a
+ 01:54:59
+
+história do agricultor, não é? Então, eh,
+ 01:55:01
+
+já fizemos isso, isso, isso é muito
+ 01:55:05
+
+bacana, dá um trabalho, mas,
+ 01:55:07
+
+eh, as crianças querem determinados
+ 01:55:10
+
+alimentos como morango, não é? E eh é, mas
+ 01:55:13
+
+é muito, ele toca muito no coração do
+ 01:55:17
+
+agricultor que se
+ 01:55:20
+
+sensibiliza, mas também da família,
+ 01:55:22
+
+porque essa criança depois vai contando
+ 01:55:24
+
+para casa. E essa essa da escola ela
+ 01:55:27
+
+nasceu pela minha filha, na turma da
+ 01:55:30
+
+minha filha, não é?
+ 01:55:33
+
+E foi a primeira ação que a gente fez e
+ 01:55:35
+
+depois os pais me procuravam para
+ 01:55:38
+
+comprar tal coisa, sabe? Então tu vê que
+ 01:55:42
+
+que que é o anonimato próprio da dessas
+ 01:55:45
+
+pessoas às vezes, não é? Eu acho que nós
+ 01:55:49
+
+dev os espaços de feiras, mais feiras,
+ 01:55:51
+
+não é? Eh, eu sempre brinco com os
+ 01:55:55
+
+municípios que dou mudas, dou a muda,
+ 01:55:59
+
+mas depois não faz a feira pro
+ 01:56:01
+
+agricultor vender. Nó precisava ter, não é?
+ 01:56:03
+
+Precisava ter esse momento de conexão e
+ 01:56:05
+
+dizer: "Essa é um produto local".
+ 01:56:07
+
+Aqui o ano passado nós recebemos uma uma
+ 01:56:10
+
+muitas escolas vêm na polifeira e nós
+ 01:56:13
+
+recebemos, não é, normalmente é feito pelos
+ 01:56:16
+
+próprios bolsistas, porque aí o bolsista
+ 01:56:19
+
+também se apropria da ideia, não é? E e e
+ 01:56:22
+
+esse ano uma escola já pediu para levar
+ 01:56:27
+
+para ficar um dia inteiro na
+ 01:56:29
+
+eh levar os filhos num lá na propriedade
+ 01:56:33
+
+para os filhos plantarem e fazer um
+ 01:56:36
+
+canteiro, não é? Então acho que esses
+ 01:56:38
+
+espaços de significado, o Cristiano, que
+ 01:56:40
+
+é nosso companheiro do da Polifer do
+ 01:56:43
+
+Agricultor, também tá assistindo a live,
+ 01:56:45
+
+eh colocou aqui a disponibilização dos
+ 01:56:48
+
+alimentos, não é, para projetos sociais de
+ 01:56:50
+
+baixa renda. Esse é um trabalho que o
+ 01:56:52
+
+Cristiano fez por muito tempo, coletando
+ 01:56:54
+
+no final da feira dos feirantes
+ 01:56:57
+
+alimentos e fazendo o feirante ir lá na
+ 01:57:00
+
+das pessoas que têm mais
+ 01:57:02
+
+vulnerabilidade para tocar nele também a
+ 01:57:04
+
+ideia de da comida como algo que pode
+ 01:57:07
+
+ajudar que outras pessoas tenham acesso
+ 01:57:11
+
+a um alimento de uma qualidade superior,
+ 01:57:13
+
+não é? Então, eh essas são algumas
+ 01:57:16
+
+experiências assim, não é? nós fizemos
+ 01:57:19
+
+campanha de arrecadação de de donativos,
+ 01:57:21
+
+não é, eh fraldas eh para as crianças com
+ 01:57:25
+
+câncer do hospital, não é, que também eh
+ 01:57:29
+
+fazer a questão alimentar dialogar por
+ 01:57:31
+
+outras ações, não é? Eh, dentro da feira
+ 01:57:35
+
+nós fizemos a banca, uma essa faz tempo,
+ 01:57:38
+
+mas que foi interessante porque às vezes
+ 01:57:41
+
+a gente perde a continuidade porque o
+ 01:57:43
+
+nosso motor é o bolsista, é o estudante
+ 01:57:46
+
+que tá envolvido ali. Quando a gente tem
+ 01:57:49
+
+bolsistas que assume, a gente consegue
+ 01:57:51
+
+fazer a coisa andar. Quando a gente tem
+ 01:57:53
+
+bolsista que não assume, a gente tem,
+ 01:57:55
+
+porque eu tenho meus compromissos, o
+ 01:57:58
+
+Cristiano tem que pensar em toda a
+ 01:57:59
+
+feira, no projeto dos ovos, então acaba
+ 01:58:02
+
+sendo difícil. Mas, eh, nós fizemos a
+ 01:58:04
+
+tenda da felicidade, que era para
+ 01:58:07
+
+mostrar um pouco do que que tá por trás
+ 01:58:09
+
+do alimento com fotografia, mostrando a
+ 01:58:12
+
+partir daquilo que a polifera fazia, não é?
+ 01:58:15
+
+Então, eh, o espaço assim, nós recebemos
+ 01:58:17
+
+imigrantes do Haiti, não é, para, eh, e, e
+ 01:58:22
+
+nós tentamos fazer de criar um, e nós
+ 01:58:26
+
+não conseguimos, mas tentamos de um
+ 01:58:28
+
+espaço de de da diversidade alimentar
+ 01:58:31
+
+dos outros países eles serem tocados. Aí
+ 01:58:33
+
+o Cristiano tá colocando o hemocentro na
+ 01:58:36
+
+feira. Nós temos um ônibus para doação
+ 01:58:38
+
+de sangue, não é? Aqui para eh Obrigado.
+ 01:58:40
+
+Quando a gente tem um segundo assim nos
+ 01:58:44
+
+ajudando, não é? Ajuda bastante. Mas o
+ 01:58:46
+
+emocentro foi uma baita iniciativa, não é?
+ 01:58:48
+
+Faltou baita é um termo do Rio Grande do
+ 01:58:51
+
+Sul,
+ 01:58:53
+
+não é?
+ 01:58:54
+
+Eh eh que tem que tem uma uma o o as
+ 01:58:55
+
+pessoas doarem sangue na feira no isso
+ 01:58:59
+
+tem um significado também. Então eu acho
+ 01:59:02
+
+que a questão alimentar pode tocar de
+ 01:59:05
+
+diferente maneira, diferentes maneiras.
+ 01:59:07
+
+O projeto Zelo, que é um projeto da UFSM
+ 01:59:10
+
+do cuido, cuidado dos animais de rua por
+ 01:59:12
+
+dentro da feira, não é? Então o espaço de
+ 01:59:16
+
+leitura que hoje os os colegas nossos do
+ 01:59:18
+
+da Pró-reitoria de Assuntos Estudantis
+ 01:59:22
+
+fazem por dentro da feira.
+ 01:59:24
+
+Então é isso, acho que uma feira dentro
+ 01:59:27
+
+de um Eu não entendia dessa maneira.
+ 01:59:30
+
+Confesso para vocês quando nós começamos
+ 01:59:32
+
+a polifeira, nós pensamos num espaço
+ 01:59:34
+
+para agricultor comercializar. Hoje eu
+ 01:59:36
+
+entendo completamente diferente. Uma
+ 01:59:38
+
+feira dentro de uma universidade é
+ 01:59:40
+
+essencial como um espaço que faz
+ 01:59:43
+
+dialogar a a questão alimentar e suas
+ 01:59:45
+
+múltiplas dimensões.
+ 01:59:48
+
+Muito bom. Que coisa boa. Vamos botar
+ 01:59:53
+
+essa polifera na caminhada natureza
+ 01:59:57
+
+também. Agora o nosso próximo desafio aí
+ 01:59:59
+
+já tô colocando na preço. Muito legal
+ 02:00:02
+
+assim. Olha, vocês precisam conhecer um
+ 02:00:05
+
+dia quem o pessoal aqui do norte país,
+ 02:00:08
+
+São Paulo, que quando vi para Santa
+ 02:00:10
+
+Maria vem aqui a gente vamos conhecer a
+ 02:00:12
+
+polifeira, nós vamos levar vocês
+ 02:00:14
+
+conhecer os agricultores da polifera.
+ 02:00:16
+
+Isso é uma coisa que conecta muito, não é?
+ 02:00:18
+
+Eh, e eu e o professor Gustavo e o
+ 02:00:20
+
+Cristiano tem feito isso muito, assim,
+ 02:00:22
+
+chega ao ponto de levar nosso
+ 02:00:25
+
+consumidor, se ele pedir, a conhecer o
+ 02:00:26
+
+agricultor. Isso é muito importante,
+ 02:00:30
+
+porque aí apesar disso, ele começa a dar
+ 02:00:32
+
+valor, não é? Dar valor ao produto, ele
+ 02:00:34
+
+conhece, visualiza aonde é produzido.
+ 02:00:37
+
+Isso é um projeto assim sensacional. E
+ 02:00:40
+
+lembrando, não é, são 6 milhões de impacto
+ 02:00:43
+
+social. Isso não é qualquer projeto, não é?
+ 02:00:47
+
+Então assim, são vários projetos
+ 02:00:50
+
+articulados que promovem aí a a educação
+ 02:00:52
+
+na área de cidadania cidadania
+ 02:00:55
+
+alimentar. Não é fácil, não é? Professor
+ 02:00:57
+
+Gustavo disse que não é fácil, mas está
+ 02:01:00
+
+fazendo o impacto social. Bueno, eh,
+ 02:01:02
+
+temos a só comentário da Andreia, daí a
+ 02:01:04
+
+gente vai fazer o posiciamento. Andreia,
+ 02:01:07
+
+Andreia tá muito animada aqui. Ela diz
+ 02:01:09
+
+que a nossa nova turma do curso técnico
+ 02:01:11
+
+agropecuário do Politécnico, não é, que nós
+ 02:01:13
+
+temos alunos de todas as idades, não é, o
+ 02:01:15
+
+técnico agropecuário manhã e tarde
+ 02:01:18
+
+geralmente são mais jovens. Já o técnico
+ 02:01:20
+
+agricultura à noite são, não é, pessoas que
+ 02:01:22
+
+já estão no mercado de trabalho e nosso
+ 02:01:25
+
+da fruticultura tem pessoal que já tem
+ 02:01:27
+
+até uns 50 a mais, não é? Então, nossa
+ 02:01:30
+
+idade é nós temos um público de
+ 02:01:31
+
+estudantes e de agricultores e
+ 02:01:34
+
+fruticultores muito diferentes. E ela
+ 02:01:36
+
+diz que os alunos do técnico
+ 02:01:38
+
+agropecuária, a maioria dos jovens com
+ 02:01:39
+
+18 anos com ideia de retornar para
+ 02:01:41
+
+ajudar os pais. Tomara que aconteça.
+ 02:01:44
+
+Tomara mesmo, não é, Andreia? Porque eh o
+ 02:01:46
+
+encantamento para por outras questões
+ 02:01:49
+
+também pode acontecer ao longo da
+ 02:01:51
+
+caminhada, mas que talvez no futuro
+ 02:01:53
+
+volte sim para trabalhar com com seus
+ 02:01:56
+
+pais e dar continuidade à propriedade da
+ 02:01:59
+
+família. Bueno para não se estender
+ 02:02:02
+
+mais,
+ 02:02:04
+
+2:02 a palavra final para o professor
+ 02:02:05
+
+Gustavo fazer esse enceramento dessa
+ 02:02:08
+
+grande live aí com uma grande audiência
+ 02:02:10
+
+hoje, hein? Obrigado pela presença de
+ 02:02:12
+
+todo mundo. Lembrando que toda
+ 02:02:14
+
+quarta-feira estamos aqui. Professor
+ 02:02:16
+
+Gustavo,
+ 02:02:17
+
+só tenho agradecer a a professor Zuin,
+ 02:02:19
+
+professor Ezequiel pela oportunidade, a
+ 02:02:22
+
+todos os assistentes que
+ 02:02:24
+
+disponibilizaram seu tempo e nos
+ 02:02:26
+
+encontramos, tá, eh, para desenvolver
+ 02:02:28
+
+outras ações e fica o convite para cada
+ 02:02:32
+
+um ser mais ativista e cidadão
+ 02:02:36
+
+alimentar. Obrigado. Muito bom. Sigam
+ 02:02:38
+
+todas as redes sociais do professor
+ 02:02:42
+
+Gustavo Pinto, Polifeira do Agricultor.
+ 02:02:44
+
+Eh, siga o curso técnico Futicultura.
+ 02:02:47
+
+Lembrando que eu falo aqui em boa parte
+ 02:02:49
+
+das lives, nosso curso técnico
+ 02:02:51
+
+fruticultura é EAD, ele tem encontros
+ 02:02:52
+
+presenciais e ele impacta muito a vida
+ 02:02:55
+
+das famílias lá diretamente, porque a
+ 02:02:57
+
+gente tem muitos fruticultores aqui,
+ 02:02:59
+
+projetos de impacto social aqui no
+ 02:03:01
+
+politécnico da UFCM. Muito obrigado pela
+ 02:03:03
+
+presença e todo mundo. Lembrando então
+ 02:03:06
+
+que toda quarta-feira, 9 horas da manhã,
+ 02:03:08
+
+nesse mesmo bate-canal, nesse mesmo
+ 02:03:11
+
+horário, estamos aqui com um novo
+ 02:03:13
+
+especialista na área de extensão rural,
+ 02:03:14
+
+compartilhando conhecimentos para vocês.
+ 02:03:17
+
+Um abraço e até a próxima oportunidade.
+ 02:03:19
+
+Ciao. Ciao.
+ 02:03:21

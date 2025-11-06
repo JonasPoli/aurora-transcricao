@@ -1,0 +1,8 @@
+video_id: NzL2PN7iRcI
+video_url: https://www.youtube.com/watch?v=NzL2PN7iRcI
+title: I Colóquio Internacional sobre Ater Digital
+uploader: O Extensionista
+speaker: a Profa. Dra. Vivien Diesel da Universidade Federal de Santa Maria e o Sr. Octavio Sotomayor da Comissão Econômica para a América Latina e o Caribe (ONU).; 1 - Profa. Dra. Vivien Diesel (UFSM) – é graduada em Engenharia Florestal, com Mestrado em Extensão Rural (UFSM), Doutorado em Desenvolvimento Socioambiental (NAEA/UFPA) e estágio de pós-doutorado na área de Antropologia Social na Universidade de Sevilla Espanha.  Tem trajetória profissional relacionada ao ensino, pesquisa e extensão na Universidade Federal de Santa Maria, com destaque a participação como docente e orientadora no Programa de Pós-Graduação em Extensão Rural da UFSM. Sua produção acadêmica concentra-se nas temáticas de desenvolvimento rural, extensão rural e metodologias participativas. Apresenta-se como admiradora da iniciativa da rede Aurora.; 2 - Sr. Octavio Sotomayor da Comissão Econômica para a América Latina e o Caribe (ONU) –  Engenheiro Agrônomo formado pela Faculdade de Ciências Agrárias e Florestais da Universidade do Chile. Mestre em Economia pela AgroParisTech (França). Foi Diretor Nacional do Gabinete de Estudos e Políticas Agrárias e Diretor Nacional do Instituto de Desenvolvimento Agrário. Atualmente trabalha como Diretor de Assuntos Econômicos da Comissão Econômica para a América Latina e o Caribe.
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/23/2022

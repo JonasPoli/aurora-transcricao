@@ -1,0 +1,9 @@
+video_id: EUHrBTm-M14
+video_url: https://www.youtube.com/watch?v=EUHrBTm-M14
+title: 👉 O Extensionista vai de Bike em Vale Vêneto – Geoparque Quarta Colônia 🚴 📚 💚
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 11/06/2022

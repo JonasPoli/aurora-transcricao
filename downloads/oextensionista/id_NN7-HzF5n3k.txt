@@ -1,0 +1,8 @@
+video_id: NN7-HzF5n3k
+video_url: https://www.youtube.com/watch?v=NN7-HzF5n3k
+title: CATAMARE - uma visão histórica e a inclusão social
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/15/2023

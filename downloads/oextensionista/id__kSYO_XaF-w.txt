@@ -1,0 +1,9 @@
+video_id: _kSYO_XaF-w
+video_url: https://www.youtube.com/watch?v=_kSYO_XaF-w
+title: A Epagri e o trabalho de extensão rural em SC
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/6713810394465021
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/22/2021

@@ -1,0 +1,8 @@
+video_id: 97xM0eEk5BY
+video_url: https://www.youtube.com/watch?v=97xM0eEk5BY
+title: Direto ao ponto: Reflexões e experiências sobre Ater Digital pela Emater (DF) - Renato Lopes
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/13/2022

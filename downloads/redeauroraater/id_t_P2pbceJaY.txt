@@ -1,0 +1,8 @@
+video_id: t_P2pbceJaY
+video_url: https://www.youtube.com/watch?v=t_P2pbceJaY
+title: Ação do Profissional de Ater #extensãorural #extensionistarural #aterdigital #agro #pandemia
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/11/2023

@@ -1,0 +1,8 @@
+video_id: nIshFZ5jYok
+video_url: https://www.youtube.com/watch?v=nIshFZ5jYok
+title: Debate Fruticultura- parte 2 tarde
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/30/2024

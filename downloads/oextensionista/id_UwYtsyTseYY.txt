@@ -1,0 +1,8 @@
+video_id: UwYtsyTseYY
+video_url: https://www.youtube.com/watch?v=UwYtsyTseYY
+title: #roça #turismorural #lavoura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/06/2025

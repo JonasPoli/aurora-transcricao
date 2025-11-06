@@ -1,0 +1,8 @@
+video_id: YrEGz2g-vP0
+video_url: https://www.youtube.com/watch?v=YrEGz2g-vP0
+title: IV Polifruti  #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/18/2025

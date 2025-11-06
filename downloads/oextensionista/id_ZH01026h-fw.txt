@@ -1,0 +1,8 @@
+video_id: ZH01026h-fw
+video_url: https://www.youtube.com/watch?v=ZH01026h-fw
+title: #gaucho #roça #colono #turismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/05/2025

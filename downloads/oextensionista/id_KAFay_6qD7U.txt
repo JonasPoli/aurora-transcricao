@@ -1,0 +1,8 @@
+video_id: KAFay_6qD7U
+video_url: https://www.youtube.com/watch?v=KAFay_6qD7U
+title: Porque a Universidade precisa valorizar a disciplina de Extensão Rural?
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/07/2023

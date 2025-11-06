@@ -1,0 +1,8 @@
+video_id: _7rM46OIZ1s
+video_url: https://www.youtube.com/watch?v=_7rM46OIZ1s
+title: #roça #marau #turismo #natureza
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/08/2025

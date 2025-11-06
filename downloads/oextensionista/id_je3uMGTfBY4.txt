@@ -1,0 +1,8 @@
+video_id: je3uMGTfBY4
+video_url: https://www.youtube.com/watch?v=je3uMGTfBY4
+title: Dia de colheita no Sítio Negrini #alface #repolho #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/21/2025

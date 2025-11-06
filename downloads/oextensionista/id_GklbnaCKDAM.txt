@@ -1,0 +1,9 @@
+video_id: GklbnaCKDAM
+video_url: https://www.youtube.com/watch?v=GklbnaCKDAM
+title: Análise da usabilidade de portais de internet de órgãos públicos de ATER digital
+uploader: O Extensionista
+speaker: Luiz Egidio Costa Cunha
+Lattes: http://lattes.cnpq.br/9206281386163878
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/04/2024

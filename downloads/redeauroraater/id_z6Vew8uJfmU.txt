@@ -1,0 +1,8 @@
+video_id: z6Vew8uJfmU
+video_url: https://www.youtube.com/watch?v=z6Vew8uJfmU
+title: Direto ao ponto: Facebook, informação e memória na Fundação Itesp -  Anderson Hazenfratz
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/09/2022

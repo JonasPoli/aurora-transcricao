@@ -1,0 +1,9 @@
+video_id: 9Bhifd-NixA
+video_url: https://www.youtube.com/watch?v=9Bhifd-NixA
+title: ÉdoCampo – uma oportunidade para a comercialização on line de produtos rurais
+uploader: Rede Aurora
+speaker: Rhamillye Bartels Van de Pol
+Lattes: http://lattes.cnpq.br/6549609705845242
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/11/2024

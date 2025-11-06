@@ -1,0 +1,9 @@
+video_id: fXQFv0a2R5c
+video_url: https://www.youtube.com/watch?v=fXQFv0a2R5c
+title: Perspectivas digitais para a ATER: digitalização, letramento digital, autodeclaração e p. públicas
+uploader: O Extensionista
+speaker: Mário Lucio de Avila - Programa de Pós-Graduação em Meio Ambiente e Desenvolvimento Rural (MADER-UnB)
+Lattes: http://lattes.cnpq.br/9088430726723968
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/01/2025

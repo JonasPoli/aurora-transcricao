@@ -1,0 +1,8 @@
+video_id: cRcXtkFQTws
+video_url: https://www.youtube.com/watch?v=cRcXtkFQTws
+title: Estratégias e mudanças legais para a ampliação da oferta de serviços de ATER no Brasil
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/25/2023

@@ -1,0 +1,8 @@
+video_id: RM-fBJ_Lbns
+video_url: https://www.youtube.com/watch?v=RM-fBJ_Lbns
+title: #roça #fruticultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/15/2025

@@ -1,0 +1,9 @@
+video_id: Dvy7n_HMbWQ
+video_url: https://www.youtube.com/watch?v=Dvy7n_HMbWQ
+title: Abordagem Sistêmica na Agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/23/2022

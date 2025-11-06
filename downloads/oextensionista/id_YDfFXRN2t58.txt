@@ -1,0 +1,8 @@
+video_id: YDfFXRN2t58
+video_url: https://www.youtube.com/watch?v=YDfFXRN2t58
+title: #reflexão #roça #colono #caminhada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/22/2025

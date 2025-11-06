@@ -1,0 +1,8 @@
+video_id: ORHE8INZuSQ
+video_url: https://www.youtube.com/watch?v=ORHE8INZuSQ
+title: Semeando conhecimento, colhendo parcerias: o impacto do HORTISHOW na Comunidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 05/01/2025

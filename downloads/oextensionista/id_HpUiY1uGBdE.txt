@@ -1,0 +1,8 @@
+video_id: HpUiY1uGBdE
+video_url: https://www.youtube.com/watch?v=HpUiY1uGBdE
+title: Continuidade ou fim da Extensão Rural pública? Um cenário de disputas
+uploader: O Extensionista
+speaker: Marines Rosali Bock – EMATER/RS-ASCAR
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/10/2024

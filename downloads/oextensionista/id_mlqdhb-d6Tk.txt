@@ -1,0 +1,8 @@
+video_id: mlqdhb-d6Tk
+video_url: https://www.youtube.com/watch?v=mlqdhb-d6Tk
+title: #pedalando
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/18/2025

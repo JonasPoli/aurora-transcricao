@@ -1,0 +1,9 @@
+video_id: _w8xic8Nxy0
+video_url: https://www.youtube.com/watch?v=_w8xic8Nxy0
+title: A Formação do Extensionista Rural
+uploader: O Extensionista
+speaker: Tarcísio Samborski – Instituto Federal Farroupilha/RS- Campus Santo Augusto
+Lattes: http://lattes.cnpq.br/7865929938879879
+subtitle_mode: auto
+subtitle_lang: pt
+date: 04/18/2024

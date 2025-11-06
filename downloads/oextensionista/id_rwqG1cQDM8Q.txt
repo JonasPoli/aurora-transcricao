@@ -1,0 +1,8 @@
+video_id: rwqG1cQDM8Q
+video_url: https://www.youtube.com/watch?v=rwqG1cQDM8Q
+title: Release da Caminhada de Novo Cabrais, RS #turismorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/06/2025

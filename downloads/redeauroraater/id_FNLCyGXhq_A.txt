@@ -1,0 +1,8 @@
+video_id: FNLCyGXhq_A
+video_url: https://www.youtube.com/watch?v=FNLCyGXhq_A
+title: Ater Digital para agricultura familiar no pós-Covid-19 - Kleber Pettan
+uploader: Rede Aurora
+speaker: Rede Aurora
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/07/2022

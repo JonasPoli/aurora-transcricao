@@ -1,0 +1,8 @@
+video_id: F3RwbVLItak
+video_url: https://www.youtube.com/watch?v=F3RwbVLItak
+title: #jesus #motivação #reflexão
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/24/2025

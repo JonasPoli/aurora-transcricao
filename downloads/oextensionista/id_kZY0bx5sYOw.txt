@@ -1,0 +1,8 @@
+video_id: kZY0bx5sYOw
+video_url: https://www.youtube.com/watch?v=kZY0bx5sYOw
+title: #roça #agronomia
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 10/12/2025

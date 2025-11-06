@@ -1,0 +1,8 @@
+video_id: qiSZiVqUovE
+video_url: https://www.youtube.com/watch?v=qiSZiVqUovE
+title: #pedal #mtb #bicicleta
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/19/2025

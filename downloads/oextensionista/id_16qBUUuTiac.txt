@@ -1,0 +1,8 @@
+video_id: 16qBUUuTiac
+video_url: https://www.youtube.com/watch?v=16qBUUuTiac
+title: melhores momentos da Caminhada da Natureza, da Arte e da Fé! em Silveira Martins #natureza #estrada
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/14/2025

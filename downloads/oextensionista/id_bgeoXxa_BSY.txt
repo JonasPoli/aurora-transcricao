@@ -1,0 +1,8 @@
+video_id: bgeoXxa_BSY
+video_url: https://www.youtube.com/watch?v=bgeoXxa_BSY
+title: As diversas atuações na Extensão Rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 03/11/2021

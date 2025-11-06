@@ -1,0 +1,8 @@
+video_id: aVOka6oQxCs
+video_url: https://www.youtube.com/watch?v=aVOka6oQxCs
+title: O Extensionista acompanhou a Caminhada Raízes do Mirim em Toropi #extensãorural #turismorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/01/2025

@@ -1,0 +1,5522 @@
+rede Aurora diálogos em até digital na
+ 00:00:01
+
+América Latina
+ 00:00:04
+
+estamos iniciando mais um ciclo novo
+ 00:00:07
+
+ciclo pesquisa em prosa o ciclo de
+ 00:00:10
+
+palestras pesquisa em prosa tem como
+ 00:00:13
+
+objetivo principal ampliar o alcance da
+ 00:00:15
+
+divulgação Científica de artigos
+ 00:00:19
+
+dissertações e teses relacionadas à área
+ 00:00:22
+
+de extensão Rural oferecendo ao público
+ 00:00:25
+
+um acesso facilitado às mais recentes
+ 00:00:28
+
+descobertas científicas na área de
+ 00:00:31
+
+extensão Rural Olá a todos e todas
+ 00:00:34
+
+extensionistais agricultores e
+ 00:00:36
+
+agricultoras jovens pesquisadores e
+ 00:00:38
+
+pesquisadoras de sensorial professores
+ 00:00:41
+
+acadêmicos e demais públicos aqui
+ 00:00:43
+
+presentes sejam todos muito bem-vindos
+ 00:00:45
+
+meu nome Ezequiel professor de extensão
+ 00:00:48
+
+Rural e quem está aqui hoje conosco é o
+ 00:00:50
+
+Professor Luiz Fernando Soares
+ 00:00:53
+
+profundador da Aurora e juntamente com
+ 00:00:54
+
+nosso amigo e pesquisadora Paloma e
+ 00:00:57
+
+Lucas as palestras serão transmitidas
+ 00:01:00
+
+aqui no canal do extensionista e ocorre
+ 00:01:03
+
+em parceria com a rede para ter diálogos
+ 00:01:05
+
+em até digital para a América Latina
+ 00:01:09
+
+proporcionando o ambiente propício para
+ 00:01:11
+
+disseminação de conhecimento científico
+ 00:01:13
+
+e engajamento da comunidade em debates
+ 00:01:15
+
+construtivos relacionados à área de
+ 00:01:19
+
+extensão Dalton Além disso essa
+ 00:01:21
+
+iniciativa do ciclo de palestras de
+ 00:01:24
+
+pesquisa em prosa ela avisa enriquecer o
+ 00:01:26
+
+panorama da pesquisa nessa área
+ 00:01:29
+
+promovendo a interação entre acadêmicos
+ 00:01:31
+
+agricultores agentes de desenvolvimento
+ 00:01:33
+
+extensionistas pesquisadores professores
+ 00:01:37
+
+profissionais e público em geral
+ 00:01:39
+
+contribuindo assim para o avanço do
+ 00:01:41
+
+desenvolvimento da extensão oral na
+ 00:01:44
+
+América Latina no mundo todos aqui então
+ 00:01:46
+
+nesse dia 13 de setembro vamos dar
+ 00:01:48
+
+início ao ciclo pesquisa em prosa a
+ 00:01:51
+
+nossa Live então é intitulada o
+ 00:01:53
+
+agricultor familiar e os aplicativos
+ 00:01:56
+
+móveis fatores que afetam o uso da
+ 00:01:58
+
+tecnologia do campo sejam todos muito
+ 00:02:01
+
+bem-vindos já deu tem mão passo a
+ 00:02:03
+
+palavra para professores
+ 00:02:05
+
+Bom dia a todos a todas é muito bacana
+ 00:02:08
+
+tá aqui hoje nesse ciclo não é esse novo
+ 00:02:10
+
+ciclo de palestras pesquisa em prosa
+ 00:02:14
+
+onde é que a gente vai explorar o que tá
+ 00:02:16
+
+acontecendo de mais recente na pesquisa
+ 00:02:18
+
+da extensão Rural é da comunicação Rural
+ 00:02:20
+
+da conectividade não só da conectividade
+ 00:02:23
+
+também mas o grande guarda-chuva de
+ 00:02:27
+
+temas de
+ 00:02:29
+
+processos não é porque envolvem a extensão
+ 00:02:33
+
+Rural e também talvez outras outros
+ 00:02:36
+
+tipos de Pesquisas não é de dimensões ali
+ 00:02:40
+
+para ser muito grande tá aqui com a
+ 00:02:44
+
+gente e é um prazer também tem a Paloma
+ 00:02:46
+
+conosco não é nesse primeiro de nesse
+ 00:02:48
+
+primeiro dia de ciclo
+ 00:02:51
+
+seja muito bem-vinda não é a palavra é com
+ 00:02:54
+
+você
+ 00:02:57
+
+você podia se apresentar um pouquinho
+ 00:02:58
+
+para gente também tá bom Bom dia gente
+ 00:03:00
+
+eu queria agradecer primeiro ao
+ 00:03:03
+
+professor Zuin e o professor Ezequiel
+ 00:03:05
+
+pelo convite achei muito interessante eu
+ 00:03:07
+
+sou da área de TI não é meu nome é Paloma
+ 00:03:10
+
+Reis Lucas eu sou da área de TI da
+ 00:03:12
+
+embrapago energia e eu trabalho com a
+ 00:03:15
+
+parte de rede software governança de
+ 00:03:18
+
+projetos enfim e aí hoje eu vou
+ 00:03:20
+
+apresentar o meu projeto de dissertação
+ 00:03:22
+
+do mestrado que o meu foco é muito
+ 00:03:25
+
+grande em ti então foi uma surpresa para
+ 00:03:28
+
+mim ser chamada pelo professor Zuin pelo
+ 00:03:30
+
+professor Ezequiel para outro público
+ 00:03:32
+
+que não é o que geralmente eu tô
+ 00:03:34
+
+acostumada não é que é de Tecnologia da
+ 00:03:35
+
+Informação puramente não é E aí é isso eu
+ 00:03:38
+
+sou entusiasta da Agricultura digital e
+ 00:03:42
+
+eu acho muito interessante e queria
+ 00:03:44
+
+levar agricultura digital para o
+ 00:03:46
+
+agricultor familiar também
+ 00:03:48
+
+então quando eu comecei a pensar nesse
+ 00:03:49
+
+tema de projeto é eu já desenvolvi
+ 00:03:52
+
+alguma coisa lá Lembrar para para
+ 00:03:55
+
+aplicativos móveis só que eu queria
+ 00:03:58
+
+saber os requisitos que eu precisava
+ 00:04:01
+
+para desenvolver aplicativos para que os
+ 00:04:02
+
+agricultores familiares também pudessem
+ 00:04:05
+
+ter acesso não é E fui buscar coisas na
+ 00:04:07
+
+internet foi buscar a metodologias ou
+ 00:04:09
+
+requisitos anteriores e eu não encontrei
+ 00:04:12
+
+Então eu fui buscando alguma forma
+ 00:04:14
+
+depois de tipo tentar montar um
+ 00:04:18
+
+quebra-cabeça para saber o que que eles
+ 00:04:21
+
+precisam E aí eu comecei a entender todo
+ 00:04:22
+
+esse projeto que eu vou apresentar agora
+ 00:04:25
+
+vamos lá
+ 00:04:29
+
+então meu projeto o agricultor
+ 00:04:33
+
+familiares aplicativos móveis os fatores
+ 00:04:35
+
+que afetam o uso da tecnologia no campo
+ 00:04:37
+
+é
+ 00:04:40
+
+o meu orientador é a Professora Doutora
+ 00:04:41
+
+Helga Cristina Redley e orientador é o
+ 00:04:45
+
+professor é Doutor Eduardo Amadeu Dutra
+ 00:04:47
+
+moresse
+ 00:04:50
+
+como eu já falei eu sou agradado sistema
+ 00:04:54
+
+de informação especialista em gestão de
+ 00:04:57
+
+ti mestre em governança tecnologia e
+ 00:04:58
+
+inovação
+ 00:05:00
+
+Eu trabalho na grande energia já me
+ 00:05:02
+
+apresentei porque eu trabalho não é e gosto
+ 00:05:04
+
+muito desse tema de agricultura digital
+ 00:05:05
+
+que envolva a agricultura familiar
+ 00:05:07
+
+aqui a agenda de apresentação eu vou
+ 00:05:11
+
+primeiro fazer introdução depois passar
+ 00:05:13
+
+por um conteúdo que eu vi previamente
+ 00:05:15
+
+antes de fazer a minha pesquisa não é uma
+ 00:05:17
+
+revisão de literatura apresenta o meu
+ 00:05:20
+
+método os resultados de discussão e a
+ 00:05:22
+
+conclusão
+ 00:05:25
+
+então de início de tudo por que que é
+ 00:05:27
+
+importante esse trabalho e esse tema é
+ 00:05:29
+
+envolvendo agricultura familiar é a
+ 00:05:32
+
+gente sabe que a população mundial Ela
+ 00:05:34
+
+ainda tá crescendo ela tá em crescimento
+ 00:05:36
+
+em 2050 ela vai ultrapassar 9 bilhões de
+ 00:05:38
+
+habitantes de acordo com a ONU é 9,7
+ 00:05:42
+
+bilhões de habitantes E aí o que que
+ 00:05:45
+
+isso traz para a gente é você tem mais
+ 00:05:47
+
+gente no mundo você tem que alimentar
+ 00:05:50
+
+essas pessoas Então traz um problema de
+ 00:05:51
+
+segurança alimentar só que a terra
+ 00:05:53
+
+Arábia no mundo ela é limitada então é
+ 00:05:56
+
+uma solução para isso seria aumentar a
+ 00:05:59
+
+produtividade das terras já já
+ 00:06:02
+
+utilizadas hoje
+ 00:06:04
+
+e para aumentar a produtividade eu tenho
+ 00:06:06
+
+que mudar essa produção na mesma
+ 00:06:08
+
+quantidade de terra não é E tem várias
+ 00:06:09
+
+tecnologias que ajudam a aumentar essa
+ 00:06:12
+
+produtividade entre elas é agricultura
+ 00:06:13
+
+digital que é o uso da tecnologia da
+ 00:06:15
+
+informação e comunicação no campo não é mas
+ 00:06:17
+
+o que o agricultor familiar Tem com isso
+ 00:06:20
+
+se você observar é mais de 90% das
+ 00:06:23
+
+propriedades agrícolas do mundo elas
+ 00:06:26
+
+estão na mão de agricultores familiares
+ 00:06:29
+
+e ele se apresentam mais ou menos 75%
+ 00:06:31
+
+das terras agrícolas então a maioria das
+ 00:06:34
+
+terras elas estão com agricultores
+ 00:06:37
+
+familiares e o grande agricultor ele já
+ 00:06:39
+
+tem acesso às tecnologias eles já estão
+ 00:06:41
+
+mais próximos de uma produtividade
+ 00:06:43
+
+máxima que ele consiga ter e o
+ 00:06:46
+
+agricultor familiar às vezes ele não tem
+ 00:06:48
+
+tanto acesso por algumas recepções
+ 00:06:50
+
+econômicas ah Essas tecnologias então
+ 00:06:51
+
+para aumentar a produtividade deles a
+ 00:06:55
+
+gente tem que ter um trabalho de dar
+ 00:06:58
+
+acesso a eles a tecnologia e é isso
+ 00:06:59
+
+favorece o mundo inteiro não é
+ 00:07:02
+
+e no Brasil como é que é não é é no Brasil
+ 00:07:06
+
+77% estabelecimentos Eles são de
+ 00:07:09
+
+Agricultura Familiar de acordo com o
+ 00:07:11
+
+Censo oral de 2017 não é isso representa 10
+ 00:07:13
+
+milhões de agricultores e eles ocupam
+ 00:07:16
+
+aqui no Brasil uma área Menor Mas é 23%
+ 00:07:18
+
+da área agrícola um quarto quase E aí a
+ 00:07:20
+
+gente tem dados do IBGE sobre toda a
+ 00:07:24
+
+área rural Não exatamente só sobre
+ 00:07:26
+
+Agricultura Familiar então é em 2017
+ 00:07:27
+
+20% não possuíam energia elétrica na
+ 00:07:30
+
+área rural como um todo e 71% não
+ 00:07:34
+
+possuem acesso à internet se eu não me
+ 00:07:37
+
+engano o senso rural de 2017 ele pega
+ 00:07:39
+
+dados de 2016
+ 00:07:41
+
+99% dos acessos de quem acessar na
+ 00:07:45
+
+internet era via telefone móvel aí foi
+ 00:07:49
+
+daí que a gente percebeu que o telefone
+ 00:07:51
+
+móvel ele pode ser uma porta de entrada
+ 00:07:54
+
+para o agricultor na agricultura digital
+ 00:07:56
+
+já que é algum aparelho de tecnologia da
+ 00:07:58
+
+informação que ele já possui não é
+ 00:08:02
+
+e a gente viu que isso melhorou bastante
+ 00:08:04
+
+desde o senso agropecuária essa é uma
+ 00:08:06
+
+outra pesquisa mas que ele mostra aqui
+ 00:08:08
+
+se vocês observarem que de 2019 até 2021
+ 00:08:11
+
+aumentaram em 20% também o total de
+ 00:08:15
+
+população rural que acessa a internet
+ 00:08:19
+
+então hoje a gente estima que tenha 73%
+ 00:08:20
+
+de agricultores acessando na internet de
+ 00:08:24
+
+pessoas no meio Rural
+ 00:08:27
+
+então fui para minha pergunta de
+ 00:08:31
+
+pesquisa que era Quais os fatores que
+ 00:08:33
+
+afetam o acesso da agricultor familiar
+ 00:08:35
+
+no uso de aplicativos móveis para
+ 00:08:37
+
+agricultura
+ 00:08:38
+
+daí eu já tinha fatores assim eu já
+ 00:08:41
+
+tinha percebido pelos dados bge que
+ 00:08:43
+
+eletricidade poderia ser um problema a
+ 00:08:45
+
+conectividade também poderia ser um
+ 00:08:48
+
+problema uma solução muitas pessoas já
+ 00:08:50
+
+estavam conectando não é E que os
+ 00:08:52
+
+agricultores têm telefones móveis Isso é
+ 00:08:55
+
+o que eu tinha visto até agora não é
+ 00:08:57
+
+E aí meu objetivo geral é levantar mais
+ 00:08:59
+
+fatores além desses e fatores não
+ 00:09:01
+
+voltados só para o meio Rural como um
+ 00:09:03
+
+todo mas voltados para o agricultor
+ 00:09:05
+
+familiar então o objetivo geral é
+ 00:09:06
+
+levantar os fatores que afetam o uso de
+ 00:09:09
+
+aplicativos móveis pelos agricultores
+ 00:09:10
+
+familiares e para isso precisaria
+ 00:09:12
+
+levantar outros dados Além disso da
+ 00:09:14
+
+pequena da eletrificação Rural você tem
+ 00:09:18
+
+energia ou não mas assim como a
+ 00:09:20
+
+qualidade da eletricidade no campo a
+ 00:09:21
+
+conectividade dos aparelhos celulares
+ 00:09:24
+
+aplicativos móveis que eles utilizavam e
+ 00:09:25
+
+dificuldades em geral nesse meio para
+ 00:09:28
+
+entender quais eram as necessidades dos
+ 00:09:29
+
+Agricultores
+ 00:09:31
+
+daí eu fui procurar na revisão de
+ 00:09:34
+
+literatura que já existia não só no
+ 00:09:36
+
+Brasil como no mundo
+ 00:09:38
+
+E para isso precisava saber o que que
+ 00:09:41
+
+era o agricultor familiar o agricultor
+ 00:09:43
+
+familiar ele tem várias definições no
+ 00:09:45
+
+mundo então eu consigo
+ 00:09:47
+
+enquadrar o agricultor familiar não de
+ 00:09:50
+
+uma de uma forma equivalente ele não é
+ 00:09:52
+
+muito padronizado então e outros países
+ 00:09:55
+
+em outras regiões eles usam algumas
+ 00:09:56
+
+outras definições mas o Brasil ele usa
+ 00:09:58
+
+uma definição que ele é utilizado por
+ 00:10:01
+
+boa parte dos lugares que utilizam que
+ 00:10:03
+
+tem agricultores familiares não é
+ 00:10:07
+
+aqui no Brasil para ser cego que o teu
+ 00:10:10
+
+familiar você tem que ter outro
+ 00:10:12
+
+predominante de mão de obra familiar
+ 00:10:13
+
+mais a metade das pessoas tem que ser da
+ 00:10:15
+
+mesma família não é No mínimo metade da
+ 00:10:18
+
+renda familiar Tem que ser proveniente
+ 00:10:20
+
+das atividades econômicas do
+ 00:10:22
+
+estabelecimento
+ 00:10:23
+
+é a família deve possui gestão do seu
+ 00:10:25
+
+estabelecimento e a área é de até quatro
+ 00:10:27
+
+módulos fiscais os módulos fiscais eles
+ 00:10:31
+
+variam de região para região aqui no
+ 00:10:33
+
+Brasil minha pesquisa foi aqui em
+ 00:10:35
+
+Brasília quatro módulos fiscais são 20
+ 00:10:37
+
+hectares da terra
+ 00:10:39
+
+e a Agricultura digital o que que é não é a
+ 00:10:43
+
+gente escuta vários termos aí na quando
+ 00:10:45
+
+fazem pensando em pesquisa quando a
+ 00:10:48
+
+gente vê na mídia que é agricultura
+ 00:10:51
+
+inteligente agricultura 4.0 5.0 6.0
+ 00:10:52
+
+Smart Farm é tem números termos para
+ 00:10:55
+
+agricultura digital aqui nesse trabalho
+ 00:10:59
+
+utilizei agricultura digital como se
+ 00:11:01
+
+fosse envolvendo o desenvolvimento
+ 00:11:04
+
+adoção interação de tecnologias digitais
+ 00:11:05
+
+então onde é a tecnologia da informação
+ 00:11:07
+
+e comunicação interage com agricultura
+ 00:11:10
+
+Eu Tô considerando que agricultura
+ 00:11:12
+
+digital esses termos eles têm algumas
+ 00:11:15
+
+peculiaridades mas eles também são muito
+ 00:11:17
+
+utilizados como sinônimos para
+ 00:11:19
+
+agricultura digital
+ 00:11:21
+
+E para isso Eu dividi nessa minha
+ 00:11:25
+
+pesquisa da revisão de literatura é
+ 00:11:28
+
+dividir em três partes eu peguei 30
+ 00:11:29
+
+artigos que são artigos bem é bem
+ 00:11:31
+
+relevantes não é peguei frente de pesquisa
+ 00:11:34
+
+que são artigos que vem de 2007 a 2016
+ 00:11:37
+
+artigos mais citados de 2015 a 2019 e os
+ 00:11:40
+
+artigos mais citados entre os mais
+ 00:11:44
+
+recentes
+ 00:11:45
+
+E aí a gente observa aqui eu coloquei
+ 00:11:47
+
+até um celular mais antigo que as
+ 00:11:50
+
+frentes de pesquisa é o início de
+ 00:11:52
+
+Smartphone em 2017 foi o primeiro iPhone
+ 00:11:54
+
+o smartphone nesse modelo que a gente
+ 00:11:57
+
+conhece hoje já existe antes mas desse
+ 00:11:59
+
+modelo é foi a partir de 2017 então é
+ 00:12:01
+
+para chegar no meio Rural e no
+ 00:12:05
+
+agricultor familiar não é tão fácil
+ 00:12:07
+
+assim não é tão rápido surgiu e agora
+ 00:12:09
+
+eles têm acesso à tecnologia não é Demorou
+ 00:12:12
+
+um pouco
+ 00:12:14
+
+quando eu pesquisei as frentes de
+ 00:12:16
+
+pesquisa é observei que os artigos que
+ 00:12:18
+
+vieram foram todos de países em
+ 00:12:20
+
+desenvolvimento era eram Brasil não é
+ 00:12:21
+
+tinham Sudeste Asiático tinham
+ 00:12:24
+
+países da África e aí ele se
+ 00:12:27
+
+apresentaram a tecnologia da informação
+ 00:12:31
+
+o celular aqui no caso esse celular mais
+ 00:12:32
+
+parecido com esse da foto ele era a
+ 00:12:36
+
+primeira infraestrutura moderna de
+ 00:12:39
+
+telecomunicação que os agricultores
+ 00:12:40
+
+tiveram acesso não é isso eu tô falando do
+ 00:12:42
+
+celular sem internet Então eles
+ 00:12:45
+
+utilizavam para comunicar com outras
+ 00:12:47
+
+pessoas Principalmente para o comércio
+ 00:12:50
+
+não é eles já não precisava percorrer de
+ 00:12:52
+
+uma cidade para outra para verificar
+ 00:12:54
+
+como seria feito uma compra uma venda ou
+ 00:12:56
+
+o preço que eles poderiam oferecer no
+ 00:12:58
+
+produto então o celular só como
+ 00:13:00
+
+comunicação oral ele já
+ 00:13:03
+
+já foi uma fator de uma mudança muito
+ 00:13:06
+
+grande e onde ele vale a pena para
+ 00:13:09
+
+agricultor quando ele tinha uma condição
+ 00:13:11
+
+melhor assim porque ele não precisava de
+ 00:13:14
+
+um transporte para ficar indo de um lado
+ 00:13:17
+
+para o outro para ver como é que
+ 00:13:19
+
+funcionaria o comércios feiras tudo
+ 00:13:20
+
+mas nesses artigos eu vi vários fatores
+ 00:13:23
+
+que afetaram os afetavam uso da
+ 00:13:25
+
+tecnologia os telefones ele Estavam
+ 00:13:27
+
+todos juntos esses básicos os
+ 00:13:29
+
+smartphones Fitness phones que são
+ 00:13:31
+
+telefones que são básicos Mas eles já
+ 00:13:33
+
+tem acesso a um outro aplicativo para
+ 00:13:35
+
+instalado não é então eles não tinham
+ 00:13:37
+
+padrão de telefonia para eu poder fazer
+ 00:13:39
+
+algum desenvolvimento assim voltado para
+ 00:13:41
+
+esse para essa tecnologia os
+ 00:13:43
+
+agricultores falavam que não tinham
+ 00:13:46
+
+informações relevantes eles tinham
+ 00:13:47
+
+celular mas ele só acessava para
+ 00:13:49
+
+telefonar porque ele não tinha o que vê
+ 00:13:51
+
+Além disso não é
+ 00:13:52
+
+o alto custo de telefones e dados também
+ 00:13:54
+
+era um problema porque as muitas vezes
+ 00:13:57
+
+eles passavam sem passavam tempo sem
+ 00:14:00
+
+pagar telefonia e não tinham acesso aos
+ 00:14:02
+
+dados só quando poderiam pagar não é e o
+ 00:14:06
+
+analfabetismo Rural que ele é uma um
+ 00:14:09
+
+problema não Só no Brasil como em vários
+ 00:14:13
+
+outros países então é o SMS ele não era
+ 00:14:14
+
+todos que podiam acessar eles mandavam
+ 00:14:17
+
+informações de tempo de
+ 00:14:19
+
+clima em geral e não eram todas as
+ 00:14:21
+
+pessoas que conseguiam ter acesso não é
+ 00:14:25
+
+Essas são as crentes de pesquisa aí
+ 00:14:27
+
+depois eu fui para os mais citados e são
+ 00:14:30
+
+mais recentes esses mais citados de 2015
+ 00:14:33
+
+e 2019 agente observou aí uma
+ 00:14:34
+
+popularização do Smartphone mas eu vendo
+ 00:14:37
+
+da área de TI eu sendo da área de TI
+ 00:14:40
+
+assim eu tive uma percepção Já que é
+ 00:14:42
+
+minha que parece que os desenvolvedores
+ 00:14:44
+
+eles faziam os aplicativos meio que
+ 00:14:47
+
+sozinhos eles pensando nas necessidades
+ 00:14:50
+
+do Agricultor Mas sem o contato muito
+ 00:14:52
+
+grande para o grupo todo então a gente
+ 00:14:54
+
+via aplicativos que eram
+ 00:14:56
+
+show de tecnologia não é o aplicativo
+ 00:14:58
+
+tinham várias tecnologias de
+ 00:15:00
+
+Inteligência Artificial usava câmera
+ 00:15:03
+
+sensor de proximidade eles utilizavam
+ 00:15:05
+
+várias tecnologias
+ 00:15:08
+
+todos no aplicativo mas quando chegava
+ 00:15:10
+
+na agricultor ele não tinha muito
+ 00:15:12
+
+utilidade era muito complexos as pessoas
+ 00:15:14
+
+não sabiam utilizar então a gente vê que
+ 00:15:18
+
+tem os artigos novos que é muito
+ 00:15:20
+
+interessante porque tem muitas
+ 00:15:21
+
+tecnologias muito boas mas quando
+ 00:15:22
+
+chegava na gripe da Familiar eles não
+ 00:15:26
+
+conseguiam acessar de uma forma
+ 00:15:27
+
+que pudesse acrescentar para ele na
+ 00:15:30
+
+terra não é mas a gente vê aplicativos bem
+ 00:15:33
+
+legais de detecção de pragas doenças
+ 00:15:36
+
+gestão de plantio de clima de terra
+ 00:15:38
+
+enfim e aí os fatores que afetavam o uso
+ 00:15:40
+
+da tecnologia é falta de conectividade e
+ 00:15:43
+
+eletrificação Rural já é bem falado
+ 00:15:47
+
+abaixa a qualidade do celular estão eles
+ 00:15:51
+
+tinham celulares mais a qualidade não
+ 00:15:53
+
+era muito boa a falta de crédito para
+ 00:15:55
+
+uso assim como no começo do uso da
+ 00:15:58
+
+telefonia falta de conhecimento
+ 00:16:01
+
+tecnológico e de informações relevantes
+ 00:16:02
+
+apesar de ter muita tecnologias e
+ 00:16:05
+
+informações não eram que o agricultor
+ 00:16:07
+
+estava precisando
+ 00:16:08
+
+são os Que se mostram muito eficazes
+ 00:17:10
+
+pela facilidade do uso da tecnologia não é
+ 00:17:13
+
+E mesmo assim agora em 2021 22 agora a
+ 00:17:15
+
+gente já tá em 23 não é a gente vê esses
+ 00:17:19
+
+problemas de falta de conectividade e
+ 00:17:21
+
+eletrificação rural no campo o celulares
+ 00:17:23
+
+ainda com baixa qualidade e informações
+ 00:17:26
+
+desnecessárias voltadas para outros
+ 00:17:28
+
+grupos então tem muitos aplicativos
+ 00:17:30
+
+voltados para o grande agricultor
+ 00:17:31
+
+para empresários mais para agricultura
+ 00:17:34
+
+familiar a gente não encontra tantos
+ 00:17:37
+
+assim que eles consigam utilizar e esse
+ 00:17:40
+
+aplicativos complexos não é muita
+ 00:17:43
+
+tecnologia e às vezes com sem uma
+ 00:17:44
+
+padronização que seja acessível ao
+ 00:17:46
+
+agricultor
+ 00:17:49
+
+aí aqui eu coloquei esse gráfico porque
+ 00:17:52
+
+eu fiz essa minha pesquisa é dentro do
+ 00:17:54
+
+com pesquisadores do Distrito Federal
+ 00:17:57
+
+agricultores familiares do Distrito
+ 00:18:00
+
+Federal não é E aí o Distrito Federal ele é
+ 00:18:02
+
+a melhor situação de conectividade do
+ 00:18:05
+
+Brasil aqui esses dados ainda são de
+ 00:18:07
+
+2017 Mas você vê que a Distrito Federal
+ 00:18:09
+
+Tem muito mais propriedade rural com
+ 00:18:12
+
+conectividade do que outros estados isso
+ 00:18:14
+
+favorecem uma pesquisa mas a realidade
+ 00:18:17
+
+que ela representa talvez não representa
+ 00:18:19
+
+para os outros estados não é
+ 00:18:21
+
+Então quais os fatores que acessam
+ 00:18:24
+
+agricultor familiar nos de aplicativos
+ 00:18:26
+
+móveis e a gente já tinha visto de
+ 00:18:28
+
+eletricidade a conectividade telefones
+ 00:18:30
+
+móveis a gente viu depois da revisão de
+ 00:18:32
+
+literatura a capacidade de leitura que é
+ 00:18:35
+
+um problema mas assim não é exatamente
+ 00:18:37
+
+isso o analfabetismo mas é como
+ 00:18:40
+
+visualizar e como ler informações na
+ 00:18:43
+
+tela tão pequena em celulares antigos e
+ 00:18:45
+
+que agora a gente observa as pessoas
+ 00:18:48
+
+porque a gente observa muita tecnologia
+ 00:18:51
+
+e não não vê a tecnologia voltada para
+ 00:18:53
+
+as pessoas Então você a gente viu nos
+ 00:18:55
+
+últimos artigos que tem uma tem um
+ 00:18:57
+
+interesse agora de primeiro perguntar
+ 00:19:01
+
+para quem é o interessado para depois eu
+ 00:19:03
+
+desenvolver uma tecnologia
+ 00:19:06
+
+eu utilizei o método aqui passar
+ 00:19:09
+
+rapidamente mas o método misto eu fiz um
+ 00:19:11
+
+questionário estruturado com 39 questões
+ 00:19:13
+
+para os agricultores familiares e eram
+ 00:19:17
+
+questões abertas e questões objetivas a
+ 00:19:21
+
+gente teve que fazer se formulário e
+ 00:19:24
+
+aplicar com o pesquisador na propriedade
+ 00:19:26
+
+dele não é então nossa coleta de dados foi
+ 00:19:30
+
+feita na propriedade da agricultor para
+ 00:19:32
+
+identificar esses agricultores a gente
+ 00:19:34
+
+foi em feiras populares de Agricultura
+ 00:19:36
+
+Familiar aqui de Brasília
+ 00:19:38
+
+e por que que foi feita na propriedade
+ 00:19:41
+
+primeiro assim eu tinha visto que
+ 00:19:43
+
+poderia ser feito questionário online
+ 00:19:45
+
+mas como eu tava vendo problema de
+ 00:19:47
+
+conectividade não fazia sentido eu
+ 00:19:48
+
+mandar um questionário online para os
+ 00:19:50
+
+agricultores não é e na propriedade porque
+ 00:19:53
+
+eu queria também coletar velocidade de
+ 00:19:55
+
+internet queria verificar se ele
+ 00:19:57
+
+acessava em casa se ele acessava fora de
+ 00:20:00
+
+casa como é que era essa conectividade e
+ 00:20:02
+
+na melhor forma de fazer era na
+ 00:20:04
+
+propriedade da agricultor
+ 00:20:06
+
+e a gente fez uma análise das questões
+ 00:20:08
+
+quantitativas de forma estatística e
+ 00:20:10
+
+qualitativos pela análise de conteúdo
+ 00:20:13
+
+e a população Alvo do meu estudo aqui a
+ 00:20:19
+
+gente eu peguei com a matéria esses
+ 00:20:21
+
+dados é tem 2.700 estabelecimento de
+ 00:20:23
+
+Agricultura Familiar no DF cadastradas
+ 00:20:26
+
+não é a gente sabe que tem bem mais que
+ 00:20:28
+
+isso
+ 00:20:30
+
+e eles representam de acordo com os
+ 00:20:32
+
+dados 52% do dos agricultores do DF com
+ 00:20:34
+
+os dados formais mesmo e eu fiz o estudo
+ 00:20:39
+
+com 43 estabelecimentos agrícolas a
+ 00:20:42
+
+faixa etária era bem dividida não é entre
+ 00:20:46
+
+36 e 65 anos
+ 00:20:49
+
+gênero masculino 58% feminino 48 41% a
+ 00:20:51
+
+maioria dos Agricultores eram casados ou
+ 00:20:57
+
+tinham união estável e que a gente vê
+ 00:20:59
+
+que a propriedade deles o padrão é que
+ 00:21:01
+
+tinham de 5 a 10 hectares são pequenas
+ 00:21:03
+
+propriedades para agricultura
+ 00:21:06
+
+poucos poucos agricultores aqui menos de
+ 00:21:09
+
+20% que tinham propriedades maiores do
+ 00:21:12
+
+que que infectares e a faixa de renda da
+ 00:21:15
+
+grande maioria quase 90% é menos do que
+ 00:21:19
+
+três salários mínimos então a gente vê
+ 00:21:22
+
+que tem de um salário mínimo 27% quase
+ 00:21:24
+
+28 não é de um até dois salários mínimos 37
+ 00:21:27
+
+por cento e mais que dois salários
+ 00:21:30
+
+mínimos 23%
+ 00:21:32
+
+então é uma população que ela não tem
+ 00:21:34
+
+uma tranquilidade Econômica assim para
+ 00:21:37
+
+poder fazer investimentos tecnológicos
+ 00:21:39
+
+no campo
+ 00:21:41
+
+e os resultados da pesquisa Finalmente
+ 00:21:43
+
+não é é ativo boas surpresas aqui no
+ 00:21:46
+
+resultado da pesquisa e outras que eu
+ 00:21:49
+
+nem imaginei que encontraria com relação
+ 00:21:51
+
+eletrificação rural no distrito federal
+ 00:21:54
+
+todos os agricultores entrevistados eles
+ 00:21:56
+
+possuem energia elétrica só que a
+ 00:21:59
+
+qualidade da energia elétrica Não não é
+ 00:22:01
+
+tão satisfatória Então ninguém falou que
+ 00:22:04
+
+tinha energia Sempre disponível sendo
+ 00:22:07
+
+que 44% quase metade não é falaram que tem
+ 00:22:09
+
+frequentes indisponibilidades de energia
+ 00:22:12
+
+no campo isso atrapalha várias áreas uma
+ 00:22:15
+
+entrevistado falou que faltava água em
+ 00:22:18
+
+casa ele não conseguia ligar a bomba não
+ 00:22:21
+
+conseguia puxar água
+ 00:22:22
+
+por conta de falta de energia então eles
+ 00:22:24
+
+têm outras prioridades antes da
+ 00:22:27
+
+tecnologia não é bem mais básicas mas a
+ 00:22:28
+
+falta de energia também causa problemas
+ 00:22:32
+
+como eu consigo carregar o celular eu
+ 00:22:34
+
+não consigo utilizar o wi-fi em casa se
+ 00:22:36
+
+não tiver uma energia
+ 00:22:38
+
+para poder ser a base de tudo não é
+ 00:22:40
+
+16% afirmaram que a falta de energia
+ 00:22:44
+
+dificulta o desenvolvimento da produção
+ 00:22:47
+
+no campo
+ 00:22:49
+
+aqui eu até mostrei aquele mapa anterior
+ 00:22:57
+
+e nem parei no mapa mas Eu distribui
+ 00:23:00
+
+essa aqui são as localizações deixa até
+ 00:23:03
+
+voltar dos apresentações aqui
+ 00:23:05
+
+essas essas locais aqui são os locais do
+ 00:23:08
+
+de dos entrevistados eu procurei
+ 00:23:12
+
+distribuir em todo Distrito Federal até
+ 00:23:14
+
+para ver se é conectividade era ruim de
+ 00:23:16
+
+um lado e do outro se era
+ 00:23:18
+
+generalizado enfim e a gente fez Essas
+ 00:23:19
+
+entrevistas na cidade Planaltina
+ 00:23:23
+
+Sobradinho um Percal Sobradinho 2
+ 00:23:26
+
+Brazlândia São Sebastião e Ceilândia eu
+ 00:23:28
+
+procurei distribuir bem aqui para a
+ 00:23:30
+
+gente conseguir pegar resultados
+ 00:23:32
+
+melhores que pudessem representados
+ 00:23:34
+
+Distrito Federal
+ 00:23:37
+
+então aqui na conectividade também foi
+ 00:23:39
+
+uma surpresa boa todos os entrevistados
+ 00:23:41
+
+possuíam internet
+ 00:23:45
+
+eu fiz perguntas se eles usavam internet
+ 00:23:46
+
+de outros locais tudo mas é foi muito
+ 00:23:49
+
+legal saber que todos possuem internet
+ 00:23:51
+
+79% possui um wi-fi O que é muito legal
+ 00:23:53
+
+também todos possuem smartphones que
+ 00:23:57
+
+tinham a tecnologia Mini 4G
+ 00:23:59
+
+mas na hora que eu fui fazer entrevista
+ 00:24:03
+
+que a gente contratou uma pesquisadora
+ 00:24:05
+
+que eu espero que seja aqui também a
+ 00:24:09
+
+Cris é na hora da gente fazer entrevista
+ 00:24:11
+
+eles não estavam com acesso à internet
+ 00:24:14
+
+lá na propriedade deles então eles todos
+ 00:24:16
+
+eles têm acesso à internet mas quando
+ 00:24:19
+
+precisa eles dentro de casa na
+ 00:24:21
+
+propriedade 44% não tava com acesso à
+ 00:24:22
+
+internet móvel
+ 00:24:25
+
+e quase metade deles 48% também ficam
+ 00:24:27
+
+sem internet por problema de pagamento é
+ 00:24:30
+
+um valor muito alto o valor da internet
+ 00:24:32
+
+no campo geralmente ele é mais alto do
+ 00:24:35
+
+que na cidade
+ 00:24:38
+
+e para uma população que não tem uma
+ 00:24:40
+
+renda tão alta
+ 00:24:43
+
+é muito complicado pagar essa conta todo
+ 00:24:44
+
+mês então 48% ficam sem internet de vez
+ 00:24:48
+
+em quando e aí a gente vai pesquisar
+ 00:24:52
+
+também a velocidade na internet
+ 00:24:55
+
+porque para desenvolver aplicativo a
+ 00:24:57
+
+gente sabe que dependendo da velocidade
+ 00:24:59
+
+o aplicativo ele não vai funcionar ele
+ 00:25:01
+
+não vai rodar eu não vou conseguir ver
+ 00:25:03
+
+um vídeo então eu fiz primeiro um estudo
+ 00:25:04
+
+para saber o que que seria
+ 00:25:06
+
+uma velocidade aceitável para acessar o
+ 00:25:09
+
+vídeo para ver foto para acessar
+ 00:25:12
+
+aplicativos e a gente viu que um mega 21
+ 00:25:13
+
+megabits por segundo era adequado para
+ 00:25:16
+
+isso era um uso confortável só que 20%
+ 00:25:19
+
+dos Agricultores que a gente entrevistou
+ 00:25:22
+
+de uma velocidades maiores do que 20 MB
+ 00:25:24
+
+por segundo
+ 00:25:26
+
+é metade não alcançava 3,7 que é muito
+ 00:25:27
+
+pouco e via 4G e 8,65 via wi-fi
+ 00:25:31
+
+para a gente que desenvolve é um fator
+ 00:25:37
+
+que pode complicar muito
+ 00:25:39
+
+aqui é só para ilustrar os agricultores
+ 00:25:42
+
+que a gente entrevistou Esses foram que
+ 00:25:44
+
+os que tiveram acesso quando a gente
+ 00:25:45
+
+tava lá na propriedade então eu nem
+ 00:25:47
+
+coloquei aqui no gráfico os que não
+ 00:25:50
+
+tiveram acesso dados móveis a gente viu
+ 00:25:52
+
+que tem quatro quatro agricultores que
+ 00:25:54
+
+tinham acesso e tinha um wi-fi são cinco
+ 00:25:58
+
+que tinham acesso a uma velocidade maior
+ 00:26:00
+
+do que 21 MB por segundo
+ 00:26:03
+
+e aqui eu fui procurar também além da
+ 00:26:06
+
+conectividade os telefones móveis o que
+ 00:26:09
+
+que eles têm em casa não é a gente procurou
+ 00:26:11
+
+uma saber de sistema operacional qual
+ 00:26:14
+
+que o celular que eles utilizavam tudo e
+ 00:26:17
+
+a gente encontrou um padrão então só um
+ 00:26:20
+
+que utilizava o sistema operacional da
+ 00:26:22
+
+Apple IOS
+ 00:26:25
+
+97% utilizavam android
+ 00:26:27
+
+o celular mais como é da Samsung siga de
+ 00:26:29
+
+Motorola e xiaomi E aí a gente vê a
+ 00:26:33
+
+capacidade de armazenamento de 32 GB de
+ 00:26:36
+
+armazenamento é uma capacidade que ela é
+ 00:26:38
+
+muito baixa também
+ 00:26:41
+
+32 gigas tá com 58% dos entrevistados é
+ 00:26:43
+
+quando você tem é uma capacidade muito
+ 00:26:49
+
+baixa em armazenamento seu disponibilizo
+ 00:26:52
+
+um novo aplicativo ou um vídeo para ele
+ 00:26:54
+
+baixar as muitas vezes ele tem que
+ 00:26:56
+
+desinstalar outro aplicativo para ele
+ 00:26:59
+
+para conseguir instalar o seu só que
+ 00:27:00
+
+quando ele tem aplicativos básicos que
+ 00:27:02
+
+são muito melhor muito mais úteis para
+ 00:27:04
+
+eles como WhatsApp um aplicativo de
+ 00:27:06
+
+banco ele não vai tirar esses
+ 00:27:08
+
+aplicativos para instalar um aplicativo
+ 00:27:10
+
+móvel não é de agricultura mesmo sendo
+ 00:27:12
+
+voltado para ele então isso é um
+ 00:27:15
+
+problema para agricultura ele não tem
+ 00:27:17
+
+espaço de armazenamento do celular dele
+ 00:27:19
+
+os smartphones são na maioria pré-pago
+ 00:27:21
+
+seguido de controle pós-pago e 20% deles
+ 00:27:24
+
+estava em condições inadequadas de uso
+ 00:27:29
+
+Eu coloquei uma foto aqui para mostrar
+ 00:27:31
+
+um dos Smartphone no trabalho tem a foto
+ 00:27:33
+
+de todos os celulares mas é a gente vê
+ 00:27:37
+
+que ele não é um celular em boas
+ 00:27:40
+
+condições de uso ele dificulta a leitura
+ 00:27:42
+
+dificulta ver um vídeo muitas vezes o
+ 00:27:44
+
+touch dele já não funciona muito bem por
+ 00:27:46
+
+conta de estar muito quebrado não é e é uma
+ 00:27:48
+
+realidade deles
+ 00:27:52
+
+e o uso de aplicativos móveis eu vi o
+ 00:27:54
+
+telefone é agora eu vou dar uma olhada
+ 00:27:57
+
+para o aplicativo em si
+ 00:27:59
+
+81 por cento dizem que nem de forma
+ 00:28:01
+
+satisfatória o aplicativo móvel
+ 00:28:03
+
+lei de forma satisfatório que o conteúdo
+ 00:28:06
+
+que aparece no celular não é só que 18%
+ 00:28:09
+
+disseram que tinham problemas para
+ 00:28:12
+
+leitura e não são problemas como
+ 00:28:13
+
+analfabetismo a gente encontrou uma
+ 00:28:16
+
+pessoa que tinha dificuldade de leitura
+ 00:28:18
+
+mesmo
+ 00:28:20
+
+mas as outras elas Falavam do problema
+ 00:28:21
+
+do tamanho da letra que era muito
+ 00:28:23
+
+pequena era muito difícil você ler em
+ 00:28:26
+
+celulares às vezes muito pequenos então
+ 00:28:28
+
+tem Smartphone muito pequeno que é muito
+ 00:28:30
+
+conteúdo para ele ficar lendo uma
+ 00:28:31
+
+telinha pequena
+ 00:28:33
+
+a letra poderia ser aumentada mas assim
+ 00:28:35
+
+a gente tem que
+ 00:28:38
+
+entender que os aplicativos às vezes não
+ 00:28:40
+
+pensam muito nessas dificuldades e a
+ 00:28:43
+
+gente viu também é alguns agricultores
+ 00:28:47
+
+falando que tinham problemas de leitura
+ 00:28:49
+
+eles sabem ler tudo mas às vezes os
+ 00:28:50
+
+artigos são muito complexos artigos
+ 00:28:52
+
+científicos e Eles olham na tela e não
+ 00:28:55
+
+tem interesse porque começa ou não não
+ 00:28:57
+
+compreender o que está escrito ali pela
+ 00:28:59
+
+complexidade do que está escrito pelas
+ 00:29:01
+
+palavras que são escolhidas muito muito
+ 00:29:04
+
+complexas e científicas para agricultor
+ 00:29:07
+
+e os aplicativos que ele já utilizam a
+ 00:29:12
+
+gente levantou alguns para saber se eu
+ 00:29:14
+
+for desenvolver para eles o que que ele
+ 00:29:16
+
+já tem não é já que para instalar às vezes
+ 00:29:18
+
+não é tão fácil eu fui procurar o que
+ 00:29:20
+
+ele já tinha lá no celular deles é 80%
+ 00:29:22
+
+são como navegador Google Chrome
+ 00:29:25
+
+100% foi uma surpresa muito legal para
+ 00:29:29
+
+gente é as redes sociais 100% utilizam
+ 00:29:32
+
+WhatsApp
+ 00:29:35
+
+69% YouTube
+ 00:29:36
+
+309% Instagram e 37% Facebook então o
+ 00:29:38
+
+WhatsApp ele já é um importante
+ 00:29:42
+
+ferramenta ele já trocam informações de
+ 00:29:43
+
+grupos de agricultores
+ 00:29:45
+
+associações tudo via WhatsApp todos eles
+ 00:29:48
+
+têm WhatsApp então é um importante
+ 00:29:51
+
+ferramenta para agricultura e 79%
+ 00:29:53
+
+declararam que precisam do auxílio de
+ 00:29:56
+
+outras pessoas para acessarem os
+ 00:29:59
+
+aplicativos geralmente aqui quando eles
+ 00:30:00
+
+falavam outras pessoas eram os filhos ou
+ 00:30:02
+
+os netos
+ 00:30:04
+
+que auxiliavam para instalar o
+ 00:30:05
+
+aplicativo para resolver algum problema
+ 00:30:07
+
+que eles tinham no celular
+ 00:30:09
+
+e aqui a gente perguntou nesse gráfico
+ 00:30:14
+
+aqui do lado é quais as formas que eles
+ 00:30:17
+
+preferiram de ver
+ 00:30:19
+
+os conteúdos nos aplicativos ou no
+ 00:30:21
+
+celular
+ 00:30:24
+
+é 90% preferem ver conteúdos quando vem
+ 00:30:25
+
+em vídeo
+ 00:30:28
+
+79% áudio 62% fotos e imagens E aí os
+ 00:30:29
+
+outros tem os textos aqui custos
+ 00:30:34
+
+resumidos científico muitas poucas
+ 00:30:35
+
+pessoas e gráficos ninguém não é
+ 00:30:38
+
+é o problema disso é que vídeo áudio um
+ 00:30:41
+
+pouco menos mais vídeo e fotos e imagens
+ 00:30:45
+
+Eles são muito pesados para um celular
+ 00:30:47
+
+que ele não tá com a conectividade boa
+ 00:30:49
+
+ele tem uma baixa velocidade de internet
+ 00:30:52
+
+se eu quiser acessar online se eu quiser
+ 00:30:54
+
+baixar
+ 00:30:57
+
+aplicativos ou conteúdos que tem um
+ 00:30:57
+
+vídeo para o celular Eu também preciso
+ 00:31:00
+
+de espaço de armazenamento coisa que
+ 00:31:01
+
+parece que também não é tão fácil assim
+ 00:31:03
+
+Então é algo que a gente tem que pensar
+ 00:31:05
+
+em como fazer para que eles tenham
+ 00:31:09
+
+acesso com essas restrições no celular
+ 00:31:11
+
+não é
+ 00:31:14
+
+a gente viu também que 11% de todos os
+ 00:31:16
+
+agricultores 11% disseram que utilizam
+ 00:31:20
+
+aplicativos de agricultura
+ 00:31:22
+
+34% falaram que conhece os aplicativos
+ 00:31:24
+
+de agricultura mas alguns não utilizam
+ 00:31:27
+
+esses aplicativos que conhecem por conta
+ 00:31:29
+
+de alguns problemas realmente de de ele
+ 00:31:32
+
+sabe que o aplicativo existe mas ele
+ 00:31:35
+
+acha que não é útil para ele ou às vezes
+ 00:31:37
+
+não é não é útil mesmo não é para ele não é
+ 00:31:38
+
+voltado para agricultor familiar mas ele
+ 00:31:41
+
+sabe que tá lá e ele fala do alto valor
+ 00:31:43
+
+de investimento para que aquisição de
+ 00:31:45
+
+aplicativos a gente vê alguns
+ 00:31:47
+
+aplicativos assim e ver que o valor às
+ 00:31:49
+
+vezes dependendo da pessoa é um valor
+ 00:31:51
+
+baixo é r$ 30
+ 00:31:53
+
+e não é o valor baixo Dependendo de quem
+ 00:31:54
+
+que é acessar as pessoas elas ganham até
+ 00:31:58
+
+três salários mínimos na sua grande
+ 00:32:00
+
+maioria você vai tirar 50 reais é o
+ 00:32:01
+
+valor que é muito alto e não é o sol o
+ 00:32:04
+
+aplicativo em si às vezes eles precisam
+ 00:32:07
+
+de celulares novos porque os celulares
+ 00:32:09
+
+já estão ultrapassados e o aplicativo
+ 00:32:11
+
+não funciona em celulares antigos
+ 00:32:12
+
+sistemas operacionais antigos então às
+ 00:32:14
+
+vezes não é só o aplicativo eu também
+ 00:32:17
+
+tenho que comprar um equipamento novo
+ 00:32:19
+
+mais moderno para
+ 00:32:22
+
+acessar aquele aplicativo Então esse
+ 00:32:24
+
+valor de investimento ele pode ser muito
+ 00:32:26
+
+próprio agricultor mesmo
+ 00:32:28
+
+e uso de aplicativos móveis ainda
+ 00:32:32
+
+é sobre o conhecimento e treinamento não é
+ 00:32:36
+
+53% falaram que tem conhecimento baixo é
+ 00:32:38
+
+muito baixo sobre as tecnologias
+ 00:32:41
+
+utilizadas eles sabem utilizar Mas ainda
+ 00:32:42
+
+dá para evoluir muito nesse uso de
+ 00:32:45
+
+aplicativos
+ 00:32:47
+
+é 69% apontaram falta de conhecimento
+ 00:32:48
+
+nas tecnologias mais apropriadas para
+ 00:32:52
+
+uso na propriedade na propriedade então
+ 00:32:54
+
+o aplicativo às vezes ele existe a
+ 00:32:56
+
+tecnologia existe mas é um é um menu
+ 00:32:58
+
+muito grande de tecnologias onde ele vai
+ 00:33:02
+
+ter que escolher o que que é melhor para
+ 00:33:04
+
+ele é muito complicado eles escolherem
+ 00:33:05
+
+de um de um de uma loja dessas da Apple
+ 00:33:09
+
+da Android ali do Google escolhendo
+ 00:33:13
+
+aquela Gama inteira de aplicativos o que
+ 00:33:17
+
+que é o melhor para ele considerando que
+ 00:33:19
+
+ainda teria que pagar para alguns
+ 00:33:21
+
+aplicativos não é
+ 00:33:22
+
+e os problemas que a gente encontrou nos
+ 00:33:24
+
+de aplicativos móveis que eles apontaram
+ 00:33:26
+
+já então a gente falou assim dos
+ 00:33:29
+
+aplicativos que você já utiliza Quais os
+ 00:33:30
+
+problemas que você tem encontrado é eles
+ 00:33:32
+
+falaram de aplicativos que não funcionam
+ 00:33:36
+
+offline 79% É muita gente falando que os
+ 00:33:37
+
+aplicativos eles conseguem acessar
+ 00:33:41
+
+quando estão com internet a gente
+ 00:33:42
+
+observou que na hora da pesquisa metade
+ 00:33:44
+
+não tava com internet então eles não
+ 00:33:46
+
+conseguem Acessar o aplicativo quando
+ 00:33:48
+
+eles precisam que é na própria casa no
+ 00:33:50
+
+campo o aplicativo ocupa muito espaço no
+ 00:33:53
+
+smartphone e eu tenho que optar por
+ 00:33:56
+
+outros mais essenciais 72% que aquele
+ 00:33:58
+
+caso que eu falei não é ele vai ter que
+ 00:34:00
+
+desinstalar o aplicativo para instalar o
+ 00:34:02
+
+outro aplicativo
+ 00:34:04
+
+eu frisei aqui os problemas principais é
+ 00:34:06
+
+o aplicativo confusos de difícil
+ 00:34:09
+
+utilização Então os aplicativos não são
+ 00:34:11
+
+testados conseguedutores antes para ver
+ 00:34:13
+
+um padrão de uma forma que eles possam
+ 00:34:15
+
+utilizar de maneira mais confortável não
+ 00:34:17
+
+há espaço disponível para que possa
+ 00:34:22
+
+instalar aplicativos aquele muito baixa
+ 00:34:23
+
+capacidade de armazenamento e
+ 00:34:26
+
+aplicativos incompatíveis com Smartphone
+ 00:34:28
+
+Às vezes o smartphone antigo e ele tem
+ 00:34:30
+
+que comprar um novo para poder instalar
+ 00:34:32
+
+o novo sistema operacional para depois
+ 00:34:33
+
+conseguir instalar o aplicativo não é
+ 00:34:36
+
+E aqui as necessidades de aplicativos
+ 00:34:40
+
+móveis eu perguntei para eles o que que
+ 00:34:42
+
+eles precisavam alguns utilizam outros
+ 00:34:44
+
+aplicativos que não são para agricultura
+ 00:34:48
+
+mas que eles utilizam para para a
+ 00:34:49
+
+produção que é o Mercado Livre OLX para
+ 00:34:53
+
+compra e venda de insumos nós não são
+ 00:34:55
+
+voltados para o agricultor não é então eles
+ 00:34:57
+
+têm a necessidade grande de aplicativos
+ 00:34:59
+
+de compra e venda de insumos produtos de
+ 00:35:01
+
+produção
+ 00:35:03
+
+eles falaram de alguns aplicativos mas
+ 00:35:06
+
+parece que não Supre a necessidade
+ 00:35:08
+
+inteira principalmente na parte de
+ 00:35:10
+
+logística de entrega não é é planejamento
+ 00:35:12
+
+de atividades sobre propriedade detecção
+ 00:35:15
+
+ou controle de falhas operacionais no
+ 00:35:17
+
+plantio Então são inúmeros aplicativos
+ 00:35:19
+
+que eles têm a necessidade e eles são
+ 00:35:20
+
+Digamos que problemas comuns que talvez
+ 00:35:24
+
+já poderiam ter sido resolvidos pela
+ 00:35:26
+
+tecnologia mas a gente viu que tem
+ 00:35:28
+
+vários outros fatores que não é só a
+ 00:35:30
+
+disponibilização de aplicativo que
+ 00:35:32
+
+poderia resolver esse problema não é
+ 00:35:33
+
+E aí eu fiz algumas perguntas abertas
+ 00:35:36
+
+para entender Qual é esse como que a
+ 00:35:39
+
+gente pode desenvolver essa tecnologia e
+ 00:35:44
+
+a gente eu vi que tinha uns problemas
+ 00:35:46
+
+são centrados em questões financeiras
+ 00:35:48
+
+e os problemas são bem mais básicos
+ 00:35:50
+
+Então na hora de ele escolheu a
+ 00:35:53
+
+tecnologia de gastar com ela ele tem que
+ 00:35:55
+
+observar o problema de água ele tem
+ 00:35:57
+
+falta de água falta de energia ele não
+ 00:36:00
+
+tem às vezes recursos para insumos para
+ 00:36:02
+
+comprar um adubo para contratar uma mão
+ 00:36:04
+
+de obra para ajudar enfim ele tem vários
+ 00:36:07
+
+outros problemas e quando eu falo na
+ 00:36:08
+
+tecnologia falo em alguns valores esses
+ 00:36:10
+
+valores podem ser muito altos quando
+ 00:36:12
+
+alguns problemas mais básicos não foram
+ 00:36:14
+
+resolvidos e eu fiz essas perguntas
+ 00:36:16
+
+abertas também porque a gente é da área
+ 00:36:19
+
+de tecnologia e é várias vezes a gente
+ 00:36:21
+
+consegue encontrar a solução tecnológica
+ 00:36:22
+
+quando o agricultor ele não consegue ver
+ 00:36:24
+
+isso ele nem sabe que a tecnologia
+ 00:36:27
+
+existe então as perguntas abertas foram
+ 00:36:28
+
+para também é detectar onde que poderiam
+ 00:36:30
+
+ser encaixadas tecnologias que pudessem
+ 00:36:34
+
+auxiliar esses Agricultores
+ 00:36:37
+
+E aí minha conclusão aqui
+ 00:36:41
+
+eu vi vários fatores eu coloquei foto
+ 00:36:44
+
+antes no começo a gente estava vendo
+ 00:36:47
+
+fatores que
+ 00:36:49
+
+afastavam o agricultor dos aplicativos
+ 00:36:51
+
+móveis mas depois a gente trocou por
+ 00:36:53
+
+afetam porque afetam de forma positiva
+ 00:36:55
+
+também então a gente viu que o
+ 00:36:59
+
+smartphone ele já é bem utilizado no
+ 00:37:02
+
+campo os agricultores as vezes tem
+ 00:37:04
+
+celulares antigos Mas eles já tem todos
+ 00:37:05
+
+tinham smartphone
+ 00:37:07
+
+todos possuíam internet acesso à
+ 00:37:09
+
+internet energia às vezes não na
+ 00:37:12
+
+qualidade de aceitável assim mas eles
+ 00:37:13
+
+possuíam
+ 00:37:15
+
+todos possuem
+ 00:37:16
+
+planos de dados móveis já utilizava o
+ 00:37:19
+
+aplicativo sociais
+ 00:37:23
+
+a gente identificou um padrão básico dos
+ 00:37:25
+
+Smartphone que tinham smartphones que
+ 00:37:27
+
+tinham que são operacional Android e
+ 00:37:30
+
+marca Samsung navegador Chrome
+ 00:37:32
+
+e a gente viu as preferências deles de
+ 00:37:35
+
+vídeo áudio e imagens que Eles
+ 00:37:37
+
+escolheram como mídias que eles gostavam
+ 00:37:40
+
+de consumir
+ 00:37:42
+
+tem outros fatores aqui que não foram
+ 00:37:44
+
+tão legais mas assim a gente conseguiria
+ 00:37:47
+
+contornar pelo menos eles já estão
+ 00:37:50
+
+identificados é que são vários
+ 00:37:51
+
+planascimento de energia e na cobertura
+ 00:37:53
+
+de sinal de internet abaixo velocidade o
+ 00:37:55
+
+custo Alto da internet
+ 00:37:58
+
+a baixa qualidade do smartphones e a
+ 00:37:59
+
+capacidade de armazenamento também muito
+ 00:38:02
+
+pouco é o valor do smartphone ele é
+ 00:38:04
+
+muito alto para o YouTube os aplicativos
+ 00:38:07
+
+e manutenção também tem valor altos
+ 00:38:09
+
+Ele tem dificuldade de crédito e
+ 00:38:12
+
+financiamento vários relataram o que tem
+ 00:38:15
+
+dificuldade de crédito financiamento
+ 00:38:18
+
+porque eles não tinham o título da terra
+ 00:38:19
+
+e aí como eles não tinham o título da
+ 00:38:22
+
+terra eles não conseguiam se cadastrar
+ 00:38:24
+
+em programas para agricultores
+ 00:38:27
+
+familiares
+ 00:38:28
+
+E aí eles têm que trabalhar com que eles
+ 00:38:30
+
+vão ganhando naquele dia a dia Eles não
+ 00:38:32
+
+conseguem fazer um investimento não é
+ 00:38:34
+
+a gente viu que tinham poucos um pouco
+ 00:38:36
+
+uso de aplicativos na agricultura de
+ 00:38:39
+
+agricultura não é
+ 00:38:42
+
+eles falaram que tinham necessidade de
+ 00:38:44
+
+treinamento e tinham e precisavam de
+ 00:38:47
+
+maior conhecimento nas tecnologias que
+ 00:38:49
+
+já existiam e necessidade de aplicativos
+ 00:38:50
+
+voltados para o agricultor familiar Tem
+ 00:38:54
+
+muitos aplicativos voltados para o
+ 00:38:56
+
+grande agricultor Familiar eles não
+ 00:38:57
+
+identificaram tanto e a gente tem esse
+ 00:39:00
+
+problema do aplicativo que eles acham
+ 00:39:03
+
+que deveriam ser offline mas ao mesmo
+ 00:39:06
+
+tempo eu não consigo baixar offline no
+ 00:39:08
+
+aplicativo que geralmente ele ocupa mais
+ 00:39:10
+
+espaço sendo que eu tenho um problema de
+ 00:39:12
+
+armazenamento e ao mesmo tempo se eu
+ 00:39:13
+
+deixo o aplicativo todo online eu tenho
+ 00:39:16
+
+esse problema da velocidade de conexão
+ 00:39:18
+
+ou da existência de conexão que eles não
+ 00:39:19
+
+têm Então isso é um fator que tem que
+ 00:39:21
+
+ser levado em conta existem aplicativos
+ 00:39:24
+
+como acho que do Facebook Lite e acho
+ 00:39:26
+
+que do WhatsApp também que eles fazem os
+ 00:39:29
+
+aplicativos que são feitos para ocupar
+ 00:39:32
+
+menos espaço e ter uma velocidade de
+ 00:39:34
+
+conexão menor então existem soluções já
+ 00:39:36
+
+no mercado para esse grupo de
+ 00:39:39
+
+agricultores a gente teria que ver essas
+ 00:39:40
+
+soluções para serem usados no contexto
+ 00:39:42
+
+de agricultura também não é
+ 00:39:44
+
+e é isso o agricultor familiar ele já
+ 00:39:47
+
+foi considerado a um tempo atrás como um
+ 00:39:49
+
+problema não é como se fosse parte da
+ 00:39:52
+
+pobreza global e agora a gente viu que
+ 00:39:53
+
+eles são maioria no mundo eles ocupam a
+ 00:39:56
+
+maior parte das terras do mundo e eles
+ 00:39:58
+
+são talvez a solução de segurança
+ 00:40:01
+
+alimentar para Esse aumento populacional
+ 00:40:03
+
+no futuro
+ 00:40:05
+
+e é isso gente
+ 00:40:10
+
+obrigada aí por todo mundo que tá
+ 00:40:13
+
+assistindo
+ 00:40:16
+
+e por todo mundo que fez parte aí dessa
+ 00:40:17
+
+pesquisa meus colegas da Embrapa e
+ 00:40:21
+
+outros colega é pesquisador aqui está
+ 00:40:23
+
+bem me orientadora
+ 00:40:25
+
+todo mundo
+ 00:40:28
+
+muito bem muito bem Paloma Parabéns aí
+ 00:40:32
+
+para pesquisa eu tô aqui na dúvida se eu
+ 00:40:35
+
+te parabenizo primeiro eu fico indignado
+ 00:40:37
+
+não é Eu não sei qual das duas questões tá
+ 00:40:39
+
+mais interessante agora realmente eu tô
+ 00:40:42
+
+pesquisando
+ 00:40:45
+
+problemas claros e evidentes do que
+ 00:40:45
+
+realmente acontece com nosso Agricultura
+ 00:40:49
+
+Familiar e isso aqui a gente vê na
+ 00:40:51
+
+Distrito Federal vem Arroio do Tigre lá
+ 00:40:54
+
+em casa nossa propriedade não é coisas
+ 00:40:57
+
+assim que dá para generalizar Talvez
+ 00:41:00
+
+para todo mundo não é eu vi aqui quando
+ 00:41:02
+
+você começou a comentar ali que tipo ah
+ 00:41:04
+
+100% tem WhatsApp você e tal mas também
+ 00:41:07
+
+tem baixa tem baixo acesso a qualidade
+ 00:41:10
+
+celular gigabytes
+ 00:41:13
+
+megabyte enfim aí eu lembro lá de casa o
+ 00:41:15
+
+meu irmão não é ele teve que excluir o
+ 00:41:19
+
+WhatsApp porque não tinha capacidade no
+ 00:41:21
+
+telefone para conseguir ter mais um
+ 00:41:24
+
+aplicativo não é
+ 00:41:25
+
+então a gente tá entendendo
+ 00:41:29
+
+é um grande problema aí para conseguir
+ 00:41:32
+
+acesso
+ 00:41:35
+
+à tecnologia é o principal problema que
+ 00:41:37
+
+a gente achou foi o problema de ter uma
+ 00:41:39
+
+renda que conseguisse ter acesso a
+ 00:41:42
+
+tecnologias que às vezes não aparenta
+ 00:41:46
+
+ser tão caras Mas dependendo do público
+ 00:41:48
+
+é muito caro
+ 00:41:50
+
+nessa questão de conectividade também é
+ 00:41:54
+
+interessante porque a gente às vezes vê
+ 00:41:57
+
+não tem conectividade na terra ele tá
+ 00:41:59
+
+conectando mas alguns agricultores falam
+ 00:42:01
+
+não eu conecto mas eu tenho que ir lá no
+ 00:42:03
+
+canto da minha propriedade sobre o morro
+ 00:42:04
+
+e esperar que não passa um vento que se
+ 00:42:06
+
+passar um vento também pode ser que não
+ 00:42:08
+
+tenha uma conexão então não é uma
+ 00:42:10
+
+conexão que ele tem na propriedade
+ 00:42:12
+
+inteira às vezes ele tem no canto da
+ 00:42:13
+
+casa às vezes ele tem do outro lado mas
+ 00:42:15
+
+se ele tiver uma dúvida e ele tá uma
+ 00:42:17
+
+distância grande de casa ele teria que
+ 00:42:20
+
+voltar para dentro de casa para ele
+ 00:42:21
+
+poder acessar não é não é um acesso pleno
+ 00:42:23
+
+assim
+ 00:42:25
+
+eu tô indignado quando pesquisa porque o
+ 00:42:29
+
+negócio é tão tenso que tipo assim
+ 00:42:33
+
+choveu eu já sei que lá em casa vai cair
+ 00:42:36
+
+a luz ou seja caiu a luz caiu tudo
+ 00:42:39
+
+exatamente
+ 00:42:41
+
+vários relataram que quando chove Acabou
+ 00:42:43
+
+a internet acabou a luz acabou tudo
+ 00:42:46
+
+e isso fica a
+ 00:42:49
+
+faça modelo aqui o pessoal que tá
+ 00:42:51
+
+assistindo eu acho que a gente tem que
+ 00:42:54
+
+mover esportes em cima dessas questões é
+ 00:42:55
+
+porque nós estamos aí numa área digital
+ 00:42:57
+
+e sempre parece que os agricultores são
+ 00:43:00
+
+os últimos não é então é a tua pesquisa
+ 00:43:02
+
+mostra isso não é que os agricultores são
+ 00:43:05
+
+os últimos não é agora vamos ver lá para o
+ 00:43:07
+
+rural agora vamos ver as coisas por lá
+ 00:43:10
+
+não é então acho que Claro tem a gente tem
+ 00:43:13
+
+todo uma questão aí por trás é
+ 00:43:15
+
+importante mas é isso aí faz uma
+ 00:43:17
+
+diferença eu acho que a gente precisa
+ 00:43:19
+
+fazer um conjunto de esforços para que
+ 00:43:20
+
+eu não também esteja contemplado em
+ 00:43:23
+
+todas as questões que o urbano já tem
+ 00:43:25
+
+acesso a muito tempo não é
+ 00:43:27
+
+Tem muita gente assistindo falou tem
+ 00:43:29
+
+mais de 42 pessoas assistindo online
+ 00:43:32
+
+agora nesse momento eu vou passar a
+ 00:43:34
+
+palavra
+ 00:43:37
+
+galera tá bem entusiasmado aqui com a
+ 00:43:39
+
+sua Live é contigo queria queria
+ 00:43:42
+
+agradecer a Paloma não é a orientadora dela
+ 00:43:45
+
+acho que também está presente o trabalho
+ 00:43:49
+
+de vocês foi maravilhoso tá vocês estão
+ 00:43:50
+
+de parabéns o que eu só queria fazer uma
+ 00:43:53
+
+um pequeno comentário daí Paloma você vê
+ 00:43:56
+
+a Sua percepção daquilo que eu que eu
+ 00:43:59
+
+entendi da sua página da sua da sua
+ 00:44:01
+
+palestra não é da sua pesquisa uma
+ 00:44:04
+
+percepção que eu tenho que você talvez
+ 00:44:07
+
+não mediu E é difícil de medir é a
+ 00:44:09
+
+vontade das pessoas de estarem
+ 00:44:12
+
+conectadas de terem um bom aparelho
+ 00:44:13
+
+celular entendeu
+ 00:44:16
+
+o agricultor e o público que você pegou
+ 00:44:18
+
+de um a três salários mínimos ali eles
+ 00:44:21
+
+têm eles têm ele já tem você percebeu se
+ 00:44:24
+
+ele já tem essa compreensão de que a
+ 00:44:27
+
+internet o WhatsApp não é a comunicação em
+ 00:44:30
+
+si não é ela pode mudar a vida da pessoa
+ 00:44:34
+
+para melhor
+ 00:44:37
+
+eles tiveram bastante essa percepção é
+ 00:44:39
+
+após a pandemia naqueles primeiros
+ 00:44:42
+
+momentos de pandemia onde as pessoas
+ 00:44:44
+
+ficaram mais reclusas eles viram eles
+ 00:44:46
+
+têm um termo que ele chama Acho que
+ 00:44:49
+
+nelboral alguma coisa assim de pessoas
+ 00:44:51
+
+que são que não são agricultores
+ 00:44:52
+
+familiares Mas sempre pequenas
+ 00:44:54
+
+propriedades no campo que eles têm
+ 00:44:55
+
+interação que conseguiu escolar a
+ 00:44:57
+
+produção inteira utilizando tecnologia
+ 00:44:59
+
+utilizava o WhatsApp faziam lojas na
+ 00:45:01
+
+internet e eles não tinham Essas
+ 00:45:03
+
+tecnologias
+ 00:45:05
+
+daí é muitos agricultores foram atrás de
+ 00:45:06
+
+como fazer de utilizar o WhatsApp de
+ 00:45:09
+
+utilizar uma rede social nesse momento
+ 00:45:11
+
+da pandemia eles viram a importância e a
+ 00:45:13
+
+mudança que a tecnologia poderia fazer
+ 00:45:17
+
+para eles então
+ 00:45:18
+
+o que dá para sentir é o seguinte Apesar
+ 00:45:25
+
+de todas as dificuldades de aparelho de
+ 00:45:27
+
+conectividade de preço de acesso não é usa
+ 00:45:30
+
+vários tipos de acesso ali Eles
+ 00:45:34
+
+continuam querendo utilizar essa
+ 00:45:36
+
+tecnologia eles não largam tecnologia
+ 00:45:38
+
+eles insistem não é então dá entender de
+ 00:45:40
+
+que eles já perceberam o quanto que isso
+ 00:45:45
+
+pode ser
+ 00:45:47
+
+revolucionário na vida deles ali não é uma
+ 00:45:49
+
+vida para melhor utilizando essa
+ 00:45:52
+
+tecnologia não é de comunicação
+ 00:45:55
+
+outras outros problemas básicos que eles
+ 00:45:59
+
+tinham eles já começaram a investir em
+ 00:46:02
+
+tecnologia eles compram celular eles têm
+ 00:46:04
+
+alguns aplicativos eles usam WhatsApp é
+ 00:46:06
+
+tem um posto para eles e eles deixaram
+ 00:46:08
+
+de consumir outra coisa que talvez fosse
+ 00:46:10
+
+mais básica pagar uma conta alguma coisa
+ 00:46:12
+
+assim para conseguir ter
+ 00:46:14
+
+algum alguns insumos básicos de
+ 00:46:17
+
+Tecnologia
+ 00:46:20
+
+não é isso que você falou agora é muito
+ 00:46:21
+
+importante muito importante ele ele teve
+ 00:46:23
+
+que escolher ali se ele ia ter um
+ 00:46:26
+
+celular ou sei lá comprar uma roupa para
+ 00:46:28
+
+um filho para uma filha ou para ele
+ 00:46:30
+
+alguma coisa nesse sentido não é Talvez um
+ 00:46:32
+
+pouco mais de alimento não mas ele ele
+ 00:46:34
+
+sentiu a necessidade de estar buscando
+ 00:46:37
+
+essa tecnologia e daí vai ao encontro
+ 00:46:39
+
+daquilo que o Ezequiel falou da
+ 00:46:42
+
+importância de políticas públicas não é
+ 00:46:43
+
+para que esse agricultor não é para essa
+ 00:46:46
+
+família no rural tem acesso a essa
+ 00:46:48
+
+tecnologia não é é muito muito e daí o seu
+ 00:46:52
+
+a sua pesquisa é muito importante para
+ 00:46:56
+
+mostrar isso não é Isso é muito legal eu só
+ 00:46:57
+
+depois eu volto com mais perguntas por
+ 00:47:01
+
+mim a gente fica o dia inteiro aqui eu
+ 00:47:03
+
+tô tranquilo
+ 00:47:04
+
+com você querido
+ 00:47:06
+
+hoje hoje me tiraram do sério nessa Live
+ 00:47:10
+
+aqui porque assim o cara isso aqui é o
+ 00:47:13
+
+básico para os nossos familiares e eles
+ 00:47:15
+
+não têm acesso tá falando um monte de
+ 00:47:17
+
+coisa eu acho que assim
+ 00:47:19
+
+direcionar políticas públicas nós
+ 00:47:21
+
+adutores não adianta a gente quer
+ 00:47:23
+
+trabalhar uma agricultura do Futuro A
+ 00:47:26
+
+gente precisa que eles tenham acesso as
+ 00:47:28
+
+coisas eu tô indignado realmente falando
+ 00:47:30
+
+assim ó lá no bom sentido tá pesquisas
+ 00:47:32
+
+reforçou tudo que a gente já vinha
+ 00:47:34
+
+estudando tem estudado muito sobre
+ 00:47:37
+
+tiques há vários anos não é Fiz até uma
+ 00:47:39
+
+especialização antigas porque me chama
+ 00:47:41
+
+atenção isso gosto disso não é dá para ver
+ 00:47:44
+
+nisso mas quando eu vou para casa eu
+ 00:47:46
+
+fico enlouquecido eu fico enlouquecido
+ 00:47:48
+
+eu tive que usou uma live fazer uma
+ 00:47:51
+
+conversa com os tempos Eu fiz um vídeo
+ 00:47:55
+
+indignado no meio da Lavoura de milho
+ 00:47:57
+
+porque eu não tava conseguindo assinar
+ 00:47:59
+
+um documento uma dissertação de mestrado
+ 00:48:01
+
+lá no Rural lá na nossa casa tive que ir
+ 00:48:04
+
+lá no meio da Lavoura de milho e aí eu
+ 00:48:07
+
+chegava lá o código já tinha inspirado
+ 00:48:09
+
+tinha que voltar sabe
+ 00:48:10
+
+tipo são coisas assim que parece são
+ 00:48:12
+
+básicas mas não são básicas enfim
+ 00:48:17
+
+muita coisa muitos elogios Paloma eu não
+ 00:48:20
+
+vou colocar todos gente de todo lugar do
+ 00:48:23
+
+Brasil de Santa Maria parado Nordeste é
+ 00:48:25
+
+o Sudeste enfim muita galera ter
+ 00:48:29
+
+assistido aqui eu vou te colocar só as
+ 00:48:31
+
+as mais provocantes aqui que fala aí
+ 00:48:34
+
+para você fazer um comentário
+ 00:48:37
+
+eu vou colocar essa aqui do Frederico
+ 00:48:40
+
+primeiro
+ 00:48:42
+
+Bom dia Frederico fala o seguinte é tema
+ 00:48:43
+
+relevante e para acompanhamento contínuo
+ 00:48:47
+
+estudo de caso útil para diagnóstico e
+ 00:48:50
+
+por certo para elementos de intervenção
+ 00:48:53
+
+e de políticas públicas e maior nível de
+ 00:48:56
+
+conhecimento dos usuários
+ 00:48:58
+
+e agora vou colocar nosso gigante
+ 00:49:03
+
+Gabriel aqui Gabriel fala o seguinte
+ 00:49:06
+
+Parabéns
+ 00:49:09
+
+utiliza o WhatsApp sua pesquisa foi
+ 00:49:12
+
+possível verificar se o atendimento
+ 00:49:16
+
+recebidos
+ 00:49:17
+
+acontece também e aplicativo
+ 00:49:19
+
+quando eu fiz a pesquisa eu fiz muito
+ 00:49:23
+
+voltada eu sou uma pessoa de tecnologia
+ 00:49:25
+
+da informação e aí meu conhecimento de
+ 00:49:27
+
+extensão Rural ele veio um pouco no meio
+ 00:49:29
+
+para depois do
+ 00:49:32
+
+da pesquisa mais a gente identificou que
+ 00:49:34
+
+sim a gente tem uma parte da pesquisa lá
+ 00:49:37
+
+que eles falam que eles já
+ 00:49:38
+
+discutem com alguns pesquisadores aqui
+ 00:49:41
+
+da Emater ou do da Embrapa também é via
+ 00:49:43
+
+WhatsApp eles têm grupos de WhatsApp que
+ 00:49:48
+
+eles participam e eles já fazem isso
+ 00:49:50
+
+agora assim a
+ 00:49:52
+
+com a qual como é que eles acham a
+ 00:49:54
+
+qualidade o que que precisa a gente não
+ 00:49:57
+
+levantou no aplicativo que no aplicativo
+ 00:49:59
+
+na pesquisa porque era muito voltado
+ 00:50:01
+
+para ti não é para existência ou não depois
+ 00:50:03
+
+que eu fui reparar algumas outras outras
+ 00:50:06
+
+particularidades que eu podia até ter
+ 00:50:09
+
+visto naquele momento não é
+ 00:50:11
+
+vamos aqui para pergunta da Anchieta
+ 00:50:14
+
+considerando que a área rural possui
+ 00:50:20
+
+diversas áreas de sombra de telefonia
+ 00:50:23
+
+Quais são as soluções alternativas para
+ 00:50:26
+
+os protozoários utilizarem dispositivos
+ 00:50:29
+
+e máquinas com internet das coisas
+ 00:50:31
+
+Então essa pergunta ela é uma pergunta
+ 00:50:35
+
+bem difícil assim porque para o produtor
+ 00:50:38
+
+rural para o grande produtor rural às
+ 00:50:41
+
+vezes eles conseguem mesmo grande
+ 00:50:43
+
+produtor às vezes ele tem problema de
+ 00:50:44
+
+conectividade mesmo mas se ele tem uma
+ 00:50:45
+
+condição de pagar ele consegue ter uma
+ 00:50:47
+
+conectividade na fazenda dele mais para
+ 00:50:50
+
+um pequeno agricultor eu vi algumas
+ 00:50:54
+
+coisas muito pontuais assim eu consegui
+ 00:50:57
+
+pesquisar e procurar celulares que
+ 00:51:00
+
+conseguiam ter bateria por mais tempo
+ 00:51:03
+
+para para ele conseguir carregar
+ 00:51:06
+
+eventualmente alguma coisa assim
+ 00:51:08
+
+não sei exatamente como se resolveria
+ 00:51:12
+
+esse problema de conectividade sem ter
+ 00:51:16
+
+uma alguma
+ 00:51:19
+
+investimento realmente do governo para o
+ 00:51:22
+
+agricultor familiar
+ 00:51:26
+
+para ele melhorar essa conectividade no
+ 00:51:27
+
+campo então é uma pergunta muito difícil
+ 00:51:29
+
+assim para para mim dentro desse
+ 00:51:32
+
+contexto Agricultura Familiar a questão
+ 00:51:35
+
+de conectividade sem envolver algum
+ 00:51:36
+
+investimento externo ao agricultor não é
+ 00:51:38
+
+muito bem muito bem
+ 00:51:43
+
+vamos para da Adelina Paloma Como está a
+ 00:51:45
+
+frequência do uso de drones Você
+ 00:51:50
+
+verificou
+ 00:51:51
+
+não a gente não não foi a minha pesquisa
+ 00:51:52
+
+ela foi voltada para uso de aplicativos
+ 00:51:56
+
+móveis no celular eu acredito que não
+ 00:51:59
+
+tenham frequência muito grande de drones
+ 00:52:02
+
+nessa nesse grupo não é Drone também ele
+ 00:52:04
+
+ele necessita que você tem o
+ 00:52:08
+
+conhecimento da tecnologia você vai ter
+ 00:52:10
+
+que pilotar pilotar um drone drones mais
+ 00:52:12
+
+simples não tem imagens tão tão boas não é
+ 00:52:14
+
+então como conhecimento para utilização
+ 00:52:17
+
+de Drone e de uso das imagens dos drones
+ 00:52:20
+
+para ter algum resultado ele é muito
+ 00:52:23
+
+alto ele precisa de conhecimento mais
+ 00:52:25
+
+mais tecnológico eu acredito que não
+ 00:52:28
+
+seja tão frequente assim para dentro do
+ 00:52:30
+
+contexto de agricultura familiar
+ 00:52:33
+
+muito bem o Gabriel chama atenção aqui
+ 00:52:36
+
+para uma questão Mas você já chegou a
+ 00:52:40
+
+comentar mas pode reforçar isso talvez
+ 00:52:42
+
+Paloma em algum momento foi possível
+ 00:52:45
+
+verificar seus canais de atendimento
+ 00:52:47
+
+online das assessorias técnicas acontece
+ 00:52:48
+
+oficialmente também via aplicativos
+ 00:52:51
+
+Quais aplicativos podem identificar
+ 00:52:53
+
+Eu verifiquei alguns nas perguntas que
+ 00:52:56
+
+eu fiz voltadas para ti dessas
+ 00:53:00
+
+assessorias técnicas via WhatsApp
+ 00:53:01
+
+eu vi também algum aplicativo da Emater
+ 00:53:05
+
+que eles falavam de comercialização que
+ 00:53:08
+
+são utilizados assim
+ 00:53:10
+
+para Assessoria Técnica e mais para
+ 00:53:12
+
+parte comercialização mas a maior parte
+ 00:53:15
+
+das vezes
+ 00:53:17
+
+isso acontece envia o WhatsApp mesmo
+ 00:53:18
+
+muito bem
+ 00:53:25
+
+Adelina novamente aqui você percebeu se
+ 00:53:27
+
+existe mais eficiência quando participam
+ 00:53:30
+
+de cooperativas
+ 00:53:33
+
+a maioria dos que a gente entrevistou
+ 00:53:35
+
+eles fazem parte de cooperativas e
+ 00:53:37
+
+associações alguns agricultores eles
+ 00:53:40
+
+falaram realmente que Assessoria não era
+ 00:53:43
+
+é muito voltada para essa parte de
+ 00:53:46
+
+tecnologia e que deixava desejarem algum
+ 00:53:49
+
+alguma parte sabe é mais com certeza
+ 00:53:54
+
+eles vão ter mais eficiência quando eles
+ 00:53:56
+
+têm o auxílio porque vários deles
+ 00:53:59
+
+falaram que precisavam realmente eles é
+ 00:54:00
+
+um conhecimento técnico maior e um maior
+ 00:54:02
+
+conhecimento dos aplicativos que já
+ 00:54:06
+
+existiam ou um auxílio para utilizar um
+ 00:54:09
+
+celular para verificar alguma coisa de
+ 00:54:11
+
+agricultura então com certeza é mais
+ 00:54:14
+
+eficiente quando tem as assessorias e as
+ 00:54:17
+
+cooperativas
+ 00:54:20
+
+Mas a gente não mediu a eficiência
+ 00:54:22
+
+nessa pesquisa
+ 00:54:24
+
+muito bem
+ 00:54:27
+
+o Egídio nosso grande pesquisador também
+ 00:54:29
+
+na área a seguinte pergunta
+ 00:54:33
+
+gostaria de saber se você percebeu algum
+ 00:54:36
+
+tipo de sensação de prejuízo por parte
+ 00:54:39
+
+dos produtores por não terem pleno
+ 00:54:43
+
+acesso aos aplicativos
+ 00:54:46
+
+a gente viu principalmente nessa parte
+ 00:54:48
+
+que eu já tinha falado agora da pandemia
+ 00:54:51
+
+do começo da pandemia é que eles tiveram
+ 00:54:52
+
+problema grande em escoamento da
+ 00:54:55
+
+produção Quando As feiras não estavam
+ 00:54:57
+
+funcionando então eles produziam eles
+ 00:54:59
+
+não sabiam como como escoar essa
+ 00:55:02
+
+produção e eles tinham conhecimento de
+ 00:55:04
+
+outros agricultores que tinham mais
+ 00:55:07
+
+conhecimento tecnológico que conseguiam
+ 00:55:09
+
+fazer isso via WhatsApp
+ 00:55:11
+
+abrirão lojas no WhatsApp e mandavam
+ 00:55:12
+
+para as pessoas então
+ 00:55:15
+
+eles realmente tinha uma sensação real
+ 00:55:16
+
+eles passaram por muitas necessidades
+ 00:55:19
+
+nesse problema porque eles também além
+ 00:55:21
+
+de vários outros fatores que todo mundo
+ 00:55:24
+
+passou aqui mas por não terem
+ 00:55:26
+
+conhecimento tecnológico e foi ele que
+ 00:55:28
+
+eles começaram a correr atrás de muitas
+ 00:55:30
+
+muitas ferramentas que pudessem
+ 00:55:32
+
+auxiliados mas assim se eles não tenham
+ 00:55:35
+
+uma familiaridade tão grande com a
+ 00:55:39
+
+tecnologia via celular eles terminam que
+ 00:55:42
+
+não conseguem encontrar coisas muito
+ 00:55:44
+
+úteis para eles não é mas eles perceberam
+ 00:55:46
+
+uma real sensação de prejuízo como você
+ 00:55:50
+
+falou
+ 00:55:52
+
+muito bem vamos aqui para pergunta da
+ 00:55:55
+
+Ingrid tem bastante pergunta viu
+ 00:55:58
+
+a Ingrid Parabéns Paloma importante
+ 00:56:02
+
+análise muito precisa e necessário para
+ 00:56:05
+
+identificar para onde tem que ir os
+ 00:56:08
+
+investimentos no caso de aplicativos
+ 00:56:10
+
+aqui é uma afirmação não é
+ 00:56:11
+
+do Colégio Politec muito experiente na
+ 00:56:22
+
+área e o amor a gente estava caminhando
+ 00:56:25
+
+aí na no geoparque quarta coluna no
+ 00:56:27
+
+domingo e ele presenciou também essa
+ 00:56:29
+
+questão da do acesso à internet alguns
+ 00:56:31
+
+momentos a gente ficava sem acesso à
+ 00:56:33
+
+internet nas nossas caminhadas no meio
+ 00:56:35
+
+doral não é e é isso sabe quando a gente
+ 00:56:37
+
+chega essa questão porque assim já tá
+ 00:56:41
+
+caindo de maduro não é precisamos evoluir
+ 00:56:44
+
+mais acho que as políticas públicas
+ 00:56:46
+
+podem estar direcionando esforço nesse
+ 00:56:48
+
+sentido para ampliar conectividade eu
+ 00:56:51
+
+acho que é o básico não é
+ 00:56:53
+
+sim até porque a gente tem que diminuir
+ 00:56:57
+
+essa distância tecnológica entre
+ 00:56:59
+
+agricultor familiar e o grande
+ 00:57:01
+
+agricultor não é porque senão fica cada vez
+ 00:57:02
+
+mais distante é complicado acompanhar não é
+ 00:57:05
+
+tudo bem agora o Camilo
+ 00:57:09
+
+como barateamento de tecnologias como
+ 00:57:14
+
+estar link impacta a adoção da
+ 00:57:17
+
+Agricultura digital e como hoje este
+ 00:57:19
+
+agricultor está na adoção das
+ 00:57:22
+
+tecnologias dadas a sua maturidade
+ 00:57:24
+
+digital
+ 00:57:26
+
+então o que que a gente observa no na
+ 00:57:32
+
+agricultura familiar é que mesmo com
+ 00:57:36
+
+barateamento das tecnologias
+ 00:57:39
+
+facilita para ele você vê que todo mundo
+ 00:57:41
+
+tem smartphone hoje todo mundo tem tem
+ 00:57:44
+
+um acesso a conectividade Mas eles ainda
+ 00:57:47
+
+eles ainda estão sempre como se tivessem
+ 00:57:51
+
+os passos atrás é como se eles tivessem
+ 00:57:53
+
+alguns anos atrasados então quando eu
+ 00:57:55
+
+comparo ao meio urbano com meio rural e
+ 00:57:56
+
+o meio Rural do grande agricultor
+ 00:57:59
+
+familiar é o baratear ele é muito
+ 00:58:01
+
+relativo porque ele é barato para quem
+ 00:58:05
+
+não é então quando você fala naquele grupo
+ 00:58:07
+
+familiar que ele tá tirando uma parte da
+ 00:58:09
+
+renda dele às vezes para alimentação
+ 00:58:11
+
+para alguma coisa assim mesmo ele sendo
+ 00:58:13
+
+agricultor que ele tá tirando a renda
+ 00:58:15
+
+para um estudo de um filho para alguma
+ 00:58:17
+
+coisa esse barateamento talvez ele não
+ 00:58:18
+
+seja suficiente para esse grupo de
+ 00:58:22
+
+agricultores mas ele sim vai impactar se
+ 00:58:24
+
+for mais barata a gente viu que eles têm
+ 00:58:27
+
+acesso a smartphone que não é algo que é
+ 00:58:28
+
+muito barato
+ 00:58:31
+
+para renda que a gente fez levantamento
+ 00:58:31
+
+mas é eles me aparenta que se não tiver
+ 00:58:34
+
+uma intervenção maior de do governo ou
+ 00:58:39
+
+de alguma coisa de Fora Eles não
+ 00:58:44
+
+conseguem alcançar uma situação ideal
+ 00:58:45
+
+mesmo com tecnologias mais acessíveis
+ 00:58:48
+
+sabe é como se tivessem alguns passos
+ 00:58:52
+
+atrás não é
+ 00:58:54
+
+muito bem
+ 00:58:58
+
+o Luiz falou de Cultura aí é bom dia aí
+ 00:59:00
+
+a todos e ele fala que é um tema
+ 00:59:04
+
+fundamental relevância todos os
+ 00:59:06
+
+agricultores abraços abraço aí Luiz Olha
+ 00:59:08
+
+só nossa gigante
+ 00:59:11
+
+aqui o Anderson o Anderson comentou o
+ 00:59:13
+
+seguinte Bom Dia excelente temer lá são
+ 00:59:17
+
+os dias atuais e a preparação para o
+ 00:59:19
+
+futuro buscando as lacunas agora a
+ 00:59:22
+
+tecnologia será uma ferramenta robusta
+ 00:59:25
+
+nas atividades do campo Campo Grande
+ 00:59:27
+
+Mato Grosso
+ 00:59:30
+
+ 00:59:33
+
+e o último comentário
+ 00:59:35
+
+aqui a palavra Paloma Marcelo Parabéns
+ 00:59:38
+
+pelo seu trabalho Paloma quanto ao tema
+ 00:59:43
+
+pensa que o cooperativismo seja
+ 00:59:45
+
+fundamental para levar tecnologia o
+ 00:59:47
+
+pequeno produtor tanto pela escala
+ 00:59:49
+
+quanto para solicitar políticas públicas
+ 00:59:52
+
+Exatamente é eles mesmo falam que eles
+ 00:59:57
+
+precisam de algum auxílio e essa parte
+ 01:00:01
+
+do cooperativismo a extensão Rural é
+ 01:00:03
+
+muito importante extremamente importante
+ 01:00:06
+
+para que a gente possa selecionar antes
+ 01:00:08
+
+Essas tecnologias até porque a gente tem
+ 01:00:11
+
+tecnologias confiáveis ou não não é
+ 01:00:13
+
+todos que eles possam confiar ou não
+ 01:00:17
+
+então quem que vai fazer esse filtro a
+ 01:00:19
+
+gente vai passar para eles eu acho que
+ 01:00:21
+
+teria que tem uma importância muito
+ 01:00:23
+
+grande eles terem esses grupos de
+ 01:00:25
+
+agricultores para poder
+ 01:00:28
+
+auxiliar na escolha de tecnologia ser
+ 01:00:30
+
+utilizada
+ 01:00:33
+
+é muito interessante aqui tem mais um
+ 01:00:35
+
+comentário aqui do Adilson não é é bom dia
+ 01:00:39
+
+todos acho que temos que priorizar os
+ 01:00:43
+
+aplicativos Android não iPhone não é e
+ 01:00:45
+
+enfim
+ 01:00:48
+
+aqui em Brasília que é a melhor situação
+ 01:00:50
+
+que a gente achou de conectividade onde
+ 01:00:53
+
+as pessoas tinham smartphone assim tá
+ 01:00:55
+
+certo que eu fui nas feiras procurar é
+ 01:00:57
+
+os agricultores rurais e aí já tem uma
+ 01:01:00
+
+parte comercialização alguma interação
+ 01:01:03
+
+maior mas a gente viu que quase todos
+ 01:01:04
+
+tinham um Android não é o iPhone ele é para
+ 01:01:07
+
+poucos nessa área não é Então realmente na
+ 01:01:11
+
+hora de priorizar ele teria que ser uma
+ 01:01:13
+
+prioridade no desenvolvimento não é
+ 01:01:15
+
+Tá certo muito bem Tem muita muitas
+ 01:01:19
+
+elogios muitos parabéns a gente esquece
+ 01:01:23
+
+de colocar todos a tecnologia não dá
+ 01:01:26
+
+muito tempo não é mas você tem depois você
+ 01:01:27
+
+vai visualizar na Live muita gente
+ 01:01:30
+
+parabenizando pela pesquisa realmente é
+ 01:01:32
+
+uma pesquisa importante
+ 01:01:35
+
+a gente sabe que esses resultados
+ 01:01:37
+
+mostram Areal situação não precisa muito
+ 01:01:39
+
+bem feita porque ele tratou que a
+ 01:01:42
+
+realidade da Agricultura Familiar não é a
+ 01:01:45
+
+gente nem tá falando e acesso à
+ 01:01:48
+
+tecnologia muito mais avançado a gente
+ 01:01:49
+
+tá falando básico não é
+ 01:01:51
+
+Muito cuidado sobre agriculto em geral
+ 01:01:55
+
+não é mas para agricultura familiar a gente
+ 01:01:57
+
+ainda precisa de muito mais pesquisas não é
+ 01:01:59
+
+voltados para esse grupo específico
+ 01:02:01
+
+em pleno 2023 não é a gente já tá com ele
+ 01:02:05
+
+vamos supor aí uns 13 a 15 anos de
+ 01:02:09
+
+acesso à internet no campo não é que
+ 01:02:12
+
+razoavelmente acesso à internet em algum
+ 01:02:15
+
+lugar
+ 01:02:18
+
+e fazer intermediação agora porque tem
+ 01:02:19
+
+muita coisa bacana
+ 01:02:23
+
+Paloma eu não sou muito fã de
+ 01:02:25
+
+aplicativos não é porque eu acho que o
+ 01:02:27
+
+aplicativo ele ele tem que ser para o
+ 01:02:30
+
+produtor grau inédito para ele para que
+ 01:02:34
+
+ele possa estar utilizando já que como
+ 01:02:36
+
+você viu no seu estudo ou o maior uso
+ 01:02:39
+
+nessa questão da comunicação não é o
+ 01:02:41
+
+aplicativo como uma ferramenta de
+ 01:02:43
+
+comunicação e busca de informação Então
+ 01:02:45
+
+você tem isso o uso do WhatsApp e as
+ 01:02:48
+
+outras redes sociais não é isso pelo
+ 01:02:50
+
+agricultor mas pensando no aplicativo
+ 01:02:52
+
+num tema inédito não é Qual que você acha
+ 01:02:56
+
+que ainda teria espaço tirando os
+ 01:03:00
+
+aplicativos também de banco não é de que
+ 01:03:03
+
+você vai ter que fazer uma transação ali
+ 01:03:05
+
+mas que tipo de aplicativo esse público
+ 01:03:07
+
+não é qual o tema desse aplicativo que esse
+ 01:03:09
+
+público que você estudou ele estaria
+ 01:03:13
+
+interessado de estar consumindo
+ 01:03:15
+
+na pesquisa um que eles colocaram lá que
+ 01:03:18
+
+seria um aplicativo que acho que eles
+ 01:03:22
+
+mais demandaram e é algo que eu acho
+ 01:03:24
+
+muito comum que você colocou inovador eu
+ 01:03:26
+
+não não identifiquei exatamente
+ 01:03:28
+
+inovadora a necessidade dele é muito
+ 01:03:30
+
+antes de algo inovador eu acho porque
+ 01:03:32
+
+foi de compra e vendas com aumento de
+ 01:03:34
+
+produção Então o que eles mais
+ 01:03:36
+
+reclamaram lá é de não ter um aplicativo
+ 01:03:39
+
+que fosse para eles que tivesse essa
+ 01:03:40
+
+parte do comércio dele lá e com a parte
+ 01:03:44
+
+de logística também que tem um comércio
+ 01:03:47
+
+ele calcula o comércio mas aí eles fazem
+ 01:03:49
+
+por Mercado Livre E aí como é que eu
+ 01:03:52
+
+levo para outro lugar procura no correio
+ 01:03:54
+
+faço como é que eu faço essa produção
+ 01:03:55
+
+via um aplicativo então
+ 01:03:58
+
+inovador Eu não eu não eu não isso para
+ 01:04:01
+
+o produtor rural já é muito inovador
+ 01:04:07
+
+essa questão da comercialização
+ 01:04:09
+
+nesse caso não é uma não é uma questão
+ 01:04:14
+
+de criar uma nova tecnologia que nunca
+ 01:04:17
+
+viu não não isso daí é uma oportunidade
+ 01:04:19
+
+de ele crescer no empreendimento dele
+ 01:04:21
+
+ali não é E daí é interessante você falar
+ 01:04:24
+
+isso porque existem já alguns órgãos que
+ 01:04:27
+
+nem café que já tão desenvolvendo e já
+ 01:04:29
+
+lançaram o aplicativo não é de Marketplace
+ 01:04:32
+
+que nem você falou aí não é os produtores
+ 01:04:34
+
+rurais deles lá da Agricultura Familiar
+ 01:04:37
+
+muito bacana isso
+ 01:04:39
+
+eles falaram de alguns aplicativos eu
+ 01:04:41
+
+acho que é Emater também tem um
+ 01:04:43
+
+aplicativo de comercialização eles
+ 01:04:44
+
+falaram de alguns aplicativos que não
+ 01:04:47
+
+não seriam tão completos ou talvez a
+ 01:04:49
+
+dificuldade do uso desses aplicativos e
+ 01:04:51
+
+por isso que eles não estariam
+ 01:04:54
+
+utilizando Mas eles existem agora como
+ 01:04:55
+
+você fala assim eu falo muito de
+ 01:04:58
+
+aplicativos Mas a gente pode utilizar
+ 01:05:00
+
+soluções com que ele já tem não é Tem
+ 01:05:02
+
+WhatsApp Tem redes sociais eles usam
+ 01:05:03
+
+WhatsApp eu posso mandar
+ 01:05:05
+
+áudios com instruções de alguma coisa ou
+ 01:05:08
+
+cursos você vê hoje que existem cursos
+ 01:05:10
+
+Via Whatsapp e que eles mandam
+ 01:05:12
+
+informações todo dia um vídeo alguma
+ 01:05:14
+
+coisa assim então às vezes a solução
+ 01:05:16
+
+também ela pode vir por outras vias sem
+ 01:05:18
+
+ser um aplicativo não é não eu acho o
+ 01:05:21
+
+aplicativo super importante agora
+ 01:05:23
+
+precisa saber muito bem para que que
+ 01:05:24
+
+você vai estar desenvolvendo e eu foi
+ 01:05:27
+
+quando esse aplicativo que não exista em
+ 01:05:29
+
+outros lugares que ele já tá utilizando
+ 01:05:31
+
+com sucesso inclusive migrar para esse
+ 01:05:33
+
+aplicativo
+ 01:05:36
+
+imigrar para ele não é isso e um aplicativo
+ 01:05:40
+
+para o produtor É porque é difícil a
+ 01:05:44
+
+gente fala assim eu vou fazer um
+ 01:05:46
+
+aplicativo sobre banana sobre
+ 01:05:47
+
+batata doce eu teria que tem inúmeros
+ 01:05:50
+
+aplicativos eu tô falando de uma pessoa
+ 01:05:53
+
+que não tem espaço para instalar um
+ 01:05:54
+
+aplicativo eu vou ter que instalar um
+ 01:05:56
+
+aplicativo para cada coisa que ele tem
+ 01:05:58
+
+ele vai plantar outro outro produto um
+ 01:05:59
+
+limão alguma coisa assim ele vai
+ 01:06:03
+
+instalar um para cada e ao mesmo tempo
+ 01:06:04
+
+se eu tiver um aplicativo que tenha tudo
+ 01:06:05
+
+isso que é um negócio Quase que o tópico
+ 01:06:07
+
+ele teria até um celular muito melhor
+ 01:06:10
+
+alguma coisa que pudesse ter acesso a
+ 01:06:13
+
+tudo ele teria que filtrar aquilo como
+ 01:06:14
+
+não é então não é um assunto tão simples
+ 01:06:17
+
+assim não é E talvez você tenha levantado
+ 01:06:19
+
+essa questão talvez você tenha passado
+ 01:06:22
+
+mas eu não me atentei você viu algum
+ 01:06:24
+
+aplicativo de algum órgão de extensão
+ 01:06:27
+
+Rural nos smartphones desses produtores
+ 01:06:30
+
+tinha um da Emater que falou que
+ 01:06:35
+
+utilizam da Emater e teve um fato
+ 01:06:37
+
+interessante que não era de um órgão de
+ 01:06:40
+
+extensão Rural é de um agricultor que
+ 01:06:42
+
+tinha um filho e esse filho sabia
+ 01:06:44
+
+desenvolver Então esse filho desenvolveu
+ 01:06:46
+
+para ele dois aplicativos acho que onde
+ 01:06:48
+
+Comércio e outro de
+ 01:06:51
+
+gestão se eu não me engano da área dele
+ 01:06:52
+
+mas eu filho desenvolveu esse aplicativo
+ 01:06:56
+
+para ele e é muito interessante que a
+ 01:06:58
+
+gente tem os casos bem interessantes no
+ 01:07:00
+
+meio do grupo não é mas eu não vi outros
+ 01:07:03
+
+aplicativos a gente pegou lá dos 43
+ 01:07:04
+
+4 5 disseram que utilizam aplicativos
+ 01:07:07
+
+diretamente para agricultura mas quando
+ 01:07:10
+
+a gente vê os aplicativos muitos eram
+ 01:07:13
+
+tipo Mercado Livre OLX outro aplicativo
+ 01:07:14
+
+que eles utilizam uma finalidade de
+ 01:07:16
+
+agricultura não é E aí tinham esses
+ 01:07:19
+
+nemateram esse que era horti eu não
+ 01:07:21
+
+lembro o nome do aplicativo mas que o
+ 01:07:22
+
+filho desenvolveu dois aplicativos Mas
+ 01:07:24
+
+eu não lembro outro que seja fora desses
+ 01:07:27
+
+não
+ 01:07:30
+
+então isso mostra o desafio que tem os
+ 01:07:31
+
+órgãos extensão rural de estarem estarem
+ 01:07:34
+
+conversando via aplicativo com os
+ 01:07:36
+
+produtores rurais não é Muito bacana esse
+ 01:07:38
+
+aqui é a palavra é sua querida obrigado
+ 01:07:40
+
+mais alguns comentários o Egídio faz o
+ 01:07:49
+
+seguinte comentário parabéns pelo pelo
+ 01:07:53
+
+trabalho Paloma Tomara que boas
+ 01:07:56
+
+políticas públicas venham A partir dessa
+ 01:07:58
+
+triste realidade que é a sua pesquisa
+ 01:08:00
+
+nos confirma realmente te espero mesmo
+ 01:08:03
+
+que venham não é
+ 01:08:06
+
+Espero que tenham um olhar melhor para
+ 01:08:09
+
+esse público porque é um público muito
+ 01:08:12
+
+volumoso É muita gente também não é
+ 01:08:14
+
+e é incrível uma boa pesquisa se faz
+ 01:08:19
+
+assim não é porque quando você se sente
+ 01:08:23
+
+representado por ela não é É porque a
+ 01:08:26
+
+pesquisa ela tem o potencial de
+ 01:08:30
+
+generalização não é
+ 01:08:31
+
+pesquisas na África
+ 01:08:34
+
+pesquisas na Europa e a gente se sente
+ 01:08:36
+
+representado por essas pesquisas Então é
+ 01:08:38
+
+porque elas são um problema no mundo
+ 01:08:40
+
+todo não é isso
+ 01:08:42
+
+Sim a gente viu muitas pesquisas na
+ 01:08:46
+
+África que a gente teve um resultado bem
+ 01:08:49
+
+semelhante aqui também no distrito
+ 01:08:53
+
+federal e é uma realidade para cá tem
+ 01:08:55
+
+pesquisas na Índia também na China que
+ 01:08:57
+
+tem resultado semelhantes se eles têm
+ 01:09:00
+
+resultados também de melhora de
+ 01:09:02
+
+qualidade de vida com o uso da
+ 01:09:03
+
+tecnologia Então na hora de priorizar
+ 01:09:04
+
+como alguns agricultores a gente já
+ 01:09:06
+
+falou aqui que eles priorizaram a
+ 01:09:09
+
+tecnologia tiveram que deixar de essa de
+ 01:09:10
+
+ter acesso a outras coisas que eles
+ 01:09:12
+
+precisam é eles conseguem hoje ver como
+ 01:09:14
+
+um investimento também que pode melhorar
+ 01:09:18
+
+a qualidade de vida deles tem uma
+ 01:09:20
+
+pesquisa na China que eles falam disso
+ 01:09:22
+
+que é Apesar deles não ter uma base
+ 01:09:23
+
+muito forte a tecnologia conseguiu
+ 01:09:27
+
+reverter assim foi por outros modos não é é
+ 01:09:29
+
+de conseguir melhorar a qualidade de
+ 01:09:33
+
+vida dele e antes foi feito um
+ 01:09:35
+
+investimento na tecnologia
+ 01:09:39
+
+quando tem que priorizar onde tem que
+ 01:09:41
+
+ser feito esse investimento não é
+ 01:09:43
+
+é interessante de todas das pesquisas
+ 01:09:45
+
+que eu tenho lido internacionalmente
+ 01:09:48
+
+principalmente na área de extensão oral
+ 01:09:50
+
+todas as vezes se sentem representado
+ 01:09:51
+
+quando voltado para leitura familiar
+ 01:09:54
+
+então para ver que o problema não é só
+ 01:09:56
+
+no Brasil não é temos aqui o nosso colega
+ 01:09:58
+
+Frederico ele falando que no aplicativo
+ 01:10:01
+
+da em matéria Distrito Federal chama-se
+ 01:10:04
+
+põe na sexta foi desenvolvido no início
+ 01:10:06
+
+da pandemia muito famoso eles falaram
+ 01:10:09
+
+desse aplicativo da Emater foi o que foi
+ 01:10:12
+
+citado assim mais específico foi esse
+ 01:10:15
+
+aplicativo da Emater
+ 01:10:17
+
+acho que foi isso na pandemia mesmo
+ 01:10:19
+
+muito bem temos aqui bom chegou o
+ 01:10:21
+
+Luciano não é bom dia coordenador do
+ 01:10:25
+
+projeto baratinhas Embrapa de Sete
+ 01:10:28
+
+Lagoas obrigado pela presença Luciano
+ 01:10:30
+
+deve ser nossa amiga e olha só Sr
+ 01:10:36
+
+Fernando é amigo grande amigo meu da USP
+ 01:10:40
+
+colega lá Dai fizeram não conta esse
+ 01:10:43
+
+elogio isso aí não conta não é Amigo
+ 01:10:45
+
+pessoal releva esse elogio não conta ele
+ 01:10:47
+
+é amigo os meus também é só amigo é
+ 01:10:50
+
+assim mesmo
+ 01:10:53
+
+ 01:10:56
+
+pesquisa Parabéns agradeceu também
+ 01:10:58
+
+tem muitos elogios aqui Gente desculpa
+ 01:11:03
+
+não tá lendo todos aqui burnato que
+ 01:11:05
+
+elogiando especial
+ 01:11:09
+
+é o Renato me ajuda aqui nas discussões
+ 01:11:12
+
+aí Nilda também eu já vi vários colegas
+ 01:11:14
+
+passando aqui também nos comentários e
+ 01:11:17
+
+muita gente eu deixei muita gente de
+ 01:11:20
+
+fora aqui mas assim foi porque a gente
+ 01:11:23
+
+priorizou aqui tem muito tem muito tem
+ 01:11:25
+
+muitos aqui é muito bom galera galera
+ 01:11:28
+
+comentando mesmo me parabenizando
+ 01:11:31
+
+Camila e tem muita gente assistindo mas
+ 01:11:33
+
+assim é vamos deixar a Palavra Final
+ 01:11:37
+
+então para você
+ 01:11:40
+
+ 01:11:42
+
+Paloma assim o que que você pode nos
+ 01:11:44
+
+dizer sobre o fechamento para a gente
+ 01:11:46
+
+encerrar essa esse nosso grande essa
+ 01:11:48
+
+grande manhã que foi muito produtivo e
+ 01:11:50
+
+muito bacana que que você pode dizer o
+ 01:11:52
+
+fechamento dessa palavra e até uma
+ 01:11:55
+
+questão agora que me chama atenção
+ 01:11:58
+
+também que você comentou ali dos
+ 01:12:00
+
+aplicativos que são complexos não é E aí
+ 01:12:01
+
+tem aplicativos aí de bancos digitais
+ 01:12:04
+
+que tiveram muito sucesso não é a gente não
+ 01:12:06
+
+precisa falar o nome a gente sabe quem
+ 01:12:08
+
+quais são pelo fato dela ser fácil de
+ 01:12:10
+
+operacionalizar fácil de mexer não é e isso
+ 01:12:13
+
+me chamou também atenção muito
+ 01:12:16
+
+interessante mas eu vou deixar agora
+ 01:12:19
+
+para você fazer o fechamento final dessa
+ 01:12:20
+
+pesquisa que que você pode trazer e de
+ 01:12:23
+
+fechamento sobre essa questão
+ 01:12:26
+
+aí eu queria primeiro agradecer a todo
+ 01:12:29
+
+mundo eu vi vários colegas aqui que
+ 01:12:31
+
+estiveram aqui inclusive alguns que
+ 01:12:33
+
+auxiliaram não é que antes de fazer o
+ 01:12:36
+
+formulário eu passei para alguns colegas
+ 01:12:37
+
+da Embrapa para eles poderem auxiliar
+ 01:12:39
+
+nesse formulário que eu levei aos
+ 01:12:41
+
+agricultores e estavam aqui que eu vi o
+ 01:12:43
+
+Marcelo Camilo carro meu
+ 01:12:45
+
+E aí também a Cristina também que me
+ 01:12:48
+
+auxiliou porque ir para todas as
+ 01:12:53
+
+propriedades é uma dificuldade minha não é
+ 01:12:55
+
+E aí ela auxiliou fazendo pesquisa enfim
+ 01:12:57
+
+com relação ao que você falou agora
+ 01:13:01
+
+eu espero que essa pesquisa ela consiga
+ 01:13:04
+
+evoluir que as pessoas que estejam vendo
+ 01:13:09
+
+procurem evoluir essa pesquisa para
+ 01:13:11
+
+conseguir
+ 01:13:14
+
+formas de
+ 01:13:16
+
+desenvolver
+ 01:13:17
+
+Centralizado no usuário mesmo não é Na hora
+ 01:13:19
+
+que eu desenvolver um produto eu consiga
+ 01:13:21
+
+desenvolver pensando no que Ele tem
+ 01:13:25
+
+acesso no que que ele pode ter e nas
+ 01:13:27
+
+dificuldades mesmo que não é tão simples
+ 01:13:29
+
+é o financeiro também não é tão tão
+ 01:13:31
+
+legal assim e que o governo consiga
+ 01:13:33
+
+desenvolver políticas públicas que
+ 01:13:37
+
+auxiliam esse grupo não é Principalmente
+ 01:13:39
+
+alguns que eles estão bem perdidos que a
+ 01:13:40
+
+gente viu agricultores familiares
+ 01:13:42
+
+perdidos assim eles estão fora das
+ 01:13:44
+
+estatísticas eles não são contados Eles
+ 01:13:46
+
+não estão em cadastro porque eles não
+ 01:13:48
+
+têm o título da terra então eles os que
+ 01:13:50
+
+precisam Mais na verdade eles estão eles
+ 01:13:54
+
+não estão dentro das estatísticas não é E
+ 01:13:57
+
+aí talvez teriam que encontrar formas de
+ 01:14:00
+
+colocar em esses agricultores nas
+ 01:14:02
+
+estatísticas para a gente vê realmente
+ 01:14:04
+
+uma realidade do que é no Brasil não é
+ 01:14:05
+
+porque eu coloquei ali uma pesquisa que
+ 01:14:09
+
+foi aqui no distrito federal que é a
+ 01:14:11
+
+melhor situação que a gente tem de
+ 01:14:14
+
+conectividade e mesmo assim a gente viu
+ 01:14:15
+
+o resultado um pouco complexos não é se
+ 01:14:19
+
+essa pesquisa ela conseguisse passar ou
+ 01:14:21
+
+ser melhorada para ser colocada no
+ 01:14:25
+
+Brasil inteiro seria interessante para
+ 01:14:26
+
+ter um para ter um resultado mais real
+ 01:14:28
+
+para outras outros estados também não é
+ 01:14:31
+
+aqui poderia ser maior também não é porque
+ 01:14:33
+
+a gente pega uma amostra do que dá para
+ 01:14:36
+
+fazer uma pesquisa de Mestrado não é mas eu
+ 01:14:38
+
+acho que ainda dá para tirar muitas
+ 01:14:41
+
+muitas coisas das pesquisas e ainda dá
+ 01:14:43
+
+para evoluir muito não é
+ 01:14:45
+
+é isso gente muito bem queria agradecer
+ 01:14:49
+
+também a vocês principalmente não é o
+ 01:14:52
+
+professor Ezequiel e professor Zuin pelo
+ 01:14:54
+
+convite contei professorzinha aqui em
+ 01:14:56
+
+Brasília no começo do ano fiquei até
+ 01:14:59
+
+surpresa não é
+ 01:15:00
+
+de alguém me procurado depois do
+ 01:15:01
+
+mestrado depois outras pessoas também
+ 01:15:05
+
+descobriram minha pesquisa eu acho tô
+ 01:15:06
+
+achando muito interessante essa área da
+ 01:15:09
+
+extensão Rural que eu sou muito da área
+ 01:15:12
+
+de TI agora eu tô vendo com outros
+ 01:15:13
+
+olhares sensação oral cada dia eu tô
+ 01:15:16
+
+estudando um pouco mais sobre tô achando
+ 01:15:18
+
+muito interessante a área
+ 01:15:21
+
+muito bem
+ 01:15:24
+
+obrigada gente que agradece show de Live
+ 01:15:25
+
+aqui até Vou deixar um último comentário
+ 01:15:28
+
+da Ingrid aqui ela disse assim aqui para
+ 01:15:30
+
+agricultura familiar é importante logar
+ 01:15:33
+
+acesso a episofly pelo pela conexão
+ 01:15:36
+
+fraca justamente desenvolver tecnologias
+ 01:15:39
+
+é um dos grandes desafios exatamente
+ 01:15:42
+
+desenvolver tecnologia offline para quem
+ 01:15:45
+
+não tem um armazenamento Grande para
+ 01:15:48
+
+quem tem algumas dificuldades eu tenho
+ 01:15:52
+
+que colocar muitos vídeos imagens
+ 01:15:53
+
+é Um Desafio realmente para ter
+ 01:15:56
+
+É temos muito ainda evoluir nessa
+ 01:16:00
+
+questão ainda é mas é isso aqui já
+ 01:16:03
+
+mostra que é preciso evoluir sua
+ 01:16:05
+
+pesquisa mostra esses resultadosreais
+ 01:16:07
+
+reais
+ 01:16:09
+
+e possíveis de generalização para todo o
+ 01:16:11
+
+Brasil não é E isso aqui é importante esse
+ 01:16:15
+
+tipo de pesquisa só é fossa que é
+ 01:16:17
+
+preciso ainda trabalhar muito nessa
+ 01:16:19
+
+questão principalmente de acesso às
+ 01:16:22
+
+tecnologias digitais não é Internet Bueno
+ 01:16:24
+
+Vamos então fazer o enceramento aqui
+ 01:16:27
+
+quero comentar aí para o público que tá
+ 01:16:30
+
+assistindo que nós temos aí cinco
+ 01:16:33
+
+grandes ciclos durante o ano que vão
+ 01:16:35
+
+perdurar para os próximos tempos nós
+ 01:16:38
+
+temos o até digital que é o acesso às
+ 01:16:40
+
+tecnologias digitais como os
+ 01:16:43
+
+especialistas têm trabalhado isso nós
+ 01:16:45
+
+temos o horizonte eterno seu segundo
+ 01:16:47
+
+ciclo não é 2023 2033 que o que que o
+ 01:16:49
+
+pessoal da Excel tá projetando Para o
+ 01:16:53
+
+Futuro decepção oral e nós temos um
+ 01:16:55
+
+ciclo que vai abrir agora em outubro que
+ 01:16:58
+
+palestra sobre formação de
+ 01:17:00
+
+extensionistas Esse aí é um ciclo também
+ 01:17:02
+
+muito bacana tem gente muito importante
+ 01:17:04
+
+na área no Brasil e que vai trabalhar
+ 01:17:06
+
+como por um extensionista ideal aí para
+ 01:17:08
+
+esse novo século nós também temos agora
+ 01:17:12
+
+então é muito importante aí ó a pesquisa
+ 01:17:15
+
+em prosa não é que esse ciclo aí a gente
+ 01:17:18
+
+vai fortalecer no próximo ano tá
+ 01:17:20
+
+chamando vai chamar muita gente a Paloma
+ 01:17:22
+
+foi o nossa nossa Pioneira aqui na
+ 01:17:24
+
+abertura desse ciclo que a gente vai
+ 01:17:27
+
+chamar muita gente fazendo dissertação
+ 01:17:28
+
+tese artigos na área que possam estar
+ 01:17:30
+
+trabalhando essas temas que são caros a
+ 01:17:34
+
+extensão lá o Agricultura Familiar e é o
+ 01:17:36
+
+desenvolvimento Rural Então é isso gente
+ 01:17:39
+
+Obrigado aí a presença de todo mundo e
+ 01:17:41
+
+até uma próxima oportunidade tchau tchau
+ 01:17:44
+
+rede Aurora diálogos em até digital na
+ 01:17:51
+
+América Latina
+ 01:17:54

@@ -1,0 +1,8 @@
+video_id: isSd0Y6Hh6c
+video_url: https://www.youtube.com/watch?v=isSd0Y6Hh6c
+title: #roça #colono #agricultura
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2025

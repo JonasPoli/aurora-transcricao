@@ -1,0 +1,9 @@
+video_id: dqzR_QKpiV0
+video_url: https://www.youtube.com/watch?v=dqzR_QKpiV0
+title: Fundação Itesp - Contexto Histórico
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/9282294947416702
+subtitle_mode: auto
+subtitle_lang: pt
+date: 02/26/2022

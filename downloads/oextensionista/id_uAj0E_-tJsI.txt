@@ -1,0 +1,8 @@
+video_id: uAj0E_-tJsI
+video_url: https://www.youtube.com/watch?v=uAj0E_-tJsI
+title: #roça #agro #rural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/26/2025

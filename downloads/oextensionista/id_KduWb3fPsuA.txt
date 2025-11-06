@@ -1,0 +1,8 @@
+video_id: KduWb3fPsuA
+video_url: https://www.youtube.com/watch?v=KduWb3fPsuA
+title: #pesquisa #extensãorural
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/04/2025

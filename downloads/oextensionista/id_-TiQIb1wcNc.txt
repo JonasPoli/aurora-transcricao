@@ -1,0 +1,9 @@
+video_id: -TiQIb1wcNc
+video_url: https://www.youtube.com/watch?v=-TiQIb1wcNc
+title: O uso das redes sociais como ferramenta de aprendizagem junto aos agricultores familiares
+uploader: O Extensionista
+speaker: Renato Antônio da Silva - Emater/RN
+Lattes: http://lattes.cnpq.br/9153847166461115
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/25/2025

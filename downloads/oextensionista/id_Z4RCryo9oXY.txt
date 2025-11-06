@@ -1,0 +1,8 @@
+video_id: Z4RCryo9oXY
+video_url: https://www.youtube.com/watch?v=Z4RCryo9oXY
+title: #roça #colono #sucesso
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/01/2025

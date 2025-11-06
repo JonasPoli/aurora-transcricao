@@ -1,0 +1,9 @@
+video_id: 1XfvpgOGyu0
+video_url: https://www.youtube.com/watch?v=1XfvpgOGyu0
+title: Juventude Rural e Sucessão Familiar 👩‍🌾🧑‍🌾
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/20/2023

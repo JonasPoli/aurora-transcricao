@@ -1,0 +1,8 @@
+video_id: Hz9Gjo2xfDQ
+video_url: https://www.youtube.com/watch?v=Hz9Gjo2xfDQ
+title: #roça #colono #comunidade
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/05/2025

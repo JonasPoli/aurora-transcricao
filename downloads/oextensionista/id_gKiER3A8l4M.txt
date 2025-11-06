@@ -1,0 +1,9 @@
+video_id: gKiER3A8l4M
+video_url: https://www.youtube.com/watch?v=gKiER3A8l4M
+title: Capital social - Pierre Bourdieu
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 01/17/2022

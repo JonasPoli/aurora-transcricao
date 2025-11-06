@@ -1,0 +1,8 @@
+video_id: xkdLSnhmx3U
+video_url: https://www.youtube.com/watch?v=xkdLSnhmx3U
+title: #roça #quilombola
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/10/2025

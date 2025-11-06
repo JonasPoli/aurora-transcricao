@@ -1,0 +1,8 @@
+video_id: e7En6ioevUE
+video_url: https://www.youtube.com/watch?v=e7En6ioevUE
+title: Extensão Rural: caminhos e vivências
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/25/2021

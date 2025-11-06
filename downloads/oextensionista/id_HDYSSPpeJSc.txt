@@ -1,0 +1,9 @@
+video_id: HDYSSPpeJSc
+video_url: https://www.youtube.com/watch?v=HDYSSPpeJSc
+title: Ações de extensão e o impacto das ferramentas digitais
+uploader: O Extensionista
+speaker: Cláudia Bernardini – EMATER/RS
+Lattes: http://lattes.cnpq.br/1374345044207381
+subtitle_mode: auto
+subtitle_lang: pt
+date: 09/26/2024

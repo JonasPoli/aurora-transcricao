@@ -1,0 +1,9 @@
+video_id: DRZMI_JDfOo
+video_url: https://www.youtube.com/watch?v=DRZMI_JDfOo
+title: 👉 3 técnicas participativas para todo Extensionista Rural usar! 💚
+uploader: O Extensionista
+speaker: O Extensionista
+Lattes: http://lattes.cnpq.br/4594328596786231
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/11/2022

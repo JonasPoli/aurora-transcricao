@@ -1,0 +1,8 @@
+video_id: B0F5lS9z290
+video_url: https://www.youtube.com/watch?v=B0F5lS9z290
+title: #roça #agriculture #agricultura #trator
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/11/2025

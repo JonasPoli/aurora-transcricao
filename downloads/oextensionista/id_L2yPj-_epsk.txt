@@ -1,0 +1,8 @@
+video_id: L2yPj-_epsk
+video_url: https://www.youtube.com/watch?v=L2yPj-_epsk
+title: #roça #colono #turismo
+uploader: O Extensionista
+speaker: O Extensionista
+subtitle_mode: auto
+subtitle_lang: pt
+date: 08/08/2025

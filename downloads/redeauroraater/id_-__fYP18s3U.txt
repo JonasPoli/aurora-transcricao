@@ -1,0 +1,8 @@
+video_id: -__fYP18s3U
+video_url: https://www.youtube.com/watch?v=-__fYP18s3U
+title: A psicologia em contextos rurais
+uploader: Rede Aurora
+speaker: Joice Schneider Marmentini
+subtitle_mode: auto
+subtitle_lang: pt
+date: 06/27/2024

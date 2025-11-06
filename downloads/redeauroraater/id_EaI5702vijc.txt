@@ -1,0 +1,9 @@
+video_id: EaI5702vijc
+video_url: https://www.youtube.com/watch?v=EaI5702vijc
+title: Desafios da Extensão Rural Contemporânea
+uploader: Rede Aurora
+speaker: Thiago Vasconcelos Melo - UFVJM
+Lattes: http://lattes.cnpq.br/8863529994485374
+subtitle_mode: auto
+subtitle_lang: pt
+date: 07/17/2025
