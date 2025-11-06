@@ -1,9 +1,0 @@
-video_id: mxxvhRNuobQ
-video_url: https://www.youtube.com/watch?v=mxxvhRNuobQ
-title: Caminhadas Internacional na Natureza Extensão Rural como protagonista do turismo
-uploader: Rede Aurora
-speaker: Monique Chaves – Emater/RS-Ascar
-Lattes: http://lattes.cnpq.br/2440949034490099
-subtitle_mode: auto
-subtitle_lang: pt
-date: 04/03/2025

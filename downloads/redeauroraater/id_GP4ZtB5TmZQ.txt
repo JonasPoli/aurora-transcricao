@@ -1,9 +1,0 @@
-video_id: GP4ZtB5TmZQ
-video_url: https://www.youtube.com/watch?v=GP4ZtB5TmZQ
-title: Semeando mensagens, colhendo diálogos: a comunicação rural e o uso do WhatsApp
-uploader: Rede Aurora
-speaker: Gabriel Arroyo - Universidade de Araraquara
-Lattes: http://lattes.cnpq.br/8489125193765181
-subtitle_mode: auto
-subtitle_lang: pt
-date: 04/17/2025

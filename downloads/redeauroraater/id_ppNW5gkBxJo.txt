@@ -1,9 +1,0 @@
-video_id: ppNW5gkBxJo
-video_url: https://www.youtube.com/watch?v=ppNW5gkBxJo
-title: Tecnologia da Informação e Agricultura Familiar potências e desafios
-uploader: Rede Aurora
-speaker: Mauricio Leonard de Souza – UFOP
-Lattes: http://lattes.cnpq.br/5256793519575825
-subtitle_mode: auto
-subtitle_lang: pt
-date: 11/14/2024

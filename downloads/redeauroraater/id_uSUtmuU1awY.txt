@@ -1,8 +1,0 @@
-video_id: uSUtmuU1awY
-video_url: https://www.youtube.com/watch?v=uSUtmuU1awY
-title: Sistema Asbraer para formação de extensionistas e uso de tecnologia no campo
-uploader: Rede Aurora
-speaker: Luciano Brandão – Asbraer
-subtitle_mode: auto
-subtitle_lang: pt
-date: 12/12/2024

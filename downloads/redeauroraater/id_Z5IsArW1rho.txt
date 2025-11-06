@@ -1,8 +1,0 @@
-video_id: Z5IsArW1rho
-video_url: https://www.youtube.com/watch?v=Z5IsArW1rho
-title: ATER Digital e Desenvolvimento Rural Sustentável: experiências do setor algodoeiro
-uploader: Rede Aurora
-speaker: Ingrid Zabaleta Chaustre
-subtitle_mode: auto
-subtitle_lang: pt
-date: 07/14/2025

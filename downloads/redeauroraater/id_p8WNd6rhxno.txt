@@ -1,8 +1,0 @@
-video_id: p8WNd6rhxno
-video_url: https://www.youtube.com/watch?v=p8WNd6rhxno
-title: Ater pública frente à digitalização na agricultura: construção e perspectivas
-uploader: Rede Aurora
-speaker: Alice Alcântara
-subtitle_mode: auto
-subtitle_lang: pt
-date: 09/04/2025

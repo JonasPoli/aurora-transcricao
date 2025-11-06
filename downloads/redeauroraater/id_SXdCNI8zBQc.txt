@@ -1,9 +1,0 @@
-video_id: SXdCNI8zBQc
-video_url: https://www.youtube.com/watch?v=SXdCNI8zBQc
-title: Transformando a Extensão Rural: Projeto Piloto Epagri e ATER+ Digital
-uploader: Rede Aurora
-speaker: Humberto Bicca Neto (EPAGRI)
-Lattes: http://lattes.cnpq.br/3807979771570493
-subtitle_mode: auto
-subtitle_lang: pt
-date: 06/20/2025

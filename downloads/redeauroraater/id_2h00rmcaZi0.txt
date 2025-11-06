@@ -1,9 +1,0 @@
-video_id: 2h00rmcaZi0
-video_url: https://www.youtube.com/watch?v=2h00rmcaZi0
-title: ATERS com povos tradicionais quilombolas do RS
-uploader: Rede Aurora
-speaker: Regina da Silva Miranda– Emater/RS-Ascar
-Lattes: http://lattes.cnpq.br/6651843961801664
-subtitle_mode: auto
-subtitle_lang: pt
-date: 12/05/2024

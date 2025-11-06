@@ -1,9 +1,0 @@
-video_id: OmEJCAXaBlg
-video_url: https://www.youtube.com/watch?v=OmEJCAXaBlg
-title: Segurança Alimentar e Qualidade de Vida contribuições do Pila Verde e Pila Azul
-uploader: Rede Aurora
-speaker: Tiago Gorski Lacerda - Santiago/RS
-Lattes: http://lattes.cnpq.br/6823700511076963
-subtitle_mode: auto
-subtitle_lang: pt
-date: 04/10/2025

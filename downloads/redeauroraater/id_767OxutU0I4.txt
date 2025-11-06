@@ -1,9 +1,0 @@
-video_id: 767OxutU0I4
-video_url: https://www.youtube.com/watch?v=767OxutU0I4
-title: O uso das redes sociais como ferramenta de aprendizagem junto aos agricultores familiares
-uploader: Rede Aurora
-speaker: Renato Antônio da Silva - Emater/RN
-Lattes: http://lattes.cnpq.br/9153847166461115
-subtitle_mode: auto
-subtitle_lang: pt
-date: 09/24/2025

@@ -1,8 +1,0 @@
-video_id: 3I4kSaD1sNs
-video_url: https://www.youtube.com/watch?v=3I4kSaD1sNs
-title: Uso das mídias digitais na ATER
-uploader: Rede Aurora
-speaker: Flavia Maria de Oliveira Ott (EPAGRI), Filipe Espíndola (EPAGRI) e Leandro Correia Ebert (EMATER/RS-Ascar)
-subtitle_mode: auto
-subtitle_lang: pt
-date: 05/22/2025

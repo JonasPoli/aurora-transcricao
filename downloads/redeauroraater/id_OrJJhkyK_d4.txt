@@ -1,8 +1,0 @@
-video_id: OrJJhkyK_d4
-video_url: https://www.youtube.com/watch?v=OrJJhkyK_d4
-title: PAS Nordeste e as Redes Territoriais de ATER
-uploader: Rede Aurora
-speaker: Jose Humberto Oliveira - IICA
-subtitle_mode: auto
-subtitle_lang: pt
-date: 05/08/2025

@@ -1,9 +1,0 @@
-video_id: XWWEGyi2lwM
-video_url: https://www.youtube.com/watch?v=XWWEGyi2lwM
-title: Meu Imóvel Rural ferramenta para autonomia
-uploader: Rede Aurora
-speaker: Carlos Mário Guedes de Guedes - INCRA
-Lattes: http://lattes.cnpq.br/8775547703681745
-subtitle_mode: auto
-subtitle_lang: pt
-date: 10/16/2025

@@ -1,8 +1,0 @@
-video_id: avCGvUHjBpc
-video_url: https://www.youtube.com/watch?v=avCGvUHjBpc
-title: A linguagem clara como estratégia de extensão rural, em Portugal
-uploader: Rede Aurora
-speaker: Cristina Nobre Soares – Comunicação Clara de Ciência
-subtitle_mode: auto
-subtitle_lang: pt
-date: 07/24/2025

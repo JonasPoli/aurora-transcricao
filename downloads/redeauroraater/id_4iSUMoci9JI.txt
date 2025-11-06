@@ -1,9 +1,0 @@
-video_id: 4iSUMoci9JI
-video_url: https://www.youtube.com/watch?v=4iSUMoci9JI
-title: Avaliação do Balanço da PNATER 2023 2024   DATER MDA
-uploader: Rede Aurora
-speaker: Marcus Peixoto
-Lattes: http://lattes.cnpq.br/9137130647669011
-subtitle_mode: auto
-subtitle_lang: pt
-date: 02/27/2025

@@ -1,9 +1,0 @@
-video_id: KT7qnCzvdnc
-video_url: https://www.youtube.com/watch?v=KT7qnCzvdnc
-title: Agricultura urbana: o caso exitoso de Maringá
-uploader: Rede Aurora
-speaker: Ednaldo Michellon – DAG/UEM
-Lattes: http://lattes.cnpq.br/2320962799636868
-subtitle_mode: auto
-subtitle_lang: pt
-date: 06/26/2025

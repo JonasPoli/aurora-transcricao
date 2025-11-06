@@ -1,9 +1,0 @@
-video_id: sTEJFU7Jmvg
-video_url: https://www.youtube.com/watch?v=sTEJFU7Jmvg
-title: A cidadania alimentar para a transformação dos sistemas alimentares
-uploader: Rede Aurora
-speaker: Gustavo Pinto da Silva
-Lattes: http://lattes.cnpq.br/5659811271344671
-subtitle_mode: auto
-subtitle_lang: pt
-date: 03/20/2025
