@@ -1,0 +1,101 @@
+ordem,codigo,grupo,pergunta,referencia_esperada,executar
+1,P001,PRESENTE,O que é a ferramenta Meu Imóvel Rural e como ela amplia a autonomia dos agricultores?,Meu Imóvel Rural ferramenta para autonomia,SIM
+2,P002,PRESENTE,Como a extensão universitária pode contribuir para o desenvolvimento de um destino de cicloturismo?,Extensão universitária para o desenvolvimento de destino de cicloturismo,SIM
+3,P003,PRESENTE,Como as redes sociais podem ser usadas como ferramenta de aprendizagem junto aos agricultores familiares?,O uso das redes sociais como ferramenta de aprendizagem junto aos agricultores familiares,SIM
+4,P004,PRESENTE,Como foi desenvolvida a experiência de formação em Extensão Rural e Agroecologia?,A experiência de formação em Extensão Rural e Agroecologia,SIM
+5,P005,PRESENTE,Quais estratégias podem promover uma digitalização inclusiva na Amazônia Paraense?,Promovendo a digitalização inclusiva na Amazônia Paraense,SIM
+6,P006,PRESENTE,Como a ATER pública se posiciona diante da digitalização da agricultura?,Ater pública frente à digitalização na agricultura- construção e perspectivas,SIM
+7,P007,PRESENTE,Como as redes sociais podem ampliar a comercialização da agricultura familiar?,O uso de redes sociais pela agricultura familiar para ampliar a comercialização,SIM
+8,P008,PRESENTE,Quais são os efeitos da Extensão Rural sobre a produtividade em um sistema pluralista?,Avaliando os efeitos da Extensão Rural na produtividade em um sistema pluralista,SIM
+9,P009,PRESENTE,Como a inteligência artificial fortalece a colaboração entre o campo e o laboratório na agricultura?,Inteligência coletiva na Agricultura- como a IA fortalece a colaboração entre campo e laboratório,SIM
+10,P010,PRESENTE,Como a linguagem clara pode ser usada como estratégia de extensão rural em Portugal?,"A linguagem clara como estratégia de extensão rural, em Portugal",SIM
+11,P011,PRESENTE,Quais são os principais desafios da Extensão Rural contemporânea?,Desafios da Extensão Rural Contemporânea,SIM
+12,P012,PRESENTE,Por que o caso de agricultura urbana de Maringá é considerado exitoso?,Agricultura urbana- o caso exitoso de Maringá,SIM
+13,P013,PRESENTE,Como o projeto-piloto da Epagri e a ATER+ Digital estão transformando a Extensão Rural?,Transformando a Extensão Rural- Projeto Piloto Epagri e ATER+ Digital,SIM
+14,P014,PRESENTE,Como a extensão universitária e a sustentabilidade em rede se articulam no assentamento rural Itamarati?,Extensão universitária e sustentabilidade em rede- a experiência do assentamento rural Itamarati,SIM
+15,P015,PRESENTE,Quais caminhos são apresentados para a criação agroecológica de animais?,Construindo caminhos para a criação agroecológica de animais,SIM
+16,P016,PRESENTE,O que são os hubs da Plataforma ATER+ Digital desenvolvidos pela Embrapa Meio Ambiente?,Plataforma Ater+ Digital- Hubs desenvolvidos pela Embrapa Meio Ambiente,SIM
+17,P017,PRESENTE,Como as mídias digitais são utilizadas na ATER?,Uso das mídias digitais na ATER,SIM
+18,P018,PRESENTE,Quais são os desafios e as possibilidades do desenvolvimento rural em tempos de transformação?,Desenvolvimento rural em tempos de transformação- desafios e possibilidades,SIM
+19,P019,PRESENTE,O que é o PAS Nordeste e como funcionam as Redes Territoriais de ATER?,PAS Nordeste e as Redes Territoriais de ATER,SIM
+20,P020,PRESENTE,"Quais são as perspectivas digitais para a ATER envolvendo digitalização, letramento digital, autodeclaração e políticas públicas?","Perspectivas digitais para a ATER- digitalização, letramento digital, autodeclaração e p. públicas",SIM
+21,P021,PRESENTE,Como o WhatsApp é utilizado na comunicação rural para promover diálogos?,"Semeando mensagens, colhendo diálogos- a comunicação rural e o uso do WhatsApp",SIM
+22,P022,PRESENTE,Quais são as contribuições do Pila Verde e do Pila Azul para a segurança alimentar e a qualidade de vida?,Segurança Alimentar e Qualidade de Vida contribuições do Pila Verde e Pila Azul,SIM
+23,P023,PRESENTE,Como a Extensão Rural atua como protagonista nas Caminhadas Internacionais na Natureza e no turismo?,Caminhadas Internacional na Natureza Extensão Rural como protagonista do turismo,SIM
+24,P024,PRESENTE,"Como a Extensão Rural atuou diante dos impactos das chuvas, cheias e estiagem no Rio Grande do Sul?","Ações da Extensão Rural impactos das chuvas, cheias e estiagem no Rio Grande do Sul",SIM
+25,P025,PRESENTE,O que é cidadania alimentar e como ela pode contribuir para a transformação dos sistemas alimentares?,A cidadania alimentar para a transformação dos sistemas alimentares,SIM
+26,P026,PRESENTE,Como a educação em saúde contribui para a prevenção da Cria Pútrida Americana?,A educação em saúde na prevenção da Cria Pútrida Americana,SIM
+27,P027,PRESENTE,Qual foi o balanço da PNATER em 2023 e 2024 apresentado pelo DATER e pelo MDA?,Avaliação do Balanço da PNATER 2023 2024 DATER MDA,SIM
+28,P028,PRESENTE,Quais ações com pessoas com deficiência são realizadas na Extensão Social?,Ações com PCDs na Extensão Social,SIM
+29,P029,PRESENTE,Como o Sistema Asbraer apoia a formação de extensionistas e o uso de tecnologia no campo?,Sistema Asbraer para formação de extensionistas e uso de tecnologia no campo,SIM
+30,P030,PRESENTE,Como a ATER trabalha com povos tradicionais quilombolas do Rio Grande do Sul?,ATERS com povos tradicionais quilombolas do RS,SIM
+31,P031,PRESENTE,Quais são os desafios e as oportunidades da produção orgânica na agricultura familiar?,Desafios e oportunidades da produção orgânica na agricultura familiar,SIM
+32,P032,PRESENTE,Como a homeopatia é apresentada como ferramenta de saúde e qualidade de vida no campo?,Homeopatia como ferramenta de saúde e qualidade de vida no campo,SIM
+33,P033,PRESENTE,Quais são as potencialidades e os desafios da Tecnologia da Informação na agricultura familiar?,Tecnologia da Informação e Agricultura Familiar potências e desafios,SIM
+34,P034,PRESENTE,Como as metodologias participativas são aplicadas à Extensão Rural no Semiárido brasileiro?,Metodologias participativas na Extensão Rural no contexto do Semiárido Brasileiro,SIM
+35,P035,PRESENTE,Como ocorre a construção do conhecimento em uma ATER feminista e agroecológica no Nordeste do Brasil?,A construção do conhecimento em ATER feminista e agroecológica no Nordeste do Brasil,SIM
+36,P036,PRESENTE,"Como o plano de vida rural, a ATER Digital e os negócios de impacto socioambiental se relacionam?",Plano de vida rural ATER digital e inovações em negócios de impacto socioambiental,SIM
+37,P037,PRESENTE,Como foi a experiência de uma ATER de qualidade durante a pandemia?,Experiência de ater de qualidade na pandemia,SIM
+38,P038,PRESENTE,Quais disputas envolvem a continuidade ou o fim da Extensão Rural pública?,Continuidade ou fim da Extensão Rural pública Um cenário de disputas,SIM
+39,P039,PRESENTE,Como a Escola Família Agrícola contribui para o desenvolvimento do campo?,A Escola Família Agrícola e sua contribuição para o desenvolvimento do Campo,SIM
+40,P040,PRESENTE,Qual é o impacto das ferramentas digitais nas ações de extensão?,Ações de extensão e o impacto das ferramentas digitais,SIM
+41,P041,PRESENTE,"Na relação entre ATER, ferramentas digitais e agricultura familiar, quem controla quem?","Ater, ferramentas digitais e agricultura familiar quem controla quem",SIM
+42,P042,PRESENTE,Qual é a relação entre agroecologia e construção do conhecimento na agricultura familiar?,A Agroecologia e o conhecimento na Agricultura Familiar,SIM
+43,P043,PRESENTE,Como as famílias de agricultores se apropriam do telefone celular na rua e na roça?,"Tem na rua, tem na roça a apropriação do telefone celular pelas famílias de agricultores",SIM
+44,P044,PRESENTE,Quais são os parâmetros da ATER Digital no Brasil?,Parâmetros da ATER Digital no Brasil,SIM
+45,P045,PRESENTE,Como a história da Extensão Rural Social ajuda a pensar suas perspectivas futuras?,História e perspectivas futuras da Extensão Rural Social,SIM
+46,P046,PRESENTE,"O que é a iniciativa Lamparina e como ela relaciona tecnologia digital, violência e mulheres rurais?","Lamparina tecnologia digital, violência e mulheres rurais",SIM
+47,P047,PRESENTE,Quais conteúdos e ferramentas a Plataforma ATER+ Digital oferece a extensionistas e agricultores?,Plataforma Ater+ Digital conteúdos e ferramentas para extensionistas e agricultores,SIM
+48,P048,PRESENTE,Como ocorre a adoção e a difusão da agricultura digital entre produtores rurais?,Agricultura digital adoção e difusão entre produtores rurais,SIM
+49,P049,PRESENTE,O que é o ÉdoCampo e como ele favorece a comercialização on-line de produtos rurais?,ÉdoCampo – uma oportunidade para a comercialização on line de produtos rurais,SIM
+50,P050,PRESENTE,O que a análise de usabilidade dos portais de órgãos públicos de ATER Digital identificou?,Análise da usabilidade de portais de internet de órgãos públicos de ATER digital,SIM
+51,A001,AUSENTE,Qual é a capital da Islândia?,"Islândia, Reykjavík",SIM
+52,A002,AUSENTE,Quem descobriu a penicilina?,"penicilina, Alexander Fleming",SIM
+53,A003,AUSENTE,Quem escreveu Dom Quixote?,"Dom Quixote, Miguel de Cervantes",SIM
+54,A004,AUSENTE,Quem formulou a teoria da relatividade?,"teoria da relatividade, Albert Einstein",SIM
+55,A005,AUSENTE,Qual é o ponto mais profundo dos oceanos?,"Fossa das Marianas, Challenger Deep",SIM
+56,A006,AUSENTE,Quem pintou a Mona Lisa?,"Mona Lisa, Leonardo da Vinci",SIM
+57,A007,AUSENTE,Quem escreveu Hamlet?,"Hamlet, William Shakespeare",SIM
+58,A008,AUSENTE,O que afirma o teorema de Pitágoras?,"teorema de Pitágoras, Pitágoras",SIM
+59,A009,AUSENTE,O que é a sequência de Fibonacci?,Fibonacci,SIM
+60,A010,AUSENTE,Para que serve o telescópio espacial Hubble?,Hubble,SIM
+61,A011,AUSENTE,Por que Plutão deixou de ser classificado como planeta?,Plutão,SIM
+62,A012,AUSENTE,Quais são os principais anéis de Saturno?,Saturno,SIM
+63,A013,AUSENTE,Quais são as duas luas de Marte?,"Fobos, Deimos",SIM
+64,A014,AUSENTE,Qual é a função das mitocôndrias?,mitocôndrias,SIM
+65,A015,AUSENTE,Quem propôs o modelo da dupla hélice do DNA?,"dupla hélice, Watson, Crick",SIM
+66,A016,AUSENTE,Onde fica a Grande Barreira de Corais?,Grande Barreira de Corais,SIM
+67,A017,AUSENTE,Onde fica o deserto do Saara?,deserto do Saara,SIM
+68,A018,AUSENTE,Quem construiu o Taj Mahal?,Taj Mahal,SIM
+69,A019,AUSENTE,Em qual país fica Machu Picchu?,Machu Picchu,SIM
+70,A020,AUSENTE,Quando foi construída a Grande Muralha da China?,Grande Muralha da China,SIM
+71,A021,AUSENTE,Para que serviam as pirâmides de Gizé?,pirâmides de Gizé,SIM
+72,A022,AUSENTE,Como terminou o Império Romano do Ocidente?,Império Romano do Ocidente,SIM
+73,A023,AUSENTE,Quem compôs a Nona Sinfonia?,"Nona Sinfonia, Beethoven",SIM
+74,A024,AUSENTE,Quem compôs A Flauta Mágica?,"A Flauta Mágica, Mozart",SIM
+75,A025,AUSENTE,Quem pintou A Noite Estrelada?,"A Noite Estrelada, Van Gogh",SIM
+76,A026,AUSENTE,O que a obra Guernica representa?,"Guernica, Picasso",SIM
+77,A027,AUSENTE,Quem foi Ada Lovelace?,Ada Lovelace,SIM
+78,A028,AUSENTE,Qual foi a contribuição de Alan Turing para a computação?,Alan Turing,SIM
+79,A029,AUSENTE,Quem criou o kernel Linux?,"Linus Torvalds, kernel Linux",SIM
+80,A030,AUSENTE,Quem criou a linguagem Python?,"Guido van Rossum, linguagem Python",SIM
+81,A031,AUSENTE,Quem inventou a World Wide Web?,"Tim Berners-Lee, World Wide Web",SIM
+82,A032,AUSENTE,Quem é conhecido pelo pseudônimo Satoshi Nakamoto?,"Satoshi Nakamoto, Bitcoin",SIM
+83,A033,AUSENTE,Onde é disputado o Grande Prêmio de Mônaco de Fórmula 1?,"Grande Prêmio de Mônaco, Fórmula 1",SIM
+84,A034,AUSENTE,Quem criou o mangá Naruto?,"Naruto, Masashi Kishimoto",SIM
+85,A035,AUSENTE,Quem escreveu O Senhor dos Anéis?,"O Senhor dos Anéis, Tolkien",SIM
+86,A036,AUSENTE,Quem dirigiu o primeiro filme de Star Wars?,"Star Wars, George Lucas",SIM
+87,A037,AUSENTE,Em que ano o Titanic afundou?,Titanic,SIM
+88,A038,AUSENTE,Quem foi o primeiro ser humano a pisar na Lua?,"Neil Armstrong, Apollo 11",SIM
+89,A039,AUSENTE,Qual é a missão da sonda Voyager 1?,Voyager 1,SIM
+90,A040,AUSENTE,Qual moeda é usada na Suíça?,"franco suíço, Suíça",SIM
+91,A041,AUSENTE,Qual é o maior mamífero do mundo?,baleia-azul,SIM
+92,A042,AUSENTE,Qual é o animal terrestre mais veloz?,guepardo,SIM
+93,A043,AUSENTE,Quantos corações tem um polvo?,"polvo, três corações",SIM
+94,A044,AUSENTE,O ornitorrinco põe ovos?,ornitorrinco,SIM
+95,A045,AUSENTE,Quem foi Cleópatra VII?,Cleópatra,SIM
+96,A046,AUSENTE,O que foi a Guerra dos Cem Anos?,Guerra dos Cem Anos,SIM
+97,A047,AUSENTE,Quem foi Gengis Khan?,Gengis Khan,SIM
+98,A048,AUSENTE,O que foi a Rota da Seda?,Rota da Seda,SIM
+99,A049,AUSENTE,Quem escreveu A Divina Comédia?,"A Divina Comédia, Dante Alighieri",SIM
+100,A050,AUSENTE,Quem criou o personagem Sherlock Holmes?,"Sherlock Holmes, Arthur Conan Doyle",SIM

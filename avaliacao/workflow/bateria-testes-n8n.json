@@ -1,0 +1,561 @@
+{
+    "nodes": [
+        {
+            "parameters": {
+                "content": "## Teste automatizado do RAG Aurora — Responses API\n\n1. A aba **Perguntas** é lida automaticamente.\n2. Apenas linhas com `executar = SIM` são processadas.\n3. Cada pergunta é enviada separadamente para a **Responses API**.\n4. Antes de responder, o Aurora consulta o **File Search / Vector Store**.\n5. O resultado e os dados de auditoria do RAG são gravados em **Resultados - Responses API**.\n6. O intervalo de 2 segundos reduz chamadas em sequência.\n\nConfiguração usada neste teste:\n- modelo: `gpt-4o`\n- max_num_results: `8`\n- score_threshold: `0.30`\n- vector store: `Legendas-Cursos`\n\nO workflow não usa o Assistant antigo.",
+                "height": 310,
+                "width": 500
+            },
+            "id": "20e392ba-984c-4323-a2a4-f087ce9da74b",
+            "name": "Instruções",
+            "type": "n8n-nodes-base.stickyNote",
+            "typeVersion": 1,
+            "position": [
+                256,
+                -208
+            ]
+        },
+        {
+            "parameters": {},
+            "id": "f4b4e8af-91c3-4795-b2f3-85b0915672a5",
+            "name": "Iniciar teste manualmente",
+            "type": "n8n-nodes-base.manualTrigger",
+            "typeVersion": 1,
+            "position": [
+                80,
+                432
+            ]
+        },
+        {
+            "parameters": {
+                "documentId": {
+                    "__rl": true,
+                    "value": "1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk",
+                    "mode": "id"
+                },
+                "sheetName": {
+                    "__rl": true,
+                    "value": "Perguntas",
+                    "mode": "name"
+                },
+                "options": {
+                    "dataLocationOnSheet": {
+                        "values": {
+                            "rangeDefinition": "detectAutomatically",
+                            "readRowsUntil": "firstEmptyRow"
+                        }
+                    }
+                }
+            },
+            "id": "b6198ca2-ddef-469f-a2a1-970b62788c9b",
+            "name": "Ler perguntas da planilha",
+            "type": "n8n-nodes-base.googleSheets",
+            "typeVersion": 4.7,
+            "position": [
+                320,
+                432
+            ],
+            "credentials": {
+                "googleSheetsOAuth2Api": {
+                    "id": "ZIeLO4W8nR1RQY7o",
+                    "name": "Google Sheets account 2"
+                }
+            }
+        },
+        {
+            "parameters": {
+                "jsCode": "const execucaoId = new Date().toISOString();\nconst entrada = $input.all();\nconst selecionadas = [];\n\nfor (let index = 0; index < entrada.length; index++) {\n  const item = entrada[index];\n  const executar = String(item.json.executar ?? '')\n    .trim()\n    .normalize('NFD')\n    .replace(/[\\u0300-\\u036f]/g, '')\n    .toUpperCase();\n\n  if (executar !== 'SIM') continue;\n\n  selecionadas.push({\n    json: {\n      execucao_id: execucaoId,\n      ordem: Number(item.json.ordem ?? selecionadas.length + 1),\n      codigo: String(item.json.codigo ?? ''),\n      grupo: String(item.json.grupo ?? ''),\n      pergunta: String(item.json.pergunta ?? '').trim(),\n      referencia_esperada: String(item.json.referencia_esperada ?? ''),\n      executar: String(item.json.executar ?? ''),\n    },\n    pairedItem: {\n      item: index,\n    },\n  });\n}\n\nselecionadas.sort((a, b) => a.json.ordem - b.json.ordem);\n\nreturn selecionadas;"
+            },
+            "id": "ab86bf36-051f-4c0c-b95e-6ae8bcd7fcf2",
+            "name": "Selecionar perguntas com SIM",
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+                560,
+                432
+            ]
+        },
+        {
+            "parameters": {
+                "options": {}
+            },
+            "id": "7b2385cd-5844-45dd-be37-a1e993e6870b",
+            "name": "Executar uma pergunta por vez",
+            "type": "n8n-nodes-base.splitInBatches",
+            "typeVersion": 3,
+            "position": [
+                832,
+                432
+            ]
+        },
+        {
+            "parameters": {
+                "jsCode": "return $input.all().map((item, index) => ({\n  json: {\n    ...item.json,\n    inicio_ms: Date.now(),\n  },\n  pairedItem: item.pairedItem ?? { item: index },\n}));"
+            },
+            "id": "03c2fdf6-30cd-4438-913c-94e877baad4d",
+            "name": "Marcar início",
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+                1088,
+                304
+            ]
+        },
+        {
+            "parameters": {
+                "jsCode": "return $input.all().map((item, index) => ({\n  json: {\n    ...item.json,\n    model: 'gpt-4o',\n    vector_store_id: 'vs_690c1282cf84819191e521debc5f315c',\n    instructions: \"Você é um agente da Rede Aurora.\\n\\nSua principal função é SEMPRE consultar primeiro as transcrições dos vídeos da Rede Aurora disponíveis na ferramenta de busca de arquivos antes de responder qualquer pergunta.\\n\\nREGRA 1 — QUANDO A RESPOSTA FOR ENCONTRADA NAS TRANSCRIÇÕES\\n\\nSe houver conteúdo relevante nas transcrições que permita responder à pergunta, a resposta deve obrigatoriamente começar exatamente com:\\n\\nEncontrei essa resposta nas transcrições da Rede Aurora.\\n\\nEm seguida:\\n- Responda utilizando apenas as informações encontradas nas transcrições.\\n- Não complemente essa resposta com conhecimento externo.\\n- Informe ao final o vídeo correspondente.\\n- Converta o start_time da transcrição para segundos.\\n- Forneça o link no formato:\\n\\nhttps://youtu.be/VIDEO_ID?t=SEGUNDOS\\n\\nExemplo:\\n\\nhttps://youtu.be/3I4kSaD1sNs?t=2906\\n\\n\\nREGRA 2 — QUANDO A RESPOSTA NÃO FOR ENCONTRADA NAS TRANSCRIÇÕES\\n\\nSe a busca nas transcrições não retornar conteúdo relevante para responder à pergunta, a resposta deve obrigatoriamente começar exatamente com:\\n\\nNão encontrei essa resposta nas transcrições da Rede Aurora. A resposta abaixo utiliza conhecimento externo.\\n\\nDepois disso, responda utilizando seu próprio conhecimento.\\n\\nNunca diga que uma informação veio das transcrições se a busca não encontrou conteúdo relevante.\"\n  },\n  pairedItem: item.pairedItem ?? { item: index },\n}));"
+            },
+            "id": "dacfe288-dc3a-4d34-ae49-1101b67f79bd",
+            "name": "Configuração Aurora",
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+                1344,
+                304
+            ]
+        },
+        {
+            "parameters": {
+                "method": "POST",
+                "url": "https://api.openai.com/v1/responses",
+                "authentication": "predefinedCredentialType",
+                "nodeCredentialType": "openAiApi",
+                "sendBody": true,
+                "specifyBody": "json",
+                "jsonBody": "={{\n{\n  model: $json.model,\n  instructions: $json.instructions,\n  input: $json.pergunta,\n  tools: [\n    {\n      type: \"file_search\",\n      vector_store_ids: [\n        $json.vector_store_id\n      ],\n      max_num_results: 8,\n      ranking_options: {\n        ranker: \"auto\",\n        score_threshold: 0.30\n      }\n    }\n  ],\n  include: [\n    \"file_search_call.results\"\n  ],\n  store: true\n}\n}}",
+                "options": {
+                    "timeout": 120000
+                }
+            },
+            "id": "7b921a4a-11cc-47d3-9207-c3a8e4dba834",
+            "name": "OpenAI - Responses API + RAG",
+            "type": "n8n-nodes-base.httpRequest",
+            "typeVersion": 4.2,
+            "position": [
+                1600,
+                304
+            ],
+            "retryOnFail": true,
+            "maxTries": 3,
+            "waitBetweenTries": 2000,
+            "credentials": {
+                "openAiApi": {
+                    "id": "KvNib5mkchoQyCMb",
+                    "name": "OpenAi account"
+                }
+            }
+        },
+        {
+            "parameters": {
+                "jsCode": "const response = $input.first().json;\nconst dados = $('Configuração Aurora').item.json;\n\nconst output = Array.isArray(response.output) ? response.output : [];\n\nconst mensagens = output.filter(item => item.type === 'message');\nconst resposta = mensagens\n  .flatMap(item => Array.isArray(item.content) ? item.content : [])\n  .filter(item => item.type === 'output_text')\n  .map(item => item.text || '')\n  .join('\\n')\n  .trim();\n\nconst buscas = output.filter(item => item.type === 'file_search_call');\nconst resultados = buscas.flatMap(item =>\n  Array.isArray(item.results) ? item.results : []\n);\n\nconst scores = resultados\n  .map(r => Number(r.score))\n  .filter(Number.isFinite);\n\nconst arquivos = [...new Set(\n  resultados.map(r => String(r.filename || '')).filter(Boolean)\n)];\n\nlet erro = '';\nif (!resposta) {\n  erro = response.error?.message\n    ? String(response.error.message)\n    : (response.error ? JSON.stringify(response.error) : 'A Responses API não retornou uma resposta.');\n}\n\nreturn [{\n  json: {\n    execucao_id: String(dados.execucao_id ?? ''),\n    ordem: Number(dados.ordem ?? 0),\n    codigo: String(dados.codigo ?? ''),\n    grupo: String(dados.grupo ?? ''),\n    pergunta: String(dados.pergunta ?? ''),\n    referencia_esperada: String(dados.referencia_esperada ?? ''),\n    resposta: resposta,\n    response_id: String(response.id ?? ''),\n    status: resposta ? 'OK' : 'ERRO',\n    erro: erro,\n    duracao_ms: Math.max(0, Date.now() - Number(dados.inicio_ms ?? Date.now())),\n    timestamp: new Date().toLocaleString('pt-BR', {\n      timeZone: 'America/Sao_Paulo',\n      hour12: false,\n    }),\n    rag_consultado: buscas.length > 0,\n    rag_encontrou_resultados: resultados.length > 0,\n    quantidade_resultados_rag: resultados.length,\n    melhor_score_rag: scores.length ? Math.max(...scores) : 0,\n    arquivos_rag: arquivos.join(' | '),\n    avaliacao_manual: '',\n    observacoes: '',\n  }\n}];"
+            },
+            "id": "809395d8-aca0-45ae-ad35-3ce49f03b6dc",
+            "name": "Montar resultado",
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+                1872,
+                304
+            ]
+        },
+        {
+            "parameters": {
+                "operation": "append",
+                "documentId": {
+                    "__rl": true,
+                    "value": "1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk",
+                    "mode": "id"
+                },
+                "sheetName": {
+                    "__rl": true,
+                    "value": "Resultados - Responses API",
+                    "mode": "name"
+                },
+                "columns": {
+                    "mappingMode": "autoMapInputData",
+                    "value": {
+                        "execucao_id": "={ $json.execucao_id }",
+                        "ordem": "={ $json.ordem }",
+                        "codigo": "={ $json.codigo }",
+                        "grupo": "={ $json.grupo }",
+                        "pergunta": "={ $json.pergunta }",
+                        "referencia_esperada": "={ $json.referencia_esperada }",
+                        "resposta": "={ $json.resposta }",
+                        "response_id": "={ $json.response_id }",
+                        "status": "={ $json.status }",
+                        "erro": "={ $json.erro }",
+                        "duracao_ms": "={ $json.duracao_ms }",
+                        "timestamp": "={ $json.timestamp }",
+                        "rag_consultado": "={ $json.rag_consultado }",
+                        "rag_encontrou_resultados": "={ $json.rag_encontrou_resultados }",
+                        "quantidade_resultados_rag": "={ $json.quantidade_resultados_rag }",
+                        "melhor_score_rag": "={ $json.melhor_score_rag }",
+                        "arquivos_rag": "={ $json.arquivos_rag }",
+                        "avaliacao_manual": "={ $json.avaliacao_manual }",
+                        "observacoes": "={ $json.observacoes }"
+                    },
+                    "matchingColumns": [],
+                    "schema": [
+                        {
+                            "id": "execucao_id",
+                            "displayName": "execucao_id",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "ordem",
+                            "displayName": "ordem",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "codigo",
+                            "displayName": "codigo",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "grupo",
+                            "displayName": "grupo",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "pergunta",
+                            "displayName": "pergunta",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "referencia_esperada",
+                            "displayName": "referencia_esperada",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "resposta",
+                            "displayName": "resposta",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "response_id",
+                            "displayName": "response_id",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "status",
+                            "displayName": "status",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "erro",
+                            "displayName": "erro",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "duracao_ms",
+                            "displayName": "duracao_ms",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "timestamp",
+                            "displayName": "timestamp",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "rag_consultado",
+                            "displayName": "rag_consultado",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "rag_encontrou_resultados",
+                            "displayName": "rag_encontrou_resultados",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "quantidade_resultados_rag",
+                            "displayName": "quantidade_resultados_rag",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "melhor_score_rag",
+                            "displayName": "melhor_score_rag",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "arquivos_rag",
+                            "displayName": "arquivos_rag",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "avaliacao_manual",
+                            "displayName": "avaliacao_manual",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        },
+                        {
+                            "id": "observacoes",
+                            "displayName": "observacoes",
+                            "required": false,
+                            "defaultMatch": false,
+                            "display": true,
+                            "type": "string",
+                            "canBeUsedToMatch": true,
+                            "removed": false
+                        }
+                    ],
+                    "attemptToConvertTypes": false,
+                    "convertFieldsToString": false
+                },
+                "options": {}
+            },
+            "id": "6c638dd7-20ec-4088-927d-91e7a4bcc8a5",
+            "name": "Gravar resultado na planilha",
+            "type": "n8n-nodes-base.googleSheets",
+            "typeVersion": 4.7,
+            "position": [
+                2128,
+                304
+            ],
+            "credentials": {
+                "googleSheetsOAuth2Api": {
+                    "id": "ZIeLO4W8nR1RQY7o",
+                    "name": "Google Sheets account 2"
+                }
+            }
+        },
+        {
+            "parameters": {
+                "jsCode": "return [{\n  json: {\n    status: 'CONCLUIDO',\n    concluido_em: new Date().toLocaleString('pt-BR', {\n      timeZone: 'America/Sao_Paulo',\n      hour12: false,\n    }),\n    destino: 'Resultados - Responses API',\n    planilha: 'https://docs.google.com/spreadsheets/d/1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk/edit',\n  },\n}];"
+            },
+            "id": "972aba21-a8f0-4fbb-8338-f1be63325f7f",
+            "name": "Teste concluído",
+            "type": "n8n-nodes-base.code",
+            "typeVersion": 2,
+            "position": [
+                1088,
+                608
+            ]
+        },
+        {
+            "parameters": {
+                "amount": 0.5
+            },
+            "id": "27442a9b-69b5-4118-ab2d-7124e40afd00",
+            "name": "Aguardar",
+            "type": "n8n-nodes-base.wait",
+            "typeVersion": 1.1,
+            "position": [
+                2384,
+                304
+            ],
+            "webhookId": "d4a03550-e82c-4268-97dc-a1bdf80b5e28"
+        }
+    ],
+    "connections": {
+        "Iniciar teste manualmente": {
+            "main": [
+                [
+                    {
+                        "node": "Ler perguntas da planilha",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Ler perguntas da planilha": {
+            "main": [
+                [
+                    {
+                        "node": "Selecionar perguntas com SIM",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Selecionar perguntas com SIM": {
+            "main": [
+                [
+                    {
+                        "node": "Executar uma pergunta por vez",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Executar uma pergunta por vez": {
+            "main": [
+                [
+                    {
+                        "node": "Teste concluído",
+                        "type": "main",
+                        "index": 0
+                    }
+                ],
+                [
+                    {
+                        "node": "Marcar início",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Marcar início": {
+            "main": [
+                [
+                    {
+                        "node": "Configuração Aurora",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Configuração Aurora": {
+            "main": [
+                [
+                    {
+                        "node": "OpenAI - Responses API + RAG",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "OpenAI - Responses API + RAG": {
+            "main": [
+                [
+                    {
+                        "node": "Montar resultado",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Montar resultado": {
+            "main": [
+                [
+                    {
+                        "node": "Gravar resultado na planilha",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Gravar resultado na planilha": {
+            "main": [
+                [
+                    {
+                        "node": "Aguardar",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Aguardar": {
+            "main": [
+                [
+                    {
+                        "node": "Executar uma pergunta por vez",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        }
+    },
+    "pinData": {},
+    "meta": {
+        "instanceId": "9401cc7f40dc09679a51bc0c2403d6b65b9a03e87295060277dce11a76f12f42"
+    }
+}
