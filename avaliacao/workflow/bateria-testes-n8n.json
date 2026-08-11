@@ -30,7 +30,7 @@
             "parameters": {
                 "documentId": {
                     "__rl": true,
-                    "value": "1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk",
+                    "value": "SUBSTITUIR_PELA_PLANILHA_ID",
                     "mode": "id"
                 },
                 "sheetName": {
@@ -57,7 +57,7 @@
             ],
             "credentials": {
                 "googleSheetsOAuth2Api": {
-                    "id": "ZIeLO4W8nR1RQY7o",
+                    "id": "SUBSTITUIR_PELO_googleSheets_ID",
                     "name": "Google Sheets account 2"
                 }
             }
@@ -140,7 +140,7 @@
             "waitBetweenTries": 2000,
             "credentials": {
                 "openAiApi": {
-                    "id": "KvNib5mkchoQyCMb",
+                    "id": "SUBSTITUIR_PELO_OPENAI_ID",
                     "name": "OpenAi account"
                 }
             }
@@ -163,7 +163,7 @@
                 "operation": "append",
                 "documentId": {
                     "__rl": true,
-                    "value": "1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk",
+                    "value": "SUBSTITUIR_PELA_PLANILHA_ID",
                     "mode": "id"
                 },
                 "sheetName": {
@@ -402,14 +402,14 @@
             ],
             "credentials": {
                 "googleSheetsOAuth2Api": {
-                    "id": "ZIeLO4W8nR1RQY7o",
+                    "id": "SUBSTITUIR_PELO_googleSheets_ID",
                     "name": "Google Sheets account 2"
                 }
             }
         },
         {
             "parameters": {
-                "jsCode": "return [{\n  json: {\n    status: 'CONCLUIDO',\n    concluido_em: new Date().toLocaleString('pt-BR', {\n      timeZone: 'America/Sao_Paulo',\n      hour12: false,\n    }),\n    destino: 'Resultados - Responses API',\n    planilha: 'https://docs.google.com/spreadsheets/d/1znoFo_WsC_xx8pW7hM3GjS7cdfdRBpkoxYAZa21qcKk/edit',\n  },\n}];"
+                "jsCode": "return [{\n  json: {\n    status: 'CONCLUIDO',\n    concluido_em: new Date().toLocaleString('pt-BR', {\n      timeZone: 'America/Sao_Paulo',\n      hour12: false,\n    }),\n    destino: 'Resultados - Responses API',\n    planilha: 'https://docs.google.com/spreadsheets/d/SUBSTITUIR_PELA_PLANILHA_ID',\n  },\n}];"
             },
             "id": "972aba21-a8f0-4fbb-8338-f1be63325f7f",
             "name": "Teste concluído",
@@ -422,7 +422,7 @@
         },
         {
             "parameters": {
-                "amount": 2
+                "amount": 0.5
             },
             "id": "27442a9b-69b5-4118-ab2d-7124e40afd00",
             "name": "Aguardar",
@@ -432,7 +432,7 @@
                 2384,
                 304
             ],
-            "webhookId": "d4a03550-e82c-4268-97dc-a1bdf80b5e28"
+            "webhookId": "SUBSTITUIR_PELO_webhookId"
         }
     ],
     "connections": {
@@ -556,6 +556,6 @@
     },
     "pinData": {},
     "meta": {
-        "instanceId": "9401cc7f40dc09679a51bc0c2403d6b65b9a03e87295060277dce11a76f12f42"
+        "instanceId": "SUBSTITUIR_PELA_INSTANCE_ID"
     }
 }

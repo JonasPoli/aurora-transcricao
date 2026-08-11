@@ -572,3 +572,20 @@ Para recriar as transcrições a partir do zero (ex: verificação independente)
 ```
 
 > **Nota:** vídeos podem ser removidos ou suas legendas alteradas ao longo do tempo. A versão arquivada no repositório (`downloads/`) representa o estado do corpus na data de coleta registrada nos arquivos `id_*.txt`.
+
+
+## Avaliação técnica do chatbot RAG
+
+Os materiais utilizados na avaliação técnica do chatbot desenvolvido
+na dissertação estão disponíveis na pasta [`avaliacao/`](avaliacao/).
+
+Essa pasta contém:
+
+- a bateria controlada de 100 perguntas;
+- os resultados obtidos na execução;
+- a planilha consolidada da avaliação;
+- o workflow n8n utilizado no experimento;
+- as instruções fornecidas ao agente.
+
+Para detalhes metodológicos e informações sobre reprodutibilidade,
+consulte [`avaliacao/README.md`](avaliacao/README.md).
