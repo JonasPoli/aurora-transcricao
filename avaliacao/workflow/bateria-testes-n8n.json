@@ -2,7 +2,7 @@
     "nodes": [
         {
             "parameters": {
-                "content": "## Teste automatizado do RAG Aurora — Responses API\n\n1. A aba **Perguntas** é lida automaticamente.\n2. Apenas linhas com `executar = SIM` são processadas.\n3. Cada pergunta é enviada separadamente para a **Responses API**.\n4. Antes de responder, o Aurora consulta o **File Search / Vector Store**.\n5. O resultado e os dados de auditoria do RAG são gravados em **Resultados - Responses API**.\n6.O intervalo de 0,5 segundo reduz chamadas em sequência.\n\nConfiguração usada neste teste:\n- modelo: `gpt-4o`\n- max_num_results: `8`\n- score_threshold: `0.30`\n- vector store: `Legendas-Cursos`\n\nO workflow não usa o Assistant antigo.",
+                "content": "## Teste automatizado do RAG Aurora — Responses API\n\n1. A aba **Perguntas** é lida automaticamente.\n2. Apenas linhas com `executar = SIM` são processadas.\n3. Cada pergunta é enviada separadamente para a **Responses API**.\n4. Antes de responder, o Aurora consulta o **File Search / Vector Store**.\n5. O resultado e os dados de auditoria do RAG são gravados na aba Resultados.\n6. O intervalo de 0,5 segundo reduz chamadas em sequência.\n\nConfiguração usada neste teste:\n- modelo: `gpt-4o`\n- max_num_results: `8`\n- score_threshold: `0.30`\n- vector store: `Legendas-Cursos`\n\nO workflow não usa o Assistant antigo.",
                 "height": 310,
                 "width": 500
             },
