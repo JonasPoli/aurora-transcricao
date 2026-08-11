@@ -222,6 +222,14 @@ Dissertação:
 
 ---
 
+## Arquivamento e DOI
+
+A versão dos materiais utilizada na dissertação foi preservada no Zenodo.
+
+**DOI:** https://doi.org/10.5281/zenodo.21893347
+
+Versão: `v1.0`
+
 ## Uso acadêmico
 
 Os materiais disponibilizados neste diretório têm finalidade acadêmica e de pesquisa.

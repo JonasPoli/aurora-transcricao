@@ -589,3 +589,7 @@ Essa pasta contém:
 
 Para detalhes metodológicos e informações sobre reprodutibilidade,
 consulte [`avaliacao/README.md`](avaliacao/README.md).
+
+A versão dos materiais utilizada na dissertação também está arquivada no Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.21893347
